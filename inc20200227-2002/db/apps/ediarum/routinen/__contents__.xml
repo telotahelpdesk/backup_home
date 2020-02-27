@@ -1,8 +1,0 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/ediarum/routinen" version="1" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.855+01:00">
-    <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="scheduler.xql" skip="yes" owner="admin" group="dba" mode="2755" created="2019-12-21T08:42:42.856+01:00" modified="2019-12-21T08:42:42.856+01:00" filename="scheduler.xql" mimetype="application/xquery">
-        <acl entries="0" version="1"/>
-    </resource>
-    <subcollection name="trigger" filename="trigger"/>
-    <subcollection name="scheduler" filename="scheduler"/>
-</collection>

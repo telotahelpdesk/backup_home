@@ -1,9 +1,0 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/project1/data/Register" version="1" owner="admin" group="project1-nutzer" mode="770" created="2019-12-21T08:43:19.258+01:00">
-    <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Personen.xml" skip="yes" owner="admin" group="project1-nutzer" mode="660" created="2019-12-21T09:17:33.712+01:00" modified="2019-12-21T09:17:33.712+01:00" filename="Personen.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="Orte.xml" skip="yes" owner="admin" group="project1-nutzer" mode="660" created="2019-12-21T09:17:11.124+01:00" modified="2019-12-21T09:17:11.124+01:00" filename="Orte.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-</collection>
