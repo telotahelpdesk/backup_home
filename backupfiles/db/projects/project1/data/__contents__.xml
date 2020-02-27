@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/project1/data" version="1" owner="admin" group="project1-nutzer" mode="770" created="2019-12-21T08:43:19.254+01:00">
+    <acl entries="0" version="1"/>
+    <subcollection name="Briefe" filename="Briefe"/>
+    <subcollection name="Register" filename="Register"/>
+    <subcollection name="ediarum.project1.edit" filename="ediarum.project1.edit"/>
+</collection>

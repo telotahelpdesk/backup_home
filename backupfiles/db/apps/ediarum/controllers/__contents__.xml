@@ -1,0 +1,16 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/ediarum/controllers" version="1" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.589+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="project-pages-controller.xql" skip="no" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.589+01:00" modified="2019-12-21T08:42:42.589+01:00" filename="project-pages-controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="admin-pages-controller.xql" skip="no" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.59+01:00" modified="2019-12-21T08:42:42.59+01:00" filename="admin-pages-controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="static-pages-controller.xql" skip="no" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.591+01:00" modified="2019-12-21T08:42:42.591+01:00" filename="static-pages-controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="template-pages-controller.xql" skip="no" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.591+01:00" modified="2019-12-21T08:42:42.591+01:00" filename="template-pages-controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="project-pages" filename="project-pages"/>
+</collection>

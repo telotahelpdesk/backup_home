@@ -1,0 +1,2196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="lecture goedel" xml:id="goedel_ckf_yzq_xv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heinrich Gomperz, Vorlesung: Geschichte der europäischen Philosophie,
+                    Wintersemester  1925/26; Mitschrift von Kurt Gödel</title>
+                <title>, II. Teil; sowie Gödels Exzerpte aus: Heinrich Gomperz, Über Sinn und
+                    Sinngebilde. Verstehen und Erklären, Tübingen 1929</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Gödels Notizbücher</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>
+                            <msIdentifier>
+                                <p>G</p>
+                                <p>ödel-Nachlass</p>
+                                <p>, Firestone Library, Manuscript Division, Department of Rare
+                                    Books and Special Collections, Princeton University Library</p>
+                                <p>, Serie III, Box 6b, Convolut 72,6; ursprüngliche
+                                    Dokumentnummer</p>
+                                <p> 030100.5.</p>
+                            </msIdentifier>
+                        </institution>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Schwarzer Heftumschlag aus Kunststoff, auf dem schwarzen Umschlag ist mit
+                            Handschrift kaum noch lesbar groß 'Gomperz 26' geschrieben . Heftpapier
+                            stark vergilbt, hellgrau/hellblaue Karos. Es handelt sich um ein
+                            Doppelheft. Der eine Teil des Doppelheftes und einige Seiten der anderen
+                            Doppelhefthälfte enthält die Mitschrift vom zweiten Teil der
+                            Gomperz-Vorlesung zur Geschichte der Philosophie, Winter 1925; dort ist
+                            am Anfang auch ein loses Blatt eingelegt, das Exzerpte aus dem 1929 bei
+                            Mohr in Tübingen erschienene Werk von Heinrich Gomperz, <ex>"Über Sinn
+                                und Sinngebilde. Verstehen und Erklären</ex>" enthält. Der andere
+                            Teil des Doppelheftes beginnt in der umgekehrten entgegengesetzten
+                            Richtung und ist mit Rechungen beschrieben.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>Fortsetzung der Vorlesungsmitschrift von Gomperz’ Vorlesung „Übersicht über die
+                    Geschichte der Philosophie“. Neues Notizheft, Fortsetzung des Wintersemester
+                    1925/1926. Auf den ersten drei Seiten finden sich mathematische Berechnungen,
+                    dann folgt eine leere Seite, ehe die Fortsetzung der Mitschrift auf Seite fünf
+                    des Notizheftes beginnt.</p>
+                <p>
+                    <pb n=""/>
+                </p>
+                <p>[1] <hi rendition="#normal">Roger Bacon</hi> nach und <gap unit="words" quantity="1" reason="illegible"/> schauen <lb/>
+                    <hi rendition="#normal">Andreas Vesalius</hi>
+                    <lb/>
+                    <hi rendition="#normal">Copern<ex>icus</ex> Kepler Galiliei</hi>
+                    <lb/>
+                    <hi rendition="#normal">Pierre Gassendi</hi> – 1650 Erneuerer des <hi rendition="#normal">Epicur</hi>
+                    <lb/>
+                    <hi rendition="#normal">Giordano Bruno</hi> – 1600 <lb/>
+                    <hi rendition="#normal">Bacon v. Verulam</hi> – 1620<lb/>Nominalist <lb/>
+                    <hi rendition="#normal">Hobbes Thomas</hi> – 1680 Materialist <hi rendition="#normal">bellum omn<ex>ium</ex>
+                    </hi>. Empfindungen sind Täuschungen <lb/>
+                    <hi rendition="#normal">Descartes</hi> – 1650 <lb/>
+                    <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">Geulin<choice>
+                                    <sic>x</sic>
+                                    <corr cert="high">cx</corr>
+                                </choice>
+                            </hi>
+                        </orig>
+                        <note xml:id="nkzc_kwl_vw">Arnold Geulincx 1624 – 1669 ist neben Malebranche
+                            einer der Hauptvertreter des Okkasionalismus.</note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">Malebranche</hi>
+                        </orig>
+                        <note xml:id="ni2v_lwl_vw">Nicolas Malebranche 1638 – 1715.</note>
+                    </seg> (Okkasionalismus) <lb/>
+                    <hi rendition="#normal">Spinoza</hi> – 1677 <lb/>
+                    <hi rendition="#normal">Leibniz</hi> – 1716 </p>
+                <p>[2] Seite frei gelassen</p>
+                <p>
+                    <seg type="comment">
+                        <orig>[leeres Blatt, beidseitig beschrieben, nachträglich eingelegt]</orig>
+                        <note xml:id="nhn3_q1x_5w">
+                            <seg type="comment">Auf den Seiten finden sich Fragen und Notizen zu
+                                verschiedenen Seiten- und Zeilenangaben eines Buches. Dank Christoph
+                                Limbeck-Lilienau konnte das von Gödel gelesene und annotierte Buch
+                                identifiziert werden. Es handelt sich um das 1929 bei Mohr in
+                                Tübingen erschienene Werk von Heinrich Gomperz „Über Sinn und
+                                Sinngebilde. Verstehen und Erklären“. Das bedeutet, dass Gödel das
+                                Notizbuch nach 1929 noch weitergeführt hat. Es zeigt zudem, dass er
+                                sich bereits zu dieser Zeit intensiv mit Fragen der
+                                Sprachphilosophie, Hermeneutik und der Philosophie des Geistes
+                                befasst hat. Da die Exzerpte für Gödels spätere Beschäftigung mit
+                                der Philosophie des Geistes sehr aufschlussreich sind, wurden sie
+                                vollständig transkribiert und die entsprechenden Zitatstellen in
+                                Gomperz’ Buch „Über Sinn und Sinngebilde. Verstehen und Erklären“
+                                nachgeschlagen und ergänzt. Gödels Gründe, die Exzerpte in dieses
+                                Heft einzutragen, dürften darin zu sehen sein, dass die beiden Hefte
+                                von Gödel als Notizhefte zu Gomperz angelegt worden sind.</seg>
+                        </note>
+                    </seg>
+                </p>
+                <p>Worin liegt der Unterschied<ex>?,</ex> dass<ex>:</ex> 1. jedes Sinngebilde
+                        <supplied cert="high" prev="">hat</supplied> einen geistigen
+                        Gehalt<ex>,</ex> 2. Sinn ist etwas Geistiges (Es gibt eine Idee des Sinns). <lb/>
+                    <del rendition="#s">S. 91 18. Zeile von</del>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 91 <hi rendition="#normal">Z</hi> 18 <hi rendition="#normal">v<ex>on</ex> u<ex>nten</ex>
+                    </hi>
+                    <seg type="comment">
+                        <orig>Was Sinn hat<ex>,</ex> hat Zweck</orig>
+                        <note xml:id="nsn5_dlq_dw"> Gomperz, „Über Sinn“, S. 91: „Was Sinn hat, weil
+                            sich’s erklären, einsehen läßt, das dient dem Zweck der Uebersicht und
+                            der Voraussicht, sowie dem der Erweiterung und Festigung des Wissens.
+                            Insoweit ist zwar nicht jedem Sinn = Zweck, wohl aber dient ein jeder
+                            zumindest einem Zwecke.“ </note>
+                    </seg>
+                    <ex>.</ex> Wie ist es mit den Naturgesetzen<ex>?</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 92 <hi rendition="#normal">Z</hi> 11 <hi rendition="#normal">v<ex>on</ex> u<ex>nten</ex>
+                    </hi>
+                    <seg type="comment">
+                        <orig>Sinn hat alles<ex>,</ex> was <gap unit="words" quantity="1" reason="illegible"/> aufgefasst werden kann</orig>
+                        <note xml:id="nihy_klq_dw"> Gomperz, „Über Sinn“, S. 91: „Verstehen setzt
+                            nicht nur die Bereitschaft zu einer bestimmten Art der Auffassung
+                            voraus, sondern auch die Vollziehbarkeit der Auffassungsart. Wo nun
+                            diese fehlt [...], da unternehmen wir zwar den Versuch, eine bestimmte
+                            Art der Auffassung durchzuführen, allein dieser Versuch kann nur mit
+                            einem Fehlschlag enden.“ </note>
+                    </seg>
+                    <ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 96 <seg type="comment">
+                        <orig>Wie sieht ein Gebilde aus, dem Sinn schlechthin, aber nicht Sinn als
+                            solcher zukommt</orig>
+                        <note xml:id="nvnf_xlq_dw"> Gomperz, „Über Sinn“, S. 96: „ „Sinn
+                            schlechthin“ hat ein Gebilde, sofern’s nicht sinnfrei „Sinn als
+                            solchen“, sofern’s nicht unsinnig ist. [...] An einem Gebilde, das nur
+                            „Sinn schlechthin“ hat, sind Form und Inhalt noch nicht
+                            auseinandergetreten.“ </note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>+ <hi rendition="#normal">S</hi>. 103 <hi rendition="#normal">u<ex>nten</ex>
+                    </hi>
+                    <seg type="comment">
+                        <orig>Inwiefern haben die bösen Geister der Erkenntisth<ex>eorie</ex> schon
+                            die so viel getan</orig>
+                        <note xml:id="nhsh_cmq_dw"> Gomperz, „Über Sinn“, S. 103: „Die Welt des
+                            ursprünglichen, und auch noch die des alltäglichen Bewusstseins besteht
+                            aus Sinngebilden. Ist aber diese Welt eine wirkliche Welt, ist sie
+                            Wirklichkeit, oder gar die Wirklichkeit? ... Werden aber nicht, sowie
+                            diese Frage auch nur aufgeworfen wird, alle bösen Geister der
+                            „Erkenntnistheorie“ entfesselt und auf die Sinngebilde losgelassen, und
+                            wird nicht damit deren Untersuchung gleich von vornherein aufs ernsteste
+                            gefährdet? Oder haben etwa die bösen Geister ihr Werk schon so gründlich
+                            getan, daß ihnen zu tun fast nichts mehr übrig bleibt?" </note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>
+                    <seg type="comment">
+                        <orig>Über Narzissmus</orig>
+                        <note xml:id="npvz_gmq_dw"> Gomperz, „Über Sinn“, S. 103: „Daß ein Wissen um
+                            das eigene Ich, ein Auffassen desselben, am Anfang aller menschlichen
+                            Entwicklung stehe, müßte man glauben, wenn man hört, wieviel Wesens
+                            neuerdings die „Seelenzergliederer“ (die „Psychoanalytiker“) aus einer
+                            angeblich urtümlichen Selbstliebe machen, aus jenem „Narzissismus“, den
+                            sie – gegen den Geist aller beteiligten Sprachen – „Narzißmus“ nennen
+                            [....]“ </note>
+                    </seg>
+                    <lb/>+ <hi rendition="#normal">S</hi>. 129 <seg type="comment">
+                        <orig>
+                            <hi rendition="#uuu">
+                                <hi rendition="#uu">Typische Gegenstände</hi>
+                            </hi>
+                        </orig>
+                        <note xml:id="nlrr_4mq_dw"> Gomperz, „Über Sinn,“ S. 129: „Schon vor zwanzig
+                            Jahren hab’ ich zweierlei Arten geistiger Gebilde unterschieden
+                            (Weltanschauungslehre II. 1, S. 127 ff.): die rein gedanklichen [...],
+                            aus bloßen Denkbestimmungen aufgebauten [...] einerseits, die, [...]
+                            doch selbst im strengen Sinne zeitlos heißen dürfen, andererseits die
+                            durch die durch jene unveränderlichen Denkbestimmungen gedachten Sachen
+                            und Sachverhalte, von denen ich damals insbesondere die Gebilde
+                            allgemeinen Gepäges (die "typischen Gegenstände", wie ich damals sagte)
+                            ins Auge faßte." </note>
+                    </seg>!!!! <lb/>+ <hi rendition="#normal">S</hi>. 133 <hi rendition="#normal">u<ex>nten</ex>
+                    </hi>
+                    <seg type="comment">
+                        <orig>Dorftrottel</orig>
+                        <note xml:id="nbpc_vlv_dw"> Gomperz, „Über Sinn“, S. 133: „ ... (denn all
+                            diese Zustände [Wohl und Wehe, Anspannung, Erschöpfung, Erholung,
+                            Sehnsucht und Angst, Hoffnung und Verzweiflung] hätten sich jener auf
+                            die räumliche Ausdehnung gegründeten Ordnung der Körperwelt keineswegs
+                            gefügt); und dasselbe gilt von den "geistigen" Bestandstücken der
+                            Persönlichkeit: für die Naturwissenschaften unterscheidet sich der
+                            Gelehrte vom Dorftrottel [...] entweder gar nicht oder doch nur durch
+                            irgendwelche kleinen Verschiedenheiten des Körperbaus oder des
+                            Lebensgeschehens [...]." </note>
+                    </seg>
+                    <lb/>+ <hi rendition="#normal">S</hi>. Nähere Definition von <seg type="comment">
+                        <orig>seelisch<ex>,</ex> körperlich<ex>,</ex> geistig</orig>
+                        <note xml:id="njp1_2mv_dw"> Körperwelt, Natur = räumlich ausgedehnt. Für
+                            seelisch und geistig werden hingegen Beispiele genannt, keine
+                            Definitionen. Vgl. Gomperz, „Über Sinn“, S. 133. </note>
+                    </seg>
+                    <lb/>+ <hi rendition="#normal">S</hi>. <hi rendition="#uu">
+                        <hi rendition="#uuu">139 Verrech<ex>nen</ex>
+                        </hi>
+                    </hi>
+                    <seg type="comment">
+                        <orig/>
+                        <note xml:id="ngtb_lmv_dw"> Gomperz, „Über Sinn“, S. 139: „Fünftens aber
+                            steht’s auch um die Ergebnisse richtiger Denkvorgänge nicht anders: wenn
+                            ich mich bei der Zusammenzählung von 231 und 527 verrechne, mag sich das
+                            aus seelenkundlichen Gesetzen erklären lassen; daß sich jedoch bei
+                            richtigem Rechnen 758 ergibt, beruht nicht auf einem Gesetz der
+                            Seelenkunde." </note>
+                    </seg>!!! <lb/>+ <hi rendition="#normal">S</hi>. 143 Warum <seg type="comment">
+                        <orig>keine Zuordnung zwischen Seelischem und Körperlichem</orig>
+                        <ex>?</ex>
+                        <note xml:id="nbjc_smv_dw"> Gomperz, „Über Sinn“, S. 143: „In der
+                            Naturwissenschaft gründet sich zuletzt alles auf räumlichen Messungen,
+                            Seelisches aber kann nicht räumlich gemessen werden (wo man Seelisches
+                            räumlich zu messen glaubt, mißt man im Grunde doch wieder nur
+                            Körperliches, das nur diesem oder jenem Seelischen irgendwie unscharf
+                            zugeordnet wird." </note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>+ <hi rendition="#normal">S</hi>. 144 <seg type="comment">
+                        <orig>Schädelform ↔ Gleichungen Grad</orig>
+                        <note xml:id="nywp_zmv_dw"> Gomperz, „Über Sinn“, S. 144 „ [...] geben
+                            könnte, etwa von der Form: ein Mensch mit dieser oder so gebauter
+                            Schädelform, so oder so gebauten Nervenfasern, vermag Gleichungen dieses
+                            oder jenes Grades, überhaupt Aufgaben dieser oder jener
+                            Schwierigkeitsklasse, etwa auch noch: innerhalb eines so und so langen
+                            Zeitraums aufzulösen. Allein in Wahrheit finden sich kaum Ansätze zu
+                            Forschungsergebnissen dieser Art.“ </note>
+                    </seg>
+                    <lb/>+ <hi rendition="#normal">S</hi>. 145 Versuch die <seg type="comment">
+                        <orig>drei Gebiete</orig>
+                        <note xml:id="nppw_gnv_dw"> = Körperliches, Seelisches, Geistiges. Vgl.
+                            Gomperz, „Über Sinn“, S. 144f .</note>
+                    </seg>zu vereinigen<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 146 <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">N</hi> 75</orig>
+                        <note xml:id="now3_knv_dw"> Es gibt keine Fußnote auf dieser Seite und die
+                            Unterkapitelziffer auf Seite 146 ist 74. Daher ist unklar, worauf sich N
+                            75 bezieht. </note>
+                    </seg> Wäre <seg type="critical">
+                        <orig>Gomperz</orig>
+                        <note xml:id="nugq_nnv_dw"> In der Mitschrift ‚Komperz’ geschrieben. </note>
+                    </seg>befriedigt, wenn psychophy<ex>sischer</ex> Parallelismus? Und zusammen
+                        <gap unit="words" quantity="1" reason="illegible"/> stehen. <lb/>+ <hi rendition="#normal">S</hi>. 167 Wahrscheinlichkeit, Zusammenhang zwischen
+                        Geistig<ex>em</ex> und Körperlich<ex>em</ex>, <seg type="comment">
+                        <orig>Reduktion</orig>
+                        <ex>.</ex>
+                        <note xml:id="nuzr_14v_dw"> Gomperz spricht an dieser Stelle des Buches im
+                            Vorlesungsmanuskript nicht von ‚Reduktion’, sondern von ‚Entsprechung'
+                            zwischen körperlichen und geistigen Gebilden. </note>
+                    </seg>
+                    <lb/>
+                    <add place="right">+ <hi rendition="#normal">S</hi>. <hi rendition="#u">173 (<hi rendition="#normal">Kl<ex>ein</ex> g<ex>edruckt</ex>
+                            </hi> Behauptet er Körperliches und Seelisches lassen sich überhaupt
+                            nicht trennen?? Gehen stetig ineinander über?</hi>?<seg type="comment">
+                            <orig/>
+                            <note xml:id="nx3q_x4v_dw"> Gomperz, „Über Sinn“, S. 173: „Fest und
+                                scharf scheinen die Grenzen zwischen äußerer und innerer Wahrnehmung
+                                nur solange, als man sich jene durch Farben oder Klänge, diese durch
+                                Denk- oder Willens. </note>
+                        </seg>
+                        <lb/>175 <seg type="comment">
+                            <orig>Hat auf wirtschaftlichen Wert wirken, etwas mit Wert zu tun</orig>
+                            <note xml:id="nf2t_dpv_dw"> Gomperz, „Über Sinn“, S. 175f.: „Allein das
+                                Denken, das Werten, das Vorschreiben, es hat auch einen Inhalt. Es
+                                bezieht sich etwa auf Wahrheiten, auf Zahlenverhältnisse, auf Waren
+                                , [...]. Dies aber sind nicht mehr seelische, sondern geistige
+                                Gebilde. [...] Dies festzustellen ist keineswegs Aufgabe der
+                                Seelenlehre, es kommt vielmehr den Vernunftwissenschaften zu: der
+                                Denk- und Zahlenlehre, der Wirtschaftswissenschaft, der Kunst-, der
+                                Sitten und der Rechtslehre. So weit jene Wahrheiten, Werte,
+                                Rechtssätze miteinander verträglich sind, [...] werden sie zu
+                                umfassenderen Gebilden [...]." </note>
+                        </seg>
+                        <ex>?</ex>
+                        <lb/>+ <hi rendition="#u">Ist seine Vernunftwissenschaft etwas anderes als
+                            Autonomie</hi>? <lb/>
+                        <hi rendition="#normal">S</hi>. 186 <seg type="comment">
+                            <orig>Glaubt er wirklich, dass ein Staatsstreich naturwissenschaftlich
+                                unerklärlich ist</orig>
+                            <note xml:id="nrt4_lpv_dw"> Gomperz, „Über Sinn“, S. 186: „Daß in einer
+                                Volksrede, bei einem Staatsstreich, ebenso auch in jedem
+                                Rechtsstreit, jedem Schauspiel, jedem Krieg usf. ins Unendliche,
+                                Körperliches, Seelisches und Geistiges ineinandergreifen, dies macht
+                                uns nicht einen Augenblick lang bedenklich; [...]." </note>
+                        </seg>
+                        <ex>?</ex>
+                        <lb/>
+                        <hi rendition="#normal">S</hi>. <hi rendition="#u">187 (<hi rendition="#normal">kl<ex>ein</ex> g<ex>edruckt</ex>
+                            </hi>) Warum nicht aus Seele? Kann endliches Gesetz erklären, dass <seg type="comment">
+                                <orig>Maschinengewehre stärker sind als Rede</orig>
+                                <note xml:id="npfh_spv_dw"> Gomperz, „Über Sinn“, S. 187: „[...]:
+                                    daß Maschinengewehre stärker sind als Parlamentsreden, daß 20000
+                                    Mann mehr sind als 5000 - sowohl jene Tatsache wie diese
+                                    Einsicht, beide lassen sich nicht aus irgendwelchen Gesetzen des
+                                    Seelenlebens erklären." </note>
+                            </seg>
+                        </hi>
+                        <hi rendition="#u">?</hi>
+                    </add>
+                    <milestone unit="section" rendition="#hr"/>
+                    <hi rendition="#normal">S</hi>. 168 <hi rendition="#normal">Z</hi> 13 <hi rendition="#normal">v<ex>on</ex> o<ex>ben</ex>
+                    </hi>
+                    <seg type="comment">
+                        <orig>Was für Köpfe sind das</orig>
+                        <note xml:id="nvk3_1qv_dw"> Gomperz, „Über Sinn“, S. 168: „Wie indes dies
+                            Ineinander von Geistigem und Körperlichem möglich ist, worauf es
+                            zurückzuführen, [...] ja gerade heute mühen sich an diesen Fragen die
+                            besten philosophischen Köpfe vergeblich ab." </note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>
+                </p>
+                <p>[loses eingefügtes Blatt, Rückseite] Was ist das <seg type="comment">
+                        <orig>Sinngebilde</orig>
+                        <note xml:id="nxsd_gqv_dw"> Gomperz, „Über Sinn“, S. 29: „Streng genommen
+                            wenigstens sollte man nur das „Verrstandene“ ein „Sinngebilde“ nennen,
+                            wogegen das „Unverstandene“ dann bloß ein eines Sinnes fähiges
+                            „Gebilde“zu heißen hätte.“</note>
+                    </seg>, das Unverständliche, das des Sinn<ex>es</ex> fähigen Gebilde? <hi rendition="#normal">S</hi>. 29 <hi rendition="#normal">u<ex>nten</ex>
+                    </hi>
+                    <lb/>+ <hi rendition="#normal">Heracl<ex>it</ex>
+                    </hi>, <seg type="comment">
+                        <orig>Zusammenfallen der Gegensätze </orig>
+                        <note xml:id="nfwm_tqv_dw"> Gomperz, „Über Sinn“, S. 29: „[...]; so etwa mag
+                            es ja dem Herakleitos mit dem „Zusammenfallen der Gegensätze“ gegangen
+                            sein.“ </note>
+                    </seg>
+                    <lb/>+ <seg type="comment">
+                        <seg type="comment">
+                            <orig>
+                                <orig>Regenbogen knirscht laut</orig>
+                            </orig>
+                            <note xml:id="nu4m_yqv_dw">
+                                <note xml:id="nhx5_4yp_dw">Gomperz, „Über Sinn“, S. 33, 56 und
+                                    60</note>
+                            </note>
+                        </seg>
+                    </seg>
+                    <seg type="comment">
+                        <orig>, <seg type="comment">
+                                <orig>Maus frisst die Katze sinnlos</orig>
+                            </seg>? </orig>
+                        <note xml:id="nu4m_yqv_dw">
+                            <note xml:id="nhtx_qyp_dw">Gomperz, „Über Sinn“, S. 34</note>
+                        </note>
+                    </seg>
+                    <seg type="comment">
+                        <seg type="comment">
+                            <orig>
+                                <orig>Katzen sind keine Katzen</orig>
+                                <ex>.</ex>
+                            </orig>
+                            <note xml:id="nu4m_yqv_dw">
+                                <p>
+                                    <seg type="comment">
+                                        <note xml:id="nohr_syp_dw">Gomperz, „Über Sinn“, S. 34,
+                                            56</note>
+                                    </seg>
+                                </p> Beispiele für unsinnige Sätze, wie sie im Wiener Kreis
+                                diskutiert wurden.</note>
+                        </seg>
+                    </seg>
+                    <lb/>+ S 44 <hi rendition="#normal">o<ex>ben</ex>
+                    </hi> Verhältnis Ding an sich für Beziehungen? <lb/>+ <hi rendition="#normal">Crit<ex>ic</ex> Carn<ex>ap</ex>
+                    </hi> S. 60 <lb/>
+                    <unclear reason="illegible" cert="">34</unclear>. Geraten bei den Beispielen
+                    wirklich mehrere <seg type="comment">
+                        <orig>verschiedene Bereitschaften</orig>
+                        <note xml:id="ny2g_prv_dw"> Gomperz, „Über Sinn“, S. 53: „Im einzelnen sind
+                            ja die Bereitschaften, sprachliche Gebilde zu verstehen, je nach den
+                            Erfahrungen, nach dem Bildungsgrad, vor allem nach der
+                            Volkszugehörigkeit des Verstehenden im höchsten Maße verschieden: dem
+                            nur des Deutschen Kundigen fehlt jede Bereitschaft sich bei einem
+                            spanischen, dem nur des Spanischen Kundigen jede, sich bei einem
+                            deutschen Wort etwas zu denken; [...]“ </note>
+                    </seg> in Streit? <lb/>? <del rendition="#s">wenn</del>
+                    <hi rendition="#normal">S</hi>. 53 <seg type="comment">
+                        <orig>Wann mutet uns eigentlich ein Satz Verstehen zu</orig>
+                        <note xml:id="nlt4_vrv_dw"> Bei Gomperz, „Über Sinn“, S. 54: „Ein Satz, der
+                            sowohl seinen Worten nach wie auch als Ganzes uns ein Verstehen
+                            „zumutet“, [...] Wie muß ein Satz beschaffen sein, um uns ein
+                            „Verstehen“ nicht nur „zuzumuten“, sondern auch zu gestatten?“ </note>
+                    </seg>(spanischer Satz)<ex>?</ex> Wann ist ein Satz sinnvoll<ex>?</ex> Steht im
+                    Widerspruch zu <hi rendition="#normal">S</hi>. 59 unten<ex>.</ex> Diese Sätze
+                    sollten sinnfrei sein<ex>.</ex> Und zur Definition auf <hi rendition="#normal">S</hi>. 55 was Form und was Inhalt ist<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 68 Kleingedruckt<ex>,</ex> wieso <seg type="comment">
+                        <orig>Erhärtung</orig>
+                        <note xml:id="nosb_gsv_dw"> Gomperz, „Über Sinn“, S. 68: „Ob’s Begriffe
+                            gibt, bei denen sich auch derjenige, der ihre Bedeutung voll erfaßt,
+                            ganz und gar nichts anschaulich vorzustellen weiß, mag hier unerörtert
+                            bleiben: [...]. Unzweifelhaft dagegen ist soviel, daß sehr zahlreiche
+                            Begriffe jenen, die ihre Bedeutung nicht voll zu erfassen im Stande
+                            sind, als solche erscheinen, bei denen sich schlechthin nichts
+                            anschaulich Vorstellbares denken läßt, und daß sie diese Begriffe eben
+                            deshalb dann kurzerhand für „Unsinn“ erklären; und das reicht zur
+                            Erhärtung des hier Behaupteten hin.“ </note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>Sinn hat, was die Auffassung<ex>,</ex> zu der es auffordert<ex>,</ex> auch
+                        gestattet<ex>.</ex> Ist das nicht ein <hi rendition="#normal">id per id</hi>
+                    <ex>?</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 77 Zusammenhang zwischen Sinn und Leben – sollte
+                    damit wirklich <hi rendition="#normal">Dil<ex>theys</ex>
+                    </hi> und <hi rendition="#normal">Bühl<ex>ers</ex>
+                    </hi> Behauptung erhärtet werden?? Danach <hi rendition="#u">in <hi rendition="#uu">alle<ex>n</ex>
+                        </hi> Lebenszusammenhängen<choice>
+                            <sic>d</sic>
+                            <corr type="deleted"/>
+                        </choice>
+                    </hi>
+                    <seg type="comment">
+                        <orig/>
+                        <note xml:id="ny21_ysv_dw"> Gomperz, „Über Sinn“, S. 76: „[...], wo diese
+                            Aufforderung „erfüllt“ werden kann, da glauben wir zu verstehen. Allein
+                            mehr als das. Wie könnten, so mußten wir vorhin fragen, Sätze der
+                            Zahlen- und Raumlehre einen Lebenszusammenhang spiegeln? Nun so ganz und
+                            gar undenkbar ist das nicht [...].“ Gomperz, Über Sinn, S. 77: „Wo aber
+                            eine Erwartung erfüllt wird, da wird auch eine Spannung gelöst, da
+                            erfolgt mithin ein Fortgang von einem Glied eines Lebenszusammenhangs
+                            zum anderen. Ganz wesenhaft aber schließt ja, wie der Unsinn eine
+                            Enttäuschung, so der Sinn eine Erfüllung der Erwartung, ein Gebilde so
+                            oder so auffassen zu können, ein. So daß wir denn sagen dürfen: auch an
+                            sich selbst ist „Verstehen“, einen „Sinn“ erfassen, nicht etwa etwas
+                            völlig Lebensfremdes; was nicht lebte, das könnte, wie nicht enttäuscht,
+                            so auch nicht erfüllt werden, ein Wesen aber, das keine Erfüllung
+                            kennte, dem wär' auch nichts verständlich, nichts sinnvoll. - Im Grunde
+                            mag sich's freilich von selbst verstehen, daß Verstehen ein Denken, und
+                            kennen wir doch nichts, das dächte, ohne zu leben. Doch auch dies ist
+                            nicht die tiefliegenste der Beziehungen, die zwischen „Sinn“ und Leben
+                            bestehen.. Voraussetzung alles „Sinns“ ist unsere Bereitschaft, ein
+                            Gebilde so oder anders aufzufassen; [...].“</note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/>
+                    <hi rendition="#normal">S</hi>. 15 <?oxy_comment_start author="engelen" timestamp="20160601T124437+0200" comment="Die beiden Dreiecke &quot;stehen mit der Grundfläche aufeinander&quot;"?>∆∇<?oxy_comment_end?>
+                    <hi rendition="#normal">S</hi>. 84 Widerspruch <lb/>
+                    <hi rendition="#normal">S</hi>. 54 Zeile 9 von unten<ex>:</ex> Wird das wirklich
+                        definiert<ex>?</ex> → siehe dazu <hi rendition="#normal">S</hi>. 58 Lehre
+                    <lb/>Welcher Unterschied zwischen <hi rendition="#normal">Meviodär</hi>
+                    <seg type="comment">
+                        <orig/>
+                        <note xml:id="nmtd_yvv_dw"> Gomperz, „Über Sinn“, S. 57: „[...] für jede
+                            Lautgruppe: soll sie in Wahrheit „Sinn“ haben, so darf sie nicht nur
+                            aussehen wie ein verständliches Wort (ganz so sieht ja z. B. das Wort
+                            „Meviodär“ aus), <supplied cert="high" prev="">...</supplied>.“ </note>
+                    </seg> und <hi rendition="#normal">pstkrti</hi>
+                    <seg type="comment">
+                        <orig/>
+                        <note xml:id="ni24_dzp_dw"> Gomperz, „Über Sinn“,S. 57: „Wohl aber vermag
+                            ein Wort – oder richtiger eine Lautgruppe – lautlich widersinnig zu
+                            sein. Das würde z. B. für die Lautgruppe „pstkrti“ zutreffen.“</note>
+                    </seg>
+                    <ex>?</ex>
+                    <lb/> ?<hi rendition="#normal">S</hi>. 68 Begriffe können keiner Anschauung
+                        entsprechen<ex>,</ex> sind unsinnig? </p>
+                <p>[3] <hi rendition="#normal">August Messer</hi> Wissenschaft und Bildung, 4 Bände,
+                    Geschichte der Philosophie <supplied cert="high" prev="">Bde.</supplied> 2 – 3,
+                        <supplied cert="high" prev="">Bd.</supplied> 4 Philosophie der Gegenwart
+                    <lb/>1. <hi rendition="#normal">Paul Deussen</hi>
+                    <lb/>
+                    <hi rendition="#normal">Rich<ex>ard</ex> Falkenberg</hi> sehr ausführlich und
+                    trocken <lb/>
+                    <hi rendition="#normal">Überweg</hi> 3 – 4 ; <supplied cert="high" prev="">Bd.</supplied> 4 nur deutsche Philosophie <lb/>2. <hi rendition="#normal">Windelband</hi> Geschichte der neueren Philosophie in ihrem Zusammenhange
+                    mit der allgemeinen Kultur und den besonderen Wissenschaften <lb/>
+                    <hi rendition="#normal">Harald Höffding</hi>
+                    <lb/>
+                    <milestone unit="section" rendition="#hr"/>
+                </p>
+                <p>
+                    <list type="bulleted">
+                        <item>Einteilung<ex>:</ex> 1. Philosophie der Renaissance 1440 – 1640</item>
+                        <item>2. Rationalisten und Empiristen 1640 – 1710 Philosophie des
+                            Barock</item>
+                        <item>3. Philosophie der Aufklärung 1710 – 1790</item>
+                        <item>4. Philosophie der Romantik 1790 – 1840</item>
+                        <item>5. Philosophie der neuesten Zeiten 1840 – 1926</item>
+                    </list>
+                </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>
+                    <hi rendition="#normal">Phil<ex>osphie</ex> d<ex>er</ex> Renaissance</hi>
+                    <lb/>Mit dieser Zeit beschäftigt man sich sehr wenig. <supplied cert="high" prev="">Es</supplied> ist die Zeit des Suchens von neuen Wegen. Die meisten
+                    sind wieder verlassen worden<ex>,</ex> daher kann man an sie nicht<choice>
+                        <sic>s</sic>
+                        <corr type="deleted"/>
+                    </choice> als Anfang anknüpfen. Problem dieser <unclear reason="illegible" cert="">Mittelzeit</unclear>
+                    <del rendition="#s">Alter</del> = Verhältnis des Glaubens zum Wissen ≡
+                    Verhältnis der Glaubenssysteme zwischen Plato und Aristoteles. Das Mittelalter
+                    zielt darauf ab<ex>,</ex> diese in Einklang zu bringen<ex>,</ex> indem sie [4]
+                    die Glaubenslehre beweisen<ex>.</ex> [Anselm von Canterbury ist
+                        überzeugt<ex>,</ex> dass alle Kirchenlehre<ex>n</ex> zu<choice>
+                        <sic>m</sic>
+                        <corr cert="high">r</corr>
+                    </choice> Drei-Einigkeit<ex>,</ex> sich beweisen lassen<del rendition="#s">]</del>
+                    <ex>–</ex> um dieses Jahr 1200. Damals engster Zusammenhang zwischen Glaube und
+                    Wissen. <hi rendition="#normal">credo ut intelligam</hi>, Glaube = Vorstufe des
+                    Wissens]. Seit 1200 Änderung. Es wird Aristoteles statt Plato gelesen und zwar
+                    mit den Erläuterungen der Araber. <del rendition="#s">Im 13 Jahhundert</del> Das
+                    bewirkt einen Rückschritt in dieser Richtung<ex>.</ex>
+                    <lb/>Um 1300 (Hochscholastik) unterscheidet man zwischen Arten von Wahrheiten:
+                    natürliche (Gott, Unsterblichkeit), unnatürliche (Dreieinigkeit)<ex>.</ex> Sie
+                    sind nur nicht unsinnig (enthalten keine Widersprüche). <hi rendition="#u">
+                        <hi rendition="#normal">Duns Scotus</hi>
+                    </hi> sagt zum Beispiel<ex>,</ex> dass Unsterblichkeit und Eigenschaften Gottes
+                    nicht mehr vernünftig bewiesen werden können. Beweisbar <supplied cert="high" prev="">ist</supplied> nur <supplied cert="high" prev="">die</supplied>
+                    Existenz Gottes. Später lehrt <hi rendition="#u">William von <hi rendition="#normal">Okkam</hi>
+                    </hi>
+                    <ex>,</ex> dass nicht nur keine Glaubenswahrheiten bewiesen werden
+                        können<ex>,</ex> sondern dass einige der Vernunft widersprechen<ex>,</ex>
+                    daher eine doppelte Wahrheit. Solche Widersprüche können sich nicht
+                        halten<ex>,</ex> man stellt entweder die Vernunft oder die Glaubenslehre
+                        zurück<ex>.</ex>
+                    <lb/>Versuch einer Einheit durch <hi rendition="#u">
+                        <hi rendition="#normal">Roger Bacon</hi>
+                    </hi>
+                    <ex>:</ex> Alles Wissen muss auf Erfahrung gegründet werden: 1.
+                        äußerlicher<ex>,</ex> 2. innerer<ex>;</ex> diese ist das unmittelbare
+                    Erfassen der Gottheit<ex>,</ex> daher soll die Religion für Mystiker gegründet
+                        werden<ex>.</ex> Als <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> Musterbeispiel der äußeren Erfahrung führt er die Materie an. Der neue
+                    Impuls zum Denken kommt von den neuen kulturellen Tatsachen her. <hi rendition="#u">1439 <seg type="comment">
+                            <orig>Konzil von Florenz</orig>
+                            <note xml:id="nhmp_kxl_vw">Dort wurde eine Union zwischen der
+                                griechischen und lateinischen Kirche beschlossen.</note>
+                        </seg>
+                    </hi> zur Beseitigung der Kirchenspaltung<ex>,</ex>
+                    <seg type="comment"/>weil sie bedroht sind von der Türken. Die Griechen bringen
+                        <hi rendition="#u">Plato und Aristoteles</hi> mit. <gap unit="words" quantity="1" reason="illegible"/> und <gap unit="chars" quantity="1" reason="illegible"/> – <hi rendition="#u">1453</hi>
+                    <ex>.</ex>
+                    <lb/>
+                    <hi rendition="#u">1455</hi> Erfindung <hi rendition="#u">des
+                            Buchdruck<ex>s</ex>
+                    </hi>
+                    <supplied cert="high" prev="">durch</supplied> Gutenberg. <hi rendition="#u">1482 der erste Plato, 1489 let<ex>ster</ex> Aristoteles</hi>. <lb/>[5] 1492
+                        <hi rendition="#u">Entdeckung von Amerika</hi>. Damit <hi rendition="#u">stürzt das Erdbild des</hi> Mittelalter zusammen. <lb/>1517 <hi rendition="#u">Reformation</hi>
+                    <lb/>1543 Zwei epochemachende Werke<ex>:</ex>
+                    <list type="bulleted">
+                        <item>
+                            <hi rendition="#u">
+                                <hi rendition="#normal">Anatomie v<ex>on</ex> Andreas Vesalius</hi>
+                            </hi>
+                            <ex>.</ex> Das erste Mal wird der Körper nach Augenschein beschrieben
+                            und nicht nach <hi rendition="#normal">Galen</hi>
+                            <ex>,</ex> sogar von <hi rendition="#normal">Leonardo da Vinci</hi> gilt
+                                dies<ex>.</ex>
+                        </item>
+                        <item>Und Werk des <hi rendition="#u">Kopernikus</hi>
+                            <ex>,</ex>
+                            <hi rendition="#u">
+                                <hi rendition="#normal">de orbium coelestium revolutionibus</hi>
+                            </hi>
+                            <ex>.</ex> Damit stürzt auch das Weltbild. Dadurch wird auch die Physik
+                            des Aristoteles umgestürzt<ex>.</ex> Gegen Ende des 16. Jahrhunderts
+                            sind die besten Köpfe für sie gewonnen<ex>.</ex>
+                        </item>
+                    </list>1596, 1609, 1619 <hi rendition="#normal">Prodomus diss<ex>ertationum</ex>
+                            cosmogr<ex>aphicarum</ex>
+                        <hi rendition="#u">Kepler</hi>
+                    </hi>
+                    <lb/>1632, 1638 <hi rendition="#normal">Dialog d<ex>es</ex>
+                        <hi rendition="#u">Galilei</hi>
+                    </hi> gibt der Lehre dann eine ungeheure Verbreitung<ex>.</ex> Erst Anfang des
+                    19. Jahrhunderts wurde das Wirken des <hi rendition="#normal">Gal<ex>ilei</ex>
+                    </hi> und <hi rendition="#normal">Kop<ex>ernikus</ex>
+                    </hi> aus dem Ind<ex>ex</ex> gestrichen<ex>.</ex> Um <del rendition="#s">Zeile</del> dieselbe Zeit <supplied cert="high" prev="">wird</supplied> von
+                        Gal<ex>ilei</ex> Mechanik entdeckt – <hi rendition="#u">Fernrohre,
+                        Thermometer</hi>, <unclear reason="illegible" cert="">alsbald</unclear>
+                    <ex>.</ex>
+                    <lb/>
+                    <seg type="comment">
+                        <orig>
+                            <seg type="comment">1695 </seg>
+                            <del rendition="#s">in</del>
+                            <del rendition="#s"> der</del> Analytische Geometrie von
+                            Descartes</orig>
+                        <note xml:id="nkff_qxl_vw">Descartes veröffentlicht seine Abhandlung zur
+                            Geometrie 1637. Die Zeitangabe bezieht sich daher entweder nicht auf die
+                            Zeit der Abfassung von Descartes’ Geometrie oder es liegt ein
+                            Schreibfehler vor.</note>
+                    </seg>. <lb/>
+                </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>
+                    <list type="bulleted">
+                        <item>1. Erneuerung der antiken Systeme<list type="bulleted">
+                                <item>a. Vorzeichen einer Erneuerung des Aristotelismus<ex>.</ex> 2
+                                    neue Auffassungen<ex>,</ex> die eine knüpft an an die Auffassung
+                                    bei den <hi rendition="#normal">Araber<ex>n</ex>
+                                    </hi>, der letzte Aristoteles Erklärer ist <hi rendition="#normal">Averroes</hi>
+                                    <add place="superlinear">12. Jahrhundert Leibarzt eines
+                                        Kalifen</add>. Er erkennt nicht jedem Menschen eine Vernunft
+                                        zu<ex>,</ex> sondern eine Vernunft für alle<ex>.</ex> Ein
+                                    Zwischenwesen zwischen Gott und de<choice>
+                                        <sic>n</sic>
+                                        <corr cert="high">r</corr>
+                                    </choice> Menschheit. <seg type="comment">
+                                        <orig>Schule von <hi rendition="#normal">Averroisten</hi>
+                                            <choice>
+                                                <sic>ist</sic>
+                                                <corr cert="high">in</corr>
+                                            </choice> Padua</orig>
+                                        <note xml:id="nonb_5xl_vw">
+                                            <note xml:id="nnzn_qzw_dw">Von einer Schule von Padua
+                                                wird in der heutigen Forschung in Bezug auf den
+                                                Averroismus nicht mehr gesprochen. Vgl. aber Rudolf
+                                                Eislers „Wörterbuch der philosophischen Begriffe“
+                                                von 1904: „Averroïsmus heißt die Deutung des
+                                                Aristoteles im Sinne des AVERROES, aufgekommen und
+                                                vom 14. bis zum 17. Jahrhundert herrschend in der
+                                                Schule von Padua. Nach der averroïstischen Lehre ist
+                                                der „tätige Intellekt“ (s. d.) eins mit dem
+                                                göttlichen Geiste, der in allen Seelen einheitlich
+                                                wirksam und unsterblich ist, während es eine
+                                                individuelle Unsterblichkeit nicht gibt. Die
+                                                Alexandristen (s. d.) hingegen leugnen jedwede
+                                                Unsterblichkeit. Averroïsten sind mehr oder weniger
+                                                NICOLETTO VERNIAS (De unitate intellectus),
+                                                ALEXANDER ACHILLINI, AUGUSTINUS NIPHUS, ZABARELLA,
+                                                ANDREAS CAESALPINUS, nach welchem Gott die „anima
+                                                universalis“ ist (Quaest. peripat. 1571), CESARE
+                                                CREMONINI (vgl. ÜBERWEG, Gr. d. Gesch. d. Phil.
+                                                III9, 19 ff. u. STÖCKL III, 203).“
+                                                http://www.textlog.de/1345.html </note>
+                                        </note>
+                                    </seg>
+                                    <ex>,<seg type="comment"/>
+                                    </ex>an der Spitze steht <supplied cert="high" prev="">Augustinus Niphus</supplied>
+                                    <ex>;</ex> allgemein keine individuelle
+                                        Unsterblichkeit<ex>.</ex> [6] <hi rendition="#uu">
+                                        <hi rendition="#normal">Augustinus Niphus</hi>
+                                    </hi> um 1500. Andere schließen sich an <seg type="comment">
+                                        <orig>
+                                            <hi rendition="#normal">Alex v<ex>on</ex>
+                                                Aphrodisias</hi>
+                                        </orig>
+                                        <note xml:id="nnvr_zxl_vw">Um 200 n. Chr. Einer der
+                                            wichtigsten Aristoteles-Kommentatoren, von dem
+                                            zahlreiche Schriften auf Arabisch erhalten sind.</note>
+                                    </seg> an<ex>,</ex> erster antiker
+                                        Aristoteles–Erklärer<ex>,</ex> der Vorkämpfer dieser Gruppe
+                                    von <hi rendition="#normal">
+                                        <seg type="comment">
+                                            <orig>
+                                                <hi rendition="#uu">
+                                                    <hi rendition="#normal">Peter Pomponatius</hi>
+                                                </hi>
+                                            </orig>
+                                            <note xml:id="nwqf_b1x_dw"> 1462–1525 n. Chr. </note>
+                                        </seg>
+                                    </hi>. Dieser leug<ex>net</ex> die Unsterblichkeit
+                                    überhaupt.</item>
+                                <item>b. Erneuer<ex>ter</ex> Platonismus von <hi rendition="#normal">Ge<choice>
+                                            <sic>n</sic>
+                                            <corr cert="high">m</corr>
+                                        </choice>istos</hi> (= angefüllt), daher nennt er sich <hi rendition="#normal">Plethon</hi>
+                                    <ex>,</ex> um an Plato zu erinnern. Er <choice>
+                                        <sic>so</sic>
+                                        <corr cert="high">wi</corr>
+                                    </choice>ll den Platonismus <unclear reason="illegible" cert="">k<ex>ü</ex>nstlich</unclear> den neuen Platonismus
+                                    setzen. Er glaubt durch eine völkische Erneuerung des
+                                    Griechentums die Türken abzuwehren. Sein einflussreichster
+                                    Anhänger ist <hi rendition="#u">
+                                        <hi rendition="#normal">Bessa<choice>
+                                                <sic>l</sic>
+                                                <corr cert="high">r</corr>
+                                            </choice>ion – Marsilius Ficinus</hi>
+                                    </hi> (1433 – 99) (in Übersetzung in der
+                                        phil<ex>osophischen</ex> Bibl<ex>iothek</ex>)<ex>.</ex>
+                                </item>
+                                <item>c. Erneuerung der stoischen Philosophie – von <hi rendition="#normal">
+                                        <hi rendition="#u">Justus Lipsius</hi>
+                                    </hi> 2. Hälfte des 16. Jahrhunderts<ex>.</ex>
+                                </item>
+                                <item>d. Erneuerung der epikureischen Philosophie<ex>,</ex>
+                                    <hi rendition="#u">
+                                        <hi rendition="#normal">Pierre Gassendi</hi>
+                                    </hi> (<hi rendition="#normal">Gassendus</hi>
+                                    <add place="superlinear">1592 – 1655</add>)<ex>,</ex>
+                                        Priester<ex>.</ex>
+                                </item>
+                                <item>e. <hi rendition="#normal">
+                                        <hi rendition="#u">Michel de Montaigne</hi>
+                                    </hi>
+                                    <ex>,</ex> 2. Hälfte des 16. Jahrhunderts<ex>.</ex>
+                                </item>
+                                <item>f. <hi rendition="#normal">Pythagorismus</hi> trifft zusammen
+                                    mit den fortschreitenden Naturwissenschaften Zielen <choice>
+                                        <sic>zusammen</sic>
+                                        <corr type="deleted"/>
+                                    </choice>.</item>
+                            </list>
+                        </item>
+                        <item>2. <hi rendition="#u">
+                                <hi rendition="#normal">Picus v<ex>on</ex> Mirandola</hi>
+                            </hi> Philosophie auf <hi rendition="#normal">Cabbala</hi>
+                                gegründet<ex>.</ex> Ihm folgt <hi rendition="#normal">
+                                <hi rendition="#uu">Johannes Reuchlin</hi>
+                            </hi>
+                            <ex>.</ex> Kirche<ex>n</ex>philosophie folgt dem <hi rendition="#normal">Thomas</hi> von <hi rendition="#normal">Aquino</hi>
+                            <ex>.</ex> In der protestantischen Kirche bildet <hi rendition="#normal">
+                                <hi rendition="#uu">Ph<ex>ilipp</ex> Melanchthon</hi>
+                            </hi> aus Aristoteles und Luther eine Mischlehre<ex>.</ex>
+                        </item>
+                    </list>[7] <hi rendition="#u">Jakob </hi>
+                    <hi rendition="#uu">Böhme</hi>
+                    <add place="superlinear">1555 – 1624</add> übt auf die protestantische Religion
+                    einen großen Einfluss aus. (Wortspiel, die Dinge werden <hi rendition="#normal">inqualiert</hi> (Qualität, Quale)<ex>)</ex> Originell und auf Schelling
+                    wirkend ist seine Lehre von Gott, in Gott selbst ist ein dunkler
+                        Urgrund<ex>,</ex> etwas nicht Gutes<ex>,</ex> wogegen sich Gott ergibt und
+                    den er beständig überwindet. Und daher stammt das Übel in der Welt<ex>,</ex>
+                    daher hat die Welt zwar das Streben der Überwindung des Minderwertigen<ex>,</ex>
+                    aber <del rendition="#s">das</del> es gibt doch Schlechtes und Lei<choice>
+                        <sic>b</sic>
+                        <corr cert="high">d</corr>
+                    </choice> in ihr. <list type="bulleted">
+                        <item>3. Philosophie auf Erfahrung gegründet<ex>:</ex>
+                            <hi rendition="#u">
+                                <hi rendition="#normal">Aureolus Theophrastus Bombastus</hi>
+                            </hi> von Hohenheim<ex>,</ex> genannt <hi rendition="#normal">
+                                <hi rendition="#u">Paracelsus</hi> Bombastus</hi> =
+                                Baumbast<ex>.</ex> Erste Hälfte des 16. Jahrhunderts – er ist in
+                            erster Linie Arzt (gegen <hi rendition="#normal">Galen</hi> und <hi rendition="#normal">Hippocr<ex>ates</ex>
+                            </hi>)<ex>.</ex> In der Philosophie sagt er<ex>:</ex>
+                            <ex>„</ex>Theorie und Erfahrung sollen getrennt marschieren und vereint
+                                schlagen<ex>“</ex>
+                            <ex>.</ex>
+                        </item>
+                    </list>
+                    <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">
+                                <hi rendition="#u">Hieronymus Cardanus</hi>
+                            </hi>
+                        </orig>
+                        <note xml:id="nbl1_d1m_vw">= Gerolamo Cardano</note>
+                    </seg>
+                    <ex>, </ex> Zeitgenosse des Paracelsus, der Phil<ex>osophie</ex> auf Mathematik
+                    gründet. <hi rendition="#u">
+                        <hi rendition="#normal">Bernhardinus Telesius</hi>
+                    </hi> will die Wissenschaft rein auf Erfahrung stellen<ex>.</ex> Er ist der
+                    einzige vor <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">Baco</hi>
+                        </orig>
+                        <note xml:id="naz3_41m_vw">Gemeint ist Francis Bacon. Vgl. unten.</note>
+                    </seg>
+                    <ex>,</ex> der dies wagt. <hi rendition="#u">
+                        <hi rendition="#normal">Thomas Campanella</hi>
+                    </hi> sucht <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> Erfahrung mit der Kirche zu vereinen. Die einzigen wirklich originellen
+                    Geister dieser Zeiten<ex>,</ex> die mit dem Alten ganz brechen<ex>,</ex> sind
+                        <hi rendition="#u">
+                        <hi rendition="#normal">Giordano Bruno</hi>
+                    </hi> und <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">
+                                <hi rendition="#u">Baco v<ex>on</ex> Verulamio</hi>
+                            </hi>
+                        </orig>
+                        <note xml:id="nmft_h1m_vw">Lateinischer Name von Francis Bacon.</note>
+                    </seg>. <hi rendition="#normal">Bruno’s</hi> Entdeckung ist die Unendlichkeit
+                    der Welt und ihre +Wertung<ex>.</ex> Es gibt unendlich viele Welten und Gott ist
+                    ihre gemeinsame Seele. Eine Seele ist umso wertvoller je größer die Kraft und
+                    [8] Leidenschaften. <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del>
+                    <hi rendition="#u">
+                        <hi rendition="#normal">Fr<ex>ancis</ex> Baco v<ex>on</ex> Verulam</hi>
+                    </hi> – hat im Geist Nachfolger, die <unclear reason="illegible" cert="">meinen</unclear>
+                    <ex>,</ex> das Glück der Menschen liege in seiner Herrschaft über die Natur und
+                    diese beruhe auf der Kenntnis der Natur und diese werde gewonnen durch
+                        Induktion<ex>,</ex> nicht durch Deduktion. Er beginnt auch eine Theorie der
+                    Induktion. Wesen dieser Theorie ist erst Beobachtung und dann <hi rendition="#normal">experimentum crucis</hi>. Beispiel<ex>:</ex> Ebbe und
+                        Flut<ex>,</ex> Mond und Strömung eines <gap unit="words" quantity="1" reason="illegible"/> aus dem Anderen<ex>;</ex> schwer ob es nach oben
+                    abnimmt oder nicht. <lb/>1<hi rendition="#u">561 – 1626</hi>
+                    <hi rendition="#normal">Baco v<ex>on</ex> Verulam</hi>
+                    <lb/>1564 – 1641 <hi rendition="#u">
+                        <hi rendition="#normal">Galilei</hi>
+                    </hi>
+                    <ex>,</ex> der die Naturwissenschaft auf Erfahrung gründet und das Programm
+                        Bacon<ex>s</ex> in die Wirklichkeit umsetzt<ex>.</ex> Sein Verfahren ist:
+                    aus <unclear reason="illegible" cert="">welchen</unclear>
+                    <unclear reason="illegible" cert="">Graphts</unclear> kann man die Erscheinungen
+                    ableiten. Das Wirkliche an der Welt ist daher das<ex>,</ex> was sich messen
+                    lässt (Atomtheorie)<ex>.</ex> Daher kommt nur in Betracht<ex>:</ex> Größe,
+                    Bewegung Zustand, Gestalt<ex>.</ex> Die übrigen Eigenschaften<ex>:</ex> Farbe
+                    und Geruch<ex>,</ex> Wärme müssen daraus erklärt werden<ex>.</ex>
+                    <lb/>Daher nähert sich Galilei an Epikur an. Unterschied liegt nur in der
+                    Methode (Spekulation<ex>,</ex> Erfahrung<ex>,</ex>
+                    <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> Qualität<ex>,</ex> Quantität)<ex>.</ex> Die sekundären Eigenschaften
+                    kommen den Dingen nicht selbst zu<ex>,</ex> sondern sie entstehen nur durch die
+                    Einwirkung auf menschliche Organisation<ex>.</ex>
+                    <lb/>Der älteste Denker dieser Art ist <hi rendition="#uu">
+                        <hi rendition="#normal">Thomas Hobbes</hi>
+                    </hi> (1588 – 1679)<ex>.</ex>
+                    <lb/>Im Mittelpunkt steht die Wissenschaft<ex>,</ex> dass alle<ex>s</ex>
+                        Gescheh<ex>en</ex> notwe<ex>ndig</ex> ist. Aus der <del rendition="#s">in
+                        der</del> Beherrschbarkeit der Naturvorgänge wird auf ihre Notwendigkeit
+                        geschlossen<ex>,</ex> außer diese<ex>m</ex> notwe<ex>ndigen</ex>
+                    Geschehenden gibt es überhaupt nichts<ex>,</ex>
+                    <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="nxbc_bbm_vw">= die Naturvorgänge.</note>
+                    </seg> umfassen alle<ex>s</ex>. Für ihn hat die Notwendigkeit als
+                        erste<ex>es</ex> Interesse aus wissenschaftlichen Gründen<ex>,</ex> nicht
+                    aus religiösen wie zum Beispiel bei den Stoikern. Um diese Grundgedanken zu
+                        führen<ex>,</ex> löst er 2 Aufgaben<ex>:</ex>
+                    <lb/>
+                    <list type="bulleted">
+                        <item>[9] 1. Nur das Körperliche ist wirklich<ex>,</ex> denn sonst ist <seg type="critical">
+                                <orig>nicht alles notwendig beherrschbar</orig>
+                                <note xml:id="nfjz_hbm_vw">Andere Lesart: „nicht alles
+                                        Notwe<ex>ndige</ex> beherrschbar.</note>
+                            </seg>.</item>
+                        <item>2. Innerhalb des Gebietes des Körperlichen gibt es von der
+                                Notwe<ex>ndigkeit</ex> in dies keine Ausnahme.</item>
+                    </list>
+                    <list type="bulleted">
+                        <item>1. Er leugnet daher das Allgemeine und das Seelische. Die
+                            Eigenschaften existieren in gar keinem Sinn. Das Wirkliche sind nur
+                            einzelne Körper und Namen<ex>,</ex> Name = Körper<ex>.</ex> Das
+                            Allgemeine ist nur die Verbindung zwischen beiden. Dieser Streit
+                                <supplied cert="high" prev="">spielt</supplied> schon im Mittelalter
+                            eine große Rolle. Beginnt mit dem Streit zwischen <hi rendition="#normal">Aristoteles</hi> und <hi rendition="#normal">Plato</hi>, verschärft durch <hi rendition="#u">
+                                <hi rendition="#normal">Roscellin</hi>
+                            </hi>
+                            <ex>,</ex> Begründer des <hi rendition="#normal">Nominalismus</hi>
+                            <ex>.</ex> Allgemein ≡ <hi rendition="#normal">flatus vocis</hi>. Das
+                            ist gegen die Drei<ex>-</ex>Einheit (<seg type="critical">
+                                <orig>Gottvater</orig>
+                                <note xml:id="ng3g_nbm_vw">
+                                    <note xml:id="nfxy_ljx_dw">Andere Lesart: Gott, Vater</note>
+                                </note>
+                            </seg> und heiliger Geist haben eine gemeinsam<ex>es</ex> Wesen). <hi rendition="#normal">Ros</hi>c<ex>ellin</ex> gebannt und muss
+                                widerrufen<ex>.</ex>
+                            <hi rendition="#normal">Nominalismus</hi> = <hi rendition="#normal">Terminismus</hi>
+                            <ex>. </ex>
+                            <seg type="critical">
+                                <orig>Hier gibt es noch Geister. Einzeln bei Hobbes. Zweck</orig>
+                                <note xml:id="nxt1_vbm_vw">Andere Lesart: „Hier gibt es noch Geister
+                                    einzeln. Bei Hobbes Zweck ...“.</note>
+                            </seg> = Leugnung alle<ex>r</ex> Nicht-Kö<ex>rper</ex>
+                            <ex>,</ex>
+                            <del rendition="#s"> 2.</del> Seelen<ex>.</ex> Das leugnet er zum Teil
+                            in Übereinstimmung mit <hi rendition="#normal">Galilei</hi>.
+                            Empfindungen deuten sie etwas anders als Körper<ex>,</ex>
+                            <choice>
+                                <sic>sind</sic>
+                                <corr cert="high">sie</corr>
+                            </choice> sind bloß Schein. Empfindungen sind Bezeichnungen für etwas
+                            Körperliches. Empfindungen = Bezeichnungen <choice>
+                                <sic>von</sic>
+                                <corr cert="high">für</corr>
+                            </choice> von fremden Körpern in unserem Körper hervorgerufene
+                            Veränderungen. Zum Beispiel: <seg type="critical">
+                                <orig>Brennen</orig>
+                                <note xml:id="nudl_tkx_dw">= Brennen der Haut.</note>
+                            </seg> = Bezeichnung für körperliche Veränder<ex>ung</ex> der
+                                Haut<ex>;</ex> Zorn: Bezeichnung der Blutwallung<ex>.</ex>
+                        </item>
+                        <item>
+                            <p>
+                                <milestone unit="section" rendition="#hr"/>
+                            </p>
+                        </item>
+                        <item>2. <del rendition="#s">Ist</del> Man könnte zwei Dinge
+                                ausnehmen<ex>:</ex> 1. Handlung der Menschen und 2. Vorgänge in der
+                            menschlichen Gemeinschaft<ex>.</ex> Bewusstsein der Freiheit ist eine
+                                Täuschung<ex>,</ex> auch hier ist sein Interesse
+                                wissenschaftlich<ex>,</ex> nicht religiös<ex>,</ex> im Gegensatz zu
+                            den Stoikern und <hi rendition="#normal">Augustinus</hi> (der Mensch
+                            darf sich Gott gegenüber nichts als Verdienst anrechnen)<ex>.</ex>
+                        </item>
+                    </list>[10] Verursachung der menschlichen Handlungen nach Hobbes: Trieb,
+                    Neigungen entsprechend den Naturgesetzen<ex>.</ex> Die menschlichen Handlungen
+                    in der Gemeinschaft folgen ebenso unabänderlichen Gesetzen. Der Haupttrieb des
+                    Menschen besteht in der Selbsterhaltung<ex>,</ex> im Streben nach Glück und
+                    Macht und dem Vermeiden von Unglück und Erniedrigung. Daraus folgt für den
+                    Anfang der menschlichen Gesellschaft<ex>:</ex>
+                    <hi rendition="#normal">bellum omnium contra omnes</hi>. Schließlich sagen
+                        sie<ex>,</ex> dass das allen schadet. Daher gründen sie das Recht als
+                    Versicherung gegen Verlust<ex>.</ex> Sie geben einen Teil ihrer Güter
+                        hin<ex>,</ex> um gegen die Anderen geschützt zu werden. Sie setzen also eine
+                    Obrigkeit ein. <del rendition="#s">[</del>Diese Lehre vom Gesellschaftsvertrag
+                    kommt schon bei den Epikureern vor und wird <choice>
+                        <sic>mit</sic>
+                        <corr cert="high">im</corr>
+                    </choice> Mittelalter vertreten von <hi rendition="#normal">Marsilius
+                            v<ex>on</ex> Padua</hi> zur Zeit des Streits zwischen <seg type="critical">
+                        <orig>
+                            <hi rendition="#normal">Ludwig</hi> dem Bayern <del rendition="#s">von</del> und Friedrich XXII</orig>
+                        <note xml:id="nmcv_hrx_dw"> Gödel verwechselt hier beim Zuhören die beiden
+                            Zeitgenossen und Gegner Ludwigs des Bayern, nämlich Papst Johannes XXII
+                            und Friedrich den Schönen.</note>
+                    </seg>. Dem Kaiser kommt das Recht auf Herrschaft zu als verliehen vom
+                        Volke.<del rendition="#s">]</del> Beste Staatsform für die Gegenwart =
+                        Monarchie<ex>,</ex> weil eine Befehlsgewalt notwe<ex>ndig</ex> ist. Die
+                    Macht der Obrigkeit muss auf jeden Fall unbeschränkt sein<ex>,</ex> sonst kann
+                    der Staat seine Aufgaben nicht erfüllen. Die Ob<ex>rig</ex>keit hat auch
+                    Religion und Sittlichkeit nach Belieben festzusetzen. Die Anerkennung von
+                    überirdischer Macht<ex>,</ex> die die Ob<ex>rig</ex>keit anerkennt<ex>,</ex>
+                    heißt Glaube<ex>,</ex> die Anerkennung von anderer heißt Aberglaube. <lb/>Diese
+                    Anschauung <del rendition="#s">findet</del>
+                    <hi rendition="#normal">Hobbes</hi> findet viel Gegnerschaft<ex>,</ex> auch bei
+                    den Naturwissenschaftlern der Zeit. <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> Im Altertum hatte sie <gap unit="words" quantity="1" reason="illegible"/>
+                    Beifall gefunden<ex>,</ex> jetzt nicht<ex>,</ex> wegen des Vorhandenseins der
+                    Psychologie (introspektiv) seit <hi rendition="#normal">Augustinus</hi>. Man
+                    glaubt nicht daran<ex>,</ex> dass die Empfindungen bloß Täuschungen sind, denn
+                    [11] man gründet im Gegenteil alle<ex>s</ex> auf Empfindungen<ex>,</ex> aus
+                    denen man das Übrige erst erschließt.</p>
+                <p>Der Erste, der den Widerspruch zu lösen sucht<ex>,</ex> ist <hi rendition="#uu">
+                        <hi rendition="#normal">René Descartes</hi> (1596 – 1650)</hi>
+                    <ex>.</ex> Er ist durchdrungen vom Geist der <hi rendition="#normal">Galileischen</hi> Physik<ex>,</ex> wenn er auch über Gal<ex>ilei</ex>
+                    <del rendition="#s">im Prinzip</del> schlecht urteilt. <del rendition="#s">In</del> Im Geist der mechanistischen Anschauung spricht er auch den Tieren
+                    die Seele ab<ex>,</ex> wobei er mit der Kirche zusammentrifft. Er wendet sich
+                    von der mechanistischen Auffassung nur ab in Hinsicht auf den Mensch. Es gibt
+                    noch Gedanken<ex>,</ex> ja<ex>,</ex> diese sind eigentlich das Einzige<ex>,</ex>
+                    was man nicht bezweifeln kann<ex>,</ex> an dies<ex>em</ex> Schluss kann man
+                    nicht zweifeln<ex>,</ex> weil er viel Klarheit und Deutlichkeit besitzt. Daraus
+                    folgt sogleich<ex>,</ex> dass auch die euklidische Geometrie der Außenwelt usw.
+                    wahr ist. Daraus folgt auch<ex>:</ex> die Vorstellung <del rendition="#s">ist</del> Gott<ex>es</ex> ist eben <del rendition="#s">vollkommen</del>
+                    klar. Er muss wirklich <del rendition="#s">nicht</del> existieren<ex>,</ex> weil
+                    die Wirkung nicht größer sein kann als die Ursache. Das Denken ist klarer und
+                    deutlicher als die Anschauung (Beispiel<ex>:</ex>
+                    <del rendition="#s">3</del> 1000-Eck <supplied cert="high" prev="">und</supplied> 999-Eck können <supplied cert="high" prev="">wir</supplied>
+                    nur begrifflich unterscheiden). Die Anschauung ist eine getrübte Art und Weise
+                    des Denkens. Denken<ex>:</ex> = mit Mühe<ex>,</ex> aber rein<ex>;</ex>
+                    Anschauung: leicht<ex>,</ex> aber unvollkommen. Dabei stammen diese klaren
+                    Begriffe aus dem Verstand rein (sind angeboren)<ex>.</ex> Das heißt aber
+                        nicht<ex>,</ex> dass die Kinder diese Ideen schon haben<ex>,</ex> sondern
+                    der Geist bringt diese Ideen von selbst hervor<ex>,</ex>
+                    <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> wenn gewisse Bedingungen vorhanden sind<ex>.</ex> Die Ideen sind
+                    angeboren wie die Gicht<ex>,</ex> nicht wie der Pulsschlag. Er nimmt zwei
+                    getrennte Substanzen an: [12] das Ausgedehntsein „der Körper“, das denkende Sein
+                    „die Seele“. Diese Trennung wird von ihm zum ersten Mal so deutlich
+                        ausgesprochen<ex>.</ex> Bei <hi rendition="#normal">Plato</hi> wird dieser
+                    Gedanke nur religiös aufgefasst<ex>,</ex> bei Aristoteles ist die Seele =
+                    Lebendigkeit des Körper<ex>s</ex>. Auch hier stimmt er mit der Kirche mehr
+                    überein als <choice>
+                        <sic>bei</sic>
+                        <corr cert="high">mit</corr>
+                    </choice> Aristoteles. Denn das Weiterbestehen einer bloßen Form ist <unclear reason="illegible" cert="">absurd</unclear>. <lb/>Verhältnis von Seele und
+                    Leib: Wenn in der Zirbeldrüse<ex>,</ex> durch die Lebensgeister
+                        fortgeleitet<ex>,</ex> gewisse Bewegungen entstehen<ex>,</ex> so ergibt das
+                        Gedanken<ex>,</ex> und umgekehrt (<hi rendition="#normal">Theorie der
+                        Wechselwirkung</hi> = <hi rendition="#normal">influxus physicus u<ex>nd</ex>
+                        psychicus</hi>)<ex>.</ex> Das ist dieser Punkt <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del>, den <hi rendition="#normal">Descartes</hi> nicht mehr versteht. Das ist
+                    das Problem<ex>,</ex> an das die Folgenden anknüpfen<ex>.</ex>
+                    <lb/>Zunächst <hi rendition="#u">
+                        <hi rendition="#normal">Arnold Geulin<ex>c</ex>x</hi>
+                    </hi> (1624 – 1669)<ex>.</ex>
+                    <lb/>Er behauptet<ex>,</ex> es ist gar keine Wechselwirkung<ex>,</ex> sondern
+                    Gott <del rendition="#s">wird</del> greift jedes Mal eigens ein<ex>.</ex> Auf
+                    Veranlassung des Bildes im Auge prägt Gott der Seele das Bild ein<ex>,</ex>
+                    ebenso der Materie bei Vorhandensein von Absicht (<hi rendition="#normal">Occasionalismus</hi>). Geul<ex>incx</ex> begründet das durch 2
+                        Annahmen<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1. Erklärung, warum eine Wechselwirkung nicht möglich ist<ex>.</ex>
+                            Weil: Alle Körper sind Teile einer Substanz eines Wesens. Ebenso ist das
+                            Denken im Ganzen eine Wesenheit.</item>
+                        <item>2. Wahrscheinlich <del rendition="#s">x</del> macht Gott nicht jedes
+                            Mal einen eigenen Eingriff. Er hat vielleicht ein für alle Mal einen
+                            Weltplan gemacht.</item>
+                    </list>
+                    <lb/>[13] Zwischen 1650 – 1680 ist die Wechselwirkung das drückendste
+                        Problem<ex>.</ex>
+                    <del rendition="#s">
+                        <lb/>Die Versuche</del>
+                    <hi rendition="#normal">Spinoza</hi> sucht die Fragen von vornherein zu
+                        scheiden<ex>,</ex> indem er sagt<ex>,</ex> Körper und Seele sind zwei Seiten
+                    eines Wesens. Was nicht nur für den Mensch<ex>,</ex> sondern für alle
+                        zutrifft<ex>.</ex>
+                </p>
+                <p>
+                    <hi rendition="#u">
+                        <hi rendition="#normal">Baruch Spinoza</hi>
+                    </hi>
+                    <lb/>
+                    <del rendition="#s">Subso</del> Ausdehnung und Denken (Seele : Körper) sind ihm
+                    Offenbarungsweise Gott<ex>es</ex>
+                    <ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">modi</hi> = Einzeldinge <lb/>
+                    <lb/>
+                    <seg type="critical">
+                        <orig>[14]</orig>
+                        <note xml:id="nuwc_gzx_dw">Seite ist nicht beschrieben.</note>
+                    </seg>
+                    <lb/>
+                    <lb/>[15] <hi rendition="#u">
+                        <hi rendition="#normal">Leibniz</hi> 1646 – 1716</hi>
+                    <ex>:</ex> Er ist der Erste<ex>,</ex> welcher mit <del rendition="#s">Wesen</del> Bestimmtheit das Geistige vor dem Körperlichen bevorzugt. Aber
+                    er zersplittert es in unzählig viele kleine Einzelwesen (Monade<ex>n</ex>). <gap unit="words" quantity="1" reason="illegible"/> daher sagt<ex>:</ex> Sie sind
+                    eigentlich geistig<ex>,</ex> erscheinen aber von außen als körperlich (als
+                        Punkte)<ex>,</ex> sind an sich ein Streben und ein Bewusstsein<ex>,</ex>
+                    erscheinen als Bewegung, Kraft, Gesetz. Die Monaden können nicht auf einander
+                        wirken<ex>,</ex> sondern die Ursachenreihe liegt nur innerhalb jeder
+                    einzelnen Monade. Alle<ex>s</ex> ist notwe<ex>ndig</ex>
+                    <ex>.</ex> Satz vom zureichenden Grund im doppelten Sinn gebraucht <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del>
+                    <ex>:</ex> 1. <hi rendition="#normal">Real</hi>grund<ex>,</ex> 2.
+                        Erkenntnisgrund<ex>.</ex>
+                    <lb/>Das fällt zusammen und zwar liegt alles innerhalb der Monade<ex>,</ex> also
+                    aus <seg type="critical">
+                        <orig>
+                            <hi rendition="#normal">
+                                <hi rendition="#u">petit<ex>e</ex>s perceptions</hi>
+                            </hi>
+                        </orig>
+                        <note xml:id="nxvb_pcm_vw">
+                            <note xml:id="ncsg_l5d_jw">Gomperz schreibt in seinem
+                                Vorlesungsmanuskript auf Seite 75: 'petite perception'.</note>
+                        </note>
+                    </seg>
+                    <ex>,</ex>
+                    <seg type="critical">
+                        <orig>unbewussten</orig>
+                        <note xml:id="nm3y_qcm_vw">Gomperz schreibt in seinem Vorlesungsmanuskript
+                            auf Seite 75: 'schwaches Bewusstsein'.</note>
+                    </seg> Vorstellungen folgt jede<ex>s</ex> Erlebnis der Monade. Jede Monade hat
+                    je nach Grad ihrer Entwicklung ein bestimmt<ex>es</ex> ausgebildetes Weltbild.
+                    Das heißt<ex>,</ex> es erscheinen in den einzelnen Monaden in Folge <hi rendition="#normal">praest</hi>
+                    <ex>abilierter</ex> Harmonie solche räumlichen Bestimmtheiten<ex>,</ex> dass sie
+                    zueinander passen. Inso<supplied cert="high" prev="">fern</supplied> besteht ein
+                    Übereinstimmen in den Vorgängen innerhalb der Monade. Also <seg type="critical">
+                        2</seg>erlei Arten von <hi rendition="#normal">praest</hi>
+                    <ex>abilierter</ex> Harmonie. Daraus schließt Leibniz<ex>,</ex> dass die Welt
+                    die vollkommenste unter den möglichen ist<ex>,</ex> das heißt unter
+                        denen<ex>,</ex> welche unter Berücksichtigung gewiss<ex>er</ex>
+                    <del rendition="#s">viele</del> Wahrheiten bestehen können (<hi rendition="#normal">Theodicee</hi>). Es liegt der Philosophie der Aufklärung
+                    zu Grunde<ex>,</ex> dass die Monaden vollständig voneinander getrennt sind
+                    (keine Fenster haben)<ex>,</ex> denn darin ist der Solipsismus <hi rendition="#normal">Berkeley’s</hi> präformiert<ex>.</ex>
+                </p>
+                <p>[16] <hi rendition="#u">
+                        <hi rendition="#normal">John Locke</hi> 1632 – 1704</hi>
+                    <lb/>Die Philosophie sucht sich auf Mathematik zu gründen <del rendition="#s">ist</del>
+                    <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> und mit mathematischer Strenge aufzubauen<ex>.</ex> Das führt auf Axiome
+                    und es handelt sich schließlich darum<ex>,</ex> woher diese stammen (man
+                        behauptet<ex>,</ex> dass sie von selbst einleuchtend sind<ex>,</ex>
+                    angeboren sind<ex>,</ex> wogegen <hi rendition="#normal">Locke</hi> polemisiert)
+                    (alle stammen aus der äußeren Erfahrung). Für Locke steht daher im Vordergrund
+                    die Frage<ex>,</ex> wie wir zu einem Wissen von den Dingen kommen (nicht wie es
+                    sich verhält). Das Weltbild ist dasselbe wie bei den anderen (Körper, Geist,
+                    primäre und sekundäre Eigenschaften). <lb/>
+                    <seg type="comment">
+                        <orig>Die Seele ist eine <hi rendition="#normal">tabula rasa</hi> (Anschluss
+                            an Aristoteles). Diesem weißen Blatt werden durch die Sinne <hi rendition="#normal">sensations</hi> eingeprägt<ex>,</ex> aus denen
+                            die Vorstellungen stammen. Nun gibt es <seg type="comment">2</seg>erlei
+                            Arten von Vorstellung</orig>
+                        <note xml:id="nsq4_bhx_5w">
+                            <note xml:id="nvqk_qzd_jw">In Gomperz’ Vorlesungsmanuskript auf Seite 77
+                                lesen sich die entsprechenden Abschnitte wie folgt: „Die Seele
+                                gleicht also bei der Geburt einem unbeschriebenen Blatt (tabula
+                                rasa), in das erst die Erfahrung alle einzelnen Vorstellungen
+                                einzeichnet. Diese Vorstellungen (Ideen) sind nun aber von zweierlei
+                                Art, je nachdem ob sie aus<ex> </ex>der Empfindung (Sensation) oder
+                                aus der Selbstbeobachtung (Reflexion) stammen. Aus der Empfindung
+                                stammen z.B. die Vorstellungen von Farben, Tönen, Düften,
+                                Geschmäcken, Temperaturen, Hart und Weich, Rauh und Glatt usw., aus
+                                der Selbstbeobachtung die Vorstellungen von Aufmerksamkeit und
+                                Unaufmerksamkeit, Erinnern und Vergessen, Beiahen und Verneinen,
+                                Vergleichen und dergleichen.“ </note>
+                        </note>
+                    </seg>
+                    <del rendition="#s">Vorstellungen</del>
+                    <del rendition="#s">sensations</del>: <list>
+                        <item>1.) durch den äußeren Sinn <hi rendition="#normal">sensation</hi>
+                        </item>
+                        <item>reflexion 2.) durch den <del rendition="#s">
+                                <gap quantity="1" unit="words"/>
+                            </del> inneren Sinn (<del rendition="#s">Wirkung</del>
+                            <choice>
+                                <sic>des</sic>
+                                <corr type="deleted"/>
+                            </choice> Erinnern, Vergleichen, Zählen<ex>)</ex>
+                            <ex>.</ex>
+                            <lb/>
+                        </item>
+                    </list>Wichtigste Aufgabe: Nachweis der Art<ex>,</ex> wie ein Wissen
+                        entsteht<ex>.</ex>
+                    <del rendition="#s">(aus den</del> Berechtigt nur<ex>,</ex> wenn es<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1. aus den einfachen Vorstellungen zusammengesetzt werden kann.
+                            Vorstellung eines Dings = Summe von <del rendition="#s">Vorstellungen</del> einfachen Vorstellungen<ex>,</ex> welche durch
+                                <hi rendition="#normal">Assoz</hi>
+                            <ex>iation</ex> zusammengehalten werden<ex>.</ex>
+                        </item>
+                        <item>2. Art der Zusammensetzung ist das Allgemeine. Sie entsteht durch <del rendition="#s">die</del> Weglassung gewisser Merkmale<ex>.</ex>
+                        </item>
+                        <item>3. Art<ex>:</ex> Stoff <hi rendition="#normal">Substanz</hi>.
+                            Wahrgenommen können nur die Eigenschaften werden<ex>.</ex> Der Stoff ist
+                            etwas Dunkles und Verwirr<ex>endes</ex>. Genau dieselbe Rolle spielt die
+                            Seele. Auch sie wird <del rendition="#s">den</del> den geistigen
+                            Tätigkeiten, [17] die <choice>
+                                <sic>werden</sic>
+                                <corr cert="medium">wir</corr>
+                            </choice> wirklich wahrnehmen<ex>,</ex> nur untergeschoben<ex>.</ex>
+                        </item>
+                        <item>4. Art<ex>:</ex> Vorstellung Gottes. Sie enthält die christliche
+                                Lehre<ex>,</ex> die also mit der Vernunft in keinem Widerspruch
+                                steht<ex>.</ex>
+                        </item>
+                    </list>
+                </p>
+                <p>Die Einwände<ex>,</ex> die man zu seiner Zeit macht<ex>,</ex> beziehen sich auf
+                    den Begriff der Sittlichkeit (das Sollen)<ex>.</ex> Daher zieht <hi rendition="#u">
+                        <hi rendition="#normal">Shaftesbury</hi>
+                    </hi> die Folgerung<ex>,</ex> dass wir einen besonderen moralischen Sinn haben
+                        müssen<ex>,</ex> aber eigentlich ist das nur ein Teil des Schönheitssinns (=
+                    Wahrnehmen der Gefälligkeit der Verhältnisse in den Empfindungen)<ex>.</ex>
+                    Sittlichkeit = richtiges Verhältnis zwischen <hi rendition="#normal">Egoismus</hi> und <hi rendition="#normal">Altruismus</hi>
+                    <ex>.</ex>
+                    <lb/>Im 18. Jahrhundert finden weitläufige Verhandlungen über diesen Sinn statt
+                    und man fragt<ex>,</ex> ob dieser Sinn als letzter zu betrachten sei oder auf
+                    einfachere zurückzuführen sei. Der längste Versuch diese Frage zu lösen (im
+                    Sinne der Zurückführbarkeit) ist von <hi rendition="#u">
+                        <hi rendition="#normal">Adam Smith</hi>
+                    </hi>. <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del>
+                    <lb/>
+                </p>
+                <p>Beginn des 18. Jahrhunderts 3 feststehende Systeme<ex>:</ex> 1.
+                        Mechanik<ex>,</ex> 2. Moralwissenschaft<ex>,</ex> 3. natürliche Theologie =
+                    diejenigen Lehrsätze des Mittelalters<ex>,</ex> die man als die natürlichen
+                    bezeichnet. Bisweilen auch im Gegensatz zur Offenbarung daran. Gegen diese 3
+                    Gedankensysteme richtet sich das Streben der <unclear reason="illegible" cert="">Verinnerlichung</unclear> = Empirismus<ex>.</ex> Man weiß nur von seinen
+                    Empfindungen. Ähnlich die Lage in Deutschland zur Zeit der Aufklärung. In
+                    Frankreich <hi rendition="#u">
+                        <hi rendition="#normal">Voltaire</hi>
+                    </hi> 1694 – 1778 . Er glaubt an alle 3 Lehrgebäude<ex>.</ex>
+                    <lb/>[18] <seg type="comment">
+                        <orig>Er <del rendition="#s">
+                                <gap quantity="1" unit="words"/>
+                            </del> verbreitet die <hi rendition="#normal">Newtonsche</hi> Physik in
+                            Deutschland. Und ist ein früher Vertreter der natürlichen Lehrreligion
+                                (<hi rendition="#normal">A Dieu Voltaire</hi> [Tempel auf seinem
+                                Besitz])<ex>.</ex>
+                            <lb/>Er glaubt dies sei ein Gegensatz gegen die mittelalterliche
+                            Offenbarungsreligion. Dies ist aber Glaubensschwärmerei und
+                                Priester<unclear reason="illegible" cert="">betrug</unclear>
+                            <ex>.</ex> Von den Gedanken <hi rendition="#normal">Humes</hi> scheint
+                            er überhaupt nicht Notiz zu nehmen.</orig>
+                        <note xml:id="nc4m_n42_jw"> In Gomperz’ Vorlesungsmanuskript ist auf Seite
+                            85 zu lesen: „Voltaire (1694 – 1778). Der Hauptvertreter der Newtonschen
+                            Weltanschauung und der natürlichen Religion, die bei ihm als Deismus
+                            erschien, mit ihrem ganzen Stolze auf ihre alleinige Vernunftmässigkeit,
+                            allein Hume’s Gegenrede vermochte er so wenig zu widerlegen, dass
+                            vielmehr sein Glaube an die Wahrheiten der natürlichen Religion im Laufe
+                            seines Lebens etwas ins Schwanken geraten zu sein scheint.“ </note>
+                    </seg> Wenn man von der Religion absieht<ex>,</ex> entsteht aus diesen Gedanken
+                    der Materialismus<ex>.</ex>
+                    <list>
+                        <item>
+                            <hi rendition="#u">
+                                <hi rendition="#normal">La Mettre</hi>
+                            </hi> 1709 – 1753 legt dem Stoff Belebtheit bei<ex>.</ex>
+                        </item>
+                        <item>
+                            <hi rendition="#u">
+                                <hi rendition="#normal">Holbach</hi>
+                            </hi> 1725 – 1789 der Stoff ist vollständig leblos.</item>
+                    </list>
+                    <lb/>
+                    <del rendition="#s">[</del> Gegensatz dazu<ex>:</ex>
+                    <hi rendition="#u">
+                        <hi rendition="#normal">Condillac</hi>
+                    </hi>↓ liegt in der Richtung <hi rendition="#normal">Locke</hi>, <hi rendition="#normal">Berk<ex>e</ex>ley</hi>, <hi rendition="#normal">Hume</hi>
+                    <ex>.</ex> Es wird alles auf einfache Empfindungen zurückgeführt. Er vergleicht
+                    den Menschen mit einer Statue<ex>,</ex> die allmählich einen Sinn nach dem
+                    anderen erhält.<del rendition="#s">]</del> Der Einzige<ex>,</ex> der eine
+                    Vereinigung zwischen diesen beiden Richtungen anstrebt<ex>,</ex> ist <hi rendition="#u">
+                        <hi rendition="#normal">D’Alembert</hi>
+                    </hi>
+                    <ex>.</ex> Er spricht den Gedanken aus<ex>,</ex> dass es gleichgültig
+                        ist<ex>,</ex>
+                    <del rendition="#s">in der</del> für die Naturwissenschaft<ex>,</ex> ob der
+                    Körper wirklich existiert oder nicht. In Deutschland <supplied cert="high" prev="">ist</supplied> die Lage ähnlich. Hier der bedeuten<ex>de</ex>
+                    Aufklärer <hi rendition="#u">
+                        <hi rendition="#normal">Christian Wolff</hi>
+                    </hi>. Er stellt die Monadenlehre zurück und beschäftigt sich hauptsächlich
+                        damit<ex>,</ex> aus gewiss einleuchtenden Sätzen alle<ex>s</ex>
+                        abzuleiten<ex>,</ex> worum es der damaligen Zeit zu <del rendition="#s">tun</del> tun war. <del rendition="#s">Dies</del> Das heißt: Physik,
+                    Theologie, Moral<ex>.</ex> Dies leistet er in ca. 20 <hi rendition="#normal">Bd</hi>. Sein System hat eine ungeheure Verbreitung<ex>.</ex> Bis um die
+                    Mitte des 18. Jahrhunderts standen die bedeutenden Denker Deutschlands im Dienst
+                    dieser Philosophie. Der <hi rendition="#normal">Locksche</hi> [19] Standpunkt
+                    wird von <hi rendition="#u">
+                        <hi rendition="#normal">Moses Mendelsohn</hi>
+                    </hi> vertreten<ex>,</ex> er meint aber doch die natürliche Religion ableiten zu
+                    können. Er glaubt am reinsten ist die natürliche Religion <del rendition="#s">dem</del> im Judentum erhalten.<lb/>
+                    <choice>
+                        <hi rendition="#u">
+                            <hi rendition="#normal">
+                                <sic>Reinmarus</sic>
+                                <corr cert="high">Reimarus</corr>
+                            </hi>
+                        </hi>
+                    </choice> neigt dem Materialismus zu, leugnet alle Wunder und will sie natürlich
+                    erklären. Der Gedanke<ex>,</ex> dass die Geschichte selbst sagenhaft
+                        sei<ex>,</ex> tritt erst im 19. Jahrhundert auf. Hier will man die
+                    Geschichten nur natürlich erklären. Diese geistige Lage erzeugt 3 größere
+                        Bewegungen<ex>,</ex> welche mit den <del rendition="#s">
+                        <hi rendition="#normal">Newton</hi>
+                    </del>
+                    <hi rendition="#normal">Humeschen</hi> Einwendungen fertig zu werden
+                        suchen<ex>.</ex> In England<ex>:</ex>
+                    <lb/>
+                    <hi rendition="#u">
+                        <hi rendition="#normal">Thomas Reid</hi> (1710 – 96)</hi>
+                    <ex>,</ex> Philosophie des gesunden Menschenverstandes. Die <hi rendition="#normal">Hume</hi>schen Argumente sind nicht
+                        widerlegbar<ex>,</ex> aber das kommt nur daher<ex>,</ex> dass es überall
+                        unbewies<ex>ene</ex> Voraussetzungen gibt. Wenn man an alle<ex>m</ex>
+                        zweifelt<ex>,</ex> kann man auch zum Beispiel behaupten<ex>,</ex> es gibt
+                    keine Vergangenheit oder die Nebenmenschen sind Automaten. Niemand kann uns
+                        beweisen<ex>,</ex> dass es eine Außenwelt gibt. Ebenso<ex>:</ex>
+                    Verursachung = Aufeinanderfolge, Wille = Ursache der Handlung, Freiheit des
+                    Willens. In den nächsten 50 Jahr<del rendition="#s">hundert</del>en stellt man
+                    sich auf diesen Standpunkt (wenigstens die Häupt<ex>er</ex> der
+                        Philosophie)<ex>.</ex>
+                    <lb/>In Frankreich tritt die Gegenströmung in <hi rendition="#u">
+                        <hi rendition="#normal">Rousseau</hi>
+                    </hi> {1712 – 1778} auf. Seine Lehre ist der des <hi rendition="#normal">Reid</hi> nicht unähnlich. Er beruft sich auf das „natürliche
+                        Gefühl“<ex>.</ex> Grundgedanke ist die ursprüngliche Güte der menschlichen
+                    Natur. In diesem natürlichen Gefühl ist auch die Wahrheit enthalten und wird von
+                    ihm erfasst.<lb/>[20] Das führt ihn zur Ansicht<ex>,</ex> dass der Mensch durch
+                    die übergroße Ausbildung der Vernunft schlechter geworden sei. Daraus zieht er
+                        Folgerungen<ex>,</ex> zum Beispiel in der Erziehung, in der Politik [die
+                        Kriege<ex>,</ex> Ungerechtigkeiten sind <del rendition="#s">darauf</del>
+                    zurückzuführen auf die Überkultur der herrschenden Klasse<ex>.</ex> Daher soll
+                    man den einfach<ex>en</ex> Mensch<ex>en</ex> die Regierung zurückgeben<ex>,</ex>
+                    <unclear reason="illegible" cert="">so</unclear> wird man friedlich leben (wie
+                    die Einwohner der <seg type="comment">
+                        <orig>
+                            <hi rendition="#normal">Andamanen</hi>
+                        </orig>
+                        <note xml:id="ndcl_ndm_vw">
+                            <note xml:id="ncnd_2w2_jw">Bewohner der aus 204 Inseln bestehenden
+                                Andamanen in der indischen Andamanensee.</note>
+                        </note>
+                    </seg>)<ex>.</ex> Er vertritt daher die Monarchie]. <lb/>In Deutschland ist
+                    diese Gegenströmung die Kantische Philosophie.</p>
+                <p>
+                    <hi rendition="#normal">
+                        <hi rendition="#u">Im<ex>manuel</ex> Kant</hi>
+                    </hi>
+                    <ex>,</ex>
+                    <hi rendition="#normal">Hume</hi>, <hi rendition="#normal">Newton</hi>, Moral +
+                    Theologie haben <seg type="critical">
+                        <orig>alle recht</orig>
+                        <note xml:id="nyry_pdm_vw">Andere Lesart: 'alle Rechte'.</note>
+                    </seg>
+                    <ex>.</ex>
+                    <lb/>Man muss eine 3fache Welt unterscheiden<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1. Welt des unmittelbar Gegebenen<ex>,</ex> I</item>
+                        <item>2. Welt<ex>,</ex> wie wir sie auf Grund des unmittelbar Gegebenen
+                            vorstellen müssen<ex>,</ex> II</item>
+                        <item>3. Welt<ex>,</ex> wie abgesehen von unseren Vorstellungen<ex>,</ex>
+                            vielleicht Ansicht einer möglichen<ex>.</ex> III</item>
+                    </list>
+                    <lb/>Welt I ist in gewissem Sinn allumfassend<ex>,</ex> denn alle<ex>s</ex>
+                    nimmt den Weg durch die Sinneswahrnehmung. <hi rendition="#normal">Hume</hi> hat
+                    insofern recht: Nur auf Grund der Welt I wissen wir von allem<ex>,</ex> was
+                    existiert. In dieser Welt gibt es keine Gegenstände, kein ich, keine
+                    Verursachung. Aber damit <supplied cert="high" prev="">ist</supplied> nicht
+                    alles zu Ende<ex>,</ex> denn wir reden auch von Gegenständen und meinen damit
+                        <hi rendition="#uu">nicht</hi> Empfindungen<ex>,</ex> sondern <seg type="critical">
+                        <orig>wir kommen nur durch unsere Empfindungen auf diese Welt</orig>
+                        <note xml:id="ndpz_cy2_jw"> Gemeint sein könnte, dass wir nur durch unsere
+                            Empfindungen darauf kommen, dass es diese Welt gibt und was es in ihr
+                            gibt, aber dass die Empfindungen nicht selbst die Welt sind und nicht
+                            das, was es in ihr gibt. </note>
+                    </seg> und zwar ist dieser Schluss notw<ex>endig</ex>. In dieser Welt gilt die
+                        <hi rendition="#normal">Newtonsche Physik</hi>
+                    <ex>,</ex> aber ist diese Welt die eigentlich wirkliche? Sie ist ja nur
+                    konstruiert auf Grund von Erlebnissen. Und bei [21] dieser Konstruktion tun wir
+                    selbst ja sehr viel dazu, zum Beispiel Farbe bedingt durch die Augen<ex>,</ex>
+                    Härte durch den Hautsinn<ex>.</ex>
+                    <lb/>Aber diese Welt muss ja auch an sich etwas sein und dieses Etwas <del rendition="#s">kann</del> können nicht die Körper der <hi rendition="#normal">Newtonschen Physik</hi> sein. Diese Welt können wir uns
+                    zwar nicht vorstellen<ex>,</ex> aber es ist möglich<ex>,</ex> dass in dieser
+                    Welt Geister (Seelen mit einem Gott an der Spitze) <del rendition="#s">stehen</del> sind und dies ist die Welt der natürlichen Theologie. Die Welt
+                    3 erzeugt in uns Empfindungen (Welt I) und auf Grund dieser stellen <del rendition="#s">werden</del> wir uns die Welt II vor (die Welt wie sie uns
+                    erscheint). <lb/>Kant sagt: Für Empfindungen hat <hi rendition="#normal">Hume</hi> vollständig recht<ex>,</ex> aber wir wissen noch von etwas
+                        ander<ex>em</ex>. Indem wir von Dingen (nicht Empfindungen) reden<ex>,</ex>
+                    die wir außerhalb unserer <supplied cert="high" prev="">selbst</supplied> setzen
+                    oder annehmen und worauf wir die Empfindungen beziehen und durch die wir unsere
+                    Empfindungen hervorgebracht denken. Diese Welt nennt Kant die Welt der
+                    Erfahrung. Diese gliedert sich in die Welt des Alltags und die Welt der
+                    Wissenschaft. In dieser Welt der Erfahrung hat <hi rendition="#normal">Newton</hi> recht. <del rendition="#s">Nun</del> Nun können aber die Dinge
+                    an sich nicht so beschaffen sein<ex>,</ex> wie wir sie wahrnehmen<ex>,</ex> weil
+                    wir sie nur durch die Beziehung auf Empfindungen konstruieren. Alle
+                        Eigenschaften<ex>,</ex> die wir an den Erfahrungsgegenständen
+                        annehmen<ex>,</ex> sind nur insofern etwas, als <del rendition="#s">sie</del> wir sie vorstellen<ex>.</ex> Ein Ding <del rendition="#s">an
+                        sich</del> wäre insofern ein Ding an sich<ex>,</ex> als die Aussagen darüber
+                    nicht durch Beziehung auf Empfindungen einen Sinn bekommen. Aus dieser
+                    Definition folgt<ex>,</ex> dass das Ding an sich uns unbekannt bleiben
+                        muss<ex>.</ex> Sicher [22] ist nur<ex>,</ex> dass <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="nd5y_b2m_vw">= die Dinge an sich; Subjektwechsel.</note>
+                    </seg> ganz anders sein müssen als wir sie vorstellen und sie in der
+                    Wissenschaft beschrieben werden. Weil wir von den Dingen gar nichts
+                        wüssten<ex>,</ex> könnte <del rendition="#s">raus</del> hier auch die
+                    Theologie vollständig recht haben. Das Ding an sich muss in 2 Teile zerlegt
+                        werden<ex>:</ex> Das Ich an sich und das Ding an sich. Das Ich nehmen wir
+                    ebenso hinter den Vorstellungen und Empfindungen an wie Dinge. Doch scheint hier
+                    das Ding an sich sich unmittelbarer zu zeigen als im Ich<ex>,</ex> als in den
+                    äußeren Dingen. Daher ist die Annahme<ex>,</ex> die Plausibilität<ex>,</ex> dass
+                    die Welt an sich geistig sei<ex>.</ex>
+                    <lb/>
+                    <lb/>Verhältnis der drei Welten<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1.) <del rendition="#s">
+                                <gap quantity="1" unit="words"/>
+                            </del> Indem die Dinge I Art auf das Ich an sich wirken oder das Gemüt
+                                affizieren<ex>,</ex> entstehen die Empfindungen<ex>.</ex>
+                        </item>
+                        <item>2.) Indem wir die Empfindungen auf Dinge beziehen<ex>,</ex> entsteht
+                            die Welt der Erfahrung<ex>.</ex>
+                        </item>
+                        <item>3.) Die Welt der Dinge an sich erscheint uns als die Welt der
+                                Erfahrung<ex>.</ex>
+                        </item>
+                    </list>
+                </p>
+                <p>Das Wissen von der Welt der Empfindung ist sicher<ex>,</ex> allerdings nur für
+                    die Vergangenheit und Gegenwart<ex>,</ex> da keine allgemeine Regeln<add place="superlinear">?</add> vorhanden sind<ex>.</ex> Das Wissen von der Welt
+                    der Erfahrung sollte eigentlich unsicher sein<ex>,</ex> ist aber in Wahrheit
+                    viel sicherer und viel umfangreicher und exakter als das erste<ex>,</ex> denn
+                    alle Aussagen des gewöhnlichen Lebens und der Wissenschaft beziehen sich auf
+                    sie. Ja, es existiert sogar ein prinzipieller Unterschied – wir können über die
+                    Dinge der Erfahrung <del rendition="#s">an sich</del> Aussagen machen von
+                    Allgemeinheit und Notwendigkeit<ex>,</ex> zum Beispiel die arithmetischen und
+                    geometrischen Urteile, aber es gibt auch noch andere Sätze dieser Art<ex>.</ex>
+                    Zum Beispiel: Alle Beschaffenheiten sind an Dinge geheftet<ex>,</ex> es gibt
+                    keine freien<ex>,</ex> in der Luft schwebenden Eigenschaften<ex>.</ex>
+                        Oder<ex>:</ex> Alles was geschieht<ex>,</ex> hat eine Ursache. Wenn wir mehr
+                    wissen von der Welt der Erfahrung als von der der Empfindung<ex>en</ex> muss sie
+                    etwas mehr enthalten und dies sind die Beziehungen<ex>,</ex> in welche wir die
+                    Empfindungen bringen<ex>.</ex>
+                </p>
+                <p>[23] Und zwar sind diese Zutaten<ex>:</ex>
+                    <list>
+                        <item>1. Der zeitliche Zusammenhang<ex>,</ex> und zwar die objektive
+                            zeitliche Ordnung<ex>.</ex>
+                        </item>
+                        <item>2. Die objektive räumliche Ordnung der Dinge<ex>.</ex>
+                        </item>
+                    </list>
+                </p>
+                <p>Ebenso <supplied cert="high" prev="">ist es</supplied> mit der Beschaffenheit und
+                    dem Gegenstand<ex>,</ex> wir ordnen jeder Beschaffenheit einen Gegenstand
+                    zu.<lb/>Wir suchen Ursachen. <choice>
+                        <sic>Den</sic>
+                        <corr cert="high">Eine</corr>
+                    </choice> Ordnung und den Zusammenhang der Natur bringen wir selbst
+                        hinein<ex>.</ex>
+                    <lb/>Natur = äußere Erfahrung. Die Herstellung der Zusammenhänge ist nicht
+                        willkürlich<ex>,</ex> sondern <hi rendition="#u">jeder </hi>Geist muss eben
+                    diese Zusammenhänge in die Empfindungen hinein <del rendition="#s">gebracht</del> bringen. Diese Zusammenhänge sind Bedingungen möglicher
+                    Erfahrung und alle diese Zusammenhänge lassen sich zurückführen auf eine
+                        Grundeigenschaft<ex>,</ex> nämlich die Einheit des Bewusstseins<ex>.</ex>
+                    <lb/>Welt der Erfahrung = Welt der <hi rendition="#normal">Phänomene</hi> (<add place="superlinear">= Natur</add>
+                    <ex>,</ex> Erscheinungswelt) – Welt wie sie sich uns darstellt, wie sie uns
+                        erscheint<ex>.</ex> [Heutzutage meint man unter Phänomenen meist das
+                    unmittelbar Gegebene<ex>,</ex> daher Phänomenalismus.] <lb/>Wirklichkeit der
+                    Erscheinungswelt = <hi rendition="#normal">realitas phaenomenon</hi> wird nur
+                    gedacht als vorhanden<ex>,</ex>
+                    <add place="sublinear">nicht als <seg type="critical">
+                            <orig>beschaffen</orig>
+                            <note xml:id="ngtp_mkf_jw">Im Ms. steht 'beschaffen', nicht
+                                'geschaffen'.</note>
+                        </seg>
+                    </add>. Welt der Dinge an sich = Welt der <hi rendition="#normal">Noumene</hi>
+                        (<hi rendition="#normal">Noúmenon</hi>) (↑wörtlich = gedacht)<ex>.</ex>
+                    <hi rendition="#normal">Noumene</hi>
+                    <del rendition="#s">=</del> zerfällt in zwei Arten<ex>.</ex> Das Ich an sich =
+                        <hi rendition="#normal">Gemüt</hi>
+                    <ex>.</ex>
+                    <lb/>Die Empfindungen entstehen dadurch<ex>,</ex> dass die Dinge an sich auf das
+                    Ich an sich wirken und dadurch entstehen gewisse Zustände [24] oder Zu<gap unit="chars" quantity="2" reason="illegible"/>sein des Ich. Nun hat das
+                    Gemüt das Bestreben<ex>,</ex> sich die Dinge vorzustellen.</p>
+                <p>Die Welt der Erfahrung ist einerseits das sicherste<ex>,</ex> andererseits
+                    entspricht sie gar nicht der Wirklichkeit. <lb/>
+                    <seg type="critical"/><?oxy_comment_start author="engelen" timestamp="20160801T170400+0200" comment="Pfeil zeigt auf „Wenn wir den Maßstab ... .“"?>↓<?oxy_comment_end?>
+                    Sie hat <hi rendition="#normal">empirische</hi>
+                    <hi rendition="#normal">Realität</hi>
+                    <ex>,</ex>
+                    <lb/>
+                    <hi rendition="#normal">transzendentale Idealität</hi>
+                    <ex>.</ex>
+                    <lb/>Wenn wir den Maßstab der Erfahrung anlegen<ex>,</ex> so ist die
+                    Erscheinungswelt <hi rendition="#normal">real</hi>. <lb/>Nicht real <supplied cert="high" prev="">ist</supplied>
+                    <ex>,</ex> was wir in diese Erscheinungswelt einordnen können<ex>.</ex>
+                    <lb/>Wenn wir den Maßstab des <hi rendition="#normal">Transzendentalen</hi>
+                    anlegen (das heißt<ex>,</ex> davon ausgehen<ex>,</ex> dass wir die Erfahrung
+                    auch überschreiten können)<ex>,</ex> ist sie ideal<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">Transzendent</hi> = <hi rendition="#normal">
+                        <del rendition="#s">Noumenon</del>
+                    </hi> Erkenntnis des <hi rendition="#normal">Noumenon</hi> = Erkenntnis des
+                    Dings an sich<ex>,</ex> welche die Erfahrung wirklich überschreiten
+                        würde<ex>.</ex>
+                    <lb/>Gegensatz<ex>:</ex>
+                    <hi rendition="#normal">immanent</hi> = was in den Empfindungen gegeben
+                        ist<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">Transzendental</hi> = Erkenntnis<ex>,</ex> welche die
+                    Erscheinungswelt beurteilt in Hinblick auf das Ding an sich (mit Beziehung auf
+                    das Ding an sich)<ex>.</ex>
+                    <lb/>Den 3 Welten entsprechen 3 verschiedene Arten von Erkenntnis<ex>.</ex> Bei
+                    Welt III gibt es keine [25] Erkenntnis. Bei den Empfindungen gibt es
+                        unmittelbare<ex>,</ex> aber sehr
+                    <?oxy_comment_start author="engelen" timestamp="20160801T170514+0200" comment="Pfeil zeigt auf „Insbesondere gibt es keine Aussage und ... .“"?>↓<?oxy_comment_end?>beschränkte
+                        Erkenntnis<ex>.</ex>
+                    <del rendition="#s">
+                        <lb/>
+                        <lb/>Weiter</del> In Welt II gibt es allgemeine und notwen<ex>dige</ex>
+                    Erkenntnis. |Insbesondere gibt es keine Aussagen über das Zukünftige <hi rendition="#u">und keine allgemeinen Urteile</hi>
+                    <ex>.</ex>|<lb/>Allgemein und notwendig = <hi rendition="#normal">a priori</hi>
+                        (<hi rendition="#normal">Kausalität</hi>) <lb/>Gegensatz = <hi rendition="#normal">a posteriori</hi>
+                    <add place="superlinear">
+                        <lb/>Erläuterungsurteil</add>
+                    <seg type="critical">
+                        <?oxy_comment_start author="engelen" timestamp="20160801T170741+0200" comment="Pfeil zeigt auf &apos;Erläuterungsurteil&apos;."?>←<?oxy_comment_end?>
+                    </seg>
+                    <hi rendition="#normal">analytische</hi>
+                    <seg type="critical">
+                        <?oxy_comment_start author="engelen" timestamp="20160801T170815+0200" comment="Pfeil zeigt auf „Urteile, die Aussagebegriffen folgen“"?>↓<?oxy_comment_end?>
+                    </seg> und <hi rendition="#normal">synthetische</hi>
+                    <seg type="critical">
+                        <?oxy_comment_start author="engelen" timestamp="20160801T170857+0200" comment="Pfeil zeigt auf „Urteile, die nicht selbstverständlich sind“"?>↓<?oxy_comment_end?>
+                    </seg>
+                    <lb/>Urteile<ex>,</ex> die Aussagebegriffe<ex>n</ex> folgen Urteile<ex>,</ex>
+                    die nicht selbstverständlich sind <lb/>
+                    <del rendition="#s">(</del>Sind <hi rendition="#normal">synthetische</hi>
+                    Urteile <hi rendition="#normal">a priori</hi> möglich<ex>?</ex>
+                    <lb/>Antwort<ex>:</ex> Wir selbst reihen die Empfindungen in Zusammenhänge ein
+                    und die Sätze<ex>,</ex> welche diese Sätze beschreiben<ex>,</ex> sind die <hi rendition="#normal">synthetischen</hi> Urteile <hi rendition="#normal">a
+                        priori</hi>
+                    <ex>.</ex>
+                    <lb/>Die Ordnung und den Zusammenhang der Natur bringen wir selbst
+                        hinein<ex>.</ex>
+                    <lb/>Die Zusammenhänge sind 2 mögliche Arten. 1.) Raum und Zeit<ex>.</ex> Hier
+                    legen wir den Zusammenhang ohne Nachdenken <del rendition="#s">in die</del>
+                        hinein<ex>,</ex> sodass wir keine Empfindungen haben<ex>,</ex> die wir nicht
+                    [26] <del rendition="#s">r</del> räumlich und zeitlich <del rendition="#s">ord</del>
+                    <hi rendition="#u">anschaulich</hi>
+                    <del rendition="#s">ord</del> und un<subst>
+                        <del rendition="#s">un</del>
+                        <add place="across">be</add>
+                    </subst>wusst eingeordnet <supplied cert="high" prev="">haben</supplied>
+                    <ex>,</ex> sodass hier das unmittelbar Gegebene schon den Zusammenhang an sich
+                        trägt<ex>,</ex> den wir selbst in sie hineinlegen<ex>.</ex>
+                    <lb/>2<ex>.</ex> Art sind die Zusammenhänge<ex>,</ex> welche wir mit
+                        voll<ex>em</ex> Bewusstsein in die Empfindungen hineinlegen.<lb/>
+                    <del rendition="#s">(</del>Das sind die Verstandesbegriffe oder <hi rendition="#normal">Kategorien</hi> (<hi rendition="#normal">Substantialität</hi>, <hi rendition="#normal">Kausalität</hi>)<ex>.</ex>
+                    Das ist nur eine Erklärung für <hi rendition="#normal">Apriorität</hi>
+                    <ex>,</ex> wenn man weiß<ex>,</ex> dass man immer in diese Zusammenhänge
+                    einordnen wird. Das wird widerlegt, indem <del rendition="#s">man</del> Kant
+                        sagt<ex>,</ex> man <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> kann beweisen<ex>,</ex> dass vernünftige Wesen<ex>,</ex> wenn sie
+                    überhaupt einheitlich eine <del rendition="#s">erfah</del> Welt denken
+                        wollen<ex>,</ex> nach den <unclear reason="illegible" cert="high">Kategorien</unclear> einordnen müssen<ex>.</ex>
+                    <hi rendition="#normal">transc<ex>endentale</ex>
+                    </hi>
+                    <hi rendition="#normal">Deduktion</hi> der <hi rendition="#normal">Kat<ex>egorien</ex>
+                    </hi>
+                    <ex> .</ex> Diese Deduktion findet statt aus der Einheit des Bewusstseins (das
+                        heißt<ex>,</ex>
+                    <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="nd5r_4sf_jw">Andere Lesart: 'Sinn'.</note>
+                    </seg> muss zusammen <del rendition="#s">für</del> gefasst werden, <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="nfwy_psf_jw">Andere Lesart: 'Sinn'.</note>
+                    </seg>
+                    <choice>
+                        <sic>ein</sic>
+                        <corr cert="medium">kann</corr>
+                    </choice> nicht so getrennt sein wie die Empfindungen in verschiedenen Menschen.
+                        <hi rendition="#normal">Einheit der Apperzeption</hi> (transzendentale
+                    Einheit der Apperzeption)<ex>.</ex> Dies ist die Ur-Tatsache<ex>,</ex> aus der
+                    Kategorien deduziert werden müssen<ex>.</ex> Anschauungen ohne Begriffe sind
+                        blind<ex>,</ex> Begriffe ohne Anschauungen sind leer. Bloße Empfindungen
+                    ohne Form des Zusammenhangs bilden kein Wissen<ex>,</ex> bloße
+                    Ordnungszusammenhänge ohne Empfindungen sind leer<ex>.</ex>
+                </p>
+                <p>[27] <del rendition="#s">Apriorisch</del> Wissen von den Dingen an sich gibt es
+                        nicht<ex>.</ex> Einerseits nicht a priori<ex>,</ex> weil die Formen nur auf
+                    Empfindungen angewandt werden können<ex>,</ex> andererseits nicht
+                        aposteriori<ex>,</ex> denn das wären Empfindungen<ex>,</ex> die ja Wirkung
+                    der Dinge auf das Ich sind. <del rendition="#s">Das</del> Der erste Teil geht
+                    gegen <choice>
+                        <hi rendition="#normal">
+                            <sic>Leibnitz</sic>
+                        </hi>
+                        <corr cert="medium">
+                            <hi rendition="#normal">Leibniz</hi>
+                        </corr>
+                    </choice>. Das Wissen fällt in Bezug auf das Gebiet mit der Erfahrung zusammen
+                    (mit den Empfindungen)<ex>,</ex> nicht in Bezug auf den Inhalt (<hi rendition="#normal">Hume</hi>)<ex>.</ex> Wenn man die Kategorie<ex>n</ex>
+                    auf die Welt als ganze anwendet<ex>,</ex> entstehen sinnlose Fragen<ex>,</ex>
+                    welche in entgegengesetzter Weise beantwortet <supplied cert="high" prev="">werden</supplied> können (<hi rendition="#normal">Antinomien</hi>)<ex>,</ex> ebenso durch die Anwendung auf die Seele oder
+                    Gott. Beispiele von sinnlosen Fragen: Ist die Welt unendlich teilbar, hat sie
+                    einen Anfang, hat sie eine Ursache, ist die Seele unsterblich, Freiheit des
+                    Willens. <lb/>
+                    <del rendition="#s">Kl</del> Natürliche Religion – zunächst scheint er der
+                    natürlichen Religion ablehnend gegenüber zu stehen. Aber man kann sie nicht nur
+                    nicht beweisen<ex>,</ex> sondern auch nicht widerlegen<ex>,</ex> denn zum
+                        Beispiel<ex>,</ex> wenn man sagt<ex>,</ex> in der Welt herrsche blinde
+                        Notwendigkeit<ex>,</ex> so gilt das nur für die Erscheinungswelt<ex>,</ex>
+                    die Dinge an sich stehen sicher nicht in der Beziehung blinder
+                        Notwendigkeit<ex>,</ex> weil sie nur einen Sinn haben in der Erfahrung. Man
+                    kann nicht beweisen<ex>,</ex> nicht dass die Welt geistig ist<ex>,</ex> aber sie
+                    könnte auch geistig sein<ex>.</ex>
+                </p>
+                <p>[28] Ebenso könnten die Dinge an sich frei sein. Nun gibt es aber eine Tatsache
+                    in der Erscheinungswelt<ex>,</ex> welche den Gedanken aufzwingt<ex>,</ex> dass
+                    Dinge an sich eher den Begriffen der natürlichen Religion entsprechen als <seg type="critical">
+                        <orig>andere<ex>n</ex>
+                        </orig>
+                        <note xml:id="nm3k_wjk_jw">Andere Lesart: 'als andere'.</note>
+                    </seg>. Diese Tatsache ist das Gefühl der sittlichen Verantwortung. Wenn sich in
+                    unserem Wissen nichts befindet als Beziehung<ex>en</ex> der
+                        Erscheinungswelt<ex>,</ex> so dürfte es in uns nichts geben wie eine
+                        Verantwortung<ex>.</ex> Denn man müsste sich selbst begreifen als ein Stück
+                    der Erscheinungswelt<ex>,</ex> das nach der größten Lust strebt und äußerlich
+                    ein Mechanismus ist (das gilt aber nur für Tiere)<ex>.</ex> Der Mensch müsste
+                    ein Automat sein<ex>,</ex> der mit Notwendigkeit als Automat von den Triebfedern
+                    und der Lust regiert würde<ex>.</ex> [In der Gefühlslage empfindet man etwas
+                    über das Verhältnis der Dinge zueinander<ex>.</ex>] – Moralisches Bewusstsein =
+                    Anerkennung der Verpflichtung<ex>,</ex> sich einem allgemeinen Gesetz<ex>,</ex>
+                    das für alle Vernünftig<ex>en</ex>
+                    <del rendition="#s">welches</del> gilt, zu unterwerfen = Anerkennung der
+                    Verbindlichkeit zur Pflichterfüllung<ex>.</ex> Pflichterfüllung ist eine höchst
+                    unangenehme Notwendigkeit (Gegensatz zu <hi rendition="#normal">Hume</hi>)<ex>.</ex>
+                    <lb/>Die Triebfeder ist Achtung für das Gesetz<ex>:</ex> Gern helfe ich den
+                        Freunden<ex>,</ex> doch tue ich es leider mit Neigung<ex>,</ex> also <gap unit="words" quantity="1" reason="illegible"/> es mir oft<ex>,</ex> dass Ich
+                    nicht tugendhaft werde<ex>.</ex> Diese Achtung vor dem Gesetz ist der gute
+                        Wille<ex>.</ex> Er genügt zum sittlichen Handeln (alle<ex>s</ex> Spezielle
+                    folgt aus ihm)<ex>.</ex>
+                    <hi rendition="#normal">
+                        <choice>
+                            <sic>h</sic>
+                            <corr cert="medium">H</corr>
+                        </choice>eteronom</hi> ist der Wille<ex>,</ex> wenn er von anderen Zwecken
+                        (Lust<ex>)</ex> bestimmt<choice>
+                        <sic>)</sic>
+                        <corr type="deleted"/>
+                    </choice> wird<ex>.</ex> Der Vernunft fehlen [29] dann hypothetische Imperative. <lb/>
+                    <hi rendition="#normal">
+                        <choice>
+                            <sic>a</sic>
+                            <corr cert="medium">A</corr>
+                        </choice>utonom</hi> ist eine Willensbestimmung dann<ex>,</ex> wenn sie
+                    nicht abhängt von den Vorteilen oder einer Lust<ex>,</ex> die daraus folgt. Die
+                    Vernunft stellt dann <hi rendition="#normal">kat</hi>
+                    <ex>egorischen</ex>
+                    <hi rendition="#normal">Imp</hi>
+                    <ex>erativ</ex> auf – aus der bloßen Anerkennung eines Gesetzes überhaupt folgt
+                    der Inhalt dieses Gesetzes (Prinzip der Ableitbarkeit des Inhalts aus der
+                        Form)<ex>.</ex>
+                    <lb/>Lehre von der Willensfreiheit ist eine Glaubenspflicht (ein Postulat der
+                    praktischen Vernunft)<ex>.</ex> Daher sagt er<ex>:</ex>
+                    <ex>„</ex>Ich musste die Metaphysik wegschaffen<ex>,</ex> um für den Glauben
+                    Platz zu machen. Denn man hat die natürliche Religion auf eine falsche Grundlage
+                    gestellt und daher <unclear reason="illegible" cert="">ihnen</unclear> selbst geschadet.<lb/>
+                    <del rendition="#s">- 1830 bleibt die Grundvoraus</del>
+                    <supplied cert="high" prev="">Voraus</supplied>setzung der Philosophie<ex>:</ex>
+                    Das Wirkliche<ex>,</ex> das eine Setzung eines Urwesens <supplied cert="high" prev="">ist</supplied>
+                    <ex>,</ex> zu begreifen und die innere Notwendigkeit nachzuweisen<ex>,</ex>
+                    warum das Ich das setzt<ex>,</ex> was wir in der Welt der Erfahrung
+                        vorfinden<ex>.</ex>
+                </p>
+                <p>
+                    <lb/>
+                    <hi rendition="#normal">
+                        <hi rendition="#u">Schelling</hi>
+                    </hi> (1775 – 1854) <lb/>Seine Bedeutung ist<ex>,</ex> dass er das Bindeglied
+                    zwischen Fichte und Hegel darstellt. Er selbst <supplied cert="high" prev="">ist</supplied> wenig originell<ex>.</ex> Das Setzen ist bei Schelling nicht
+                    bloß ein Gedanke<ex>,</ex> sondern es verkörpert sich<ex>.</ex> Das
+                        heißt<ex>,</ex> er leitet nicht eine Erscheinungswelt<ex>,</ex> sondern eine
+                    reale Welt aus dem Ich ab<ex>.</ex>
+                    <lb/>[30] <seg type="critical">
+                        <orig>Das Setzen von der Seite der Welt betrachtet <unclear reason="illegible" cert="">ist die</unclear> Natur<ex>,</ex> von
+                            innen betrachtet der Geist</orig>
+                        <note xml:id="nfyy_hfm_vw">In Gomperz’ Vorlesungsmanuskript heißt es auf
+                            Seite 98: „Diese Welt heißt, sofern sie gedacht wird, Geist, sofern sie
+                            tatsächlich besteht, Natur.“</note>
+                    </seg> (Spinozismus). <lb/>Seine Philosophie wurde von Lorenz <hi rendition="#normal">Oken</hi> ausgestaltet. Natur und Geist entsprechen
+                    einander <unclear reason="illegible" cert="">genau</unclear>. Und zwar Natur und
+                    menschlicher (nicht göttlicher<ex>)</ex> Geist<choice>
+                        <sic>)</sic>
+                        <corr type="deleted"/>
+                    </choice>. Entwicklung des Geistes ≡ Entwicklung der Natur<ex>,</ex>
+                    nachgewiesen in der Philosophie der Geschichte. <lb/>Die höchste Stufe der Natur
+                    ist der Organismus<ex>.</ex> Die höchste Stufe der geistigen Erscheinung ist das
+                    Kunstwerk. Das Kunstwerk ist ein Organismus. In der Natur das Geistige und im
+                    Geist das Natürliche aufzuzeigen ist der Kernpunkt seiner Philosophie. Weltall
+                    ist zugleich das größte Kunstwerk und der größte Organismus<ex>,</ex> es umfasst
+                    seine Teile wie ein Kunstwerk seine Teile oder wie ein organisches Ganzes seine
+                    Teile umfasst. Die Entwicklung ist eine Entfaltung<ex>.</ex> Das Absolutum ist
+                    die nicht voll entfaltete Welt<ex>,</ex> die Welt ist das voll entfaltete
+                    Absolutum.<lb/>Hier verwandelt sich die logische Folge in eine zeitliche Folge.
+                    <lb/>Die letzten Jahre hat Schelling über den Grund der Entwicklung gegrübelt.
+                    Hier greift Schelling zurück auf <hi rendition="#normal">Jakob Böhme</hi>. Er
+                        sagt<ex>:</ex> In Gott ist ein dunkler Urgrund<ex>,</ex> der Schuld an aller
+                    Unvollkommenheit ist und den Gott selbst überwinden muss<ex>.</ex> Daher die
+                    allmähliche Entfaltung<ex>,</ex> [31] deswegen <gap unit="chars" quantity="1" reason="illegible"/> die Unvollkommenheiten<ex>.</ex>
+                </p>
+                <p>
+                    <lb/>
+                    <hi rendition="#u">
+                        <hi rendition="#normal">Hegel</hi>
+                    </hi>
+                    <ex>,</ex> etwas älter als Schelling<ex>,</ex> trotzdem baut er sein System auf
+                    Schelling auf<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">Hegel</hi> 1770 – 1831 – Er behält die Selbstentfaltung
+                    der Welt bei<ex>,</ex> auch dass es eine zeitliche Entwicklung ist<ex>,</ex>
+                    ebenso wie beim Geist. Aufgabe der Philosophie ist<ex>,</ex> diese Stufe im
+                    Geist und der Natur aufzuweisen. Er vermehrt dies aber um einen Grundgedanken:
+                    Die Entfaltung des <hi rendition="#normal">Absoluten</hi> vollzieht sich nach
+                    einem festen Gesetz der Gedankenbewegung (welche in logischen Verhältnissen
+                        besteht)<ex>.</ex> Der Aufstieg in der Wirklichkeit ist nur die Verkörperung
+                    eines Fortschritts in einem System der Begriffe. Dieses Gesetz sagt<ex>:</ex>
+                    Jeder Begriff schlägt in sein Gegenteil um<choice>
+                        <sic>schlag</sic>
+                        <corr type="deleted"/>
+                    </choice> und dass beide in einen höheren Begriff übergehen<ex>,</ex> in dem sie
+                    beide aufgehoben sind in dem doppelten Sinn dieses Wortes
+                        (dialektische<ex>r</ex> Prozess)<ex>.</ex>
+                    <lb/>Beispiel: 1. Begriff <table rows="2" cols="3">
+                        <row>
+                            <cell>
+                                <hi rendition="#normal">Sein</hi>
+                            </cell>
+                            <cell>schlägt um ins</cell>
+                            <cell>
+                                <hi rendition="#normal">Nichts</hi>
+                            </cell>
+                        </row>
+                        <row>
+                            <cell>↪</cell>
+                            <cell>
+                                <hi rendition="#normal">Werden</hi>
+                            </cell>
+                            <cell>↩</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>
+                                <lb/>hier beide aufgehoben</cell>
+                            <cell/>
+                        </row>
+                    </table>Daraus werden sämtliche anderen Begriffe abgeleitet und dem entspricht
+                    die Entwicklung der Natur und des Bewusstseins<ex>.</ex>
+                    <lb/>[32] Wesen des <hi rendition="#normal">dial<ex>ek</ex>
+                        <ex>tischen</ex>
+                    </hi> Prozesses ist einerseits kein Denkvorgang in der Zeit<ex>,</ex>
+                    andererseits kein bloß begriffliches Verhältnis. Wenn sich ein denkendes Wesen
+                    vertieft in einen Begriff<ex>,</ex> so treibt dieser aus sich heraus einen
+                    anderen Begriff<ex>,</ex> wenn man seine Beziehung zu ander<ex>en</ex>
+                        Begriff<ex>en</ex> denkt. <lb/>Wenn man von den dialektischen
+                        Prozessen<ex>,</ex> allmählich von den allgemeinsten Begriffen
+                        ausgehend<ex>,</ex> immer weiter fortschreitet<ex>,</ex> so erhält man ein
+                    Reich von Begriffen<ex>,</ex> das noch keine Beziehung auf die Wirklichkeit hat
+                    (Reich der Vernunft oder <hi rendition="#normal">Idee</hi>).<hi rendition="#normal">
+                        <lb/>Sein</hi>, <hi rendition="#normal">Nichts</hi>, <hi rendition="#normal">Werden</hi>, ⎜<hi rendition="#normal">Beschaffenheit</hi>, <lb/>
+                    <hi rendition="#normal">Quantität</hi>, <hi rendition="#normal">Maß</hi>
+                    <add place="sublinear">für jemand</add>⎜ ↦ <hi rendition="#normal">Sein</hi>
+                    <lb/>
+                    <hi rendition="#normal">Seinsweise</hi> (<hi rendition="#normal">Wesen</hi>, <hi rendition="#normal">Erscheinung</hi>, <hi rendition="#normal">Wirklichkeit</hi>) = (Wesen + Erscheinung) <lb/>Denken<lb/>[<hi rendition="#normal">Begriff</hi>, <hi rendition="#normal">Urteil</hi>, <hi rendition="#normal">Schluß</hi>] <del rendition="#s">Gegenstand</del>
+                    <lb/>
+                    <seg type="critical">
+                        <orig>
+                            <orig>I Denkvorgang</orig>
+                        </orig>
+                        <note xml:id="ngjr_4gm_vw">'I Denkvorgang' sthet im Ms. rechts neben
+                            'Denken', ist jedoch mit einem Pfeil nach unten zu 'II
+                            Gegenstandsbegriffe' versehen, wodurch angezeigt ist, dass Punkt I vor
+                            II stehen soll.</note>
+                    </seg>
+                    <lb/>II Gegenstandsbegriffe <lb/>(<hi rendition="#normal">Totes</hi>, <hi rendition="#normal">Wahlverwandtes</hi>, <hi rendition="#normal">Zielstrebigkeit</hi>) <lb/>III <hi rendition="#normal">Bewußtsein</hi>
+                    (Denkvorgang + Gegenständ<ex>e</ex>) <lb/>[33] <hi rendition="#normal">Leben</hi>, <hi rendition="#normal">Erkenntnis</hi>, <hi rendition="#normal">Vernunft</hi>
+                    <hi rendition="#normal">
+                        <lb/>Vernunft schlägt</hi> ebenfalls <hi rendition="#normal">in <subst>
+                            <del rendition="#ow">ihren</del>
+                            <add place="across">ihr</add>
+                        </subst>Gegenteil um</hi>
+                    <ex>.</ex> Das heißt<ex>,</ex> es gibt außer den Begriffen auch solche
+                        Dinge<ex>,</ex> welche nicht die Begriffe sind<ex>,</ex> von welche<choice>
+                        <sic>m</sic>
+                        <corr cert="high">n</corr>
+                    </choice> die Begriffe Begriffe sind. Das wird möglich, weil nach Schelling die
+                    Natur nur eine Evolution des Geistes ist. <lb/>In der Natur gibt es die Stufen:
+                    das Tote, das Kraftbegabte und das Lebendige. Im Lebendigen gibt es wieder 3
+                        Stufen<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1. Die Erde (sie ist lebendig, wird aber nicht so genannt)<ex>,</ex>
+                        </item>
+                        <item>2. die Pflanze<ex>,</ex>
+                        </item>
+                        <item>3. das Tier<ex>.</ex>
+                        </item>
+                    </list>
+                </p>
+                <p>Geist ist dasjenige<ex>,</ex> worin Natur und Geist sich vereinigen. Die Begriffe
+                    sind im Geist und die Natur spiegelt sich im Geist. Die Philosophie des Geistes
+                    ist bei Hegel das Wichtigste. Der Begriff des Geistes zerfällt in den Geist des
+                        Einzelnen<ex>,</ex> in den Geist der menschlichen Gesamtheit = Kultur und
+                    Geist des gesamten Weltalls (Kunst, Religion und Philosophie). Es wird
+                        gezeigt<ex>,</ex> dass es das Alles geben muss<ex>,</ex> so dass dies Alles
+                    nacheinander eintritt. Diese zeitliche Folge ist dieselbe wie die logische Folge
+                    der Begriffe. Die Weltgeschichte ist [34] die Art und Weise wie der Weltgeist
+                    sich seiner selbst bewusst wird. <lb/>Der <hi rendition="#u">Geist ist
+                        3</hi>-gestuft<ex>.</ex> Er fängt an mit dem 1.) Einzelgeist = <hi rendition="#normal">subjektiver Geist</hi> = Gegenstand der
+                        Psychologie<ex>,</ex> 2.) Gesamtgeist = Geistiges. Es <supplied cert="high" prev="">lässt</supplied> sich nicht beschränken auf ein
+                        Einzelwesen<ex>,</ex> sondern<ex>,</ex> sofern es in der menschlichen
+                    Gesamtheit erscheint ( = objektiver Geist*)<ex>,</ex>
+                    <supplied cert="high" prev="">ist es</supplied> im wesentlichen = Kultur. 3.
+                    Stufe = Weltgeist = <hi rendition="#normal">absoluter Geist</hi> = diejenige
+                    Erscheinungsweise des objektiven Geistes<ex>,</ex> welche die Welt schlechtweg
+                        darstellt<ex>.</ex> Daher = Kunst, Religion, Philosophie+. * Hier geht der
+                    Geist nicht über die Intentionen der menschlichen Gesellschaft hinaus<ex>.</ex>
+                    + Geht darüber hinaus<ex>.</ex> Der Einzelgeist scheidet sich in
+                        Beseelung<ex>,</ex> Bewusstsein und Selbstbewusstsein = Pflanze, Tiere,
+                        Mensch<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#u">Objektiver Geist</hi> =
+                    Recht<?oxy_comment_start author="engelen" timestamp="20160621T161145+0200" comment="Pfeil auf &apos;unbewusste Moralität&apos;"?>↓<?oxy_comment_end?>,
+                    Moralität<?oxy_comment_start author="engelen" timestamp="20160621T161244+0200" comment="Pfeil auf &apos;Moralität&apos;."?>↓<?oxy_comment_end?>,
+                    Sittlichkeit <lb/>unbewusste Moralität auf der Stufe der unbewussten <gap unit="words" quantity="1" reason="illegible"/> Moralität auf der Stufe des
+                        Bewusstseins<ex>.</ex>
+                    <lb/>Sittlichkeit = Struktur der <ex>Ge</ex>sellschaft<ex>,</ex> worin sich das
+                    Recht und die Sittlichkeit niederschlagen<ex>.</ex>
+                    <lb/>Diese äußern sich in 3 Stufen<ex>:</ex>
+                    Familie<?oxy_comment_start author="engelen" timestamp="20160621T161643+0200" comment="Pfeil auf &apos;Ausdruck ....&apos;."?>↓<?oxy_comment_end?>,
+                    Gesellschaft<?oxy_comment_start author="engelen" timestamp="20160621T161611+0200" comment="Pfeil auf &apos;Verhältnis von Herr und Sklave&apos;
+"?>↓<?oxy_comment_end?>, Staat<?oxy_comment_start author="engelen" timestamp="20160621T161535+0200" comment="Pfeil auf &apos;Patriotismus&apos;"?>↓<?oxy_comment_end?>
+                    <lb/>Ausdruck für Recht und Moral<ex>,</ex> Verhältnis von Herr und
+                        Sklave<ex>,</ex> Patriotismus <lb/>[35] Absoluter Geist<ex>:</ex>
+                    <lb/>Kunst<?oxy_comment_start author="engelen" timestamp="20160801T150808+0200" comment="Pfeil auf &quot;Stil charakterisiert ... .&quot;"?>↓<?oxy_comment_end?>
+                    = sinnliche Erscheinungsweise des Absoluten<ex>:</ex> Der Weltgeist wird sich
+                    seiner selbst bewusst<ex>.</ex>
+                    <lb/>Religion = Vorstellung vom Absoluten<ex>:</ex> Der Weltgeist wird sich
+                    seiner selbst bewusst<ex>.</ex>
+                    <lb/>Philosophie = Wissen vom Absoluten<ex>:</ex> Der Weltgeist wird sich seiner
+                    selbst bewusst<ex>.</ex>
+                    <del rendition="#s">charak zum Beispiel</del>
+                    <unclear reason="illegible" cert="">Stil</unclear> charakterisiert zum Beispiel
+                    eine Stellungnahme zum Weltall<ex>.</ex>
+                    <lb/>Das Zu-sich-selbst-Kommen der Welt im Geist hat auch eine
+                        zeitliche<ex>,</ex> nicht nur logische Ordnung – von dem Augenblick
+                        angefangen<ex>,</ex> wo der Begriff beginnt anders zu sein – vor allem gilt
+                    das für den Geist. <lb/>Hier gelten nun ebenfalls die 3 Schritte<ex>,</ex>
+                    welche hier ein Begreifen der Geschichte ermöglichen<ex>.</ex>
+                    <lb/>Kunst = Epoche der unbewussten Symbolik. <lb/>
+                    <space unit="em" quantity="1"/> = Epoche der Symbolik des Erhabenen <lb/>
+                    <space unit="em" quantity="1"/> = Epoche der bewussten Symbolik<ex>.</ex>
+                    <lb/>Zum Beispiel Zoroastrie <del rendition="#s">=</del> Sonne = Prinzip des
+                    Guten</p>
+                <p>
+                    <list>
+                        <item>1. Symbol und Symbolisieren sind noch eins<ex>.</ex>
+                        </item>
+                        <item>2.) Phantastische Symbolik (phantastische Wesen = Symbol der
+                                Naturkraft)<ex>,</ex> zum Beispiel Inder<ex>.</ex>
+                        </item>
+                        <item>3.) Ägypter Hieroglyphen<ex>.</ex>
+                        </item>
+                    </list>
+                </p>
+                <p>[36] Naturreligion → Zauberreligion, phantastische Religion, Religion der
+                    moralischen Gegensätze<ex>.</ex>Religion der geistigen Individualität → Religion
+                    der
+                    Erhabenheit<?oxy_comment_start author="engelen" timestamp="20160621T163706+0200" comment="auf Judentum
+"?>↓<?oxy_comment_end?>,
+                    Religion
+                    der<?oxy_comment_start author="engelen" timestamp="20160621T163750+0200" comment="auf Griechentum"?>↓<?oxy_comment_end?>
+                    Schönheit, Religion
+                    der<?oxy_comment_start author="engelen" timestamp="20160621T163834+0200" comment="auf &apos;römische&apos;"?>↓<?oxy_comment_end?>
+                    praktischen Zwecke Judentum Griechentum Römische
+                    Offenbarungsreligion<?oxy_comment_start author="engelen" timestamp="20160621T163928+0200" comment="auf &apos;Altertum, Mittelalter, Neuzeit&apos;"?>↓<?oxy_comment_end?>
+                    Altertum, Mittelalter, Neuzeit <lb/>1. Bis Arist<ex>oteles</ex>
+                    <ex>,</ex> 2. nach Arist<ex>oteles</ex>, Stoa, Epikur, Skepsis, 3.
+                    Neuplatonismus
+                    <lb/><?oxy_comment_start author="engelen" timestamp="20160621T164227+0200" comment="Gehört zu &apos;1. Bis Aristoteles&apos;"?>Naturphilosophie,
+                    Moralphilosophie, Vereinigung<?oxy_comment_end?>
+                    <lb/>Geschichtsauffassung Hegels in zwei Worten<ex>:</ex> 1. Alles Wirkliche ist
+                    vernünftig → alles ist für die Entwicklung notw<ex>endig.</ex> 2. <seg type="comment">
+                        <orig>Alles Wirkliche ist wert<ex>,</ex> dass es zu Grunde geht</orig>
+                        <note xml:id="navn_qmm_jw">
+                            <p>Goethes Satz aus „Faust“ („Und alles, was entsteht, ist wert, dass es
+                                zu Grunde geht.“) wird von Friedrich Engels auf Hegels
+                                Geschichtsphilosophie bezogen. Vgl. F. Engels in seinem Aufsatz
+                                „Ludwig Feuerbach und der Ausgang der klassischen deutschen
+                                Philosophie.“ (1984, S. 266f.) </p>
+                        </note>
+                    </seg> → die Entwicklung bleibt nirgends stehen<ex>.</ex>
+                </p>
+                <p>Diese Geschichtsauffassung steht im Gegensatz zu den früheren. Man stellt sich
+                    nämlich entw<ex>eder</ex> auf den Standpunkt der bloßen Anbetung (zum Beispiel
+                    dem Altertum gegenüber) oder man stellt sich der Vergangenheit mit Verachtung
+                    gegenüber (zum Beispiel Aufklärung). Demgegenüber ist es ein Fortschritt zu
+                        sagen<ex>,</ex> die geschichtlichen Ereignisse sind relativ
+                        berecht<ex>igt</ex> an ihrem Ort. <lb/>[37] Unmittelbar nach Kant erheben
+                    sich die Einwände<ex>.</ex> Das Ding an sich kann nicht die Empfindungen
+                        bewirken<ex>,</ex> da dieser Begriff nur in der Erfahrung einen Sinn hat.
+                    Dies ist <supplied cert="high" prev="">ein</supplied> Einwand von
+                        Fichte<ex>,</ex> er glaubt daher auch den ganzen Inhalt der Erfahrung aus
+                    dem Wesen eines Ich abzuleiten<ex>,</ex> was besonders von Hegel
+                        vervollkomm<ex>net</ex> wurde. Da dies aber mit der geschichtlichen
+                    Entwicklung in Widerspruch steht<ex>,</ex>
+                    <gap unit="words" quantity="1" reason="illegible"/> das Erf<ex>ahren</ex> zurück
+                    zu Kant und man sucht das Fichtesche Argument auf andere Weise zu
+                        widerlegen<ex>.</ex>
+                    <lb/>
+                    <hi rendition="#normal">Herbart</hi> 1776 – 1841 <lb/>
+                    <hi rendition="#normal">Benekeke</hi> 1794 – 1854 </p>
+                <milestone unit="section" rendition="#hr"/>
+                <p>
+                    <lb/>
+                    <hi rendition="#normal">Herbart</hi>
+                    <ex>:</ex> Er behauptet die Identität von Dingen an sich und Erscheinung. Nur
+                    insofern sie uns erscheinen<ex>,</ex> heißen sie <hi rendition="#normal">Phänomene</hi>
+                    <ex>,</ex> sonst sind sie Dinge an sich. Er glaubt man erhält die Dinge an sich,
+                    wenn man das<ex>,</ex> was in der Erfahrung l<del rendition="#s">iegt
+                        Widerspruch löst</del> gegeben ist<ex>,</ex> von den Widersprüchen
+                        reinigt<ex>,</ex> denn ein Widerspruch kann nicht unabhängig von
+                    Wahrnehmenden existieren. Die Welt der Erfahrung wird durch 2 Widersprüche
+                        verunreinigt<ex>:</ex>
+                    <list>
+                        <item>1. Einheit <del rendition="#s">der</del> des Dings ↔ Vielheit der
+                            Eigenschaften. [38]</item>
+                        <item>2. Widerspruch<ex>:</ex> Endliche Größen sollen Summe von unendlich
+                            kleinen Größen sein.</item>
+                    </list>
+                    <lb/> Die Dinge an sich: <del rendition="#s">2.</del>
+                    <list type="bulleted">
+                        <item>1. haben nur je eine Eigenschaft,</item>
+                        <item>2. sie sind unausgedehnt<ex>.</ex>
+                        </item>
+                    </list>
+                    <lb/>Diese Dinge an sich sind auf irgendeine Weise und räumliche Weise<ex>,</ex>
+                    und weil sie beisammen sind<ex>,</ex> stören sie einander und gegen diese
+                    Störung suchen sich die Einheiten zu behaupten und diese Selbstbehauptung bringt
+                    die ↓Vielheit hervor↓<ex>,</ex>
+                    <add place="sublinear">
+                        <lb/>indem sich die Dinge zu behaupten suchen, bringen sie die Vielheit von
+                        Eigenschaften hervor</add>
+                    <lb/>die Mannigfaltigkeit der unräumlichen Monaden stellt sich in
+                    <?oxy_comment_start author="engelen" timestamp="20160622T122430+0200" comment="Pfeil auf &apos;Widerspruch 2 fällt fort&apos;."?>↓<?oxy_comment_end?>räumlichen
+                    Zusammenhängen dar<ex>.</ex>
+                    <subst>
+                        <del rendition="#s">daher</del>
+                        <add place="across">der</add>
+                    </subst> fällt Widerspruch 2 fort<ex>.</ex>
+                    <lb/>Unsere Seele ist selbst eine solche Einheit<ex>,</ex> sie wieder <unclear reason="illegible" cert="">nun</unclear> ebenfalls gestört<ex>,</ex>
+                    zunächst von den Körpermonaden<ex>,</ex> dann von denen außer uns. Die
+                    Vorstellungen der Seele sind die Art und Weise wie sich die Seele behauptet
+                    gegen verschiedene Einheiten. Diese verschiedenen Behauptungsweisen bringen die
+                    verschiedenen <del rendition="#s">in der</del> Eigenschaften an einem Ding
+                    hervor. Zum Beispiel Zucker hat <gap unit="words" quantity="1" reason="illegible"/> einfache Qualität<ex>,</ex> indem er sich gegen die
+                    körperlichen behauptet<ex>,</ex> ist er weiß<ex>,</ex> indem <supplied cert="high" prev="">er</supplied> sich gegen den <unclear reason="illegible" cert="">Brei</unclear> behauptet<ex>,</ex> ist er hart.<lb/>Das
+                    Behauptungsvermögen der Seele ist aber ein<choice>
+                        <sic>b</sic>
+                        <corr cert="high">g</corr>
+                    </choice>eschränkt<ex>,</ex> daher können wir immer nur entwe<ex>der</ex> [39]
+                    viele Vorstellungen schwach oder eine Vorstellung stark haben. Die Summe der
+                    Intensität der Vorstellungen<ex>,</ex> die zugleich in einer Seele sein
+                        können<ex>,</ex> ist eine bestimmte und begrenzt. Insofern meint Herbart den
+                        Mann<ex>,</ex> der Mathematik in die Psychologie einführt. Wenn <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="nh22_dhm_vw">= die Vorstellungen.</note>
+                    </seg> unter einer gewissen Intensität liegen (Schwellenllwert<ex>,</ex>
+                    Ausdruck von Herbart)<ex>,</ex> werden sie nicht wahrgenommen<ex>,</ex> haben
+                    aber das Bestreben wieder aufzutauchen<ex>,</ex> bleiben bestehen und werden
+                        aktuell<ex>,</ex> wenn die übrigen schwach werden. Das wendet er auf
+                    Pädagogik an. Wien ist lange Zeit die Hochburg des Herbartinismus. Die
+                    Moralphilosophie <del rendition="#s">Herbar</del> Kants wird von Herbart
+                    aufgegeben. Praktische Philosophie = Moral + Äst<ex>het</ex>ik. Die Moral wird
+                    auf <hi rendition="#normal">Ästhetik</hi> gegründet. Die Seele hat nach
+                    bestimmten Gesetzen bei gewissen Dingen Wohlgefühl<ex>,</ex> bei anderen
+                    Missfallen. Dabei soll die Schönheit nur formal sein (der Inhalt ganz
+                        gleichgültig)<ex>,</ex> besonders bei der Musik deutlich. <lb/>Der
+                    berühmteste Ausdruck dieser Ansicht ist von <hi rendition="#normal">Hanslig</hi>
+                    „das Schöne an der Musik“. Ebenso bei der <hi rendition="#normal">Ethik</hi>
+                    <ex>.</ex> Die Willensverhältnisse<ex>,</ex> welche den Tonverhältnissen
+                    entsprechen, nennt er sittliche Ideen<ex>,</ex> von denen gibt es 5 (daher gibt
+                    es keine Methode<ex>,</ex> immer etwas wohlgefällig zu erzielen<ex>,</ex> weil
+                    sie bisweilen im Widerspruch stehen)<ex>.</ex> In einem solchen Fall gibt es
+                    überhaupt keine Entscheidung. Zum Beispiel: Gewalt <unclear reason="illegible" cert="">schon</unclear> der [40] seine <unclear reason="illegible" cert="">Nachbarn</unclear> rücksichtslos <del rendition="#s">zu</del> für seine
+                    Zwecke verwendet. Dabei gefällt uns die Großzügigkeit des Plans und der starke
+                        Wille<ex>.</ex> Andererseits missfällt uns<ex>,</ex> dass Unschuldige
+                    darunter leiden müssen. Die sittlichen Ideen verwirklichen sich sowohl im
+                    Privatleben als in der Gesellschaft<ex>.</ex> Die 5 Ideen sind<ex>:</ex>
+                    <list type="bulleted">
+                        <item>1. Streit missfällt (Entgegengerichtetsein 2er Willen)<ex>.</ex>
+                            Darauf beruht die Idee <hi rendition="#u">des Rechts</hi> und der <hi rendition="#u">Rechtsgesellschaft</hi>
+                            <ex>.</ex>
+                        </item>
+                        <item>2. Unvergoltenes missfällt (sowohl unvergoltene Wohltat<ex>en</ex> und
+                            unvergoltene Übeltaten)<ex>.</ex>
+                            <hi rendition="#u">Verhältnis</hi> ähnlich dem Missfallen an einer
+                            unsymmetrischen Figur. Daher <hi rendition="#uu">Strafrecht der
+                                Gemeinschaft</hi>
+                            <ex>.</ex> Die Gemeinschaft <choice>
+                                <sic>soll</sic>
+                                <corr cert="high">will</corr>
+                            </choice> ein Lohnsystem<ex>.</ex>
+                        </item>
+                        <item>3. Es gefällt<ex>,</ex> wenn ein Wille auf den anderen Rücksicht
+                                nimmt<ex>.</ex>
+                            <hi rendition="#u">Idee des Wohlwollens</hi>
+                            <ex>.</ex> Vom Staat wird auch eine <gap unit="chars" quantity="2" reason="illegible"/>dung der Einzelnen verlangt und dies ist die
+                            Idee der <hi rendition="#u">Verwaltungssysteme</hi>. <hi rendition="#normal">Adm<ex>inistration</ex>
+                            </hi> = Verkörperung der Idee des Wohlwollens.</item>
+                        <item> 4. Der Wille gefällt<ex>,</ex> wenn er besonders stark und
+                            mannigfaltig ist = (Schwärmerei für den <hi rendition="#normal">Renaissance</hi>mensch)<ex>.</ex>
+                            <hi rendition="#u">Idee der Vollkommenheit</hi>. In der Gesellschaft
+                            entspricht dem die Kraft des Einzelnen möglichst zu entwickeln<ex>.</ex>
+                            Unterricht und Pflegung der geistigen Interessen insofern <seg type="critical">
+                                <orig>sie</orig>
+                                <note xml:id="nl3g_lhm_vw">= die Gesellschaft.</note>
+                            </seg> die Idee zu verwirklichen sucht<ex>,</ex> ist sie ein
+                                Kultursystem<ex>.</ex> [41] </item>
+                        <item>5. Wenn ein Wille übereinstimmt mit <subst>
+                                <del rendition="#s">dem</del>
+                                <add place="across">den</add>
+                            </subst> 4 sittlichen Ideen<ex>,</ex> so gefällt Idee <hi rendition="#u">der inneren Freiheit</hi>
+                            <ex>.</ex> Wenn <del rendition="#s">eine</del> eine Gemeinschaft in
+                            Übereinstimmung mit den Verordnungen der Sittlichkeit steht<ex>,</ex>
+                            ist sie eine <hi rendition="#u">beseelte Gesellschaft</hi>
+                            <ex>.</ex>
+                        </item>
+                    </list>
+                    <lb/>
+                    <hi rendition="#normal">Beneke</hi> nimmt eine Mittelstellung zwischen Herbart
+                    und Schopenhauer ein<ex>.</ex> Beneke meint<ex>,</ex> in uns erfassen wir etwas
+                        Wirklich<ex>es</ex>
+                    <ex>,</ex> nämlich das Bewusstsein<ex>.</ex> Dieses kann nichts anderes sein als
+                        das<ex>,</ex> als was es erlebt wird. Nur für Dinge außer uns hat Kant
+                        recht<ex>,</ex> daher unterliegen wir der Täuschung<ex>,</ex> dass wir uns
+                    die Dinge als ein Ich vorstellen. Und zwar ziehen wir die Eigenschaften des
+                        Ich<ex>,</ex> welche <del rendition="#s">Menschen</del> den Dingen nicht
+                        zukommen<ex>,</ex> einfach von den Dingen ab (das heißt das
+                        Bewusstsein<ex>,</ex> das Gefühl<ex>,</ex> den freien Willen). Anders können
+                    wir die Dinge überhaupt nicht deuten<ex>.</ex>
+                    <lb/>Ding = Ich ohne Bewusstsein. Dieser Schluss ist aber unberechtigt!! Herbart
+                    meint die Dinge<ex>,</ex>
+                    <choice>
+                        <sic>den</sic>
+                        <corr cert="high">die</corr>
+                    </choice> man durch abstrakte Erwägungen <del rendition="#s">könn</del>
+                        erkennt<ex>.</ex>
+                </p>
+                <p>[42] <hi rendition="#normal">Arthur Schopenhauer</hi>
+                    <lb/>Die Welt ist meine Vorstellung = das Gegebene ist nur die
+                        Erscheinungswelt<ex>.</ex>
+                    <lb/>Das Innere nehmen wir nicht durch den Sinn<ex>,</ex> sondern unmittelbar
+                    wahr. Das Bewusstsein ist nicht die Erscheinung des inneren Sinns<ex>,</ex>
+                    sondern es ist unmittelbar gegeben. Allerdings ist nicht das ganze Bewusstsein
+                    Ding an sich<ex>.</ex> Die Vorstellungen<ex>,</ex> welche wir von anderen Dingen
+                        haben<ex>,</ex> können es nicht sein. Ebenfalls können es nicht die Gefühle
+                        sein<ex>,</ex> denn diese sind nur Stellungnahmen des Ich gegen
+                        anderes<ex>,</ex> daher auch nicht das eigentliche Wesen des Ich<ex>,</ex>
+                    sondern allein d<choice>
+                        <sic>as</sic>
+                        <corr cert="high">er</corr>
+                    </choice> Wille (das Begehrende<ex>,</ex> Strebende ist das Ding an
+                        sich)<ex>.</ex> Dass der Wille das Primäre ist<ex>,</ex> sieht man schon
+                        daraus<ex>,</ex> dass der Intellekt durchaus nur eine dienende Stellung
+                        einnimmt<ex>.</ex> Noch deutlicher wird die <del rendition="#s">es</del>
+                        Sache<ex>,</ex> wenn man noch weiter nach unten geht. Aber im Grunde steht
+                    es im menschlichen Leben ebenso.<lb/>Lehre vom Primat des Willens (<hi rendition="#normal">Voluntarismus</hi>). <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> Eine Fortsetzung <del rendition="#s">des</del> dieser Ansicht ist die
+                    materialistische Ges<ex>ch</ex>ichtsauffassung. Die Menschen lassen sich von
+                    sich selbst täuschen<ex>,</ex> indem sie die logischen Motive für das Primäre
+                    halten. Auch die Psychoanalyse ist eine Fortsetzung davon. Dadurch<ex>,</ex>
+                    dass wir in uns einen Willen feststellen<ex>,</ex> sind wir berechtigt hinter
+                    jedem Körper einen Willen zu vermuten. Allerdings hinter den leblosen Dingen nur
+                    etwas dem menschlichen Willen ähnlich<ex>es</ex>. <seg type="critical">
+                        <orig>Man kann eine Stufenleiter der Willensformen aufstellen. Je weiter man
+                            runter kommt<ex>,</ex> desto mehr nimmt die Mannigfaltigkeit der
+                            Umstände die Anpassungsfähigkeit<ex>,</ex> das Denken und die
+                            Bewusstheit <supplied cert="high">ab</supplied>
+                        </orig>
+                        <note xml:id="nipy_vhm_vw">In Gomperz’ Vorlesungsmanuskript heißt es auf
+                            Seite 106: „Dagegen nehmen die leblosen Körper die tiefste Stufe dieser
+                            Stufenleiter ein: ihre Bewegungen sind eindeutig bestimmt, sie vermögen
+                            sich verschiedenen Umständen in keiner Weise anzupassen, es wäre ihnen
+                            demnach auch weder mit Denken noch mit Bewegung irgendwie gedient: der
+                            in ihnen wirksam Wille lässt sich nur als völlig bewusstloser Trieb
+                            denken und dieser ist es, dessen Antrieb wir als Naturkraft zu
+                            bezeichnen pflegen.“</note>
+                    </seg>. <lb/>[43] Die Tiere kommen daher mit Instinkt aus<ex>,</ex> bei den
+                    Pflanzen ist nur ein dumpfer Trieb vorhanden<ex>.</ex> Im Leblosen kommt man ins
+                    Gebiet des eindeutig Bestimmten<ex>,</ex> daher keine Anpassung<ex>,</ex> kein
+                        Denken<ex>,</ex> kein Bewusstsein<ex>.</ex> Hier sind die Naturkräfte ein
+                        <del rendition="#s">wollen und</del> unbewusster<ex>,</ex> unwiderstehlicher
+                        Trieb<ex>.</ex> Auch der Wille der Welt als ganzer ist nur unbewusst und
+                    dumpf. Der Ur-Wille äußert sich auf verschiedenen Stufen der
+                        Entwicklung<ex>.</ex> Jede solche Stufe ist eine platonische Idee. <del rendition="#s">Diese</del> Dabei ist es für das Wesen vorteilhaft<ex>,</ex>
+                    wenn es der platonischen Idee seines Wesens nahekommt. Das äußert sich
+                        darin<ex>,</ex> dass bei der Zuchtwahl derjenige bevorzugt wird<ex>,</ex>
+                    welcher der platonischen Idee nahe steht. Die platonischen Ideen nehmen eine
+                    Mittelstellung ein zwischen dem einen Ur-Willen und den Einzelwesen. <lb/>Für
+                    die Welt der Erscheinung besteht keine Willensfreiheit<ex>,</ex> sondern
+                        <supplied cert="high" prev="">sie ist</supplied> durch den empirischen
+                    Charakter bestimmt<ex>.</ex> Dieser ist in der Zeit veränderlich<ex>,</ex> aber
+                    diesem veränder<ex>ten</ex> empirischen Charakter liegt etwas Einheitliches zu
+                    Grunde <unclear reason="illegible" cert="">im</unclear> Reich der Ding an
+                        sich<ex>.</ex> Man müsste eigentlich sagen<ex>:</ex> Ein Mensch ist ein
+                    Wille von eigentümlicher Art (dies wird in der Erscheinungswelt in eine
+                    Zeitreihe aufgelöst). Für diesen Charakter gilt nicht das Kausalgesetz<ex>.</ex>
+                    Er ist zeitlos<ex>,</ex> stellt gewissermaßen die platonische Idee eines
+                    einzelnen Menschen dar (<hi rendition="#normal">intelligibler</hi>
+                        Charakter)<ex>.</ex> Dieser ist der Grund wesha<ex>lb</ex> wir uns für
+                    unseren Willen verantwortlich fühlen. Ein Wille muss seiner Begriffserklärung
+                    nach immer unbefriedigt sein<ex>,</ex> denn [44] Wollen = unzufriedensein mit
+                    seinem Zustand und ihn ändern wollen. Daher <del rendition="#s">änder</del> muss
+                    der Wille seinem Wesen nach unbefriedigt <supplied cert="high" prev="">sein</supplied>. <lb/>Es ist eine Täuschung<ex>,</ex> dass der Wille
+                    zuletzt Glück will und Glück möglich wäre<ex>,</ex> denn sonst würde der Wille
+                    und damit alle<ex>s</ex> Existierende aufgehoben – ebenso im einzelnen Leben wie
+                    in der Geschichte. Der <del rendition="#s">den</del> Wille ist zuletzt nur <del rendition="#s">syst</del> sich selbst<ex>,</ex> das heißt das <unclear reason="illegible" cert="">Leben</unclear> und das heißt das Leiden. Aus
+                    dieser Erkenntnis ergibt sich die Möglichkeit ihn zu verneinen. Zu dieser
+                    Erkenntnis seiner selbst kann der Wille auf den höchsten Stufen kommen. Dadurch
+                    erkennt der Intellekt etwas<ex>,</ex> wozu er gar nicht geschaffen ist. Dies
+                    äußert sich in zweierlei Weise<ex>:</ex>
+                </p>
+                <list>
+                    <item>1. Zeitweilig in Momenten<ex>,</ex> wo sich der <del rendition="#s">Wille
+                            vom</del> Intellekt vom Willen löst <list type="bulleted">
+                            <item>a.) interesselose Betrachtung eines Gegenstandes (ästhetische
+                                Betrachtung, Kunst),</item>
+                            <item>b.) interesselose Versenkung in die reine Theorie
+                                (Wissenschaft).</item>
+                        </list>
+                    </item>
+                    <item>2. Dauernde Verneinung<list type="bulleted">
+                            <item>a.) teilweise Moral<ex>,</ex> der Wille schadet sich selbst
+                                insofern ein Wesen dem anderen schadet+,</item>
+                            <item>b.) Ideal der Heiligkeit.</item>
+                        </list>
+                    </item>
+                </list>
+                <p>
+                    <lb/>
+                    <gap unit="chars" quantity="2" reason="illegible"/>leitung +Daher die
+                    Moralformel: Schade niemandem<ex>,</ex> sondern nütze <del rendition="#s">jemand</del> jedem so viel Du kannst. Aber dies äußert sich nicht nur in
+                    der klaren Vernunft<ex>,</ex> sondern es auch im triebhaften Leben<ex>,</ex>
+                    nämlich im Mitleid<ex>.</ex> Daher ist in der Praxis [45] das Mitleid die
+                    Triebfeder der Moral. Diese Moralität bedeutet eine teilweise Verneinung des
+                    Willens zum Leben. Der Wille verzichtet auf seine Befriedigung
+                        insoweit<ex>,</ex> als er anderen dadurch schadet. <seg type="critical">
+                        <orig>b.)</orig>
+                        <note xml:id="nyhs_pmt_jw">a.) fehlt.</note>
+                    </seg> Leute<ex>,</ex> die sich gewaltsam aller Genüsse enthalten<ex>,</ex> sich
+                        <del rendition="#s">kast</del> kasteien usw. Charakteristisch für die
+                        Erlösungsreligion<ex>en</ex> (Christentum und <del rendition="#s">Bed</del>
+                        Buddhismus)<ex>.</ex>
+                </p>
+                <p>
+                    <list type="bulleted">
+                        <item>
+                            <pb n=""/>Gödels Mitschrift endet hier. Das kann zwei Gründe haben:
+                            Entweder Gomperz’ Vorlesung war 1926 tatsächlich hier zu Ende oder Gödel
+                            hat nicht mehr mitgeschrieben. Gomperz’ eigenes Vorlesungsmanuskript
+                            geht über Schopenhauers Philosophie hinaus. Er beschäftigt sich
+                            beispielsweise noch mit Marx und Engels. Am interessantesten für die
+                            Bezüge von Gomperz zum Wiener Kreis ist jedoch Teil D in Gomperz’
+                            Manuskript. Er trägt die Überschrift „Vorbereitung auf die Philosophie
+                            der allerneuesten Zeit“ und enthält einige Anmerkungen zu Friedrich
+                            Nietzsches Philosophie, Albert Einsteins Relativitätstheorie, sowie
+                            Bernard Bolzanos, Edmund Husserls und Henri Bergsons Philosophie.
+                            Teilabschnitt 5 von Abschnitt D enthält zudem eine Aufzählung
+                            philosophischer Themen und Gedanken. Da nicht auszuschließen
+                                ist<ex>,</ex> dass Gödel diesen letzten Teil von Gomperz’ Vorlesung
+                            kannte, sollen die Abschnitte aus Gomperz’ Vorlesung, die sich mit für
+                            Gödel wichtigen Autoren befassen (also Einstein, Brentano und Husserl
+                            sowie Teilabschnitt 5 aus Gomperz’ Manuskript), hier auch noch
+                            wiedergegeben werden. Gomperz benutzt im Gegensatz zu Gödel das `ß`,
+                            daher wurde für Gomperz’ Vorlesungsmanuskript nicht die neue
+                            Rechtschreibung gewählt. <lb/>
+                        </item>
+                    </list>
+                    <pb n=""/>S. 114 D) Vorbereitung auf eine Philosophie der allerneuesten Zeit
+                    <lb/>1) <seg type="critical">
+                        <orig>Friedrich NIETZSCHE</orig>
+                        <note xml:id="niss_knt_jw">Die Transkription
+                            der Abschnitte zu Nietzsche wurde von E.-M. E. nicht vorgenommen, weil
+                            sie für Gödel nicht relevant sind.</note>
+                    </seg>. <lb/>2) Mehrfach Erschütterung droht der Entwicklungslehre von Seiten
+                    der Relativitätslehre Albert EINSTEINs (geb. 1879). Denn die Entwicklungslehre
+                    setzt die Unumkehrbarkeit der Zeit voraus. Nun hatte schon MACH durch seine
+                    Bevorzugung der funktionalen Abhängigkeit vor der Ursächlichkeit die Bedeutung
+                    der Zeit einigermaßen in Frage gestellt. MINKOWSKI nimmt ihr überhaupt die
+                    Stellung einer selbstständigen Veränderlichkeit, da sie von der Geschwindigkeit
+                    des Beobachters und des beobachteten Gegenstandes abhängt. Überdies hält
+                    EINSTEIN die Endlichkeit der vierdimensionalen Raumzeit für wahrscheinlich, was
+                    die volle Bestätigung von NIETZSCHES Glauben bedeuten würde. Kehrt aber alles
+                    wieder, so kann die Gegenwart nicht durch die Zukunft gerechtfertigt werden; es
+                    bleibt nur die Wahl zwischen a) völliger Wertverneinung, genauer völliger
+                    Verneinung aller Wertunterschiede; und b) Anerkennung ewiger Werte, die
+                    Zeitverlauf unabhängig sind, <supplied cert="high" prev="">und die</supplied>
+                    das eine, sooft es auch wiederkehren mag, als zeitlos wertvoll, das andere als
+                    zeitlos geringwertig erscheinen lassen. <lb/>
+                    <seg type="critical">
+                        <orig>3)</orig>
+                        <note xml:id="nt41_znt_jw"> Hier steht am Rande mit Bleistift
+                            eingefügt: Rickert (16), Dilthey. </note>
+                    </seg> Den Gedanken eines Bereiches zeitloser Geltung hat, an die Mathematik
+                    anknüpfend in der neuesten Zeit zuerst Bernard BOLZANO (1781 – 1848) wieder nahe
+                    gebracht, indem er von der Denktätigkeit des Menschen als das, was diese zu
+                    ihrem Gegenstande hat, die Vorstellungen, Sätze und Wahrheiten an sich
+                    unterschied und ihm haben sich in unserer Zeit [S. 115] <gap unit="chars" quantity="mehrere" reason="lost"/> Edmund HUSSERL (geb. 1859) mit seinen
+                    zeitlosen „Eide“, d. i. Wesensbeschaffenheiten angeschlossen. Es liegt nicht
+                    fern und ist auch schon versucht worden, in einem solchen Reiche des Zeitlosen
+                    auch den Werten eine Stelle zu sichern; ein solches Nebeneinander ewiger Werte
+                    und ziellosen zeitlichen Geschehens würde vermutlich zu einer der platonischen
+                    Philosophie verwandten Philosophie führen. <lb/>
+                    <seg type="critical">
+                        <orig>4) Einen anderen Weg geht Henris BERGSON (geb. 1859)</orig>
+                        <note xml:id="nwpz_r4t_jw">Die Transkription der Abschnitte zu Bergson wurde
+                            von E.-M. E. nicht vorgenommen, weil sie für Gödel, soweit bisher
+                            ersichtlich, nicht relevant sind</note>
+                    </seg>. <lb/>5) Vielleicht ist
+                    aber ein anderer Weg noch aussichtsreicher. Die Bedeutung der Zeit für uns ist
+                    unleugbar. Ebenso unleugbar ist unsere praktische Freiheit, unsere Fähigkeit
+                    unseren Willen bis zu Grenze unserer Leistungsfähigkeit für etwas einzusetzen.
+                    Dann bedeutet es um den Interessen zur Seite zu treten, statt des Einsehens in
+                    angeblich unbedingt gültige Entwicklungsgesetze vielmehr die Anerkennung <del rendition="#s">
+                        <gap quantity="1" unit="words"/>
+                    </del> objektiver Werte. Diese können aber dabei an der Entwicklung geprüft sein
+                    (diese muß gezeigt haben, daß im Sinne jener Werte Entwicklung überhaupt möglich
+                    ist). Diese Bedingungen dürfte am ehesten die Höchstwertung der Erweiterung des
+                    geistigen Gesichtskreises (zeitlich, räumlich und in Bezug auf
+                    Verallgemeinerung) genügen. <unclear reason="illegible" cert="">Höchst</unclear>forderungen: a) möglichst allgemeine und weitgehende
+                    Erweiterungen; b) jeweils Schutz der schon bestehenden Erweiterung (Bildung,
+                    Kulturleistung, Rassen).</p>
+            </div>
+        </body>
+    </text>
+</TEI>
