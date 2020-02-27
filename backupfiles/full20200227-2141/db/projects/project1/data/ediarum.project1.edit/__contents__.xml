@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/project1/data/ediarum.project1.edit" version="1" owner="admin" group="dba" mode="755" created="2019-12-21T16:16:42.639+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ediarum.project1.edit.framework" skip="no" owner="admin" group="dba" mode="644" created="2019-12-21T16:16:42.773+01:00" modified="2019-12-21T16:16:42.773+01:00" filename="ediarum.project1.edit.framework" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="project1.xpr" skip="no" owner="admin" group="dba" mode="644" created="2019-12-21T16:16:42.725+01:00" modified="2019-12-21T16:16:42.725+01:00" filename="project1.xpr" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
