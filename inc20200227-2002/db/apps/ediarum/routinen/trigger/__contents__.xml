@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/ediarum/routinen/trigger" version="1" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.857+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="set-permissions-for-document.xql" skip="yes" owner="admin" group="dba" mode="755" created="2019-12-21T08:42:42.858+01:00" modified="2019-12-21T08:42:42.858+01:00" filename="set-permissions-for-document.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

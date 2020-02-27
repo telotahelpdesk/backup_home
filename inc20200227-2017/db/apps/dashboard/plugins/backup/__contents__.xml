@@ -1,0 +1,19 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/dashboard/plugins/backup" version="1" owner="SYSTEM" group="dba" mode="755" created="2019-12-21T08:35:26.285+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="backup.xql" skip="yes" owner="SYSTEM" group="dba" mode="755" created="2019-12-21T08:35:26.286+01:00" modified="2019-12-21T08:35:26.286+01:00" filename="backup.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="backup.html" skip="yes" owner="SYSTEM" group="dba" mode="644" created="2019-12-21T08:35:26.287+01:00" modified="2019-12-21T08:35:26.287+01:00" filename="backup.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backup.js" skip="yes" owner="SYSTEM" group="dba" mode="644" created="2019-12-21T08:35:26.29+01:00" modified="2019-12-21T08:35:26.29+01:00" filename="backup.js" mimetype="application/javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backup.less" skip="yes" owner="SYSTEM" group="dba" mode="644" created="2019-12-21T08:35:26.29+01:00" modified="2019-12-21T08:35:26.29+01:00" filename="backup.less" mimetype="application/less">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="backup.css" skip="yes" owner="SYSTEM" group="dba" mode="644" created="2019-12-21T08:35:26.291+01:00" modified="2019-12-21T08:35:26.291+01:00" filename="backup.css" mimetype="text/css">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="images" filename="images"/>
+</collection>
