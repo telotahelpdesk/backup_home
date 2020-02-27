@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account xmlns="http://exist-db.org/Configuration" id="15"><password>{RIPEMD160}sGkdG4ZlTGi9Y77GR1GAR69PROY=</password><digestPassword>30eb39d6db579b6f9a893103956629f16ea6a6cf</digestPassword><group name="website"/><group name="project1-nutzer"/><group name="goedel-nutzer"/><expired>false</expired><enabled>true</enabled><umask>022</umask><metadata key="http://exist-db.org/security/description">mit Zugriff auf die Webseite</metadata><metadata key="http://axschema.org/namePerson">website-user</metadata><name>website-user</name></account>
