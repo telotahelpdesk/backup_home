@@ -1,7 +1,0 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/shared-resources/resources/scripts/jquery/css" version="1" owner="admin" group="dba" mode="775" created="2019-12-21T08:35:23.498+01:00">
-    <acl entries="0" version="1"/>
-    <resource type="BinaryResource" name="jquery.pnotify.default.css" skip="no" owner="admin" group="dba" mode="775" created="2019-12-21T08:35:23.499+01:00" modified="2019-12-21T08:35:23.499+01:00" filename="jquery.pnotify.default.css" mimetype="text/css">
-        <acl entries="0" version="1"/>
-    </resource>
-    <subcollection name="smoothness" filename="smoothness"/>
-</collection>

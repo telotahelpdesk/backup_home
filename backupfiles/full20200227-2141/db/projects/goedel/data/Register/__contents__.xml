@@ -1,9 +1,0 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/goedel/data/Register" version="1" owner="exist-bot" group="goedel-nutzer" mode="770" created="2020-01-12T14:49:50.972+01:00">
-    <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="Werke.xml" skip="no" owner="exist-bot" group="goedel-nutzer" mode="770" created="2020-01-12T14:49:50.994+01:00" modified="2020-01-12T14:49:50.994+01:00" filename="Werke.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-    <resource type="XMLResource" name="Personen.xml" skip="no" owner="exist-bot" group="goedel-nutzer" mode="770" created="2020-01-12T14:49:51.193+01:00" modified="2020-01-12T14:49:51.193+01:00" filename="Personen.xml" mimetype="application/xml">
-        <acl entries="0" version="1"/>
-    </resource>
-</collection>
