@@ -1,0 +1,15 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/goedel" version="1" owner="admin" group="dba" mode="755" created="2019-12-23T12:52:20.605+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="webconfig.xml" skip="no" owner="admin" group="website" mode="640" created="2019-12-23T12:52:20.853+01:00" modified="2019-12-23T12:52:20.853+01:00" filename="webconfig.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="config.xml" skip="no" owner="admin" group="dba" mode="640" created="2019-12-23T12:52:20.857+01:00" modified="2020-01-12T14:49:36.863+01:00" filename="config.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="druck" filename="druck"/>
+    <subcollection name="data" filename="data"/>
+    <subcollection name="external_data" filename="external_data"/>
+    <subcollection name="exist" filename="exist"/>
+    <subcollection name="oxygen" filename="oxygen"/>
+    <subcollection name="web" filename="web"/>
+</collection>

@@ -1,0 +1,7 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/project1/exist/routinen" version="1" owner="admin" group="dba" mode="770" created="2019-12-21T08:43:19.27+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="set_default_permissions.xql" skip="no" owner="admin" group="dba" mode="770" created="2019-12-21T08:43:19.285+01:00" modified="2019-12-21T08:43:19.285+01:00" filename="set_default_permissions.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="scheduler" filename="scheduler"/>
+</collection>

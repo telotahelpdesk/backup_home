@@ -1,0 +1,22 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/system/security/exist/groups" version="1" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:34:17.999+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="goedel-nutzer.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-23T12:52:20.617+01:00" modified="2019-12-23T12:52:20.779+01:00" filename="goedel-nutzer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="project1-nutzer.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:43:19.219+01:00" modified="2019-12-21T08:43:19.243+01:00" filename="project1-nutzer.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="eXide.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:35:26.511+01:00" modified="2019-12-21T08:35:26.55+01:00" filename="eXide.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="oxygen.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:42:42.437+01:00" modified="2019-12-21T08:42:42.488+01:00" filename="oxygen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="website.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:42:42.493+01:00" modified="2019-12-21T08:42:42.501+01:00" filename="website.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="monex.xml" skip="no" owner="SYSTEM" group="dba" mode="770" created="2019-12-21T08:35:27.547+01:00" modified="2019-12-21T08:35:27.56+01:00" filename="monex.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="removed" filename="removed"/>
+</collection>

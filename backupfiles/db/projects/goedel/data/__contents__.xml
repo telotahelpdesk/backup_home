@@ -1,0 +1,9 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/goedel/data" version="1" owner="exist-bot" group="goedel-nutzer" mode="770" created="2020-01-12T14:49:42.651+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="mathml.xml" skip="no" owner="admin" group="dba" mode="644" created="2020-01-12T15:08:20.974+01:00" modified="2020-01-12T15:15:16.075+01:00" filename="mathml.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="Notizb%C3%BCcher" filename="Notizbücher"/>
+    <subcollection name="Register" filename="Register"/>
+    <subcollection name="Vorlesungen" filename="Vorlesungen"/>
+</collection>
