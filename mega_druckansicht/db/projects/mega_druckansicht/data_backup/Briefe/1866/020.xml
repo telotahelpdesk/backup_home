@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00021" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>20</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 26. Januar 1866</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1598/D III 369</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127 × 203 mm. Die erste Seite hat Engels zu zwei Dritteln
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes: „298“ und „2“ (gestrichen).</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>  Hand: Nummerierung des
+                            Briefes: „823“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 1931</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichug: Bw 3 (1913).
+                            S. 291.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1866-01-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00036"/>
+                </correspContext>
+                <note>Marx beantwortete den Brief am 10. Februar 1866 (<ref target="B00036">Marx an Engels, 10.2.1866</ref>).</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_mts_42y_g1b">Journalismus</term>
+                    <term key="ed_fv1_snz_g1b">Lektüre</term>
+                    <term key="ed_www_kkf_h1b">Rußland</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:38:24Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Mchr 26. Jan 66.</dateline><salute sameAs="MBAnrede">Lieber Mohr</salute></opener><p sameAs="MBTextohneEinzug">Was mich festsetzt: ich habe kein Material &amp; auch fast gar keine
+                    Gedächtnißkenntniß über die Art <seg type="comment"><orig>wie die
+                            Leibeignenbefreiung schließlich in Rußld durchgeführt wurde, welches
+                            Land der Bauer erhielt, wer dafür zahlte, was de facto jetzt seine
+                            Stellung zum Gutsherrn ist &amp;c &amp;c.</orig><note xml:id="f11a6fae-fed0-4adb-a0c3-9dff7a6c81e3">Die mit dem Gesetz vom
+                            19. Februar 1861 eingeleitete Bauernbefreiung in
+                        Russland.</note></seg> Die früheren <hi rendition="#u">Pläne</hi> des Adels
+                    &amp; Kaisers hab’ ich wohl gesehn, aber die definitive Durchführung nicht. <seg type="comment"><orig>Hast Du Material darüber?</orig><note xml:id="a259517b-d968-4833-a187-76d041c20a61">Siehe <ref target="B00036/#start_ih4_hkj_nz">Marx an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170410T110031+0200" comment="{{Br. 33.31–33}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00084/#start_dq2_4kj_nz">Engels an Marx,
+                                6.4.<?oxy_comment_start author="reichhoff" timestamp="20170410T110224+0200" comment="{{Br. 81.23–25}}"?>1866<?oxy_comment_end?>.</ref></note></seg></p><closer sameAs="MBUnterschrift">
+                    <salute>Dein<lb/>
+                    </salute>
+                    <signed>F. E.</signed>
+                </closer><postscript><p>NB. ich werde auf den <seg type="comment"><orig>Art. <subst>
+                                    <del>des</del>
+                                    <add>der</add>
+                                </subst>
+                                <bibl sameAs="ed_xtj_fhf_lbb" type="periodika">Tribune</bibl> von
+                                1864</orig><note xml:id="c40df02c-70b7-4414-a785-140f71fdcdf9"><bibl sameAs="zotero-604880-L3THIRF4" type="primary">Hector Denis: La
+                                    question polonaise et la démocratie. I.–IV.</bibl> In: La
+                                Tribune du Peuple. Bruxelles. Nr. 41, 5. März 1864.
+                                S. 1/2; Nr. 42, 26. März 1864. S. 1/2;
+                                Nr. 43, 17. April 1864. S. 1/2; Nr. 45,
+                                29. Mai 1864. S. 1/2; Nr. 46, 30. Juni 1864.
+                                S. 2.
+                                <!--(((lDenis,
+                                Hector: La question polonaise et la démocratie. I.–IV. In: La
+                                Tribune du Peuple. Bruxelles. Nr. 41, 5. März 1864.
+                                S. 1/2; Nr. 42, 26. März 1864. S. 1/2;
+                                Nr. 43, 17. April 1864. S. 1/2; Nr. 45,
+                                29. Mai 1864. S. 1/2; Nr. 46, 30. Juni 1864.
+                                S. 2)))-->
+                                Siehe <ref target="B00004/#start_ws3_k4j_nz">Marx an Engels,
+                                    5.1.<?oxy_comment_start author="reichhoff" timestamp="20170410T113149+0200" comment="{{Br. 3.24–26}}"?>1866<?oxy_comment_end?>
+                                </ref>und Erl.</note></seg> nicht <hi rendition="#u">direct</hi>
+                        Bezug nehmen, cela serait lui faire trop d’honneur.</p></postscript></div></body></text></TEI>

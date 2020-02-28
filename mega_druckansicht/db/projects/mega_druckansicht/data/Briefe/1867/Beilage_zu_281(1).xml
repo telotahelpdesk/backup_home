@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_ysm_ds3_4gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschrift des Briefes von Hermann Engels an Gottfried Ermen vom 3. Juli
+                    1867</title>
+                <?oxy_comment_start author="lindenberg" timestamp="20190124T150106+0100" comment="In der WORD-Datei sind noch die personen für das Register ausgezeichnet"?>
+            </titleStmt><?oxy_comment_end?>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                        Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 9, op. 1, d.
+                        11/22. Fotosign. 652&lt;a–b&gt;</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <collection>RGASPI</collection>
+                        <idno>
+                            <idno type="shelfmark">Sign. f. 9, op. 1, d. 11/22. Fotosign.
+                                652&lt;a–b&gt;</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div><opener>
+                <dateline><pb/> Barmen 3. Juli
+                    1867</dateline>
+                <salute>Werther Herr Ermen</salute>
+            </opener>
+                <p>Ihrem werthen Brief vom 10. p<ex>assa</ex>t<hi rendition="#sup">i</hi> [mensis]
+                    entnahm ich, daß Sie uns die erbetene Erlaubniß, die Bezeichnung „Manchester“
+                    noch länger auf einigen unserer Garnsorten führen zu dürfen, versagen. Wir
+                    werden demnach hiervon nicht länger Gebrauch machen, und bitten nur uns
+                    mitzutheilen, ob Sie gestatten wollen, daß wir die wenigen Ries Papiere, welche
+                    augenblicklich noch damit bedruckt sind, verwenden.</p>
+                <p>Wir bezweifeln dies zwar nicht, halten es jedoch für geboten, Ihre Erlauniß dazu
+                    einzuholen, bis zu deren Eintreffen wir fortfahren werden den <hi rendition="#u">Vorrath</hi> in bisheriger Weise zu benutzen.</p>
+                <p><hi rendition="#u">Dem Drucker haben wir indeß bereits Auftrag ertheilt, die mit
+                        Manchester bezeichneten Steine zu vernichten.</hi></p>
+                <p>Der einst unter den Firmen <orgName key="ed_mtd_tkh_1z">Ermen &amp; Engels in
+                        Manchester</orgName> und <orgName key="ed_byw_vjh_1z">Ermen &amp; Engels in
+                        Barmen</orgName> bestandene Usus bezüglich des Absatzgebietes war zu dem
+                    Zwecke eingeführt, die beiden Geschäfte, in denen die <seg type="comment"><orig>Gründer</orig><note xml:id="nttr_fjp_2jb"><persName key="pdrPo.001.004.000001372">Friedrich Engels (Senior)</persName>
+                            und <persName key="pdrPo.001.004.000001406">Anton Ermen</persName>.
+                        </note></seg> derselben gleichzeitig betheiligt waren, zu verhindern, sich
+                    unter einander, eine den Betheiligten schädliche Concurrenz zu machen. – Mit der
+                    im Jahre 1860 erfolgten gänzlichen Trennung der Interessen war jener Usus
+                    zwecklos geworden. Ich bin daher der Ansicht, daß keins der Geschäfte sich in
+                    dieser Hinsicht Beschränkungen aufzuerlegen habe, und war mithin nicht
+                    überrascht, von unserm Agenten die Mittheilung zu erhalten, daß er bei
+                    Geschäftsabschlüssen <hi rendition="#u">im</hi> Zollenverein die Concurrenz
+                    Ihres Agenten zu bestehen gehabt habe. –</p>
+                <p>Unter freundschaftlicher Begrüssung, welcher sich meine Brüder anschließen,
+                    verbleibe ich</p>
+                <p>Ihr ergebner</p>
+                <p>Herm. Engels</p>
+            </div>
+        </body>
+    </text>
+</TEI>

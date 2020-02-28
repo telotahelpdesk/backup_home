@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_n4j_32f_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannes Miquel an Louis Kugelmann, 5. November 1867.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. R 80/D I 116.</p>
+                    <p>Erstveröffentlichung: <bibl sameAs="zotero-604880-H8NPM3CY">Eduard Bernstein:
+                            Johannes Miquel über Marx und seine Abwendung von ihm (1914).</bibl> S.
+                        195.</p>
+                    <p>Der Brief ist eine Beilage zu: <ref target="B00419">Louis Kugelmann an Karl
+                            Marx in London. Hannover, Mittwoch, 6. November 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Sign. R 80/D I 116</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+                <p>Lieber <persName key="pdrPo.001.004.000002616">Kugelmann</persName>!</p>
+                <p><bibl sameAs="zotero-604880-PT9GISVC" type="primary">Das neueste Buch</bibl> von
+                        <persName key="ed_ats_ysj_wx">Marx</persName> ist höchst interessant und
+                    lehrreich, auch dies Mal sehr verständlich geschrieben. Ob die sehr heftigen,
+                    wenn auch verdienten Angriffe gegen <persName key="pdrPo.001.004.000004074">Roscher</persName> usw. für die Verbreitung des Buches förderlich sind,
+                    bezweifle ich freilich. Es wird dadurch die Neigung des Todschweigens
+                    wachsen.</p>
+                <p>Meinen Freunden habe ich das Buch überall empfohlen – es ist für alle
+                    Anschauungen seine Kenntnis durchaus nothwendig.</p>
+                <p>Vor allem wird es aber doch auf eine richtige Vertreibung des Buches
+                    ankommen.</p>
+                <p>In Berlin z<ex>um</ex> B<ex>eispiel</ex> ist es mir gar nicht zu Gesichte
+                    gekommen. In solchen Städten muß es doch Allen, welche sich für Volkswirtschaft
+                    interessieren, zugesandt werden. Nächstens beim Landtage mündlich mehr.</p>
+                <p>Ihr</p>
+                <p><persName key="pdrPo.001.004.000003226">J<ex>o</ex>h<ex>anne</ex>s
+                        Miquel</persName>.</p>
+                <p>Osn<ex>abrück</ex> Montags.</p>
+                <p>5/11 1867.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

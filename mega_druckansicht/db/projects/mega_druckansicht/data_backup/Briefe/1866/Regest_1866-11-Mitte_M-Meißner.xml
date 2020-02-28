@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_zqn_mrf_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Otto Meißner. Etwa Mitte November 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date when="1866-11-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003135">Meißner, Otto (1819-1902)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00209"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Marx an Otto Meißner, geschrieben etwa Mitte
+                    November 1866; siehe <ref target="B00191">Karl Marx an Friedrich Engels in
+                        Manchester. London, Samstag, 10. November 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

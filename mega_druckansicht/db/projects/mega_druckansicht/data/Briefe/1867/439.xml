@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00449" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>439</idno>Wilhelm Liebknecht an Friedrich Engels in Manchester. Leipzig, Dienstag, 26. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1774</idno></idno></msIdentifier><physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              290 × 140 mm. Liebknecht hat die ersten zwei Seiten vollständig, die dritte Seite zu
+              vier Fünfteln beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von unbekannter Hand (vermutlich von <persName key="pdrPo.001.004.000004017">David
+                Borisovič Rjazanov</persName>): auf der ersten Seite oben in der Mitte mit Blaustift
+              die Jahresangabe: „1867“.</p>
+            <p>Datierung in der Erstveröffentlichung: 26. November 1867.</p>
+          </physDesc></msDesc>
+        <listWit>
+          <witness>
+            <bibl type="print" sameAs="zotero-604880-JGYK6A2M">Erstveröffentlichung: in deutscher
+              Übersetzung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Dlubek, Skambraks:
+              „Das Kapital“ von Karl Marx in der deutschen Arbeiterbewegung
+              (1967).<?oxy_custom_end?> S. 123/124.</bibl>
+          </witness>
+          <witness>
+            <bibl type="print">in der Sprache des Originals wird der Brief hier erstmals
+              veröffentlicht.</bibl>
+          </witness>
+        </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName><date when="1867-11-26"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+        <note>Zur Datierung: Die genaue Datierung stützt sich auf den Zusammenhang des Briefes mit
+          Engels’ Brief an Louis Kugelmann vom 8. und 20. November 1867, dem der nicht überlieferte
+          Brief von Engels an Liebknecht, geschrieben entweder am 8. oder am20. November 1867,
+          beigelegt (<ref target="B00426"><?oxy_comment_start author="lindenberg" timestamp="20190314T202737+0100" comment="Br. 416.5–8"?>Engels
+            an L. Kugelmann, 8. u. 20.11.1867<?oxy_comment_end?></ref> und Erl.) und am 25. November
+          1867 von Kugelmann weitergeleitet wurde (siehe <ref target="B00446"><?oxy_comment_start author="lindenberg" timestamp="20190314T202830+0100" comment="siehe Br. 436.42–43"?>L.
+            Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref> und Erl.). Daraus folgt,
+          Liebknecht konnte Engels frühestens am 26. November 1867 antworten.</note>
+        <note>Die Beilage zum Brief ist nicht überliefert. Siehe
+          <?oxy_comment_start author="lindenberg" timestamp="20190314T202848+0100" comment="439.28."?>Erl.<?oxy_comment_end?>
+        </note>
+        <note>Engels übersandte den Brief an Marx am 6. Dezember 1867 (<ref target="B00470"><?oxy_comment_start author="lindenberg" timestamp="20190314T201518+0100" comment="siehe Br. 461.3"?>Engels
+            an Marx, 6.12.1867</ref><?oxy_comment_end?>).</note>
+        <note>Engels antwortete auf den Brief mit einem nicht überlieferten Brief, geschrieben
+          zwischen 30. November und 6. Dezember 1867 (siehe <ref target="B00470"><?oxy_comment_start author="lindenberg" timestamp="20190314T201909+0100" comment="Br. 461.9–20"?>Engels
+            an Marx, 6.12.1867<?oxy_comment_end?></ref>, <ref target="B00480"><?oxy_comment_start author="lindenberg" timestamp="20190314T202156+0100" comment="471"?>W.
+            Liebknecht an Engels, 11.12.1867</ref><?oxy_comment_end?> und <ref target="B00482"><?oxy_comment_start author="lindenberg" timestamp="20190314T202637+0100" comment="473.26"?>Engels
+            an L. Kugelmann, 12.12.1867<?oxy_comment_end?></ref> sowie <ref target="B00454"><?oxy_comment_start author="lindenberg" timestamp="20190314T202431+0100" comment="444h"?>Erl.
+            zu Engels an Marx, 28.11.1867<?oxy_comment_end?></ref>).</note>
+        <note/></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:59Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> 11 Braustrasse<lb/>Leipzig.<lb/>Nov. 26.</dateline>
+          <salute>Dear Frederick,</salute>
+        </opener>
+        <p>I received your letter and am glad that you approve of my doings. Don’t think I feel
+          flattered by the praise of the Particularists; and further don’t think, I neglect studying
+            <seg type="comment"><orig><persName key="ed_ats_ysj_wx">M.</persName>’s giant <bibl sameAs="zotero-604880-PT9GISVC" type="primary">work</bibl>.</orig><note xml:id="c373fbbb-78a9-44de-9b52-17f0615d0ace"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg>
+          Unfortunately I only got it <seg type="comment"><orig>after my return from
+              Berlin</orig><note xml:id="d08b73dc-8e3d-4b94-b4b7-cdbd5acf5167">Seit 10. September
+              bis zum 26. November 1867 nahm Liebknecht an den Sitzungen des Norddeutschen
+              Reichstags teil. Siehe <ref target="B00365">W.
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T103802+0200" comment="(Br. 357)"?>Liebknecht
+                an Marx, vor 30.9.1867<?oxy_comment_end?></ref> und <ref target="B00404">W.
+                Liebknecht an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T103852+0200" comment="(Br. 394.46)"?>19.10.1867<?oxy_comment_end?></ref>.</note></seg>,
+          and being much occupied I have not yet been able to work myself through it.</p>
+        <p>The papers at my disposal are: 1) <seg type="comment"><orig><bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>; 2) <bibl sameAs="ed_kmf_22h_hfb" type="periodika">Volkszeitung of Hannover</bibl>, 3) <bibl sameAs="ed_fs5_jhf_lbb" type="periodika">Oberreinische
+              Courier</bibl><?oxy_comment_start author="lindenberg" timestamp="20191202T172110+0100" comment="Oberrheinische{so im Ms., Korrektur nötig?"?>,
+              Freiburg i.B.<?oxy_comment_end?> 4) <bibl sameAs="ed_ftn_qnk_tgb" type="periodika">Neue Basler Zeitung</bibl>, Basel, 5) <bibl sameAs="ed_hzq_thq_xjb" type="periodika">Correspondent</bibl> (Printers’ Organ) and 6) <bibl sameAs="ed_d1y_z4k_tgb" type="periodika">Süddeutsche Presse</bibl>, (I don’t write
+              for it, but <persName key="pdrPo.001.004.000001677">Fröbel</persName> has asked me,
+              and I can put anything in.) <hi rendition="#u">Perhaps</hi> <pb/>
+              <bibl sameAs="ed_gn5_3hf_lbb" type="periodika">Frankfurter Zeitung</bibl></orig><note xml:id="e8ac553c-f0a1-4558-a6e5-59b95fc3aa28">Liebknecht nennt eine Auswahl an
+              Zeitungen für mögliche Rezensionen  zum ersten Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“. Siehe <ref target="B00254"><?oxy_comment_start author="reichhoff" timestamp="20180612T104120+0200" comment="(Br. 243.33–55)"?>W.
+                Liebknecht an Marx, 25.4.1867<?oxy_comment_end?></ref> „Folgende Zeitungen ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191203T095701+0100" comment="243k."?>Erl.<?oxy_comment_end?> 
+              – <bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutsche Volkszeitung</bibl>.
+              Hannover. Siehe <ref target="B00419">L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T104209+0200" comment="(Br. 409.40)"?>Kugelmann
+                an Marx, 6.11.1867<?oxy_comment_end?></ref> „Ich selbst wagte ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191203T095926+0100" comment="409h."?>Erl.<?oxy_comment_end?> 
+              – <bibl sameAs="ed_fs5_jhf_lbb" type="periodika">Oberrheinischer Courier</bibl> damit
+              verbunden der Freiburger Anzeiger. Freiburg im Breisgau. – <bibl sameAs="ed_ftn_qnk_tgb" type="periodika">Neue Basler Zeitung</bibl>. Basel. – <bibl sameAs="ed_hzq_thq_xjb" type="periodika">Der Correspondent</bibl>. – <bibl sameAs="ed_d1y_z4k_tgb" type="periodika"><?oxy_comment_start author="lindenberg" timestamp="20190315T113741+0100" comment="https://zdb-katalog.de/title.xhtml?idn=017816564"?>Süddeutsche
+                Presse<?oxy_comment_end?></bibl>. – <bibl sameAs="ed_gn5_3hf_lbb" type="periodika">Frankfurter Zeitung</bibl>. Siehe
+              <?oxy_comment_start author="lindenberg" timestamp="20191203T101457+0100" comment="418i"?>Erl. zu
+              Engels an Marx, 10.11.<?oxy_comment_end?><ref target="B00428">1867</ref>.</note></seg>.</p>
+        <p>I forgot the <seg type="comment"><orig>“<hi rendition="#u"><bibl sameAs="ed_pdx_qpk_tgb" type="periodika">Arbeiterhalle</bibl></hi>” at Mannheim</orig><note xml:id="a271db88-9d50-4361-a819-cc809e53290f"><bibl sameAs="ed_pdx_qpk_tgb" type="periodika">Deutsche Arbeiterhalle</bibl>. Organ des  Vereinstages Deutscher
+              Arbeiter-Vereine.</note></seg>, organ of the <seg type="comment"><orig>German
+              Arbeiterbildungsvereine</orig><note xml:id="ne55_24v_xjb">Der Vereinstag Deutscher
+              Arbeitervereine (VDAV) war ein 1863 gegründeter Dachverband von Arbeitervereinen,
+              vornehmlich Arbeiterbildungsvereinen.</note></seg>, (<hi rendition="#u">formerly</hi>
+          <seg type="comment"><orig>Schulzeish</orig><note xml:id="nixh_hpv_xjb">Gemeint ist die u.
+              a. von  <persName key="pdrPo.001.004.000004342">Hermann Schulze-Delitzsch</persName>
+              vertretene, eher unpolitische Ausrichtung der Arbeiterbildungsvereine, die z. B. in
+              der Genossenschaftsidee ihren Ausdruck fand.</note></seg>) <seg type="comment"><orig>now under the presidentship of my friend <persName key="pdrPo.001.004.000000303"><hi rendition="#u">Bebel</hi></persName></orig><note xml:id="f3800dcc-88fd-4992-81d2-f52eec05eed5">
+              <persName key="pdrPo.001.004.000000303">August Bebel</persName> wurde 1867 Präsident
+              des Verbandes Deutscher Arbeiter-Vereine.</note></seg>.</p>
+        <p><seg type="comment"><orig>Besides through <hi rendition="#u"><persName key="pdrPo.001.004.000000981">Contzen</persName></hi>, a Privat Docent here, I
+              hope to get an article into one of the Reviews.</orig><note xml:id="c67b3f03-035b-4cff-b945-b9e902902b3d">Siehe  <ref target="B00431">W.
+                Liebknecht an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T104358+0200" comment="(Br. 421.20–22 "?>12.<?oxy_comment_end?>11.1867</ref>
+              und <ref target="B00436"><?oxy_comment_start author="reichhoff" timestamp="20180612T104435+0200" comment="426.19)."?>19.11.1867
+                <?oxy_comment_end?></ref>.</note></seg></p>
+        <p>At all events send me an article, I shall take care to have it
+          published in several papers.</p>
+        <p><seg type="comment"><orig>I don’t know whether <persName key="ed_ats_ysj_wx">M.</persName> told you that I shall have a little weekly from Jan. 1.</orig><note xml:id="e809bfaf-1d57-4e9f-9de7-c350ba9a8a7f">Siehe <ref target="B00404">W
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T104532+0200" comment="(Br. 394.50)"?>Liebknecht
+                an Marx, 19.10.1867<?oxy_comment_end?></ref> „Apropos. ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191203T112032+0100" comment="{394.50 {l}} "?>Erl.<?oxy_comment_end?> sowie
+                <ref target="B00431">W.
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T104602+0200" comment="(Br. 421.8–10)"?>Liebknecht
+                an Marx, 12.11.1867<?oxy_comment_end?></ref> „I want the money ...“. – Mit „a little
+              weekly“ ist das „<bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratische
+                Wochenblatt</bibl>“ gemeint.</note></seg>
+          <hi rendition="#u">Please write something for it now and then</hi>. And could you not
+          <pb/> place a few shares (à 5 r<ex>eichstaler</ex> 1 r<ex>eichstaler</ex> and ½
+            r<ex>eichstaler</ex>)?</p>
+        <p>In hot haste</p>
+        <closer>Your<lb/>W. L.</closer>
+        <postscript>
+          <p>This is enclosed in a letter to <seg type="comment"><orig>the <persName key="pdrPo.001.004.000003797">Editor</persName></orig><note xml:id="f7b3b2e9-f5e7-41ef-8b6d-569d2cd9909b"><persName key="pdrPo.001.004.000003797">George Potter</persName>.</note></seg> of the <bibl sameAs="ed_f1z_lhf_lbb" type="periodika">Beehive</bibl>, who wrote to me. Could you
+            give me some particulars about that paper, which is very little known to me? <seg type="comment"><orig>Has the I. W. A. no organ of its own?</orig><note xml:id="bdd8aa92-ed3e-4015-9884-8bf674ca99ca">Zu den Presseorganen der IAA siehe
+                  <bibl sameAs="zotero-604880-PAGN2GMX" type="secondary">Smirnova: Bor’ba
+                  General’nogo Soveta I Internacionala za sozdanie svoej gazety</bibl> {Смирнова:
+                Борьба Генерального Совета I Интернационала за создание своей газеты} … S. 21–50;
+                  <bibl sameAs="zotero-604880-6PJ756JM" type="secondary">Mares: Die englischen
+                  Publikationsorgane der IAA</bibl>. S. 29–32. Siehe auch  <ref target="B00007"><?oxy_comment_start author="lindenberg" timestamp="20191203T132432+0100" comment="6f"?>Erl. zu
+                  Marx an J. Ph. Becker, zw. 9. u.
+            15.1.1867<?oxy_comment_end?></ref>.</note></seg></p>
+        </postscript>
+      </div><div type="writingSession"><p>Salut. <pb/></p></div></body></text></TEI>

@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00039" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>36</idno>Karl Marx an Friedrich Engels in Manchester. London, Dienstag,
+                    13. Februar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4438/L VI 571</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            226 × 179 mm. Prägevignette „Extra Super“. Marx hat die
+                            erste, dritte und vierte Seite vollständig beschrieben, die zweite ist
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „4,1“ bis
+                            „4,3“. </p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1935</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: Bw 3
+                            (1913). S. 293/294.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_fv1_snz_g1b">Lektüre</term>
+                    <term key="ed_mts_42y_g1b">Journalismus</term>
+                    <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+                    <term key="ed_u5f_cpw_ww">Naturwissenschaften</term>
+                    <term key="ed_hrp_vnf_h1b">Zeitungen der IAA</term>
+                    <term key="ed_c4w_y1s_l1b">Japan</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1866-02-13"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00037"/>
+                    <ref type="next" target="mega_icx_ymn_f1b"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Brief vom 10. Februar 1866 (<ref target="B00037">Engels an Marx, 10.2.1866</ref>). Engels antwortete ihm mit einem nicht
+                    überlieferten Brief (<ref target="mega_icx_ymn_f1b">Engels an Marx, 13. o.
+                        14.2.1866</ref>), geschrieben am 13. oder 14. Februar 1866 (siehe <ref target="B00040">Marx an Engels, 14.2.1866</ref>: „Herzlichsten Dank für
+                    ...“).</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:37Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> 13 Feb. 1866.</dateline><salute>Dear Fred,</salute></opener>
+                <p><anchor type="verweisziel" xml:id="start_klc_kbr_nz"/>Sage oder schreibe dem <persName key="pdrPo.001.004.000001969">Gumpert</persName>, er solle mir das Recept mit Gebrauchsanweisung
+                    schicken. Da ich das Vertrauen in ihn habe, schuldet er schon dem Besten der
+                    „Pol. Oekonomie“ professionelle Etiquette zu übersehn u. mich von Manchester aus
+                    zu behandeln.<anchor type="verweisziel" xml:id="stop_klc_kbr_nz"/></p>
+                <p>Gestern lag ich wieder brach, da ein bösartiger Hund von
+                    Karbunkel an linker Lende ausgebrochen. Hätte ich Geld genug, das heißt mehr
+                    &gt;–0, für meine Familie, u. wäre mein Buch fertig, so wäre es mir völlig
+                    gleichgültig, ob ich heute oder Morgen auf den Schindanger geworfen würde, alias
+                    verreckte. Unter besagten Umständen geht es aber noch nicht.</p>
+                <p><anchor type="verweisziel" xml:id="start_ffy_wt4_mz"/>Was dieß „verdammte“ Buch betrifft, so steht es so: Es wurde <hi rendition="#u">fertig</hi> Ende December.<anchor type="verweisziel" xml:id="stop_ffy_wt4_mz"/>
+                    <seg type="comment"><orig>Die Abhandlung über die Grundrente allein, das
+                            vorletzte Kapitel, bildet beinahe, in der jetzigen Fassung, ein
+                            Buch.</orig><note xml:id="e02c7671-0b48-4c85-badb-74476b6deb16">Die
+                            Theorie der Grundrente hat Marx im sechsten Kapitel seines Manuskripts
+                            für das dritte Buch des „Kapitals“ dargelegt. (Siehe <bibl sameAs="zotero-604880-IWKYFFC9">Karl Marx: Das
+                                Kapital (Ökonomisches Manuskript 1863–1865). Drittes Buch. Sechstes
+                                Kapitel. Verwandlung von Surplusprofit in Grundrente.</bibl> In:
+                            MEGA² II/4.2. S. 667–833.)
+                            <!--(((lMarx,Karl: Das Kapital
+                            (Ökonomisches Manuskript 1863–1865). Drittes Buch. Sechstes Kapitel.
+                            Verwandlung von Surplusprofit in Grundrente. In: MEGA² II/4.2.
+                            S. 667–833)))-->
+                            Es erschien gedruckt erst 1894, im von Engels herausgegebenen dritten
+                            Band des „Kapitals“ (Siehe ebenda. <bibl sameAs="zotero-604880-DJBKPEMZ">MEGA² II/15</bibl>
+                            <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B015-00_ETX.xml%26book=15%26part=0%26pageNr=602%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 602–788.</ref>). <!--(((lMEGA² II/15)))-->
+                        </note></seg> Ich ging bei Tag aufs Museum u. schrieb Nachts. <anchor type="verweisziel" xml:id="start_zy4_dgs_nz"/>Die neue Agrikulturchemie in
+                    Dtschld, <seg type="comment"><orig>speziell <persName key="pdrPo.001.004.000002817">Liebig</persName> u. <persName key="pdrPo.001.004.000004304">Schönbein</persName></orig>
+                        <note xml:id="d757a8dc-c258-4791-bacd-e0e1bbeb879c">
+                            <p>Marx exzerpierte die Werke <persName key="pdrPo.001.004.000002817">Justus von Liebigs</persName>
+                                zuerst im Juli/August 1851 (siehe <bibl sameAs="zotero-604880-KI3L9T2H">MEGA²
+                                    IV/9.</bibl> S. 110 und 172–213 sowie S. 604–620 und 635/636).
+                                Zwischen August 1865 und Februar 1866 befasste sich Marx erneut mit
+                                Liebig und fertigte umfangreiche Auszüge u.a. aus dessen
+                                <?oxy_comment_start author="strauss" timestamp="20170710T183623+0200" comment="(((lLiebig, Justus von: Die Chemie in ihrer Anwendung auf Agricultur und Physiologie.Theil 1.2. 7.Aufl. Braunschweig 1862)))"?>Buch<?oxy_comment_end?>
+                                „Die Chemie in ihrer Anwendung auf Agricultur und Physiologie“ (7.
+                                Aufl. Braunschweig 1862) an (siehe IISG, Marx-Engels-Nachlass, Sign.
+                                B 106/B 98). Marx notierte dort auch mehrmals Liebigs Einschätzung
+                                des Werkes von <persName key="pdrPo.001.004.000004304">Christian
+                                    Friedrich Schönbein</persName>. Marx verwendete diese Exzerpte
+                                im Manuskript zum dritten Buch des „Kapitals“ (<bibl sameAs="zotero-604880-U7ULR7KH">MEGA²
+                                    II/4.2.</bibl> S. 720, 723, 763/764, 833 und 1109). – Siehe auch
+                                    <ref target="B00046">Marx an Engels, 20.2.1866</ref> – Zu
+                                Schönbein siehe <bibl sameAs="zotero-604880-MS7R5UHZ">MEGA² IV/31.</bibl> S. 540, 560 und 565.</p>
+                        </note></seg> die wichtiger für diese Sache als alle Oekonomen zusammen
+                    genommen, <pb/> andrerseits <seg type="comment"><orig>das enorme Material, das
+                            die Franzosen</orig><note xml:id="nb5v_53c_n1b">
+                            <p>In seinem zwischen August 1865 und Februar 1866 entstandenen <bibl sameAs="zotero-604880-4J6PARRF">Heft</bibl> zu
+                                Landwirtschaft, Bodenrente und Agrikulturchemie exzerpierte Marx
+                                neben <persName key="pdrPo.001.004.000002817">Justus von
+                                    Liebig</persName> u.a. die Schriften der französischen Autoren
+                                    <persName key="pdrPo.001.004.000003624">Hippolyte-Philibert
+                                    Passy</persName>, <persName key="pdrPo.001.004.000003332">Louis
+                                    Mounier</persName> und <persName key="pdrPo.001.004.000002731">Leonce de Lavergne</persName> (siehe IISG,
+                                Marx-Engels-Nachlass, Sign. B 106/B 98).</p>
+                        </note></seg> seit meiner letzten Beschäftigung mit diesem Punkt darüber
+                    geliefert hatten, mußte durchgeochst werden. <anchor type="verweisziel" xml:id="stop_zy4_dgs_nz"/><seg type="comment"><orig>Ich schloß meine
+                            theoretischen Untersuchungen über die Grundrente vor
+                            2 Jahren.</orig><note xml:id="b98bc3ae-8890-47b5-a2d7-9d4bfe303996">Marx begann seine agrarwissenschaftlichen Studien Anfang der 1850er
+                            Jahre (siehe <bibl sameAs="zotero-604880-KI3L9T2H">MEGA²
+                                IV/9.</bibl> S. 23*–33*) und setzte sie im Rahmen seiner
+                            ökonomischen und naturwissenschaftlichen Studien von 1865 bis 1868
+                            (siehe
+                            <?oxy_comment_start author="lindenberg" timestamp="20170829T154740+0200" comment="Noch nicht ersch. 2017-08-29"?>MEGA²
+                            IV/18<?oxy_comment_end?>) und in den 1870er Jahren (siehe <bibl sameAs="zotero-604880-WT63F74E">MEGA² IV/26.</bibl>
+                            S. 716–726) fort. In seinen ökonomischen Schriften vor 1866 behandelte
+                            Marx die Grundrente in: Zur Kritik der politischen Ökonomie
+                            &lt;Manuskript 1861-1863&gt; (<bibl sameAs="zotero-604880-II9KGB4I">MEGA² II/3.</bibl> S. 673–1000).</note></seg> Und
+                    grade in <expan>d<ex>er</ex></expan>
+                    Zwischenzeit war vieles, übrigens ganz meine Theorie bestätigend, geleistet
+                    worden. <seg type="comment"><orig>Auch der Aufschluß von Japan</orig><note xml:id="ba56e847-131c-414b-b205-a78d4ed04d5f">Marx beschäftigte sich mit
+                            der japanischen Landwirtschaft zwischen August 1865 bis Februar 1866 in
+                            seinen Exzerpten aus <bibl sameAs="zotero-604880-LQIRX6MZ">H[ermann] Maron: Aus dem Bericht an den Minister für
+                                die landwirthschaftlichen Angelegenheiten in Berlin über die
+                                japanische Landwirthschaft.</bibl>
+                            <!--(((lMaron,H[ermann]: Aus dem Bericht an den
+                            Minister für die landwirthschaftlichen Angelegenheiten in Berlin über
+                            die japanische Landwirthschaft. In: Liebig,Justus von: Die Chemie in
+                            ihrer Anwendung auf Agricultur und Physiologie. 7. Aufl. Teil 2.
+                            Braunschweig 1862. S. 417–438.)))-->
+                            Der Bericht wurde als Anhang veröffentlicht in <bibl sameAs="zotero-604880-ZR367H66">Justus von Liebig:
+                                Die Chemie in ihrer Anwendung auf Agricultur und Physiologie. 7.
+                                Aufl. Teil 2. Braunschweig 1862.</bibl> S. 417–438. (<bibl sameAs="zotero-604880-4J6PARRF">Marx' Exzerpte</bibl>
+                            in: IISG, Marx-Engels-Nachlass, Sign. B 106/B 98. S. 121–131). <!--(((lLiebig,Justusvon: Die
+                            Chemie in ihrer Anwendung auf Agricultur und Physiologie. 7. Aufl. Teil
+                            2. Braunschweig 1862)))-->
+                            <!--(((lMarx,Karl:Exzerptheft von August/September
+                            1865 bis Februar 1866, S. 121–131 (IISG, Marx-Engels-Nachlass, Sign. B
+                            106/B 98).)))-->
+                        </note></seg> (ich lese sonst <del> nie <sic ana="#break-off"/></del> im
+                    Durchschnitt, <subst>
+                        <del>wenn</del>
+                        <add>wo</add>
+                    </subst> nicht professionell genöthigt, niemals Reisebeschreibungen) war hier
+                    wichtig. <seg type="comment"><orig>Daher das „shifting system“, wie es die
+                            englischen Fabrikhunde von 1848–50 an <hi rendition="#u">den selben</hi>
+                            Personen anwandten, auf mich von mir selbst angewandt.</orig><note xml:id="d65c19bb-fb3e-4293-b0fe-247e59f2c64a">Das „shifting system“ oder
+                            „relay system", eine Art Schichtsystem war in englischen Fabriken
+                            verstärkt seit 1848 üblich, um gesetzliche Bestimmungen zur Begrenzungen
+                            des Arbeitstages für Kinder und Jugendliche zu umgehen. Dabei wurden
+                            diese nach einigen Stunden Arbeit gleichentags dann an einer anderen
+                            Arbeitsstätte weiterbeschäftigt oder sie wurden in mehreren Intervallen
+                            beschäftigt, mussten aber in oder in der Nähe der Fabrik bleiben. Der
+                            Gesamtarbeitstag oder zumindest die Gesamtanwesenheitszeit wurde damit
+                            nicht kürzer, sondern oft sogar länger. Ein Schichtsystem war
+                            ursprünglich bereits seit 1833 vorgesehen, um der zugleich eingeführten
+                            Schulpflicht für in Textilfabriken arbeitende Kinder Genüge zu tun, was
+                            jedoch nur begrenzt gelang. Siehe dazu: <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd 1. Hamburg 1867.</bibl> (<bibl sameAs="zotero-604880-25ETZ5BH">MEGA² II/5.</bibl>
+                            <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=227%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 227–231</ref>).
+                            <!--(((lMarx,Karl: Das Kapital. Bd 1. Hamburg 1867.
+                            (MEGA² II/5. S. 227–231).)))--></note></seg></p>
+                <p>Obgleich fertig, ist das Manuscript, riesig in seiner
+                    jetzigen Form, nicht herausgebbar für irgend Jemand ausser <subst>
+                        <del>mich</del>
+                        <add>mir</add>
+                    </subst>, selbst nicht für Dich.</p>
+                <p>Ich begann die Abschreiberei u. <hi rendition="#u">Stylisirung</hi> Punkt ersten Januar u. die Sache ging sehr flott voran, da
+                    es mir natürlich Spaß macht das Kind glatt zu lecken nach so vielen Geburtswehn.
+                    Aber dann kam wieder der Karbunkel dazwischen, so daß ich bis jetzt nicht
+                    weitergehn, sondern nur thatsächlich ausfüllen <pb/> konnte, was nach dem Plan
+                    schon fertig war.</p>
+                <p><seg type="comment"><orig>Im übrigen stimme ich mit
+                            Deiner Ansicht überein u. bringe den ersten Band, sobald er fertig, zu
+                                <persName key="pdrPo.001.004.000003135">Meißner</persName>.</orig><note xml:id="nilp_1y1_m1b">Siehe <ref target="B00037">Engels an Marx,
+                                <?oxy_comment_start author="strauss" timestamp="20170707T163408+0200" comment="Br. 34.24-26"?>10.2.1866<?oxy_comment_end?>:
+                                „Kannst Du es nicht so einrichten ...“.</ref></note></seg> Doch muß
+                    ich zum Fertigmachen wenigstens <hi rendition="#u">sitzen </hi>können<hi rendition="#u">.</hi></p>
+                <p><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_ayy_bzy_nz"/>Vergiß nicht an den <persName key="pdrPo.001.004.000005027">Watts</persName> zu schreiben, da ich
+                            jetzt bei meinem Kapitel über Maschinerie angelangt bin.</orig><anchor type="verweisziel" xml:id="stop_ayy_bzy_nz"/><note xml:id="c682bb75-a48c-4fb1-9187-bc3cd39c4631">Marx erwähnt <bibl sameAs="zotero-604880-9XVD7JDF">John Watts: Trade
+                                Societies and Strikes. Manchester, London [1865].</bibl> Siehe Punkt
+                            „4) Maschinerie und große Industrie“ im „Vierten Kapitel“ in <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> (<ref target="http://telota.bbaw.de/mega/"><?oxy_comment_start author="roth" timestamp="20170425T144748+0200" comment="genauen Link auf Seiten noch ergänzen, wenn Kopierfunktion aus MEGAdigital funktioniert"?>MEGA² II/5<?oxy_comment_end?></ref>.
+                                <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=301%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 301–413</ref> sowie <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=447%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 447</ref> und <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=449%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">449</ref>). Siehe auch <ref target="B00036/#start_gyk_cnq_nz">Marx
+                                an Engels,
+                                10.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T102757+0200" comment="{{Br. 33.51–53}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00036/#b0128bc6-6f4e-4b18-be19-28af8fa4cc34">Erl.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170516T133822+0200" comment="{{Erl. 33l}}."?>
+                            <?oxy_comment_end?><!--(((lWatts,John: Trade Societies and Strikes.
+                            Manchester,London_[1865])))-->
+                            <!--(((lMarx,Karl:Das Kapital. Bd. 1.
+                            Buch 1. Hamburg 1867. (MEGA² II/5).)))-->
+                        </note></seg></p>
+                <p><seg type="comment"><anchor type="verweisziel" xml:id="start_ozw_bcz_nz"/><orig>Kannst Du nicht, unter der Rubrik <hi rendition="#u">Berlin</hi>, <add>über Preussen</add> rasch
+                            hingeworfne Artikel schicken für <bibl sameAs="ed_etf_mhf_lbb">„Commonwealth“.</bibl></orig><note xml:id="e4a7704e-2d16-4da8-baf5-b9cb0e0d770b">Engels hat solche Artikel
+                            nicht geschrieben.</note></seg> Bedenke, wie wichtig für uns, in London
+                    festen Fuß zu haben.<anchor type="verweisziel" xml:id="stop_ozw_bcz_nz"/>
+                    <seg type="comment"><orig>Die Polenartikel</orig><note xml:id="a8266281-2256-48dd-9c28-a81d72bf558f">Siehe <ref target="B00036/#aa4c6ecd-ee57-4fdc-a0d9-188519cb0808">Erl. zu Marx
+                                an Engels, 10.2.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20170516T143212+0200" comment="{Erl._33j}"?>
+                            <?oxy_comment_end?>sowie <ref target="B00004">Marx an Engels,
+                                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T164946+0100" comment="{{Br._3}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00036">10.2.<?oxy_comment_start author="reichhoff" timestamp="20170314T165352+0100" comment="{{Br._33}}"?>1866<?oxy_comment_end?></ref>,
+                                <ref target="B00054">Engels an Marx,
+                                5.3.<?oxy_comment_start author="reichhoff" timestamp="20170314T165920+0100" comment="{{Br._51}}"?>1866<?oxy_comment_end?>
+                            </ref>und <ref target="B00066">Marx an Engels,
+                                16.3.<?oxy_comment_start author="reichhoff" timestamp="20170314T170052+0100" comment="{{Br._62}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    haben Zeit. Aber mit den <expan>d<ex>eu</ex>tschen</expan> Blättern, die Dir zu Gebot stehn, kann Dir
+                    dieß Schreiben über Preussen nur Spaß machen. Mein Einfluß hier hängt zum Theil
+                    davon ab, daß <expan>d<ex>ie</ex></expan> Leute endlich sehn, daß ich nicht ganz allein
+                    stehe.</p>
+                <p>Die polit. Sachen beunruhigen mich (nicht qua
+                    Individuum, sondern von wegen des Buchs) nicht so sehr als der <hi rendition="#u">ökonomische</hi> Status, der auf Crise drohend u. drohender
+                    hinweist.</p>
+                <closer>Salut<lb/><!--<hi rend="color(0000FF)">{u1}</hi>-->D<lb/>KM</closer>
+                <postscript>
+                    <p>Gruß an die <seg type="comment"><orig>„irische“ Freundin</orig><note xml:id="adaa352a-f2bc-43aa-95a5-9099d3752d3d"><persName key="pdrPo.001.004.000000698">Lydia Burns</persName>.
+                            </note></seg>. <seg type="comment"><orig>Die Irländrinnen, notabene,
+                                    <persName key="ed_pzn_jgh_kz">Rosas O’Donnavan</persName> etc,
+                                haben gedankt für den Aufruf unsrer <bibl sameAs="ed_wcg_phf_lbb">Zeitung</bibl></orig><note xml:id="nakd_kfz_5y">In der Sitzung
+                                des Zentralrats der IAA am 2. Januar 1866 war auf Vorschlag von
+                                    <persName key="pdrPo.001.004.000001603">Peter Fox</persName>
+                                beschlossen worden, einen Appell der Frauen verhafteter Fenier auch
+                                im <bibl sameAs="ed_wcg_phf_lbb">„Workman’s
+                                    Advocate“</bibl>
+                                <!--(((zWorkman’s Advocate)))--> abzudrucken (<bibl sameAs="zotero-604880-7U8R32JW">The Minute Book
+                                    1864–1866.</bibl> In: MEGA² I/20. S. 375.4–17).
+                                <!--(((lThe Minute Book 1864–1866. In: MEGA² I/20. S. 265–450)))-->
+                                Der Aufruf war am 6. Januar 1866 erschienen (Siehe <bibl sameAs="zotero-604880-I7CVR5EI">MEGA² I/20.</bibl> Erl. 189.7–8, 189.8, 375.5–7 und
+                                375.11–12). In der Sitzung am 16. Januar 1866 berichtete Marx
+                                über einen Dankesbrief an Fox für die Unterstützung der Verhafteten.
+                                    (<bibl sameAs="zotero-604880-7U8R32JW">The Minute
+                                    Book 1864–1866.</bibl> In: MEGA² I/20. S. 380.5–7).
+                                <!--(((lThe Minute Book 1864–1866. In: MEGA² I/20. S. 265–450)))-->
+                            </note></seg> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000001603">Fox’s</persName>
+                                Artikel.</orig><note xml:id="namv_lfz_5y"><bibl sameAs="zotero-604880-MU4F9UKZ">Peter Fox: The
+                                    British coup d’etat in Ireland.</bibl> In: The Workman’s
+                                Advocate. London. Nr. 136, 14. Oktober 1865. S. 7;
+                                derselbe: To the Editor of „The Workman’s Advocate“. Ebenda.
+                                Nr. 137, 21. Oktober 1865. S. 6/7. [U. d. T.:] <bibl sameAs="zotero-604880-9EUGHTVQ">The influence of
+                                    Irish national feeling upon the relations between Great Britain
+                                    and the United States</bibl>; derselbe: To the Editor of „The
+                                Workman’s Advocate“. Ebenda. Nr. 138, 28. Oktober 1865.
+                                S. 7. [U. d. T.:] <bibl sameAs="zotero-604880-WS3W8TPK">The Irish difficulty. Continued. A
+                                    postscript.</bibl>
+                                <!--(((lFox,Peter: The British coup d’etat in
+                                Ireland. In: The Workman’s Advocate. London. Nr. 136,
+                                14. Oktober 1865. S. 7; Fox, Peter: To the Editor of „The
+                                Workman’s Advocate“. In: The Workman’s Advocate. London. Nr. 137, 21. Oktober 1865.
+                                S. 6/7. [U.d.T.:] The influence of Irish national feeling upon
+                                the relations between Great Britain and the United States; Fox, Peter:
+                                To the Editor of „The Workman’s Advocate“. In: The Workman’s Advocate. London. Nr. 138,
+                                28. Oktober 1865. S. 7. [U.d.T.:] The Irish difficulty.
+                                Continued. A postscript)))-->
+                            </note></seg>
+                    </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

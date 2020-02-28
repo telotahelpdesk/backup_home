@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00263" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                <title><idno>254</idno>Ludwig Büchner an Karl Marx in Hannover. Darmstadt, Freitag,
+                    3. Mai 1867</title>
+            </titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 666/ D I 305 Fotosign. 7221&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 282 × 222 mm. Prägung: „D<hi rendition="#sup">r</hi> med Louis Büchner Darmstadt“ und eine Vignette. Büchner hat die ersten drei Seiten vollständig beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1700</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000656">Büchner, Ludwig (Louis)
+                        (1824-1899)</persName>
+                    <placeName key="ed_yvj_gbg_4db">Darmstadt</placeName><date when="1867-05-03"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00260"/>
+                </correspContext>
+                <note>Büchner beantwortet Marx’ Brief vom 1. Mai 1867 (<ref target="B00260">Marx an
+                        L. Büchner, 1.5.1867</ref>).</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:26Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <p><pb/> Herrn Karl Marx <lb/>Hannover.</p>
+                <opener>
+                    <dateline><lb/>Darmstadt, 3/V 67</dateline>
+                    <salute>Werther Herr!</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ihren werthen Brief d.d.
+                            1/V</orig><note xml:id="b7c8f99d-43e2-40f4-a5e7-307f37578154">Siehe <ref target="B00260"><?oxy_comment_start author="reichhoff" timestamp="20180620T103752+0200" comment="Br. 251"?>Marx
+                                an L. Büchner, 1.5.1867<?oxy_comment_end?></ref>.</note></seg> habe
+                    ich erhalten und bedaure sehr, Ihnen in betreff Ihres Wunsches nur sehr
+                    mangelhafte Auskunft geben zu können. <seg type="comment"><orig><bibl sameAs="zotero-604880-5N8IRVKT">„Kraft und
+                                Stoff“</bibl> ist nicht in Paris sondern in Deutschland übersetzt
+                            und ebenda verlegt worden, und wird in Paris durch einen <orgName key="ed_xts_mnv_4fb">Commissionär</orgName> ( <persName key="ed_vhn_fqv_4fb">C. Reinwald</persName>, 15, rue des St.-Pères)
+                            verkauft</orig><note xml:id="ffdf514d-1fa5-43ec-b2aa-fc665ba66286"><bibl sameAs="zotero-604880-A4KHD7IH">Louis Büchner: Force
+                                et matière. Paris, Bruxelles, Leipzig 1863.</bibl> Siehe auch <ref target="B00260">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180620T103752+0200" comment="Br. 251"?>Marx
+                                an L. Büchner,
+                    1.5.1867<?oxy_comment_end?></ref>.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20181024T180816+0200" comment="251.22{e}"?>.<?oxy_comment_end?>
+                    Dagegen sind <seg type="comment"><orig>meine gesammelten Aufsätze in Paris
+                            übersetzt und erschienen bei <orgName key="ed_bwq_rdw_4fb">Germer-Baillière</orgName>, libraire-éditeur, rue de
+                            l’Ecole-de-Médecine, 17</orig><note xml:id="d3ef00d5-8e57-48dc-9cd0-dc86fdd3f36b"><bibl sameAs="zotero-604880-ZV5VIL9Z">Louis Büchner:
+                                Science et Nature. Essais de philosophie et de science naturelle.
+                                Traduit de l’allemand avec autorisation de l’auteur par Augustin
+                                Delondre. Bd. 1.2. Paris: Baillière, 1866.</bibl></note></seg>.
+                    Von diesem <persName key="ed_fjc_slw_4fb">Herrn</persName> habe <pb/> ich seit
+                    anderthalb Jahren keine Nachrichten. Vor ungefähr zwei Monaten schrieb ich an
+                    denselben im Auftrag <seg type="comment"><orig>eines Freundes</orig><note xml:id="d66404a6-9cf5-4d1e-adf0-ba42db6e2f15">Die Person wurde nicht
+                            ermittelt.</note></seg>, welcher ebenfalls ein Werk in französ.
+                    Übersetzung wollte erscheinen lassen, und <hi rendition="#u">habe bis heute noch
+                        keine Antwort erhalten</hi>. Wollen Sie sich übrigens an denselben wenden
+                    (er hat einen sehr großen <orgName key="ed_bwq_rdw_4fb">Verlag</orgName> und ist
+                    sehr rührig), so beziehen Sie sich auf mich; ich werde, soweit ich vermag,
+                    suchen, Ihnen nützlich zu sein. Leider ist der internationale Vertrag für uns
+                    Schriftsteller sehr ungünstig. Wartet der Buchhändler nur <hi rendition="#u">ein
+                        Jahr</hi>
+                    <pb/> nach Erscheinen eines Buches, so kann er als dann, wenn inzwischen keine
+                    autorisirte Übertragung erschienen ist, ohne jegliche Entschädigung an Autor
+                    oder Verleger ungenirt übersetzen lassen. Es ist daher stets zu fürchten, daß
+                    der Übersetzer das Pflichtjahr abwartet und als dann erst ohne jegliche
+                    Correspondenz mit dem Autor übersetzt. </p>
+                <p>Mit bestem Dank für Ihr freundliches Anerbieten
+                    bezüglich England’s und zu jeder allenfalls weiter gewünschten Auskunft
+                    bereit</p>
+                <closer>Ihr ergebenster<lb/>L. Büchner. <pb/></closer>
+            </div></body></text></TEI>

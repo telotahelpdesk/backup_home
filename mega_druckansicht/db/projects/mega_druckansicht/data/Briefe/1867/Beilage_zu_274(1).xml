@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_x4k_vgt_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschrift der medizinischen Bescheinigung des Arztes John Wills für Harro
+                    Harring vom 4. Juli 1866.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                        Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 1, op. 5, d.
+                        1705. Bl. 2v.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: Sign. f. 1, op. 5, d. 1705. Bl. 2v.</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Um gefällige Rücksendung dieser Abschrift bittet <lb/><persName key="pdrPo.001.004.000002413">EJuch</persName></p>
+                <p><hi rendition="#u">Copy.</hi></p>
+                <p>I hereby certify that Mr <persName key="pdrPo.001.004.000002052">Harro
+                        Harring</persName> to whom I gave a certificate of ill health and general
+                    delibility some time since, has been gradually getting worse not only as regards
+                    his chest affection but his emaciation is increasing from want of the common
+                    necessities of Life and if allowed much longer to continue must gradually
+                    terminate in Death. –</p>
+                <p>/Signed:/ <lb/><persName key="ed_f3g_dnt_ngb">John Wills</persName>. M. Dr
+                    <lb/>Surgeon etc</p>
+                <p>Jersey <lb/>July 4. 1866.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

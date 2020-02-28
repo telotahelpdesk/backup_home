@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00321" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>312</idno>Friedrich Engels an Karl Marx in London. Manchester, Donnerstag, 15. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1633/D III 403</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 223 × 180 mm. Wasserzeichen: eine Krone und Posthorn. Prägung: Blumenstrauß. Engels hat die erste Seite vollständig, die zweite zur Hälfte beschrieben, die beiden letzten Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten mit Bleistift: „23,1“ (gestrichen)
+                            bzw. „23,2“; „330“ (gestrichen), „331,1“ bzw. „331,2“. Redaktionelle
+                            Vermerke. Eine Streichung.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+                            Briefes: „897“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2061</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 391/392.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-08-15"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00319"/>
+                    <ref type="next" target="B00322"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 14. August 1867 (siehe
+                        <?oxy_comment_start author="lindenberg" timestamp="20190219T143325+0100" comment="310"?><ref target="B00319">Marx an Engels, 14.8.1867<?oxy_comment_end?></ref>). Marx
+                    antwortete am 16. August 1867 (siehe <ref target="B00322"><?oxy_comment_start author="lindenberg" timestamp="20190219T143409+0100" comment="313"?>Marx
+                        an Engels, 16.8.1867<?oxy_comment_end?></ref>) .</note>
+                <note>Zur Beilage zum Brief siehe „3 £5.– Noten“ und „die Steuerzettel“.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:22Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 15 Aug 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p>
+                    <table rows="2" cols="5">
+                        <head/>
+                        <row role="label">
+                            <cell>Inl. 3 £5.– Noten</cell>
+                            <cell><?oxy_comment_start author="lindenberg" timestamp="20181123T135823+0100" comment="{als einfachen Bruch bringen}
+
+vorher: Inl. 3 £5.– Noten {z}I{ne}V{be} 65 551.{gag}
+ &lt;&gt; 65 113 Manchester 29 Jan 1866
+ &lt;&gt; 44 954 {/gzg_geschweifte Klammer zu, groß}
+&lt;{soll so aussehen:}{"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="4"?>I/V<?oxy_comment_end?><?oxy_custom_end mid="4"?></cell>
+                            <cell>65 551.</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>”</cell>
+                            <cell>65 113</cell>
+                            <cell><?oxy_comment_start author="lindenberg" timestamp="20181123T141021+0100" comment="Geschwungene Klammer sollte über die drei Zeilen reichen"?>}<?oxy_comment_end?></cell>
+                            <cell>Manchester 29 Jan 1866</cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>”</cell>
+                            <cell>44 954</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+                <closer>&amp; <seg type="comment"><orig>die
+                            Steuerzettel</orig><note xml:id="b2f61069-1322-4e0d-97d1-c24c950abcb2">Siehe <ref target="B00319"><?oxy_comment_start author="reichhoff" timestamp="20180523T124150+0200" comment="(Br. 310.3)."?>Marx
+                                an Engels, 14.8.1867<?oxy_comment_end?></ref>.</note></seg> zurück.
+                    Unter <hi rendition="#u">diesen</hi> Umständen ist es <hi rendition="#u">wesentlich</hi> daß <seg type="comment"><orig>meine Rückkehr vor <persName key="pdrPo.001.004.000000542">Borkheim</persName> geheim gehalten
+                            wird, damit ich erst so spät wie möglich im <hi rendition="#u">September</hi> ihn zu zahlen brauche</orig><note xml:id="de8e468c-8bf3-4c7c-9419-ebd39a277c96">Über Engels’ Reise nach
+                            dem Kontinent siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20190605T154338+0200" comment="275e"?><ref target="B00284">Engels an Marx, 26.6.1867</ref><?oxy_comment_end?>
+                            und Erl.  – Zu Engels’ finanzieller Unterstützung für Marx siehe <ref target="B00282">Engels an Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180523T124344+0200" comment="(Br. 273.42–46"?>24.<?oxy_comment_end?>6.1867</ref>,
+                                <ref target="B00284"><?oxy_comment_start author="reichhoff" timestamp="20180523T124427+0200" comment=" 275.22–23)"?>26.<?oxy_comment_end?>6.1867</ref>,
+                                <ref target="B00285"><?oxy_comment_start author="reichhoff" timestamp="20180523T124520+0200" comment="(Br. 276.80–81"?>Marx
+                                an Engels, 27.<?oxy_comment_end?>6.1867</ref>, <ref target="B00286"><?oxy_comment_start author="reichhoff" timestamp="20180523T125032+0200" comment=" und 277.3–8)"?>Marx
+                                an Engels,
+                            27.<?oxy_comment_end?>6.1867</ref>)<?oxy_comment_start author="lindenberg" timestamp="20190605T155833+0200" comment="gelöscht: sowie S. L. Borkheim an Engels, 29.6.1867 (Br. 278.3–5)"?>.<?oxy_comment_end?></note></seg>,
+                    ich komme sonst total fest, da Du begreifst daß ich auch hier grade im neuen
+                    Halbjahr eine Masse Zahlungen zu machen habe. Dazu kommt daß in Folge der
+                    gefallenen Garnpreise wir das Lager bei der Bilanz um c<hi rendition="#sup">a</hi> 2500 £ schlechter annehmen müssen als nach den Preisen die bei
+                    meiner Abreise galten. Auch sehr angenehm!</closer>
+            </div>
+    <div type="writingSession">
+        <p>Wann willst Du <seg type="comment"><orig>einen Theil der Bogen</orig><note xml:id="f8f993dd-860e-4b90-a1d1-824b1d5208de"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg> zurückhaben? <persName key="pdrPo.001.004.000004311">Schorlemmer</persName> bat mich ihm sie der
+                    Reihe nach zu geben wie ich damit fertig würde, aber das hängt natürlich von Dir
+                    ab. Ich habe das Ding jetzt bis zu Ende durchgelesen (flüchtig) &amp; finde doch
+                    daß <seg type="comment"><orig>der zweite Band</orig><note xml:id="d6e584d9-48d5-45c1-a107-690d1a047594">Siehe <ref target="B00007"><?oxy_comment_start author="reichhoff" timestamp="20180911T123318+0200" comment="Erl. 6b"?>Marx
+                                an J. Ph. Becker, zw. 9. u. 15.1.1866<?oxy_comment_end?></ref> – Die
+                            Manuskripte für eine Fortsetzung des „Kapital“ in einem zweiten und
+                            dritten Band, an denen Marx bis zum Ende seines Lebens weiterarbeitete,
+                            wurden erst nach seinem Tod von Engels veröffentlicht.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+                            zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523;
+                            II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch
+                                <ref target="B00185"><?oxy_comment_start author="reichhoff" timestamp="20180531T091816+0200" comment="(Br. 180.33–42"?>Marx
+                                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref>.</note></seg>
+                    auch noch <hi rendition="#u">sehr nöthig</hi> ist &amp; je eher Du ihn fertig
+                    machst desto besser. Ich gehe jetzt das Ganze noch einmal durch, d.h. das mehr
+                    Theoretische. Die Kerle werden <pb/> sich wundern wenn sie sehen wie spielend
+                    „auf dieser Weise“ die schwierigsten Punkte wie <seg type="comment"><orig><persName key="pdrPo.001.004.000003970">Ricardos</persName>
+                            Profittheorie</orig><note xml:id="f3dc7b98-c0cd-4485-b05b-aca6575e5a59">
+                            Marx’ Auseinandersetzung mit Ricardos Profittheorie in der ersten
+                            Auflage des ersten Bandes des „Kapital“ siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> S. 286 und 507–509 (MEGA<hi rendition="#sup">2</hi> II/5. S. 245 und 422/423). Ausführlicher
+                            setzte sich Marx mit Ricardos Profittheorie im Manuskript 1861–1863
+                            sowie im dritten Buch des „Kapital“ auseinander. Siehe Karl Marx: Zur
+                            Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;.
+                            S. 666–694. (MEGA<hi rendition="#sup">2</hi> II/3.3. S. 1049–1093) sowie
+                            Karl Marx: Das Kapital &lt;Ökonomisches Manuskript 1863–1865. S. 30,
+                            155/156, 221 und 237 (MEGA<hi rendition="#sup">2</hi> II/4.2. S. 46,
+                            215/216, 309–311 und 333) bzw. Karl Marx: Das Kapital. Kritik der
+                            politischen Ökonomie. Bd. 3. Th. 1. Hamburg 1894. S. 20, 222–224
+                                (MEGA<hi rendition="#sup">2</hi> II/15. S. 48,
+                        238–240).</note></seg>, ihre Erledigung finden.</p>
+                <p>Beste Grüße an Deine Frau.</p>
+                <closer>Dein<lb/>F. E.</closer>
+                <postscript>
+                    <p><seg type="comment"><orig><persName key="pdrPo.001.004.000005180">Lupus</persName></orig><note xml:id="d3c3ddf4-3e39-473a-b7ed-26f458f49494"><persName key="pdrPo.001.004.000005180">Wilhelm Wolff</persName>. – Marx
+                                benutzte die Angaben über Wilhelm Wolf in seiner Widmung auf S. III
+                                des ersten Bandes des „Kapital“. (Siehe MEGA<hi rendition="#sup">2</hi> II/5. S. 7.)</note></seg> ist geboren zu Tarnau 21 Juni
+                        1809 Gestorben 9 Mai 1864. </p>
+                </postscript>
+            </div></body></text></TEI>

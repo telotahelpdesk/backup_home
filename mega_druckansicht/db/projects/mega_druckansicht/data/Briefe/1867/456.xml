@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00465" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>456</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Montag, 2. Dezember 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 469/D I 138</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 135 × 210 mm. Aufdruck
+                            der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler
+                                &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an
+                            Marx, 8. Januar 1866) auf der ersten Seite oben links. Die Adresse „65,
+                            Fenchurch Street“ hat Borkheim gestrichen und mit der neuen Adresse in
+                            Handschrift ersetzt. Die erste Seite hat Borkheim zu drei Vierteln
+                            beschrieben, die zweite Seite ist leer. Schreibmaterial: schwarze Tinte. </p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1779</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-12-02"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Zur Beilage („4 französische und 4 deutsche Perlen“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190318T111914+0100" comment="456.6."?>Erl.
+                    <?oxy_comment_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:08Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings, <lb/>93 Bishopsgate
+                        Street <hi rendition="#mPrint">E. C.</hi>
+                        <lb/><hi rendition="#mPrint">London,</hi> 2 Dez <hi rendition="#mPrint">18</hi>67.</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Habe Ihnen vorgestern geschrieben;</orig><note xml:id="nvrc_bhh_2gb"><ref target="B00458"><?oxy_comment_start author="reichhoff" timestamp="20180613T122849+0200" comment="(Br. 448)."?>S.
+                                L. Borkheim an Marx, 30.11.1867
+                        <?oxy_comment_end?></ref>.</note></seg> hatte heute einen Besuch von einem
+                    Beamten des money office. Hat wohl mein Maß nehmen wollen. <hi rendition="#u">Schien</hi> befriedigt. <seg type="comment"><orig>Anbei 4 französische und
+                            4 deutsche Perlen</orig><note xml:id="nftv_dhh_2gb"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867</bibl>; <bibl sameAs="zotero-604880-WG8WKQRN" type="primary">[derselbe:] Meine
+                                Perle vor dem Genfer Congress. Zürich 1868</bibl>. Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180613T122945+0200" comment="(Br. 360.104–105)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ad vocem Borkheim:
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191209T165912+0100" comment="{360bb}."?>Erl<?oxy_comment_end?>.
+                        </note></seg>, die ich dem Internationalen etc. widme und die Sie gütigst
+                    morgen austheilen wollen, <persName key="pdrPo.001.004.000001279">Dupont</persName>, <persName key="pdrPo.001.004.000001296">Eccarius</persName>, <persName key="ed_l54_cks_xy">Lessner</persName> nicht
+                    zu vergessen und <seg type="comment"><orig>den Mann mit dem dicken
+                            Friseurbart</orig><note xml:id="nq2f_hhh_2gb"><?oxy_comment_start author="lindenberg" timestamp="20191209T170230+0100" comment="Die Person konnte nicht identifiziert werden"?>Engels<?oxy_comment_end?>?</note></seg>.</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

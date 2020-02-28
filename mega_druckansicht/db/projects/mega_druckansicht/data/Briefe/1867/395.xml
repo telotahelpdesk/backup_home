@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00405" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>395</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 19.
+          Oktober 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4498/L VI 630 Fotosign. 7906.</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              230 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Alle
+              vier Seiten hat Marx vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Die Zeilen „Lafargue hatte viel zu thun ... in seiner Bibliothek“ stehen mit
+              Einfügungszeichen (++) zwischen Datum und Anrede.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: „45,1“ bis „45,4“.</p>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+              (1913).<?oxy_custom_end?> S. 416/417.</bibl></witness>
+          <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+              (1930).<?oxy_custom_end?> S. 436–438.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-10-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+        </correspAction>
+        <note>Dem Brief waren zwei Zeitungsausschnitte
+          („<?oxy_comment_start author="lindenberg" timestamp="20190225T163302+0100" comment="Z. 62"?>2
+          Freiligrathausschnitte<?oxy_comment_end?>“) beigefügt (siehe Erl.). Der zweite
+          Zeitungsausschnitt ist nicht überliefert; zum ersten siehe hier:
+            <?oxy_comment_start author="lindenberg" timestamp="20190827T110914+0200" comment="Datei: Beilage_zu_395"?><ref target="mega_pt4_5lq_1gb">Für Ferdinand Freiligrath<?oxy_comment_end?>.</ref> In:
+          „Hermann“. Nr. 459, 19. Oktober 1867. S. 1. Sp. 1. Der Ausschnitt enthält die von Marx’
+          Hand unter der Liste der Mitglieder des Ausschusses mit schwarzer Tinte geschriebene
+          <?oxy_comment_start author="lindenberg" timestamp="20190930T135827+0200" comment="Sprichwort aus der Rheingegend"?>Redensart<?oxy_comment_end?>:
+          „Wenn dat nit gut für die Wanzläus is, dann weiß ich nit, wat besser is!“. </note>
+        <note>Zu den weiteren Beilagen zum Brief („2 Courrier Français u. 1 Liberté“; „die beiden
+          einliegenden Briefe“) siehe Erl. </note>
+        <note>Marx beantwortet Engels’ Brief vom 18. Oktober 1867 (siehe <ref target="B00401"><?oxy_comment_start author="reichhoff" timestamp="20190221T115608+0100" comment="Br. 391"?>Engels
+            an Marx 18.10.1867<?oxy_comment_end?></ref>). Engels antwortete am 22. Oktober 1867
+          (siehe <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20190221T115724+0100" comment="Br. 397"?>Engels
+            an Marx, 22.10.1867<?oxy_comment_end?></ref>).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:22Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> London. 19 Oct. 1867.</dateline>
+          <salute>Dear Fred,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Was den <hi rendition="#u"><persName key="pdrPo.001.004.000000542">Borkheim</persName></hi> angeht, so hatte ich ihm
+              gesagt: Was Engels schreibt, ist geschrieben, u. ist nichts dran „<hi rendition="#u">anzudingen</hi>“. Er (heute ist er nach Bordeaux abgereist) ließ sich soweit von
+              mir bestimmen, daß er mir 40 £ einzahlte, u. versprach, wenn Du <hi rendition="#u">nicht</hi> könntest etc, ohne weitere Weitläufigkeit to find the rest bis
+              Nov. 10.</orig><note xml:id="f6fd1ed6-639c-4535-a8d3-6d5c50546159">Siehe <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180606T090627+0200" comment="(Br. 388.10–18)"?>S.
+                L. Borkheim an Engels, 16.<?oxy_comment_end?>10.1867</ref>, und <ref target="B00400">S. L. Borkheim
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T090706+0200" comment="(Br. 390.3–5)"?>an
+                Marx, 17.10.1867<?oxy_comment_end?></ref>. Marx bezieht sich vermutlich auf den
+              nicht überlieferten Brief von Engels an Borkheim, geschrieben zwischen 16. und
+              18.10.1867 (siehe <ref target="B00398">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T090806+0200" comment=" 388.4–18"?>Borkheim
+                an Engels, 16.10.1867<?oxy_comment_end?></ref> und
+                <?oxy_comment_start author="lindenberg" timestamp="20190826T110509+0200" comment="391a"?><ref target="B00401">Erl. zu Engels an Marx,
+            18.10.1867<?oxy_comment_end?></ref>.</note></seg> Aber, als Kaufmann u. <seg type="comment"><orig>Jid’</orig><note xml:id="nyjt_qmd_w3b">Aus dem Mittelhochdeutschen;
+              mit langem Vokal ist „jid“ das jiddische Wort für „Jude“ und dementsprechend neutral.
+              Mit kurzem Vokal wird es zum antisemitischen Schimpfwort. Siehe <bibl sameAs="zotero-604880-47TJYNUY" type="secondary">Rosten: Jiddisch.</bibl> S.
+              252/253.</note></seg> mußte er doch noch einen Versuch machen!</p>
+        <p>Uebrigens hat B. grosse Genugthuung erlebt. <seg type="comment"><orig><persName key="pdrPo.001.004.000004219">Schablitz</persName></orig><note xml:id="c4e6c659-2ef6-4936-8705-8618cd47903e"><persName key="pdrPo.001.004.000004219">Jakob Schabelitz</persName>.</note></seg> hat <seg type="comment"><orig>eine höchst
+              renommistische Anzeige von <persName key="pdrPo.001.004.000000542">Bk</persName>’s
+                „<hi rendition="#u">Perle</hi>“ im Buchhändlerbörsenblatt gemacht, worin <persName key="pdrPo.001.004.000000542">B.</persName> namentlich als <persName key="ed_fm2_k1l_dhb"><?oxy_comment_start author="lindenberg" timestamp="20190225T172644+0100" comment="https://de.m.wikipedia.org/wiki/Peter_der_Einsiedler"?>Peter
+                der Eremit<?oxy_comment_end?></persName>
+              <hi rendition="#u">gegen Rußland</hi> figurirt.</orig><note xml:id="eb12b598-c814-4e50-97b8-ee0638bad565">Anti-Russisches. In: Börsenblatt für den
+              Deutschen Buchhandel. Leipzig, Nr. 230, 3. Oktober 1867. S. 2484, Sp. 2. Siehe <ref target="B00397"><?oxy_comment_start author="reichhoff" timestamp="20180606T091423+0200" comment="(Br. 387.3–5)"?>Marx
+                an L. Kugelmann, 15.10.1867<?oxy_comment_end?></ref> „das Werk ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190826T135541+0200" comment="387b."?>Erl.<?oxy_comment_end?>
+              – [Sigismund Ludwig Borkheim:] Meine Perle vor dem Genfer Congress. Zürich 1868. Siehe
+                <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20190826T135743+0200" comment="331b"?>Erl.
+                zu Marx an Engels, 4.9.1867<?oxy_comment_end?></ref>.</note></seg> Well! <seg type="comment"><orig>Die<hi rendition="#u"> Moskauer Zeitung</hi> hat dieß als Curiosum
+                <hi rendition="#u">abgedruckt</hi>
+              <add place="superlinear">(übersezt)</add></orig><note xml:id="fd341746-072f-4fd2-bac2-01fc060b4fce">Am 28. September 1867 veröffentlichte
+              die Zeitung „<bibl sameAs="ed_njr_mtw_1cb" type="periodika">Moskovskija
+                Vedomosti</bibl>“ („Московскiя Вѣдомости“) die Übersetzung der Anzeige über
+              Borkheims Broschüre „Meine Perle vor dem Genfer Congress“ mit folgender Präambel: „Въ
+              № 230, Börsenblatt für den deutschen Buchhandel (Биржевой листокъ для нѣмецкой книжной
+              торговли) находится слѣдующее курiозное объявленiе: <hi rendition="#u">,Анти-русское.‘</hi> …“ In: Московскiя Вѣдомости. Nr. 210. 28. September 1867.
+              S. 2, Sp. 6.</note></seg> u. er erlebte so das Vergnügen, sich u. seinen Namen <hi rendition="#u">russisch</hi> gedruckt gesehn! Er hat mir die Nummer gezeigt u.
+          verdollmetscht.</p>
+        <p><add place="mTop"><seg type="comment"><orig><persName key="pdrPo.001.004.000002648">Lafargue</persName> hatte viel zu thun das Französische <persName key="pdrPo.001.004.000000542">B</persName>’s wenigstens tolrabel ins Fzs. zu
+                übersetzen.</orig><note xml:id="b475a07f-3016-4ad1-af87-fd7329923615">
+                <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> bearbeitete die
+                französische Ausgabe von <persName key="pdrPo.001.004.000000542">Borkheim</persName>s Rede auf dem Friedenskongreß in Genf im September 1867. Siehe
+                  <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180606T091521+0200" comment="(Br. 360.105–125)"?>Marx
+                  an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ad vocem Borkheim ... " und <ref target="B00385"><?oxy_comment_start author="lindenberg" timestamp="20190826T140053+0200" comment="375a"?>Erl.
+                  zu
+                  <?oxy_comment_start author="reichhoff" timestamp="20180914T134454+0200" comment="375a" mid="17"?>S.
+                  L. Borkheim an Marx,
+                  10.10.1867<?oxy_comment_end?><?oxy_comment_end mid="17"?></ref>.</note></seg> Ich
+            mußte ihm natürlich beistehn, namentlich für <seg type="comment"><orig><expan>d<ex>ie</ex></expan> Citate aus <persName key="pdrPo.001.004.000002436">Kant</persName>, <persName key="pdrPo.001.004.000001522">Fichte</persName>, <persName key="pdrPo.001.004.000002103">Hegel</persName></orig><note xml:id="b6328974-1617-4fc3-ba93-34f9e3f63aa5"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig Borkheim:] Ma Perle Devant le Congrès de Genève.
+                  Par un Diplomate Prolétaire. Bruxelles 1867.</bibl> Préface. S. 6–12. Siehe <ref target="B00366"><?oxy_comment_start author="reichhoff" timestamp="20180606T091630+0200" comment="(Br. 356.5–6)"?>S.
+                  L. Borkheim an Marx, 30.9.1867<?oxy_comment_end?></ref> und
+                <?oxy_comment_start author="lindenberg" timestamp="20190826T150712+0200" comment=" 356b"?>Erl<?oxy_comment_end?>.</note></seg>,
+            die <persName key="pdrPo.001.004.000000542">B</persName>. selbst im Deutschen wohl nicht
+            ganz verstand. Aber die Leute stehn in seiner Bibliothek.</add></p>
+        <p>Ich bin froh, daß die Sache so weit settled ist. In den letzten Wochen war es mir positiv
+          unmöglich mehr als vielleicht 2 Stunden zu schreiben. Ausser dem Andrang from without, der
+          Hauskatzenjammer, der mir immer auf <expan>d<ex>ie</ex></expan> Leber schlägt. Ich wurde
+          wieder schlaflos u. hatte das Vergnügen, in <expan>d<ex>er</ex></expan> Nähe des membrum
+          2 Karbunkelchen aufblühn zu sehn. Glücklicher <pb/> Weise sind sie verblüht. Meine
+          Krankheit kommt immer aus dem Kopf. Da ich grade vom membrum spreche, empfehle ich Dir<?oxy_comment_start author="lindenberg" timestamp="20181206T161151+0100" comment="siehe auch 397"?>
+          <hi rendition="#u">für <persName key="pdrPo.001.004.000003296">Moore</persName></hi><?oxy_comment_end?>
+          <seg type="comment"><orig>folgende Verse aus <expan>d<ex>em</ex></expan> fzs. Satyriker
+                  <expan>d<ex>es</ex></expan> 16. Jh., <hi rendition="#u"><persName key="pdrPo.001.004.000011422">Mathurin Regnier</persName></hi></orig><note xml:id="naqz_k3q_1gb">Mathurin Régnier: Stances sur la ch … p … – Welche der Ausgaben
+              von Régnier Marx benutzte, ist unbekannt. Nach den Ausgaben von 1833, 1853, 1860 und
+              1862 waren 1867 gleich zwei Editionen der Werke Régniers erschienen: Œuvres complètes
+              de Regnier. Revues sur les éditions originales, avec préface, notes et glossaire par
+              M. Pierre Jannet. Paris 1867, und Œuvres de Regnier. Édition Louis Lacour, imprimée
+              par D. Jouaust. Paris 1867. – Marx zitierte Mathurin Régniers Vers aus der „Satyre
+              XII. A Monsieur Fréminet“ leicht abgewandelt auch in seinen Manuskripten zum zweiten
+              Buch des „Kapital“. Siehe Karl Marx: Zweites Buch. Der Zirkulationsprozeß des
+              Kapitals. Anfang des ersten Kapitels (MEGA<hi rendition="#sup">2</hi> II/4.3. S.
+              41.2–4, 42.25–28), und Manuskript IV (ebenda. S. 289.33–290.2) sowie Manuskript II zum
+              zweiten Buch (MEGA<hi rendition="#sup">2</hi> II/11. S. 9.26–29).</note></seg>. Trotz
+          meiner Belesenheit auf diesem Gebiet, glaube ich nicht, daß die
+          <?oxy_comment_start author="lindenberg" timestamp="20190905T115611+0200" comment="Tripper"?>chaude
+          pisse<?oxy_comment_end?> jemals so poetisch beschrieben worden ist.</p>
+        <p>„<subst>
+            <del rendition="#s">Las</del>
+            <add place="intralinear"><sic ana="#break-off"/>Mon</add>
+          </subst> cas, qui se lève et se hausse,</p>
+        <p>Bave d’une estrange façon;</p>
+        <p>Belle, vous fournistes la sausse,</p>
+        <p>Lors que je fournis le poisson.</p>
+        <p>Las! si ce membre eut l’arrogance</p>
+        <p>De fouiller trop les lieux sacrez,</p>
+        <p>Qu’on luy pardonne son <choice>
+            <sic>offence</sic>
+            <corr cert="high">offense</corr>
+          </choice>,</p>
+        <p>Car il pleure assez ses péchez“.</p>
+        <lg type="poem">
+          <lg n="">
+            <l/>
+          </lg>
+        </lg>
+        <p><seg type="comment"><orig>Uebel ist auch nicht von
+              demselben:</orig><note xml:id="naqw_n3q_1gb"><persName key="pdrPo.001.004.000011422">Mathurin Régnier</persName>: Épigrammes. Fluxion d’amour.
+              <?oxy_comment_start author="lindenberg" timestamp="20190225T183413+0100" comment="vorher Anmerkung: S’écoule – bei Régnier: S’escoule.
+was sicher nur ein Druckfehler der den Kolleginnen vorliegenden Ausgabe"?></note><?oxy_comment_end?></seg></p>
+        <p><hi rendition="#u">Fluxion D’Amour</hi>.</p>
+        <p>„L’amour est une affection</p>
+        <p>Qui, par les yeux, dans le cœur entre,</p>
+        <p>Et, par la forme de fluxion,</p>
+        <p>S’écoule par le bas du ventre.“</p>
+        <lg type="poem">
+          <lg n="">
+            <l/>
+          </lg>
+        </lg>
+        <p><seg type="comment"><orig>Endlich:</orig><note xml:id="nxxm_v3q_1gb">
+              <p>Mathurin Régnier: Lisette tuée par Robin. –
+                <?oxy_comment_start author="lindenberg" timestamp="20181206T145629+0100" comment="in Word-Tabelle zum Vergleich 395_Lisette"?>Bei
+                Régnier:<?oxy_comment_end?> Lisette, à qui l’on faisoit tort, / Vint à Robin tout
+                esplorée, / Et luy dit: donne-moy la mort, / Que tant de fois j’ay désirée. / Luy,
+                qui ne la refuse en rien, / Tire son … vous m’entendez bien; / Puis au bas du ventre
+                la frappe. / Elle, qui veut finir ses jours, / Luy dit: Mon cœur, pousse toujours, /
+                De crainte que je n’en reschappe. / Mais Robin, las de la servir, / Craignant une
+                nouvelle plainte, / Luy dit: Haste-toy de mourir, / Car mon poignard n’a plus de
+                pointe.</p>
+            </note></seg></p>
+        <p><hi rendition="#u">Lisette tuée par Regnier</hi>.</p>
+        <p>„Lisette, à qui l’on faisait tort,</p>
+        <p>Vint à Régnier tout esplorée, </p>
+        <p><pb/> Je te pry, donne moi la mort</p>
+        <p>Que j’ay tant de fois desirée!</p>
+        <p>Luy, ne la refusant en rien,</p>
+        <p>Tire son...., vous m’entendez bien,</p>
+        <p>Et dedans le ventre la frappe.</p>
+        <p>Elle, voulant finir ses jours,</p>
+        <p>Luy dit: Mon cœur, pousse toujours,</p>
+        <p>De crainte que je n’en reschappe.</p>
+        <p>Régnier, las de la secourir,</p>
+        <p>Craignant une seconde plainte,</p>
+        <p>Lui dit: Hastez-vous de mourir,</p>
+        <p>Car mon poignard n’a plus de pointe.“</p>
+        <lg type="poem">
+          <lg n="">
+            <l/>
+          </lg>
+        </lg>
+        <p><seg type="comment"><orig>Einliegend 2 <persName key="pdrPo.001.004.000001631">Freiligrath</persName>ausschnitte.</orig><note xml:id="ee866855-cc94-4890-bb21-3f133512a33c">Marx übersandte Engels wahrscheinlich
+              zwei Ausschnitte aus dem Londoner „<bibl sameAs="ed_s51_tmw_1cb" type="periodika">Hermann</bibl>“, der laufend über die Geldsammlungen für Ferdinand Freiligrath
+              berichtete (siehe <ref target="B00253"><?oxy_comment_start author="lindenberg" timestamp="20190826T145430+0200" comment="242u {Marx–Engels, 24. April 1867})"?>Erl.
+                zu Marx an Engels, 24.4.1867<?oxy_comment_end?></ref>). Ein Artikel ist als Beilage
+              überliefert.
+              <?oxy_comment_start author="lindenberg" timestamp="20190827T111820+0200" comment="; er sollte beim Fotokopieren des Marx–Engels–Nachlasses 1924/25 im Archiv der SPD die Fotosignatur 7905 haben. (Siehe {Das Heft mit den Fotosignaturen.} RGASPI, Sign. f. 374, op. 1, d. 46. Bl. 11.)"?>Es<?oxy_comment_end?>
+              handelt sich um den „Für Ferdinand Freiligrath. Schluß-Aufruf“ vom 16. Oktober 1867
+              (In: Hermann. Nr. 459, 19. Oktober 1867, S. [3671]). Siehe
+              <?oxy_comment_start author="lindenberg" timestamp="20190826T150020+0200" comment="266d"?>Erl. zu
+                <ref target="B00275">Marx an Engels, 3.6.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190826T150840+0200" comment="S. 000, Br. 395.ZB. [Beilage"?>Beilage<?oxy_comment_end?>
+              oben (ZB). Der
+              <?oxy_comment_start author="lindenberg" timestamp="20190827T112451+0200" comment="Im Hermann vom 12. Oktober nichts gefunden"?>andere
+              Zeitungsausschnitt<?oxy_comment_end?> ist nicht überliefert.</note></seg></p>
+        <p><seg type="comment"><orig>Anliegend <hi rendition="#u">2 <bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier Français</bibl></hi></orig><note xml:id="dffde704-c4ce-4c60-8f83-96b5c771ed87">Als Beilage schickte Marx Nr. 121 und
+              123 der Zeitung „<bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Le Courrier
+                français</bibl>“ vom 16. und 18. Oktober 1867.</note></seg> u. <seg type="comment"><orig>1 <bibl sameAs="ed_bfw_33j_tgb" type="periodika">Liberté</bibl></orig><note xml:id="a903d136-4c8c-4454-a6fc-a113178cf395">[Karl Marx: Aus dem Vorwort.] [U. d. T.]
+              Du Capital. Critique d’économie politique. In: La Liberté. Bruxelles. Nr. 15,
+              13. Oktober 1867. S. 4. Sp. 2/3. Siehe <ref target="B00395"><?oxy_comment_start author="reichhoff" timestamp="20180606T091802+0200" comment="(Br. 385.31–33)"?>Marx
+                an Engels, 14.10.1867<?oxy_comment_end?></ref> „Hat Borkheim ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190826T152526+0200" comment="385m."?>Erl.<?oxy_comment_end?> </note></seg>.
+          Diese Journale brauchst Du nicht zurück zuschicken. Aber aufheben! <seg type="comment"><orig>Den Blödsinn des <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier</bibl></hi> über die <hi rendition="#u">Art
+                Militaire</hi></orig><note xml:id="eb66f271-50bb-4457-b128-49d5ebf4b9d2">Louis
+              Nouguès: L’art militaire et le progrès. In: Le Courrier français. Paris. Nr. 123,
+              18. Oktober 1867. S. 3, Sp. 3 bis S. 4, Sp. 1. Rubrik: Variétés. Die Veröffentlichung
+              enthielt die ersten zwei Teile des Artikels von Nouguès. Siehe Z. 61. Der dritte Teil
+              dieses Artikels erschien ebenda. Nr. 125, 20. Oktober 1867. S. 3, Sp. 3–5. Rubrik:
+              Variétés.</note></seg> habe ich nicht gelesen, aber <seg type="comment"><orig><persName key="pdrPo.001.004.000003833">Proudhon</persName> über die
+              generatio aequivoca</orig><note xml:id="b5bc43f1-385c-467b-a135-4763c67df538">P[ierre]-J[oseph] Proudhon: Lettres inédited de P.-J. Proudhon sur les générations
+              spontanées. In: Le Courrier français. Paris. Nr. 121, 16. Oktober 1867. S. 3, Sp. 1–6.
+              Rubrik: Feuilleton. Die Veröffentlichung enthielt den ersten Teil des Artikels. Der
+              zweite und dritte Teil erschien ebenda. Nr. 123, 18. Oktober 1867. S. 3, Sp. 1–5;
+              Nr. 124, 19. Oktober 1867. S. 3, Sp. 1–5. Rubrik: Feuilleton. –  Generatio aequivoca =
+              Urzeugung.</note></seg>! Ich glaube l’un vaut l’autre.</p>
+        <p><persName key="pdrPo.001.004.000003182">H. Meyer</persName> war
+            <seg type="comment"><orig>vorgestern</orig><note xml:id="e921b178-2baa-40b0-9095-85f24cdcc3e2">17. Oktober 1867.</note></seg> hier auf
+          Durchreise nach Amerika. Vielleicht hat er Dich noch gesehn.</p>
+        <p><seg type="comment"><orig>Schicke Deine Recepte für die deutschen Zeitungen her. Ich
+              lasse sie kopiren u. finde die passendsten Placements.</orig><note xml:id="ff2dc6db-9336-4dd2-a4f6-d6986d17fb9f">Siehe <ref target="B00401"><?oxy_comment_start author="lindenberg" timestamp="20190725T154702+0200" comment="391! nicht (Br. 390.13–18)"?>Engels
+                an Marx, 18.10.1867<?oxy_comment_end?></ref> „Ich kann noch 4 à 5 Artikel
+            …“.</note></seg> Sie sind sogar, theilweis wenigstens, für <hi rendition="#u">double
+            emploi,</hi>
+          <pb/> da <seg type="comment"><orig><persName key="pdrPo.001.004.000003182">Meyer</persName> auch für jenseits dergleichen verlangte u. vernutzen
+              wird</orig><note xml:id="a08f83fa-f77a-4057-a798-ecd473092a42">Zur Besprechung des
+              ersten Bandes des „Kapital“ in der amerikanischen Presse siehe auch <ref target="mega_rq3_km1_1gb"><?oxy_comment_start author="lindenberg" timestamp="20190725T143425+0200" comment="(Br. 365.10–11)"?>O.
+                Meißner an Marx, 7.10.1867<?oxy_comment_end?></ref> „Haben Sie in New York …“ und
+                <ref target="B00407"><?oxy_comment_start author="lindenberg" timestamp="20190725T143459+0200" comment="(Br. 397.10–11)"?>Engels
+                an Marx, 22.10.1867<?oxy_comment_end?></ref> „für Amerika müßte wieder anders
+              geschrieben werden ...“.</note></seg>. Sobald dieß in Deutschland besorgt – <hi rendition="#u">u. es ist <expan>d<ex>as</ex></expan> wichtigste,</hi> denn von dort
+          hängt grossentheils die Sache <hi rendition="#u">hier</hi> ab – <seg type="comment"><orig>mußt Du eine Kritik für die <hi rendition="#u"><bibl sameAs="ed_b12_nhf_lbb" type="periodika">Fortnightly Review</bibl></hi> schreiben</orig><note xml:id="aeb8f2ee-5212-42d9-ad79-4e7f1471cc6b">Siehe <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180606T092000+0200" comment="(Br. 397.45)"?>Engels
+                an Marx, 22.10.1867<?oxy_comment_end?></ref> „Die Sache ...“. – [Friedrich Engels:]
+              Karl Marx on Capital. [Manuskript of the review for „The Fortnightly Review“.] [Gez.:]
+              Samuel Moore. (MEGA<hi rendition="#sup">2</hi> I/21. S. 46–67 und 1286–1291.) Diese
+              Rezension hatte Engels zwischen Mitte Januar bis Ende Juni 1868 verfaßt. Sie wurde
+              aber im August 1868 von der Redaktion der Zeitung abgelehnt und ist nur als Manuskript
+              überliefert. (Siehe ebenda. S. 1286–1293.)</note></seg>. <persName key="pdrPo.001.004.000000329">Beesley</persName> bringt sie hinein. Dieß nothwendiger
+          Vorläufer to catch a publisher in London. Das Blatt ist im Geheimen (so geheim, daß kein
+          Mensch es merkt) comtistisch, aber will <hi rendition="#u">alle</hi> Standpunkte zu Wort
+          kommen lassen. Interessirt sich <persName key="ed_zkg_mzt_qcb">Herr Lewes</persName> (der
+            <seg type="comment"><orig>Göthemann</orig><note xml:id="nhql_tjv_jhb">siehe <bibl sameAs="zotero-604880-ZDPNUQ2Q" type="primary">G[eorge] H[enry] Lewes: The Life and
+                Works of Goethe. Bd. 1.2. London 1855</bibl>. </note></seg> u. <add place="superlinear">leider auch</add> halber Comtist) für das Buch durch die Kritik
+          (Lewes ist im Geheimen auch <seg type="comment"><orig>Coproprietor der Review</orig><note xml:id="nq5g_kgk_w3b"><persName key="ed_zkg_mzt_qcb">G. H. Lewes</persName> stand von
+              1865/66 als Herausgeber auf dem Titelblatt der „Fortnightly Review“, seit 1867
+              abgelöst durch <persName key="pdrPo.001.004.000003314">John
+            Morley</persName>.</note></seg>), so ist das Finden des Buchhändlers leicht. Und
+          jedenfalls, selbst ohne das, ist der Buchhändler dann leichter aufzuthun. <seg type="comment"><orig>In der lezten Nummer ist ein wahrhaft elender Artikel v. <persName key="ed_b5g_ncd_kgb">Thornton</persName>, worin <expan>d<ex>er</ex></expan>
+              Malthusianism (an den <expan>d<ex>ie</ex></expan> eigentlichen mongers <hi rendition="#u">nicht</hi> glauben) in <expan>d<ex>er</ex></expan> hausbackenst
+              trivialsten Form reproducirt.</orig><note xml:id="da84229a-1140-4767-9b0d-6436e3a5efe7"><bibl sameAs="zotero-604880-5G29D83Z" type="primary">W[illiam] T[homas] Thornton: Stray Chapters from a forthcomming Work
+                on Labor. I. The Claims on Labour and its Rights.</bibl> In: The Fortnightly Review.
+              London. Vol. 2. New Series. Nr. 10, 1. Oktober 1867.
+              <?oxy_comment_start author="lindenberg" timestamp="20190826T164054+0200" comment="{CW 42, p. 455, die Zeitung steht nicht zur Verfügung}"?>S. 477-500<?oxy_comment_end?>.
+            </note></seg></p>
+        <p>Was unsrer Partei fehlt, ist Geld, wie <seg type="comment"><orig>die beiden einliegenden
+              Briefe v. <persName key="pdrPo.001.004.000001296">Eccarius</persName> u. <persName key="pdrPo.001.004.000000317">Becker</persName></orig><note xml:id="be072db4-b93c-41e9-a9ec-613174f6023f">Siehe <ref target="B00375"><?oxy_comment_start author="reichhoff" timestamp="20180606T092054+0200" comment="(Br. 364)"?>J.
+                Ph. Becker an
+                <?oxy_comment_start author="lindenberg" timestamp="20190827T090044+0200" comment="(Frau)"?>J.
+                Marx<?oxy_comment_end?>, 7.<?oxy_comment_end?>10.1867</ref>,  <ref target="B00394">J. G. Eccarius an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T092133+0200" comment="(Br. 384"?>14.<?oxy_comment_end?>10.</ref>
+              und <ref target="B00399"><?oxy_comment_start author="reichhoff" timestamp="20180606T092211+0200" comment="389"?>16.<?oxy_comment_end?>10.1867</ref>.</note></seg>
+          wieder schmerzlich zeigen. Ohne diesen Mangel, sind wir, trotz der grossen u.
+          unersetzbaren Verluste, immer, heute wie 1848, les plus forts.</p>
+        <p>Gruß an <persName key="pdrPo.001.004.000000698">Mrs.
+            Lizzy</persName></p>
+        <closer>Dein<lb/>K. M. </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

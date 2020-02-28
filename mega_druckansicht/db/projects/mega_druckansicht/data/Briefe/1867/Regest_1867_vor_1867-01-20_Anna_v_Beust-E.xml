@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_qxn_35n_ldb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anna von Beust an Friedrich Engels. Vor Sonntag, 20. Januar 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000411">Beust, Anna von (1827-1900)</persName>
+                    <date when="1867-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Anna von Beust an Marx, geschrieben vor dem 20.
+                    Januar 1867; siehe  <ref target="B00216">Anna von Beust an Friedrich Engels in
+                        Manchester. Zürich, Sonntag, 20. Januar 1867.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

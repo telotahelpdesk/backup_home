@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00387" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>377</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 11. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1643/D III 414</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 223 × 180 mm. Wasserzeichen: Eine Krone und Posthorn. Prägung: Blumenstrauß. Die erste Seite hat Engels vollständig beschrieben, auf der zweiten Seite stehen nur vier Zeilen, die übrigen zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „42,1“ bzw. „42,2“(gestrichen),
+                            „338,1“ bzw. „338,2“. Redaktionelle Vermerke.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+                            Briefes: „917“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2092</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913)<?oxy_custom_end?>. S. 414/415.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930).<?oxy_custom_end?> S. 431/432.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-10-11"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00384"/>
+                    <ref type="next" target="B00386"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Briefe vom 9. und 10. Oktober 1867 (siehe
+                        <?oxy_comment_start author="lindenberg" timestamp="20190220T151104+0100" comment="Br. 374"?><ref target="B00384">Marx an Engels, 9.10.1867</ref><?oxy_comment_end?>  und <ref target="B00386"><?oxy_comment_start author="lindenberg" timestamp="20190220T151128+0100" comment="376"?>Marx
+                        an Engels, 10.10.1867</ref><?oxy_comment_end?>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:11Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 11 Octbr 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Besten Dank für die Briefe &amp; Zeitungen</orig><note xml:id="c725689a-f18f-4f94-8123-9215108f3762">Marx übersandte Engels die
+                            <?oxy_comment_start author="reichhoff" timestamp="20180601T095840+0200" comment="(siehe Br. 374.18–20,"?>Zeitung
+                                „<bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Le Courrier
+                                français</bibl>“ vom 8. Oktober 1867<?oxy_comment_end?> sowie die
+                                <ref target="B00386"><?oxy_comment_start author="reichhoff" timestamp="20180601T100000+0200" comment="376.3, 9 "?>Briefe
+                                von L. Kugelmann vom 8.10.1867 und von O. Meißner vom 7.10.1867
+                                <?oxy_comment_end?></ref>(siehe <ref target="B00384"><?oxy_comment_start author="lindenberg" timestamp="20190221T105936+0100" comment="Br. 374.18–20, 376.3, 9 und Erl. 374f"?>Marx
+                                an Engels, 9.10.1867</ref> und Erl.; <ref target="B00386">Marx an
+                                Engels, 10.10.1867</ref> und Erl.<?oxy_comment_end?>).</note></seg>
+                    die ich in ein paar Tagen zurückschicke.</p>
+                <p><seg type="comment"><orig>Ich schreibe an <persName key="pdrPo.001.004.000000542">Borkheim</persName> daß ich gern die Garantie mit ihm übernehmen
+                            will falls er die Sache so abmachen kann daß Alles unter der Hand abgeht
+                            &amp; z.B. keine <subst>
+                                <del rendition="#s">Erkundigungen<sic ana="#break-off"/></del>
+                                <add place="intralinear">Referenzen</add>
+                            </subst> von mir zu geben sind</orig><note xml:id="d80ff28e-af31-47a2-aa26-62354b1ff913">Zur Geschichte dieser
+                            Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180619T113700+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs ...“
+                            und Erl. Siehe auch <ref target="B00384"><?oxy_comment_start author="reichhoff" timestamp="20180619T113744+0200" comment="(Br. 374.3)"?>Marx
+                                an Engels, 9.10.1867 <?oxy_comment_end?></ref> „Borkheim erwartet
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T144541+0200" comment=" 374a."?>Erl.<?oxy_comment_end?>
+                            Engels’ Brief an S. L. Borkheim vom 13.10.1867 (siehe <ref target="B00390"><?oxy_comment_start author="reichhoff" timestamp="20180619T113842+0200" comment="Br. 380.9;"?>Engels
+                                an Marx, 13.<?oxy_comment_end?>10.1867</ref> „An Borkheim ist
+                            geschrieben.“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T144826+0200" comment="Br. 380.9;"?>Erl.<?oxy_comment_end?>;
+                                <ref target="B00392"><?oxy_comment_start author="lindenberg" timestamp="20190730T144929+0200" comment="Br. 382.4,"?>S.
+                                L. Borkheim an Engels, 14.10.1867<?oxy_comment_end?></ref>, und <ref target="B00396"><?oxy_comment_start author="reichhoff" timestamp="20180619T114132+0200" comment="Br. 386.5)"?>Engels
+                                an Marx, 15.10.1867<?oxy_comment_end?></ref>) ist nicht
+                            überliefert.</note></seg> – es ist mir nämlich <seg type="comment"><orig>contractlich</orig><note xml:id="nw4k_s2c_1gb">Zum Vertrag siehe
+                                <ref target="B00279"><?oxy_comment_start author="reichhoff" timestamp="20180619T114231+0200" comment="(Br. 270)"?>E.
+                                Engels an Engels, 17. Juni 1867 <?oxy_comment_end?></ref> „der
+                            Vertrag“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T145225+0200" comment="270c"?>Erl.<?oxy_comment_end?></note></seg>
+                    verboten surety zu werden &amp; ich stehe so mit Monsieur <seg type="comment"><orig><expan><persName key="pdrPo.001.004.000001409">G<ex>ottfried</ex></persName></expan></orig><note xml:id="ab088041-5219-41ca-8db0-e79ba9073c62"><persName key="pdrPo.001.004.000001409">Gottfried
+                        Ermen</persName>.</note></seg> daß er <hi rendition="#u">jeden</hi> Anlaß
+                    ergreifen würde to put me in the wrong before a court of arbitration. <seg type="comment"><orig>Kann er das nicht, so bin ich bereit ihm meine bündige
+                            Erklärung zu geben daß ich mit für die £ 100.– hafte &amp; erwarte
+                            sonstige Vorschläge</orig><note xml:id="d909861f-5b03-4e2c-b439-db9f5b7cf62c">Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180619T114318+0200" comment="(Br. 360.126–129) "?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref>
+                            „<?oxy_comment_start author="lindenberg" timestamp="20190730T145516+0200" comment="weggelassen: und Erl. 377a"?>Private
+                            Affairs<?oxy_comment_end?> ...“.</note></seg>. Oder wäre z. B. <persName key="pdrPo.001.004.000001631">Freiligrath</persName> Referenz genug für
+                    mich? Die Sache müßte eben ganz hinter dem Rücken aller meiner commerziellen
+                    Verbindungen abgemacht werden. Enfin nous verrons.</p>
+                <p>Dem <persName key="pdrPo.001.004.000002616">Kugelmann</persName> werde ich morgen
+                    Nachmittag <seg type="comment"><orig>ein Ding</orig><note xml:id="cf879e7c-41c6-4aee-ba00-a047c7948111"> Siehe <ref target="B00386"><?oxy_comment_start author="reichhoff" timestamp="20180619T114420+0200" comment="(Br. 376.3–8)."?>Marx
+                                an Engels, 10.10.1867<?oxy_comment_end?></ref>. – Engels verfaßte
+                            zwei Rezensionen über den ersten Band des „Kapital“, die er am
+                            12. Oktober 1867 an <persName key="pdrPo.001.004.000002616">Kugelmann</persName> schickte. Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180619T114537+0200" comment="(Br. 379.5–9)"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> und
+                        Erl.</note></seg> zurecht machen, wenn wir warten sollen bis <hi rendition="#u">er</hi>
+                    <seg type="comment"><orig>das Buch</orig><note xml:id="b03e4be4-b2c5-47e7-b0b0-e75a45055786"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg> durchgelesen hat, so
+                    kommen wir nicht weit. <seg type="comment"><orig>Auch an <persName key="pdrPo.001.004.000004424">Siebel</persName> schreibe
+                            ich.</orig><note xml:id="dc1ec238-9728-4795-9802-38896675319e">Engels’
+                            Brief an C. Siebel, geschrieben vermutlich am 14.10.1867 (siehe <ref target="B00390"><?oxy_comment_start author="reichhoff" timestamp="20180619T114645+0200" comment="(Br. 380.7)"?>Engels
+                                an Marx, 13.10.1867<?oxy_comment_end?></ref> „An Siebel schreib ich
+                            morgen ...“, ist nicht überliefert.</note></seg>
+                    <seg type="comment"><orig>Was Du mit dem <persName key="pdrPo.001.004.000001631">Freiligrath</persName> besingenden <persName key="ed_i5k_f4p_ycb">Rittershaus</persName> willst weiß ich nicht, <hi rendition="#u">ich</hi> kenne den Kerl gar nicht &amp; so viel ich weiß gehört er
+                            grade nicht zu unsern Leuten.</orig><note xml:id="af57b427-34d8-40f0-9315-a4a3cf0755b9">
+                            <ref target="B00352"><?oxy_comment_start author="reichhoff" timestamp="20180619T114741+0200" comment="(Br. 343.8–11)."?>Marx
+                                an Engels, 12.9.1867<?oxy_comment_end?></ref>. Siehe auch <ref target="B00361">C<?oxy_comment_start author="lindenberg" timestamp="20190730T152255+0200" comment="(Br. 252.9–11) "?>.
+                                Siebel an Marx, 1.5.1867<?oxy_comment_end?></ref> „Schreibe einige
+                            freundliche Worte ...“ und <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180619T114838+0200" comment="(Br. 360.29–30)"?>Marx
+                                an Engels, 4.10.1867 <?oxy_comment_end?></ref> „1 für Rittershaus“.
+                            – <persName key="ed_i5k_f4p_ycb">Emil Rittershaus</persName> hatte den
+                            von ihm u. a. Dichtern aus dem Wuppertal initierten Aufruf zu einer
+                            Sammlung für <persName key="pdrPo.001.004.000001631">Freiligrath</persName> mit einem Gedicht „<bibl sameAs="zotero-604880-QFQG68G8" type="primary">Auch eine Dotation.
+                                An alle
+                                <?oxy_comment_start author="lindenberg" timestamp="20190730T181435+0200" comment="So im Druck"?>Deutsche<?oxy_comment_end?>
+                                im Vaterland und in der Ferne</bibl>“ eingeleitet. (<bibl sameAs="ed_inz_jrr_kfb" type="periodika">Die Gartenlaube</bibl>
+                            1867, Nr. 17, S. 272). Ein anderes, Freiligrath gewidmetes Gedicht aus
+                            dem Jahr 1867, trägt den Titel „<bibl sameAs="zotero-604880-YS9BYU8A" type="primary">Ein Mahnruf an Deutschland</bibl>“ .</note></seg></p>
+                <p>Ich wollte Dir noch viel schreiben da kommt der
+                    verdammte alte Jud <persName key="ed_h1q_2bm_dhb">Leibel Choras</persName> den
+                    Du kennst &amp; hält mich über eine Stunde auf. Dann gleich darauf noch ein
+                    Kerl. Ich bin seit 8 Tagen von Kunden überlaufen, heute Morgen auch 2. Morgen
+                    früh wieder Einer erwartet. Dazu ewiger Krakehl mit <pb/>
+                    <persName key="pdrPo.001.004.000001409">Gottfried</persName> es ist zum
+                    Tollwerden.</p>
+                <p>Also bis morgen</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00357" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>348</idno>Ad. Nahmer an Karl Marx in London. New York, Freitag, 20. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 3514/D VI 144 Fotosign. 8587.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 127 × 204 mm. Prägung ist nicht deutlich erkennbar. Die erste Seite hat Nahmer vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2097</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_dsn_yfc_pdb">Nahmer, Ad. (-)</persName>
+                    <placeName key="ed_lzf_5nv_cbb">New York</placeName><date when="1867-09-20"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Marx hat diesen Brief seinem Brief an Engels vom 14. Oktober 1867 (<ref target="B00395"><?oxy_comment_start author="lindenberg" timestamp="20190219T151547+0100" comment="Br. 385.28"?>Marx
+                        an Engels, 14.10.1867<?oxy_comment_end?></ref>) beigelegt.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:51Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> New York den 20t
+                        Septbr<lb/>1867</dateline>
+                    <salute>Herrn Carl Marx London</salute>
+                    <salute>Geehrtester Herr!</salute>
+                </opener>
+                <p>Aus den Zeitungen entnehme ich die Nachricht, daß Sie <seg type="comment"><orig>ein Werk über Capital</orig><note xml:id="ee01157d-b47f-49fb-818d-a5b2dc5abc48"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>.</note></seg> pp. geschrieben haben
+                    welches kürzlich in Deutschland erschienen ist. Dürfte ich mir die Anfrage
+                    erlauben, ob dasselbe ins Englische übersetzt ist. <seg type="comment"><orig>Wenn nicht, so würde ich mich zu dieser Arbeit
+                            erbieten.</orig><note xml:id="f621ca0e-d7d9-4173-8fbd-cd791f8b18ec">
+                            Über die englische Ausgabe des ersten Bandes des „Kapital“ siehe <ref target="B00282"><?oxy_comment_start author="reichhoff" timestamp="20180529T131144+0200" comment="(Br. 273.7–8"?>Engels
+                                an Marx, 24.6.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+                    Ich wohne in New York bin seit 15 Jahren in Amerika mit dem Englischen gründlich
+                    vertraut und habe Erfahrung im Übersetzen.</p>
+                <p>Um baldgefällige Antwort bittend verbleibe ich</p>
+                <closer>Hochachtungsvoll<lb/>Ihr ergebenster<lb/>Ad.
+                    Nahmer<lb/>Box 6791 P.O.<lb/>New York <pb/>
+                </closer>
+            </div></body></text></TEI>

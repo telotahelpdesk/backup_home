@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00423" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>413</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 8.
+          November 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 1650/D III 421</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              128 × 205 mm. Engels hat die erste Seite vollständig, die zweite fast zur einen Hälfte
+              beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: „54,1“ bzw. „54,2“
+              (gestrichen), „345,1“ bis „345,2“. Redaktionelle Vermerke.</p>
+            <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand:
+              Nummerierung des Briefes: „926“.</p>
+            <p/>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 2109</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+              Bw 3 (1913).<?oxy_custom_end?> S. 425/426.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+          <date when="1867-11-08"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="B00422"/>
+        </correspContext>
+        <note>Engels beantwortet Marx’ Brief vom 8. November 1867 (siehe <ref target="B00422"><?oxy_comment_start author="lindenberg" timestamp="20190301T144324+0100" comment="Br. 412"?>Marx
+            an Engels, 8.11.1867</ref><?oxy_comment_end?>).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:35Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener><dateline><pb/> Mchr 8 Nov 67.</dateline><salute>Lieber Mohr</salute></opener>
+        <p>In aller Eile:</p>
+        <p><persName key="pdrPo.001.004.000004424">Siebel</persName> wird morgen hier oder in Lpool
+          sein wo ich ihn sehe. <seg type="comment"><orig>Er kann noch 3 Art. unterbringen, die ich
+              sofort fertig gemacht habe &amp; die wir dann rasch besorgen werden.</orig><note xml:id="fdd52a7e-fe4e-4f64-b383-bff90a54553f">Siehe <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180611T095147+0200" comment="(Br. 396.2–5)"?>C.
+                Siebel an Engels, 19.<?oxy_comment_end?>10.1867</ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191111T104646+0100" comment="Erl. 396.3{b}"?>Erl.<?oxy_comment_end?>
+              sowie <ref target="B00418"><?oxy_comment_start author="reichhoff" timestamp="20180611T095235+0200" comment="(Br. 408.3–6) "?>Engels
+                an Marx, 5.11.1867<?oxy_comment_end?></ref> und Erl. Zu weiteren Rezensionen über
+              den ersten Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“, die durch <persName key="pdrPo.001.004.000004424">Siebels</persName> Vermittlung gedruckt wurden, siehe <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180611T095330+0200" comment="(Br. 418.32–37)"?>Engels
+                an Marx, 10.<?oxy_comment_end?>11.1867</ref> und <ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180611T095408+0200" comment="(Br. 432.18–21)"?>Siebel
+                an Engels, 23.11.1867<?oxy_comment_end?></ref> sowie
+              <?oxy_comment_start author="lindenberg" timestamp="20191111T104901+0100" comment="418h, 418j, 432d und 432f"?>Erläuterungen<?oxy_comment_end?>. </note></seg>
+          Hätte ich gewußt daß er so lange ausbliebe, so hätte er sie längst nach Barmen
+          erhalten.</p>
+        <p><seg type="comment"><orig>Die Geschichte mit der <bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Intern. Rev.</bibl> ist mir ebenfalls schon eingefallen &amp; wird
+              besorgt werden.</orig><note xml:id="c7024260-cc5c-4363-9bc3-f02f5de6cdb7">Siehe <ref target="B00422"><?oxy_comment_start author="reichhoff" timestamp="20180611T095534+0200" comment="(Br. 412.12–18)"?>Marx
+                an Engels, 7.11.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191111T105245+0100" comment=" 412f und 412g"?>Erläuterungen<?oxy_comment_end?>.
+              – <bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Internationale
+            Revue</bibl>.</note></seg>
+          <seg type="comment"><orig>Deßgleichen die mit der <bibl sameAs="ed_b12_nhf_lbb" type="periodika">Fortnightly Review</bibl> sobald die <subst>
+                <del rendition="#s"><unclear reason="covered" cert="high">Sache</unclear></del>
+                <add place="intralinear"><sic ana="#break-off"><unclear reason="covered" cert="high"/></sic>Aufnahme</add>
+              </subst> gesichert ist.</orig><note xml:id="c90b2052-4a37-405e-8974-93ac8f8379a6">Siehe <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180611T095624+0200" comment="(Br. 395.73–74),"?>Marx
+                an Engels, 19.<?oxy_comment_end?>10.1867</ref>, <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180611T095707+0200" comment="(Br. 397.45–46)"?>Engels
+                an Marx, 22.10.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191111T105154+0100" comment="395q."?>Erläuterungen<?oxy_comment_end?>. </note></seg>
+          Vor der Hand aber halte ich den Randal in der dtsch Tagespresse für das Wichtigste pour
+          forcer la main à ces gueux d’économistes.</p>
+        <p>Der downbreak der Polizei in dem hiesigen Prozeß ist rascher &amp; vollständiger gewesen
+          als ich erwartete. Er kommt aber <expan>wahrscheinl<ex>ich</ex></expan> noch besser. <seg type="comment"><orig>Old <persName key="ed_w2q_w1f_gcb">Blackburn</persName> scheint
+              auch andre Saiten aufzuziehen, heute hat er <persName key="pdrPo.001.004.000002387">Ernest Jones</persName> über seine Rede große Complimente gemacht.</orig><note xml:id="b1426302-0ea3-4612-9d2d-53ff2ce84f98">Anspielung auf <persName key="pdrPo.001.004.000002387">Ernest Jones</persName>’ Auftreten im Prozeß gegen die
+              Fenier am 8. November 1867 bei der Verteidigung von <persName key="ed_dsl_x5r_rjb">Daniel Reddin</persName> (siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T095822+0200" comment="Br. 403 "?>Marx
+                an Engels, 2.11.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191111T111631+0100" comment="Br. 403 und Erl. 403s"?>Erl.<?oxy_comment_end?>).
+              Siehe The Special Commission at Manchester. (From our own reporters.) Eleventh day.
+              [Korrespondenz:] Manchester, Friday. In: The Times. London. Nr. 25 964, 9. November
+              1867. S. 12, Sp. 1/2. Richter Colin Blackburn bewertete die Jones Rede folgenderweise:
+              „I have to thank you, Mr. Jones, and to compliment you upon aiding justice by as able
+              and proper a speech as, I think, I ever heard.“ (Ebenda. S. 12,
+              Sp. 2.<?oxy_comment_start author="lindenberg" timestamp="20190301T144401+0100" comment="{kommentar-lb}?auch Daniel Redden; s. The Trial of the Fenians at Manchester: http://www.irelandoldnews.com/Dublin/1867/NOV.html auch etwas über Ernes Jones in Artikels aus dem Irish Catholic Chronicle And People&apos;s News of the Week{/kommentar-lb}"?>)<?oxy_comment_end?>
+            </note></seg></p>
+        <p><seg type="comment"><orig>Hast Du <persName key="pdrPo.001.004.000000441">Bismarks</persName>
+              <expan>Instruct<ex>ionen</ex></expan> an <persName key="pdrPo.001.004.000004864">Usedom</persName> (aus der <bibl sameAs="ed_zyc_zxs_rjb" type="periodika">Augsb.
+                Abendztg</bibl>, natürlich desavouirt)</orig><note xml:id="ecf498c6-0c35-46e5-8f24-f461191bc59c">Siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T100205+0200" comment="(Br. 403.40–43)"?>Marx
+                an Engels, 2.11.1867 <?oxy_comment_end?></ref> „eine Convention ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191112T102500+0100" comment=" 403l."?>Erl.<?oxy_comment_end?>
+              Bismarcks Depesche war von der „<bibl sameAs="ed_zyc_zxs_rjb" type="periodika">Augsburger Abendzeitung</bibl>“ am 4. November 1867 veröffentlicht worden. Siehe:
+              Der Minister der auswärtigen Angelegenheiten … [Korrespondenz:] Paris, 3. Nov.,
+              Morgens. In: Augsburger Abendzeitung. Nr. 303, 4. November 1867. S. 1,
+            Sp. 1/2.</note></seg> gelesen? Der Kerl <subst>
+            <del rendition="#s"><unclear reason="covered" cert="low">sagt</unclear></del>
+            <add place="intralinear"><sic ana="#break-off"><unclear reason="covered" cert="low"/></sic>deckt</add>
+          </subst> die Intriguen der Italiäner mit <persName key="pdrPo.001.004.000003392">Bonap</persName>. ganz ungescheut auf, man muß ihm lassen daß er sehr undiplomatische
+          Manieren haben kann wenn es ihm convenirt. [[<seg type="comment"><orig><bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Köln. Ztg</bibl> von Mittwoch druckts
+              ab</orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><note xml:id="b95f4216-34af-4ab6-aa0f-a7e8697fdfb1"><?oxy_comment_start author="lindenberg" timestamp="20191111T155156+0100" comment="Bismarcks Depesche: [Der Minister der auswärtigen Angelegenheiten …“ [Korrespondenz:] Paris, 3. Nov., Morgens.] In: Kölnische Zeitung. Nr. 000, 6. November (Mittwoch) 1867. S. 0, Sp. 00. {steht nicht zur Verfügung}"?>Bismarcks
+              Depesche<?oxy_comment_end?>: [Der Minister der auswärtigen Angelegenheiten …“
+              [Korrespondenz:] Paris, 3. Nov., Morgens.] In: Kölnische Zeitung. 6. November
+              (Mittwoch) 1867.</note></seg><?oxy_custom_end?>]]. Diese Haltung <persName key="pdrPo.001.004.000000441">Bismarks</persName> erklärt auch den Rückzug der Italiäner
+          &amp; das Dreckfressen was sie thun.</p>
+        <p>Wie die preuß. Büreaukratie-Inspectionen &amp; Revisionen &amp;
+          Einmischungen beschaffen sind: <seg type="comment"><orig>mein Bruder schreibt
+              mir</orig><note xml:id="nolh_zhv_cgb">Der Brief, vermutlich von <persName key="pdrPo.001.004.000001375">Hermann</persName> bzw. <persName key="pdrPo.001.004.000001368">Emil</persName> Engels an Engels, geschrieben vor dem
+              8. November 1867, konnte nicht ermittelt werden.</note></seg>
+          <subst>
+            <del rendition="#s">sie</del>
+            <add place="superlinear">die Fabrikanten</add>
+          </subst> wollen eine Association am Rhein &amp; der Ruhr bilden wie hier, um ihre Kessel
+          periodisch von tüchtigen Ingenieuren untersuchen zu lassen, &amp; sagt dann von der
+          Regierungs Controlle:</p>
+        <p>„Hier revidirt ein Kreisbaumeister in ½ Stunde 7 Kessel (!!) bei
+          uns und geht ganz befriedigt nach Hause <pb/> in einer andern Fabrik hat so ein Beamter
+            <hi rendition="#u">für 35 Kessel 2 Stunden gebraucht!!</hi> Wer so thöricht ist &amp;
+          glaubt, er könne nach so einer Revision ruhig schlafen, ist natürlich geleimt. Es würde
+          eine wahre Wohlthat sein diesen Unsinn überflüssig zu machen &amp; eine vernünftige
+          praktische Einrichtung an die Stelle zu setzen. Bei einer Revision habe <hi rendition="#u">ich</hi> dem Kreisbaumeister <hi rendition="#u">erst</hi> den Kessel mit allen seinen
+          Einrichtungen erklärt, <hi rendition="#u">dann seine</hi> Instruction dazu genommen &amp;
+          ihm <hi rendition="#u">schließlich den Bericht an die Regierung geschrieben.“</hi></p>
+        <p>Da hast Du die Preußen! Geschildert von ihnen selbst. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00352" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>343</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 12.
+          September 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution><collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">Sign. L 4491/L VI 624</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              230 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Marx
+              hat die ersten zwei Seiten vollständig, die dritte zur Hälfte beschrieben, die vierte
+              Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: „33,1“ bis „33,3“.</p>
+            <p/>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3 (1913)<?oxy_custom_end?>.
+              S. 408/409.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-09-12"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="B00347"/>
+        </correspContext>
+        <note>Marx beantwortet Engels’ Brief vom 11. September 1867 (siehe <ref target="B00347"><?oxy_comment_start author="lindenberg" timestamp="20190219T150810+0100" comment="Br. 338"?>Engels
+            an Marx, 11.9.1867</ref><?oxy_comment_end?>).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:46:48Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:21:52+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> 12 Sept. 1867.</dateline>
+          <salute>Lieber Fred,</salute>
+        </opener>
+        <p>Die Verschleppung des <persName key="pdrPo.001.004.000003135">Meißner</persName> ist sehr fatal. Auf dem <seg type="comment"><orig>Congreß zu
+              Lausanne</orig><note xml:id="a32f1a75-fe8c-4270-9f4c-d322c351632e">Siehe <ref target="B00337"><?oxy_comment_start author="reichhoff" timestamp="20180913T102957+0200" comment=" 328d"?>Erl.
+                zu Marx an Engels, 31.8.1867<?oxy_comment_end?></ref>. </note></seg> hätte er
+          verschiedne Copies losschlagen können. Auch wäre <seg type="comment"><orig>das
+              Buch</orig><note xml:id="e16a07c1-bcd5-44f7-b015-4ab89a9dd786">Karl Marx: <bibl sameAs="zotero-604880-PT9GISVC">Das Kapital. Bd. 1. Buch 1. Hamburg
+                1867</bibl>.</note></seg> dort als Ereigniß besprochen worden. Ich begreife die
+          Eselei nicht. <seg type="comment"><orig>Nächsten Sonnabend</orig><note xml:id="df4d3190-6bf1-42d0-b1ba-e28eb4b4ce49">14. September 1867.</note></seg> sind es
+            <hi rendition="#u">4 Wochen</hi>, daß ich <seg type="comment"><orig>die letzte Correctur
+              nach Leipzig geschickt!</orig><note xml:id="f7d867ff-614c-4572-bbe4-a6f61c751a51">
+              <p>Siehe <ref target="B00322"><?oxy_comment_start author="reichhoff" timestamp="20180529T114436+0200" comment="(Br. 313.3)"?>Marx
+                  an Engels, 16.8.1867<?oxy_comment_end?></ref>. – Am 14. September 1867 erschien im
+                  „<bibl sameAs="ed_zbg_nwj_tgb">Börsenblatt für den Deutschen Buchhandel</bibl>“,
+                Leipzig, Nr. 214, S. 2293, Sp. 2, folgende Anzeige von „O. Meißner in Hamburg“ über
+                das Erscheinen des ersten Bandes des „Kapital“: „7571. Marx, K., Das Kapital. Kritik
+                der polit. Oekonomie. 1. Bd. Buch 1.: Der Produktionsprocess d. Kapitals. gr. 8.
+                Geh. 3⅓
+                <?oxy_comment_start author="lindenberg" timestamp="20190628T115234+0200" comment="3{1/3} {SZ_Reichstaler}"?>rth<?oxy_comment_end?>.“
+                (Siehe auch Monatliches Verzeichnis der Neuigkeiten und Fortsetzungen des Deutschen
+                Buchhandels. Beilage zum Börsenblatt für den Deutschen Buchhandel. Nr. 9. Monat
+                September. 1867. In: Börsenblatt für den Deutschen Buchhandel. Leipzig. 1867. Bd. 2.
+                Monat Juli bis Dezember. S. 108, Sp. 2.) Am 3. Oktober 1867 annoncierte <persName key="pdrPo.001.004.000003135">Meißner</persName> den ersten Band des „Kapital“
+                wieder (Anzeigentext siehe <ref target="mega_ivz_fgq_yfb"><?oxy_comment_start author="lindenberg" timestamp="20181129T105717+0100" comment="Noch Verweis auf Datein &quot;Paratext_zu_434_(Verlagsanz_z_Kapital).xml"?>hier<?oxy_comment_end?></ref>). </p>
+            </note></seg></p>
+        <p><seg type="comment"><orig>Dein Plan das Buch <hi rendition="#u">vom bürgerlichen Standpunkt</hi> zu attaquiren,</orig><note xml:id="fd6ad99e-f526-4590-af2b-8d456393f0b4">Siehe <ref target="B00347"><?oxy_comment_start author="reichhoff" timestamp="20180529T114555+0200" comment="(Br. 338.54–56)"?>Engels
+                an Marx, 9.9.1867<?oxy_comment_end?></ref> „Was meinst Du ...“.</note></seg> ist <hi rendition="#u">das beste Kriegsmittel</hi>. Ich halte es aber – sobald die Geschichte
+          heraus ist – für besser dieß durch <persName key="pdrPo.001.004.000004424">Siebel</persName>, resp. <persName key="ed_i5k_f4p_ycb">Rittershaus</persName> thun zu
+          lassen als durch <persName key="pdrPo.001.004.000003135">Meißner</persName>. Man muß auch
+          die besten Buchhändler nicht zu tief in die Karte sehn lassen. Andrerseits <seg type="comment"><orig>mußt Du dem <hi rendition="#u"><persName key="pdrPo.001.004.000002616">Kugelmann</persName></hi>, der zurück ist, ein paar
+              Instruktionen schreiben über die positiven Seiten, die er zu betonen hat.</orig><note xml:id="b43bb443-2721-4703-9f0b-b37f52073bda">Engels erfüllte diese Bitte in seinem
+                <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180529T121937+0200" comment="(Br. 379)"?>Brief
+                an L. Kugelmann vom 12.10.1867<?oxy_comment_end?></ref>.</note></seg> Sonst macht
+          der <hi rendition="#u">Unsinn</hi>, da es hier nicht mit Enthusiasmus gethan ist. Ich
+          selbst kann natürlich das nicht so ungenirt thun wie Du.</p>
+        <p>Ich bin ganz <seg type="comment"><orig>Deiner Ansicht quoad <persName key="pdrPo.001.004.000001296">Eccarius</persName></orig><note xml:id="b2317737-3fdb-4593-892c-9e4ecdfa4172">Siehe <ref target="B00347"><?oxy_comment_start author="reichhoff" timestamp="20180529T122059+0200" comment="Br. 338.12–17"?>Engels
+                an Marx, 11.9.1867 <?oxy_comment_end?></ref>.</note></seg>. Es fehlt einem Arbeiter,
+          namentlich Einem von der kritischen Trockenheit des Eccarius, das diplomatische Geschick.
+            <seg type="comment"><orig>Er schreibt an die <hi rendition="#u"><bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl></hi></orig><note xml:id="dad9aa14-2300-4864-a404-2ac376cabb0a"> [Johann Georg Eccarius:] International
+              Working Men’s Congress. Siehe <ref target="B00344"><?oxy_comment_start author="reichhoff" timestamp="20180913T103319+0200" comment=" 335c"?>Erl.
+                zu Marx an Engels, 7.9.1867<?oxy_comment_end?></ref> .</note></seg>, als ob er für
+          die „<bibl sameAs="ed_zym_4jj_ybb" type="periodika">N.Rh.Z. Revü</bibl>“ schriebe. Jedoch
+          <pb/> schadet die Sache nicht. Hier in London heißts: Die Inter. Assoc. etc muß sehr stark
+          sein, weil die <hi rendition="#u"><bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl></hi>
+          <del rendition="#s">sie<sic ana="#break-off"/></del> eigens darüber reportirt. Des E’s
+          sneers gelten für <hi rendition="#u"><bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl></hi>
+          <?oxy_comment_start author="lindenberg" timestamp="20190808T143539+0200" comment="Hohn, Spott"?>sneers<?oxy_comment_end?>.</p>
+        <p><del rendition="#s">Bei den<sic ana="#break-off"/></del> Die
+          lausigen <hi rendition="#u">französischen Schweitzer</hi>, <del rendition="#s">durch<sic ana="#break-off"/></del> sehr stark vertreten, gaben den französischen Schwätzern von
+          Paris den Spielraum. <seg type="comment"><orig><persName key="pdrPo.001.004.000000317">Der
+                alte Becker</persName> machte den Hauptblunder. Er brach zuerst unser <add place="superlinear">Tagesordnung</add> Programm nieder, um mit <hi rendition="#u">seinem Freiheitsvorschlag</hi> herauszuplatzen.</orig><note xml:id="fe5d9026-c030-48fa-919a-74e4ac0b694e"> Siehe<ref target="B00347"><?oxy_comment_start author="reichhoff" timestamp="20180529T122158+0200" comment="(Br. 338.9–11"?>
+                Engels an Marx, 11.9.1867<?oxy_comment_end?></ref> „Notre cher Phil. Becker ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190628T142134+0200" comment="338d"?>Erl.<?oxy_comment_end?>).</note></seg>
+          Dadurch hatten dann die Pariser die Gelegenheit alles Rand u. Band zu beseitigen.</p>
+        <p>Doch thut das alles nichts. Die Hauptsache ist die Abhaltung
+            <expan>d<ex>es</ex></expan> Congresses, nicht
+          was dort geschieht. <seg type="comment"><orig>In unsrem General Report</orig><note xml:id="ness_vln_5fb">Rapport du Conseil Général de l’Association Internationale des
+              Travailleurs au Congrès de Lausanne (1867). (MEGA2 I/20. S. 771–787.) Siehe <ref target="B00337"><?oxy_comment_start author="lindenberg" timestamp="20190628T142755+0200" comment="328d."?>Erl.
+                zu Marx an Engels, 31.8.1867<?oxy_comment_end?></ref>.</note></seg> on se moquera
+          bien über die Pariser wiseacres. <seg type="comment"><orig>Zum grossen Kummer derselben
+              ist der Beschluß durchgesezt worden, daß, <hi rendition="#u">wer nicht zahlt</hi> (u.
+              die Pariser haben keinen Deut gezahlt), künftig nicht delegiren kann.</orig><note xml:id="d8976ef3-5402-4560-bc17-afc1a721c44a">Siehe<ref target="B00342"><?oxy_comment_start author="reichhoff" timestamp="20180529T122318+0200" comment="(Br. 333.20–23"?>
+                F. Leßner an Marx, 5. bis 7.9.1867 <?oxy_comment_end?></ref> „Ueber den Beitrag hat
+              es heftigen Kampf gegeben ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190628T143335+0200" comment="333d"?>Erl.<?oxy_comment_end?>).</note></seg>
+          <seg type="comment"><orig>Es gilt, das nächstemal 20 Engländer u. 30 Deutsche nach Brüssel
+              zu bringen.</orig><note xml:id="fd6783fc-50c6-4878-8f1d-dd12b7207d41">Der dritte
+              Kongreß der IAA fand in Brüssel vom 6. bis 13. September 1868 statt. Siehe <ref target="B00342"><?oxy_comment_start author="lindenberg" timestamp="20190628T143721+0200" comment="vorher: Der dritte Kongreß der IAA sollte in Brüssel stattfinden. Siehe Erl. 333e"?>Fr.
+                Leßner an Marx, 5. bis 7.9.1867 <?oxy_comment_end?></ref>und Erl.</note></seg> As to
+          the Belgians themselves, so können sie nur delegiren 1 man per 500 u. werden daher nicht
+          sehr zahlreich sein. Ausserdem sind sie rather rebellious gegen die Pariser.</p>
+        <p><expan>N<ex>ota</ex>bene</expan>: Das Schlimme ist, daß wir nicht einen einzigen Menschen in
+          Paris haben, der sich mit den den Proudhonisten <hi rendition="#u">feindlichen</hi>
+          Arbeitersections (u. sie bilden die Majorität!) in Verbindung setzen könnte. Wenn
+            <persName key="pdrPo.001.004.000001279">Dupont</persName> ein paar Wochen zu Paris wäre,
+          wäre alles in Ordnung, aber die <pb/> Polizei hat ein scharfes Auge auf ihn.</p>
+        <p><seg type="comment"><orig>Dem <persName key="pdrPo.001.004.000004910">Vermorel</persName> werde ich bei u. bei
+              privatbrieflich seine Eseleien über deutsche Politik ausprügeln.</orig><note xml:id="afa33fc3-dd09-4fcb-b77b-f9adea695c97">Siehe <ref target="B00347"><?oxy_comment_start author="reichhoff" timestamp="20180529T122408+0200" comment="(Br. 338.19–32)"?>Engels
+                an Marx, 11.9.1867<?oxy_comment_end?></ref>.</note></seg> Ich muß <seg type="comment"><orig>gradatim</orig><note xml:id="b65af761-28af-4736-af1d-97a9a2650ccf">schrittweise.</note></seg> verfahren, u. <seg type="comment"><orig>begann daher
+              absichtlich mit U<ex>nited</ex> States, Russia u. Turkey, weil dieß „neutrales“ Gebiet
+              zwischen Deutschen u. Franzosen</orig><note xml:id="fbf1575c-2f0e-4fab-bda1-4828b7a83598">Siehe <ref target="B00336"><?oxy_comment_start author="reichhoff" timestamp="20180529T122522+0200" comment="(Br. 327.11–19).."?>Marx
+                an A.Vermorel, 27.8.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+        <p><seg type="comment"><orig><persName key="pdrPo.001.004.000003076">Laura</persName> u. <persName key="pdrPo.001.004.000002648">Lafargue</persName> übersetzen eben Theil der Vorrede
+              für <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                  Franç.</bibl></hi></orig><note xml:id="c767cb6e-3dba-4acf-b2d6-2f0122ee927c">Siehe
+                <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180529T122621+0200" comment="(Br. 321.12–13)"?>Marx
+                an Engels, 24.8.1867<?oxy_comment_end?></ref>. Die französische Übersetzung des
+              Teils des Vorworts, die <persName key="pdrPo.001.004.000003076">Laura Marx</persName>
+              und <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> auf Grundlage von
+                <persName key="pdrPo.001.004.000003135">Otto Meißners</persName> Pressemitteilung
+              über den ersten Band des „Kapital“ (siehe <ref target="B00330"><?oxy_comment_start author="lindenberg" timestamp="20190628T151325+0200" comment="321b"?>Erl. zu
+                Marx an Engels, 24.8.1867<?oxy_comment_end?></ref>.) angefertigt hatten, erschien
+              unter Überschrift: Le socialisme en Europe. In: Le Courrier français. Paris. Nr. 106,
+              1. Oktober 1867. S. 3, Sp. 2/3. Die Übersetzung, angefangen mit „Ce que j’ai à étudier
+              dans cet ouvrage, c’est la forme capitaliste de la production …“ (siehe MEGA<hi rendition="#sup">2</hi> II/5. S. 12.27–28), wurde mit einer Präambel von <persName key="ed_cmx_db4_zgb">Lucien Dubois</persName> eingeleitet. Den Text dieser
+              Veröffentlichung siehe Andréas, Grandjonc, Pelger (Hrsg.): Unbekanntes von Friedrich
+              Engels und Karl Marx. Teil 1: 1840–1874. Trier 1986. S. 91–93 und 94. Diese, auf Marx’
+              Veranlassung angefertigte Übersetzung, wurde von <persName key="pdrPo.001.004.000004104">Joseph Roy</persName> für die erste französische
+              Ausgabe des „Kapital“ von 1872–1875 nicht übernommen. (Siehe Karl Marx: Le Capital.
+              Préface de la première édition. In: MEGA<hi rendition="#sup">2</hi> II/7.
+              S. 12.37–15.6.) – Siehe auch <ref target="B00395"><?oxy_comment_start author="reichhoff" timestamp="20180529T122723+0200" comment=" (Br. 385.29–31)"?>Marx
+                an Engels, 14.10.1867<?oxy_comment_end?></ref>.</note></seg></p>
+        <p>Salut</p>
+        <closer>D<lb/>KM </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

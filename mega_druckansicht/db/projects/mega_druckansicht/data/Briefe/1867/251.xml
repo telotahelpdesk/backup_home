@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00260" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>251</idno>Karl Marx an Louis Büchner in Darmstadt. Hannover, Mittwoch, 1. Mai 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 2032</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 142 × 218 mm. Prägung:
+                                „<persName key="pdrPo.001.004.000002616">Dr. L. Kglm.</persName>“
+                            Marx hat die erste Seite vollständig, die zweite zur Hälfte beschrieben.
+                            Schreibmaterial: schwarze Tinte.</p><p/></physDesc></msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                            МЭС¹ 25 (1934). S. 486.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals: MEW 31 (1965).
+                            S. 544/545.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName><date when="1867-05-01"/></correspAction><correspAction type="received">
+                    <persName key="pdrPo.001.004.000000656">Büchner, Ludwig (Louis)
+                        (1824-1899)</persName>
+                    <placeName key="ed_yvj_gbg_4db">Darmstadt</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00263"/>
+                </correspContext>
+                                <note><persName key="pdrPo.001.004.000000656">Büchner</persName> antwortete Marx am 3. Mai 1867
+                        (<?oxy_comment_start author="lindenberg" timestamp="20181017T164136+0200" comment=" (Br. 254)"?><ref target="B00263">L. Büchner an Marx,
+                    3.5.1867<?oxy_comment_end?></ref>).</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+                    <term key="ed_jtl_xrw_ww">Internationale Arbeiter-Assoziation (IAA, A.I.T.,
+                        I.W.M.A.)</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:24Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#u">Hannover.</hi> 1 Mai 1867.<lb/>(<seg type="comment"><orig><hi rendition="#u">Adr.</hi>
+                                <hi rendition="#u">Dr. </hi><persName key="pdrPo.001.004.000002616"><hi rendition="#u">Kugelmann</hi></persName></orig><note xml:id="nhdt_dxq_mfb"><?oxy_comment_start author="lindenberg" timestamp="20181017T170347+0200" comment="Erl. ist rechtsbündig! -- vermutlich weil zum Datum gehörend!"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="2"?>In
+                                den 1860er Jahren wohnte <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName> im Zentrum Hannovers in der
+                                Schmiedestraße, 8 (siehe <bibl sameAs="zotero-604880-6S3U3SQW">Hundt: Louis Kugelmann (1974).</bibl>
+                                S. 301). Seine Adresse ist auch in der Liste der Mitglieder und
+                                Teilnehmer der 40. Versammlung Deutscher Naturforscher und
+                                Ärzte zu Hannover im September 1865 angeführt. (Siehe Amtlicher
+                                Bericht über die 40. Versammlung Deutscher Naturforscher und
+                                Ärzte zu Hannover im September 1865. Hannover 1866. S. 22.) Zu
+                                den Versammlungen deutscher Naturforscher und Ärzte siehe <ref target="B00316"><?oxy_comment_start author="lindenberg" timestamp="20181017T165219+0200" comment=" Erl. 307g"?>Erl.
+                                    zu L. u. G. Kugelmann an Marx,
+                                    12.8.1867<?oxy_comment_end?></ref>. – Zur 40. Versammlung
+                                deutscher Naturforscher und Ärzte siehe auch<ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180503T171219+0200" comment="(Br. 458.36–40"?>
+                                    L. Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> („auf
+                                der Naturforscher-<expan>Vers<ex>ammlung</ex></expan> vor 2 Jahren ...“) und
+                                Erl<?oxy_comment_start author="lindenberg" timestamp="20181017T170109+0200" comment="Erl. 458h"?>.<?oxy_comment_end?></note></seg><hi rendition="#u">.</hi>)<?oxy_comment_end?><?oxy_custom_end mid="2"?></dateline>
+                    <salute>Hochgeehrter Herr,</salute>
+                </opener>
+                <p>Wenn ich, Ihnen durchaus fremd, mir erlaube mich
+                    persönlich <add place="superlinear">an Sie</add> zu wenden und zwar in einer
+                    persönlichen, wenn auch zugleich wissenschaftlichen Angelegenheit, so
+                    entschuldigen Sie das mit dem Vertrauen, welches ich in Sie als Mann der
+                    Wissenschaft und Parteimann setze.</p>
+                <p><seg type="comment"><orig>Ich bin nach Deutschland
+                            gekommen, um den <bibl sameAs="zotero-604880-PT9GISVC">Ersten Band meines Werks: <hi rendition="#u">„Das Kapital.</hi>
+                                <hi rendition="#u">Kritik der Politischen Oekonomie“</hi></bibl>
+                            meinem Verlagsbuchhändler, Herrn <persName key="pdrPo.001.004.000003135">Otto Meißner</persName>
+                            <subst>
+                                <del rendition="#ow">zu<sic ana="#break-off"/></del>
+                                <add place="sublinear">in</add>
+                            </subst> Hamburg, zu überbringen</orig><note xml:id="nogc_4xq_mfb">Vom
+                            10. bis 12. April 1867 reiste Marx mit dem Schiff nach Hamburg, am
+                            12. April 1867 traf er in Hamburg ein. Siehe <ref target="B00243"><?oxy_comment_start author="reichhoff" timestamp="20180503T172855+0200" comment="(Br. 234 "?>Marx
+                                an Engels, 2.4.1867<?oxy_comment_end?></ref> und <ref target="B00247"><?oxy_comment_start author="reichhoff" timestamp="20180503T172945+0200" comment="und 237) "?>13.4.1867<?oxy_comment_end?></ref>
+                            sowie <ref target="B00249"><?oxy_comment_start author="reichhoff" timestamp="20180503T173038+0200" comment="(Br. 239)."?>Marx
+                                an J. P. Becker, 17.4.1867<?oxy_comment_end?></ref>. Vom
+                            16. April bis ca. 14. Mai 1867 war Marx bei <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName> in Hannover
+                            zu Gast.</note></seg>. Ich muß noch einige Tage hier verweilen, um zu
+                    sehn, ob der Schnelldruck, wie Herr <persName key="pdrPo.001.004.000003135">Meißner</persName> ihn beabsichtigt, möglich ist, viz. ob die Correktoren
+                    hinlänglich gebildet sind für solche Operationsweise.</p>
+                <p><seg type="comment"><orig>Weßhalb ich mich persönlich an Sie wende, ist dieß: Ich
+                            wünschte die Sache, nach der Publikation in Deutschland, auch
+                            französisch erscheinen zu lassen zu Paris.</orig><note xml:id="na3g_txq_mfb">Die Absicht, die französische Ausgabe des ersten
+                            Bandes des <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl> zu
+                            besorgen, sobald die deutsche Erstausgabe herausgegeben wird, hatte Marx
+                            bereits in seinem Brief an <persName key="pdrPo.001.004.000002616">Louis
+                                Kugelmann</persName> vom 28. Dezember 1862 formuliert. (<bibl sameAs="zotero-604880-WDQAUCHH">MEGA<hi rendition="#sup">2</hi>
+                                III/12.</bibl> Br. 191.50–51.) <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> führte darüber
+                            bei einem Besuch in Paris im Dezember 1862, assistiert von <persName key="pdrPo.001.004.000004249">Victor Schily</persName>, mit
+                                <persName key="pdrPo.001.004.000003905">Élisée Reclus</persName> und
+                            anderen französischen Sozialisten Gespräche. Siehe Marx an Engels,
+                            2. Januar 1863. (<bibl sameAs="zotero-604880-WDQAUCHH">Ebenda.</bibl>
+                            Br. 195.8–12.) – Marx' Verhandlungen während des Drucks und nach dem
+                            Erscheinen des deutschen Erstausgabe des ersten Bandes des <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl> über eine
+                            Übersetzung ins Französische hatten 1867 keinen Erfolg. Die Übersetzung
+                            wurde später von <persName key="pdrPo.001.004.000004104">Joseph
+                                Roy</persName> besorgt und von Marx durchgesehen. Sie erschien in
+                            periodischen Lieferungen von 1872 bis 1875 in Paris. Siehe <bibl sameAs="zotero-604880-P4A3BNK8">Karl Marx: Le Capital. Traduction de
+                                M. J. Roy, entièrement revisée par l’auteur. Paris: Lachâtre
+                                [1872–1875].</bibl> In: <bibl sameAs="zotero-604880-KLNPXYYQ">MEGA<hi rendition="#sup">2</hi> II/7. S. 1–699.</bibl> Zur
+                            Entstehungsgeschichte dieser Ausgabe siehe <bibl sameAs="zotero-604880-KLNPXYYQ">ebenda,</bibl> S. 713–733. Siehe
+                            auch <ref target="B00452"><?oxy_comment_start author="reichhoff" timestamp="20180503T174013+0200" comment="(Br. 442.20–51)"?>V.
+                                Schily an Marx, 27.11.1867 <?oxy_comment_end?></ref> sowie <bibl sameAs="zotero-604880-7F4RQQTF">Dlubek: Victor Schily
+                                (1811–1875)</bibl>. S. 627/628.</note></seg> Ich selbst kann nicht
+                    dahin gehn, wenigstens nicht ohne Gefahr, da <seg type="comment"><orig>ich erst
+                            unter <persName key="pdrPo.001.004.000002907">Louis Philippe</persName>,
+                            zum zweitenmal unter <persName key="pdrPo.001.004.000003392">Louis
+                                Bonaparte</persName> (Président) aus Frankreich expellirt
+                            wurde</orig><note xml:id="naz3_yxq_mfb">Im Januar 1845 war Marx auf
+                            Verlangen der preußischen Regierung von dem Ministerium <persName key="pdrPo.001.004.000001968">François Guizot</persName> das erste
+                            Mal aus Frankreich ausgewiesen worden. Am 25. Januar hatte er die
+                            Ausweisungsordre durch die französische Polizei zugestellt bekommen.
+                            Vorangegangen war eine Reihe von behördlichen Maßnahmen in Berlin und
+                            Paris: so die Erlasse des preußischen Innenministeriums vom 16. April
+                            1844 zur Verfolgung der <bibl sameAs="ed_kmv_wxx_mfb">„Deutsch-Französischen Jahrbücher“</bibl> und der daran beteiligten
+                            Personen sowie vom 21. Dezember 1844 zur Verhaftung der Mitarbeiter der
+                            deutschen Zeitung „Vorwärts!“ in Paris, ferner der auf preußischen Druck
+                            erfolgte Ausweisungserlaß des
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>französischen
+                            Innenministers<?oxy_custom_end?> vom 11. Januar 1845 gegen fünf Deutsche
+                            unterschiedlicher politischer Gesinnung. Die Frist, Frankreich zu
+                            verlassen, lief für Marx am 1. Februar 1845 ab. Am Vormittag dieses
+                            Tages unterzeichnete er einen Verlagsvertrag mit Carl Friedrich Julius
+                            Leske über die Lieferung einer zweibändigen „Kritik der Politik und
+                            Nationalökonomie“ (siehe <bibl sameAs="zotero-604880-2STDNZUU">MEGA<hi rendition="#sup">2</hi> III/1.</bibl> S. 851/852), holte sich
+                            dann auf der Polizeipräfektur den Ausreisepaß und verließ am Nachmittag
+                            Paris im Postwagen, ohne Frau und Kind, aber begleitet von seinem Freund
+                                <persName key="pdrPo.001.004.000000664">Heinrich Bürgers</persName>.
+                            Vom 3. Februar 1845 bis 4. März 1848 wohnte Marx in Brüssel. (Siehe
+                                <bibl sameAs="zotero-604880-LIA8UWBM">Grandjonc: Zu Marx’ Aufenthalt
+                                in Paris …</bibl> S. 202–204; <bibl sameAs="zotero-604880-6RZDDFLN">Andréas, Grandjonc, Pelger: Karl Marx’ Ausweisung aus Paris und die
+                                Niederlassung von Marx und Friedrich Engels in Brüssel im Frühjahr
+                                1845.</bibl> S. 213–215 und 225.) – Am 4. März 1848 wurde Marx aus
+                            Brüssel ausgewiesen und reiste zusammen mit <persName key="pdrPo.001.004.000005179">Ferdinand Wolff </persName>nach Paris.
+                            Am 19. Juli 1849 erhielt er vom
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Polizeikommissar
+                            des Pariser Faubourg Saint-Germain<?oxy_custom_end?> die Mitteilung, daß
+                            er aus Paris nach dem Departement Morbihan, einem sumpfigen, ungesunden
+                            Gebiet in der Brétagne, ausgewiesen sei. (Siehe Marx an Engels, Ende
+                            Juli 1849. In: <bibl sameAs="zotero-604880-K2JNEGCK">MEGA<hi rendition="#sup">2</hi> III/3.</bibl> S. 36.6–8. Den Erlaß über
+                            Marx’ Ausweisung siehe <bibl sameAs="zotero-604880-K2JNEGCK">ebenda.</bibl> S. 817/818.) Da Marx umgehend beim Innenministerium
+                            dagegen Einspruch erhob (siehe Marx an Engels, 17. August 1849. <bibl sameAs="zotero-604880-K2JNEGCK">Ebenda.</bibl> S. 40.10–13),
+                            unterblieb die sofortige Durchführung des Erlasses. Marx’ Beschwerde
+                            wurde aber abgelehnt. (Siehe <bibl sameAs="zotero-604880-DXFJ7YYE">MEGA<hi rendition="#sup">2</hi> I/10.</bibl> S. 716 sowie <bibl sameAs="zotero-604880-K2JNEGCK">MEGA<hi rendition="#sup">2</hi>
+                                III/3.</bibl> S. 822/823). Am 23. August 1849 erschien in Marx’
+                            Wohnung ein Polizeioffizier mit der Aufforderung, Marx und seine Frau
+                            hätten Paris binnen 24 Stunden zu verlassen. Am selben Tag schrieb Marx
+                            an Engels, daß er „auf diesen verkleideten Mordversuch nicht eingehe“
+                            (siehe <bibl sameAs="zotero-604880-K2JNEGCK">MEGA<hi rendition="#sup">2</hi> III/3.</bibl> S. 44.4–5). Mit großer Mühe gelang es
+                                <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>, bis
+                            zum 15. September in Paris bleiben. Marx verließ Paris. Nach einem
+                            Stempel in seinem Paß, den die französischen Behörden am 24. August 1849
+                            ausgestellt hatten, hielt er sich am 26. August in Boulogne auf. Von
+                            dort reiste er nach London weiter, wo er bis zu seinem Lebensende
+                            blieb.</note></seg>, endlich während meines Exils in London den Herrn
+                        <persName key="pdrPo.001.004.000003392">Louis</persName> fortwährend
+                    angegriffen habe. Ich kann also keinen Uebersetzer persönlich suchen gehn. <seg type="comment"><orig>Ich weiß, daß Ihre Schrift über <bibl sameAs="zotero-604880-5N8IRVKT">„Stoff und Kraft“</bibl> französisch
+                            erschienen ist</orig><note xml:id="ngbh_2yq_mfb"><?oxy_comment_start author="lindenberg" timestamp="20181018T172012+0200" comment="vorher mit Untertitel: Force et matière. Études populaires d&apos;histoire et philosophie naturelles. Ouvrage trad. de l&apos;allem. avec l’approbation de l’auteur.
+!Untertitel gehört zur 2. Aufl.!"?><bibl sameAs="zotero-604880-A4KHD7IH">Louis Büchner: Force et Matière.
+                                Paris 1863.</bibl><?oxy_comment_end?> Die <bibl sameAs="zotero-604880-ER3IFB7J">zweite französische Ausgabe</bibl>
+                            erschien 1865. Siehe auch <ref target="B00263">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180620T102737+0200" comment="(Br. 254)"?>Büchner
+                                an Marx, 3.5.1867 <?oxy_comment_end?></ref>. – Büchners Buch <bibl sameAs="zotero-604880-5N8IRVKT">„Kraft und Stoff“</bibl> mit einer
+                            Widmung befand sich in der Privatbibliothek von <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>. Siehe
+                                <bibl sameAs="zotero-604880-57WQSEQ2">Abschrift des Briefes von
+                                    <persName key="pdrPo.001.004.000002614">Franzisca
+                                    Kugelmann</persName></bibl> in: Marx-Engels-Archiv
+                            [unterschrieben von Hanz Jaeger] an Marx-Engels-Institut, 30. Juli 1930
+                            (RGASPI, Sign. f. 71, op. 50, d. 99. Bl. 166).</note></seg> u.
+                    unterstelle daher, daß Sie, direct oder indirect, mir eine geeignete Person
+                    vermitteln können. <seg type="comment"><orig>Da ich während des Sommers den
+                            zweiten u. während des Winters den abschliessenden dritten Band zum
+                            Druck fertig machen muß</orig><note xml:id="f499ffc6-4981-43f8-9ca6-f7c437689582">Siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20181018T173909+0200" comment="Erl. 6b."?><ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+                                15.1.1866.</ref><?oxy_comment_end?> – Die Manuskripte für eine
+                            Fortsetzung des „Kapital“ in einem zweiten und dritten Band, an denen
+                            Marx bis zum Ende seines Lebens weiterarbeitete, wurden erst nach seinem
+                            Tod von Engels veröffentlicht.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+                            zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523;
+                            II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch
+                                <ref target="B00185"><?oxy_comment_start author="reichhoff" timestamp="20180531T091816+0200" comment="(Br. 180.33–42"?>Marx
+                                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref> und <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190725T135522+0200" comment="360dd"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ich kann weder Bd. II
+                            fertig machen …“ und Erl. </note></seg>, <pb/> besitze ich nicht die
+                    Zeit, um selbst die französische <subst>
+                        <del rendition="#ow">Au<sic ana="#break-off"/></del>
+                        <add place="across">Bearbeitung</add>
+                    </subst> der Schrift zu übernehmen.</p>
+                <p>Ich halte es von der größten Wichtigkeit die Franzosen
+                    von den falschen Anschauungen, worin sie <seg type="comment"><orig>Proudhon mit
+                            seinem <subst>
+                                <del rendition="#s">idealisirenden</del>
+                                <add place="superlinear">idealisirten</add>
+                            </subst> Kleinbürgerthum</orig><note xml:id="ns2b_zq3_4fb">Siehe z. B.
+                            die Bezugstellen auf Proudhon in <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Hamburg 1867.</bibl> (<bibl sameAs="zotero-604880-25ETZ5BH">MEGA² II/5</bibl>,
+                                <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=40%26startPage=41%26endPage=41%26startLine=38%26endLine=39%26startTerm=%26endTerm=">S. 40/41,</ref>
+                            <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=52%26startPage=52%26endPage=52%26startLine=28%26endLine=39%26startTerm=%26endTerm=">S. 52</ref>, <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=419%26startPage=419%26endPage=419%26startLine=43%26endLine=44%26startTerm=%26endTerm=">S. 419</ref>, <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=435%26startPage=435%26endPage=435%26startLine=28%26endLine=44%26startTerm=%26endTerm=">S. 435</ref>) und zuvor Marx' Artikelserie im <bibl sameAs="ed_dpq_lhf_lbb">„Social-Democraten“</bibl>
+                            vom Januar/Februar 1865 <bibl sameAs="zotero-604880-QA6FJ4HJ">„Ueber P. J. Proudhon. Brief an Johann Baptist von
+                                Schweitzer“</bibl> (<bibl sameAs="zotero-604880-MTQ7EB4A">MEGA² I/20. S. 60-67, S. 1003-1015</bibl>). Hier gab
+                            Marx erstmals „für den deutschen Leser ein Resümee“ (<bibl sameAs="zotero-604880-MTQ7EB4A">Ebenda.</bibl> S.
+                            1003) seiner bis dahin nur auf Französisch erschienen Streitschrift
+                                <bibl sameAs="zotero-604880-PMFX2LHT">„Misère de la
+                                Philosophie“</bibl> (Paris, Buxelles 1847). </note></seg> vergraben
+                    hat, zu emancipiren. <seg type="comment"><orig>Auf dem <subst>
+                                <del rendition="#s">letzten</del>
+                                <add place="superlinear">neulichen</add>
+                            </subst> Congreß zu Genf</orig><note xml:id="nyhg_yzq_mfb">Zum Genfer
+                            Kongreß der IAA siehe <ref target="B00004"><?oxy_comment_start author="lindenberg" timestamp="20181019T111624+0200" comment="aber die Erl. zum Genfer Kongreß fehlt im Jahrgang 1866}.{Erl. ist gekürzt vorhanden (Brief 3; Erl. 5)}"?>Erl.
+                                zu Marx an Engels, 1.5.1866.</ref><?oxy_comment_end?></note></seg>,
+                    ditto in den Beziehungen, die ich als Mitglied des Generalraths der Intern.
+                    Arbeiterassociation mit der Pariser Branche habe, <del rendition="#s">tritt<sic ana="#break-off"/></del> stößt man fortwährend auf die widerlichsten
+                    Consequenzen des Proudhonismus.</p>
+                <p>Da ich nicht weiß, wie lang mein Aufenthalt hier noch
+                    währt, würden Sie mich durch baldige Antwort verpflichten. Kann ich Ihnen,
+                    meinerseits, von irgend einem Dienst in London sein, so mit dem größten
+                    Vergnügen.</p>
+                <closer>Ihr ergebenster<lb/>Karl Marx</closer>
+            </div></body></text></TEI>

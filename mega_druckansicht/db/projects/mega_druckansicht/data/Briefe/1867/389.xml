@@ -1,0 +1,46 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00399" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>389</idno>Johann Georg Eccarius an Karl Marx in London. Newbury, Mittwoch, 16. Oktober 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1753</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 112 × 180 mm. Das Papier
+                                                  ist am linken Rand unten beschädigt, die dadurch
+                                                  entstandenen
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190225T100153+0100" comment="(Z. 10–12)"?>Textverluste<?oxy_comment_end?>
+                                                  konnten rekonstruiert werden. Prägung ist nicht
+                                                  deutlich erkennbar. Eccarius hat die erste Seite
+                                                  vollständig beschrieben, die zweite Seite ist
+                                                  leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj 10“.</p><p/></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName>
+                                        <placeName key="ed_okh_jvh_4db">Newbury</placeName><date when="1867-10-16"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Marx legte diesen Brief seinem Brief an Engels vom 19. Oktober 1867 (<ref target="B00405"><?oxy_comment_start author="lindenberg" timestamp="20190225T100025+0100" comment=" (siehe Br. 395.83–84)"?>Marx
+                                                an Engels, 19.10.1867<?oxy_comment_end?></ref>)
+                                        bei.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:19Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Newbury Berks<lb/>Oct. 16. 1867</dateline>
+                                        <salute>Lieber Marx,</salute>
+                                </opener>
+                                <p><seg type="comment"><orig>ich bin hier &amp; arbeite.</orig><note xml:id="a4be541f-25d3-42e0-9dd1-0d4275d59a34">Siehe <ref target="B00394"><?oxy_comment_start author="reichhoff" timestamp="20180605T123612+0200" comment="(Br. 384.4–19)"?>J.
+                                                  G. Eccarius an Marx,
+                                                  14.10.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                                <p>Alles was hier billig zu sein scheint als in London ist Miethe
+                                        &amp; Arbeit. Alles übrige ist eben so theuer wie in London
+                                        selbst die Kartoffeln. Wie es mit meinem Meister oder mit
+                                        der Schneiderei überhaupt steht weiß ich freilich noch nicht
+                                        kann daher noch keine Meinung abgeben ob es räthlich sein
+                                        wird hier zu bleiben &amp; meine Familie nachzukommen zu
+                                        lassen. Lange hier zu bleiben &amp; die Familie in London
+                                                <supplied cert="high">z</supplied>u lassen geht
+                                        jedenfalls nicht. <supplied cert="high">S</supplied>o bald
+                                        die Frage entschieden werde <supplied cert="high">i</supplied>ch Nachricht geben.</p>
+                                <p>Gruß Deines J.G. Eccarius</p>
+                                <p>&amp; Grüße an die <seg type="comment"><orig>Familie
+                                                  Marx</orig><note xml:id="nqsm_jvk_dhb"><persName key="pdrPo.001.004.000003075">Jenny
+                                                  Marx</persName> und die Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>,
+                                                  <persName key="pdrPo.001.004.000003068">Eleanor</persName> und <persName key="pdrPo.001.004.000003076">Laura</persName>
+                                                  Marx.</note></seg> &amp; ami <persName key="pdrPo.001.004.000002648">Lafargue</persName></p>
+                                <p><supplied cert="high">C</supplied>are of M<hi rendition="#sup">rs</hi>
+                                        <persName key="ed_ggt_4pn_s3b">Angel</persName>
+                                </p>
+                                <p>Near Mr. <persName key="ed_gqg_jpn_s3b">Ansom</persName>’s
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></p>
+                                <p><?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20190813T131601+0200" comment="Speenhamland is an area within modern Newbury, Berkshire"?>Speen<ex>h</ex>amland<?oxy_comment_end?>
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190410T171252+0200" comment="ins Register?"?></p><?oxy_comment_end?>
+                                <p>Newbury Berks<ex>hire</ex>
+                                        <pb/></p>
+                        </div></body></text></TEI>

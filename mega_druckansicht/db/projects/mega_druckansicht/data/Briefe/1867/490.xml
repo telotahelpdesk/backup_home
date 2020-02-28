@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00500" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>490</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London,
+                    Montag, 23. Dezember 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 475/D 1 144</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            270 × 210 mm. Aufdruck der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx, 8. Januar 1866) auf der
+                            ersten Seite oben links. Die Adresse „65, Fenchurch Street“ hat Borkheim
+                            gestrichen und mit der neuen Adresse in Handschrift ersetzt. Die erste
+                            und die zweite Seite hat Borkheim vollständig beschrieben, die dritte
+                            und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1798</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName>London</placeName>
+                    <date when="1867-12-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <note>Die Beilagen („ein Brief an Ihre liebe Frau“ ; „eine Zeitung“) zum Brief
+                    (siehe Erl.) sind nicht überliefert. Über das beigelegte Weihnachtsgeschenk
+                    („Jupiter“) siehe Erl.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:28Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings,</dateline>
+                    <dateline>93, Bishopsgate St. <hi rendition="#mPrint">E.
+                            C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 23 Dez <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Einliegend ein Brief an <persName key="pdrPo.001.004.000003075">Ihre liebe
+                            Frau</persName>.</orig><note xml:id="nc24_1gl_kgb">Zum Brief<persName key="pdrPo.001.004.000002616"> Louis Kugelmanns</persName> an Jenny
+                            Marx siehe <ref target="B00503"><?oxy_comment_start author="reichhoff" timestamp="20180615T123437+0200" comment="(Br. 493.30–31, 50–53)."?>J.
+                                Marx an L. Kugelmann, 24.12.1867<?oxy_comment_end?></ref> „In der
+                            Zwischenzeit ...“  und Erl. sowie „Nun noch am Schluß ...“.</note></seg>
+                    <seg type="comment"><orig>Hiermit empfangen Sie auch einen Jupiter tonans –
+                            glaube ich – von <persName key="pdrPo.001.004.000002616">Kugelmann</persName>.</orig><note xml:id="ndvc_2gl_kgb">Siehe <ref target="B00494"><?oxy_comment_start author="reichhoff" timestamp="20180615T123523+0200" comment="(Br. 485.19–21)"?>L.
+                                Kugelmann an Marx, 19.12.1867 <?oxy_comment_end?></ref> „Nehmen Sie
+                            diesen abgesetzten Gott ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200113T144634+0100" comment=" 485.19"?>Erl<?oxy_comment_end?>.
+                            Beiname der obersten römischen Gottheit –
+                            <?oxy_comment_start author="lindenberg" timestamp="20191213T120910+0100" comment="https://de.wikipedia.org/wiki/Jupiter_(Mythologie){/kommentar-lb}"?>„Der
+                            Donnerer“<?oxy_comment_end?>.</note></seg> Er ist etwas in die Brüche
+                    gegangen, aber wie sichs für einen Jupiter gehört, sind die Brüche nicht von
+                    Bedeutung.</p>
+                <p><seg type="comment"><orig><orgName key="ed_wyd_rwx_fhb">Lacroix</orgName>
+                            schreiben mir von Brüssel,</orig><note xml:id="nyhw_ggl_kgb"> Siehe <ref target="B00491"><?oxy_comment_start author="reichhoff" timestamp="20180615T123613+0200" comment="(Br. 482.7–12)."?>S.
+                                L. Borkheim an Marx, 18.12.1867 <?oxy_comment_end?></ref>.
+                        </note></seg> sie hätten sich geirrt; meine „<seg type="comment"><orig><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Rede</bibl></orig><note xml:id="nsqm_scy_fhb"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867.</bibl></note></seg> ist nicht verboten;
+                    sie hätten sich aber <hi rendition="#u">nun</hi> nach Paris gewandt an ihr Haus,
+                    zu erfahren, <hi rendition="#u">wie</hi> es damit steht, die Censur betreffend.“
+                    –</p>
+                <p>Jetzt erst wenden sie sich nach Paris! Lauter
+                    Räthsel.</p>
+                <p><seg type="comment"><orig>An <persName key="pdrPo.001.004.000002822">Liebknecht</persName> werde ich 20 Thaler schicken.</orig><note xml:id="npmg_kgl_kgb">Borkheim übersandte Wilhelm Liebknecht das Geld
+                            für die Herausgabe des „<bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratischen Wochenblattes</bibl>“. Siehe <ref target="B00404"><?oxy_comment_start author="reichhoff" timestamp="20180615T123702+0200" comment="(Br. 394.50–54)"?>W.
+                                Liebknecht an Marx, 19.10.<?oxy_comment_end?>1867</ref> „Apropos
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200113T145441+0100" comment="Erl. 394l"?>Erl<?oxy_comment_end?>.,
+                                <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180615T123731+0200" comment=" (Br. 421.6–7)"?>12.11.1867
+                                <?oxy_comment_end?></ref> „I want the money ...“, <ref target="B00436"><?oxy_comment_start author="reichhoff" timestamp="20180615T123800+0200" comment="(Br. 426.26–28)"?>19.11.1867<?oxy_comment_end?></ref>
+                            „Ask E-s ...“ sowie<ref target="B00449"><?oxy_comment_start author="reichhoff" timestamp="20180615T123838+0200" comment="(Br. 439.22–24) "?>
+                                W. Liebknecht an Engels, 26.11.1867<?oxy_comment_end?></ref> „I
+                            don’t know whether M. told you ...“.</note></seg> Allerdings ist es
+                    lächerlich, daß die Leute die 500 nicht ohne <hi rendition="#u">uns</hi>
+                    zusammenbringen können!</p>
+                <p>Da ich Sie nicht gesehen, befürchte ich, Sie sind wieder
+                    bekarbunkelt. <hi rendition="#u">Reichlich</hi> leben und guten Bordeaux
+                    trinken, trotz des teetotalling young man! <pb/> Das ist die beste Medizin!</p>
+                <p>Aus Wien hat man mir eine Zeitung geschickt, die ich Ihnen hiermit zusende. Bitte
+                    um Rückgabe. Ich glaube, die Zeitung kommt von <persName key="pdrPo.001.004.000002557">Kolatschek</persName>. Ich werde ihn über
+                        <persName key="pdrPo.001.004.000002711">Lassalle</persName> aufklären und
+                    ihn ernstlich auf <seg type="comment"><orig>Ihr <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buch</bibl></orig><note xml:id="nm4g_ngl_kgb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>.</note></seg> verweisen.</p>
+                <p>Ich bin heute Abend bachelor. <seg type="comment"><orig><persName key="pdrPo.001.004.000000541">Frau</persName></orig><note xml:id="nrpz_4gl_kgb"><persName key="pdrPo.001.004.000000541">Hannah
+                        Borkheim</persName>.</note></seg> und <seg type="comment"><orig><persName key="pdrPo.001.004.000010218">Junge</persName></orig><note xml:id="nz3q_qgl_kgb"><persName key="pdrPo.001.004.000010218">Frederick
+                                Borkheim</persName>.</note></seg> in Brighton wohin ich morgen
+                    wieder gehe. Donnerstag und Freitag Abend schlafe ich hier. Dann – wieder vom
+                    Montag bis mindestens Freitag.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000001753">Genz</persName></orig><note xml:id="neny_sgl_kgb"><persName key="pdrPo.001.004.000001753">Friedrich von Gentz</persName>. Siehe
+                                <ref target="B00438"><?oxy_comment_start author="reichhoff" timestamp="20180615T124021+0200" comment=" (Br. 428.24–26) "?>S.
+                                L. Borkheim an Marx, 20.11.<?oxy_comment_end?>1867</ref> sowie <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180615T124056+0200" comment=" (Br. 445.20–21)"?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+                    – <persName key="pdrPo.001.004.000003829">Prokesch-Osten</persName> – <seg type="comment"><orig><persName key="ed_dmy_gbt_fhb">Münster</persName></orig><note xml:id="nuzp_vgl_kgb">Offensichtlich
+                                <persName key="ed_dmy_gbt_fhb">Georg Herbert Münster</persName>.
+                            1867 erschien in Leipzig sein Werk „<bibl sameAs="zotero-604880-SC89G4VW" type="primary">Politische Skizzen
+                                über die Lage Europas vom Wiener Congreß bis zur
+                            Gegenwart</bibl>“.</note></seg> – österreichische Hinterlader gegen
+                    Rußland. Das ist klar! <seg type="comment"><orig>Ich lese jetzt die <bibl sameAs="zotero-604880-8UVRAE3L" type="primary">Geschichte des
+                                griechischen Abfalls</bibl> von <persName key="pdrPo.001.004.000003829">Prokesch</persName>.</orig><note xml:id="nfjn_xgl_kgb"><bibl sameAs="zotero-604880-8UVRAE3L" type="primary">Anton Prokesch-Osten: Geschichte des Abfalls der
+                                Griechen vom Türkischen Reiche im Jahre 1821 und der Gründung des
+                                Hellenischen Königreiches. Bd. 1–6. Wien 1867</bibl>. Siehe auch
+                                <ref target="B00422"><?oxy_comment_start author="reichhoff" timestamp="20180615T124252+0200" comment="(Br. 412.32–33)"?>Marx
+                                an Engels, 7.11.1867<?oxy_comment_end?></ref> „Von der beiliegenden
+                            ...“ und Erl.</note></seg> – Ich bin bis über die Ohren beschäftigt.</p>
+                <p>The compliments of the Season an Sie Alle.</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

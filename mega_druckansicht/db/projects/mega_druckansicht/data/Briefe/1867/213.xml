@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_iw1_w4p_rdb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>213</idno>Adolph  N. Davisson an Friedrich Engels in Manchester. Manchester,
+                    Samstag, 2. Februar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt> <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">IISG L 1079/L III 24–2 K Fotosign.
+                            8146.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, blauem Papier im Format
+                            127 × 203 mm. Aufdruck auf der ersten Seite: „A. Davisson.“ (links)
+                            sowie „36, Cooper Street, Manchester“ (mittig) und anschließend das
+                            Datum (rechts). Die erste Seite hat Davisson zu zwei Dritteln
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: der Vermerk mit Bleistift „083000“ oben in der
+                            Mitte auf der zweiten Seite.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 K 128“.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001107">Davisson, Adolph N.</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>|<hi rendition="#mPrint"> </hi><hi rendition="#mPrint">A. Davisson.</hi>
+                        <lb/>
+                        <hi rendition="#mPrint">36, Cooper Street,</hi>
+                        <lb/><hi rendition="#mPrint"> Manchester</hi> d. 2<hi rendition="#sup">t</hi> Feb. <hi rendition="#mPrint">186</hi>7 </dateline>
+                    <salute>Lieber H. Engels,</salute>
+                </opener>
+				<p>Morgen wird im <hi rendition="#u">Thatched House</hi> meine Geburtstagsfeier stattfinden
+                    &amp; bitte ich Sie zu einem kleinen supper Sich precise 8 Uhr einfinden zu
+                    wollen.</p>
+				<closer>
+					<salute>Freundschaftlichst grüßend</salute>
+					<signed>ADavisson</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

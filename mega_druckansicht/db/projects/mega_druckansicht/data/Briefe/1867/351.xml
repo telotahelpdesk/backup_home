@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00360" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>351</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Dienstag, 24. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 455/D I 124. Fotosign.
+                            9679&lt;a–b&gt;</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            258 × 204 mm. Wasserzeichen: „Extra Superfine A C &amp; S“. Aufdruck der
+                            Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler
+                                &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an
+                            Marx, 8. Januar 1866) auf der ersten Seite oben links. Borkheim hat die
+                            ersten zwei Seiten vollständig, die dritte zu einem Drittel beschrieben,
+                            die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1737</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-09-24"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:52Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 24 Sept
+                            <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Gestern habe ich meine Erzählung an die „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“
+                            geschickt.</orig><note xml:id="bf3cb86e-35e5-4ac8-ab20-f9d80d216713">Borkheims Artikel in der „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ konnte nicht ermittelt werden.
+                            Vermutlich nach wurde sein Beitrag von der Redaktion der Zeitung
+                            abgelehnt.</note></seg></p>
+                <p>Morgen sende ich <seg type="comment"><orig>mein deutsches und französisches
+                            Manuscript in die Schweiz</orig><note xml:id="a96fed43-81ac-4ad6-aa8b-ce78794e3dbc">Siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180529T134432+0200" comment="(Br. 331.4–6"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190704T153807+0200" comment="331b"?>Erl.<?oxy_comment_end?>).</note></seg>.</p>
+                <p>Wo kann ich <seg type="comment"><orig>eine gute
+                            Übersetzung des <persName key="pdrPo.001.004.000011619">Tasso</persName>
+                            Gerusalemme liberata</orig><note xml:id="fab9fb1b-c100-4cb7-af8d-4e6e38c35639">
+                            <p> Borkheim zitierte in der Vorrede zu seiner Schrift „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Ma Perle Devant
+                                    le Congrès de Genève …</bibl>“ folgende an „<hi rendition="#u">l’Assamblée de Genève“</hi> adressierte Stelle aus Torquato
+                                Tasso: Gerusalemme liberata IV, 5: „Qui mille immonde Arpie
+                                vedresti, e mille / Centauri, e Sfingi, e pallide Gorgoni; / Molte e
+                                molte latrar voraci Scille, / E fischiar Idre, e sibilar Pitoni; / E
+                                vomitar Chimere atre faville, / E Polifemi orrendi, e Gerioni; / E’n
+                                novi mostri, e non pui intesi o visti / Diversi aspetti in un
+                                confusi e masti.“ (Siehe [Sigismund Ludwig Borkheim:] Ma perle
+                                devant le Congrès de Genève … Préface. [S. 5].).</p>
+                        </note></seg> und <seg type="comment"><orig>des <persName key="pdrPo.001.004.000010811">Juvenal</persName></orig><note xml:id="f8eee93e-0a39-4ea4-9066-d2bf1a35b12b">
+                            <p>Borkheim zitierte in der Vorrede zu seiner Schrift „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Ma Perle Devant
+                                    le Congrès de Genève …</bibl>“ zwei Stellen aus Decimus Iunius
+                                Iuvenalis: Satirae XV, 67–71 und I, 109–116. Die erste wurde „<hi rendition="#u">Aux Génevois“</hi> adressiert: „… Sed quos
+                                valeaut emittere dextrae / Illis dissimiles, et nostro trempore
+                                natae. / Nam genus hoc vivo jam descrescebat Homero. / Terra malos
+                                homines nunc educat atque pussillos. / Ergo Deus quicumque aspexit,
+                                ridet et odit.“ (Siehe [Sigismund Ludwig Borkheim:] Ebenda.) – Die
+                                zweite an „A***“ adressierte Stelle aus Iuvenalis lautet:
+                                „… Expectant ergo tribuni: / Vincant divitae, sacro non cedat honori
+                                / Nuper in hanc urbem pedibus qui venerat albis: / Quandoquidem
+                                inter nos sanctissima divitiarum / Majestas: etsi, funesta Pecunia.
+                                tempo / Nondum habitas, nullas nummorum ereximus aras, / Ut colitur
+                                Pax, atque Fides, Victoria, Virtus, quaeque salutato crepitat,
+                                concordia nido.“ (Siehe [Sigismund Ludwig Borkheim:] Ebenda.
+                                S. 6.).</p>
+                        </note></seg> sehen? Diese alten Herren will ich <seg type="comment"><orig>in meiner kurzen Vorrede zusammen mit <persName key="pdrPo.001.004.000010397">Dante</persName></orig><note xml:id="a061f4c7-2e74-46eb-84e6-d9330796eaf2">
+                            <p>Borkheim zitierte in der Vorrede zu seiner Schrift „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Ma Perle Devant
+                                    le Congrès de Genève …</bibl>“ folgende Stelle aus Dante
+                                Alighieri: La divina commedia. Inferno XVII, 46–51, die er an die
+                                    „<hi rendition="#u">presse européenne</hi>“ adressierte: „Per
+                                gli occhi fuori scoppiava lor duolo: / Di qua, die là soccorien con
+                                le mani, / Quando à vapori, e quando al caldo suolo. / Non
+                                altrimenti fan di state i cani, / Or col ceffo or coi piè, quando
+                                son morsi / O da pulci o da mosche o da tafani.“ (Siehe [Sigismund
+                                Ludwig Borkheim:] Ebenda.).</p>
+                        </note></seg> etwas für mich sagen lassen, da ich zu beschäftigt bin mit
+                    Weinverkauf.</p>
+                <p><seg type="comment"><orig><persName key="ed_eyg_crj_sx">Engels</persName> hat mir
+                            die £ 50 sofort gezahlt.</orig><note xml:id="d011e935-9134-427c-884a-f64b38b225aa">Siehe <ref target="B00355"><?oxy_comment_start author="reichhoff" timestamp="20180529T134608+0200" comment="(Br. 346.4–6)"?>S.
+                                L. Borkheim an Engels, 17.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190704T161849+0200" comment="331.8–13"?>Erl.<?oxy_comment_end?> </note></seg>
+                    Er verweist mich <seg type="comment"><orig>auf die <bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Kölnische</bibl> vom 16<hi rendition="#sup">ten</hi> wo <persName key="pdrPo.001.004.000004961">Vogt</persName>
+                            etwas über mich losgekothet hat.</orig><note xml:id="f12b95e0-6005-43ec-ba3e-ae13976bc8ee"> In der „<bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Kölnischen Zeitung</bibl>“
+                            vom 16. September 1867, Nr 257 (Erstes Blatt) , Sp. 1 erschien ein nicht
+                            namentlich gezeichneter
+                            <?oxy_comment_start author="lindenberg" timestamp="20190724T142327+0200" comment="als Scann vorhanden"?>Artikel<?oxy_comment_end?>
+                            „Der Friedens-Congreß“  in dem es hieß: „Unser Berichterstatter
+                            schreibt:  ...  Wie ich Ihnen schon schrieb, suchte sich gleich von
+                            Anfang an eine gewisse extreme socialistische Richtung Geltung zu
+                            verschaffen, die in der Rede eines gewissen Borkheim gipfelte. So viel
+                            wir wissen, war derselbe im Jahre 1850 in Genf als Flüchtling
+                            Herausgeber eines Schmutzblattes, betitelt: 'Rummel-ti-puff'– Organ der
+                            Bubokratie', und dieser Fahne scheint der Vorkämpfer dieser Richtung
+                            unter den deutschen Arbeitern treu geblieben zu sein. Derselbe verlas
+                            ein Manuscript, das, wie ein schweizer Blatt bemerkte, aus
+                            Fanfarronaden, alt gewordenen Gemeinplätzen, Schlagwörtern und
+                            Beleidigungen bestand. Als er aber einen Rosenkranz der letzteren
+                            abzuleiern begann: 'Wenn wir von Hofschranzen erkaufte Historiker sehen,
+                            wie Sybel, einfältige Commis voyageurs des Zopfthums der Bourgeoisie,
+                            wie Schulze-Delitzsch', ließ Karl Vogt den Redner nicht fortfahren,
+                            sondern verlangte energisch vom Präsidenten den Ordnungsruf mit den
+                            Worten: 'Keine Persönlichkeiten! Keine Beleidigungen Abwesender! Die
+                            Anwesenden werden sich zu vertheidigen wissen!' Der Präsident rief den
+                            Redner zur Ordnung, verbot ihm fernere Persönlichkeiten, und damit war
+                            auch dem Ganzen seiner Rede der Lebensnerv abgeschnitten, und nachdem
+                            der Redacteur des seligen Rummel-ti-puff noch eine Zeit lang
+                            forgefahren, entzog ihm die Versammlung, die vorher noch eine
+                            Protestaktion gegen die Eintheilung der menschlichen Gesellschaft in
+                            Ausbeuter und Ausgebeutete beifällig aufgenommen hattte, das Wort. Es
+                            war augenscheinlich, daß die weitaus große Mehrheit der Versammlung
+                            nicht zu dieser Partei gehörte ...“.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190128T132249+0100" comment="((({auch
+                            von J. Herres 2010 gesucht aber nichts
+                            gefunden.})))."?></note><?oxy_comment_end?></seg>
+                    Meinen Anstrengungen ist es noch nicht gelungen, diese <pb/> Nummer zu
+                    erhaschen. Mit dem Kerl mich besonders einzulassen, fällt mir nicht ein.</p>
+                <p>Die heutige <bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl> bringt
+                    unter dem Titel</p>
+                <p><seg type="comment"><orig>Industry and Trades Unions
+                            abroad</orig><note xml:id="ngd3_rtr_yfb">Industry and Trades’ Unions
+                            abroad. In: The Times. London. Nr. 25 924, 24. September 1867. S. 10,
+                            Sp. 1/2. Borkheim meinte folgende Stelle (Sp. 2): „… The principle of
+                            the co-operation of labour has, of late years, been directed in Prussia
+                            to consequences of a very beneficial kind. As associations of workmen in
+                            England are formed for their protection as consumers, the ostensible
+                            object of Trades’ Unions; as in France they seek to convert the workman
+                            into an employer, in his interest as a producer; so in Prussia similar
+                            coalitions exist for the purpose of aiding labour by credit. These
+                            confederacies are the work of a man of high intelligence and culture;
+                            they have hitherto been remarkably successful, and, in a political and
+                            social point of view, they seem free from any objection. M. Schultze
+                            Delitzsch, a Prussian lawyer, is the originator of these societies …
+                            Proceeding upon the sound notion that labour and capital are allied,
+                            that labour, in fact, is a kind of capital, and that its combined
+                            efforts, when properly directed, can be made fruitful of good to the
+                            labourer, M. Delitzsch devised a scheme for uniting workmen in large
+                            bodies into a kind of partnerships and for making the credit of the
+                            whole body available as a common fund for the wants of the individuals
+                            in it. The rules he laid down to carry out this scheme are marked by
+                            judgment and sound principle. A partnership founded on this system
+                            raises money by the issue of debentures, based on the security of the
+                            entire society; the loans are divided among those who require them under
+                            strict supervision; advances those are confined to members, and every
+                            member is severally liable for the engagements of the collective
+                            body. …“</note></seg> eine Lobhudelei des <persName key="pdrPo.001.004.000004342">Schultze</persName></p>
+                <p>„Labour and capital are allied“ scheint mir
+                    Schwindel,</p>
+                <p>„Labour is a kind of capital“ scheint mir Blödsinn, da labour das einzige Kapital
+                    ist, denn capital, heißt es ja, ist accumulated labour, besser <hi rendition="#uu">the</hi> accumulated labour. Wenn aber capital = labour, so
+                    kann labour weder
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>&lt;<?oxy_custom_end?>capital
+                    noch kann
+                    labour<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>&gt;<?oxy_custom_end?>
+                    capital sein. Welchen Begriff kann denn „kind of capital“ noch haben?</p>
+                <p>Nun sehen Sie – <hi rendition="#u">das</hi> begreife ich
+                    oder besser, <hi rendition="#u">so</hi> verstehe ich <pb/> zu räsonnieren, ohne
+                        <seg type="comment"><orig>Ihr Buch</orig><note xml:id="fb1c2b92-5ca6-4d2e-b8da-dcd3d03e795b"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg> gelesen zu
+                    haben. Wohin werde ich es bringen nachdem ich es durchstudirt,
+                    <?oxy_comment_start author="lindenberg" timestamp="20181130T103940+0100" comment="... so wahr mir Minerva gnädig seyn mag&quot;  Minerva als Schutzgöttin der Dichter und Lehrer sowie Hüterin des Wissens: Siehe:  Lukians von Samosata Sämtliche Werke. Aus dem Griechischen übersetzt und mit Anmerkungen udn Erläuterungen versehen von C. M. Wieland. Sechster Theil. Leipzig 1789. S. 88"?>wozu
+                    mir <seg type="comment"><orig><persName key="ed_b3p_dm3_chb">Minerva</persName></orig><note xml:id="nbd2_1q1_jhb">Die römische
+                            Göttin Minerva galt u. a. als Göttin der Weisheit und Hüterin des
+                            Wissens.</note></seg> gnädig<?oxy_comment_end?>?!</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

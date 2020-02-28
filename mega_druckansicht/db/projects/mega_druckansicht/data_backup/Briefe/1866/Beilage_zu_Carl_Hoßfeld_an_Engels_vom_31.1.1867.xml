@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_cjb_g4v_vy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schuldschein von Carl Hoßfeld für Friedrich Engels in Manchester, Manchester,
+                    Montag, 10. Dezember 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlaß</collection>
+                        <idno><idno type="shelfmark">Sign. L 2433/L IV 386</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p><?oxy_comment_start author="strauss" timestamp="20171124T152025+0100" comment="Das Objekt gehört zum Br.jg. 1867, da er Br. aus Jahr 1867 beilag."?>Der
+                            Schuldschein<?oxy_comment_end?> steht auf einem Blatt mittelstarkem,
+                            weißem Papier im Format 000× 000mm.<?oxy_comment_start author="lindenberg" timestamp="20171106T100610+0100" comment="Noch Anfrage in Amsterdam"?>
+                            <?oxy_comment_end?>Die erste Seite hat Hoßfeld zu zwei Dritteln
+                            beschrieben, die Rückseite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ohr_wh2_sy">Hoßfeld, Carl (-)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1866-12-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Der Schuldschein ist eine Beilage zum Brief von Carl Hoßfeld an Engels vom
+                    31.1.1867.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Manchester, d. 10. Decbr 1866</dateline>
+					<salute/>
+                </opener>
+				<p>Von Herrn F Engels die Summe von <hi rendition="#u">fünf</hi>
+                    <hi rendition="#u">Pfund</hi> darlehensweise erhalten zu haben und verspreche
+                    dieselben im Monat Januar 1867 ehrlich zurückzuzahlen    </p>
+				<closer>
+					<salute/>
+					<signed>CHoßfeld</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

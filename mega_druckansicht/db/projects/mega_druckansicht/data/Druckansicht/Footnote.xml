@@ -1,0 +1,16 @@
+<?xml-model href="file:/home/gordon/MEGA/framework/ediarum.MEGA.edit/schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:m="http://www.w3.org/1998/Math/MathML" telota:doctype="letter mega" xml:id="mega_foot">
+
+    
+    
+    <text>
+        <body>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap [...] <gap reason="lost"/></p>
+            <p><add place="mTop">Text</add></p>    
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap [...] <gap reason="empty"/></p>
+             <p><add place="mTop">Text</add></p>    
+           <p> <del rendition="#s">Tilgung</del></p>
+          <p><add place="mTop">Text</add></p>  
+           <p> <del rendition="#ow">Tilgung</del></p>
+        </body>
+    </text>
+    </TEI>

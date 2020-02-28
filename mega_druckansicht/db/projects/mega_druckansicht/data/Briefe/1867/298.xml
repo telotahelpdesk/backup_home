@@ -1,0 +1,38 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00307" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>298</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Donnerstag, 25. Juli 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 450/D I 119 Fotosign. 9673.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 258 × 204 mm.
+                            Wasserzeichen: „Extra Superfine A C &amp; S“. Aufdruck der Firma
+                                „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp;
+                                    C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx,
+                            8. Januar 1866) auf der ersten Seite oben links. Borkheim hat die erste
+                            Seite vollständig beschrieben, die übrigen drei Seiten sind leer.
+                            Schreibmaterial: schwarze Tinte. </p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1718</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-07-25"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Die Beilage zum Brief („einliegenden Brief“) ist nicht überliefert. Siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:06Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 25 Juli
+                            <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Lesen Sie gefälligst
+                            einliegenden Brief – wenigstens die angestrichene Stelle. Können Sie mir
+                            irgend Auskunft über <persName key="pdrPo.001.004.000002644">Ladendorf</persName> verschaffen?</orig><note xml:id="ed7bcf89-d0a8-4cf1-a68b-9b95142cbf7b"> Vermutlich geht es um
+                            einen Brief von August Ladendorf an Sigismund Ludwig Borkheim,
+                            geschrieben kurz vor dem 25. Juli 1867.</note></seg> Bringen Sie mir den
+                    Brief <seg type="comment"><orig>übermorgen</orig><note xml:id="d17bc5a9-469a-4b24-bd5c-c143ad1c8df6"> 27. Juli 1867. Siehe <ref target="B00304"><?oxy_comment_start author="reichhoff" timestamp="20180517T130116+0200" comment="(Br. 295.13 und Erl.)"?>S.
+                                Borkheim an Marx, 23.7.1867 <?oxy_comment_end?></ref> und
+                            Erl.).</note></seg> mit. –</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000000414">Beust</persName></orig><note xml:id="d69d3a67-0fc2-44f4-8d68-99769473921d"><persName key="pdrPo.001.004.000000414">Friedrich von
+                        Beust</persName>.</note></seg> hat mir nemlich vor einigen Tagen angezeigt,
+                    daß man mich zum <seg type="comment"><orig>„Garanten“</orig><note xml:id="aa84db81-df27-49d9-81d9-1be3f9ea0a5d">Vermutlich geht es um die
+                            Absicht, eine Anleihe zur finanziellen Unterstützung der IAA-Mitglieder
+                            <?oxy_comment_start author="lindenberg" timestamp="20190129T163720+0100" comment="vorher: zu unternehmen"?>aufzunehmen<?oxy_comment_end?>.
+                            Siehe auch <ref target="B00361"><?oxy_comment_start author="reichhoff" timestamp="20180517T130332+0200" comment="(Br. 352.10–11)"?>V.
+                                Schily an Marx, 25.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    erwählt. Ich habe abgelehnt, oder besser angenommen unter Bedingung, daß man die
+                    Gelder zur Unterstützung für Leute wie <seg type="comment"><orig><persName key="pdrPo.001.004.000000317">Becker</persName></orig><note xml:id="nugq_crm_bhb"><persName key="pdrPo.001.004.000000317">Johann
+                                Philipp Becker</persName>.</note></seg> verwendet. Ich werde Ihnen
+                    Korrespondenz zeigen.</p>
+                <closer>Der Ihrige<lb/>Borkheim <pb/></closer>
+            </div></body></text></TEI>

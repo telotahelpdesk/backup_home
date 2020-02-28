@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_thx_3kr_wfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Middle Class Liberalism</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <persName>George Julian Harney</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-11-22</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich, George Julian Harney?:] Middle Class Liberalism. In: Northern Star. Vol. X. Nr. 525, 13. November 1847. S. 5.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Middle Class Liberalism.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1847-11-13</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X</biblScope>
+                        <biblScope unit="issue">525</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                        <biblScope unit="column">2</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <persName>George Julian Harney?</persName>
+                <placeName key="ed_cn4_12j_wx">Paris</placeName>
+                <placeName key="ed_wz2_shs_qx">London</placeName>
+                <date notBefore="1847-11-02" notAfter="1847-11-05">Zwischen 2. und 5. November 1847</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">Middle Class Liberalism.</hi></hi></head>
+                <p><milestone unit="section" rendition="#hr"/></p>
+                <p>The <hi rendition="#i">Reforme</hi> of the 6th instant, contains an account of
+                    the recent Chartist meeting at the Crown and Anchor, of which it speaks in the
+                    following terms: —</p>
+                <p>“This meeting gives us renewed evidence, with whom the Democracy of France
+                    ought to sympathise; whether with the Chartists, those sincere and honest
+                    Democrats — or the Whig-Radical — middle classes, who cannot bear to speak of ‘the Charter’ or ‘Universal Suffrage’, but cannot go further than proclaim themselves partisans for the ‘Complete’.”</p>
+                <p><hi rendition="#c">* * * *</hi></p>
+                <p>The present conduct of the middle classes augurs what we have to expect of them, and how they will fulfil the pledges given at the recent elections.</p>
+                <p><hi rendition="#c">* * * *</hi></p>
+                <p>Witness the conduct of one of the middle class orators, Dr Epps, a timid patriot,
+                    a Reformer in little things, who wishes to conciliate all the world, except the
+                    active and energetic advocates of Democracy. Who burns, he says, to liberate the
+                    people, but will not let them liberate themselves. A worthy representation of
+                    middle class Radicalism.</p>
+                <p>The <hi rendition="#i">Reforme</hi> proceeds to analyse the speech
+                    <?oxy_comment_start author="pagel" timestamp="20181122T122046+0100" comment="In 1. Ausg.: o
+In 2. Ausg. korrigiert"?>of<?oxy_comment_end?>
+                    Dr Epps, and the spirit of his party, against whose luke-warm patriotism and
+                    wily machinations,
+                    <?oxy_comment_start author="pagel" timestamp="20181122T122114+0100" comment="In 1. Ausg.: of
+In 2. Ausg. korrigiert"?>it<?oxy_comment_end?>
+                    warns the Chartists.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

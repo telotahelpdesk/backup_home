@@ -1,0 +1,73 @@
+<config>
+    <scheduler>
+        <!--job type="ediarum" name="set-permissions-for-collection" period="24h">
+            <parameter name="collection" value="/db/projects/PROJEKTNAME/data"/>
+            <parameter name="mode" value="rwxr-xr-x"/>
+            <parameter name="group-name" value="PROJEKTNAME-nutzer"/>
+        </job-->
+        <!--job type="synchronisation" name="NAME" period="12h">
+            <parameter name="type" value="pull"/>
+            <parameter name="target" value="NAME"/>
+        </job-->
+        <!--job type="project" name="my-xquery" period="2h">
+        </job-->
+    </scheduler>
+    <synchronisation>
+        <target type="pull">
+            <label>Initialer Import des Personenregisters</label>
+            <source-server>telotadev.bbaw.de:9200</source-server>
+            <source-resource>/db/projects/mega/data/Register/Personen</source-resource>
+            <source-user>admin</source-user>
+            <source-password>al06hi27</source-password>
+            <target-resource>/db/projects/mega/data/Register/Personen</target-resource>
+            <target-group-name>mega-nutzer</target-group-name>
+            <target-mode>rwxrwx---</target-mode>
+        </target>
+        <target type="push">
+            <label>dev/projects/mega nach public/projects/mega</label>
+            <source-resource>data</source-resource>
+            <target-server>http://localhost:8080/exist/rest</target-server>
+            <target-resource>/db/apps/mega/data</target-resource>
+            <target-user>admin</target-user>
+            <target-password>1234</target-password>
+        </target>
+    </synchronisation>
+    <zotero>
+        <connection id="d70c355b-56c3-4a7c-9104-1231179d6fd0">
+            <label>MEGA-Zoterodatenbank</label>
+            <group-id>604880</group-id>
+            <api-key>xYjYjYMHBnjRnlcpjSEwIJbv</api-key>
+        </connection>
+    </zotero>
+    <indexes>
+        <index id="mega-primaer" type="zotero">
+            <label>MEGA-Primärquellen</label>
+            <parameter name="connection-id" value="d70c355b-56c3-4a7c-9104-1231179d6fd0"/>
+            <parameter name="collection-id" value=""/>
+        </index>
+        <index id="places" type="ediarum">
+            <label>Ortsregister</label>
+            <parameter name="status" value="active"/>
+        </index>
+        <index id="organisations" type="ediarum">
+            <label>Körperschaftsregister</label>
+            <parameter name="status" value="active"/>
+        </index>
+        <index id="persons" type="ediarum">
+            <label>Personenregister</label>
+            <parameter name="status" value="active"/>
+        </index>
+        <index id="items" type="ediarum">
+            <label>Sachbegriffe</label>
+            <parameter name="status" value="active"/>
+        </index>
+        <index id="bibliography" type="ediarum">
+            <label>Werkregister</label>
+            <parameter name="status" value="active"/>
+        </index>
+        <index id="letters" type="ediarum">
+            <label>Briefregister</label>
+            <parameter name="status" value="active"/>
+        </index>
+    </indexes>
+</config>

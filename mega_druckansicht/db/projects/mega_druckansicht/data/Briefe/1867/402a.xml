@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00412" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+        <title><idno>402a</idno>Christopher Kay an Friedrich Engels in Manchester. Winsford,
+          Samstag, 2. November 1867</title>
+      </titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 2725/L V 213–1 Fotosign. 14830.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 183 × 139 mm.
+              Wasserzeichen: „[A Cow]an &amp; Sons“. Prägung: „Winsford Lodge. Cheshire.“ Die erste
+              und zweite Seite hat Kay vollständig beschrieben, die dritte und die vierte Seite sind
+              leer. Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 3 d. 62, Bl</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+          <persName key="ed_z4m_fpd_xx">Kay, Christopher (-)</persName>
+          <placeName key="ed_dbh_5mv_vy">Winsford</placeName><date when="1867-11-02"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+        <note>Zur Datierung: Der mit „Nov<hi rendition="#sup">r</hi> 2<hi rendition="#sup">nd</hi>“
+          datierte Brief steht im Zusammenhang mit der überlieferten Quittung von Christopher Kay
+          vom 2. November 1867 (siehe „remitting your subscription“ und Wiedergabe der Beilage).
+          Diese Quittung ist dem Konvolut mit den anderen, chronologisch überlieferten
+          Empfangsbescheinigungen vom 9. November 1866 (siehe <ref target="B00190"><?oxy_comment_start author="lindenberg" timestamp="20190226T180905+0100" comment="Br. 184a und S. 000 [ZB184a]"?>Chr.
+            Kay an Engels, 9.11.1866<?oxy_comment_end?></ref>) und vom 26. November 1868 (IISG,
+          Marx-Engels-Nachlass, Sign. M 18/M 14&lt;a&gt;. Fotosign. 14831) zugehörig, die davon
+          zeugen, daß Engels seinen Beitrag für Cheshire Hunt Covert Fund jährlich im November
+          bezahlte.</note>
+        <note>Wiedergabe der Beilage:</note>
+        <note><ref target="mega_qxz_vgf_pgb">Die Empfangsbescheinigung (Quittung mit dem Aufdruck
+            der Cheshire Hunt Covert Fund) von Christopher Kay für Friedrich Engels.</ref></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:27Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> Nov<hi rendition="#sup">r</hi> 2<hi rendition="#sup">nd</hi></dateline>
+          <salute>Dear Sir.</salute>
+        </opener>
+        <p>I am much obliged to you for remitting your subscription to the <seg type="comment"><orig>Covert Fund</orig><note xml:id="ngyf_5xv_1gb">Siehe <ref target="B00190"><?oxy_comment_start author="lindenberg" timestamp="20190226T181152+0100" comment="{Jg. 1866}Erl. 184aa.
+{Cheshire Hunt Covert Fund} "?>Chr.
+                Kay an Engels, 9.11.1866</ref><?oxy_comment_end?></note></seg> &amp; I have no doubt
+            <persName key="ed_spp_3vr_dhb">M<hi rendition="#sup">r</hi> Corbet</persName> will, as
+          far as practicable meet the views of our Manchester friends.</p>
+        <closer>Truly yours<lb/>Chris Kay</closer>
+        <closer>F. Engels Esq<hi rendition="#sup">re</hi>
+          <pb/></closer>
+      </div></body></text></TEI>

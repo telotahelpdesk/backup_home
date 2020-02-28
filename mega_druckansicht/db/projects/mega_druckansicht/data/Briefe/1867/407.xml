@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00417" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>407</idno>Joseph Dietzgen an Karl Marx in London. Sankt
+                                        Petersburg, Dienstag, 5. November 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 1030/D II 15
+                                                  Fotosign. 2330&lt;a–h&gt;.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus zwei Blättern
+                                                  mittelstarkem, weißem Papier im Format
+                                                  206 × 272 mm. Alle vier Seiten hat Dietzgen
+                                                  vollständig beschrieben. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von Marx’ Hand: alle Vermerke mit schwarzer
+                                                  Tinte: Auf der zweiten Seite: Die Passage „Das
+                                                  Fundament {bis} Denkprozesses“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190228T134346+0100" comment="(Z. 39–40)"?>angestrichen<?oxy_comment_end?>,
+                                                  in eckige Klammern gesetzt und am linken
+                                                  Seitenrand dazu „Bravo!“ notiert; neben der
+                                                  Passage „Alles <hi rendition="#u">Sein</hi> {bis}
+                                                  beständiges Sein“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190228T134410+0100" comment="(Z. 49–50)"?>am<?oxy_comment_end?>
+                                                  linken Seitenrand: „Schelling!“ geschrieben; auf
+                                                  der dritten Seite: Über den Worten „Der fade
+                                                  Büchner“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190228T134429+0100" comment="(Z. 66–67)"?>der<?oxy_comment_end?>
+                                                  Vermerk: „Well said!“; die Passage „‚Die Kraft
+                                                  lässt sich nicht sehen {bis} pure Kraft.“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190228T134448+0100" comment="(Z. 72–73)"?>ist<?oxy_comment_end?>
+                                                  mit einem Ausrufezeichen versehen.</p>
+                                                <p/>
+                                                <p>Datierung in der Erstveröffentlichung: 7.
+                                                  November 1867.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2114</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-8HKY7X9Q">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Briefe
+                                                  von Karl Marx an Dr. L. Kugelmann
+                                                  (1902).<?oxy_custom_end?>
+                                                S. 126–128.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001158">Dietzgen, Joseph
+                                                (1828-1888)</persName>
+                                        <placeName>Sankt Petersburg</placeName>
+                                        <date when="1867-11-05"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                </correspAction>
+                                <note>Zur Datierung:
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190228T163008+0100" comment="Wirklich von der Hand Dietzgens -- Korrektur von Sept. --&gt; Noveb."?><?oxy_custom_start type="oxy_content_highlight" color="153,255,255" mid="5"?>Dietzgen
+                                        datierte<?oxy_comment_end?><?oxy_custom_end mid="5"?> den
+                                        Brief mit 24. Oktober/7. November 1867.
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190228T162823+0100" comment="(Z. 113)"?>Der<?oxy_comment_end?>
+                                        24. Oktober nach dem julianischen Kalender entspricht
+                                        eigentlich dem 5. November 1867 des gregorianischen
+                                        Kalenders.</note>
+                                <note>Marx legte den Brief Dietzgens seinem Brief an Louis Kugelmann
+                                        vom 7. Dezember 1867 bei (siehe <ref target="B00474"><?oxy_comment_start author="lindenberg" timestamp="20190228T135051+0100" comment="Br. 465.8–9"?>Marx
+                                                an L. Kugelmann,
+                                        7.12.1867<?oxy_comment_end?></ref>). Überliefert ist eine
+                                        Kopie des Briefes von Dietzgen, angefertigt von <persName key="pdrPo.001.004.000002615">Gertrud
+                                                Kugelmann</persName> (IISG, Marx-Engels-Nachlass,
+                                        Sign. C 343/C 102a).</note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:47:31Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <p><pb/> Herrn Dr. Karl Marx in London.</p>
+                                <p>Hochverehrter Herr!</p>
+                                <p>Gestatten Sie, ich bitte, Ihnen unbekannterweise meine Huldigung
+                                        darzubringen, für die unschätzbaren Verdienste, welche Sie
+                                        durch Ihre Forschungen sich sowohl um die Wissenschaft, wie
+                                        speziell um die Arbeiterklasse erworben haben. In früher
+                                        Jugend schon, als ich den überreichen Inhalt Ihrer Schriften
+                                        mehr nur zu ahnen, als zu verstehn vermochte, wurde ich
+                                        davon gefesselt und konnte nicht unterlassen zu lesen und
+                                        wieder zu lesen, bis ich mir zu selbstgenügender Klarheit
+                                        verholfen hatte. Die Begeisterung, welche nun das Studium
+                                                <seg type="comment"><orig>Ihres jüngst in Hamburg
+                                                  erschienenen Werkes</orig><note xml:id="d0a89e78-98be-42ae-b721-4ddf7d88a469"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx.
+                                                  Das Kapital. Bd. 1. Buch 1. Hamburg
+                                                  1867</bibl>.</note></seg> in mir erregt, reißt
+                                        mich zu der vielleicht zudringlichen Unbescheidenheit hin,
+                                        Ihnen meine Anerkennung, Verehrung und Dankbarkeit bezeugen
+                                        zu wollen.</p>
+                                <p><seg type="comment"><orig>Das in Berlin erschienene 1 Heft „Zur
+                                                  Kritik der politischen Oekonomie“</orig><note xml:id="a1e7f75b-1e2c-459c-b5e8-9a78b0b2e69b">Karl
+                                                  Marx: Zur Kritik der Politischen Oekonomie. Erstes
+                                                  Heft. Berlin 1859. (MEGA<hi rendition="#sup">2</hi> II/2. S. 95–245.)</note></seg> habe ich
+                                        seiner Zeit mit vielem Fleiße studirt, und gestehe, daß
+                                        niemals ein Buch, wie volouminös auch immer, mir soviel
+                                        neue, positive Erkenntniß und Belehrung gebracht hat, wie
+                                        dies kleine Heft. So habe ich denn die Fortsetzung mit
+                                        vieler Ungeduld erwartet. </p>
+                                <p>Sie sprechen es zum erstenmal in klarer, unwiderstehlicher,
+                                        wissenschaftlicher Form aus, was von jetzt ab die <hi rendition="#u">bewusste</hi> Tendenz der
+                                        geschichtlichen Entwicklung sein wird, nähmlich, die bisher
+                                        blinde Naturmacht des gesellschaftlichen
+                                        Produktionsprozesses dem menschlichen Bewusstsein zu
+                                        unterordnen. Dieser Tendenz den Verstand gegeben, zu der
+                                        Einsicht verholfen zu haben, daß unsere Produktion kopflos
+                                        ist, <pb/> das ist Ihre unsterbliche That, hochverehrter
+                                        Herr! Allgemeine Anerkennung dafür wird und muß die Zeit
+                                        Ihnen bringen.</p>
+                                <p>Zwischen den Zeilen Ihres Werkes lese ich, daß die Voraussetzung
+                                        Ihrer gründlichen Oekonomie eine gründliche Philosophie ist.
+                                        Da letztere mir viel Arbeit gemacht hat, kann ich den Wunsch
+                                        nicht unterdrücken, Ihnen mit dem Bekenntniß, daß ich ein
+                                        nur elementarisch geschulter Lohgerber bin, kurze
+                                        Mittheilung von <hi rendition="#u">meinen</hi>
+                                        wissenschaftlichen Bestrebungen zu machen.</p>
+                                <p>Mein Gegenstand war, von früh an, eine systematische
+                                        Weltanschauung. <persName key="pdrPo.001.004.000001518">Ludwig Feuerbach</persName> hat mir den Weg dazu
+                                        gezeigt. Vieles jedoch verdanke ich eigener Arbeit, so daß
+                                        ich nun von mir sagen darf: die <hi rendition="#u">allgemeinen Dinge</hi>, die Natur des Allgemeinen,
+                                        oder das „Wesen der Dinge“ ist mir wissenschaftlich klar.
+                                        Was mir zu wissen übrig bleibt, sind die <hi rendition="#u">besondern Dinge</hi>. Da ich davon Einzelnes weiß,
+                                        sage ich mir, daß Alles zu wissen für den Einzelnen zu viel
+                                        ist.</p>
+                                <p><?oxy_comment_start author="lindenberg" timestamp="20190228T143210+0100" comment="{am Seitenrand{Marx’Text: times_10}}Bravo!{/am Seitenrand{/Marx’Text: times_10}}[[Das Fundament aller Wissenschaft besteht in der Erkenntniß des Denkprozesses.]]"?>Das
+                                        Fundament aller Wissenschaft besteht in der Erkenntniß des Denkprozesses.<?oxy_comment_end?>
+                                        <hi rendition="#u">Denken heißt aus dem sinnlich Gegebenen,
+                                                aus dem Besondern das Allgemeine entwickeln</hi>.
+                                        Die Erscheinung bildet das <hi rendition="#u">nothwendige</hi> Material des Denkens. Sie muß
+                                        gegeben sein, bevor das Wesen, das Allgemeine oder Abstrakte
+                                        zu finden ist. Das Verständniß dieser Thatsache enthält die
+                                        Lösung aller philosophischen Räthsel. Die Frage z.B. nach
+                                        Anfang u. Ende der Welt gehört nicht mehr in die
+                                        Wissenschaft, wenn die Welt nur Voraussetzung, aber nicht
+                                        Resultat des Denkens oder Wissens sein kann.</p>
+                                <p><?oxy_comment_start author="lindenberg" timestamp="20190228T143704+0100" comment="Das Wesen des Gedankes ist die Zahl. Alle logischen Unterschiede sind rein quantitativ. {am Seitenrand{Marx’Text: times_10}}Schelling!{/am Seitenrand{/Marx’Text: times_10}}"?>Das
+                                        Wesen des Gedankes ist die Zahl. Alle logischen Unterschiede
+                                        sind rein quantitativ.<?oxy_comment_end?> Alles <hi rendition="#u">Sein</hi> ist ein mehr oder minder
+                                        beständiges Scheinen, aller <hi rendition="#u">Schein</hi>
+                                        ein mehr oder minder beständiges Sein.</p>
+                                <p>Alle Ursachen sind Wirkungen und umgekehrt. Innerhalb einer <hi rendition="#u">nacheinanderfolgenden</hi> Reihe von
+                                        Erscheinungen heißt das <hi rendition="#u">allgemein</hi>
+                                        Vorhergehende Ursache. Von 5 Vögeln fliegen z.B. in Folge
+                                        eines Schusses 4 auf <pb/> und davon. Also heißt der <hi rendition="#u">Schuß</hi> Ursache, daß 4 fliegen und
+                                        Unerschrockenheit Ursache, daß 1 sitzt. Fliegt aber
+                                        umgekehrt 1 und 4 sitzen, so heißt nicht mehr der Schuß,
+                                        sondern die <hi rendition="#u">Schreckbarkeit</hi> Ursache
+                                        des Fliegens. <seg type="comment"><orig>Ein <persName key="ed_x24_qcs_dhb">berühmter Physiker</persName>
+                                                  schreibt: „Die Wärme selbst vermögen wir nicht
+                                                  wahrzunehmen, wir schließen nur aus den
+                                                  Erscheinungen auf das Vorhandensein dieses Agens
+                                                  in der Natur.“</orig><note xml:id="e33d7112-4fc2-4f22-830f-86226d6b7c90">Joseph Dietzgen führt diese Beschreibung der
+                                                  Wärmewirkung in seinem Werk „<bibl sameAs="zotero-604880-7NKA84MV" type="primary">Das
+                                                  Wesen der menschlichen Kopfarbeit</bibl>.
+                                                  Dargestellt von einem Handarbeiter. Eine
+                                                  abermalige Kritik der reinen und praktischen
+                                                  Vernunft“, Hamburg 1869“, S. 42f., 85, als eine
+                                                  Aussage <persName key="ed_x24_qcs_dhb">Karl
+                                                  Koppes</persName> an. Der genaue, auch hier als
+                                                  Zitat gekennzeichnete Wortlaut, ließ sich bei
+                                                  Koppe nicht
+                                                  nachweisen<?oxy_comment_start author="lindenberg" timestamp="20190228T150626+0100" comment=" {kommentar-lb}Zitatstellen geprüft, Buch digitalisiert im Netz vorhanden{/kommentar-lb}"?>.<?oxy_comment_end?>
+                                                  Möglichwerweise bezieht sich Dietzgen auf eine
+                                                  Aussage in einer der Ausgaben von:<bibl sameAs="zotero-604880-SNWBAAKU" type="primary">
+                                                  Karl Koppe: Anfangsgründe der Physik für den
+                                                  Unterricht in den oberen Klassen der Gymnasien
+                                                  [...]</bibl>. Die 1. Auflage erschien in Essen
+                                                  1847, die 9. Auflage 1867.</note></seg> Ich
+                                        umgekehrt schließe aus der Unwahrnehmbarkeit der „Wärme
+                                        selbst“ auf das Nichtvorhandensein dieses Agens und verstehe
+                                        die Erscheinungen oder Wirkungen der Wärme als Materiatur,
+                                        woraus sich der Kopf den abstrakten Begriff Wärme bildet.
+                                        Nennen wir ohne Verwechslung der Begriffe das Konkrete,
+                                        Sinnliche <hi rendition="#u">Stoff</hi>, dann ist das
+                                        Abstraktum desselben die <hi rendition="#u">Kraft</hi>. Beim
+                                        Abwägen eines Waarenballens wird ohne Rücksicht auf den
+                                        Stoff der Gewichtstücke die Schwer<hi rendition="#u">kraft</hi> pfundweise gehandhabt. Der fade
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190228T144824+0100" comment="Der fade {Marx’Text: times_10}(Well said!){/Marx’Text: times_10} Büchner sagt"?>(Well said!)<?oxy_comment_end?>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000000656">Büchner</persName>
+                                                  sagt: „Now what I want is—facts“</orig><note xml:id="e161dcba-b684-4ba1-ad71-b706c5da43f5">Eigentlich <bibl sameAs="zotero-604880-Q3IJD3JW" type="primary">Charles Dickens: Hard times.</bibl>
+                                                  Bei <persName key="pdrPo.001.004.000001153">Dickens</persName>: „Now, what I want is, Facts.
+                                                  Teach these boys and girls nothing but Facts.
+                                                  Facts alone are wanted in life. Plant nothing
+                                                  else, and root out everything else. You can only
+                                                  form the minds of reasoning animals upon Facts:
+                                                  nothing else will ever be of any service to them.“
+                                                  <persName key="pdrPo.001.004.000000656">Büchner</persName> benutzte diese Stelle aus dem
+                                                  Roman von Dickens als Epigraph für das Vorwort zu
+                                                  seinem Werk „<bibl sameAs="zotero-604880-5N8IRVKT" type="primary">Kraft und Stoff“. Siehe Louis
+                                                  Büchner: Kraft und Stoff.
+                                                  Empirisch-naturphilosophische Studien. In
+                                                  allgemein-verständlicher Darstellung. Frankfurt a.
+                                                  M. 1855.</bibl> S. [VII]<?oxy_comment_start author="lindenberg" timestamp="20190228T145038+0100" comment="{kommentar-lb}Büchner- u. Dickens-Zitatstelle geprüft, Bücher digitalisiert im Netz vorhanden{/kommentar-lb}"?>.<?oxy_comment_end?>
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?></note></seg><?oxy_custom_end?>,
+                                        but he does not <hi rendition="#u">know</hi> what he wants;
+                                        der Wissenschaft geht es nicht sowohl um Thatsachen, als um
+                                        die <hi rendition="#u">Erklärungen</hi> der Thatsachen,
+                                        nicht um Stoffe, sondern um Kräfte. Wenn auch in der
+                                        Wirklichkeit Kraft u. Stoff indentisch sind, ist ihre
+                                        Unterscheidung, die Trennung des Besondern u. Allgemeinen
+                                        doch mehr wie berechtigt.
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190228T145519+0100" comment="„Die Kraft lässt sich nicht sehen.“ {am Seitenrand{Marx’Text: times_10}}!{/am Seitenrand{/Marx’Text: times_10}}Ei ja, das Sehen selbst und das was wir sehen, ist pure Kraft."?>„Die
+                                        Kraft lässt sich nicht sehen.“ Ei ja, das Sehen selbst und
+                                        das was wir sehen, ist pure Kraft.<?oxy_comment_end?> Wir
+                                        sehen wohl nicht die Dinge „selbst“, sondern nur ihre
+                                        Wirkungen auf unsere Augen. Der Stoff ist unvergänglich, das
+                                        heißt nur, überall u. zu allen Zeiten ist Stoff. Der Stoff
+                                        erscheint, und die Erscheinungen sind stofflich. Der
+                                        Unterschied zwischen Schein und Wesen ist nur <hi rendition="#u">quantitativ</hi>. Das Denkvermögen
+                                        setzt zusammen, aus dem Vielen das Eine, aus Theilen das
+                                        Ganze, aus dem Vergänglichen das Unvergängliche, aus den
+                                        Accidenzen die Substanz.</p>
+                                <p>Moral. Unter Moral versteht die Welt die Rücksichten welche der
+                                        Mensch sich und dem Nebenmenschen zum Zweck des eigenen
+                                        Heils zollt. Zahl u. Grad dieser Rücksichten bestimmen
+                                        verschiedene Menschen und Menschenkreise verschieden. Den
+                                        Kreis gegeben, vermag die Denkkraft nur das Allgemeine vom
+                                        besondern Recht zu trennen. Was ist Zweck? Was ist Mittel?
+                                        Dem abstrakten menschlichen Heil gegenüber sind <hi rendition="#u">alle</hi> Zwecke Mittel und insofern
+                                        gilt unbedingt der Grundsatz: „der Zweck heiligt das
+                                        Mittel.“ </p>
+                                <p><pb/> Wenn nicht der Mangel an Gelehrsamkeit mich hinderte, würde
+                                        ich über diese Themaes ein Werk schreiben, soviel Neues
+                                        glaube ich davon zu wissen.</p>
+                                <p>Entschuldigen Sie, verehrter Herr! daß ich mir anmaßte derart
+                                        Ihre Zeit und Aufmerksamkeit in Anspruch zu nehmen. Ich
+                                        vermeinte Sie durch den Beweiß erfreuen zu können, daß die
+                                        Philosophie eines Handarbeiters klarer ist, wie
+                                        durchschnittlich unsere heutige Professoren-Philosophie.
+                                        Ihren Beifall würde ich höher schätzen, als wenn irgend eine
+                                        Akademie mich wollte zu ihrem Mitgliede ernennen.</p>
+                                <p>Ich schließe mit der nochmaligen Versicherung, daß ich den
+                                        innigsten Antheil nehme an Ihren über unsere Zeit weit
+                                        hinausreichenden Bestrebungen. Die sociale Entwicklung, der
+                                        Kampf um die Herrschaft der Arbeiterklasse interessirt mich
+                                        lebhafter wie die eigenen Privat-Angelegenheiten. Ich
+                                        bedaure nur nicht thätiger dabei mitwirken zu können.</p>
+                                <p><seg type="comment"><orig>Allons enfants pour la
+                                                  patrie!</orig><note xml:id="aeeff76e-6117-4550-b398-45b944380ca5"><persName key="pdrPo.001.004.000004097">Claude
+                                                  Joseph Rouget de Lisle</persName>: La
+                                                  Marseillaise.</note></seg></p>
+                                <closer>Joseph Dietzgen<lb/>Meister der Wladimir’schen
+                                        Lederfabrik<lb/>Wasili Ostrow, St Petersburg.</closer>
+                                <closer>Oktob. 24/<seg type="comment"><orig>Nove<ex>m</ex>b. 7.
+                                                  1867.</orig><note xml:id="neht_h5w_1gb"><note xml:id="cb619ad7-b20a-4273-ba7a-e9f40862ccc4">Eigentlich müßte es der 5. November
+                                                  sein.</note></note></seg>
+                                        <pb/></closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

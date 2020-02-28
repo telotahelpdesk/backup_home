@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00433" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>423</idno>Karl Speyer an Karl Marx in London. London, Donnerstag, 14. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1766</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, blauem Papier im Format
+                            248 × 196 mm. Die erste Seite hat Speyer vollständig, die zweite zu
+                            einem Drittel beschrieben, die dritte und die vierte Seite sind leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts
+                                (IMĖ): „Rj 6&lt;a–b&gt;“.</p>
+                    </physDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_fsr_rk5_zcb">Speyer, Carl (1845-)</persName><placeName>London</placeName><date when="1867-11-14"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:41Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> London the 14/11 67.<lb/>68 Warren
+                        Street<lb/>Fitzroy Square.<lb/>W.</dateline>
+                    <salute>Werther Herr D<hi rendition="#sup">r</hi>
+                        Marx!</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ich erlaube mir, Sie hiermit an die Adresse
+                                W. <persName key="pdrPo.001.004.000002822">Liebknechts</persName> zu
+                            erinnern; <persName key="ed_l54_cks_xy">Leßner</persName> glaubte Sie
+                            hätten es durch Ihr Unwohlsein vergessen.</orig><note xml:id="bf6f1a84-326d-4ea5-8c84-07c82a7c69a2">Siehe <ref target="B00381"><?oxy_comment_start author="reichhoff" timestamp="20180611T120937+0200" comment="(Br. 371.3–5)."?>F.
+                                Leßner an Marx, 8. Oktober 1867
+                        <?oxy_comment_end?></ref>.</note></seg> Ich wünsche Ihnen von Herzen, daß
+                    Sie in diesem Augenblicke wieder wohl sein mögen.</p>
+                <p>Bitte schicken Sie mir nun sogleich die bekannte
+                    Adresse, damit wir doch nicht so zu sehr deutsch d.h. zu spät <pb/> hintennach
+                    kommen.</p>
+                <p>Es grüßt Sie</p>
+                <closer>Achtungsvoll<lb/>Ihr ergebenster<lb/>Charles Speyer
+                    <pb/></closer>
+            </div></body></text></TEI>

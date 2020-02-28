@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_x4b_nqg_4fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Heinrich Bürgers. Vor Donerstag, 2. Mai 1867 </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date when="1867-05-01" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000000664">Bürgers, Heinrich (1820-1878)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00262"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Marx an Heinrich Bürgers, geschrieben vor dem 2.
+                    Mai 1867; siehe <ref target="B00262"><?oxy_comment_start author="lindenberg" timestamp="20181023T100803+0200" comment="Br. 253"?>Heinrich
+                        Bürgers an Karl Marx in London. Düsseldorf, Donnerstag, 2. Mai
+                        1867.<?oxy_comment_end?></ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

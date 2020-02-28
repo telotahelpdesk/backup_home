@@ -1,0 +1,499 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00461" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>451</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Samstag, 30. November 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4507/L VI
+                                                  639</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format 224 × 180 mm. Prägung:
+                                                  Schild mit einer Krone. Alle vier Seiten hat Marx
+                                                  vollständig beschrieben. Die letzte Passage
+                                                  (<?oxy_comment_start author="lindenberg" timestamp="20190318T083607+0100" comment="Z. 92–93"?>„Da
+                                                  Moses ein Vetter von <hi rendition="#u">Hirsch</hi>, wundert’s mich nicht, daß er selbst
+                                                  ein Geweih trägt. He bears it
+                                                  proudly.“<?oxy_comment_end?>) plazierte er auf der
+                                                  ersten Seite oben kopfstehend. Schreibmaterial:
+                                                  schwarze Tinte.</p>
+                                                <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung
+                                                  des Briefes bzw. der beschriebenen Seiten mit
+                                                  Bleistift: „63,1“ bis „63,4“.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2129</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness>
+                                                <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw
+                                                  3 (1913).<?oxy_custom_end?> S. 433–436.</bibl>
+                                        </witness>
+                                        <witness>
+                                                <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                                                  III/3 (1930).<?oxy_custom_end?> S. 455–458.</bibl>
+                                        </witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1867-11-30"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                                <correspContext>
+                                        <ref type="prev" target="B00459"/>
+                                </correspContext>
+                                <note>Marx beantwortet Engels’ Brief vom 30. November 1867 (<ref target="B00459"><?oxy_comment_start author="lindenberg" timestamp="20190316T150104+0100" comment="Br. 449)"?>Engels
+                                                an Marx,
+                                        30.11.1867</ref><?oxy_comment_end?>).</note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:48:05Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Lond. 30. Nov.
+                                                1867.</dateline>
+                                        <salute>Dear Fred,</salute>
+                                </opener>
+                                <p>Mit Bezug auf <seg type="comment"><orig><persName key="ed_ygm_hhs_ncb">Moses</persName> werde ich
+                                                  genau Dein Recept befolgen.</orig><note xml:id="f12d4eb6-2609-4a3f-b4fc-d60af9cde8ba"><persName key="ed_ygm_hhs_ncb">Moses
+                                                  Heß</persName>. Siehe <ref target="B00459"><?oxy_comment_start author="reichhoff" timestamp="20180613T094401+0200" comment="(Br. 449.2–14)."?>Engels
+                                                  an Marx,
+                                                  30.11.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        Jedenfalls müssen wir den Mann brauchen u. zugleich,
+                                        verhindern, daß er uns mißbraucht. <seg type="comment"><orig>Mit Bezug auf <persName key="ed_ts3_qm2_sy">Hilberg</persName> wäre es in
+                                                  <expan>d<ex>er</ex></expan> That gut, wenn man
+                                                  diese einzige uns bis jezt offne Revue festhalten
+                                                  könnte</orig><note xml:id="nrwt_stg_2gb">Siehe<ref target="B00459"><?oxy_comment_start author="reichhoff" timestamp="20180613T094459+0200" comment="(Br. 449.41–43)"?>
+                                                  Engels an Marx,
+                                                  30.11.1867<?oxy_comment_end?></ref> „Apropos. ...“
+                                                  und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191206T141231+0100" comment="412f."?>Erl<?oxy_comment_end?>. </note></seg>,
+                                        aber wie? ist mir noch nicht klar. Ich habe heute Morgen
+                                                <seg type="comment"><orig>copy <persName key="pdrPo.001.004.000004311">Schorlemmers</persName></orig><note xml:id="f721d9f5-de3c-41ce-bd13-5fe678fd69ef"><bibl sameAs="zotero-604880-QYK9AV9R" type="primary">H[enry] E[nfield] Roscoe: Kurzes
+                                                  Lehrbuch der Chemie nach den neuesten Ansichten
+                                                  der Wissenschaft … Braunschweig 1867</bibl>.
+                                                  Siehe<ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180613T094619+0200" comment="(Br. 403.35)"?>
+                                                  Marx an Engels, 2.11.1867<?oxy_comment_end?></ref>
+                                                  „Es wäre wünschenswerth ...“, <ref target="B00451">Marx an Engels,
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20180613T094654+0200" comment="(Br. 441.48)"?>27.11.1867<?oxy_comment_end?></ref>
+                                                  „Wie steht es ...“ und <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180613T094725+0200" comment="(Br. 444.21–22) "?>Engels
+                                                  an Marx, 28.11.1867<?oxy_comment_end?>.</ref>
+                                                  „Schorlemmers Buch ...“ und
+                                                Erläuterungen.</note></seg>
+                                        <subst>
+                                                <del rendition="#ow"><unclear reason="illegible" cert="low">anst</unclear></del>
+                                                <add place="superlinear"><sic ana="#break-off"><unclear reason="illegible" cert="low"/></sic>erhalten</add>
+                                        </subst> and send him my thanks for it.</p>
+                                <p>Wenn Du <expan>d<ex>ie</ex></expan> Blätter gelesen, wirst Du
+                                        gesehn haben, daß 1) <expan>d<ex>er</ex></expan> Intern.
+                                        Council <seg type="comment"><orig>Memorial für die Fenians
+                                                  an den <persName key="ed_jxx_pb3_mcb">Hardy</persName> geschickt</orig><note xml:id="nggl_dwf_2gb">Das „Memorial of the General
+                                                  Council of the International Workingmen’s
+                                                  Association. To the Right Hon. Gathorne Hardy her
+                                                  Majesty’s Secretary of State“ wurde vom Generalrat
+                                                  der IAA auf einer Sondersitzung am 20. November
+                                                  1867 bestätigt. (Siehe Special Meeting of the
+                                                  General Council November 20, 1867. In: Minutes
+                                                  1867–1869. S. 529.4–33 und 1827–1829.) – Das
+                                                  „Memorial“ des Generalrats an den britischen
+                                                  Innenminister zwecks Aufhebung der über mehrere
+                                                  Fenier verhängten Todesstrafe (siehe <ref target="B00413">Erl. zu Marx an Engels,
+                                                  2.11.1867</ref>) wurde aller Wahrscheinlichkeit
+                                                  nach von Marx verfaßt, der Mitglied des „standing
+                                                  committee“ war, oder ist zumindest unter seiner
+                                                  Mitwirkung entstanden, Belege sind dafür jedoch
+                                                  nicht Belege überliefert. Marx unterzeichnete den
+                                                  Text in seiner Funktion als Korrespondierender
+                                                  Sekretär für Deutschland. (Siehe MEGA<hi rendition="#sup">2</hi> I/21. S. 530.2.) Neben der
+                                                  Wiedergabe des Textes im Protokollbuch ist eine
+                                                  Abschrift durch Marx’ Ehefrau <persName key="pdrPo.001.004.000003075">Jenny</persName>
+                                                  überliefert. (RGASPI, Sign. f. 1, op. 1, d. 2115.)
+                                                  In englischer Sprache wurde die Dankschrift wegen
+                                                  des Widerstandes der Trade-Unions-Führer nicht
+                                                  veröffentlicht. Der Pariser „<bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Le
+                                                  Courrier français</bibl>“ veröffentlichte am
+                                                  24. November eine französische Übersetzung. (Siehe
+                                                  Eugène Dupon: Sur les condamnés fénians. In:
+                                                  Courrier français. Paris. Nr. 160, 24. November
+                                                  1867. S. 1, Sp. 2–3. Rubrik: Nouvelles.) <persName key="pdrPo.001.004.000001279">Eugène
+                                                  Dupont</persName> hatte sie zusammen mit einem
+                                                  seiner regelmäßigen Korrespondenzartikel an die
+                                                  Zeitung gesandt und vermutlich auch die
+                                                  Übertragung angefertigt. In seiner Korrespondenz
+                                                  vom 21. November schrieb er: „<hi rendition="#u">Le conseil général de l’Assemblée Internationale
+                                                  des Travailleurs a envoyé un mémorial </hi>au Home
+                                                  secretary pour lui demander la grâce des 4 Fénians
+                                                  condamnès à Manchester.“ (Siehe auch
+                                                  [Korrespondenz:] Londres, 23 novembre. [Gez.:]
+                                                  Eugène Dupont. Ebenda. Nr. 163, 27. November 1867.
+                                                  S. 1, Sp. 5.)</note></seg>, 2) <seg type="comment"><orig><expan>d<ex>ie</ex></expan> Debatte über
+                                                  Fenianism (<subst>
+                                                  <del rendition="#s">vorigen<sic ana="#break-off"/></del>
+                                                  <add place="intralinear">letzten</add>
+                                                  </subst> Dienstag vor 8 Tagen)</orig><note xml:id="dc6bfe73-932d-484c-b258-18f484748262">Die
+                                                  Sitzung des Generalrats vom 19. November 1867
+                                                  wurde der Diskussion über die „Fenian question“
+                                                  gewidmet (siehe <ref target="B00435"><?oxy_comment_start author="reichhoff" timestamp="20180613T095005+0200" comment="Br. 425.29–30"?>H.
+                                                  Jung an Marx, 16.11.1867<?oxy_comment_end?></ref>,
+                                                  Br. 425.29–30 und Erl. 425e). Nach einer
+                                                  Diskussion wurde es nach dem Vorschlag von
+                                                  <persName key="pdrPo.001.004.000002922">Benjamin
+                                                  Lucraft</persName> entschieden: „… the Standing
+                                                  Committee with the Chairman of the Meeting were
+                                                  instructed, to draw up a memorial to the Home
+                                                  Secretary concerning the Fenian prisoners under
+                                                  sentence of death at Manchester &amp; present it
+                                                  to a special meeting of the
+                                                  <expan>C<ex>ouncil</ex></expan> for adoption on
+                                                  Wednesday Novem. 20.“ (Siehe <bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes of the General Council 1867–1869</bibl>.
+                                                  S. 528.37–40.)</note></seg> öffentlich war u. <seg type="comment"><orig>die <hi rendition="#u"><bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl></hi> Report darüber
+                                                  brachte.</orig><note xml:id="d85701f8-8a6a-46bf-bccc-02d7b63af333">London meetings. In: The Times. London.
+                                                  Nr. 25 974, 21. November 1867. S. 10, Sp. 1/2. Der
+                                                  Autor dieses Berichtes war wahrscheinlich
+                                                  <persName key="pdrPo.001.004.000001296">Johann
+                                                  Georg Eccarius</persName>. (Siehe MEGA<hi rendition="#sup">2</hi> I/21.
+                                                S. 1826.)</note></seg> Es waren auch <seg type="comment"><orig>Reporters der Dubliner Blätter
+                                                  „<bibl sameAs="ed_m2f_lck_tgb" type="periodika"><hi rendition="#u">Irishman</hi></bibl>“ u. „<hi rendition="#u"><bibl sameAs="ed_z42_1wk_tgb" type="periodika">Nation</bibl></hi>“</orig><note xml:id="ce085df1-7a39-4ffe-aae7-498a02a2c0ed"> Die
+                                                  Personen konnten nicht ermittelt werden. Weder in
+                                                  der Dubliner Zeitung „<bibl sameAs="ed_m2f_lck_tgb" type="periodika">The
+                                                  Irishman</bibl>“ noch in der „<bibl sameAs="ed_z42_1wk_tgb" type="periodika">The
+                                                  Nation</bibl>“ erschien eine Veröffentlichung über
+                                                  die Sitzung des Generalrats der IAA vom
+                                                  19. November 1867.</note></seg> da. Ich kam erst
+                                        sehr spät (ich habe seit <subst>
+                                                <del rendition="#s">zwei<sic ana="#break-off"/></del>
+                                                <add place="intralinear">ungefähr 2</add>
+                                        </subst>  Wochen Fieber gehabt, was erst seit
+                                                  <expan>d<ex>en</ex></expan> letzten 2 Tagen
+                                        vorüber) u. hatte in <expan>d<ex>er</ex></expan> That nicht
+                                        vor zu sprechen, erstens wegen meines uncomfortablen
+                                        Körperzustandes u. zweitens wegen
+                                                <expan>d<ex>er</ex></expan> Häklichkeit
+                                                  <expan>d<ex>er</ex></expan> Situation. Indeß
+                                        wollte mich <expan>d<ex>er</ex></expan> chairman <seg type="comment"><orig><persName key="pdrPo.001.004.000005083">Weston</persName>
+                                                  forciren u. darum trug ich auf adjournment an,
+                                                  wodurch ich verpflichtet letzten Dienstag zu
+                                                  sprechen.</orig><note xml:id="a31a229b-7164-4f27-928b-dca46545110b">Siehe Meeting of the General Council and of
+                                                  Members and Friends of the Association
+                                                  November 19, 1867. In: <bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes  of the General Council 1867–1869</bibl>.
+                                                  S. 528.9–25 und 528.34–35. Die nächste Sitzung des
+                                                  Generalrats der IAA fand am 26. November 1867
+                                                  statt.</note></seg>
+                                        <seg type="comment"><orig>Ich hatte in
+                                                  <expan>d<ex>er</ex></expan> That nicht einen
+                                                  speech, wohl aber die points eines speech
+                                                  vorbereitet für Tuesday last.</orig><note xml:id="ef50335d-daa9-4275-8e03-659741dee8c3">Karl
+                                                  Marx: Draft of a speech on the “Fenian Question”
+                                                  for the meeting of the General Council of the
+                                                  International Working Men’s Association, November
+                                                  26, 1867. (MEGA<hi rendition="#sup">2</hi> I/21.
+                                                  S. 15–21 und 1243–1249.) Siehe auch Z. 25–34 und
+                                                  <bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes of the General Council
+                                                  1867–1869</bibl>. S. 531.4, 28–30.</note></seg>
+                                        Indeß kamen <expan>d<ex>ie</ex></expan> Irish Reporters
+                                        nicht u. durch Warten auf sie war es 9 Uhr geworden, während
+                                                  <expan>d<ex>as</ex></expan> Lokal uns nur bis 10½
+                                        offen stand. <pb/>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000001603">Fox</persName>
+                                                  hatte, auf meine Veranlassung, – (wegen quarrel im
+                                                  Council hatte er seit 2 Wochen sich nicht sehn
+                                                  lassen, ausserdem seine resignation als member of
+                                                  the council eingeschickt mit groben Ausfällen auf
+                                                  <persName key="pdrPo.001.004.000002417">Jung</persName>) – einen langen speech
+                                                  vorbereitet.</orig><note xml:id="nac2_jlg_2gb">Siehe <ref target="B00440"><?oxy_comment_start author="reichhoff" timestamp="20180613T095246+0200" comment="(Br. 430.5–7)"?>P.
+                                                  Fox André an Marx,
+                                                  23.11.1867<?oxy_comment_end?></ref> „I will attend
+                                                  ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191206T154750+0100" comment=" {430a}"?>Erl<?oxy_comment_end?>.</note></seg>
+                                        <seg type="comment"><orig>Nach Eröffnung der séance erklärte
+                                                  ich daher, daß ich wegen belated hour das Wort an
+                                                  <persName key="pdrPo.001.004.000001603">Fox</persName> abtrete.</orig><note xml:id="f8d8e21f-2c78-4b9d-a3f4-f8df0401dc73">Siehe Meeting of the General Council November 26,
+                                                  1867: „Cit. Marx stated that he would give up his
+                                                  parole in favour of Cit. Fox.“ (<bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes of the General Council 1867–1869</bibl>.
+                                                  S. 531.4).</note></seg> In der That – durch
+                                                  <expan>d<ex>ie</ex></expan> dazwischen gekommene
+                                        Execution <subst>
+                                                <del rendition="#s">der<sic ana="#break-off"/></del>
+                                                <add place="intralinear">zu</add>
+                                        </subst> Manchester – war unser Gegenstand, „Fenianism“, mit
+                                        augenblicklichen Leidenschaften u. Erhitzungen verknüpft,
+                                        die <subst>
+                                                <del rendition="#s">ihn fxxx</del>
+                                                <add place="intralinear"><hi rendition="#u">mich</hi></add>
+                                        </subst> (nicht aber den abstrakten <persName key="pdrPo.001.004.000001603"><hi rendition="#u">Fox</hi></persName>) gezwungen hätten, statt der
+                                                <del rendition="#s">von mir</del> beabsichtigten
+                                        sachlichen Analyse des Zustandes u.
+                                                <expan>d<ex>er</ex></expan> Bewegung ein
+                                        revolutionäres Donnerwetter loszulassen. Die irischen
+                                        Reporters haben mir also durch ihr Wegbleiben u. dadurch
+                                        verspätete Eröffnung der Sitzung grossen Dienst geleistet.
+                                        Ich liebe es nicht mit Leuten wie <persName key="pdrPo.001.004.000004020">Roberts</persName>,
+                                                <persName key="ed_wgw_lym_mz">Stephens</persName>
+                                        etc mich zu vermengseliren.</p>
+                                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000001603">Fox</persName>’s speech war gut, einmal, weil <hi rendition="#u">ein Engländer</hi> ihn hielt, dann,
+                                                  soweit die bloß politischen u. internationalen
+                                                  aspects gehn. Er bewegte sich aber eben deßwegen
+                                                  nur auf <expan>d<ex>er</ex></expan> Oberfläche.
+                                                  Die Resolution, die er vorbrachte, war
+                                                  abgeschmackt u. inhaltslos.</orig><note xml:id="fb00f88a-7fdd-4299-bd1c-515fcc5d3988">Siehe
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191206T155032+0100" comment="430a und 430e"?>Erläuterungen<?oxy_comment_end?> zu
+                                                  <ref target="B00440"><?oxy_comment_start author="reichhoff" timestamp="20180613T095246+0200" comment="(Br. 430.5–7)"?>P.
+                                                  Fox André an Marx,
+                                                  23.11.1867<?oxy_comment_end?></ref>. <persName key="pdrPo.001.004.000001603">Peter Fox</persName>
+                                                  hatte Marx den Text seiner Resolution in seinem
+                                                  <ref target="B00440"><?oxy_comment_start author="reichhoff" timestamp="20180613T095433+0200" comment="Br. 430.31–37"?>Brief
+                                                  vom 23. November 1867<?oxy_comment_end?></ref>
+                                                  mitgeteilt. (Siehe <ref target="B00440"><?oxy_comment_start author="reichhoff" timestamp="20180613T095246+0200" comment="(Br. 430.5–7)"?>P.
+                                                  Fox André an Marx,
+                                                  23.11.1867<?oxy_comment_end?></ref> „What think
+                                                  you ...“ und Erl.)</note></seg> Ich widersezte
+                                        mich derselben u. ließ sie an <seg type="comment"><orig><expan>d<ex>as</ex></expan> standing
+                                                  committee</orig><note xml:id="b40efba1-171a-412b-b501-505056d37430">Siehe <ref target="B00007"><?oxy_comment_start author="lindenberg" timestamp="20191206T160130+0100" comment="6e {M.-Becker, 13.01.1866}"?>Erl. zu
+                                                  Marx an J. Ph. Becker
+                                                  13.11.1866<?oxy_comment_end?></ref> „das
+                                                  Centralcomité“ und <bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes  of the General Council 1867–1869</bibl>.
+                                                  S. 531.28–30.</note></seg> zurückverweisen.</p>
+                                <p>Was die Engländer noch nicht wissen, ist daß
+                                                <expan>s<ex>ei</ex>t</expan> 1846 <subst>
+                                                <del rendition="#ow">die ökonomische
+                                                  Sit<ex>uation</ex></del>
+                                                <add place="superlinear"><sic ana="#break-off"/>der
+                                                  ökonomische Gehalt</add>
+                                        </subst> u. daher auch der politische Zweck
+                                                  <expan>d<ex>er</ex></expan> englischen Herrschaft
+                                        in Irland in eine ganz neue Phase eingetreten ist, u. eben
+                                        deßwegen <expan>d<ex>er</ex></expan> Fenianism sich durch
+                                        socialistische (im negativen Sinn, als gegen
+                                                  <expan>d<ex>ie</ex></expan> Appropriation
+                                                  <expan>d<ex>es</ex></expan> soil gerichtet) <subst>
+                                                <del rendition="#s">Fä<ex>rbung</ex></del>
+                                                <add place="intralinear">Tendenz</add>
+                                        </subst> u. als lower orders movement charakterisirt. Was
+                                        kann lächerlicher sein als <expan>d<ex>ie</ex></expan>
+                                        Barbareien <expan>d<ex>er</ex></expan>
+                                        <persName key="pdrPo.001.004.000010474">Elisabeth</persName>
+                                        oder des <pb/>
+                                        <persName key="pdrPo.001.004.000010379">Cromwell</persName>,
+                                        welche <add place="superlinear">die</add> Irländer durch
+                                        englische Colonisten (im römischen Sinn) verdrängen wollten,
+                                        zusammen zu werfen mit <expan>d<ex>em</ex></expan> jetzigen
+                                        System, welches <expan>d<ex>ie</ex></expan> Irländer durch
+                                        Schaafe, Schweine u. Ochsen verdrängen will! Das System v.
+                                        1801–1846 [[evictions während jener Zeit nur ausnahmsweis,
+                                        speziell in Leinster, wo <expan>d<ex>er</ex></expan> Boden
+                                        besonders zur Viehzucht taugt]] mit seinen
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190318T093050+0100" comment="rack rent = ausbeuterische Pacht"?>rackrents<?oxy_comment_end?>
+                                        u.
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190318T093126+0100" comment="middleman = Zwischenhändler"?>middlemen<?oxy_comment_end?>
+                                        brach zusammen 1846. <subst>
+                                                <del rendition="#s">Der englische
+                                                  freetra<ex>de</ex></del>
+                                                <add place="intralinear">Die Anticornlawrepeal</add>
+                                        </subst>, z.Th. Resultat, jedenfalls beschleunigt durch den
+                                                <seg type="comment"><orig>Irish famine</orig><note xml:id="nkmq_n4c_dhb">Die Korngesetze, die hohe
+                                                  Einfuhrzölle auf Getreide bewirkt hatten, waren in
+                                                  Großbritannien im Juni 1846 abgeschafft worden. –
+                                                  1845–1847 kam es in Irland zu einer großen
+                                                  Hungersnot, versursacht durch eine
+                                                  Kartoffelmißernte. Ca. eine Million Menschen
+                                                  starben und weitere Million verließ das Land. Die
+                                                  entvölkerten Landstriche wurden von irischen und
+                                                  englischen Grundeigentümern als Viehweide
+                                                  benutzt</note></seg><?oxy_comment_start author="lindenberg" timestamp="20190318T094843+0100" comment="überarbeitete Anmerkung, aber noch Fakten prüfen"?>,<?oxy_comment_end?>
+                                        nahm Irland das <hi rendition="#u">Monopol</hi> Engld in
+                                        Durchschnittszeiten mit Korn zu versehn. Wolle u. Fleisch
+                                        ward das Losungswort, also conversion of tillage into
+                                        pasture. Daher von da an systematic consolidation of farms.
+                                                <seg type="comment"><orig>Der encumbered estates
+                                                  act,</orig><note xml:id="d8556527-dcde-467b-9583-8a64b76ce124">1849
+                                                  erließ das britische Parlament den Encumbered
+                                                  Estates Act for Ireland, das 1852 und 1853 durch
+                                                  weitere Gesetze ergänzt wurde. Der Act von 1849
+                                                  sah den Verkauf der verschuldeten Güter durch die
+                                                  Auktion vor, wenn der Gutsbesitzer  für
+                                                  zahlungsunfähig erklärt wurde. Diese Maßnahme
+                                                  erleichterte den Verkauf von verschuldeten
+                                                  Landgütern in Irland.</note></seg> der eine Masse
+                                        früherer, bereicherter middlemen zu landlords machte,
+                                        beschleunigte <expan>d<ex>en</ex></expan> Prozeß. <hi rendition="#u">Clearing of the Estate of
+                                                Ireland!</hi> ist jezt <expan>d<ex>er</ex></expan>
+                                        einzige Sinn <expan>d<ex>er</ex></expan> englischen
+                                        Herrschaft in Irland. Die <hi rendition="#u">dumme</hi>
+                                        engl. Regierung in London weiß natürlich selbst nichts von
+                                        diesem immense change <expan>s<ex>ei</ex>t</expan> 1846.
+                                        Aber die Irländer wissens. <seg type="comment"><orig><expan>V<ex>on</ex></expan>
+                                                  <hi rendition="#u"><persName key="ed_o2h_fw2_scb">Meagher</persName>’s</hi>
+                                                  <hi rendition="#u">Proclamation</hi>
+                                                  (1848)</orig><note xml:id="a014ec1e-26d6-4472-9592-1a32e937416c"><persName key="ed_o2h_fw2_scb">Thomas Francis
+                                                  Meagher</persName> und die Young Irelanders hatten
+                                                  1848 der Landfrage einen breiten Raum eingeräumt.
+                                                  Vermutlich meinte Marx hier folgende Stelle aus
+                                                  der Rede von Meagher auf dem Meeting in Dublin am
+                                                  15. März 1848, das von der Irish Confederation
+                                                  einberufen wurde: „If you do not give us a
+                                                  parliament in which to state our wrongs and
+                                                  grievances, we shall state them by arms and
+                                                  force.“ (Siehe <bibl sameAs="zotero-604880-EKITSGSY" type="secondary">Zeller, Alfred: Irische Agrarbewegungen
+                                                  1760–1880. Frankfurt a.M. 1989</bibl>.
+                                                  S. 190/191.)</note></seg> bis <subst>
+                                                <del rendition="#s">zu<sic ana="#break-off"/></del>
+                                                <add place="intralinear">herab</add>
+                                        </subst>
+                                        <subst>
+                                                <del rendition="#s">zur letzten Pr<sic ana="#break-off"/></del>
+                                                <add place="intralinear">zum <hi rendition="#u">Wahlschreiben <persName key="ed_kgj_shx_mcb">Hennesey</persName>'s</hi></add>
+                                        </subst> (Tory u. Urquhartite) (1866) <seg type="comment"><orig>sprechen <expan>d<ex>ie</ex></expan>
+                                                  Irländer ihr Bewußtsein <subst>
+                                                  <del rendition="#ow">über</del>
+                                                  <add place="superlinear">hierüber</add>
+                                                  </subst> in <expan>d<ex>er</ex></expan> klarsten
+                                                  u. most forcible manner aus.</orig><note xml:id="nqpz_hvg_2gb">Vermutlich The Treatment of
+                                                  the Fenian Prisoners. Important Address by J. Pope
+                                                  Hennessy at the Social Science Congress. In: The
+                                                  Irishman. Dublin. Nr. 16, 13. Oktober 1866.
+                                                  S. 252/253. John Pope Hennessy schlug Anfang der
+                                                  1860er Jahre eine Reihe kleiner Reformen für
+                                                  Irland vor und hatte sich 1866 für die fenischen
+                                                  Gefangenen eingesetzt. Er verurteilte scharf die
+                                                  Haftbedingungen, denen die Fenier im Pentonville
+                                                  Prison ausgesetzt waren. Siehe Meeting of the
+                                                  Central Council February 20, 1866. In: <bibl sameAs="zotero-604880-7U8R32JW" type="primary">The
+                                                  Minute Book 1864–1866</bibl>. S. 387.5–6 und
+                                                  1453.</note></seg></p>
+                                <p>Fragt sich nun, was sollen <hi rendition="#u">wir</hi>
+                                        <expan>d<ex>en</ex></expan>
+                                        <hi rendition="#u">englischen</hi> Arbeitern rathen? Nach
+                                        meiner Ansicht müssen sie <seg type="comment"><orig><hi rendition="#u">Repeal der Union</hi></orig><note xml:id="nohz_stc_dhb">
+                                                  <p>Mit Repeal der Union ist die Aufhebung der
+                                                  Anglo-Irischen Union gemeint. Die Niederlage
+                                                  Englands im Amerikanischen Unabhängigkeitskrieg
+                                                  (1775–1783) hatte in Irland zu einer nationalen
+                                                  Bewegung geführt, die die englische Regierung 1783
+                                                  zwang, Irland die legislative Selbständigkeit zu
+                                                  gewähren ( „Irish Appeals Act“ bzw. „Renunciation
+                                                  Act“ 1783). Als
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191206T163737+0100" comment="1789{? in CW vol. 42, note 548: 1798}
+"?>1798<?oxy_comment_end?>
+                                                  ein Aufstand zur nationalen Befreiung Irlands mit
+                                                  einer Niederlage endete, wurde Irland die
+                                                  Anglo-Irische Union aufgezwungen und das irische
+                                                  Parlament mit dem englischen zwangsvereint, also
+                                                  faktisch beseitigt. Die Union trat am 1. Januar
+                                                  1801 in Kraft und beraubte Irland von neuem der
+                                                  1783 errungenen relativen Selbständigkeit.</p>
+                                                </note></seg> (kurz <subst>
+                                                <del rendition="#ow">d.</del>
+                                                <add place="superlinear">den</add>
+                                        </subst>
+                                        <hi rendition="#u">Witz v.</hi> 1783, nur demokratisirt u.
+                                                <expan>d<ex>en</ex></expan> Zeitumständen angepaßt) <subst>
+                                                <del rendition="#s">als<sic ana="#break-off"/></del>
+                                                <add place="intralinear">zu</add>
+                                        </subst> einem Artikel ihres Pronunciamento machen. <pb/> Es
+                                        ist dieß <expan>d<ex>ie</ex></expan> einzig <hi rendition="#u">legale</hi> u. daher einzig mögliche Form <expan>d<ex>er</ex></expan> irischen Emancipation, die in
+                                                <expan>d<ex>as</ex></expan> Programm einer <hi rendition="#u">englischen</hi> Partei aufgenommen
+                                        werden kann. <expan>D<ex>ie</ex></expan> Erfahrung muß später zeigen,
+                                        ob die blosse Personalunion zwischen <expan>d<ex>en</ex></expan>
+                                        2 Ländern fortexistiren könnte. Ich glaube es halb, wenn es
+                                        zur Zeit geschieht.</p>
+                                <p>Was <expan>d<ex>ie</ex></expan>
+                                        Irländer brauchen, ist</p>
+                                <p>1) Selbstregierung u. Unabhängigkeit v.
+                                        England,</p>
+                                <p>2) Agrarische Revolution. Die Engländer
+                                        können die mit dem besten Willen nicht für sie machen, aber
+                                        sie können ihnen <expan>d<ex>ie</ex></expan>
+                                        legalen Mittel geben, sie für sich selbst zu machen.</p>
+                                <p>3) <hi rendition="#u">Schutzzölle gegen England</hi>.
+                                                  <expan>V<ex>on</ex></expan>
+                                        <subst>
+                                                <del rendition="#ow">1883</del>
+                                                <add place="across">1783</add>
+                                        </subst>–1801 blühte die irische Industrie in allen Zweigen
+                                        auf. Die Union mit Niederwerfung <expan>d<ex>er</ex></expan>
+                                        Schutzzölle, welche das irische Parlament errichtet hatte,
+                                        zerstörte alles industrielle Leben in Irland. Das bischen
+                                        Leinenindustrie bietet in keiner Weise Ersatz. Die Union v.
+                                        1801 wirkte ganz auf <expan>d<ex>ie</ex></expan> irische
+                                        Industrie, wie die Maßregeln zur Unterdrückung
+                                                  <expan>d<ex>er</ex></expan>
+                                        <expan>iris<ex>chen</ex></expan> Wollenindustrie etc v.
+                                        Seiten <expan>d<ex>es</ex></expan> englischen Parlaments
+                                        unter <persName key="pdrPo.001.004.000010074">Anna</persName>, <persName key="pdrPo.001.004.000010632">George II</persName>
+                                        etc. Sobald <expan>d<ex>ie</ex></expan> Irländer unabhängig,
+                                        würde <expan>d<ex>ie</ex></expan> Noth sie, wie Canada, wie
+                                        Australien etc zu Protektionisten machen. <seg type="comment"><orig>Ehe ich meine Ansichten im
+                                                  Cent. Counc. (nächsten Dienstag, dießmal
+                                                  glücklicher Weise <hi rendition="#u">ohne</hi>
+                                                  Gegenwart v. Reporters) vorbringe,</orig><note xml:id="bb162311-50c2-421b-89a1-7dddd2f17d08">Die
+                                                  Sitzung des Generalrats am „nächsten Dienstag“,
+                                                  3. Dezember 1867, fand nicht statt. Im Dezember
+                                                  1867 fanden die Sitzungen des Generalrates am 17.
+                                                  und 31. Dezember 1867 statt. Da die Sitzung vom
+                                                  17. Dezember 1867 nur kurz war (siehe Meeting of
+                                                  the General Council December 3, 1867, in: <bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Minutes of the General Council 1867–1869</bibl>.
+                                                  S. 533), hatte Marx offensichtlich von seiner
+                                                  Absicht, über seine Ansichten zur irischen Frage
+                                                  zu sprechen, verzichtet. Die Sitzung des
+                                                  Generalrats vom 31. Dezember 1867 hatte Marx wegen
+                                                  seines Gesundheitszustandes nicht besuchen können.
+                                                  (<bibl sameAs="zotero-604880-NKCLCE8L" type="primary">Ebenda</bibl>. S. 534.) Einen
+                                                  Vortrag zur irischen Frage hielt Marx aber am
+                                                  16. Dezember 1867 im <orgName key="ed_fgm_42g_zgb">Deutschen Arbeiterbildungsverein
+                                                  London</orgName>. Siehe Karl Marx: Entwurf des
+                                                  Vortrags über den Fenianismus im Deutschen
+                                                  Arbeiterbildungsverein. (MEGA<hi rendition="#sup">2</hi> I/21. S. 22–32 und 1261–1263.) Siehe auch
+                                                  <ref target="B00490"><?oxy_comment_start author="reichhoff" timestamp="20180613T112304+0200" comment="(Br. 481.24–26)"?>Marx
+                                                  an Engels, 17.12.1867<?oxy_comment_end?></ref>
+                                                  „Ich habe gestern ...“. – Zum <orgName key="ed_fgm_42g_zgb">Deutschen
+                                                  Arbeiterbildungsverein in London</orgName> siehe
+                                                  <ref target="B00038">Erl. zu Fr. Leßner an Marx,
+                                                  12.2.1866</ref>.</note></seg> wäre mir lieb, wenn
+                                        Du mir in ein paar Zeilen Deine Ansicht mittheiltest.</p>
+                                <p>Salut</p>
+                                <closer>D<lb/>KM </closer>
+                                <postscript>
+                                        <p>/ Da <persName key="ed_ygm_hhs_ncb">Moses</persName> ein
+                                                Vetter von <hi rendition="#u"><persName key="ed_o1y_kyv_zgb">Hirsch</persName></hi>,
+                                                wundert’s mich nicht, daß er selbst ein Geweih
+                                                trägt. He bears it proudly. /</p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

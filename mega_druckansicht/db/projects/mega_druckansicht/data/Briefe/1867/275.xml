@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00284" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>275</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Mittwoch, 26. Juni 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1631/D III 401</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            232 × 182 mm. Wasserzeichen: „A Pirie &amp; Sons 1865“.
+                            Engels hat die erste Seite vollständig, die zweite Seite zu einem
+                            Drittel beschrieben, die dritte und die vierte Seite sind leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „17,1“ bzw.
+                            „17,2“ (beide gestrichen) und „328,1“ bzw. „328,2“. Redaktionelle
+                            Vermerke.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben links mit Blaustift der
+                            Vermerk: „002“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2043</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw
+                            3 (1913).<?oxy_custom_end?> S. 385/386.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-06-26"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00286"/>
+                </correspContext>
+                <note>Marx antwortete am 27. Juni 1867 (<ref target="B00286"><?oxy_comment_start author="lindenberg" timestamp="20190122T152920+0100" comment="(Br. 277)"?>Marx
+                        an Engels, 27.6.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190122T153447+0100" comment="Erl. 275. 3–5"?>„inl.
+                    zwei halbe Fünfpfünder“<?oxy_comment_end?>.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:42Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 26 Juni 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p>„Im Verfolg <seg type="comment"><orig>meines ergebnen
+                            Gestrigen</orig><note xml:id="nknw_tw2_wfb">Siehe <ref target="B00282"><?oxy_comment_start author="reichhoff" timestamp="20180620T112044+0200" comment="(Br. 273.42–43)"?>Engels
+                                an Marx, 24.6.1867<?oxy_comment_end?></ref>.</note></seg>“ inl. zwei
+                    halbe Fünfpfünder deren 2<hi rendition="#sup">te</hi> Hälften per 1<hi rendition="#sup">te</hi> Post morgen früh nachfolgen also morgen Abend in
+                    Deinem Besitz sein werden.</p>
+                <p><seg type="comment"><orig>Über die Entstehung des
+                            Mehrwerths</orig><note xml:id="nlz3_xw2_wfb">Siehe <ref target="B00282"><?oxy_comment_start author="reichhoff" timestamp="20180620T112131+0200" comment="(Br. 273.4–8)"?>Engels
+                                an Marx, 24.6.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190520T162121+0200" comment="273b"?>Erl.<?oxy_comment_end?> </note></seg>
+                    noch Folgendes: Der Fabrikant &amp; mit ihm der Vulgärökonom werden Dir sofort
+                    einwerfen: Wenn der Kapitalist dem Arbeiter für seine 12 Stunden Arbeitszeit nur
+                    den Preis für 6 Stunden bezahlt, so kann daraus kein Mehrwerth entstehn indem
+                        <del rendition="#s">er seinen Preis<sic ana="#break-off"/></del> dann jede
+                    Arbeitsstunde des Fabrikarbeiters nur = ½ Arbeitsstunde zählt <add place="superlinear">= dem wofür sie bezahlt wird</add>, nur für diesen Werth
+                    in den Werth des Arbeitsproducts eingeht. Worauf dann als Exempel die
+                    gewöhnliche Kalkulationsformel folgt: soviel für <expan>Rohprod<ex>ukte</ex></expan>, soviel für
+                    Verschleiß, soviel für Lohn (<hi rendition="#u">wirklich ausgegebnen</hi> pro
+                    wirkliches Stundenproduct) pp. So gräulich seicht dies Argument auch ist, so
+                    sehr es Tauschwerth &amp; <choice>
+                        <sic>Preis</sic>
+                        <corr cert="high">Preis,</corr>
+                    </choice> Werth der Arbeit &amp; Arbeitslohn identificirt, so absurd seine
+                    Voraussetzung daß 1 Arbeitsstunde nur für ½ Stunde in den Werth eintrete wenn
+                    sie nur für ½ Stunde bezahlt wird, so wundre ich mich doch daß Du nicht schon
+                    darauf Rücksicht genommen, denn es wird Dir <hi rendition="#uu">ganz sicher</hi>
+                    sofort vorgehalten &amp; es wird besser im Voraus erledigt. Vielleicht kommst Du
+                    auf den nächsten Bogen darauf zurück.</p>
+                <p>Du mußt mir eine Adresse in London verschaffen an die
+                    ich die £ 100.– nächste Woche schicken lassen kann. <seg type="comment"><orig>Ich denke nämlich heute über 8 Tage mit <persName key="pdrPo.001.004.000000698">Lizzie</persName>
+                            <pb/> via Grimsby nach Hamburg, Schleswig, Copenhagen &amp;c zu gehn
+                            &amp; werde wohl 4 Wochen ausbleiben.</orig><note xml:id="nq4h_5z2_wfb">In der Zeit zwischen 6. Juli (siehe <ref target="B00289">O. Theobald
+                                (<?oxy_comment_start author="reichhoff" timestamp="20180620T112334+0200" comment=" Br. 280"?>Th.
+                                Wilson, Sons &amp; Co.) an Engels, 2.7.1867<?oxy_comment_end?></ref>
+                            und Erl.) und Anfang August 1867 unternahm Engels mit <persName key="pdrPo.001.004.000000698">Lydia Burns</persName> eine Reise nach
+                            Schweden, Dänemark und Deutschland. Aus Hotelrechnungen, Schiffstickets
+                            und anderen Reisedokumenten läßt es sich feststellen, daß ihre
+                            Reiseroute von Manchester aus über Hull – Göteborg (8./9. Juli) –
+                            Stockholm (11.–13. Juli) – Malmö (14. Juli) – Kopenhagen (15.–18. Juli)
+                            – Korsør – Sønderborg – Flensburg (19.–20. Juli) – Hamburg – Hannover –
+                            Barmen/Engelskirchen – London – Manchester führte. (Siehe IISG,
+                            Marx-Engels-Nachlass, Sign. M 20) Während der Skandinavienreise machte
+                            Engels Notizen über seine Eindrücke von der Reiseroute. (Siehe Friedrich
+                            Engels: Schwedisch-dänische Reisenotizen. In: MEGA<hi rendition="#sup">2</hi> I/20. S. 249–255.) Lydia Burns fuhr von Hamburg via Grimsby
+                            nach Manchester zurück (siehe <ref target="B00315"><?oxy_comment_start author="reichhoff" timestamp="20180620T112546+0200" comment="Br. 306.22–23)"?>Engels
+                                an Marx, 11.8.1867 <?oxy_comment_end?></ref> („Lizzie hat auch eine
+                            ziemlich schlechte Rückfahrt gehabt …“). Etwa Ende Juli/Anfang August
+                            1867 besuchte Engels für zwei Tage Louis Kugelmann in Hannover (siehe
+                                <ref target="B00297"><?oxy_comment_start author="reichhoff" timestamp="20180620T112808+0200" comment="Br. 288.5–6,"?>Marx
+                                an L. Kugelmann, 13.7.1867<?oxy_comment_end?></ref>, <ref target="B00301"><?oxy_comment_start author="reichhoff" timestamp="20180620T112908+0200" comment="292.3–4,"?>Marx
+                                an F. Freiligrath, 20.7.1867<?oxy_comment_end?></ref>, <ref target="B00316"><?oxy_comment_start author="reichhoff" timestamp="20180620T113020+0200" comment="307.3–4,"?>L.
+                                und G. Kugelmann an Marx, 12.8.1867<?oxy_comment_end?></ref>, <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180620T113141+0200" comment="379.22"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> und <ref target="B00426"><?oxy_comment_start author="reichhoff" timestamp="20180620T113253+0200" comment="416.64–65)."?>8.
+                                und 20.11.1867<?oxy_comment_end?></ref>. Nachdem Engels noch bei
+                            seinen Verwandten im Rheinland geweilt hatte (siehe <ref target="B00290"><?oxy_comment_start author="reichhoff" timestamp="20180620T113424+0200" comment="Br. 281.18–19"?>H.
+                                Engels an Engels, 3.7.1867<?oxy_comment_end?></ref> , <ref target="B00298"><?oxy_comment_start author="reichhoff" timestamp="20180620T113531+0200" comment="289.21–23"?>E.
+                                Engels an Engels, 15.7.1867<?oxy_comment_end?></ref> und <ref target="B00325"><?oxy_comment_start author="reichhoff" timestamp="20180620T113619+0200" comment="316.3–6),"?>20.8.1867<?oxy_comment_end?></ref>),
+                            kehrte er in der ersten Augustdekade, spätestens am 10. August 1867,
+                            nach Manchester zurück. Auf der Rückreise hatte er vermutlich Marx in
+                            London besucht (siehe <ref target="B00286"><?oxy_comment_start author="reichhoff" timestamp="20180620T113718+0200" comment=" Br. 277.55)"?>Marx
+                                an Engels, 27.6.1867<?oxy_comment_end?></ref>).</note></seg> Ich muß
+                    also das Geld am Donnerstag oder Freitag durch unsern Kassirer nach dort
+                    schicken lassen &amp; brauche dazu eine <hi rendition="#u">gleichgültige</hi>
+                    Adresse, wo möglich <hi rendition="#u">commerzielle</hi>. Du mußt Dir also
+                    überlegen, wen Du dazu vorziehst &amp; es mich gleich wissen lassen.</p>
+                <p>Nachdem ich <persName key="pdrPo.001.004.000000698">Lizzie</persName> von H<ex>am</ex>b<ex>ur</ex>g wieder nach Grimsby
+                    geschickt, werde ich auch <persName key="pdrPo.001.004.000003135">Meißner</persName> &amp; <persName key="pdrPo.001.004.000002616">Kugelmann</persName> besuchen &amp; dann an den Rhein gehn.</p>
+                <p>Beste Grüße</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

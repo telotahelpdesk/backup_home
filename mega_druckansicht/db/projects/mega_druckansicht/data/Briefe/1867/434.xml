@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00444" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>434</idno>Friedrich Engels an Karl Marx in London. Manchester, Sonntag, 24. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1652/D III 423</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 114 × 178 mm. Prägung: eine Krone im Kreis mit der Aufschrift auf dem Band „Superfine“. Engels hat die erste Seite vollständig beschrieben, auf der zweiten Seite stehen nur vier Zeilen. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „58,1“ bzw. „58,2“ (gestrichen),
+                            „347,1“ bis „347,2“. Redaktionelle Vermerke.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+                            Briefes: „929“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2117</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913)<?oxy_custom_end?>. S. 428.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1867-11-24"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Zu den Beilagen („Die Briefe inl. zurück.“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190314T162931+0100" comment="zu 434.3"?>Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:56Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 24 Nov 67.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Die Briefe inl. zurück.</orig><note xml:id="ebd06ea2-3b71-4ad0-bd1f-2abf595f2665"><ref target="B00417"><?oxy_comment_start author="reichhoff" timestamp="20180611T173218+0200" comment="(Br. 407)"?>J.
+                                Dietzgen an Marx, 5.<?oxy_comment_end?>11.1867.</ref>, <ref target="B00424"><?oxy_comment_start author="reichhoff" timestamp="20180611T173255+0200" comment="(Br. 414)"?>C.
+                                W. Klein an Marx, 8.11.1867<?oxy_comment_end?></ref>. Siehe auch
+                                <ref target="B00432"><?oxy_comment_start author="reichhoff" timestamp="20180611T173331+0200" comment="(Br. 422.3)"?>Marx
+                                an Engels, 14.11.1867<?oxy_comment_end?></ref>
+                            „Einliegend...“.</note></seg></p>
+                <p>Die Tories haben also wirklich gestern Morgen durch die Hand des Hrn <seg type="comment"><orig><persName key="ed_g13_yjq_fhb">Calcraft</persName></orig><note xml:id="nmdj_fpb_chb"><persName key="ed_g13_yjq_fhb">William Calcraft</persName> war der
+                            Scharfrichter bei der öffentlichen Hinrichtung Fenier <persName key="ed_gd4_4n4_qgb">William Allen</persName>, <persName key="ed_nsv_bxm_qcb">Michael Larkin</persName>, and <persName key="ed_krb_jlb_wcb">Michael O'Brien</persName> am 23. November
+                            1867, die als
+                            <?oxy_comment_start author="lindenberg" timestamp="20190314T165500+0100" comment="https://en.wikipedia.org/wiki/Manchester_Martyrs"?>„Manchester
+                            Martyrs“<?oxy_comment_end?> in die Geschichte eingingen. Zum Prozeß
+                            gegen die Fenier siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T173432+0200" comment="Br. 403)"?>Marx
+                                an Engels, 2.11.1867 <?oxy_comment_end?></ref> „Der Fenian Prozeß
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191128T110507+0100" comment="403s"?>Erl<?oxy_comment_end?>. </note></seg>
+                    <subst>
+                        <del rendition="#ow">die</del>
+                        <add place="across"><sic ana="#break-off"/>den</add>
+                    </subst> definitiven Trennungsact zwischen England &amp; Irland vollzogen. Das
+                    Einzige was den Feniern noch fehlte waren Märtyrer. Diese haben ihnen <seg type="comment"><orig><persName key="pdrPo.001.004.000004560">Derby</persName> &amp; G. <persName key="ed_jxx_pb3_mcb">Hardy</persName></orig><note xml:id="npcj_vsb_chb"><persName key="pdrPo.001.004.000004560">Edward Smith-Stanley</persName>, 14th
+                            Earl of Derby (Prime Minister) und <persName key="ed_jxx_pb3_mcb">Gathorne Gathorne-Hardy</persName>, 1st Earl of Cranbrook (Home
+                            Secretary).</note></seg> geliefert. Erst durch die Hinrichtung der 3
+                    wird die Befreiung von <seg type="comment"><orig><persName key="ed_rjh_hss_pcb">Kelly</persName> &amp; <persName key="ed_hdt_y2y_kcb">Deasy</persName></orig><note xml:id="nc5b_qrb_chb"><persName key="ed_rjh_hss_pcb">Thomas J. Kelly</persName> und <persName key="ed_hdt_y2y_kcb">Timothy Deasy</persName>.</note></seg> zu der
+                    Heldenthat als welche sie jetzt jedem irischen Kind in Irland, England &amp;
+                    Amerika wird an der Wiege vorgesungen werden. Die irischen Weiber werden das
+                    ebenso gut besorgen wie die Polinnen.</p>
+                <p>Das einzige Mal daß Jemand wegen ähnlicher Sachen in einem civilisirten Staat
+                    hingerichtet, ist meines Wissens <seg type="comment"><orig>der Fall von
+                                <persName key="pdrPo.001.004.000000628">John Brown</persName>
+                            <expan>b<ex>ei</ex></expan> Harpers Ferry</orig><note xml:id="d7b9f59a-b9f6-4b77-b925-7df743522b57"><?oxy_comment_start author="lindenberg" timestamp="20190314T190739+0100" comment="Am 18. Oktober {CW: 16. Oktober, ??}1"?>Im Oktober
+                            <?oxy_comment_end?>1859 hatte eine kleine Gruppe
+                            <?oxy_comment_start author="lindenberg" timestamp="20190314T190830+0100" comment="vorher:  fanatischer Gegner"?>von
+                            Gegnern<?oxy_comment_end?> der Sklaverei unter ihrem weißen Anführer
+                                <persName key="pdrPo.001.004.000000629">John Brown</persName> einen
+                            blutigen Überfall auf das Waffen- und Munitionsdepot der
+                            US-amerikanischen Bundesregierung in Harper’s Ferry unternommen, einem
+                            kleinen Städtchen circa sechzig Meilen nordwestlich von Washington.
+                            Schon nach zwei Tagen war der größte Teil der Gruppe von Bundestruppen
+                            getötet worden, die restlichen, darunter John Brown, wurden bald darauf
+                            wegen Hochverrats gehängt. Der Überfall war einer der Ereignisse, die
+                            zum Ausbruch des US-amerikanischen Bürgerkriegs (1861–1865) führten.
+                            (Siehe James M.McPherson: Für die Freiheit sterben. Die Geschichte des
+                            amerikanischen Bürgerkrieges. 8. Aufl. München 2000.
+                        S. 191–202.)</note></seg>. Ein besseres Präcedens konnten sich die Fenier
+                    nicht wünschen. Und doch hatten selbst die Southerners den Anstand J. Brown als
+                        <hi rendition="#u">Rebellen</hi> zu behandeln, hier aber wird alles
+                    aufgeboten ein politisches Attentat in ein gemeines Verbrechen zu
+                    verwandeln.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000003392">Louis
+                                Napoleon</persName> erschoß bekanntlich an der Spitze seiner
+                            Lumpenbande in Boulogne den wachthabenden Offizier.</orig><note xml:id="e8f07634-c64c-4553-a455-6a34e071608b">Im August 1840 versuchte
+                                <persName key="pdrPo.001.004.000003392">Louis Bonaparte</persName>
+                            einen Staatsstreich durchzuführen. Er landete von England kommend mit
+                            seinen Helfershelfern in Boulogne, wo er sich von einem französischen
+                            Regiment huldigen ließ. Als ein Offizier die Soldaten an ihre Pflicht
+                            ermahnte, schoß Bonaparte auf ihn.</note></seg> Er <hi rendition="#u">that</hi> also was <persName key="ed_ux5_lv5_2cb">Allen</persName> gethan
+                    haben soll aber nicht gethan <hi rendition="#u">hat</hi>. Dafür hängt die engl.
+                    Regierung den Allen, dem Louis Napoleon aber küßt <seg type="comment"><orig>die
+                            engl. <persName key="pdrPo.001.004.000004919">Königin</persName></orig><note xml:id="e44891c7-cc12-4181-8c63-416316fd83dc"><persName key="pdrPo.001.004.000004919">Victoria</persName>.</note></seg> das
+                    Gesicht &amp; die <pb/> engl. Aristokratie &amp; Bourgeoisie den Hintern.</p>
+                <p>Dies Letztere sollte man in die Presse bringen.</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

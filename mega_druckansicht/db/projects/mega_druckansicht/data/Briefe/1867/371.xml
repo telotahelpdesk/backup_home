@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00381" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>371</idno>Friedrich Leßner an Karl Marx in London. London, Dienstag, 8. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 3025/D V 185–1 Fotosign. 9497&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 182 × 114 mm. Leßner hat die ersten drei Seiten vollständig beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite oben links mit Bleistift: Nummerierung des Briefes:
+                            „12“ und rechts die Datierung: „8.10.67.“</p><p>Die Schreibweise wurde nicht berichtigt.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1745</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-WCHRHTXJ">Erstveröffentlichung: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Письма
+                            Фридриха Лесснера Карлу Марксу (1935).<?oxy_custom_end?>
+                            S. 154/155.</bibl></witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_l54_cks_xy">Leßner, Friedrich (1825-1910)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-08"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Die Beilage zum Brief („hierbei Deine Rechnung“) ist nicht überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:06Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 4 Francis St Gower St W.C.</dateline>
+                    <salute>Lieber Marx!</salute>
+                </opener>
+                <p><seg type="comment"><orig><persName key="ed_fsr_rk5_zcb">Der Secertary des
+                                Arbeiter Vereins</persName></orig><note xml:id="aa9ffccd-d756-4127-8d19-3b62f97f4542"> Der Sekretär des <orgName key="ed_fgm_42g_zgb">Deutschen Arbeiterbildungsverreins in
+                                London</orgName> (siehe <ref target="B00038"><?oxy_comment_start author="lindenberg" timestamp="20190729T134559+0200" comment="35a {Jg.1866})"?>Erl. zu
+                                F. Leßner an Marx, 12.2.1866<?oxy_comment_end?></ref>) <persName key="ed_fsr_rk5_zcb">Karl Speyer</persName>.</note></seg> läst Dich
+                    ersuchen, ihm gefälligst <seg type="comment"><orig>die Adresse von <hi rendition="#u"><persName key="pdrPo.001.004.000002822">Liebknecht</persName></hi></orig><note xml:id="aeadc4f7-d7c0-46fe-b820-78b36800e4f2">Siehe <ref target="B00365"><?oxy_comment_start author="reichhoff" timestamp="20180531T122214+0200" comment="(Br. 357.6–7)"?>W.
+                                Liebknecht an Marx,
+                                <?oxy_comment_start author="lindenberg" timestamp="20190220T145334+0100" comment="vorher Wilhelm Liebknecht an Marx, Ende September 1867 und 357 
+ist aber 356" mid="3"?>vor
+                                30.9.1867<?oxy_comment_end?><?oxy_comment_end mid="3"?></ref>.</note></seg>
+                    zukommen zu lassen, um denselben die Anerkennungsadresse zu zuschicken.</p>
+                <p>Gleichzeitig sende ich hierbei Deine Rechnung, ich wolde
+                        <seg type="comment"><orig>gestern Abent</orig><note xml:id="f9386977-835e-4f5b-912c-ba4f88d2a741">7. Oktober
+                        1867.</note></seg>, oder Heute abent selbst zu Dir kommen, aber ich wurde
+                    daran gehindert, und ich fühle <pb/> überhaupt sehr unwohl seit einigen
+                    Tagen.</p>
+                <p>Arbeit ist es nicht, die mich abhält, denn es giebt beina garnichts mehr zu thun,
+                    was mir jedoch in einer beziehung sehr angenehm ist. ich kann den <seg type="comment"><orig>Marx Stutiren</orig><note xml:id="dcb6b463-c820-4e4e-a393-907692ae4e85">Anspielung auf den ersten
+                            Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“.</note></seg>, was jedenfals Tausentmal mehr werth
+                    hat, als die Schneiderei der ganzen Weld.</p>
+                <p>Bis jetzt habe ich noch wenig gelesen. Aber daß wenige,
+                    hat mich schon hinlänglich befriedigt, für das lang ersähnte erscheinen des
+                    Werkes. <pb/> Daß die Hunde Pfaffen auf solche weise mitgenommen worden, macht
+                    mir vorzüglich Freude.</p>
+                <p><seg type="comment"><orig>Unsren <persName key="pdrPo.001.004.000000317">Ph. Becker</persName> mus ich doch
+                            endlich schreiben, Aber ich weiß garnicht, welchen Rath ich ihn geben
+                            soll, es ist eine sehr schwierige sache.</orig><note xml:id="baa4c2b0-7551-47a1-945c-357346913a57">
+                            <p>Leßners Brief an <persName key="pdrPo.001.004.000000317">Johann
+                                    Philipp Becker</persName> konnte nicht ermittelt werden.
+                                Vermutlich wollte Leßner Beckers Vorhaben besprechen, die aktive
+                                Arbeit an der Genfer Sektion der IAA und an dem „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“
+                                einzustellen. Siehe darüber <ref target="B00375"><?oxy_comment_start author="reichhoff" timestamp="20180531T105427+0200" comment="(Br. 364.27–66)"?>Johann
+                                    Philipp Becker an Jenny Marx, 7. Oktober
+                                    1867<?oxy_comment_end?></ref>  „Noch muß ich Ihnen ...“. Sehr
+                                wahrscheinlich aber hatte Friedrich Leßner seinen Brief an Becker
+                                noch nicht verfaßt, als Becker ihm am 11. Oktober 1867 einen Brief
+                                zu diesem Thema schrieb (<ref target="mega_u4h_2tb_1gb">J. Ph.
+                                    Becker an Fr. Leßner, 11.10.1867</ref>).
+                                <?oxy_comment_start author="lindenberg" timestamp="20181204T144122+0100" comment="Brief hier gelöscht, Text ist in der Datei: Paratext_zu_371. verlinkt"?>Der
+                                Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                                Veröffentlichung erfolgt nach einer Fotokopie, RGASPI Sign. f. 185,
+                                op. 1, d. 25/5.) Die Schreibweise wurde nicht
+                                berichtigt<?oxy_comment_end?>.</p>
+                        </note></seg></p>
+                <p>ich kann <hi rendition="#u"><persName key="pdrPo.001.004.000002822">Liebknecht</persName></hi> nur in dem
+                    Falle vorschlagen, wenn derselbe nach Genf gehen könde.</p>
+                <p>Es grüst freundlichst</p>
+                <closer>Frd. Leßner</closer>
+</div><div type="writingSession"><p>London 8/10, 67. <pb/></p>
+            </div></body></text></TEI>

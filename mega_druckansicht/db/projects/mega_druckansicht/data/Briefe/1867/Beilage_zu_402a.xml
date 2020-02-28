@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_qxz_vgf_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Die Empfangsbescheinigung (Quittung mit dem Aufdruck der Cheshire Hunt Covert
+                    Fund) von Christopher Kay für Friedrich Engels</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. M 18/M 14&lt;a&gt;.
+                        Fotosign. 14830.</p>
+                    <p>Die Empfangsbescheinigung ist eine Beilage zu: <ref target="B00412">Christopher Kay an Friedrich Engels in Manchester. Winsford, Samstag,
+                            2. November 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">Sign. M 18/M14(a). Fotosign. 14830</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+                <p><hi rendition="#c">CHESHIRE HUNT COVERT FUND.</hi></p>
+                <p>RECEIVED FROM Fred<hi rendition="#sup">k</hi> Engels Esquire THE SUM OF <hi rendition="#mPrint">£</hi>
+                    <hi rendition="#u">10. „. „  </hi> BEING THE AMOUNT OF HIS SUBSCRIPTION FOR THE
+                    SEASON, 18</p>
+                <p><hi rendition="#mPrint">£ </hi><hi rendition="#u">10. „. „</hi></p>
+                <p>Chris Kay</p>
+                <p>Winsford Nov<hi rendition="#sup">r</hi> 2<hi rendition="#sup">nd</hi> 1867</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

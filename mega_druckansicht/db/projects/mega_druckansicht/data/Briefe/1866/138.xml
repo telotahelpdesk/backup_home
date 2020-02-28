@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00142" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>138</idno>Hermann Jung an Karl Marx in London. London, </title>
+                                <title>zwischen Mittwoch, 18. und Montag, 23. Juli 1866</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 21 op. 1 d.
+                                                  10/1</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus zwei Zeilen, die Jung quer
+                                                  auf die letzte Seite eines Briefes von <persName key="ed_jqz_kwx_wy">Charles Rochat</persName> und
+                                                  <persName key="pdrPo.001.004.000001278">Jean-Baptiste Dupleix</persName> vom
+                                                  18. Juli 1866 an ihn (die erhaltene Beilage)
+                                                  geschrieben hat. Schreibmaterial: Bleistift.</p>
+                                                <p/>
+                                                <p/>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002417">Hermann
+                                                Jung</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                        <date from="1866-07-18" to="1866-07-23" cert="high"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                </correspAction>
+                                <note><ref target="mega_vwc_vxs_sy" type="hasAttachment">Der Brief
+                                                enthält eine Beilage.</ref> („cette lettre“)</note>
+                                <note>Die Datierung ergibt sich aus dem Datum der Beilage sowie aus
+                                        der Bitte Jungs, den Brief ihm am Montag, dem 23. Juli
+                                        1866, zurückzugeben („Ayez soin ...“).</note>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_jtl_xrw_ww">Internationale Arbeiter
+                                                Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:41Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <postscript>
+                                        <p><pb/> Ayez soin de <seg type="comment"><orig>cette
+                                                lettre,</orig><note xml:id="bf777fd2-32ca-4ee9-9ed7-89cf18633d67"><p>Siehe die Beilage, <ref target="mega_vwc_vxs_sy">Charles Rochat und
+                                                  Jean-Baptiste Dupleix an Jung, 18. Juli
+                                                  1866.</ref>
+                                                  <persName key="pdrPo.001.004.000002417">Jung</persName> hat den Brief in der Sitzung des
+                                                  Zentralrats der IAA am 24. Juli 1866 verlesen
+                                                  (<bibl sameAs="zotero-604880-7U8R32JW">The Minute Book 1864–1866.</bibl>
+                                                  In: MEGA² I/20. S. 436.20–437.6).
+                                                  <!--(((lThe Minute Book
+                                                  1864–1866. In: MEGA² I/20. S. 265–450)))-->
+                                                  </p></note></seg> vous me la rendrez <seg type="comment"><orig>lundi</orig><note xml:id="c58d3df7-c4e2-4942-9a22-f78392a2357e">Montag, der 23. Juli 1866.</note></seg>
+                                                soir. </p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00386" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>376</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 10. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4496/L VI 628</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 228 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Die erste Seite hat Marx vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                                                  Briefes auf der ersten Seite: „39“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2090</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                                                  (1913)<?oxy_custom_end?>. S. 414.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                                  <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-10"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                                  <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                                        <correspContext>
+                                                  <ref type="next" target="B00386"/>
+                                        </correspContext>
+                                        <note>Engels antwortete am 11. Oktober 1867 (siehe <ref target="B00387">Engels an Marx, 11.10.1867</ref>
+                                                  ).</note>
+                                        <note>Zu den Beilagen  („Brief des Kugelmann“, „Wisch von
+                                                  Meißner“) zum Brief siehe
+                                                  Erl.<?oxy_comment_start author="lindenberg" timestamp="20190220T150632+0100" comment="376.3 und 376.9"?><?oxy_comment_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:10Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                                        <opener>
+                                                  <dateline><pb/> 10 Oct.
+                                                  1867.</dateline>
+                                                  <salute>Dear Fred,</salute>
+                                        </opener>
+                                        <p><seg type="comment"><orig>Aus dem einliegenden Brief des
+                                                  <persName key="pdrPo.001.004.000002616">Kugelmann</persName></orig><note xml:id="d36bd70a-9483-45c0-898a-f884092bb148">Siehe <ref target="B00380"><?oxy_comment_start author="reichhoff" timestamp="20180601T093244+0200" comment="(Br. 370)"?>L.
+                                                  Kugelmann an Marx,
+                                                  8.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                                                  siehst Du, daß nun die Zeit zur action gekommen
+                                                  ist. Du kannst besser über <seg type="comment"><orig>mein Buch</orig><note xml:id="cb55a2dc-0279-4ccf-8b06-95c82ba9995c"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx:
+                                                  Das Kapital. Bd. 1. Buch 1. Hamburg
+                                                  1867</bibl>.</note></seg> ihm schreiben als ich
+                                                  selbst. Zugleich soll er nur keine
+                                                  Weitläufigkeiten machen u. uns die Sachen nicht
+                                                  zuschicken zur Correktur, sondern <hi rendition="#u">nachdem</hi> sie <subst>
+                                                  <del rendition="#s">ge<ex>druckt</ex><sic ana="#break-off"/></del>
+                                                  <add place="intralinear">erschienen</add>
+                                                  </subst> sind. Du mußt ihm ans Herz legen, daß
+                                                  alles aufs Lärmmachen ankommt, vielmehr als auf
+                                                  das Wie oder die Gründlichkeit.</p>
+                                        <p><seg type="comment"><orig>Einliegender Wisch von
+                                                  <persName key="pdrPo.001.004.000003135">Meißner</persName></orig><note xml:id="b3ff343d-6029-41bc-bcdb-5dd62d4da305">Siehe <ref target="mega_rq3_km1_1gb">O. Meißner
+                                                  an Marx, 7.10.1867</ref>.</note></seg> enthält
+                                                  Nichts. Wie kann er Kritiken erwarten, bevor seine
+                                                  eignen Buchhändlerannoncen erschienen sind?</p>
+                                        <p>Salut</p>
+                                        <closer>D<lb/>KM </closer>
+                              </div></body></text></TEI>

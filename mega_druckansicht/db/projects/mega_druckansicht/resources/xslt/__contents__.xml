@@ -1,0 +1,27 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/mega_druckansicht/resources/xslt" owner="admin" group="dba" mode="755" created="2020-02-19T17:38:30+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="header.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="header.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="transcription.xsl~" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="transcription.xsl~" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="content-grid.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="content-grid.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="transcription.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="transcription.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="transcr-teaser.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="transcr-teaser.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="content.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="content.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="html.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="html.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datum.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:30+01:00" modified="2020-02-19T17:38:30+01:00" filename="datum.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

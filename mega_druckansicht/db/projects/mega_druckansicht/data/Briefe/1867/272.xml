@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00281" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>272</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 22. Juni 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4479/L VI 612</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 222 × 183 mm. Alle vier Seiten hat Marx vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Von Marx’ Hand: auf der vierten Seite Randanstreichung (Z. 100–101).</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „14,1“ bis „14,4“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2041</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 382–384.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930).<?oxy_custom_end?> S. 395–397.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-06-22"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <note>Marx beantwortet Engels’ Brief vom 16. Juni 1867 (<ref target="B00278"><?oxy_comment_start author="lindenberg" timestamp="20190128T172654+0100" comment="(Br. 269)"?>Engels
+                        an Marx, 16.6.1867<?oxy_comment_end?></ref>) . Engels antwortete am 27. Juni
+                    1867 (<ref target="B00282"><?oxy_comment_start author="lindenberg" timestamp="20190128T172723+0100" comment="(Br. 273)"?>Engels
+                        an Marx, 27.6.1867<?oxy_comment_end?></ref>) .</note>
+                <note>Zur Beilage („4 weitere Bogen“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190121T135417+0100" comment=" 272.3."?>Erl.<?oxy_comment_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:40Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 22 Juni. 1867.</dateline>
+                    <salute>Lieber Fred,</salute>
+                </opener>
+                <p>Du erhälst hiermit <seg type="comment"><orig>4 weitere
+                            Bogen</orig><note xml:id="nkv2_5xc_wfb">Marx übersandte die
+                            Korrekturbogen des ersten Bandes des „<bibl sameAs="zotero-604880-PT9GISVC">Kapital</bibl>“.</note></seg>, die mir <seg type="comment"><orig>gestern</orig><note xml:id="nhtd_xxc_wfb">21. Juni
+                        1867.</note></seg> zukamen. Die Kerls haben manchen von mir sehr leserlich
+                    corrigirten Druckfehler stehn lassen. Mit dem <seg type="comment"><orig>„Children’s Employment <expan>C<ex>ommission</ex></expan>“</orig><note xml:id="ngpv_1yc_wfb">Children’s employment commission (1863–1867).
+                            [Reports.] Siehe <bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 207,
+                            213, 277, 383, 416, 435, 462 und 470/471. (MEGA² II/5. S. 185.38–40,
+                            189.19–26, 238.28–29, 323.46–324.30, 350.28–31, 364.39–40, 385.39–42,
+                            391.26–392.4, 392.15–26 und 392.35–39.) Siehe auch
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><ref target="B00143"><?oxy_custom_end?><?oxy_comment_start author="reichhoff" timestamp="20180517T100908+0200" comment="Br. 139"?>Marx
+                                an Engels, 21.07.1866;<?oxy_comment_end?></ref> und Erl.
+                        </note></seg> haben wir einen Fehler hineincorrigirt, Childrens’. Denn <hi rendition="#u">Children</hi> Nomin<ex>ativ</ex> Plur<ex>al</ex>, also ’
+                    Genitivzeichen. Ich sah es gleich, wie ich die <seg type="comment"><orig>Blue
+                            Books</orig><note xml:id="nhcm_2yc_wfb">Siehe <ref target="B00143"><?oxy_comment_start author="reichhoff" timestamp="20180517T100928+0200" comment="Br. 139
+"?>Marx
+                                an Engels, 21.07.1866; <?oxy_comment_end?></ref> („Bluebooks“) und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190517T103819+0200" comment="Erl. 139.30 (Erl. zu Blue Books hier bringen)"?>Erl.<?oxy_comment_end?> </note></seg>
+                    selbst wieder ansah.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002497">King</persName></orig><note xml:id="nq5v_kyc_wfb"><persName key="pdrPo.001.004.000002497">Philip
+                                Stephen King</persName>. Die Buchhandlung von King, die sich
+                            1859–1874 in der Parliament Street 34 befand, war auf den Verkauf der
+                            Gesetzbücher und anderer Dokumente des Britischen Parlaments
+                            spezialisiert. (London Post Office Directories for the 1850s–1870s.)
+                            Marx wandte sich an King oft, um die Berichte des englischen Parlaments
+                            zu erwerben. Siehe z.B.  <ref target="B00320">Marx an
+                                King,<?oxy_comment_start author="reichhoff" timestamp="20180517T101322+0200" comment="(Br. 311 "?>14.8.1867
+                                <?oxy_comment_end?></ref>und <ref target="B00334"><?oxy_comment_start author="reichhoff" timestamp="20180517T101454+0200" comment="und 325"?>27.8.1867<?oxy_comment_end?></ref>.
+                            Kings Buchhandlung ist auch im Brief vom Victor Schily an Marx und
+                            Engels vom 22. März 1860 erwähnt. (MEGA<hi rendition="#sup">2</hi>
+                            III/10. Br. 200.63–64.)</note></seg> schreibt mir, daß die <seg type="comment"><orig><hi rendition="#u">Fenians</hi></orig><note xml:id="nwh1_4yc_wfb">Report of commissioners on the treatment of the
+                            treason-felony convicts in the English Convict Prisons. London 1867.
+                            Siehe <ref target="B00275"><?oxy_comment_start author="reichhoff" timestamp="20180907T141141+0200" comment=" Erl. 266c"?>Marx
+                                an Engels, 3.6.1867<?oxy_comment_end?></ref> Erl. 266c.</note></seg>
+                    <hi rendition="#u">noch nicht heraus sind</hi>. Man verschiebt das so lang als
+                    möglich u. so dicht <subst>
+                        <del rendition="#ow">am</del>
+                        <add place="superlinear">an den</add>
+                    </subst> Schluß der Session als möglich.</p>
+                <p>Ich hoffe, daß Du mit den 4 Bogen zufrieden bist. Deine
+                    bisherige Satisfaction ist mir wichtiger als anything die übrige Welt may say of
+                    it. Jedenfalls hoffe ich, daß die Bourgeoisie ihr ganzes Leben lang an meine
+                    Karbunkeln denken wird. Welche Schweinhunde es sind, jezt wieder neue Probe! Du
+                    weißt, daß die Ch. Empl. Com. 5 Jahre functionirt hat. Auf <seg type="comment"><orig>ihren ersten Bericht</orig><note xml:id="np42_ryc_wfb">Children’s
+                            employment commission (1863–1867). First report of the commissioners.
+                            With app. Presented to Both Houses of Parliament by Command of Her
+                            Majesty. London 1863. Siehe Karl Marx: <bibl sameAs="zotero-604880-25ETZ5BH">Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> (MEGA² II/5. S. 189, 191–193, 212, 213,
+                            219, 384, 443 und 450.)</note></seg>, der 1863 erschien, wurden sofort
+                    die denuncirten Branchen „gemaßregelt“. Das Toryministerium hatte Anfang dieser
+                    Session, per <persName key="pdrPo.001.004.000005010">Walpole</persName>, the
+                    weeping willow, Bill eingebracht, wodurch sämmtliche Vorschläge der Commission,
+                    wenn auch auf sehr verjüngtem Maßstab, angenommen worden. Die zu maßregelnden
+                    Kerls, darunter die grossen Metallfabrikanten, u. <del rendition="#s">d<sic ana="#break-off"/></del> namentlich auch die Vampyre der „Hausarbeit“
+                    schwiegen beschissen. Jezt bringen sie eine Petition an das Parlament u.
+                    verlangen – <hi rendition="#u">Neue Untersuchung!</hi> Die alte sei
+                    partheiisch!</p>
+                <p>Sie rechnen darauf, daß <seg type="comment"><orig>die
+                            Reformbill</orig><note xml:id="ny5z_5yc_wfb">Siehe <ref target="B00025"><?oxy_comment_start author="reichhoff" timestamp="20180907T141619+0200" comment=" Erl. 24d"?>Jenny
+                                Marx an J. Ph. Becker, 29. Jan. 1866<?oxy_comment_end?></ref> und
+                            Erl. </note></seg> alle öffentliche <pb/> Aufmerksamkeit absorbirt, so
+                    daß <subst>
+                        <del rendition="#s">sie<sic ana="#break-off"/></del>
+                        <add place="intralinear">die Sache</add>
+                    </subst> ganz gemüthlich u. privately durchgeschmuggelt würde, während
+                    gleichzeitig <seg type="comment"><orig>böser Wind gegen die Trade’s
+                            Unions</orig><note xml:id="nzhy_1zc_wfb">Aus Anlaß der „Sheffield
+                            Outrages“ genannten Gewaltaktionen militanter Gewerkschafter in
+                            Sheffield 1866/67 wurde im Februar 1867 eine Kommission zur Untersuchung
+                            der Vorfälle und der Rolle der Gewerkschaften eingesetzt, deren
+                            Ergebnisse in zwei Bänden publiziert wurden (Trades Unions Commission:
+                            Sheffield Outrages Inquiry &lt;Trades Union Commission Act, 30 Vict. c.
+                            8&gt;. <bibl sameAs="zotero-604880-VZ98LX73">Report [and
+                                Minutes of Evidence] Presented to the Trades Unions Commissioners by
+                                the Examiners Appointed to Inquire Into Acts of Intimidation,
+                                Outrage, or Wrong Alleged to Have Been Promoted, Encouraged, or
+                                Connived at by Trades Unions in the Town of Sheffield.</bibl> Vol.
+                            1.2. Presented to Both Houses of Parliament by Command of Her Majesty.
+                            London 1867). Zu den Sheffield Outrages siehe auch MEGA<hi rendition="#sup">2</hi> I/21. Erl.
+                            1072.39–40<?oxy_comment_start author="lindenberg" timestamp="20190517T125958+0200" comment="vorher: ....vorher: (bei einigen Arbeitern der Sheffielder Metallwarenindustrie war es üblich geworden, gewaltsam gegen Nichtorganisierte und Streikbrecher vorzugehen) wurde im Februar 1867 eine Royal Commission to Make Inquiry Respecting the English Trade Unions eingesetzt, die sich nicht nur mit diesen Gewaltakten beschäftigte, sondern die gesamte Tätigkeit der Trade-Unions untersuchen sollte. Die Arbeit der Kommission sollte den Boden für eine verschärfte antigewerkschaftliche Gesetzgebung vorbereiten. Unter dem Eindruck der sofort einsetzenden Massenaktionen und angesichts der Tatsache, daß mit der Wahlreform von 1867 ein Teil der Arbeiter das Stimmrecht erhielt (siehe Jenny Marx an J. Ph. Becker, 29. Jan. 1866 und Erl.), gelangte die Kommission jedoch nicht zu den Ergebnissen, die ihre Initiatoren erhofft hatten."?>.<?oxy_comment_end?></note></seg>
+                    bläst. <seg type="comment"><orig>Das Schlimmste in den <hi rendition="#u">„Reports“</hi> sind <hi rendition="#u">die eignen Aussagen der
+                                Kerls</hi>. Sie wissen also, daß neue Untersuchung nur Eins meint,
+                            aber <del rendition="#s">das ist</del> grade das „was wir Bourgeois
+                            wollen“ – neuen Exploitationstermin von 5 Jahren! Glücklicher Weise
+                            erlaubt meine Stellung bei dem „International“ den Hunden einen Strich
+                            durch die feine Rechnung zu machen. Die Sache ist von der
+                            ausserordentlichsten Wichtigkeit. Es fragt sich um <hi rendition="#u">Abschaffung der Tortur</hi> für 1½ Millionen Menschen, <subst>
+                                <del rendition="#ow">wie</del>
+                                <add place="across">die</add>
+                            </subst> adult male <subst>
+                                <del rendition="#s">labo<ex>urers</ex></del>
+                                <add place="intralinear">workingmen</add>
+                            </subst> nicht eingerechnet!</orig><note xml:id="nvwk_xxd_wfb">Siehe
+                                <bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 482–486. (MEGA² II/5
+                            S. 401.1–404.20.) – Das Ergebnis der neuen, 1866 beendeten Untersuchung
+                            der Arbeitsbedingungen, waren An act for the extension of the factory
+                            acts. &lt;15th August 1867.&gt; (30 &amp; 31 Victoriæ, Cap. 103.) (The
+                            Factory Acts Extension Act, 1867) und An act for regulating the hours of
+                            labour for children, young persons, and women employed in workshops; and
+                            for other purposes relating thereto. &lt;21st August 1867.&gt; (30 &amp;
+                            31 Victoriæ, Cap. 146.) (The Workshop Regulation Act, 1867). (Siehe A
+                            collection of the public general statutes passed in the thirtieth and
+                            thirty-first years of the reign of Her Majesty Queen Victoria … London
+                            1867. S. 678–686 und 888–895.) Die Gesetze begrenzten den Arbeitstag für
+                            Frauen und Kinder auf 10,5 Stunden.</note></seg>
+                </p>
+                <p>Was die Entwicklung der <hi rendition="#u">Werthform</hi> betrifft, so habe ich <seg type="comment"><orig>Deinen
+                            Rath</orig><note xml:id="nujm_cyd_wfb">Siehe <ref target="B00278"><?oxy_comment_start author="reichhoff" timestamp="20180517T102328+0200" comment="(Br. 269.5–27)."?>Engels
+                                an Marx, 16.6.1867<?oxy_comment_end?></ref>.</note></seg> befolgt u.
+                        <hi rendition="#u">nicht</hi> befolgt, um mich auch in dieser Hinsicht
+                    dialektisch zu verhalten. D.h. ich habe 1) <seg type="comment"><orig>einen <hi rendition="#u">Anhang</hi> geschrieben,</orig><note xml:id="ncsl_gyd_wfb">Karl Marx: Anhang zu Kapitel I, 1. Die Werthform.
+                            In: <bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 764–784. (MEGA²
+                            II/5. S. 626–649.)</note></seg> worin ich <hi rendition="#u">dieselbe
+                        Sache</hi> so einfach als möglich u. so schulmeisterlich als möglich
+                    darstelle, u. 2) nach Deinem Rath jeden Fortschrittssatz in <hi rendition="#u">§§</hi> etc <hi rendition="#u">mit eignen Ueberschriften</hi>
+                        eingetheilt.<seg type="comment"><orig> In d<ex>er</ex>
+                            <hi rendition="#u">Vorrede</hi></orig><note xml:id="ncqn_kyd_wfb">Karl
+                            Marx: Vorwort. In: <bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl>
+                            S. VIII. (MEGA² II/5. S. 12.1–7.)</note></seg> sage ich dann dem „<hi rendition="#u">nicht dialektischen</hi>“ Leser, daß er p. x–y überschlagen
+                    u. statt dessen den Anhang lesen soll. Es handelt sich hier nicht nur um
+                    Philister, sondern um die Wissenslustige Jugend u.s.w. Ausserdem ist die Sache
+                    zu entscheidend für das ganze Buch. Die Herrn Oekonomen haben bisher das höchst
+                    Einfache übersehn, daß die Form: <hi rendition="#u">20 Ellen Leinwand =
+                        1 Rock</hi> nur die unentwickelte Basis von <hi rendition="#u">20 Ellen
+                        Leinwand = 2 Pf. St.</hi>, daß also die <hi rendition="#u">einfachste
+                        Waarenform</hi>, worin ihr Werth noch nicht als Verhältniß zu allen andern
+                    Waaren, sondern nur als <pb/>
+                    <hi rendition="#u">Unterschiednes</hi> von ihrer eignen Naturalform ausgedrückt
+                    ist, das <hi rendition="#u">ganze Geheimniß der Geldform</hi>, u. damit, <seg type="comment"><orig>in nuce</orig><note xml:id="nadj_dzd_wfb">(lat.) im
+                            Keim </note></seg>, <hi rendition="#u">aller bürgerlichen Formen des
+                        Arbeitsproducts</hi> enthält. Die Schwierigkeit der Entwicklung habe ich
+                        <seg type="comment"><orig>in der ersten Darstellung (<persName key="pdrPo.001.004.000001261">Duncker</persName>)</orig><note xml:id="nrwx_hzd_wfb">Karl Marx: Zur Kritik der Politischen Oekonomie.
+                            Erstes Heft. Berlin 1859. S. 42–52 (MEGA² II/2. S. 140–149.) Siehe
+                                auch<ref target="B00278"> Engels an Marx, 16.6.1867</ref> („der
+                            früheren Darstellung“) und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190517T161031+0200" comment="269d"?>Erl.<?oxy_comment_end?> </note></seg>
+                    dadurch vermieden, daß ich <subst>
+                        <del rendition="#s">den eigentlichen<sic ana="#break-off"/></del>
+                        <add place="across">die eigentliche</add>
+                    </subst> Analyse des <hi rendition="#u">Werthausdrucks</hi> erst gebe, sobald er
+                    entwickelt, als Geldausdruck, erscheint.</p>
+                <p>Mit <seg type="comment"><orig><persName key="pdrPo.001.004.000002208">Hofmann</persName></orig><note xml:id="nrlq_nzd_wfb">Aug[ust] Wilh[elm] Hofmann: Einleitung in die
+                            moderne Chemie … Braunschweig 1866. Siehe <ref target="B00278"><?oxy_comment_start author="reichhoff" timestamp="20180517T103757+0200" comment="(Br. 269.44–55)"?>Engels
+                                an Marx, 16.6.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190517T153351+0200" comment="269e."?>Erl.<?oxy_comment_end?> </note></seg>
+                    hast Du ganz recht. Du wirst übrigens aus dem Schluß meines <expan>Kapit<ex>els</ex></expan> III, wo die Verwandlung
+                    des Handwerksmeisters in Kapitalist – in Folge blos <hi rendition="#u">quantitativer</hi> Aenderungen – angedeutet wird, ersehn, <seg type="comment"><orig>daß ich dort <hi rendition="#u">im Text</hi>
+                            <persName key="pdrPo.001.004.000002103">Hegels</persName> Entdeckung
+                            über das <hi rendition="#u">Gesetz des Umschlags der blos <expan>quant<ex>itativen</ex></expan> Aenderung in <expan>qualit<ex>ative</ex></expan></hi> citire als gleich bewährt in
+                            Geschichte u. Naturwissenschaft. </orig><note xml:id="nxj1_szd_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 288 (MEGA² II/5.
+                            S. 246.26–30). – In Hegels „Wissenschaft der Logik“, Buch 1, Abschnitt
+                            3, Kapitel 2, heißt es am Ende des Punktes C: „Es hat sich aber gezeigt,
+                            daß die Veränderungen des Seins überhaupt nicht nur das Übergehen einer
+                            Größe in die andere Größe, sondern Übergang vom Qualitativen in das
+                            Quantitative und umgekehrt sind, ein Anderswerden, das ein Abbrechen des
+                            Allmählichen und ein qualitativ Anderes gegen das vorhergehende Dasein
+                            ist.“</note></seg><seg type="comment"><orig>In der <hi rendition="#u">Note</hi> zum Text</orig><note xml:id="nelq_yd2_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 288 (MEGA² II/5.
+                            246.42–44.).</note></seg> (ich hörte damals grade den <persName key="pdrPo.001.004.000002208">Hoffmann</persName>) erwähne ich die <seg type="comment"><orig><hi rendition="#u">Moleculartheorie</hi></orig><note xml:id="npvj_sly_thb">Als eigentlicher Begründer der modernen
+                            Molekulartheorie im 19. Jahrhundert gilt der italienische Physiker und
+                            Chemiker <persName key="pdrPo.001.004.000000195">Amedeo
+                                Avogadro</persName> mit seinem Schrift „Essai d’une manière de
+                            déterminer les masses rélatives des molécules élémentaires des corps, et
+                            les proportions selon lesquelles elles entrent dans les combinaisons.
+                            In: Journal de physique, de chimie, d’histoire naturelle et des arts ...
+                            Paris. T. 73. 1811. – Marx’ Aussage über <persName key="pdrPo.001.004.000005207">Charles Adolphe Wurtz</persName> als
+                            Begründer der Molekulartheorie wurde durch Engels korrigiert (siehe <ref target="B00282"><?oxy_comment_start author="reichhoff" timestamp="20180517T104317+0200" comment="Br. 273.47–50"?>Engels
+                                an Marx, 24.6.1867<?oxy_comment_end?></ref>) und in der 2. Auflage
+                            des 1. Bandes des „Kapital“ berücksichtigt (siehe MEGA<hi rendition="#sup">2</hi> II/6. S. 308.43–44). Einen weitergehenden
+                            Zusatz machte Engels bei der Vorbereitung der 3. deutschen Auflage nach
+                            Marx’ Tod. (Siehe MEGA<hi rendition="#sup">2</hi> II/8. S. 309.33–44.)
+                            Marx’ Studium von Wurtz' „Histoire des doctrines chemiques depuis
+                            Lavoisier jusqu’à nos jours“, Paris, Londres, Leipzig 1869, ist in
+                            seinem Handexemplar des Buches dokumentiert (MEGA<hi rendition="#sup">2</hi> IV/32. Nr. 1432). Zu Marx’ Beschäftigung mit der
+                            Molekulartheorie in den 1870er Jahren siehe MEGA<hi rendition="#sup">2</hi> IV/31, S. 285–294.</note></seg>, aber nicht <persName key="pdrPo.001.004.000002208">Hoffm.</persName>, der <hi rendition="#u">nichts</hi> in der Sache erfunden hat <add place="intralinear"><?oxy_comment_start author="lindenberg" timestamp="20181120T151857+0100" comment=" ausser den Reihen °&gt;&gt; ausser der Reihe 
+ Variante nochmal prüfen!"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="20"?>ausser
+                        den <hi rendition="#u"><?oxy_comment_start author="lindenberg" timestamp="20190517T164401+0200" comment="lese: Strichen"?>Reihen<?oxy_comment_end?></hi><?oxy_comment_end?><?oxy_custom_end mid="20"?></add>,
+                    sondern <persName key="pdrPo.001.004.000002723">Laurent</persName>, <persName key="pdrPo.001.004.000001766">Gerhardt</persName> u. <hi rendition="#u"><persName key="pdrPo.001.004.000005207">Wurtz</persName></hi>, welcher
+                    letztere <hi rendition="#u">der eigentliche Mann</hi> ist. In Folge <seg type="comment"><orig>Deines Briefs</orig><note xml:id="ncq3_x22_wfb">Siehe
+                                <ref target="B00278"><?oxy_comment_start author="reichhoff" timestamp="20180517T104405+0200" comment="(Br. 269.44–55)"?>Engels
+                                an Marx, 16.6.1867<?oxy_comment_end?></ref>.</note></seg> erinnerte
+                    ich mich dunkel der Sache u. sah daher mein Mscpt nach.</p>
+                <p>Die Druckerei ist in den letzten zwei Wochen (nur 4 Bogen) langsam gegangen,
+                    wahrscheinlich wegen der Pfingstzeit. Doch muß Herr <persName key="pdrPo.001.004.000005126">O. <expan>W<ex>igand</ex></expan></persName>
+                    dieß nachholen. À Propos. <seg type="comment"><orig><hi rendition="#u">Dein</hi>
+                            Buch</orig><note xml:id="ne1f_bf2_wfb">Friedrich Engels: Die Lage der
+                            arbeitenden Klasse in England. Nach eigner Anschauung und authentischen
+                            Quellen. Leipzig 1845. Das Buch erschien Ende März 1845 im Verlag von
+                            Otto Wigand. Der unverkauft gebliebene Teil der Auflage gelangte später
+                            mit der neuen Jahresangabe 1848 in den Handel. Zu Engels’ Handexemplar
+                            siehe MEGA<hi rendition="#sup">2</hi> IV/32. Nr. 381. Siehe auch <ref target="B00036"><?oxy_comment_start author="reichhoff" timestamp="20180517T104554+0200" comment="(Jg. 1866 Br. 33.23–29)."?>Marx
+                                an Engels, 10.2.1866<?oxy_comment_end?></ref>.</note></seg> ist noch
+                    zu haben. Der <seg type="comment"><orig><orgName key="ed_fgm_42g_zgb">Arbeiterverein</orgName></orig><note xml:id="ni52_2f2_wfb">Siehe<ref target="B00038"> F. Leßner an Marx, 12.2.1866</ref> und
+                            Erl.</note></seg> hat 2 new copies bestellt bei <persName key="pdrPo.001.004.000005126">O. W.</persName> und erhalten. (2. Auf.
+                    1848.)</p>
+                <p>Nun Privates.</p>
+                <p><seg type="comment"><orig>Meine Kinder sind gezwungen 2. Juli andre Mädchen zum
+                            Tanz bei sich einzuladen</orig><note xml:id="nwt4_pl2_wfb">Zusätzliche
+                            Information über diesen Empfang enthält ein nicht vollständig
+                            überlieferter <ref target="mega_utz_zf2_wfb"><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><?oxy_comment_start author="lindenberg" timestamp="20181120T154251+0100" comment=" Paratext_z_Br_272_Brief_v_L_Marx_J_Marx (Tochter)_Juni_1867.xml" mid="25"?>Brief<?oxy_custom_end?><?oxy_comment_end mid="25"?>
+                                von Laura Marx aus London an Jenny Marx (Tochter) in Paris,
+                                geschrieben offensichtlich in der zweiten Junihälfte 1867</ref>. Das
+                            Ende des Briefes ist nicht überliefert. Originalhandschrift: RGASPI,
+                            Sign. f. 10, op. 1, d. 142. Erstveröffentlichung: Переписка Карла
+                            Маркса, Фридриха Энгельса и членов семьи Маркса (1983). S. 312/313;
+                            siehe auch Familie Marx privat … S. 330.</note></seg>, da sie dieß ganze
+                    Jahr Niemand einladen, die Einladungen nicht erwiedern konnten, also auf dem
+                    <pb/> Sprung sind to lose cast. So beklemmt ich momentan bin, mußte ich also
+                    darauf eingehn, u. rechne auf Dich für den Wein (Claret u. Rhein), d.h. daß Du
+                    mir ihn im Laufe nächster Woche besorgst.</p>
+                <p><hi rendition="#u">Zweitens</hi>, da ein „Unglück“ nie
+                    allein kommt, hat sich <seg type="comment"><orig><persName key="pdrPo.001.004.000004299">Lina</persName></orig><note xml:id="nidc_qn2_wfb"><persName key="pdrPo.001.004.000004299">Caroline
+                                Schoeler</persName>.</note></seg> für nächste Woche angesagt.
+                        <persName key="pdrPo.001.004.000003075">Meine Frau</persName> muß ihr dann
+                    5 £, die sie ihr schuldet, zurückgeben, u. Du begreifst, daß ich nach Abwehr des
+                    ersten Gläubigersturms dieß nicht afford kann.</p>
+                <p>Ich bin in der That im höchsten Grade wüthend über die
+                    Leute, die mir Geld versprochen haben u. nichts (wenigstens bis heute) von sich
+                    hören lassen. Sie interessiren sich persönlich für mich. Das weiß ich. Sie
+                    wissen auch, daß ich nicht fortarbeiten kann ohne eine gewisse Ruhe. Und doch
+                    lassen sie nichts von sich hören!</p>
+                <p><seg type="comment"><orig>Der „edle“ Dichter <persName key="pdrPo.001.004.000001631">Freiligrath</persName> wird doch ein
+                            Erkleckliches zusammenbekommen.</orig><note xml:id="nxmd_wn2_wfb"> Siehe
+                                <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180517T105559+0200" comment="(Br. 242.96–97)"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref> und Erl. sowie <ref target="B00275"><?oxy_comment_start author="reichhoff" timestamp="20180517T105657+0200" comment="(Br. 266.11–19)"?>Marx
+                                an Engels, 3.6.1867<?oxy_comment_end?></ref>.</note></seg> Denn der
+                    Bettel bei <expan>d<ex>en</ex></expan>
+                    reichen Deutschen in Südamerika u. – China! u. Westindien! soll sehr, da diese
+                    Kerls das als <hi rendition="#u">national</hi> betrachten, ziehn! Unterdeß leben
+                    die F.’s nach wie vor <hi rendition="#u">relativ</hi> in grossem Styl, geben
+                        f<ex>or</ex>tw<ex>ä</ex>h<ex>ren</ex>d Gesellschaft, gehn
+                    f<ex>or</ex>twährend dahin. Dieß ist ein Grund, warum die Londoner
+                    d<ex>eu</ex>tschen „Kaufleut' sehr spröd. <persName key="pdrPo.001.004.000001631">Er, der Dicke</persName>, soll (so sagt
+                        <persName key="pdrPo.001.004.000003075">meine Frau</persName>, die da war)
+                    sehr afficirt u. leidend u. gedrückt aussehn. Aber <seg type="comment"><orig><persName key="pdrPo.001.004.000001633">Ida</persName></orig><note xml:id="nelz_xn2_wfb"><persName key="pdrPo.001.004.000001633">Ida
+                        Freiligrath</persName>.</note></seg> blüht wie eine Klatschrose u. war nie
+                    fideler in ihrem Leben.</p>
+                <p>Besten Gruß an Mrs. <persName key="pdrPo.001.004.000000698">Lizzy</persName></p>
+                <closer>Dein<lb/>KM</closer>
+                <postscript>
+                    <p>Honoris causa mußt Du doch das Photogramm d<ex>er</ex>
+                        <hi rendition="#u"><persName key="pdrPo.001.004.000001970">Madame
+                                Gumpert</persName></hi> für mich herausfordern. </p>
+                </postscript>
+            </div></body></text></TEI>

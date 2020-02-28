@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00400" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>390</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Donnerstag, 17. Oktober 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 460/D 1 129 Fotosign. 9683.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 129 × 204 mm.
+                            Wasserzeichen: „Extra Su[perfine] A C [&amp; S]“. Aufdruck der
+                                Firma<orgName key="pdrPo.001.015.000090279"> „Schröder &amp; Schÿler
+                                &amp; C<hi rendition="#sup">o</hi>“</orgName> (siehe Borkheim an
+                            Marx, 8. Januar 1866) auf der ersten Seite oben links. Die erste Seite
+                            hat Borkheim vollständig beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte</p><p>Der Brief hat eine Beilage (siehe „Anmerkungen zum Brief“). </p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1754</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-17"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Zur Beilage („die £ 40“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:20Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 17 Oct <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Einliegend erhalten Sie <seg type="comment"><orig>die £ 40,</orig><note xml:id="a37e4cbb-d802-4595-a9a9-d31a8a04479f">Siehe <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180605T123729+0200" comment="(Br. 388.10–13)"?>S.
+                                L. Borkheim an Engels, 16.10.1867 <?oxy_comment_end?></ref>. Zur
+                            Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180605T123806+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs ...“
+                            und Erl.</note></seg> deren Empfang Sie mir gefälligst umgehends
+                    anzeigen wollen. Sie müssen endossiren</p>
+                <p>D<hi rendition="#sup">r.</hi> Karl Marx.</p>
+                <p>Heute traf ich den Grafen <persName key="ed_jxj_sjk_y2b">Oscar
+                        Reichenbach</persName> auf der Straße. Seit 1851 hatte ich ihn nicht
+                    gesehen. Der Arme thut mir leid. Er wohnt nahe bei mir. <seg type="comment"><orig>Nach meiner Rückkehr</orig><note xml:id="bd4ce3ce-c9b6-4257-a16c-6ce339b59908">Siehe <ref target="B00393">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180605T123852+0200" comment="(Br. 383.13–19)"?>Borkheim
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref> „Am Sonnabend
+                            ...“.</note></seg> werde ich ihn aufsuchen. </p>
+                <p>Adieu!</p>
+                <closer>Ihr<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00259" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>248</idno>Abraham Jacobi an Karl Marx in London. New York, Ende April – Anfang
+          Mai 1867</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 5 d.
+                1698</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Visitenkarte von weißer, fester Pappe im Format 98 × 57 mm. Jacobi hat die
+              Vorderseite der Karte zur Hälfte beschrieben und seine aufgedruckten Angaben (der Name
+              und die Adresse) als Unterschrift benutzt, die Rückseite ist leer.</p>
+            <p>Archivsignatur des ИМЭ auf der Vorderseite:
+              <?oxy_comment_start author="lindenberg" timestamp="20181023T133725+0200" comment="vorher: Rj94"?>„Rj
+              94<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>a<?oxy_custom_end?>“.<?oxy_comment_end?></p>
+            <p/>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000002336">Jacobi, Abraham (1830-1919)</persName>
+          <placeName key="ed_lzf_5nv_cbb">New York</placeName>
+          <date when="1867-04-30"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <note>Zur Datierung: Im Brief an <persName key="ed_eyg_crj_sx">Engels</persName>,
+          geschrieben um 22. Mai 1867, erwähnt Marx <persName key="pdrPo.001.004.000003182">Hermann
+            Meyer</persName>, der mit der Empfehlung von Jacobi nach London kam, um Marx und
+            <persName key="ed_eyg_crj_sx">Engels</persName> zu sehen, und „gestern“ Marx besuchte (
+          siehe <ref target="B00271"><?oxy_comment_start author="reichhoff" timestamp="20180828T134802+0200" comment="Br. 262.12–13)"?>Marx
+            an Engels, um den 22.5.1867<?oxy_comment_end?></ref> . Daraus folgt, daß Jacobi seinen
+          Empfehlungszettel kurz vor der Abreise Meyers aus den USA, d.h., etwa Ende April–Anfang
+          Mai 1867 geschrieben haben könnte.</note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter-Assoziation (IAA, A.I.T.,
+            I.W.M.A.)</term>
+          <term key="ed_lqp_hdy_g1b">USA (Arbeiterorganisationen, allgemeine politische Lage,
+            Auswanderung in die USA)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:45:23Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <salute><seg type="comment"><orig>Ich empfehle hiermit dem Herrn Karl
+                Marx den Überbringer dieser Karte, Herrn <persName key="pdrPo.001.004.000003182">Hermann Meyer</persName>,</orig><note xml:id="d7df4fc1-ca8b-496f-95df-43d6c96c3d6c"><persName key="pdrPo.001.004.000003182">Hermann Meyer</persName> war nach London gekommen,
+                um Marx und <persName key="ed_eyg_crj_sx">Engels</persName> zu besuchen. Siehe <ref target="B00271"><?oxy_comment_start author="reichhoff" timestamp="20180625T112713+0200" comment="(Br. 262)."?>Marx
+                  an Engels, um den 22.5.1867<?oxy_comment_end?></ref>.</note></seg> der ein
+            langjähriger, lieber und thätiger Freund des Unterzeichneten, und besonders <seg type="comment"><orig>des <expan>verst<ex>orbenen</ex></expan>
+                <persName key="pdrPo.001.004.000005094">Joseph Weidemeyer</persName>,</orig><note xml:id="a4d65efb-2a63-4e6b-a5b3-d749aa9762d0"><persName key="pdrPo.001.004.000005094">Joseph Weydemeyer</persName> war am 20. August 1866
+                an Cholera gestorben (<bibl sameAs="zotero-604880-I5JJD8FD">Obermann: Joseph Weydemeyer.</bibl> S. 396). </note></seg> gewesen ist.</salute>
+        </opener>
+        <closer><hi rendition="#mPrint"><hi rendition="#mPrint">A. Jacobi,
+              M.D.</hi></hi></closer>
+        <postscript>
+          <p><hi rendition="#mPrint"><hi rendition="#mPrint">110.West 34<hi rendition="#sup">th</hi>
+                St.</hi>,</hi> N.Y. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

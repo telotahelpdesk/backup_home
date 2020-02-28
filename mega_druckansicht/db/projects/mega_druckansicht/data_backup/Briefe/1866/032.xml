@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00035" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>32</idno>Asher &amp; Co. an Karl Marx in London. London, Samstag, 10.
+                    Februar 1866</title>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 74/D I 9–3</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            284 × 220 mm. Aufdruck auf der ersten Seite oben in der
+                            Mitte: „Asher &amp; C<hi rendition="#sup">o</hi> Foreign Booksellers
+                            &amp; Publishers 13. Bedford Street, Covent Garden. London, W.C.“.
+                            Es folgen die Datumszeile und  der Aufdruck: „(Also at 20. Unter
+                            den Linden, Berlin.)“. Die erste Seite ist vollständig beschrieben, die
+                            übrigen drei sind leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 5981</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="pdrPo.001.015.000090013">Asher &amp; Co.</orgName>
+                    <placeName>London</placeName>
+                    <date when="1866-02-10"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_mts_42y_g1b">Journalismus</term>
+                    <term key="ed_fv1_snz_g1b">Lektüre</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:34Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> Feb. 10<hi rendition="#sup">th</hi>
+                        1866.</dateline>
+                    <salute sameAs="MBAnrede">Mr. Marx</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug">Sir</p>
+                <p rend="MBTextOhneEinzug">We have orders from the continent for the following</p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Lord Palmerston &amp;
+                            Poland. 1853.</orig><note xml:id="b0d32abd-a8de-4b95-a32b-8c49d7a38cf2">Vermutlich gemeint ist die Flugschrift <bibl sameAs="zotero-604880-MZJPBZDU" type="primary">[Karl Marx:]
+                                Palmerston and Russia. London [1854]. (Political Fly-Sheets. Nr.
+                                1.)</bibl>, basierend auf Teilen von Marx’ im Jahre 1853
+                            erschienener Artikelserie „Lord Palmerston“ (<bibl sameAs="zotero-604880-YXZ74PQV" type="primary">MEGA² I/12.
+                                S. 357–442</bibl>). In einer zusammengebundenen Ausgabe (London
+                            1855) der von <persName key="pdrPo.001.004.000004827">Tucker</persName>
+                            bis dahin herausgegebenen „Political Fly-Sheets“ ist die Schrift auf dem
+                            Titelblatt des Sammelbandes ([S. III], mit Inhaltsverzeichnis) als
+                            „Palmerston and Poland“ bezeichnet. Der Artikel selbst trägt die
+                            Überschrift „Palmerston and Russia“, siehe <bibl sameAs="zotero-604880-TH8HLHQ7" type="primary">(Charles [Karl]
+                                Marx:) Palmerston and Russia. In: Tucker's Political Fly-Sheets.
+                                London 1855. [Getr. Zählung].</bibl> Er ist identisch mit der o. g.
+                            Einzelausgabe
+                            .<!--((((l[Marx, Karl:] Palmerston and Russia. London [1854]. (Political Fly-Sheets. Nr. 1.).))) (l(Marx, Charles [Karl]:) Palmerston and Russia. In: Tucker's Political Fly-Sheets. London 1855. [Getr. Zählung])))-->
+                            (Siehe dazu auch <bibl sameAs="zotero-604880-BSTJWNCZ" type="secondary">Priž. izd.</bibl> Nr. 1331 und Nr. 1333 sowie <bibl sameAs="zotero-604880-IWDEH7ZY" type="secondary">MEGA² I/12</bibl>. S. 983 und 989.)</note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>-------------"---------------what has he done. 1854</orig><note xml:id="bd4cef83-0d24-4623-bebb-b87e2e281cf4"><bibl sameAs="zotero-604880-CJ7C34ZM" type="primary">[Karl Marx:]
+                                Palmerston, what has he done? London [1854]. (Political Fly-Sheets.
+                                Nr. 2.).</bibl> Auch hier könnte wieder die identische
+                            Publikation im Sammelband „Tucker’s Political Fly-Sheets“, London 1855,
+                            siehe <bibl sameAs="zotero-604880-NUE8VA67" type="primary">(Charles
+                                [Karl] Marx:) Palmerston, what has he done? In: Tucker's Political
+                                Fly-Sheets. London 1855. [Getr. Zählung].</bibl> gemeint sein.
+                            (Siehe dazu auch <bibl sameAs="zotero-604880-BSTJWNCZ" type="secondary">Priž. izd.</bibl> Nr. 1332 und Nr. 1334 sowie MEGA² I/12. S.
+                            983/984.) <!--(((l[Marx,Karl:] Palmerston, what has he done? London [1854]. (Political Fly-Sheets. Nr. 2.).)))-->
+                            <!--(((l(Marx, Charles [Karl]: Palmerston, what has he done? In: Tucker’s Political Fly-Sheets. London 1855. [Getr. Zählung].)))-->
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Life of Do ---
+                            1850</orig><note xml:id="ndkc_lz5_vy">Vermutlich ist hier die
+                            Artikelserie <bibl sameAs="zotero-604880-INYG89VC" type="primary">„The
+                                Story of the Life of Lord Palmerston“</bibl> gemeint. Unter diesem
+                            Titel erschienen Marx’ Artikel über Palmerston in der „Free Press“
+                            (London) Nr. 12–14, 18 und 19 am 29. Dezember 1855, 5. und 12. Januar
+                            sowie 9. und 16. Februar 1856.
+                            <!--(((l[Marx,Karl:] The Story of the
+                            Life of Lord Palmerston. In: The Free Press. London. Nr. 12–14, 18 und
+                            19, 29. Dezember 1855, 5. und 12. Januar, 9. und 16. Februar 1856.)))-->
+                            Die ganze Serie kam auch in den <bibl sameAs="zotero-604880-RWMSM2C8" type="primary">„Free Press Serials“</bibl> (Nr. 4 und 5 [vielm. 5
+                            und 6]. Sheffield [1856]) heraus. Siehe <bibl sameAs="zotero-604880-IWDEH7ZY" type="secondary">MEGA² I/12.</bibl>
+                            S. 984–987 und 995–997.
+                            <!--(((l(Marx,[Karl]:) The Story of the Life of Lord
+                            Palmerston. In: Free Press Serials. Sheffield. (Nr. 4 und 5 [vielm. 5
+                            und 6]. [1856])))-->
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Der 18te Brumaire des Louis
+                            Napoleon. New York 1852.</orig><note xml:id="ae82e510-ec98-4507-82d0-1f51b1cbf2bc"><bibl sameAs="zotero-604880-JLV5RJGN" type="primary">Karl Marx: Der 18te
+                                Brumaire des Louis Napoleon.</bibl> In: Die Revolution. New-York
+                            1852. H. 1. (<bibl sameAs="zotero-604880-J4JGP7E5" type="primary">MEGA<hi rendition="#sup">2</hi> I/11. S. 96–189</bibl>).
+                            <!--(((lMarx,Karl: Der 18te Brumaire des Louis Napoleon. In: Die Revolution.
+                            New-York 1852. H. 1. (MEGA<hi rendition="#sup">2</hi> I/11.
+                            S. 96–189). )))-->
+                        </note></seg></p>
+                <p sameAs="MBTextmitEinzug">1 <seg type="comment"><orig>Der Ritter vom <expan resp="editor" sameAs="dottet_underline">Edelmüthi<ex>gen</ex></expan> Bewusstsein. New York
+                            1853.</orig><note xml:id="ce279cce-23be-4db1-bea5-ba41e5d07583"><bibl sameAs="zotero-604880-T9X4QHFH" type="primary">Karl Marx: Der Ritter
+                                vom edelmüthigen Bewußtsein. [New York 1854].</bibl> (<bibl sameAs="zotero-604880-I456M5PW" type="primary">MEGA<hi rendition="#sup">2</hi> I/12. S. 503–529</bibl>).
+                            <!--(((lMarx,Karl: Der Ritter vom
+                            edelmüthigen Bewußtsein. [New York 1854]. (MEGA<hi rendition="#sup">2</hi>_I/12. S. 503–529).)))-->
+                        </note></seg></p>
+                <p rend="MBTextOhneEinzug">If you can furnish us with the same we shall be <choice>
+                        <sic>oblige</sic>
+                        <corr cert="high">obliged</corr>
+                    </choice></p>
+                <closer sameAs="MBUnterschrift"><!--<hi rend="color(0000FF)">{u2}</hi>--><hi rend="color(0000FF)">&amp;</hi> Remain<lb/>Yours most
+                        respectfully<lb/>Asher &amp;
+                        Co.
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

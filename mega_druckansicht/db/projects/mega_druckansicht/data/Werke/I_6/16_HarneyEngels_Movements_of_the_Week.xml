@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Movements of the Week</title>
+                <author>
+                    <persName>George Julian Harney</persName>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-09-07</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Harney, George Julian, Friedrich Engels:] Movements of the Week. In: Northern Star. Vol. X. Nr. 506, 3. Juli 1847. S. 7.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Movements of the Week.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1847-07-03</date>
+                        <date type="creation">1847-06-26</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X</biblScope>
+                        <biblScope unit="issue">506</biblScope>
+                        <biblScope unit="page">7</biblScope>
+                        <biblScope unit="column">2-3</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName>George Julian Harney</persName>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_wz2_shs_qx">London</placeName>
+                <placeName key="ed_cn4_12j_wx">Paris</placeName>
+                <date notBefore="1847-06-26" notAfter="1847-07-02">Ende Juni/Anfang Juli 1847</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <head><hi rendition="#smaller"><hi rendition="#c"><hi rendition="#k">Movements of the Week.</hi></hi></hi></head>
+                <p><hi rendition="#smaller"><milestone unit="section" rendition="#hr"/></hi></p>
+                <p><hi rendition="#smaller">The arrival from India this week has brought no later news from China —
+                    indeed, no news at all from that region. As yet, therefore, we are uninformed of
+                    any good and sufficient reasons for the violent attack by the British upon the
+                    Chinese, reported in our last. The “Celestials” evidently entertain a wholesome
+                    horror of the encroachments of the British, and with the fate of India before
+                    their eyes this is not to be wondered at. Still more atrocious has been the
+                    conduct of the French towards the Cochin-Chinese. That the arms of a nation so
+                    notoriously indifferent to the Christian religion should have been employed to
+                    support the insolent pretensions of a crew of meddling priests, is exceedingly
+                    disgraceful to the French authorities. The French priests could not convert the
+                    Cochin-Chinese, so, forsooth, had recourse to the old orthodox system of slaying
+                    their bodies to save their souls! More than a thousand of the natives ruthlessly
+                    butchered in the name of Christianity, is an unmistakeable exposition of the
+                    religion of “peace on earth and goodwill to men”.</hi></p>
+                <p><hi rendition="#smaller">The admirable summary of the recent extraordinary scenes and astounding
+                    disclosures in the French legislature by our Parisian correspondent, together
+                    with his able comments thereon, leave us nothing to say on a subject pregnant
+                    with vast results for France and Europe; for important to the entire continent
+                    will be the fall of Guizot, which cannot now be much longer postponed. His
+                    overthrow will be the fall of the strongest prop of the Monarchy of the
+                    Barricades, which will hence the sooner perish. A friend of ours, writing from
+                    Paris, says: —</hi> “Guizot and Duchatel are, in future, <hi rendition="#i">impossible,</hi> as the French say, but after them no one is <hi rendition="#i">possible</hi>. There are days of great sorrow and tribulation
+                    coming on for the rich in the land. ‘A cabinet, a cabinet, my kingdom for a
+                    cabinet’, will be the cry of old Louis Philippe. A great many will be weighed,
+                    and all will be found wanting. There is already wailing and gnashing of teeth in
+                    the palace of the Tuilleries. ‘I’d rather be a kitten and cry <hi rendition="#i">mew</hi>’; than one of the French <hi rendition="#i">haute
+                    bourgeoisie</hi>, and partake of the mess M. de Girardin has put them in. This
+                    Girardin is the greatest rogue in Paris, but the cleverest one too. He is sold
+                    to Russia, sold to the Anti-Corn Law League. Guizot has been ass enough to anger
+                    this dangerous man, by neglecting to satisfy his cupidity, and now see the
+                    result. A worse scoundrel than Girardin never escaped the gallows (whether he
+                    will, time will tell), but in shaking the existing ‘system’ to its foundation,
+                    he is doing France and mankind a service. I repeat, the days of Guizot’s
+                    supremacy are numbered.” <hi rendition="#smaller">Mulhouse, the Manchester of France, has been the scene
+                    of a violent outbreak, occasioned by the high prices of food. The people
+                    generally in the departments are suffering intensely, and are greatly
+                    exasperated against the government. They ask why Paris should be so especially
+                    favoured as it has been, as regards the distribution of food and the forced
+                    reduction of prices. “The reason is obvious”, say the people of the provinces,
+                    “order and tranquillity must be preserved in Paris at any price.” This state of
+                    things, and these expressions of popular discontent, combined with the
+                    scandalous disclosures in high places, significantly attest the ticklish
+                    position of Louis Philippe and his worthy comrogues, whose reign is evidently
+                    drawing to a close.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

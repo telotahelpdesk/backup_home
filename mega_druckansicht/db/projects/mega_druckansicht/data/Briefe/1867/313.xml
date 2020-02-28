@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00322" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>313</idno>Karl Marx an Friedrich Engels in Manchester. London, Freitag, 16. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4485/L VI 618</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 115 × 180 mm. Prägung:
+                            Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Die erste
+                            Seite hat Marx vollständig beschrieben, die zweite ist leer. Die letzte
+                            Passage („Ich brauche die Reinabzüge erst zurück, <hi rendition="#u">sobald das Buch ganz erschienen ist</hi>.“) ist am oberen
+                            Seitenrand unter dem Datum geschrieben. Schreibmaterial: schwarze
+                            Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: auf der ersten
+                            Seite oben rechts der Vermerk für Abbildung des vorliegenden Briefes:
+                                „<hi rendition="#u">Zu gleicher Größe</hi>“.</p><p/></physDesc></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 392.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-08-16"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00321"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Brief vom 15. August 1867 (siehe <ref target="B00321"><?oxy_comment_start author="lindenberg" timestamp="20190219T143517+0100" comment="312"?>Engels
+                        an Marx, 15.8.1867<?oxy_comment_end?></ref>).</note>
+                <note>Zur Beilage („2 Bogen Reinabzug“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:24Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#u">2 Uhr Nacht. 16 Aug. 1867.</hi></dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p>Eben <seg type="comment"><orig>den <hi rendition="#u">lezten Bogen</hi> (49.) des Buchs</orig><note xml:id="bcc14d49-f832-4850-a85c-a9f44b932fa5"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg> fertig
+                    corrigirt. <seg type="comment"><orig>Der Anhang – <hi rendition="#u">Werthform</hi></orig><note xml:id="be3ff975-d888-44ab-8bce-76d14b2fab26">Siehe ebenda. S. 764–784.
+                            (MEGA² II/5. S. 626–649.)</note></seg><hi rendition="#u"> –
+                        kleingedruckt</hi>, umfaßt 1¼ Bogen.</p>
+                <p><hi rendition="#u"><seg type="comment"><orig>Vorrede</orig><note xml:id="nogl_4rn_qgb">Siehe ebenda.
+                                S. VII–XII. (MEGA² II/5. S. 11–15.)</note></seg></hi> ditto gestern
+                    corrigirt zurückgeschickt. Also <hi rendition="#u">dieser Band ist fertig</hi>.
+                    Blos <hi rendition="#uu"><?oxy_comment_start author="lindenberg" timestamp="20181123T145953+0100" comment="im Word-Ms {gesperrt}"?>Dir<?oxy_comment_end?></hi>
+                    verdanke ich es, daß dieß möglich war! Ohne Deine Aufopferung für mich konnte
+                    ich unmöglich die ungeheuren Arbeiten <seg type="comment"><orig>zu den
+                            3 Bänden</orig><note xml:id="cd21fc60-5dfa-4429-aa08-f15b628a5cb9"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital.</bibl> Siehe <ref target="B00007">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180911T123816+0200" comment="Erl. 6b "?>J.
+                                Ph. Becker an Marx, zw. 9. u. 15. Jan. 1866<?oxy_comment_end?></ref>
+                            und <ref target="B00321">Erl. zu Engels an Marx,
+                            15.8.1867</ref>.<?oxy_comment_start author="lindenberg" timestamp="20181114T173416+0100" comment="zu zweite Kapitalerl. v. RR  Bd 2.3 hier Verweis setzen"?></note><?oxy_comment_end?></seg>
+                    machen. I embrace you, full of thanks!</p>
+                <p>Beiliegend 2 Bogen Reinabzug.</p>
+                <p><seg type="comment"><orig>Die 15 £ mit bestem Dank
+                            erhalten.</orig><note xml:id="c7b9994b-d3ef-460b-961e-4ce2b43dfd6c">
+                            Siehe <ref target="B00319"><?oxy_comment_start author="reichhoff" timestamp="20180523T125510+0200" comment=" (Br. 310.3–13)"?>Marx
+                                an Engels, 14.8.1867<?oxy_comment_end?></ref>, und <ref target="B00321"><?oxy_comment_start author="reichhoff" timestamp="20180523T125550+0200" comment="(Br. 312.3–6)."?>Engels
+                                an Marx, 15.8.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>Salut, mein lieber, theurer Freund!</p>
+                <closer>Dein<lb/>K. Marx</closer>
+                <postscript>
+                    <p>Ich brauche die Reinabzüge erst zurück, <hi rendition="#u">sobald das Buch
+                            ganz erschienen ist</hi>. </p>
+                </postscript>
+            </div></body></text></TEI>

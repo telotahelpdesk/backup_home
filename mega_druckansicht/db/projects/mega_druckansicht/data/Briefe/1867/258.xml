@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00267" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>258</idno>Laura Marx an Karl Marx in Hannover. London, Mittwoch, 8. Mai
+                    1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1
+                                op. 5 d. 6362</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                          <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie (RGASPI, Sign. f. 1, op.
+                            5, d. 6362).</p>
+                        <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem
+                            Bogen und einem Blatt. Alle sechs Seiten hat Laura Marx vollständig
+                            beschrieben. Die Anfangsseite des Blattes ist von ihr mit „b“
+                            verzeichnet.</p>
+                        <p>Archivsignatur auf der ersten und zweiten Seite des Bogens: „G. 65“, auf
+                            der beiden Seiten des Blattes: „G. 65&lt;a&gt;“.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-URXZ92VG">Erstveröffentlichung: in
+                            französischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Les
+                            filles de Karl Marx (1979).<?oxy_custom_end?> S. 80–83.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-SR5R5IPA">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>The
+                            daughters of Karl Marx (1982<?oxy_custom_end?>).
+                        S. 27–29.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003076">Laura Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-05-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00268"/>
+                </correspContext>
+                <note>Marx antwortete seiner Tochter am 3. Mai 1867 (<ref target="B00268"><?oxy_comment_start author="lindenberg" timestamp="20181119T111640+0100" comment="(Br. 259)."?>Marx
+                        an Jenny Marx (Tochter) 3.5.1867</ref><?oxy_comment_end?>).</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:30Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> May 8<hi rendition="#sup">th</hi>/67.</dateline>
+                    <salute>My dear Master,</salute>
+                </opener>
+                <p>I was much disappointed on the arrival of <seg type="comment"><orig>your letters to my two natural superiors</orig><note xml:id="ngtc_z2d_thb">Siehe <ref target="B00264"><?oxy_comment_start author="lindenberg" timestamp="20190514T175141+0200" comment="255.44"?>Marx
+                                an J. Marx (Tochter), 5.5.1867<?oxy_comment_end?></ref>. Marx' Brief
+                            an Eleanor Marx vom 5. Mai 1867 (Marx an E. Marx, 5.5.1867) ist nicht
+                            überliefert.</note></seg> as I had, somehow, expected some lines
+                    directed to myself; which expectation, being altogether unjustifiable, please
+                    set down to the natural presumption of <seg type="comment"><orig><persName key="pdrPo.001.004.000003076">Tailors</persName></orig><note xml:id="a6045385-f2f0-4278-a3f9-83727e9ecf5f"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.</note></seg> in
+                    general &amp; of a certain tailor in particular. <seg type="comment"><orig>I was
+                            also greatly mortified to hear that you supposed my equestrian or any
+                            other exercise had kept me from writing to you</orig><note xml:id="d8e88e19-66d6-4c87-ac24-598918574c3c">Siehe <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180618T124738+0200" comment="(Br. 255.41–42)"?>Marx
+                                an J. Marx (Tochter), 5.5.1867
+                        <?oxy_comment_end?></ref>.</note></seg>:—the truth is that since the
+                    departure of <seg type="comment"><orig><persName key="pdrPo.001.004.000003074">Jenny’s</persName> letter</orig><note xml:id="c185a3c1-0368-49d2-ac84-9e70a47fc324">Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180504T111258+0200" comment="(Br. 246)."?>J.
+                                Marx (Tochter) an Marx, 28.4.1867
+                        <?oxy_comment_end?></ref>.</note></seg>—of which had I known anything I
+                    should have sent some lines with her own—we have been daily in expectation of
+                    news from you or of your return, &amp; that, whenever I was on the point of
+                    writing to you I was dissuaded from my purpose … …</p>
+                <p><seg type="comment"><orig>I am delighted to hear that
+                            you have some thoughts of coming home</orig><note xml:id="f65258e3-45a8-4388-9c84-43ab362c05e2">Siehe <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180618T124850+0200" comment="(Br. 255.32)"?>Marx
+                                an J. Marx (Tochter),
+                        5.5.1867<?oxy_comment_end?></ref>.</note></seg> for at one time I really
+                    began to think that you had taken French leave &amp; stolen out of our company
+                    for good &amp; all: do you know that <seg type="comment"><orig>you have been
+                            away full 4 weeks now</orig><note xml:id="e09592c8-8423-4ee8-a891-c79c9ca92e28">Siehe <ref target="B00247"><?oxy_comment_start author="reichhoff" timestamp="20180504T111440+0200" comment="(Br. 237.3)"?>Marx
+                                an Engels, 13.4.1867<?oxy_comment_end?></ref> und die Erl. zum
+                            Kapital in  <ref target="B00007"><?oxy_comment_start author="reichhoff" timestamp="20180906T145405+0200" comment="Erl. 6b"?>Marx
+                                an J. Ph. Becker, zw. 9. u.
+                            15.1.1866<?oxy_comment_end?></ref>.</note></seg> &amp; that you have
+                    hardly in all that time given a sign of your existence? But I will not be hard
+                    upon you: this is a nice time of the year for flitting, &amp; I am sure <pb/>
+                    there must be something delightful in the mere temporary “riddance” of that
+                    conventional “rubbish” one’s “family”, <seg type="comment"><orig><persName key="pdrPo.001.004.000003068">“quo-quos”</persName></orig><note xml:id="nbfm_4bm_bhb"><persName key="pdrPo.001.004.000003068">Eleanor
+                                Marx</persName>.</note></seg> &amp; <seg type="comment"><orig><persName key="pdrPo.001.004.000003076">“tailors”</persName></orig><note xml:id="nw4m_sbm_bhb"><persName key="pdrPo.001.004.000003076">Laura Marx</persName>.</note></seg>
+                    &amp; all; to say nothing of the relief you must feel since that incubus, <seg type="comment"><orig>your book</orig><note xml:id="c578141b-554f-4ef1-aaf4-5c88a88cbde4"><bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das
+                                Kapital. Bd. 1.</bibl> Siehe <ref target="B00007">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180906T145405+0200" comment="Erl. 6b"?>Marx
+                                an J. Ph. Becker, zw. 9. u.
+                            15.1.1866<?oxy_comment_end?></ref>.</note></seg>, weighs no longer on
+                    your shoulders or, at all events, only with such a pressure as is pleasant; to
+                    say nothing of the society you are in. There is <seg type="comment"><orig><persName key="ed_fsr_4mg_sfb">a certain
+                            lady</persName></orig><note xml:id="bf96f749-140e-4b83-a2cf-7ef4059082a0"><persName key="ed_fsr_4mg_sfb">Therese Tenge</persName>. Siehe <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180618T124949+0200" comment="(Br. 255.6–16)"?>Marx
+                                an J. Marx (Tochter), 5.5.1867<?oxy_comment_end?></ref> und <ref target="B00268"><?oxy_comment_start author="reichhoff" timestamp="20180504T111602+0200" comment="(Br. 259.16–25).,"?>Marx
+                                an L. Marx, 13.5.1867<?oxy_comment_end?></ref>.</note></seg>, I have
+                    noticed, occupies a large portion of your letters:—is she young? is she witty?
+                    is she pretty? do you flirt with her or suffer her to flirt with you? You seem
+                    to admire her very much &amp; it would be “trop bête” to suppose all the
+                    admiration was on your side. If I were <persName key="pdrPo.001.004.000003075">Möhme</persName> I should be jealous.</p>
+                <p>We are having the delightfullest weather: <seg type="comment"><orig>the day of the Reformers’ last expedition</orig><note xml:id="a8d5be10-1239-4949-bca0-4e14c4118d58">Siehe <ref target="B00266"><?oxy_comment_start author="reichhoff" timestamp="20180504T111701+0200" comment="(Br. 257.13–60)"?>J.
+                                Marx (Tochter) an Marx, 8.5.1867<?oxy_comment_end?></ref> und Erl.
+                            „<?oxy_comment_start author="lindenberg" timestamp="20190514T154335+0200" comment="257d"?>the
+                            Government &amp; the Reformers ...“<?oxy_comment_end?>).</note></seg>
+                    was a lovely one. This last, by-the-bye, was a great success, or as <seg type="comment"><orig>the Times says with a sneer, “a famous
+                            victory”</orig><note xml:id="e4b6dccd-de91-45e0-9094-d1648edb0689">“a
+                            famous victory” has been achieved … In: The Times. London. Nr. 25 805,
+                            8. Mai 1867. S. 11, Sp. 3/4.</note></seg>. The Tories all along aiming
+                    at keeping the <pb/> people out of the Park charged them with illegality in
+                    their proceedings &amp; only at the last moment discovered that the men who
+                    insisted on walking Park-wards were all right and they themselves all wrong. So
+                    the people were allowed to walk there, after all due precaution, however, on the
+                    part of the Tories, for 5000 mounted policemen were drawn up &amp; 15,000
+                    special constables (<hi rendition="#u">M. <persName key="pdrPo.001.004.000004997">Waldeck</persName> included</hi>) sworn in
+                    for the occasion. So <persName key="pdrPo.001.004.000000296">Beales</persName>
+                    had it all his own way, coming out strong both in his outward man and in that
+                    more mysterious Beales within Beales, and <persName key="ed_d1d_4wh_yx">Bradlaugh</persName> too, as well as all the rest of the Luminaries of the
+                    Reform League, shone, it appears, with peculiar brightness, with his own or
+                    borrowed light. The mob was as orderly as could be, much to the chagrin of the
+                        <hi rendition="#u">special constables</hi> who with their newly-made
+                    truncheons “marched up the Park &amp; then marched back again”,—rather the worse
+                    for marching. These particulars I have from hearsay, not from the papers, which
+                        <persName key="pdrPo.001.004.000003075">Möhme</persName> and<persName key="pdrPo.001.004.000003074"> Joe </persName>(who has not it appears given
+                    up all <pb/> ideas of his propagandising “provincial tour”) exclusively
+                    monopolise, but I learn enough from the rumours in the air; &amp; from these I
+                    gather that the wind sits Bradlaugh-ward:—that the <hi rendition="#u">idol-breaker</hi> is the <hi rendition="#u">god</hi> of the hour.</p>
+                <p><seg type="comment"><orig>Who of heros is the
+                            last?</orig><note xml:id="nrbj_kpv_vfb">Vielleicht eines der Gedichte
+                            von Laura Marx. Zum Heft mit weiteren Gedichten Lauras siehe Laura Marx:
+                            Notizbuch 1862–1863 (RGASPI, Sign. f. 10, d. 5/1). – Charles Bradlaugh,
+                            der die Vorlesungen unter dem Pseudonym „Iconoclast“ hielt und sich bis
+                            1868 in seinen Schriften dieses Pseudonyms bediente. Siehe auch Marx an
+                            Engels, 18. November (im Ms.: Oktober) 1868 (IISG, Marx-Engels-Nachlass,
+                            Sign. L 4574/L VI 698).</note></seg></p>
+                <p>’Tis the famed Iconoclast!</p>
+                <p>In whose favour blows the blast?</p>
+                <p>His—the bold Iconoclast!</p>
+                <p><persName key="pdrPo.001.004.000000296">Beales</persName> within Beales dwindling fast</p>
+                <p>Who remains? Iconoclast!</p>
+                <p>News you will not expect from me for what I have is old
+                    news. <seg type="comment"><orig>For my own Part, having since your departure
+                            nothing to do in “my own peculiar line” &amp; Tailordom being on strike,
+                            my attention has of late been turned to Cookery</orig><note xml:id="bf5b6aba-a79d-4c8b-b88a-e8597e6a300a">Mit „my own peculiar line“
+                            meinte Laura die Pflichten eines Sekretärs von Marx, die sie
+                            ununterbrochen seit 1864 bis sie aus London im Oktober 1868 fortzog,
+                            erfüllte. Zu „Tailordom“ siehe <ref target="B00266"><?oxy_comment_start author="reichhoff" timestamp="20180504T111819+0200" comment="(Br. 257.2) "?>J.
+                                Marx (Tochter) an Marx, 8.5.1867<?oxy_comment_end?></ref> und Erl..
+                            Mit der geschickten Zubereitung von Speisen verdiente sich Laura auch
+                            den Spitznamen „Kuchenfee“. (Siehe Worobjowa, Sinelnikowa: Die Töchter
+                            von Marx. S. 40–42, 106.)</note></seg> at which I assure you I am now a
+                    very respectable hand—being able to turn out a pudding to the public
+                    satisfaction—a pudding very palateable &amp; not <hi rendition="#u">very</hi>
+                    indigestible.</p>
+                <p>What with walking and riding this is about all <pb/> that
+                    I have been idling away time with.</p>
+                <p><seg type="comment"><orig><persName key="ed_lfk_vgz_lz">Old Morality</persName></orig><note xml:id="f09c3df4-dc10-4295-a3f3-5d65dadc9a0b">Alfred
+                        Lormier.</note></seg> favoured us last night: as usual he put in his
+                    appearance at ½ past ten: as usual “il venait de souper” but as he was more than
+                        <hi rendition="#u">usually</hi> sombre I conclude his better spirits were
+                    with his heart &amp; that was—with <seg type="comment"><orig><persName key="ed_f5v_f13_y2b">Sarah</persName></orig><note xml:id="f9e16678-7e6b-4d1b-8048-0134bd1de45b">Sarah
+                    Parker.</note></seg>.</p>
+                <p><seg type="comment"><orig><persName key="ed_zx5_kmb_kz">Madame Lormier</persName></orig><note xml:id="d6116ad6-3c98-4376-9000-7876accb8e83">Éléonore
+                        Lormier.</note></seg> has 8 cigarettes in keeping for you. We had a
+                    gymnastic lesson shortly ago in which the fair <seg type="comment"><orig>Azelia</orig><note xml:id="nzbn_spv_vfb">Die Person konnte nicht
+                            identifiziert werden.</note></seg> took part, distinguishing herself by
+                    feats of great daring &amp; of great dexterity in the lower limbs, although as
+                    ever a perfect anarchy reigns among the different members of her body. These it
+                    seems are unable to come to any kind of understanding: for ever unable to adapt
+                    themselves each to the other &amp; yet for ever bound to keep together.</p>
+                <p><seg type="comment"><orig>Your photograph</orig><note xml:id="f450ec90-7b4c-4b45-9a6f-b4000d2da2f1"> Siehe <ref target="B00266"><?oxy_comment_start author="reichhoff" timestamp="20180504T111819+0200" comment="(Br. 257.2) "?>J.
+                                Marx (Tochter) an Marx, 8.5.1867<?oxy_comment_end?></ref> und
+                            Erl.</note></seg> pleased us immensely: I admire especially the eyes
+                    &amp; forehead &amp; expression: the first have the true “roguish twinkle” I am
+                    so fond of in the original &amp; this is the only one of your shadows which
+                    unites the two expressions of a sarcasm &amp; good nature of the substance: a
+                    stranger, I think, would consider only the last but I, who look upon it with a
+                    peculiar “bird’s-eye” of my own, spy a little maliciousness in the likeness,
+                    very pleasant no doubt to your friends but calculated to play <pb/> the deuce
+                    with your enemies. <seg type="comment"><orig><persName key="pdrPo.001.004.000002648">Paul</persName></orig><note xml:id="nr1n_pcm_bhb">Paul Lafargue.</note></seg> &amp; I fell out on
+                    the subject of your picture for he declared he had never seen you so well
+                    arranged &amp; got up—but always (only with one exception) in your torn coat
+                    &amp; with ruffled hair, while I told him that I had seen You <hi rendition="#u">often</hi> in precisely such trim, &amp; that I know you better than he
+                    does.</p>
+                <p>I have said nothing of the Chinese tyrants—the <seg type="comment"><orig><persName key="pdrPo.001.004.000003068">Quo-quos</persName></orig><note xml:id="nndt_jz4_lgb">Eleanor
+                            Marx.</note></seg> &amp; the <seg type="comment"><orig><persName key="pdrPo.001.004.000003074"><?oxy_comment_start author="lindenberg" timestamp="20190111T182108+0100" comment="vorher: Qui-quies --&gt; sehe ich aber den Buchstaben nicht,
+Druck: Que-ques
+queque = zu
+quoquo = jeder"?><?oxy_custom_start type="oxy_content_highlight" color="255,64,0" mid="18"?>Que-ques<?oxy_comment_end?><?oxy_custom_end mid="18"?></persName></orig><note xml:id="ba8de968-059b-4ce7-aa87-153c3dfc2b32">Jenny Marx
+                            (Tochter).</note></seg>, for <seg type="comment"><orig>they have spoken
+                            for themselves</orig><note xml:id="ec4dcd69-4e9b-4f90-b53c-371f03b21a50">Siehe <ref target="B00266"><?oxy_comment_start author="reichhoff" timestamp="20180618T125312+0200" comment="Br. 257"?>J.
+                                Marx (Tochter) an Marx, 8.5.1867<?oxy_comment_end?></ref>. Eleanors
+                            Brief an Marx vom 8. Mai 1867 ist nicht überliefert.</note></seg>: I
+                    have simply wished to recall a certain Tailor to your recollection whom in your
+                    absence there may be some chance of your forgetting.</p>
+                <p>I hope you will not quarrel with me on the score of the
+                    length of this scrawl, but if you are so disposed I am content to forfeit a
+                    week’s wages to propitiate you.</p>
+                <p>Good bye my dearest Master,</p>
+                <closer>I am always your affectionate<lb/><hi rendition="#u">Cacadou</hi>.</closer>
+                <postscript>
+                    <p>I invite you to a “Hampstead tea” on your return—tea &amp; sugar you will of
+                        course bring with you, but everything else you shall have in plenty &amp; of
+                        the best. If this will not tempt you to come back soon—what will?—</p>
+                </postscript>
+            </div><div type="writingSession"><p><seg type="comment"><orig><persName key="pdrPo.001.004.000005100">Wheeler</persName> sent back the “I owe you” some days ago thanking
+                            for the note received from Engels.</orig><note xml:id="d840eaa8-1695-4b95-816c-9296fc57844b">Siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180504T111937+0200" comment="(Br. 242.75–79),"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref> („Ich habe eine
+                            Ehrenschuld an Mr. Wheeler ...“), <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180504T112149+0200" comment="(Br. 245.5–7),"?>Engels
+                                an Marx, 27.4.1867<?oxy_comment_end?></ref>, <ref target="B00257"><?oxy_comment_start author="lindenberg" timestamp="20190514T173845+0200" comment="Br. 246. 10"?>J.
+                                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref> („a
+                            letter from Engels (enclosed 10 £“))und <ref target="B00265"><?oxy_comment_start author="reichhoff" timestamp="20180504T112339+0200" comment="(Br. 256.3–4)."?>Marx
+                                an Engels, 7.5.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

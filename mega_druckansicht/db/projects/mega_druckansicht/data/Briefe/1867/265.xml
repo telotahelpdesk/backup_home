@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00274" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>265</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester. London, Montag, 3. Juni 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 688/L II 93 Fotosign. 9855.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 259 × 204 mm.
+                            Wasserzeichen: „Extra Superfine A C I“. Aufdruck der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx,
+                            8. Januar 1866) auf der ersten Seite oben links. Borkheim hat die erste
+                            Seite vollständig, die zweite zu zwei Dritteln beschrieben, die dritte
+                            und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite Nummerierung des Briefes mit Bleistift: „39“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1704</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-06-03"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:36Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint"> </hi><hi rendition="#mPrint"><hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></hi>
+                        <hi rendition="#mPrint"><lb/>London,</hi> 3<hi rendition="#sup">ten</hi>
+                        Juni <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Engels,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Vor wenigen Tagen schrieb ich
+                            Ihnen</orig><note xml:id="nkjp_zjc_p2b">Siehe <ref target="B00273"><?oxy_comment_start author="reichhoff" timestamp="20180507T103354+0200" comment="(Br. 264)."?>S.
+                                L. Borkheim an Engels 30.5.1867<?oxy_comment_end?>.</ref>
+                        </note></seg>; vergaß dabei Sie auf den wöchentlich erscheinenden <seg type="comment"><orig><bibl sameAs="ed_sbg_mn3_tgb">Chronicle</bibl></orig><note xml:id="nwv5_dkc_p2b"><bibl sameAs="ed_sbg_mn3_tgb">The Chronicle.</bibl>
+                            London.</note></seg> aufmerksam zu machen, der seit dem 1<hi rendition="#sup">sten</hi> April ausgegeben wird, und wohl drauf berechnet
+                    ist, der heruntergekommenen <seg type="comment"><orig><bibl sameAs="ed_xps_j43_tgb">Saturday
+                            Review</bibl></orig><note xml:id="ngth_hkc_p2b"><bibl sameAs="ed_sbg_mn3_tgb">The Saturday Review of
+                                Politics, Literature, Science, and Art.</bibl> London.</note></seg>
+                    auf die Beine oder aus der Welt zu helfen.</p>
+                <p>Besonders fällt mir auf und spricht mich an der
+                    entschieden antirussische Ton einiger Artikel des <bibl sameAs="ed_sbg_mn3_tgb">Chronicle</bibl>, die bündig und nicht ohne Sachkenntniß
+                    geschrieben. <seg type="comment"><orig>So wird in <pb/> der letzten Nummer
+                            verlangt, statt <hi rendition="#u">„Eastern Question“</hi> hinfüro
+                            „Russian Question“ zu sagen</orig><note xml:id="nrcx_pkc_p2b">Der
+                            <?oxy_comment_start author="lindenberg" timestamp="20190515T161700+0200" comment="ZDB Jg 00
+British Newspaper Archive 00
+BSB hat einzigen nachgewiesenen Bestand digitalisiert 1868
+1867 vorh. in der Nation Library of Ireland
+http://catalogue.nli.ie/Record/vtls000509105"?>Artikel<?oxy_comment_end?>
+                            konnte nicht ermittelt werden.</note></seg>. So ists recht; da wird die
+                    Sache klarer für Lesermob. – Wenn genehm, sende ich Ihnen <hi rendition="#u">alle</hi> bis jetzt erschienenen. –</p>
+                <p>Heute Nachmittag wird der alte <persName key="ed_l21_q3c_p2b">Simon Oppenheim</persName> begraben. Er ist <seg type="comment"><orig>Freitag</orig><note xml:id="nsmh_tkc_p2b">31. Mai
+                            1867.</note></seg> Abend gestorben; ich muß mitwandeln nach dem
+                    Kirchhofe. –</p>
+                <closer>Freundlichst grüßend<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

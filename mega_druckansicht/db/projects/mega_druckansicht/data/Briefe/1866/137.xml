@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00141" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>137</idno>Paul Stumpf an Friedrich Engels in
+                                        Manchester. Mainz, Montag, 16. Juli 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 6044/L VIII 667.
+                                                  Fotosign. 12364</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  blauem, kariertem Papier im Format
+                                                  223 × 285 mm. Aufdruck auf der
+                                                  ersten Seite oben links: „Paul Stumpf
+                                                  Stationerhofstrasse [vielm. Stadioner...] Mainz.“
+                                                  Stumpf hat die erste Seite vollständig
+                                                  beschrieben, die letzte Passage ist am linken Rand
+                                                  der ersten Seite quer geschrieben. Die Rückseite
+                                                  hat Stumpf als Adressseite benutzt. Das Papier ist
+                                                  in der Mitte des Blattes beschädigt, der dadurch
+                                                  entstandene Textverlust konnte rekonstruiert
+                                                  werden. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Auf der Adressseite sechs Poststempel: „Mainz 16
+                                                  7 2–3“, „A Manchester 19 Ju 66 2“, „P D“
+                                                  und drei nicht erkennbare Stempel, sowie ein
+                                                  Vermerk der Post mit roter Tinte: „18/10“.</p>
+                                                <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 10 № 97a“, oben rechts bzw. „II 10,
+                                                  97a“, am linken Rand.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1668</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-LIKG4T3A">Erstveröffentlichung: Monz: Der Mainzer Paul
+                                                  Stumpf (1986). S. 287/288. Die Adressseite
+                                                  wird hier erstmals
+                                                veröffentlicht.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000004646">Paul
+                                                Stumpf</persName>
+                                        <placeName key="ed_rnh_sdj_wx">Mainz</placeName>
+                                        <date when="1866-07-16"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_ewn_ljf_h1b">Arbeiterparteien und
+                                                -vereine</term>
+                                        <term key="ed_wks_yvp_3x">Deutscher Krieg 1866</term>
+                                        <term key="ed_fv1_snz_g1b">Lektüren im
+                                                Korrespondentenkreis</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:39:40Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Mainz 16. Juli
+                                                66.</dateline>
+                                        <salute>Lieber Freund Engels!</salute>
+                                </opener>
+                                <p><seg type="comment"><orig> An Marx habe
+                                                  ich seit 14  Tagen 2mal geschrieben unter der
+                                                  Addresse: Mr Williams 1. Modena Villas
+                                                  Haverstock Hill Kentish Town London ohne Antwort
+                                                  zu erhalten!</orig><note xml:id="nhlk_gvk_gz">Siehe <ref target="B00130">P. Stumpf an Marx,
+                                                  30.6.<?oxy_comment_start author="reichhoff" timestamp="20170405T124207+0200" comment="{{Br 126}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00135">P. Stumpf an Marx,
+                                                  10.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T091745+0200" comment="{{Br._131}}"?>1866<?oxy_comment_end?></ref>
+                                                  sowie <ref target="B00146/#start_bjg_n2n_qz">Marx
+                                                  dazu in Marx an Engels,
+                                                  27.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T091922+0200" comment="{{Br. 142.4–9}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich mögte mir Rath's erholen wie Ihr an meiner Stelle hier
+                                        Euch verhalten würdet! <expan>D<ex>a</ex>s</expan> Volk
+                                        ist gut, aber nur unentschiedene Führer!</p>
+                                <p>Ob oestreichisch, preuß., lasallisch,
+                                        passiv, französisch, loyal, dem Bestehenden! etc etc darum
+                                        handelt es sich!</p>
+                                <p><seg type="comment"><orig>Die <persName key="pdrPo.001.004.000002711">Lasall'schen</persName> Vere<supplied cert="high">in</supplied>e</orig><note xml:id="nxd3_cck_gz">Der Allgemeine Deutsche Arbeiterverein
+                                                  (ADAV)<persName key="pdrPo.001.004.000002711">.
+                                                  </persName></note></seg> sind so gut wie
+                                        eingeschlafen &amp; vegitiren nur noch durch <persName key="pdrPo.001.004.000002070">Hatzfeld'sches</persName> Geld!</p>
+                                <p><persName key="pdrPo.001.004.000002822"><anchor type="verweisziel" xml:id="start_o2p_fvs_qz"/>Liebknecht</persName>
+                                        ist oestreichisch<anchor type="verweisziel" xml:id="stop_o2p_fvs_qz"/>; viele radicale Freunde
+                                        von mir sind preußisch! Einige meiner Feunde behaupten auch
+                                                <seg type="comment"><orig>Du seiest: „gestützt auf
+                                                  den Knauf des preußischen Schwertes“? Eine
+                                                  Broschüre von Dir (welche?) spräche
+                                                  so!?</orig><note xml:id="ce25ddcd-0d12-4f37-ad34-f898f2dd03c3">Vermutlich meint <persName key="pdrPo.001.004.000004646">Stumpf</persName>
+                                                  hier <bibl sameAs="zotero-604880-QLSEZJ2C">Friedrich Engels: Die preußische
+                                                  Militärfrage und die deutsche Arbeiterpartei.
+                                                  Hamburg 1865</bibl> (<bibl sameAs="zotero-604880-G77L6FY8">MEGA² I/20. S. 71–108</bibl>).
+                                                  <!--(((lEngels,Friedrich:Die preußische Militärfrage
+                                                  und die deutsche Arbeiterpartei. Hamburg 1865
+                                                  (MEGA² I/20. S. 71–108).)))-->
+                                                </note></seg></p>
+                                <p>Man glaubt daß die Preussen unter <expan>Gen<ex>eral</ex></expan>
+                                        <persName key="ed_a3p_plj_dy">Falkenstein</persName> aus
+                                        Churhessen über Aschaffenburg Heute od. Morgen in Darmstadt
+                                        &amp; Frankfurt einziehen! <expan>D<ex>a</ex>s</expan> erste
+                                        Armeekorps den Preußen auf diesem Weg entgegen gerückt hat
+                                        kleinere Schlappen erhalten &amp; jede Minute fürchtet und
+                                        hofft man auf größere!</p>
+                                <p><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_izy_2jl_qz"/>Deine: Lage der arb. Classe
+                                                  England's,</orig><note xml:id="f591bd48-6305-4058-9e99-46fb092ab7b9"><bibl sameAs="zotero-604880-UIFI5RLI">Friedrich Engels: Die Lage der
+                                                  arbeitenden Klasse in England. Leipzig
+                                                  1845.</bibl> Siehe auch <ref target="B00036/#ng5n_lfy_5y">Erl. zu Marx an
+                                                  Engels,
+                                                  10.2.<?oxy_comment_start author="reichhoff" timestamp="20170513T165118+0200" comment="{{Erl._33d}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  <!--(((lEngels,Friedrich:Die Lage der arbeitenden
+                                                  Klasse in England. Leipzig 1845)))-->
+                                                </note></seg> habe ich in mehren Exemplaren vor
+                                        einiger Zeit gekauft &amp; verbreitet; <seg type="comment"><orig><persName key="pdrPo.001.004.000002822">Liebk.</persName> den ich vor 4 Wochen in
+                                                  Leipzig besuchte meint auch Du thätest ein gutes
+                                                  Werk das Buch zeitgemäß zu ergänzen!<anchor type="verweisziel" xml:id="stop_izy_2jl_qz"/></orig><note xml:id="nzpy_cwk_gz">Siehe auch
+                                                  <ref target="B00117/#start_bly_jvm_qz">P. Stumpf
+                                                  an Marx,
+                                                  29.5.<?oxy_comment_start author="reichhoff" timestamp="20170422T112040+0200" comment="{{Br. 113.27–28}}"?>1866<?oxy_comment_end?></ref>
+                                                  und <ref target="B00133/#start_hc5_bfl_qz">Marx an
+                                                  Engels,
+                                                  7.7.<?oxy_comment_start author="reichhoff" timestamp="20170422T112258+0200" comment="{{Br. 129.29–31}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+                                <p>Ueberhaupt bitte ich um Eure Sachen; ich
+                                        lese sie alle mit steigendem Interesse!</p>
+                                <p><seg type="comment"><orig>Freund Wallau
+                                                  ist Bourgeois hier!</orig><note xml:id="ne1l_lwk_gz"><persName key="ed_udl_xcl_gz">Carl Wallau</persName>, Teilnehmer der Revolution
+                                                  von 1848/49, kehrte nach der Amnestie von 1861
+                                                  nach Mainz zurück und eröffnete eine Druckerei.
+                                                </note></seg></p>
+                                <p>Deinen Rath also lieber Engels in aller
+                                        Kürze! Nur in Krisen läßt sich Propaganda machen! <seg type="comment"><orig>In Kirchheimbolanden &amp;
+                                                  Annweiler vor 17 Jahren begrüßten wir uns das
+                                                  letzte mal.</orig><note xml:id="f042d37e-77f6-4a66-bd28-f0bb03403ed7">Vermutlich erinnert sich <persName key="pdrPo.001.004.000004646">Stumpf</persName> an
+                                                  Begegnungen mit Engels während des Aufstandes in
+                                                  der Pfalz im Frühling 1849. Siehe <bibl sameAs="zotero-604880-LIKG4T3A">Monz: Der Mainzer Paul Stumpf (1986).</bibl>
+                                                  S. 247 und 355.
+                                                  <!--(((lMonz: Der Mainzer
+                                                  Paul Stumpf)))-->
+                                                </note></seg></p>
+                                <p>Heute erneuerten herzlichsten Gruß von
+                                        Deinem alten Freund</p>
+                                <closer>
+                                        <signed>Paul Stumpf </signed>
+                                </closer>
+                                <closer><pb/> M<hi rendition="#sup">r</hi>
+                                        Fr. Engels Esq.<lb/>7. Southgate<lb/>Manchester<lb/>fr.
+                                </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

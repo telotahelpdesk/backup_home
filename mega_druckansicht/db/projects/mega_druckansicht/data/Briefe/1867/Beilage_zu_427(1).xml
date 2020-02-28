@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_ajf_gx2_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carl Siebel an Otto Meißner, 26. August 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Kollektion Kleine Korrespondenz (Siebel).</p>
+                    <p>Der Brief ist eine Beilage zu: <ref target="B00437">Otto Meißner an Karl Marx
+                            in London. Hamburg, Dienstag, 19. November 1867</ref>.</p>
+                </note>
+            </notesStmt>
+                        <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Kollektion Kleine Korrespondenz</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">(Siebel)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+            
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+                <p>Geehrter Herr <persName key="pdrPo.001.004.000003135">Meißner</persName>!</p>
+                <p>Meine Gesundheit – die mich vergangenen Winter nach Madeira trieb – von wo ich
+                    ziemlich gut zurückkehrte – ist wieder zum Teufel und ich muß wieder langsam gen
+                    Süden ziehn, sie zu suchen. Da kann ich liter<ex>arisch</ex> wenig thun. Wo es
+                    möglich ist, werde ich für <persName key="ed_ats_ysj_wx">Marx</persName> thätig
+                    sein – sonst rathe ich Ihnen einige Zeilen an den Schriftsteller <persName key="ed_i5k_f4p_ycb">Emil Rittershaus</persName> kleine Flurstr 12 Barmen zu
+                    schreiben, den ich für das <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buch</bibl> interessirt habe und der bedeutend mehr Verbindungen hat, als
+                    ich</p>
+                <p>Ergebenst</p>
+                <p>Ihr</p>
+                <p><persName key="pdrPo.001.004.000004424">Carl Siebel</persName></p>
+                <p>Barmen 28. 8. 67</p>
+                <p>Ich reise morgen ab.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

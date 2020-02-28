@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00254" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>243</idno>Wilhelm Liebknecht an Karl Marx in Hannover.
+                                        Leipzig, Donnerstag, 25. April 1867</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 1 op. 5 d.
+                                                  1697</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format 340 × 138 mm. Die ersten
+                                                  drei Seiten hat Liebknecht vollständig
+                                                  beschrieben, die vierte ist leer.
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180926T133400+0200" comment="Der durch den Tintenfleck auf der zweiten Seite entstandene Texterlust (Z. 18) konnte rekonstruiert werden.
+Bemerkung entfernt, denn die Textstelle ist im Digitalisat sichtbar!"?>Eine<?oxy_comment_end?>
+                                                  Passage auf der letzten Seite
+                                                  (<?oxy_comment_start author="lindenberg" timestamp="20180926T134657+0200" comment="Z. 81–83"?>„Grüße
+                                                  an Deine Frau ... love to all of
+                                                  you.“<?oxy_comment_end?>) ist von Liebknecht
+                                                  umkreist. Die letzte Passage
+                                                  (<?oxy_comment_start author="lindenberg" timestamp="20180926T134738+0200" comment="Z. 90–91"?>„Schreibe
+                                                  bald; Du siehst ich war flink im Schreiben und –
+                                                  vergessen.“<?oxy_comment_end?>) steht auf der
+                                                  ersten Seite oben links niedergeschrieben.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von unbekannter Hand (vermutlich von <persName key="pdrPo.001.004.000004017">David Borisovič
+                                                  Rjazanov</persName>): auf der ersten Seite oben
+                                                  rechts mit Blaustift die Jahresangabe „1867?“,
+                                                  korrigiert aus „1866“.</p>
+                                        </physDesc>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002822">Wilhelm
+                                                Liebknecht</persName>
+                                        <placeName key="ed_rdd_5jt_qx">Leipzig</placeName>
+                                        <date when="1867-04-25"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                                </correspAction>
+                                <note>Zur Datierung: Die Jahresangabe stützt sich auf folgende
+                                        Tatsachen: Liebknecht erwähnt die schwere Krankheit seiner
+                                        Frau Ernestine
+                                        (<?oxy_comment_start author="lindenberg" timestamp="20180926T135023+0200" comment="Z. 3–9"?>„Leider
+                                        kann ich Dir keine guten Nachrichten geben.
+                                        ...<?oxy_comment_end?>), die am 29. Mai 1867 gestorben war
+                                        (siehe <ref target="B00272">W. Liebknecht an Marx,
+                                                29.5.1867</ref>); er bittet Marx an Sigfrid Meyer
+                                        nach Amerika zu schreiben
+                                        (<?oxy_comment_start author="lindenberg" timestamp="20180926T135634+0200" comment="Z. 84–89"?>„Schreibe
+                                        ihm ja.“<?oxy_comment_end?>). Marx erfüllt diese Bitte am
+                                        30. April 1867 (<ref target="B00258"><?oxy_comment_start author="lindenberg" timestamp="20180926T135858+0200" comment="Br. 247"?>Marx
+                                                an S. Meyer,
+                                        30.4.1867<?oxy_comment_end?></ref>).</note>
+                                <note>Liebknecht beantwortet einen nicht überlieferten Brief von
+                                        Marx, geschrieben zwischen 16. und 25. April 1867 (<ref target="mega_k4k_ppt_gfb">Marx an W. Liebknecht, zw.
+                                                16. u. 25.4.1867</ref>; siehe
+                                        <?oxy_comment_start author="lindenberg" timestamp="20180926T140907+0200" comment="Z. 35–36, 71"?>„Gott
+                                        sei Dank ...“, „Es thut mir leid ...“<?oxy_comment_end?> und
+                                        <?oxy_comment_start author="lindenberg" timestamp="20180926T141155+0200" comment="[e243h])"?>Erl.<?oxy_comment_end?>).</note>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an
+                                                Manuskripten, Veröffentlichung)</term>
+                                        <term key="ed_jtl_xrw_ww">Internationale
+                                                Arbeiter-Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                        <term key="ed_mts_42y_g1b">Journalismus/Publizistik</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:45:19Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener><dateline><pb/> 11 Braustraße,
+                                                Leipzig.</dateline><dateline>25.
+                                                Apr.</dateline><salute>Lieber
+                                        Mohr!</salute></opener>
+                                <p>Leider kann ich Dir keine guten Nachrichten geben. Nachdem ich
+                                        lange against hope gehofft habe, muß ich mir jetzt doch
+                                        sagen, daß die Rettung meiner <seg type="comment"><orig><persName key="pdrPo.001.004.000002819">Frau</persName></orig><note xml:id="ddd99bbc-17c2-4df9-b0bb-850027c2908e"><persName key="pdrPo.001.004.000002819">Ernestine
+                                                  Liebknecht.</persName></note></seg> nur noch einem
+                                        Wunder zu verdanken sein könnte. Beide Lungen sind
+                                        angegriffen, die eine fast zerstört, die Anschwellung der
+                                        Füße hat bereits begonnen, und die allgemeine Entkräftung
+                                        nimmt reißend zu. – <seg type="comment"><orig>Kurz ich muß
+                                                  die Katastrophe in <hi rendition="#u">Bälde</hi>
+                                                  erwarten.</orig><note xml:id="e5e357d8-64e8-4a82-bf33-c42e90cc96f4"><persName key="pdrPo.001.004.000002819">Ernestine
+                                                  Liebknecht</persName> stirbt am 29. Mai 1867.
+                                                  Siehe <ref target="B00272"><?oxy_comment_start author="reichhoff" timestamp="20180502T143509+0200" comment="(Br. 263.4–5)."?>Liebknecht
+                                                  an Marx,
+                                                  29.5.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        Das arme Weib! Die Londoner Misère untergrub ihre
+                                        Gesundheit; <seg type="comment"><orig>meine Ausweisung aus
+                                                  Berlin</orig><note xml:id="ee86cc59-86ef-4603-8ac7-b953c3ed033a">Siehe <ref target="B00011"><?oxy_comment_start author="lindenberg" timestamp="20180926T171423+0200" comment="10f"?>Erl.
+                                                  zu Marx an W. Liebknecht, 15.1.1866.</ref>
+                                                </note></seg><?oxy_comment_end?> gab ihr den ersten
+                                        Stoß bis ins Lebensmark, <seg type="comment"><orig>meine
+                                                  Verhaftung im vorigen Herbst</orig><note xml:id="df224b70-deb7-4396-891d-499ed41fcd2a">Liebknecht wurde am 2. Oktober 1866 in Berlin
+                                                  verhaftet. Siehe <ref target="B00178"><?oxy_comment_start author="lindenberg" timestamp="20180926T171527+0200" comment="173"?>Erl.
+                                                  zu W. Liebknecht an Engels,
+                                                  1.10.1866.</ref><?oxy_comment_end?></note></seg>
+                                        that den Rest. Sie glaubte nemlich, ich hätte mich in irgend
+                                        eine Verschwörung eingeglassen, und lebenslängliches
+                                        Zuchthaus zu erwarten. So geht sie an den Schlägen zu Grund,
+                                        die mich treffen sollten! Es ist furchtbar für mich, sie so
+                                        langsam hinsterben zu sehen; manchmal ist mir, als müßte ich
+                                        den Verstand verlieren oder hätte ihn schon verloren. Und
+                                        dazu die materiellen Folgen der Krankheit – geschmälerter
+                                        Verdienst bei vermehrten Ausgaben. – Bezüglich <seg type="comment"><orig>meines letz<pb/>ten Berliner
+                                                  Abenteuers</orig><note xml:id="cd6fb0be-46a3-4775-85c1-1ff4dcf3acc6">siehe Erl. oben.</note></seg> sei noch bemerkt,
+                                        daß ich nicht blind in die Falle ging, sondern mich sehr
+                                        vorsichtig benahm (ich führte einen andren Namen etc.) und
+                                        erst dann aus dem Dunkel heraus trat, als mir verschiedne
+                                        Advokaten und Deputirten (darunter <seg type="comment"><orig><persName key="pdrPo.001.004.000001931">Groote</persName> &amp; <persName key="pdrPo.001.004.000002341">Jacobÿ</persName></orig><note xml:id="nhff_1s5_gfb">Vermutlich <persName key="pdrPo.001.004.000001931">Alfred
+                                                  Groote</persName> und <persName key="pdrPo.001.004.000002341">Johann
+                                                  Jacoby</persName>.</note></seg>) meine Ansicht
+                                        bestätigt hatten, ich habe <seg type="comment"><orig>als <hi rendition="#u">Bürger eines norddeutschen
+                                                  Bundesstaats</hi></orig><note xml:id="d33ff172-4ca8-4978-9845-03eb77b890c9">Zum
+                                                  Norddeutschen Bund siehe <ref target="B00215"><?oxy_comment_start author="lindenberg" timestamp="20180926T175637+0200" comment=" Erl. 142k (gibt&apos;s nicht mehr)  und 208e.
+ 
+ "?>Erl.
+                                                  zu Marx an Engels,
+                                                  19.1.1867.</ref><?oxy_comment_end?></note></seg>
+                                        (ich war als <hi rendition="#u">Aus</hi>länder ausgewiesen)
+                                        nichts zu fürchten, zumal nach der Amnestie. Nun, wir hatten
+                                        die Preußische Gemeinheit unterschätzt. Ein Theil meiner
+                                        Richter war übrigens auf die von mir entwickelten Gründe hin
+                                        für Freisprechung, und ich wäre schließlich auch ohne
+                                        Zweifel in den höheren Instanzen losgekommen, wenn ich so
+                                        verrückt gewesen wäre, zu appelliren, d.h. 7–8 Monat <hi rendition="#u">Untersuchungs</hi>haft einer
+                                        dreimonatlichen <hi rendition="#u">Straf</hi>haft
+                                        vorzuziehen.</p>
+                                <p><seg type="comment"><orig>Eure Briefe (der Deinige mit, meine
+                                                  <persName key="pdrPo.001.004.000002819">Frau</persName> hielt immer viel auf Dich) waren
+                                                  meiner Frau ein wahres Labsal;</orig><note xml:id="f87497c8-df6d-4da7-b5f0-3b9f12b662d9">Marx’ Brief an <persName key="pdrPo.001.004.000002819">Ernestine
+                                                  Liebknecht</persName>, geschrieben nach dem
+                                                  13. Oktober 1866 (<ref target="mega_zfc_mlf_g1b">Marx an E. Liebknecht, nach 13.10.1866</ref>),
+                                                  ist nicht überliefert. Zum Brief von Jenny Marx,
+                                                  vom frühestens 13. Oktober 1866, siehe <bibl sameAs="zotero-604880-93EZ8MP5">J. Marx an E.
+                                                  Liebknecht, frühestens 13.10.1866</bibl> (IISG,
+                                                  Marx-Engels-Nachlass, Sign. F. 27) , gedruckt in:
+                                                  <bibl sameAs="zotero-604880-T6GR93DH">Liebknecht
+                                                  Bw (1963)</bibl>, S.
+                                                  78-82.<?oxy_comment_start author="lindenberg" timestamp="20180927T161947+0200" comment="[Sie können sich denken, S. 140] [Li. Bw, S. 78–82] ),siehe Erl. 173g"?><?oxy_comment_end?></note></seg>
+                                        schreib' das Deiner <persName key="pdrPo.001.004.000003075">Frau</persName> und den <seg type="comment"><orig>Mädchen</orig><note xml:id="ee1ba41e-3c43-459b-b31c-e952ee0d571f"><persName key="pdrPo.001.004.000003074">Jenny
+                                                  (Tochter)</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                                  <persName key="pdrPo.001.004.000003068">Eleanor
+                                                  Marx</persName>.</note></seg>, ich werde
+                                        schwerlich so bald zum Schreiben kommen.</p>
+                                <p>Gott sei Dank, daß <seg type="comment"><orig>die <bibl sameAs="zotero-604880-PT9GISVC">Ökonomie</bibl>
+                                                  endlich fertig ist.</orig><note xml:id="d9d8102f-d32e-46c9-8709-9b79b76df72e"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx:
+                                                  Das Kapital. Buch 1.</bibl> – Siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+                                                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T104936+0200" comment="{{Br. 6.51-56}}"?>1866<?oxy_comment_end?>.</ref>
+                                                  – Vermutlich berichtete Marx in einem nicht
+                                                  überlieferten Brief an Liebknecht, geschrieben vor
+                                                  dem 25. April 1867 (<ref target="mega_k4k_ppt_gfb"><?oxy_comment_start author="lindenberg" timestamp="20180927T170808+0200" comment="Habe hier keinen neuen erschlossenen Brief angesetzt, wie von den Moskauer Kolleginnen vorgeschlagen (M. an Wilhelm Liebknecht, vor dem 25. April 1867), sondern den schon zuvor erschlossenen Brief gewählt."?>Marx
+                                                  an W. Liebknecht, zw. 16. u.
+                                                  25.4.1867<?oxy_comment_end?></ref>), über den
+                                                  Druck des ersten Bandes des <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl>
+                                                  und erkundigte sich nach der Möglichkeit, Annoncen
+                                                  bzw. Rezensionen in der deutschen Presse zu
+                                                  veröffentlichen.</note></seg>
+                                        <seg type="comment"><orig>Folgende Zeitungen stehen mir zu
+                                                  Gebote: 1) <bibl sameAs="ed_ed5_ygf_lbb">Deutsches
+                                                  Wochenblatt</bibl>, Mannheim. 2) <bibl sameAs="ed_fs5_jhf_lbb">Oberrheinischer
+                                                  Courier</bibl> Freiburg i.B. 3) <bibl sameAs="ed_lpm_jxn_q2b">Zukunft</bibl>, Berlin,
+                                                  4) <bibl sameAs="ed_xmr_l5g_hfb">Sächsische
+                                                  Zeitung</bibl>, Leipzig, 5) <bibl sameAs="ed_kmf_22h_hfb">Rheinische
+                                                  Volkszeitung</bibl>, Mainz. In diese 5 Blätter
+                                                  besorge ich die Anzeige (an die <bibl sameAs="ed_lpm_jxn_q2b">Zukunft</bibl> ist sie
+                                                  schon geschickt).</orig><note xml:id="nvmh_v3h_hfb">Zu den Anzeigen zum
+                                                  Erscheinen des „Kapital“ siehe <bibl sameAs="zotero-604880-25ETZ5BH">MEGA<hi rendition="#sup">2</hi> II/5.</bibl> S. 673/674.
+                                                </note></seg> Auch die <bibl sameAs="ed_p2v_klh_hfb">„Rheinische Zeitung“</bibl> Düsseldorf, und das
+                                                <bibl sameAs="ed_hrg_3mh_hfb">„Schlesische
+                                                Morgenblatt“</bibl> Breslau sind uns offen.
+                                        Exemplare sind zu schicken an: 1) Dr. <persName key="ed_vtr_13k_bdb"><hi rendition="#u">Guido
+                                                  </hi><hi rendition="#u">Weiß</hi></persName>, für
+                                        Zukunft. 2) Dr. <persName key="pdrPo.001.004.000011153"><hi rendition="#u">Val. </hi><hi rendition="#u">Maÿer</hi></persName> für <bibl sameAs="ed_fs5_jhf_lbb">Oberrheinischen
+                                                Courier</bibl>, 3) <hi rendition="#u"><bibl sameAs="ed_ed5_ygf_lbb">Deutsches
+                                                  Wochenblatt</bibl></hi>, 4) Dr. <persName key="ed_lb3_dnl_ldb"><hi rendition="#u">Obermüller</hi></persName>, für <bibl sameAs="ed_xmr_l5g_hfb">Sächsische Zeitung</bibl>,
+                                                5) <persName key="pdrPo.001.004.000004646"><hi rendition="#u">Stumpf</hi></persName> für <bibl sameAs="ed_kmf_22h_hfb">Rheinische
+                                                Volkszeitung</bibl>, 6) Dr. <hi rendition="#u"><persName key="ed_kzy_mvh_hfb">Petermann</persName></hi> (Chef des statistischen
+                                        Büreaus in Dresden, ein Gesinnungsgenosse, mit mir und einem
+                                        dritten Vorstand <expan>sämmtl<ex>icher</ex></expan>
+                                        Sächsischen Volksvereine) Große Schießgasse, 4, III Tr.
+                                        Dresden, 7) <hi rendition="#u">H.</hi><hi rendition="#u"> </hi><persName key="pdrPo.001.004.000001931"><hi rendition="#u">Groote</hi></persName>,
+                                        Abgeordneter, Schadowstraße Düsseldorf, 8) <seg type="comment"><orig><persName key="pdrPo.001.004.000002686">Lange</persName></orig><note xml:id="nddm_213_hfb"><persName key="pdrPo.001.004.000002686">Friedrich Albert
+                                                  Lange.</persName></note></seg> (der Dir bekannte
+                                        aus Duisburg, ich weiß jetzt aber die Adresse <pb/> nicht)
+                                                9) <hi rendition="#u">Dr.</hi><hi rendition="#u">
+                                                <persName key="pdrPo.001.004.000002341">Jacoby</persName></hi>,
+                                                <expan>p<ex>e</ex>r</expan> Adr. <persName key="ed_vtr_13k_bdb">Guido Weiß</persName>. 10) <seg type="comment"><orig><hi rendition="#u">Dr. <persName key="pdrPo.001.004.000000316">Becker</persName></hi></orig><note xml:id="f68e4698-7aa1-4ba8-b327-f377d588ee4f"><persName key="pdrPo.001.004.000000316">Hermann
+                                                  Heinrich Becker</persName>.</note></seg><hi rendition="#u">,</hi>
+                                        <expan>p<ex>e</ex>r</expan> adr. <bibl sameAs="ed_p2v_klh_hfb">Rheinische Zeitung</bibl>.
+                                        11) Prof. <hi rendition="#u"><persName key="pdrPo.001.004.000005208">HeinrichWuttke</persName></hi>, Reudnitz bei
+                                        Leipzig. Ferner: <persName key="ed_dnk_5kw_42b"><hi rendition="#u">Georg Dumas</hi></persName><hi rendition="#u">,</hi> für <bibl sameAs="ed_hrg_3mh_hfb">Schlesisches
+                                                Morgenblatt</bibl>, in Breslau. Auch den <hi rendition="#u"><bibl sameAs="ed_ujl_xr3_hfb">Stuttgarter Beobachter</bibl></hi> darf man nicht
+                                        übersehen. In einige
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Schweizer
+                                        Blätter<?oxy_custom_end?> werde ich Eingang finden. <seg type="comment"><orig>Am liebsten wäre es mir, und
+                                                  gewiß am zweckmäßigsten, wenn Du oder Engels ein
+                                                  paar einführende Aufsätze über das Werk schriebet,
+                                                  die in den oben genannten Blättern untergebracht
+                                                  würden, und mir zur Grundlage weitrer Arbeiten
+                                                  dienten.</orig><note xml:id="bb7f52c1-98b3-4e02-a913-aa24b296bbe5">Die
+                                                  Besprechungen von Engels erschienen im Herbst
+                                                  1867, nach dem Erscheinen des Bandes. Siehe dazu
+                                                  <ref target="B00449">W.
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20180502T143743+0200" comment="(Br. 439 "?>Liebknecht
+                                                  an Engels, 26.11.1867.<?oxy_comment_end?></ref>
+                                                  <ref target="B00480"><?oxy_comment_start author="reichhoff" timestamp="20180502T143845+0200" comment="Br. 471"?>und
+                                                  11.12.1867<?oxy_comment_end?></ref>; <bibl sameAs="zotero-604880-YVWKGQHP">[Jürgen Herres:]
+                                                  Engels’ Rezensionen des ersten Bandes des
+                                                  Marxschen „Kapitals“</bibl> in: <bibl sameAs="zotero-604880-AE939SQE">MEGA² I/21.</bibl>
+                                                  S. 1200–1218, sowie ebenda. S. 1234–1237,
+                                                  1239–1241, 1243. Siehe auch den Brief von <bibl sameAs="zotero-604880-3S5TMXHD">Otto Wigand an
+                                                  Otto Meißner vom 9. Mai 1867</bibl> (IISG, Kleine
+                                                  Korrespondenz. 373 ). </note></seg></p>
+                                <p>Aller Wahrscheinlichkeit nach wird <seg type="comment"><orig><bibl sameAs="ed_mzl_3hf_lbb">meine
+                                                  Zeitung</bibl></orig><note xml:id="d694d2cf-3c87-4903-8041-1c47b19f0c2e"><bibl sameAs="ed_mzl_3hf_lbb">Mitteldeutsche
+                                                  Volks-Zeitung.</bibl> Siehe <ref target="B00107">Erl. zu W. Liebknecht an Marx, zw. 8. u.
+                                                  15.5.1866</ref> und <ref target="B00151">Erl. zu
+                                                  W. Liebknecht an Marx, 10.8.1866.</ref>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180928T170553+0200" comment="103g
+147c"?></note><?oxy_comment_end?></seg>
+                                        demnächst wieder hergestellt, freilich werde ich dann wohl
+                                        nach Dresden übersiedeln müssen. <hi rendition="#u">Ich
+                                                hoffe, Du thust dann Dein Möglichstes für das
+                                                Blatt</hi>.</p>
+                                <p>Es thut mir leid, daß Du nicht herkommst. Sieh doch zu,
+                                        vielleicht geht es noch. Es würde sich verlohnen. Ich stehe
+                                        hier <hi rendition="#u">nicht</hi> vereinzelt, habe gute
+                                        Verbindungen angeknüpft, und manches organisirt.</p>
+                                <p>Lebe wohl. Ich habe meiner <persName key="pdrPo.001.004.000002819">Frau</persName> schon
+                                        zu viel Zeit entzogen. <seg type="comment"><orig>Die
+                                                  Kinder</orig><note xml:id="cee6c9ef-fba3-414d-9bbb-287d2e2828fc"><persName key="pdrPo.001.004.000002818">Alice</persName> und <persName key="pdrPo.001.004.000002820">Gertrud
+                                                  Liebknecht.</persName></note></seg> sind wohl.
+                                        Bleibe gut Deinem</p>
+                                <closer>treuen <persName key="pdrPo.001.004.000002822">Miller.
+                                        </persName> (<hi rendition="#u">Merke Dir neue
+                                        Adresse</hi></closer>
+                                <closer><hi rendition="#uu">11 Braustraße</hi>)</closer>
+                                <postscript>
+                                        <p>Grüße an Deine <persName key="pdrPo.001.004.000003075">Frau</persName> und die lieben <seg type="comment"><orig>Mädchen</orig><note xml:id="nh4m_mnb_hfb"><persName key="pdrPo.001.004.000003074">Jenny
+                                                  (Tochter)</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                                  <persName key="pdrPo.001.004.000003068">Eleanor
+                                                  Marx</persName></note></seg>. Auch meine <persName key="pdrPo.001.004.000002819">Frau</persName>
+                                                sends her love to all of you.</p>
+                                </postscript>
+                        </div>
+                        <div type="writingSession">
+                                <p><seg type="comment"><orig><hi rendition="#u"><persName key="pdrPo.001.004.000003187">Sigfrid
+                                                  Meÿer</persName></hi>, jetzt in Amerika, beschwert
+                                                  sich über Dein hartnäckiges Schweigen,</orig><note xml:id="b333bd0f-6957-4ade-896b-13b9f2d90948">Der
+                                                  Brief von <persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName> an Liebknecht,
+                                                  geschrieben vor dem 25. April 1867, konnte nicht
+                                                  ermittelt werden. </note></seg>
+                                        <seg type="comment"><orig>er habe Dir schon mehrmals
+                                                  geschrieben,</orig><note xml:id="db6408c7-2996-45b1-bc83-fdaa7cb7c6a3">Siehe <ref target="B00174"><?oxy_comment_start author="reichhoff" timestamp="20180502T144152+0200" comment="(Br. 170"?>Meyer
+                                                  an Marx, 22.9.1866<?oxy_comment_end?></ref> und
+                                                  <ref target="B00200"><?oxy_comment_start author="reichhoff" timestamp="20180502T144234+0200" comment="Br. 193"?>3.12.1866<?oxy_comment_end?></ref>.</note></seg>
+                                        ohne Antwort zu bekommen. <seg type="comment"><orig><hi rendition="#u">Schreibe ihm</hi> ja.</orig><note xml:id="d6abd38a-9c78-4a61-a8ce-9f91f13da674">Siehe <ref target="B00258"><?oxy_comment_start author="reichhoff" timestamp="20180502T144347+0200" comment="(Br. 247)."?>Marx
+                                                  an Meyer,
+                                                  30.4.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        Er ist einer der <hi rendition="#u">Treuen</hi>, und <hi rendition="#u">fähig</hi>. Adresse Mr. <persName key="pdrPo.001.004.000003187">S. Meyer</persName>,
+                                        Care of  <persName key="pdrPo.001.004.000004523">F.A.
+                                                Sorge</persName> Esq. Box 101, Hoboken N.J. U.S. Er
+                                        wird auch für die Ökonomie wirken. Vernachlässige ihn nicht. </p>
+                                <p>/ Schreibe bald; Du siehst ich war flink im Schreiben und –
+                                        vergessen. /</p>
+                        </div>
+                </body>
+        </text>
+</TEI>

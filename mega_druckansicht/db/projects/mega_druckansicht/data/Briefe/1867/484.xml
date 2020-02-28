@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00493" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>484</idno>Friedrich Engels an Karl Marx in London. Manchester, Donnerstag, 19. Dezember 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1660/D III 430</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            224 × 178 mm. Prägung: Blumenstrauß. Engels hat die erste Seite
+                            vollständig, die zweite zu zwei Dritteln beschrieben; die übrigen zwei
+                            Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „73,1“ bzw.
+                            „73,2“, „355,1“ bzw. „355,2“. Redaktionelle Vermerke. Streichungen.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „943“.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2145</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913)<?oxy_custom_end?>. S. 441/442.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930).<?oxy_custom_end?> S. 465/466.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1867-12-19"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00490"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 17. Dezember 1867 (siehe <ref target="B00490"><?oxy_comment_start author="lindenberg" timestamp="20190306T160553+0100" comment="Br. 481"?>Marx
+                        an Engels, 17.12.1867<?oxy_comment_end?></ref>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:24Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Manchester 19 Dec 1867</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p>Of course erfordert die <expan>Corresp<ex>ondenz</ex></expan> mit <seg type="comment"><orig><persName key="pdrPo.001.004.000002822">Wilhelmchen</persName></orig><note xml:id="nexr_dvd_kgb"><persName key="pdrPo.001.004.000002822">Wilhelm
+                        Liebknecht</persName>.</note></seg> Vorsicht. <seg type="comment"><orig>Wie
+                            ich Dir früher schon sagte</orig><note xml:id="nug5_fvd_kgb">Siehe <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180615T104551+0200" comment="(Br. 397.14–24)"?>Engels
+                                an Marx, 22.10.1867<?oxy_comment_end?></ref> „Liebknecht macht mir
+                            viel Spaß ...“.</note></seg>, die bornirt einseitige singleness of
+                    purpose war sein Glück &amp; das Geheimniß seines Effects im Reichstag. Leider
+                    aber geht das nur einmal &amp; <seg type="comment"><orig>die Veröffentlichung
+                            der Reden</orig><note xml:id="nhcd_qvd_kgb"><bibl sameAs="zotero-604880-4XKDE42Q" type="primary">W[ilhelm] Liebknecht:
+                                Was ich im Berliner „Reichstag“ sagte … Leipzig [1867].</bibl> Siehe
+                                <ref target="B00431">
+                                <?oxy_comment_start author="lindenberg" timestamp="20200110T095041+0100" comment="421.4–5{a}"?>Erl. zu
+                                W. Liebknecht an Marx, 12.11.1867<?oxy_comment_end?></ref> „I send
+                            you 50 Copies ...“.</note></seg> – <seg type="comment"><orig>abgesehen
+                            von <persName key="pdrPo.001.004.000002616"><expan>K<ex>u</ex>g</expan><ex>e</ex><expan>lm<ex>ann</ex></expan></persName>’s
+                            Briefen</orig><note xml:id="nacv_jvd_kgb">Siehe <ref target="B00441"><?oxy_comment_start author="reichhoff" timestamp="20180615T104637+0200" comment="(Br. 431.35–59)"?>L.
+                                u. Fr. Kugelmann an Marx, 23.11.1867 <?oxy_comment_end?></ref> „Daß
+                            Liebknecht seine Reistagspauken ...“, <ref target="B00446">L. Kugelmann
+                                an Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180615T104724+0200" comment="(Br. 436.42–46"?>25.11.1867<?oxy_comment_end?></ref>
+                            „Ihr Brief an Liebkn. ...“ und <ref target="B00460">L. Kugelmann an
+                                Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180615T104800+0200" comment=" 450.33–42) "?>30.<?oxy_comment_end?>11.1867</ref>
+                            „Liebknecht purrte ich ...“  sowie <ref target="B00467">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180615T104835+0200" comment="(Br. 458.24–34)."?>Kugelmann
+                                an Marx, 3.12.1867 <?oxy_comment_end?></ref> „An Liebknecht schreibe
+                            ich ...“.</note></seg> – bewies daß es damit schon <hi rendition="#u">zu
+                        weit</hi> gegangen war. Nun kommt <seg type="comment"><orig>das <bibl sameAs="ed_umz_dxj_tgb" type="periodika">Blättchen</bibl></orig><note xml:id="nvxz_lvd_kgb"><bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches
+                                Wochenblatt</bibl>. Siehe<ref target="B00404"><?oxy_comment_start author="reichhoff" timestamp="20180615T104918+0200" comment="(Br. 394)"?>
+                                W. Liebknecht an Marx, 19.10.1867<?oxy_comment_end?></ref> „
+                            Apropos. We want to found ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200110T101343+0100" comment="394l"?>Erl<?oxy_comment_end?>.</note></seg>
+                    dazu, wo die geflügelten Worte schwarz auf weiß fixirt &amp; uns in die Schuh
+                    geschoben werden – dann <seg type="comment"><orig>das Zollparlament</orig><note xml:id="nb32_tvd_kgb">Siehe <ref target="B00480"><?oxy_comment_start author="reichhoff" timestamp="20180615T105000+0200" comment=" (Br. 471.147)"?>W.
+                                Liebknecht an Engels, 11.12.1867<?oxy_comment_end?></ref> „Deine
+                            Rathschläge ...“ und Erl.</note></seg>, &amp; damit <hi rendition="#u">sicher</hi> Blamage für uns wenn Wilhelmchen nicht etwas instruirt wird.
+                    Bei seinem eminenten Talent Böcke zu schießen war da Großes zu erwarten, &amp;
+                    ist es auch noch. Wir können ihn sicher nur vor den allergrößten Böcken
+                    schützen, aber <seg type="comment"><orig>seine Wiener Adresse</orig><note xml:id="nmps_wvd_kgb">Siehe <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180615T105038+0200" comment="(Br. 461.12–15) "?>Engels
+                                an Marx, 6.12.1867<?oxy_comment_end?></ref> „Er &amp; Bebel haben
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200110T102507+0100" comment="{461i}"?>Erl<?oxy_comment_end?>.</note></seg>
+                    &amp; <seg type="comment"><orig>seine Freundschaft mit den
+                            Föderalisten</orig><note xml:id="ntpr_zvd_kgb">Siehe <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180615T105106+0200" comment=" (Br. 461.9–20)"?>Engels
+                                an Marx, 6.<?oxy_comment_end?>12.1867</ref> „An Liebkn hab' ich ...“
+                            sowie <ref target="B00487"><?oxy_comment_start author="reichhoff" timestamp="20180615T105147+0200" comment="(Br. 478.3–5)"?>Engels
+                                an Marx, 16.12.1867<?oxy_comment_end?></ref> „Inl. ein Brief ...“
+                            und Erläuterungen.</note></seg> d.h. <persName key="pdrPo.001.004.000001948">Grün</persName>!! ist doch schon grob genug.
+                    Ich kann ihm daher nur 2 Hauptgesichtspunkte geben: 1) sich zu den <seg type="comment"><orig>Ereignissen &amp; Resultaten von 1866</orig><note xml:id="ntjc_cwd_kgb">Anspielung auf den
+                            <?oxy_comment_start author="lindenberg" timestamp="20191213T114620+0100" comment="Siehe Erl. 124.19 {Jg. 1866, 124d}"?>Deutschen
+                            Krieg 1866.<?oxy_comment_end?>
+                        </note></seg>
+                    <del rendition="#s">sich</del> nicht simplement negativ, d.h. reaktionär,
+                    sondern kritisch zu verhalten (was ihm freilich schwer werden wird) &amp; 2) die
+                    Feinde des <persName key="pdrPo.001.004.000000441">Bismark</persName> ebenso
+                    sehr anzugreifen wie diesen selbst da sie ebenfalls nichts werth sind. Du siehst
+                    wie schön er sich schon mit Grün &amp; Co. hereingeritten hat, das wäre ein
+                    schöner Triumph für den <persName key="pdrPo.001.004.000000441">Bismark</persName> wenn wir oder unsre Leute mit diesem Pack eine Allianz
+                    schlössen! Nun wir müssen abwarten was es wird.</p>
+                <p><seg type="comment"><orig>Die Clerkenwell Dummheit</orig><note xml:id="neyp_jwd_kgb">Siehe <ref target="B00486"><?oxy_comment_start author="reichhoff" timestamp="20180615T105229+0200" comment=" (Br. 477.3)"?>Marx
+                                an Engels, 14.12.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200110T103335+0100" comment="{477a.}"?>Erl<?oxy_comment_end?>.
+                        </note></seg> war offenbar das Werk einiger Specialfanatiker, es ist das
+                    Pech aller Verschwörungen zu solchen Dummheiten zu führen, weil „doch was
+                    geschehn, doch was getrieben werden muß“. Namentlich ist auch <pb/> in diesem
+                    Spreng &amp; Brandfach in Amerika viel geblustert worden &amp; dann kommen
+                    einzelne Esel &amp; stiften solchen Blödsinn an. Diese Menschenfresser sind
+                    dabei meist die größten Feiglinge wie ja auch der pp <persName key="ed_gd4_4n4_qgb">Allen</persName> bereits queen’s evidence geworden zu
+                    sein scheint. Dabei die Idee Irland zu befreien, indem man einen Londoner
+                    Schneiderladen in Brand steckt!</p>
+                <p>Hast Du die <seg type="comment"><orig>Drohung der Russen
+                                    (<expan>R<ex>ussischer</ex></expan> Invalid)</orig><note xml:id="nujq_nwd_kgb">Hinweis auf den anonymen Artikel „V pečati našej“
+                            [Korrespondenz:] „S.-Peterburg, 4-go dekabrja.“ In: Russkij Invalid.
+                            Sankt-Peterburg. Nr. 336, 5. Dezember 1867, S. 1, Sp. 5 bis S. 2, Sp. 2.
+                            Rubrik: Otdel neofizial’nyj. {„Въ печати нашей …“ [Korrespondenz:] „<hi rendition="#u">С.-Петербургъ, 4-го декабря.“</hi> In:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Русский
+                            инвалидъ.<?oxy_custom_end?> Санктъ-Петербургъ. Отделъ
+                            неоффицiальный.}</note></seg> gelesen daß die Allianz von Fkch &amp;
+                    Oestreich den europ. Frieden unmöglich mache, weil sie die deutsche,
+                    italiänische, &amp; oriental. Frage nicht zur Lösung kommen lasse? Ganz nett.
+                        <persName key="pdrPo.001.004.000000441">Bism.</persName> &amp; <persName key="pdrPo.001.004.000001850">Gortschakoff</persName> scheinen jetzt die
+                    Offensive ergreifen zu wollen.</p>
+                <p><seg type="comment"><orig>Dein Freund <persName key="pdrPo.001.004.000002846">Lippe</persName> ist den Manen der Depossedirten geopfert
+                            worden</orig><note xml:id="nqbf_swd_kgb">Am 6. Dezember 1867 legte die
+                            Regierung Bismarck dem Abgeordnetenhaus einen Gesetzentwurf sowie
+                            Verträge über die Abfindung der entthronten Herrscher von Hannover und
+                            von Nassau vor, deren Besitzungen nach dem Deutschen Krieg 1866 (siehe
+                            auch <ref target="B00128"><?oxy_comment_start author="lindenberg" timestamp="20200110T105400+0100" comment="124.19 {124d}"?>Erl. zu
+                                Marx an Engels, 20.6.1866<?oxy_comment_end?></ref>) Preußen
+                            einverleibt worden waren. Um sich die Unterstützung des
+                            Abgeordnetenhauses zu sichern, beschloß die Regierung, den
+                            Justizminister <persName key="pdrPo.001.004.000002846">Leopold Graf zur
+                                Lippe</persName> zu entlassen. An seiner Stelle wurde <persName key="ed_x1v_x1m_3kb"><?oxy_comment_start author="lindenberg" timestamp="20200110T113238+0100" comment="vorher Gerhard Leonhardt"?>Adolf
+                                Leonhardt<?oxy_comment_end?></persName> ernannt, der frühere
+                            Justizminister von Hannover, der als einer der ersten den Anschluß
+                            Hannovers an Preußen anerkannt hatte. Das Abgeordnetenhaus billigte die
+                            Verträge über die Abfindung. (Siehe
+                            [<?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>Korrespondenz:]
+                            Rundschau. Berlin, 7. Dezember. In: Social-Demokrat. Berlin. Nr. 143, 8.
+                            Dezember 1867. S. 1, Sp. 1/2. Rubrik: Politischer
+                            Theil;<?oxy_custom_end?> [Korrespondenz:] Norddeutscher Bund (–) Berlin,
+                            5. Dec. In: Allgemeine Zeitung. Augsburg. Nr. 342, 8. Dezember 1867. S.
+                            5463. Rubrik: Deutschland; Volks-Zeitung. Berlin. Nr. 287, 7. Dezember
+                            1867. S. 1, Sp. 1/2. Rubrik: Aus dem Landtage.)</note></seg> – seine
+                    Entlassung war der Preis für den die <seg type="comment"><orig>Nat.
+                                    <expan>Lib<ex>eralen</ex></expan></orig><note xml:id="nfkq_vwd_kgb">Siehe <ref target="B00265"><?oxy_comment_start author="lindenberg" timestamp="20200110T105819+0100" comment="256j"?>Erl. zu
+                                Marx an Engels, 7.5.1867<?oxy_comment_end?></ref>.</note></seg> die
+                    Opposition gegen die 25 Mill. an den <seg type="comment"><orig><persName key="ed_b1n_vds_gz">Welfen</persName></orig><note xml:id="nlyh_xwd_kgb"><persName key="ed_b1n_vds_gz">Georg V.</persName>,
+                            König von Hannover.</note></seg> &amp; <seg type="comment"><orig><persName key="ed_r1z_vbr_4gb">Nassauer</persName></orig><note xml:id="nvdq_zwd_kgb"><persName key="ed_r1z_vbr_4gb">Adolf, Herzog von
+                        Nassau</persName>.</note></seg> fallen lassen.</p>
+                <p>Viele Grüße an die ladies</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

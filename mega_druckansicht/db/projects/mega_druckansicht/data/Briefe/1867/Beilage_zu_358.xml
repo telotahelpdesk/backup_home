@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_oz3_ztf_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von W. Henderson an Joe Lomax vom 1. Oktober 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. L 3619/L V 437.
+                        Fotosign. 14808. Archivsignatur des SPD-Archivs: „II 21 C 18“. Aufdruck:
+                        „Saint Peter’s Square. Manchester, 186 “.</p>
+                    <p>Der Brief ist eine Beilage zu: <ref target="B00367">Joe Lomax an Friedrich
+                            Engels in Manchester. Manchester, Mittwoch, 2. Oktober 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">L3619/L V 437. Fotosign. 14808</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <opener>
+                    <dateline><hi rendition="#mPrint">
+                            <hi rendition="#mPrint"><pb n=""/>Saint Peter's Square.
+                            Manchester,</hi></hi> 1 October <hi rendition="#mPrint"><hi rendition="#mPrint">186</hi></hi>7</dateline>
+                    <salute>Dear Lomax</salute>
+                </opener>
+                <p/>
+                
+                <p>I have put Ross’ three Hunters in the Guardian &amp; Courier of today. Their
+                    prices are as follows</p>
+                <p>
+                    <table rows="3" cols="2">
+                        <row>
+                            <cell>Brown Horses</cell>
+                            <cell>£ 120</cell>
+                        </row>
+                        <row>
+                            <cell>Chesnut Mare</cell>
+                            <cell>” 140</cell>
+                        </row>
+                        <row>
+                            <cell>Bay –</cell>
+                            <cell>” 80</cell>
+                        </row>
+                    </table>
+                </p>
+                <p> If you can meet with a purchaser I shall be very much obliged –</p>
+                <p>Yours truly</p>
+                <p> WHenderson</p>
+                <p>Lawson knows all about <hi rendition="#u">them</hi> &amp; has Ross’ instructions
+                    –</p>
+            </div>
+        </body>
+    </text>
+</TEI>

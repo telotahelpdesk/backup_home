@@ -1,0 +1,2144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_f2c_zbb_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Manifest der Kommunistischen Partei</title>
+                <author>
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                 </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2019-09-16</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="M">[Marx, Karl, Friedrich Engels:] Manifest der Kommunistischen Partei. London 1848.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="m" type="main">Manifest der Kommunistischen Partei</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">23</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>
+                            <name>Office der "Bildungs-Gesellschaft für Arbeiter" von J. E. Burghard</name>
+                        </publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">Februar 1848</date>
+                    </publicationStmt>
+                </biblFull>
+                <listWit>
+                    <witness xml:id="r5x_rll_mjb">
+                        <title>Karl Marx/Friedrich Engels: Socialistische und kommunistische Literatur. [Auszug aus dem "Manifest der kommunistischen Partei".] In: Neue Rheinische Zeitung. Politisch-ökonomische Revue. Redig. von Karl Marx. London. 1850. H. 5/6 (Mai bis Oktober). S. 100-110.</title>
+                        <idno type="siglum">J<g rendition="sup">3</g></idno>
+                    </witness>
+                </listWit>
+                <listWit>
+                    <witness xml:id="of1_xry_mjb">
+                        <title>[Karl Marx/Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            Veröffentlicht im Februar 1848. Gedruckt in der Office der
+                            "Bildungs-Gesellschaft für Arbeiter" von J. E. Burghard. 46, Liverpool
+                            Street, Bishopsgate. London [Köln 1850/1851].</title>
+                        <idno type="siglum">D<g rendition="sup">4</g></idno>
+                    </witness>
+                </listWit>
+                <listWit>
+                    <witness xml:id="kyh_5jy_4jb">
+                        <title>[Karl Marx/Friedrich Engels:] Manifest der Kommunistischen Partei.
+                            Veröffentlicht im Februar 1848. Druck von R. Hirschfeld, English &amp;
+                            Foreign Printer. 48, Clifton Street, Finsbury Square. London 1848
+                            [1861].</title>
+                        <idno type="siglum">D<g rendition="sup">5</g></idno>
+                    </witness>
+                </listWit>
+                <listWit>
+                    <witness xml:id="uvq_krh_qjb">
+                        <title>Karl Marx/Friedrich Engels: Das Kommunistische Manifest. Neue Ausgabe mit einem Vorwort der Verfasser. Verlag der Expedition des "Volksstaat". Leipzig 1872.</title>
+                        <idno type="siglum">D<g rendition="sup">8</g></idno>
+                    </witness>
+                </listWit>
+                <listWit>
+                    <witness xml:id="ucx_blx_qjb">
+                        <title>Karl Marx/Friedrich Engels: Das Kommunistische Manifest. Dritte autorisierte deutsche Ausgabe. Mit Vorworten der Verfasser. Verlag der Schweizerischen Volksbuchhandlung. Hottingen-Zürich 1883.</title>
+                        <idno type="siglum">D<g rendition="sup">9</g></idno>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <date notBefore="1847-12-11" notAfter="1848-01-31"/>                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div n="1" type="title">
+                <head><hi rendition="#c"><pb n="3"/><hi rendition="#b"><hi rendition="#g">Manifest der Kommunistischen Partei.</hi></hi></hi></head>
+                <p><milestone unit="section" rendition="#hr"/></p>
+            </div>
+            <div n="5" type="preface">
+                <p><hi rendition="#in">E</hi>in Gespenst geht um in Europa — das Gespenst des
+                    Kommunismus. Alle Mächte des alten Europa haben sich zu einer heiligen Hetzjagd
+                    gegen dies Gespenst verbündet, der Papst und der Czar, Metternich und Guizot,
+                    französische Radikale und deutsche Polizisten.</p>
+                <p>Wo ist die Oppositionspartei, die nicht von ihren regierenden Gegnern als
+                    kommunistisch verschrieen worden wäre, wo die Oppositionspartei, die den 
+                    <app type="variants" xml:id="dcm_c35_njb">
+                        <lem>fortgeschritteneren</lem>
+                        <rdg wit="#D4">fortgeschrittenen</rdg>
+                    </app> Oppositionsleuten sowohl, wie ihren reaktionären Gegnern den
+                    brandmarkenden Vorwurf des Kommunismus nicht zurückgeschleudert hätte?</p>
+                <p>Zweierlei geht aus dieser Thatsache hervor.</p>
+                <p>Der Kommunismus wird bereits von allen europäischen Mächten als eine Macht
+                    anerkannt.</p>
+                <p>Es ist hohe Zeit daß die Kommunisten ihre Anschauungsweise, ihre Zwecke, ihre
+                    Tendenzen vor der ganzen Welt offen darlegen, und 
+                    <app type="variants" xml:id="fhk_qsh_qjb">
+                        <lem>den</lem>
+                        <rdg wit="#D8 #D9">dem</rdg>
+                    </app> Mährchen vom Gespenst des
+                    Kommunismus ein Manifest der Partei selbst entgegenstellen.</p>
+                <p>Zu diesem Zweck haben sich Kommunisten der verschiedensten Nationalität in London
+                    versammelt und das folgende Manifest entworfen, das in englischer,
+                    französischer, deutscher, italienischer, flämmischer und dänischer Sprache
+                    veröffentlicht wird.</p>
+            </div>
+            <div n="2" type="title">
+                <head><hi rendition="#c"><hi rendition="#b">I. Bourgeois und Proletarier.</hi></hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Die Geschichte aller bisherigen Gesellschaft ist die Geschichte von
+                    Klassenkämpfen.</p>
+                <p>Freier und Sklave, Patrizier und Plebejer, Baron und Leibeigner, Zunftbürger und
+                    Gesell, kurz, Unterdrücker und Unterdrückte standen in stetem Gegensatz zu
+                    einander, führten einen ununterbrochenen, bald versteckten bald offenen Kampf, 
+                    einen Kampf, der jedesmal mit einer revolutionären Umgestaltung der ganzen 
+                    Gesellschaft endete, oder mit dem gemeinsamen Untergang der kämpfenden Klassen.</p>
+                <p>In den früheren Epochen der Geschichte finden wir fast überall eine vollständige
+                    Gliederung der Gesellschaft in verschiedene Stände, eine mannichfaltige
+                    Abstufung der gesellschaftlichen Stellungen. Im alten Rom haben wir 
+                    Pa<pb n="4"/>trizier, Ritter, Plebejer, Sklaven; im Mittelalter Feudalherren, Vasallen,
+                    Zunftbürger, Gesellen, Leibeigene, und noch dazu in fast jeder dieser Klassen
+                    wieder besondere Abstufungen.</p>
+                <p>Die aus dem Untergange der feudalen Gesellschaft hervorgegangene moderne
+                    bürgerliche Gesellschaft hat die Klassengegensätze nicht aufgehoben. Sie hat nur
+                    neue Klassen, neue Bedingungen der Unterdrückung, neue Gestaltungen des Kampfes
+                    an die Stelle der alten gesetzt.</p>
+                <p>Unsere Epoche, die Epoche der Bourgeoisie, zeichnet sich jedoch dadurch aus, daß
+                    sie die Klassengegensätze vereinfacht hat. Die ganze Gesellschaft spaltet sich
+                    mehr und mehr in zwei große feindliche Lager, in zwei große einander direkt
+                    gegenüberstehende 
+                    <app type="variants" xml:id="atf_b5h_qjb">
+                        <lem>Klassen —</lem>
+                        <rdg wit="#D8 #D9">Klassen:</rdg>
+                    </app> Bourgeoisie und Proletariat.</p>
+                <p>Aus den Leibeigenen des Mittelalters gingen die Pfahlbürger der ersten Städte
+                    hervor; aus dieser Pfahlbürgerschaft entwickelten sich die ersten Elemente der
+                    Bourgeoisie.</p>
+                <p>Die Entdeckung Amerika’s, die Umschiffung Afrika’s schufen der
+                    aufkommenden Bourgeoisie ein neues Terrain. Der ostindische und chinesische
+                    Markt, die Kolonisirung von Amerika, der Austausch mit den Kolonien, die
+                    Vermehrung der Tauschmittel und der Waaren überhaupt gaben dem Handel, der
+                    Schifffahrt, der Industrie einen 
+                    <app type="variants" xml:id="vgh_n5h_qjb">
+                        <lem>niegekannten</lem>
+                        <rdg wit="#D8 #D9">nie gekannten</rdg>
+                    </app> Aufschwung, und damit dem
+                    revolutionären Element in der zerfallenden feudalen Gesellschaft eine rasche
+                    Entwicklung.</p>
+                <p>Die bisherige feudale oder zünftige Betriebsweise der Industrie reichte nicht
+                    mehr aus für den mit den neuen Märkten anwachsenden Bedarf. Die Manufaktur trat
+                    an ihre Stelle. Die Zunftmeister wurden verdrängt durch den industriellen
+                    Mittelstand; die Theilung der Arbeit zwischen den verschiedenen Corporationen
+                    verschwand vor der Theilung der Arbeit in der einzelnen Werkstatt selbst.</p>
+                <p>Aber immer wuchsen die Märkte, immer stieg der Bedarf. Auch die Manufaktur
+                    reichte nicht mehr aus. Da revolutionirten der Dampf und die Maschinerie die
+                    industrielle Produktion. An die Stelle der Manufaktur trat die moderne große
+                    Industrie, an die Stelle des industriellen Mittelstandes traten die
+                    industriellen Millionäre, die Chefs ganzer industrieller Armeen, die modernen
+                    Bourgeois.</p>
+                <p>Die große Industrie hat den Weltmarkt hergestellt, den die Entdeckung
+                    Amerika’s vorbereitete. Der Weltmarkt hat dem Handel, der Schifffahrt, den
+                    Landkommunikationen eine unermeßliche Entwicklung gegeben. Diese hat wieder auf
+                    die Ausdehnung der Industrie zurückgewirkt, und in demselben Maße, worin
+                    Industrie, Handel, Schifffahrt, Eisenbahnen sich ausdehnten, in demselben Maße
+                    entwickelte sich die Bourgeoisie, vermehrte sie ihre Kapitalien, drängte sie
+                    alle vom Mittelalter her überlieferten Klassen in den Hintergrund.</p>
+                <p>Wir sehen also wie die moderne Bourgeoisie selbst das Produkt eines langen
+                    Entwicklungsganges, einer Reihe von Umwälzungen in der Produktions- und
+                    Verkehrsweise ist.</p>
+                <p>Jede dieser Entwicklungsstufen der Bourgeoisie war begleitet von einem
+                    entsprechenden politischen Fortschritt. Unterdrückter Stand unter der Herrschaft
+                    der Feudalherren, bewaffnete und sich selbst verwaltende 
+                    <app type="variants" xml:id="t5t_n4x_qjb">
+                        <lem>Associationen</lem>
+                        <rdg wit="#D9">Assoziation</rdg>
+                    </app> in der Commune, hier unabhängige städtische Republik, dort dritter steuerpflichtiger
+                    Stand der Monarchie, dann zur Zeit der Manufaktur Gegengewicht gegen den Adel in
+                    der ständischen oder in der absoluten 
+                    <app type="variants" xml:id="dsc_tvh_qjb">
+                        <lem>Monarchie und Hauptgrundlage</lem>
+                        <rdg wit="#D8 #D9">Monarchie, Hauptgrundlage</rdg>
+                    </app> der großen Monarchieen überhaupt, erkämpfte sie sich endlich seit der Herstellung der
+                    großen Industrie und des Weltmarktes im modernen Repräsentativstaat die
+                    ausschließliche politische Herrschaft. Die moderne Staatsgewalt ist nur ein
+                    Ausschuß, der die gemeinschaftlichen Geschäfte der ganzen Bourgeoisklasse
+                    verwaltet.</p>
+                <pb n="5"/>
+                <p>Die Bourgeoisie hat in der Geschichte eine höchst revolutionäre Rolle
+                    gespielt.</p>
+                <p>Die Bourgeoisie, wo sie zur Herrschaft gekommen, hat alle feudalen,
+                    patriarchalischen, idyllischen Verhältnisse zerstört. Sie hat die buntscheckigen
+                    Feudalbande, die den Menschen an seinen natürlichen Vorgesetzten knüpften,
+                    unbarmherzig zerrissen, und kein anderes Band zwischen Mensch und Mensch übrig
+                    gelassen, als das nackte Interesse, als die gefühllose „baare Zahlung“.
+                    Sie hat die heiligen Schauer der frommen Schwärmerei, der ritterlichen
+                    Begeisterung, der spießbürgerlichen Wehmuth in dem eiskalten Wasser egoistischer
+                    Berechnung ertränkt. Sie hat die persönliche Würde in den Tauschwerth aufgelöst,
+                    und an die Stelle der zahllosen verbrieften und wohlerworbenen Freiheiten die
+                    Eine gewissenlose Handelsfreiheit gesetzt. Sie hat mit einem Wort, an die Stelle
+                    der mit religiösen und politischen Illusionen verhüllten Ausbeutung die offene,
+                    unverschämte, direkte, dürre Ausbeutung gesetzt.</p>
+                <p>Die Bourgeoisie hat alle bisher ehrwürdigen und mit frommer Scheu betrachteten
+                    Thätigkeiten ihres Heiligenscheins entkleidet. Sie hat den Arzt, den Juristen,
+                    den Pfaffen, den Poeten, den Mann der Wissenschaft in ihre bezahlten
+                    Lohnarbeiter verwandelt.</p>
+                <p>Die Bourgeoisie hat dem Familienverhältniß seinen rührend-sentimentalen Schleier
+                    abgerissen und es auf ein reines Geldverhältniß zurückgeführt.</p>
+                <p>Die Bourgeoisie hat enthüllt wie die brutale Kraftäußerung, die die Reaktion so sehr am Mittelalter
+                    bewundert, in der trägsten Bärenhäuterei ihre passende Ergänzung fand. Erst sie hat bewiesen was die Thätigkeit der Menschen zu Stande bringen kann. Sie hat ganz
+                    andere Wunderwerke vollbracht als egyptische Pyramiden, römische Wasserleitungen
+                    und gothische Kathedralen, sie hat ganz andere Züge ausgeführt, als
+                    Völkerwanderungen und Kreuzzüge.</p>
+                <p>Die Bourgeoisie kann nicht existiren ohne die Produktionsinstrumente, also die Produktionsverhältnisse,
+                    also sämmtliche gesellschaftlichen Verhältnisse fortwährend zu revolutioniren.
+                    Unveränderte Beibehaltung der alten Produktionsweise war dagegen die erste
+                    Existenzbedingung aller früheren industriellen Klassen. Die fortwährende
+                    Umwälzung der Produktion, die ununterbrochene Erschütterung aller
+                    gesellschaftlichen Zustände, die ewige Unsicherheit und Bewegung zeichnet die
+                    Bourgeois-Epoche vor allen früheren aus. Alle festen, eingerosteten Verhältnisse
+                    mit ihrem Gefolge von altehrwürdigen Vorstellungen und Anschauungen werden
+                    aufgelöst, alle neugebildeten veralten, ehe sie verknöchern können. Alles
+                    Ständische und Stehende verdampft, alles Heilige wird entweiht, und die Menschen
+                    sind endlich gezwungen, ihre Lebensstellung, ihre 
+                    <app type="variants" xml:id="jt3_xxy_4jb">
+                        <lem>gegenseitigen Beziehungen</lem>
+                        <rdg wit="#D5">gegenseitige Beziehung</rdg>
+                    </app> mit nüchternen Augen anzusehen.</p>
+                <p>Das Bedürfniß nach einem stets ausgedehnteren Absatz für ihre Produkte jagt die
+                    Bourgeoisie über die ganze Erdkugel. Ueberall muß sie sich einnisten, überall
+                    anbauen, überall Verbindungen herstellen.</p>
+                <p>Die Bourgeoisie hat durch 
+                    <app type="variants" xml:id="sh5_hl3_qjb">
+                        <lem>die</lem>
+                        <rdg wit="#D8 #D9">ihre</rdg>
+                    </app> Exploitation des Weltmarkts die Produktion und
+                    Konsumtion aller Länder kosmopolitisch gestaltet. Sie hat zum großen Bedauern
+                    der Reaktionäre den nationalen Boden der Industrie unter den Füßen weggezogen.
+                    Die uralten nationalen Industrieen sind vernichtet worden und werden noch
+                    täglich vernichtet. Sie werden verdrängt durch neue Industrieen, deren
+                    Einführung eine Lebensfrage für alle <choice>
+                        <sic>civilisirte</sic>
+                        <corr cert="high">civilisirten</corr>
+                    </choice> Nationen wird, durch
+                    Industrieen, die nicht mehr einheimische Rohstoffe, sondern den entlegensten
+                    Zonen angehörige Rohstoffe verarbeiten, und deren Fabrikate nicht nur im Lande
+                    selbst, sondern in allen Welttheilen zugleich verbraucht werden. An die Stelle
+                    der alten, durch Landeserzeugnisse befriedigten Bedürfnisse treten neue, welche
+                    die Produkte der entferntesten Länder und Klimate zu ihrer Befriedigung
+                    erheischen. An die Stelle der alten lokalen und nationalen Selbstgenügsamkeit
+                    und Abgeschlossenheit tritt ein allseitiger Verkehr, eine allseitige
+                    Abhängigkeit <pb n="6"/> der Nationen von einander. Und wie in der materiellen,
+                    so auch in der geistigen Produktion. Die geistigen Erzeugnisse der einzelnen
+                    Nationen werden Gemeingut. Die nationale Einseitigkeit und Beschränktheit wird
+                    mehr und mehr unmöglich, und aus den vielen nationalen und lokalen Literaturen
+                    bildet sich eine Weltliteratur.</p>
+                <p>Die Bourgeoisie reißt durch 
+                    <app type="variants" xml:id="wzw_gm3_qjb">
+                        <lem>die</lem>
+                        <rdg wit="#D8 #D9">eine</rdg>
+                    </app> rasche Verbesserung aller Produktions-Instrumente, durch die unendlich erleichterten Kommunikationen alle,
+                    auch die barbarischsten Nationen in die Civilisation. Die wohlfeilen Preise
+                    ihrer Waaren sind die schwere Artillerie, mit der sie alle chinesischen Mauern
+                    in den Grund schießt, mit der sie den hartnäckigsten Fremdenhaß der Barbaren zur
+                    Kapitulation zwingt. Sie zwingt alle Nationen die Produktionsweise der
+                    Bourgeoisie sich anzueignen, wenn sie nicht zu Grunde gehen wollen; sie zwingt
+                    sie die 
+                    <app type="variants" xml:id="osp_ptx_qjb">
+                        <lem>sogenannte</lem>
+                        <rdg wit="#D9">sogen.</rdg>
+                    </app> Civilisation bei sich selbst einzuführen, d. h. Bourgeois zu
+                    werden. Mit einem Wort, sie schafft sich eine Welt nach ihrem eigenen Bilde.</p>
+                <p>Die Bourgeoisie hat das Land der Herrschaft der Stadt unterworfen. Sie hat enorme
+                    Städte geschaffen, sie hat die Zahl der städtischen Bevölkerung gegenüber der
+                    ländlichen in hohem Grade vermehrt, und so einen bedeutenden Theil der
+                    Bevölkerung dem Idiotismus des Landlebens entrissen. Wie sie das Land von der
+                    Stadt, hat sie die barbarischen und 
+                    <app type="variants" xml:id="e4z_wm3_qjb">
+                        <lem>halbbarbarischen</lem>
+                        <rdg wit="#D8 #D9">halb barbarischen</rdg>
+                    </app> Länder von den civilisirten, die Bauernvölker von den Bourgeoisvölkern, den Orient vom Occident
+                    abhängig gemacht.</p>
+                <p>Die Bourgeoisie hebt mehr und mehr die Zersplitterung der Produktionsmittel, des
+                    Besitzes und der Bevölkerung auf. Sie hat die Bevölkerung agglomerirt, die
+                    Produktionsmittel centralisirt und das Eigenthum in wenigen Händen koncentrirt.
+                    Die nothwendige Folge 
+                    <app type="variants" xml:id="iqv_d5x_qjb">
+                        <lem>hiervon</lem>
+                        <rdg wit="#D9">hievon</rdg>
+                    </app> war die politische Centralisation. Unabhängige,
+                    fast nur verbündete Provinzen mit verschiedenen Interessen, Gesetzen,
+                    Regierungen und Zöllen wurden zusammengedrängt in Eine Nation, Eine Regierung,
+                    Ein Gesetz, Ein nationales Klasseninteresse, Eine Douanenlinie.</p>
+                <p>Die Bourgeoisie hat in ihrer kaum hundertjährigen Klassenherrschaft massenhaftere
+                    und kolossalere Produktionskräfte geschaffen als alle vergangenen Generationen
+                    zusammen. Unterjochung der Naturkräfte, Machinerie, Anwendung der Chemie auf
+                    Industrie und Ackerbau, Dampfschiffahrt, Eisenbahnen, elektrische Telegraphen,
+                    Urbarmachung ganzer Welttheile, Schiffbarmachung der Flüsse, ganze aus dem Boden
+                    hervorgestampfte Bevölkerungen — 
+                    <app type="variants" xml:id="uwn_qn3_qjb">
+                        <lem>welch früheres</lem>
+                        <rdg wit="#D8 #D9">welches frühere</rdg>
+                    </app> Jahrhundert ahnte, daß solche Produktionskräfte im Schooß der gesellschaftlichen 
+                    Arbeit 
+                    <app type="variants" xml:id="xfr_wn3_qjb">
+                        <lem>schlummerten.</lem>
+                        <rdg wit="#D8">schlummerten?</rdg>
+                    </app></p>
+                <p>Wir haben 
+                    <app type="variants" xml:id="o1c_x43_qjb">
+                        <lem>aber</lem>
+                        <rdg wit="#D8 #D9">also</rdg>
+                    </app> gesehen: Die Produktions- und Verkehrsmittel, auf deren Grundlage
+                    sich die Bourgeoisie heranbildete, wurden in der feudalen Gesellschaft erzeugt.
+                    Auf einer gewissen Stufe der Entwicklung dieser Produktions- und Verkehrsmittel
+                    entsprachen die Verhältnisse, worin die feudale Gesellschaft producirte und
+                    austauschte, die feudale Organisation der Agrikultur und Manufaktur, mit einem
+                    Wort die feudalen Eigenthums-Verhältnisse den schon entwickelten
+                    Produktivkräften nicht mehr. Sie hemmten die Produktion statt sie zu fördern.
+                    Sie verwandelten sich in eben so viele Fesseln. Sie mußten gesprengt werden, sie
+                    wurden gesprengt.</p>
+                <p>An ihre Stelle trat die freie Konkurrenz mit der ihr angemessenen
+                    gesellschaftlichen und politischen Konstitution, mit der ökonomischen und
+                    politischen Herrschaft der Bourgeois-Klasse.</p>
+                <p>Unter unsren Augen geht eine ähnliche Bewegung vor. Die bürgerlichen Produktions-
+                    und Verkehrs-Verhältnisse, die bürgerlichen Eigenthums-Verhältnisse, die moderne
+                    bürgerliche Gesellschaft, die so gewaltige Produktions- und Verkehrsmittel
+                    hervorgezaubert hat, gleicht dem Hexenmeister, der die unterirdischen Gewalten
+                    nicht mehr zu beherrschen vermag, die er 
+                    <app type="variants" xml:id="d35_rp3_qjb">
+                        <lem>herauf beschwor</lem>
+                        <rdg wit="#D8 #D9">heraufbeschwor</rdg>
+                    </app>. <pb n="7"/> Seit Dezennien ist die Geschichte der Industrie und des Handels 
+                    <app type="variants" xml:id="t31_cq3_qjb">
+                        <lem>nur noch die</lem>
+                        <rdg wit="#D8 #D9">nur die</rdg>
+                    </app> Geschichte der Empörung der modernen Produktivkräfte gegen die modernen
+                    Produktions-Verhältnisse, gegen die Eigenthums-Verhältnisse, welche die
+                    Lebens-Bedingungen der Bourgeoisie und ihrer Herrschaft sind. Es genügt die
+                    Handelskrisen zu nennen, welche in ihrer periodischen Wiederkehr immer <choice>
+                        <sic>drohenden</sic>
+                        <corr cert="high">drohender</corr>
+                    </choice> die Existenz der ganzen bürgerlichen Gesellschaft in Frage stellen. In
+                    den Handelskrisen wird ein großer Theil nicht nur der erzeugten Produkte, 
+                    <app type="variants" xml:id="xcy_1cy_qjb">
+                        <lem>sondern sogar der</lem>
+                        <rdg wit="#D9">sondern der</rdg>
+                    </app> 
+                    <app type="variants" xml:id="tqy_kq3_qjb">
+                        <lem>bereits geschaffenen</lem>
+                        <rdg wit="#D8 #D9">bereits schon geschaffenen</rdg>
+                    </app> Produktivkräfte regelmäßig vernichtet. In <choice>
+                        <sic>der</sic>
+                        <corr cert="high">den</corr>
+                    </choice> Krisen bricht eine gesellschaftliche Epidemie aus, welche allen
+                    früheren Epochen als ein Widersinn erschienen wäre — die Epidemie der
+                    Ueberproduktion. Die Gesellschaft findet sich plötzlich in einen Zustand
+                    momentaner Barbarei zurückversetzt; eine Hungersnoth, ein allgemeiner 
+                    <app type="variants" xml:id="xxr_g2v_njb">
+                        <lem>Verwüstungskrieg</lem>
+                        <rdg wit="#D4 #D8 #D9">Vernichtungskrieg</rdg>
+                    </app> scheinen ihr alle Lebensmittel abgeschnitten zu haben; die
+                    Industrie, der Handel scheinen vernichtet, und warum? Weil sie zu viel
+                    Civilisation, zu viel Lebensmittel, zu viel Industrie, zu viel Handel besitzt.
+                    Die Produktivkräfte, die ihr zur Verfügung stehen, dienen nicht mehr zur
+                    Beförderung der 
+                    <app type="variants" xml:id="dsf_4s3_qjb">
+                        <lem>bürgerlichen Civilisation und der bürgerlichen Eigenthums-Verhältnisse</lem>
+                        <rdg wit="#D8 #D9">bürgerlichen Eigenthums-Verhältnisse</rdg>
+                    </app>; im Gegentheil, sie sind zu gewaltig für diese
+                    Verhältnisse geworden, sie werden von ihnen gehemmt, und 
+                    <app type="variants" xml:id="trk_vs3_qjb">
+                        <lem>so bald</lem>
+                        <rdg wit="#D8 #D9">sobald</rdg>
+                    </app> sie dies Hemmniß überwinden, bringen sie die ganze bürgerliche Gesellschaft in Unordnung,
+                    gefährden sie die Existenz des bürgerlichen Eigenthums. Die bürgerlichen
+                    Verhältnisse sind zu eng geworden um den von ihnen erzeugten Reichthum zu
+                    fassen. — Wodurch überwindet die Bourgeoisie die Krisen? Einerseits durch die
+                    erzwungene Vernichtung einer Masse von Produktivkräften; andererseits durch die
+                    Eroberung neuer Märkte, und die gründlichere Ausbeutung 
+                    <app type="variants" xml:id="i4f_wcy_qjb">
+                        <lem>der alten</lem>
+                        <rdg wit="#D9">alter</rdg>
+                    </app> Märkte. Wodurch also? Dadurch, daß sie allseitigere und gewaltigere Krisen vorbereitet
+                    und die Mittel, den Krisen vorzubeugen, vermindert.</p>
+                <p>Die Waffen, womit die Bourgeoisie den Feudalismus zu Boden geschlagen hat,
+                    richten sich jetzt gegen die Bourgeoisie selbst.</p>
+                <p>Aber die Bourgeoisie hat nicht nur die Waffen geschmiedet, die ihr den Tod
+                    bringen; sie hat auch die Männer gezeugt, die diese Waffen führen werden — die
+                    modernen Arbeiter, die <hi rendition="#g">Proletarier</hi>.</p>
+                <p>In demselben Maße, worin sich die Bourgeoisie, d. h. das Kapital entwickelt, in
+                    demselben Maße entwickelt sich das Proletariat, die Klasse der modernen
+                    Arbeiter, die nur so lange leben als sie Arbeit finden, und die nur so lange
+                    Arbeit finden, als ihre Arbeit das Kapital vermehrt. Diese Arbeiter, die sich
+                    stückweis verkaufen müssen, sind eine Waare wie jeder andre Handelsartikel, und
+                    daher gleichmäßig allen Wechselfällen der Konkurrenz, allen Schwankungen des
+                    Marktes ausgesetzt.</p>
+                <p>Die Arbeit der Proletarier hat durch die Ausdehnung der Maschinerie und die
+                    Theilung der Arbeit allen selbstständigen Charakter und damit allen Reiz für 
+                    <app type="variants" xml:id="eqn_fv3_qjb">
+                        <lem>den</lem>
+                        <rdg wit="#D8 #D9">die</rdg>
+                    </app> Arbeiter verloren. Er wird ein bloßes Zubehör der Maschine, von dem nur der
+                    einfachste, eintönigste, am leichtesten erlernbare Handgriff verlangt wird. Die 
+                    Kosten die der Arbeiter verursacht, beschränken sich daher fast nur auf die
+                    Lebensmittel, die er zu seinem Unterhalt und zur Fortpflanzung seiner Race
+                    bedarf. Der Preis einer Waare, also auch der Arbeit ist aber gleich ihren 
+                    Produktionskosten. In demselben Maße, in dem die Widerwärtigkeit der Arbeit 
+                    wächst, nimmt daher der Lohn ab. Noch mehr, in demselben Maße wie Maschinerie 
+                    und Theilung der Arbeit zunehmen, in demselben Maße nimmt auch die Masse der 
+                    Arbeit zu, sei es durch Vermehrung der Arbeitsstunden, sei es durch Vermehrung 
+                    der in einer gegebenen Zeit gefordertenArbeit, beschleunigten Lauf der Maschinen 
+                    u. s. w.</p>
+                <p>Die moderne Industrie hat die kleine Werkstube des patriarchalischen Meisters in
+                    die große Fabrik des industriellen Kapitalisten verwandelt. Arbeiter-<pb n="8"/>Massen 
+                    in der Fabrik zusammengedrängt, werden soldatisch organisirt. Sie werden als gemeine 
+                    Industriesoldaten unter die Aufsicht einer vollständigen Hierarchie von 
+                    <app type="variants" xml:id="lqn_zvs_pjb">
+                        <lem>Unteroffizieren und Offizieren gestellt</lem>
+                        <rdg wit="#D5">Unteroffizieren gestellt</rdg>
+                    </app>. Sie sind nicht nur
+                    Knechte der Bourgeoisklasse, des Bourgeoisstaates, sie sind täglich und
+                    stündlich geknechtet von der Maschine, von dem Aufseher, und vor Allem von dem
+                    einzelnen fabrizirenden 
+                    <app type="variants" xml:id="tjh_jws_pjb">
+                        <lem>Bourgeois selbst. Diese</lem>
+                        <rdg wit="#D5">Bourgeois Diese</rdg>
+                    </app> Despotie ist um so kleinlicher,
+                    gehässiger, erbitternder, je offener sie den Erwerb als ihren letzten Zweck
+                    proklamirt.</p>
+                <p>Je weniger die Handarbeit Geschicklichkeit und Kraftäußerung erheischt, d. h. je
+                    mehr die moderne Industrie sich entwickelt, desto mehr wird die Arbeit der
+                    Männer durch die der 
+                    <app type="variants" xml:id="s5r_jhj_4jb">
+                        <lem>Weiber und Kinder verdrängt</lem>
+                        <rdg wit="#D4 #D8 #D9">Weiber verdrängt</rdg>
+                    </app>. Geschlechts- und
+                    Alters-Unterschiede haben keine gesellschaftliche Geltung mehr für die
+                    Arbeiterklasse. Es gibt nur noch Arbeitsinstrumente, die je nach Alter und
+                    Geschlecht verschiedene Kosten machen.</p>
+                <p>Ist die Ausbeutung des Arbeiters durch den Fabrikanten so weit beendigt, daß er
+                    seinen Arbeitslohn baar ausgezahlt erhält, so fallen die andern Theile der
+                    Bourgeoisie über ihn her, der Hausbesitzer, der Krämer, der Pfandverleiher u. s. w.</p>
+                <p>Die bisherigen kleinen Mittelstände, die kleinen Industriellen, Kaufleute und
+                    Rentiers, die Handwerker und Bauern, alle diese Klassen fallen ins Proletariat
+                    hinab, theils dadurch, 
+                    <choice>
+                        <sic>das</sic>
+                        <corr cert="high">daß</corr>
+                    </choice> ihr kleines Kapital für den Betrieb der großen Industrie nicht
+                    ausreicht, und der Konkurrenz mit den größeren Kapitalisten erliegt, theils
+                    dadurch, daß ihre Geschicklichkeit von neuen Produktionsweisen entwerthet wird.
+                    So rekrutirt sich das Proletariat aus allen Klassen der Bevölkerung.</p>
+                <p>Das Proletariat macht verschiedene Entwicklungsstufen durch. Sein Kampf gegen die
+                    Bourgeoisie beginnt mit seiner Existenz.</p>
+                <p>Im Anfang kämpfen die einzelnen Arbeiter, dann die Arbeiter einer Fabrik, dann
+                    die Arbeiter eines Arbeitszweiges an 
+                    <choice>
+                        <sic>einen</sic>
+                        <corr cert="high">einem</corr>
+                    </choice> Ort gegen den einzelnen Bourgeois, der sie direkt ausbeutet. Sie
+                    richten ihre Angriffe nicht nur gegen die bürgerlichen Produktions-Verhältnisse,
+                    sie richten sie gegen die Produktions-Instrumente selbst; sie vernichten die
+                    fremden konkurrirenden Waaren, sie zerschlagen die Maschinen, sie stecken die
+                    Fabriken in Brand, sie 
+                    <app type="variants" xml:id="bpk_jbj_qjb">
+                        <lem>suchen sich die</lem>
+                        <rdg wit="#D8 #D9">suchen die</rdg>
+                    </app> untergegangene Stellung des mittelalterlichen Arbeiters wieder zu erringen.</p>
+                <p>Auf dieser Stufe bilden die Arbeiter eine über das ganze Land zerstreute und
+                    durch die Konkurrenz zersplitterte Masse. 
+                    <app type="variants" xml:id="s51_s3j_4jb">
+                        <lem>Massenhafteres</lem>
+                        <rdg wit="#D4 #D8 #D9">Massenhaftes</rdg>
+                    </app> Zusammenhalten der Arbeiter ist noch nicht die Folge ihrer eigenen 
+                    Vereinigung, sondern die Folge der Vereinigung der Bourgeoisie, die zur 
+                    Erreichung ihrer eigenen politischen Zwecke das ganze Proletariat in Bewegung 
+                    setzen muß und es einstweilen noch kann. Auf dieser Stufe bekämpfen die 
+                    Proletarier also nicht ihre Feinde, sondern die Feinde ihrer Feinde, die 
+                    Reste der absoluten Monarchie, die Grundeigenthümer, die 
+                    <app type="variants" xml:id="dcv_1nz_rjb">
+                        <lem>nicht industriellen</lem>
+                        <rdg wit="#D9">nichtindustriellen</rdg>
+                    </app> Bourgeois, die Kleinbürger. Die ganze
+                    geschichtliche Bewegung ist so in den Händen der Bourgeoisie konzentrirt; jeder
+                    Sieg, der so errungen wird, ist ein Sieg der Bourgeoisie.</p>
+                <p>Aber mit der Entwicklung der Industrie vermehrt sich nicht nur das Proletariat;
+                    es wird in größeren Massen zusammengedrängt, seine Kraft wächst und es fühlt sie
+                    mehr. Die Interessen, die Lebenslagen innerhalb des Proletariats gleichen sich
+                    immer mehr aus, indem die Maschinerie mehr und mehr die Unterschiede der Arbeit
+                    verwischt und den Lohn fast überall auf ein gleich niedriges Niveau herabdrückt.
+                    Die wachsende Konkurrenz der Bourgeois unter sich und die daraus 
+                    <choice>
+                        <sic>herhorgehenden</sic>
+                        <corr cert="high">hervorgehenden</corr>
+                    </choice> Handelskrisen machen den Lohn der Arbeiter immer schwankender; die
+                    immer rascher sich entwickelnde, unaufhörliche Verbesserung der Maschinerie
+                    macht ihre ganze Lebensstellung immer unsicherer; immer mehr nehmen die
+                    Kollisionen 
+                    <app type="variants" xml:id="tbz_zxs_pjb">
+                        <lem>zwischen dem einzelnen Arbeiter und dem einzelnen Bourgeois</lem>
+                        <rdg wit="#D5">zwischen dem einzelnen Bourgeois</rdg>
+                    </app> den Charakter von Kollisionen zweier Klassen an. Die Arbeiter beginnen 
+                    <pb n="9"/> damit, Coalitionen gegen die Bourgeois zu bilden; sie treten zusammen 
+                    zur Behauptung ihres Arbeitslohns. Sie stiften selbst dauernde Associationen, um
+                    sich für diese gelegentlichen Empörungen zu verproviantiren. Stellenweis bricht
+                    der Kampf in Emeuten aus.</p>
+                <p>Von Zeit zu Zeit siegen die Arbeiter, aber nur vorübergehend. Das eigentliche
+                    Resultat ihrer Kämpfe ist nicht der unmittelbare Erfolg, sondern die immer
+                    weiter um sich greifende Vereinigung der Arbeiter. Sie wird befördert durch die
+                    wachsenden Kommunikationsmittel, die von der großen Industrie erzeugt werden und
+                    die Arbeiter der verschiedenen Lokalitäten mit einander in Verbindung setzen. Es
+                    bedarf aber blos der Verbindung, um die vielen Lokalkämpfe von überall gleichem 
+                    Charakter, zu einem nationalen, zu einem Klassenkampf zu centralisiren. Jeder
+                    Klassenkampf aber ist ein politischer Kampf. Und die Vereinigung, zu der die
+                    Bürger des Mittelalters mit ihren Vicinalwegen Jahrhunderte bedurften, bringen
+                    die modernen Proletarier mit den Eisenbahnen in wenigen Jahren zu Stande.</p>
+                <p>Diese Organisation der Proletarier zur Klasse, und damit zur politischen Partei,
+                    wird jeden Augenblick wieder gesprengt durch die Conkurrenz unter den Arbeitern
+                    selbst. Aber sie ersteht immer wieder, stärker, fester, mächtiger. Sie erzwingt
+                    die Anerkennung einzelner Interessen der Arbeiter in Gesetzesform, indem sie die
+                    Spaltungen der Bourgeoisie unter sich benutzt. So die Zehnstundenbill in
+                    England.</p>
+                <p>Die Kollisionen der alten Gesellschaft überhaupt fördern mannichfach den
+                    Entwicklungsgang des Proletariats. Die Bourgeoisie befindet sich in
+                    fortwährendem 
+                    <app type="variants" xml:id="vhl_hpz_rjb">
+                        <lem>Kampf;</lem>
+                        <rdg wit="#D9">Kampfe:</rdg>
+                    </app> anfangs gegen die Aristokratie; später gegen die Theile der
+                    Bourgeoisie selbst, deren Interessen mit dem Fortschritt der Industrie in
+                    Widerspruch gerathen; stets gegen die Bourgeoisie aller auswärtigen Länder. In
+                    allen diesen Kämpfen sieht sie sich genöthigt an das Proletariat zu appelliren,
+                    seine Hülfe in Anspruch zu nehmen und es so in die politische Bewegung
+                    hineinzureißen. Sie selbst führt also dem Proletariat ihre eigenen
+                    Bildungselemente, d. h. Waffen gegen sich selbst zu.</p>
+                <p>Es werden ferner, wie wir sahen, durch den Fortschritt der Industrie ganze
+                    Bestandtheile der herrschenden Klasse in’s Proletariat hinabgeworfen oder
+                    wenigstens in ihren Lebensbedingungen bedroht. Auch sie führen dem Proletariat
+                    eine Masse Bildungselemente zu.</p>
+                <p>In Zeiten endlich wo der Klassenkampf sich der Entscheidung nähert, nimmt der
+                    Auflösungsprozeß innerhalb der herrschenden Klasse, innerhalb der ganzen alten
+                    Gesellschaft, einen so heftigen, so grellen Charakter an, daß ein kleiner Theil
+                    der herrschenden Klasse sich von ihr lossagt und sich der revolutionären Klasse
+                    anschließt, der Klasse, welche die Zukunft in ihren Händen trägt. Wie daher
+                    früher ein Theil des Adels zur Bourgeoisie überging, so geht jetzt ein Theil der
+                    Bourgeoisie zum Proletariat über, und namentlich ein Theil der
+                    Bourgeois-Ideologen, welche zum theoretischen Verständniß der ganzen
+                    geschichtlichen Bewegung sich hinaufgearbeitet haben.</p>
+                <p>Von allen Klassen welche heutzutage der Bourgeoisie 
+                    <app type="variants" xml:id="iwk_ypz_rjb">
+                        <lem>gegenüber stehen</lem>
+                        <rdg wit="#D9">gegenüberstehen</rdg>
+                    </app>, ist nur das Proletariat eine wirklich revolutionäre Klasse. Die übrigen 
+                    Klassen verkommen und gehen unter mit der großen Industrie, das Proletariat ist 
+                    ihr eigenstes Produkt.</p>
+                <p>Die Mittelstände, der kleine Industrielle, der kleine Kaufmann, der Handwerker,
+                    der Bauer, sie Alle bekämpfen die Bourgeoisie, um ihre Existenz als
+                    Mittelstände, vor dem Untergang zu sichern. Sie sind also nicht revolutionär,
+                    sondern konservativ. Noch mehr, sie sind 
+                    <app type="variants" xml:id="vrf_dfj_qjb">
+                        <lem>reaktionär, denn sie</lem>
+                        <rdg wit="#D8 #D9">reaktionär, sie</rdg>
+                    </app> suchen das Rad der Geschichte zurückzudrehen. Sind sie revolutionär, so 
+                    sind sie es im Hinblick auf den ihnen bevorstehenden Uebergang 
+                    <app type="variants" xml:id="zjt_pqz_rjb">
+                        <lem>ins</lem>
+                        <rdg wit="#D9">in’s</rdg>
+                    </app> Proletariat, so vertheidigen <pb n="10"/>
+                    sie nicht ihre gegenwärtigen, sondern ihre zukünftigen Interessen, so verlassen
+                    sie ihren eigenen Standpunkt um sich auf den des Proletariats zu stellen.</p>
+                <p>Das
+                    <app type="variants" xml:id="frh_rgj_qjb">
+                        <lem>stellen. ⌋⌈ Das</lem>
+                        <rdg wit="#D8 #D9">stellen. — ⌋⌈ Das</rdg>
+                    </app> Lumpenproletariat, diese passive Verfaulung der untersten Schichten der alten
+                    Gesellschaft, wird durch eine proletarische Revolution stellenweise in die
+                    Bewegung hineingeschleudert, seiner ganzen Lebenslage nach wird es
+                    bereitwilliger sein sich zu reaktionären Umtrieben erkaufen zu lassen.</p>
+                <p>Die Lebensbedingungen der alten Gesellschaft sind schon vernichtet in den
+                    Lebensbedingungen des Proletariats. Der Proletarier ist eigenthumslos; sein
+                    Verhältniß zu Weib und Kindern hat nichts mehr gemein mit dem bürgerlichen
+                    Familienverhältniß; die moderne industrielle Arbeit, die moderne Unterjochung
+                    unter das Kapital, dieselbe in England wie in Frankreich, in Amerika wie in
+                    Deutschland, hat ihm allen nationalen Charakter abgestreift. Die Gesetze, die
+                    Moral, die Religion sind für ihn eben so viele bürgerliche Vorurtheile, hinter
+                    denen sich eben so viele bürgerliche Interessen verstecken.</p>
+                <p>Alle früheren Klassen, die sich die Herrschaft eroberten, suchten ihre schon
+                    erworbene Lebensstellung zu sichern, indem sie die ganze Gesellschaft den
+                    Bedingungen ihres Erwerbs unterwarfen. Die Proletarier können sich die
+                    gesellschaftlichen Produktivkräfte nur erobern, indem sie ihre eigene bisherige
+                    Aneignungsweise und damit die ganze bisherige Aneignungsweise abschaffen. Die
+                    Proletarier haben 
+                    <app type="variants" xml:id="ogh_3sz_rjb">
+                        <lem>Nichts</lem>
+                        <rdg wit="#D9">nichts</rdg>
+                    </app> von dem Ihrigen zu sichern, sie haben alle bisherige
+                    Privatsicherheit und Privatversicherungen zu zerstören.</p>
+                <p>Alle bisherigen Bewegungen waren Bewegungen von Minoritäten oder im Interesse von
+                    Minoritäten. Die proletarische Bewegung ist die selbstständige Bewegung der
+                    ungeheuren Mehrzahl im Interesse der ungeheuren Mehrzahl. Das Proletariat, die
+                    unterste 
+                    <choice>
+                        <sic>Schichte</sic>
+                        <corr cert="high">Schicht</corr>
+                    </choice> der jetzigen Gesellschaft, kann sich nicht erheben, nicht aufrichten,
+                    ohne daß der ganze Ueberbau der Schichten, die die offizielle Gesellschaft
+                    bilden, in die Luft gesprengt wird.</p>
+                <p>Obgleich nicht dem Inhalt, ist der Form nach der Kampf des Proletariats gegen die
+                    Bourgeoisie zunächst ein nationaler. Das Proletariat eines jeden Landes muß
+                    natürlich zuerst mit seiner eigenen Bourgeoisie fertig werden.</p>
+                <p>Indem wir die allgemeinsten Phasen der Entwicklung des Proletariats zeichneten,
+                    verfolgten wir den mehr oder minder versteckten Bürgerkrieg innerhalb der
+                    bestehenden Gesellschaft bis zu dem Punkt, wo er in eine offene Revolution
+                    ausbricht und durch den gewaltsamen Sturz der Bourgeoisie das Proletariat seine
+                    Herrschaft begründet.</p>
+                <p>Alle bisherige Geschichte beruhte, wie wir gesehen haben, auf dem Gegensatz
+                    unterdrückender und unterdrückter Klassen. Um aber eine Klasse unterdrücken zu
+                    können, müssen ihr Bedingungen gesichert sein innerhalb 
+                    <app type="variants" xml:id="kbf_kkj_qjb">
+                        <lem>deren</lem>
+                        <rdg wit="#D8 #D9">derer</rdg>
+                    </app> sie wenigstens ihre knechtische Existenz fristen kann.
+                    Der Leibeigne hat sich zum Mitglied der Kommune in der Leibeigenschaft
+                    herangearbeitet, wie der Kleinbürger zum Bourgeois unter dem Joch des
+                    feudalistischen Absolutismus. Der moderne Arbeiter dagegen, statt sich mit dem
+                    Fortschritt der Industrie zu heben, sinkt immer tiefer unter die Bedingungen
+                    seiner eignen Klasse herab. Der Arbeiter wird zum Pauper, und der Pauperismus
+                    entwickelt sich noch rascher als Bevölkerung und Reichthum. Es tritt hiermit
+                    offen hervor, daß die Bourgeoisie unfähig ist noch länger die herrschende Klasse
+                    der Gesellschaft zu bleiben und die Lebensbedingungen ihrer Klasse der
+                    Gesellschaft als regelndes Gesetz aufzuzwingen. Sie ist unfähig zu herrschen,
+                    weil sie unfähig ist ihrem Sklaven die Existenz selbst innerhalb seiner
+                    Sklaverei zu sichern, weil sie gezwungen ist ihn in eine Lage herabsinken zu
+                    lassen, wo sie ihn ernähren muß, statt von ihm ernährt zu werden. Die
+                    Gesellschaft kann nicht mehr unter ihr leben, d. h. ihr Leben ist nicht mehr
+                    verträglich mit der Gesellschaft.</p>
+                <p>Die wesentlichste Bedingung für die Existenz und für die Herrschaft der 
+                    Bour<pb n="11"/>geoisklasse ist die Anhäufung des Reichthums in den Händen von
+                    Privaten, die Bildung und Vermehrung des 
+                    <app type="variants" xml:id="ytt_zpj_4jb">
+                        <lem>Kapitals. Die</lem>
+                        <rdg wit="#D4">Kapitals, die</rdg>
+                        <rdg wit="#D8 #D9">Kapitals; die</rdg>
+                    </app> Bedingung des Kapitals ist die Lohnarbeit. Die Lohnarbeit beruht 
+                    ausschließlich auf der Konkurrenz der Arbeiter unter sich. Der Fortschritt der 
+                    Industrie, dessen willenloser und widerstandsloser Träger die Bourgeoisie ist, 
+                    setzt an die Stelle der Isolirung der Arbeiter durch die Konkurenz ihre 
+                    revolutionäre Vereinigung durch die Association. Mit der Entwicklung der großen 
+                    Industrie wird also unter den Füßen der Bourgeoisie die Grundlage selbst 
+                    <app type="variants" xml:id="ekv_45z_rjb">
+                        <lem>weggezogen</lem>
+                        <rdg wit="#D9">hinweggezogen,</rdg>
+                    </app> worauf sie produzirt und die Produkte sich aneignet. Sie produzirt vor 
+                    Allem 
+                    <app type="variants" xml:id="at1_w5z_rjb">
+                        <lem>ihre</lem>
+                        <rdg wit="#D9">ihren</rdg>
+                    </app> eignen Todtengräber. Ihr Untergang und der Sieg des Proletariats sind gleich 
+                    unvermeidlich.</p>
+            </div>
+            <div n="2" type="title">
+                <head><hi rendition="#c"><hi rendition="#b">II. Proletarier und Kommunisten.</hi></hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>In welchem Verhältniß stehen die Kommunisten zu den Proletariern überhaupt?</p>
+                <p>Die Kommunisten sind keine besondere Partei gegenüber den andern
+                    Arbeiterparteien.</p>
+                <p>Sie haben keine von den Interessen des ganzen Proletariats getrennten
+                    Interessen.</p>
+                <p>Sie stellen keine besondern Prinzipien auf, wonach sie die proletarische Bewegung
+                    modeln wollen.</p>
+                <p>Die Kommunisten unterscheiden sich von den übrigen proletarischen Parteien nur
+                    dadurch, daß einerseits sie in den verschiedenen nationalen Kämpfen der
+                    Proletarier die gemeinsamen, von der Nationalität unabhängigen Interessen des
+                    gesammten Proletariats hervorheben und zur Geltung bringen, andrerseits dadurch,
+                    daß sie in den verschiedenen Entwicklungs-Stufen, welche der Kampf zwischen
+                    Proletariat und Bourgeoisie durchläuft, stets das Interesse der Gesammt-Bewegung
+                    vertreten.</p>
+                <p>Die Kommunisten sind also praktisch der entschiedenste immer weiter treibende
+                    Theil der Arbeiterparteien aller Länder, sie haben theoretisch vor der übrigen
+                    Masse des Proletariats die Einsicht in die Bedingungen, den Gang und die
+                    allgemeinen Resultate der 
+                    <app type="variants" xml:id="rrl_fsj_4jb">
+                        <lem>Proletarischen</lem>
+                        <rdg wit="#D4 #D8 #D9">proletarischen</rdg>
+                    </app> Bewegung voraus.</p>
+                <p>Der nächste Zweck der Kommunisten ist derselbe wie der aller übrigen
+                    proletarischen Parteien: Bildung des Proletariats zur Klasse, Sturz der
+                    Bourgeoisieherrschaft, Eroberung der politischen Macht durch das
+                    Proletariat.</p>
+                <p>Die theoretischen Sätze der Kommunisten beruhen keineswegs auf Ideen, auf
+                    Prinzipien, die von diesem oder jenem Weltverbesserer erfunden oder entdeckt
+                    sind.</p>
+                <p>Sie sind nur allgemeine Ausdrücke thatsächlicher Verhältnisse eines existirenden
+                    Klassenkampfes, einer unter unsern Augen vor sich gehenden geschichtlichen
+                    Bewegung. Die Abschaffung bisheriger Eigenthumsverhältnisse ist nichts den
+                    Kommunismus eigenthümlich Bezeichnendes.</p>
+                <p>Alle Eigenthumsverhältnisse waren einem beständigen geschichtlichen Wechsel,
+                    einer beständigen geschichtlichen Veränderung unterworfen.</p>
+                <p>Die französische Revolution z. B. schaffte das Feudal-Eigenthum zu Gunsten
+                    des bürgerlichen ab.</p>
+                <p>Was den Kommunismus auszeichnet, ist nicht die Abschaffung des Eigenthums
+                    überhaupt, sondern die Abschaffung des bürgerlichen Eigenthums.</p>
+                <p>Aber das moderne bürgerliche Privateigenthum ist der letzte und vollendeteste
+                    Ausdruck der Erzeugung und Aneignung der Producte, die auf Klassengegensätzen,
+                    die auf der Ausbeutung der Einen durch die Andern 
+                    <choice>
+                        <sic>beruht</sic>
+                        <corr cert="high">beruhen</corr>
+                    </choice>.</p>
+                <p>In diesem Sinn können die Kommunisten ihre Theorie in dem einen Ausdruck:
+                    Aufhebung des Privat-Eigenthums zusammenfassen.</p>
+                <pb n="12"/>
+                <p>Man hat uns Kommunisten vorgeworfen, wir wollten das persönlich erworbene,
+                    selbsterarbeitete Eigenthum abschaffen; das Eigenthum, welches die Grundlage
+                    aller persönlichen Freiheit, Thätigkeit und Selbstständigkeit bilde.</p>
+                <p>Erarbeitetes, erworbenes, selbstverdientes Eigenthum! Sprecht Ihr von dem
+                    kleinbürgerlichen, kleinbäuerlichen Eigenthum, welches dem bürgerlichen
+                    Eigenthum vorherging? Wir brauchen es nicht abzuschaffen, die Entwicklung der
+                    Industrie hat es abgeschafft und schafft es täglich ab.</p>
+                <p>Oder sprecht Ihr vom modernen bürgerlichen Privateigenthum?</p>
+                <p>Schafft aber die Lohnarbeit, die Arbeit des Proletariers ihm Eigenthum?
+                    Keineswegs. Sie schafft das Kapital, d. h. das Eigenthum, welches die
+                    Lohnarbeit ausbeutet, welches sich nur unter der Bedingung vermehren kann, daß
+                    es neue Lohnarbeit erzeugt, um sie von Neuem auszubeuten. Das Eigenthum in
+                    seiner heutigen Gestalt bewegt sich in dem Gegensatz von Kapital und Lohnarbeit.
+                    Betrachten wir die beiden Seiten dieses 
+                    <app type="variants" xml:id="eld_h44_qjb">
+                        <lem>Gegensatzes. Kapitalist</lem>
+                        <rdg wit="#D8 #D9">Gegensatzes. ⌋⌈ Kapitalist</rdg>
+                    </app> sein heißt nicht nur eine 
+                    <app type="variants" xml:id="fqr_mxz_rjb">
+                        <lem>reinpersönliche</lem>
+                        <rdg wit="#D9">rein persönliche</rdg>
+                    </app>, sondern eine gesellschaftliche Stellung in der Produktion einnehmen.</p>
+                <p>Das
+                    <app type="variants" xml:id="q3x_n44_qjb">
+                        <lem>einnehmen. ⌋⌈ Das</lem>
+                        <rdg wit="#D8 #D9">einnehmen. Das</rdg>
+                    </app> Kapital ist ein gemeinschaftliches Produkt und kann nur durch eine gemeinsame
+                    Thätigkeit vieler Mitglieder, ja in letzter Instanz nur durch die gemeinsame
+                    Thätigkeit aller Mitglieder der Gesellschaft in Bewegung gesetzt werden.</p>
+                <p>Das Kapital ist also keine persönliche, es ist eine gesellschaftliche Macht.</p>
+                <p>Wenn also das Kapital in gemeinschaftliches, allen Mitgliedern der Gesellschaft
+                    angehöriges Eigenthum verwandelt wird, so verwandelt sich nicht persönliches
+                    Eigenthum in gesellschaftliches. Nur der gesellschaftliche Charakter des
+                    Eigenthums verwandelt sich. Es verliert seinen Klassen-Charakter.</p>
+                <p>Kommen wir zur 
+                    <app type="variants" xml:id="m1h_dyz_rjb">
+                        <lem>Lohnarbeit.</lem>
+                        <rdg wit="#D9">Lohnarbeit:</rdg>
+                    </app></p>
+                <p>Der Durchschnittspreis der Lohnarbeit ist das Minimum des Arbeitslohnes, d. h.
+                    die Summe der Lebensmittel, die nothwendig sind, um den Arbeiter als Arbeiter am
+                    Leben zu erhalten. Was also der Lohnarbeiter durch seine Thätigkeit sich
+                    aneignet, reicht blos dazu hin, um sein nacktes Leben wieder zu erzeugen. Wir
+                    wollen diese persönliche Aneignung der Arbeitsprodukte zur Wiedererzeugung des
+                    unmittelbaren Lebens keineswegs abschaffen, eine Aneignung, die keinen
+                    Reinertrag übrig läßt, der Macht über fremde Arbeit geben könnte. Wir wollen nur
+                    den elenden Charakter dieser Aneignung aufheben, worin der Arbeiter nur lebt, um
+                    das Kapital zu vermehren, nur so weit lebt, 
+                    <app type="variants" xml:id="bgx_35t_pjb">
+                        <lem>wie</lem>
+                        <rdg wit="#D5">als</rdg>
+                    </app> es das Interesse der herrschenden Klasse erheischt.</p>
+                <p>In der bürgerlichen Gesellschaft ist die lebendige Arbeit nur ein Mittel, die
+                    aufgehäufte Arbeit zu vermehren. In der kommunistischen Gesellschaft ist die
+                    aufgehäufte Arbeit nur ein Mittel, um den Lebensprozeß der Arbeiter zu
+                    erweitern, zu bereichern, zu befördern.</p>
+                <p>In der bürgerlichen Gesellschaft herrscht also die Vergangenheit über die
+                    Gegenwart, in der kommunistischen die Gegenwart über die Vergangenheit. In der
+                    bürgerlichen Gesellschaft ist das Kapital selbstständig und persönlich, während
+                    das thätige Individuum unselbstständig und unpersönlich ist.</p>
+                <p>Und die Aufhebung dieses Verhältnisses nennt die Bourgeoisie Aufhebung der
+                    Persönlichkeit und Freiheit! Und mit Recht. Es handelt sich allerdings um die
+                    Aufhebung der 
+                    <app type="variants" xml:id="egn_4sp_4jb">
+                        <lem>Bourgeois-Persönlichkeit, Selbstständigkeit und Freiheit</lem>
+                        <rdg wit="#D4 #D8 #D9">Bourgeois-Persönlichkeit, -Selbstständigkeit und -Freiheit</rdg>
+                    </app>.</p>
+                <p>Unter Freiheit versteht man innerhalb der jetzigen bürgerlichen
+                    Produktions-Verhältnisse den freien Handel, den freien Kauf und Verkauf.</p>
+                <p>Fällt aber der Schacher, so fällt auch der freie Schacher. Die Redensarten vom
+                    freien Schacher, wie alle übrigen Freiheitsbravaden unserer 
+                    <app type="variants" xml:id="vn3_ysp_4jb">
+                        <lem>Bourgeois</lem>
+                        <rdg wit="#D4 #D8 #D9">Bourgeoisie</rdg>
+                    </app> haben überhaupt nur einen Sinn gegenüber dem gebundenen Schacher, gegenüber 
+                    dem geknechteten Bürger des Mittelalters, nicht aber gegenüber der 
+                    kom<pb n="13"/>munistischen Aufhebung des Schachers, der bürgerlichen 
+                    Produktions-Verhältnisse und der Bourgeoisie selbst.</p>
+                <p>Ihr entsetzt Euch darüber, daß wir das Privateigenthum aufheben wollen. Aber in
+                    Eurer bestehenden Gesellschaft ist das Privateigenthum für 9 Zehntel ihrer
+                    Mitglieder aufgehoben; es existirt gerade dadurch, daß es für 9 Zehntel nicht
+                    existirt. Ihr werft uns also vor, daß wir ein Eigenthum aufheben wollen, welches
+                    die Eigenthumslosigkeit der ungeheuren Mehrzahl der Gesellschaft als nothwendige
+                    Bedingung voraussetzt.</p>
+                <p>Ihr werft uns mit 
+                    <app type="variants" xml:id="e1m_vzz_rjb">
+                        <lem>Einem</lem>
+                        <rdg wit="#D9">einem</rdg>
+                    </app> Wort vor, daß wir Euer Eigenthum aufheben wollen.
+                    Allerdings das wollen wir.</p>
+                <p>Von dem Augenblick an, wo die Arbeit nicht mehr in Kapital, Geld, Grundrente,
+                    kurz, in eine monopolisirbare gesellschaftliche Macht verwandelt werden kann,
+                    d. h. von dem Augenblick, wo das persönliche Eigenthum nicht mehr in
+                    bürgerliches umschlagen kann, von dem Augenblick an erklärt Ihr die Person sei
+                    aufgehoben.</p>
+                <p>Ihr gesteht also, daß Ihr unter der Person Niemanden anders versteht, als den
+                    Bourgeois, den bürgerlichen Eigenthümer. Und diese Person soll allerdings
+                    aufgehoben werden.</p>
+                <p>Der Kommunismus nimmt keinem die Macht sich gesellschaftliche Produkte
+                    anzueignen, er nimmt nur die Macht sich durch diese Aneignung fremde Arbeit zu
+                    unterjochen.</p>
+                <p>Man hat eingewendet, mit der Aufhebung des Privateigenthums werde alle Thätigkeit
+                    aufhören und eine allgemeine Faulheit einreißen.</p>
+                <p>Hiernach müßte die bürgerliche Gesellschaft längst an der Trägheit zu Grunde
+                    gegangen sein; denn 
+                    <app type="variants" xml:id="snd_5q4_qjb">
+                        <lem>die</lem>
+                        <rdg wit="#D8 #D9">Die</rdg>
+                    </app> in ihr arbeiten, erwerben nicht, und 
+                    <app type="variants" xml:id="h3n_wq4_qjb">
+                        <lem>die</lem>
+                        <rdg wit="#D8 #D9">Die</rdg>
+                    </app> in ihr erwerben, arbeiten nicht. Das ganze Bedenken läuft auf die Tautologie 
+                    hinaus, daß es keine Lohnarbeit mehr gibt, sobald es kein Kapital mehr gibt.</p>
+                <p>Alle Einwürfe die gegen die kommunistische Aneignungs- und Produktionsweise der
+                    materiellen Produkte gerichtet werden, sind 
+                    <app type="variants" xml:id="bqn_vb1_sjb">
+                        <lem>eben so</lem>
+                        <rdg wit="#D9">ebenso</rdg>
+                    </app> auf die Aneignung und Produktion der geistigen Produkte ausgedehnt worden. 
+                    Wie für den Bourgeois das Aufhören des Klasseneigenthums das Aufhören der Produktion 
+                    selbst ist, so ist für ihn das Aufhören der Klassenbildung identisch mit dem 
+                    Aufhören der Bildung überhaupt.</p>
+                <p>Die Bildung, deren Verlust er bedauert, ist für die enorme Mehrzahl die
+                    Heranbildung zur Maschine.</p>
+                <p>Aber streitet nicht mit uns, indem Ihr an Euren bürgerlichen Vorstellungen von
+                    Freiheit, Bildung, Recht u. s. w. die Abschaffung des bürgerlichen
+                    Eigenthums meßt. Eure Ideen selbst sind Erzeugnisse der bürgerlichen
+                    Produktions- und Eigenthums-Verhältnisse, wie Euer Recht nur der zum Gesetz
+                    erhobene Wille Eurer Klasse ist, ein Wille, dessen Inhalt gegeben ist in den
+                    materiellen Lebensbedingungen Eurer Klasse.</p>
+                <p>Die interessirte Vorstellung, worin Ihr Eure Produktions- und
+                    Eigenthumsverhältnisse aus geschichtlichen, in dem Lauf der Produktion
+                    vorübergehenden Verhältnissen in ewige <choice>
+                        <sic>Natur</sic>
+                        <corr cert="high">Natur-</corr>
+                    </choice> und Vernunftgesetze verwandelt, theilt Ihr mit allen untergegangenen
+                    herrschenden Klassen. Was Ihr für das antike Eigenthum begreift, was Ihr für das
+                    feudale Eigenthum begreift, dürft Ihr nicht mehr begreifen für das bürgerliche
+                    Eigenthum.</p>
+                <p>Aufhebung
+                    <app type="variants" xml:id="ub4_5s4_qjb">
+                        <lem>Eigenthum. ⌋⌈ Aufhebung</lem>
+                        <rdg wit="#D8 #D9">Eigenthum. — ⌋⌈ Aufhebung</rdg>
+                    </app> der Familie! Selbst die Radikalsten ereifern sich über diese
+                    schändliche Absicht der Kommunisten.</p>
+                <p>Worauf beruht die gegenwärtige, die bürgerliche Familie? Auf dem Kapital, auf dem
+                    Privaterwerb. Vollständig entwickelt existirt sie nur für die Bourgeoisie; aber
+                    sie findet ihre Ergänzung in der erzwungenen Familienlosigkeit der Proletarier
+                    und der öffentlichen Prostitution.</p>
+                <pb n="14"/>
+                <p>Die Familie 
+                    <app type="variants" xml:id="mkn_gt4_qjb">
+                        <lem>des</lem>
+                        <rdg wit="#D8 #D9">der</rdg>
+                    </app> Bourgeois fällt natürlich weg, mit dem Wegfallen dieser ihrer
+                    Ergänzung und beide verschwinden mit dem Verschwinden des Kapitals.</p>
+                <p>Werft Ihr uns vor, daß wir die Ausbeutung der Kinder durch ihre Eltern aufheben
+                    wollen? Wir gestehen 
+                    <app type="variants" xml:id="ayt_bvp_4jb">
+                        <lem>dies</lem>
+                        <rdg wit="#D4 #D8 #D9">dieses</rdg>
+                    </app> Verbrechen ein. Aber
+                    <app type="variants" xml:id="vp1_4t4_qjb">
+                        <lem>ein. Aber</lem>
+                        <rdg wit="#D8 #D9">ein. ⌋⌈ Aber,</rdg>
+                    </app> sagt Ihr, wir heben die trautesten Verhältnisse auf, indem wir an die 
+                    Stelle der häuslichen Erziehung die gesellschaftliche setzen.</p>
+                <p>Und ist nicht auch Eure Erziehung durch die Gesellschaft bestimmt? Durch die
+                    gesellschaftlichen Verhältnisse, innerhalb 
+                    <app type="variants" xml:id="nzw_5t4_qjb">
+                        <lem>deren</lem>
+                        <rdg wit="#D8 #D9">derer</rdg>
+                    </app> Ihr erzieht, durch die
+                    direktere oder indirektere Einmischung der Gesellschaft vermittelst der Schule
+                    u. s. w.? Die Kommunisten erfinden nicht die Einwirkung der
+                    Gesellschaft auf die Erziehung; sie verändern nur ihren Charakter, sie entreißen
+                    die Erziehung dem Einfluß 
+                    <app type="variants" xml:id="hjg_nvp_4jb">
+                        <lem>einer</lem>
+                        <rdg wit="#D4 #D8 #D9">der</rdg>
+                    </app> herrschenden Klasse.</p>
+                <p>Die bürgerlichen Redensarten über Familie und Erziehung über das traute Verhältniß 
+                    von Eltern und Kindern werden um so ekelhafter, je mehr in Folge der großen 
+                    Industrie alle Familienbande für die Proletarier zerrissen und die Kinder in 
+                    einfache Handelsartikel und Arbeitsinstrumente verwandelt werden.</p>
+                <p>Aber 
+                    <app type="variants" xml:id="dyc_554_qjb">
+                        <lem>Ihr</lem>
+                        <rdg wit="#D8 #D9">ihr</rdg>
+                    </app> Kommunisten wollt die Weibergemeinschaft einführen, schreit uns die
+                    ganze Bourgeoisie im Chor entegegen.</p>
+                <p>Der Bourgeois sieht in seiner Frau ein bloßes Produktions-Instrument. Er hört,
+                    daß die Produktions-Instrumente gemeinschaftlich ausgebeutet werden sollen und 
+                    kann sich natürlich 
+                    <app type="variants" xml:id="snl_bv4_qjb">
+                        <lem>nicht anders</lem>
+                        <rdg wit="#D8 #D9">nichts anderes</rdg>
+                    </app> denken, als daß das Loos der
+                    Gemeinschaftlichkeit die Weiber gleichfalls treffen wird.</p>
+                <p>Er ahnt nicht, daß es sich eben darum handelt, die Stellung der Weiber als bloßer
+                    Produktions-Instrumente aufzuheben.</p>
+                <p>Uebrigens ist nichts lächerlicher als das hochmoralische Entsetzen unsrer
+                    Bourgeois über die angebliche officielle Weibergemeinschaft der Kommunisten. Die
+                    Kommunisten brauchen die Weibergemeinschaft nicht einzuführen, sie hat fast
+                    immer existirt.</p>
+                <p>Unsre Bourgeois nicht zufrieden damit, daß ihnen die Weiber und Töchter ihrer
+                    Proletarier zur Verfügung stehen, von der officiellen Prostitution gar nicht zu
+                    sprechen, finden ein Hauptvergnügen darin ihre Ehefrauen wechselseitig zu
+                    verführen.</p>
+                <p>Die bürgerliche Ehe ist in Wirklichkeit die Gemeinschaft der Ehefrauen. Man
+                    könnte höchstens den Kommunisten vorwerfen, daß sie 
+                    <app type="variants" xml:id="kkf_kj3_sjb">
+                        <lem>an der Stelle</lem>
+                        <rdg wit="#D9">an Stelle</rdg>
+                    </app> einer 
+                    <app type="variants" xml:id="gqg_q15_pjb">
+                        <lem>heuchlerisch versteckten</lem>
+                        <rdg wit="#D5">heuchlerisch-versteckten</rdg>
+                    </app>, eine officielle, offenherzige Weibergemeinschaft einführen 
+                    <app type="variants" xml:id="oyr_hyp_4jb">
+                        <lem>wollen. Es</lem>
+                        <rdg wit="#D4 #D8">wollten. Es</rdg>
+                        <rdg wit="#D9">wollten, es</rdg>
+                    </app> versteht sich übrigens von selbst, daß mit Aufhebung der jetzigen
+                    Produktions-Verhältnisse auch die aus ihnen hervorgehende Weibergemeinschaft,
+                    d. h. die officielle und 
+                    <app type="variants" xml:id="k25_sv4_qjb">
+                        <lem>nicht officielle</lem>
+                        <rdg wit="#D8 #D9">nichtoffizielle</rdg>
+                    </app> Prostitution verschwindet.</p>
+                <p>Den Kommunisten ist ferner vorgeworfen worden, sie wollten das Vaterland, die
+                    Nationalität abschaffen.</p>
+                <p>Die Arbeiter haben kein Vaterland. Man kann ihnen nicht nehmen, was sie nicht
+                    haben. Indem das Proletariat zunächst sich die politische Herrschaft erobern,
+                    sich zur nationalen Klasse erheben, sich selbst als Nation konstituiren muß, ist
+                    es selbst noch national, wenn auch keineswegs im Sinne der Bourgeoisie.</p>
+                <p>Die nationalen Absonderungen und Gegensätze der Völker verschwinden mehr und mehr
+                    schon mit der Entwicklung der Bourgeoisie, mit der Handelsfreiheit, dem
+                    Weltmarkt, der Gleichförmigkeit der industriellen Produktion und der ihr
+                    entsprechenden Lebensverhältnisse.</p>
+                <p>Die Herrschaft des Proletariats wird sie noch mehr verschwinden machen.
+                    Vereinigte Aktion wenigstens der civilisirten Länder ist eine der ersten
+                    Bedingungen seiner Befreiung.</p>
+                <p>In dem Maße, wie die Exploitation des einen Individuums durch das andere
+                    aufgehoben wird, wird die Exploitation einer Nation durch die andre
+                    aufgehoben.</p>
+                <pb n="15"/>
+                <p>Mit dem Gegensatz der Klassen im Innern der 
+                    <app type="variants" xml:id="htf_3w4_qjb">
+                        <lem>Nationen</lem>
+                        <rdg wit="#D8 #D9">Nation</rdg>
+                    </app> fällt die feindliche Stellung der Nationen gegen einander.</p>
+                <p>Die Anklagen gegen den Kommunismus, die von religiösen, philosophischen und
+                    ideologischen Gesichtspunkten überhaupt erhoben werden, verdienen keine
+                    ausführlichere Erörterung.</p>
+                <p>Bedarf es tiefer Einsicht um zu begreifen, daß mit den Lebensverhältnissen der
+                    Menschen, mit ihren gesellschaftlichen Beziehungen, mit ihrem gesellschaftlichen
+                    Dasein auch ihre Vorstellungen, Anschauungen und Begriffe, mit einem Worte auch
+                    ihr Bewußtsein sich ändert?</p>
+                <p>Was beweist die Geschichte der Ideen anders, als daß die geistige Produktion sich
+                    mit der materiellen 
+                    <app type="variants" xml:id="zgy_gzp_4jb">
+                        <lem>umgestaltet.</lem>
+                        <rdg wit="#D4 #D5 #D8 #D9">umgestaltet?</rdg>
+                    </app> Die herrschenden Ideen einer Zeit waren stets nur die Ideen der 
+                    herrschenden Klasse.</p>
+                <p>Man spricht von Ideen, welche eine ganze Gesellschaft revolutioniren; man spricht
+                    damit nur die Thatsache aus, daß sich innerhalb der alten Gesellschaft die
+                    Elemente einer neuen gebildet haben, daß mit der Auflösung der alten
+                    Lebensverhältnisse die Auflösung der alten Ideen gleichen Schritt hält.</p>
+                <p>Als die alte Welt im Untergehen begriffen war, wurden die alten Religionen von
+                    der christlichen Religion besiegt. Als die christlichen Ideen im 18. Jahrhundert
+                    den Aufklärungs-Ideen unterlagen, rang die feudale Gesellschaft ihren Todeskampf
+                    mit der damals revolutionären Bourgeoisie. Die Ideen der Gewissens- und
+                    Religionsfreiheit sprachen nur die Herrschaft der freien Konkurrenz auf dem
+                    Gebiet des 
+                    <app type="variants" xml:id="dhj_hx4_qjb">
+                        <lem>Gewissens</lem>
+                        <rdg wit="#D8 #D9">Wissens</rdg>
+                    </app> aus.</p>
+                <p><app type="variants" xml:id="sh4_sx4_qjb">
+                        <lem>Aber</lem>
+                        <rdg wit="#D8 #D9">„Aber“,</rdg>
+                    </app> wird man sagen, 
+                    <app type="variants" xml:id="j5g_qy4_qjb">
+                        <lem>religiöse,</lem>
+                        <rdg wit="#D8 #D9">„religiöse,</rdg>
+                    </app> moralische, philosophische, politische, rechtliche Ideen u. s. w. 
+                    modificirten sich allerdings im Lauf der geschichtlichen Entwicklung. Die 
+                    Religion, die Moral, die Philosophie, die Politik, das Recht, erhielten sich 
+                    stets in diesem Wechsel.</p>
+                <p><app type="variants" xml:id="qsr_vy4_qjb">
+                        <lem>Es</lem>
+                        <rdg wit="#D8 #D9">„Es</rdg>
+                    </app> gibt zudem ewige Wahrheiten wie Freiheit, Gerechtigkeit u. s. w., die allen
+                    gesellschaftlichen Zuständen gemeinsam sind. Der Kommunismus aber schafft die
+                    ewigen Wahrheiten ab, er schafft die Religion ab, die Moral, statt sie neu zu
+                    gestalten, er widerspricht also allen bisherigen geschichtlichen 
+                <app type="variants" xml:id="cfq_dz4_qjb">
+                    <lem>Entwickelungen.</lem>
+                    <rdg wit="#D8 #D9">Entwickelungen.“</rdg>
+                </app></p>
+                <p>Worauf reducirt sich diese Anklage? Die Geschichte der ganzen bisherigen
+                    Gesellschaft bewegte sich in Klassengegensätzen, die in den verschiedenen
+                    Epochen verschieden gestaltet waren.</p>
+                <p>Welche Form sie aber auch immer angenommen, die Ausbeutung des einen Theils der
+                    Gesellschaft durch den andern ist eine allen vergangenen Jahrhunderten
+                    gemeinsame Thatsache. Kein Wunder daher, daß das gesellschaftliche Bewußtsein
+                    aller Jahrhunderte aller Mannigfaltigkeit und Verschiedenheit zum Trotz, in
+                    gewissen gemeinsamen Formen sich bewegt, Formen, Bewußtseinsformen, die nur mit
+                    dem gänzlichen Verschwinden des Klassengegensatzes sich vollständig
+                    auflösen.</p>
+                <p>Die kommunistische Revolution ist das radikalste Brechen mit den überlieferten 
+                    <app type="variants" xml:id="xvn_dnp_qjb">
+                        <lem>Eigenthums-Verhältnissen,</lem>
+                        <rdg wit="#D8 #D9">Eigenthums-Verhältnissen;</rdg>
+                    </app> kein Wunder, daß in ihrem Entwicklungsgange am radikalsten mit den 
+                    überlieferten Ideen gebrochen wird.</p>
+                <p>Doch lassen wir die Einwürfe der Bourgeoisie gegen den Kommunismus.</p>
+                <p>Wir sahen schon oben, daß der erste Schritt in der Arbeiter-Revolution die
+                    Erhebung des Proletariats zur herrschenden Klasse, die Erkämpfung der Demokratie
+                    ist.</p>
+                <p>Das Proletariat wird seine politische Herrschaft dazu benutzen der Bourgeoisie
+                    nach und nach alles Kapital zu entreißen, alle Produktions-Instrumente in den
+                    Händen des Staats, d. h. des als herrschende Klasse organisirten
+                    Proletariats zu centralisiren und die Masse der Produktionskräfte möglichst
+                    rasch zu vermehren.</p>
+                <pb n="16"/>
+                <p>Es kann dies natürlich zunächst nur geschehen vermittelst despotischer Eingriffe
+                    in das Eigenthumsrecht und in die bürgerlichen Produktions-Verhältnisse, durch
+                    Maaßregeln also, die ökonomisch unzureichend und unhaltbar erscheinen, die aber
+                    im Lauf der Bewegung über sich selbst hinaus treiben und als Mittel zur
+                    Umwälzung der ganzen Produktionsweise unvermeidlich sind.</p>
+                <p>Diese Maaßregeln werden natürlich je nach den verschiedenen Ländern verschieden
+                    sein.</p>
+                <p>Für die fortgeschrittensten Länder werden jedoch die folgenden ziemlich allgemein
+                    in Anwendung kommen können:</p>
+                <list>
+                    <item>1) Expropriation des Grundeigenthums und Verwendung der Grundrente zu Staatsausgaben.</item>
+                    <item>2) Starke Progressiv-Steuer.</item>
+                    <item>3) Abschaffung des Erbrechts.</item>
+                    <item>4) Konfiskation des Eigenthums aller Emigranten und Rebellen.</item>
+                    <item>5) Centralisation des Kredits in den Händen des Staats durch eine Nationalbank mit Staatskapital und ausschließlichem Monopol.</item>
+                    <item>6) Centralisation 
+                        <app type="variants" xml:id="vvk_5m3_sjb">
+                            <lem>alles</lem>
+                            <rdg wit="#D9">des</rdg>
+                        </app> Transportwesens in den Händen des Staats.</item>
+                    <item>7) Vermehrung der Nationalfabriken, Produktions-Instrumente, Urbarmachung und Verbesserung der Ländereien nach einem gemeinschaftlichen Plan.</item>
+                    <item>8) Gleicher Arbeitszwang für Alle, Errichtung industrieller Armeen besonders für den Ackerbau.</item>
+                    <item>9) Vereinigung des Betriebs von Ackerbau und Industrie, Hinwirken auf die allmählige Beseitigung des 
+                        <app type="variants" xml:id="ikv_ynp_qjb">
+                            <lem>Gegensatzes</lem>
+                            <rdg wit="#D8">Unterschiedes</rdg>
+                            <rdg wit="#D9">Unterschieds</rdg>
+                        </app> von Stadt und Land.</item>
+                    <item>10) Oeffentliche und 
+                        <app type="variants" xml:id="nl3_r4p_qjb">
+                            <lem>unentgeldliche</lem>
+                            <rdg wit="#D8 #D9">unentgeltliche</rdg>
+                        </app> Erziehung aller 
+                        <app type="variants" xml:id="mbh_w4p_qjb">
+                            <lem>Kinder,</lem>
+                            <rdg wit="#D8 #D9">Kinder.</rdg>
+                        </app> Beseitigung der Fabrikarbeit der Kinder in ihrer heutigen Form. Vereinigung der Erziehung mit der materiellen Produktion u. s. w., u. s. w.</item>
+                </list>
+                <p>Sind im Laufe der Entwicklung die Klassenunterschiede verschwunden, und ist alle
+                    Produktion in den Händen der associrten Individuen koncentrirt, so verliert die 
+                    öffentliche Gewalt den politischen Charakter. Die politische Gewalt im 
+                    eigentlichen Sinn ist die organisirte Gewalt einer Klasse zur Unterdrückung 
+                    einer andern. Wenn das Proletariat im Kampfe gegen die Bourgeoisie sich 
+                    nothwendig zur Klasse vereint, durch eine Revolution sich zur herrschenden 
+                    Klasse macht, und als herrschende Klasse gewaltsam die alten 
+                    Produktions-Verhältnisse aufhebt, so hebt es mit diesen Produktions-Verhältnissen 
+                    die Existenz-Bedingungen des Klassengegensatzes 
+                    <app type="variants" xml:id="ecz_jqp_qjb">
+                        <lem>der</lem>
+                        <rdg wit="#D8 #D9">die</rdg>
+                    </app> Klassen überhaupt, und damit seine eigene Herrschaft als Klasse auf.</p>
+                <p>An die Stelle der alten bürgerlichen Gesellschaft mit ihren Klassen und
+                    Klassen-Gegensätzen tritt eine Association, worin die freie Entwicklung eines 
+                    Jeden, die Bedingung für 
+                    <app type="variants" xml:id="cyc_t21_qjb">
+                        <lem>die freie Entwicklung</lem>
+                        <rdg wit="#D5">die Entwicklung</rdg>
+                    </app> Aller ist.</p>
+            </div>
+            <div n="2" type="title">
+                <head><hi rendition="#c"><hi rendition="#b">III. Socialistische und kommunistische </hi></hi>
+                            <app type="variants" xml:id="yy4_xhl_mjb">
+                                <lem><hi rendition="#c"><hi rendition="#b">Literatur</hi></hi></lem>
+                                <rdg wit="#J3"><hi rendition="#b">Literatur*)</hi> *) Wir geben hier einen Auszug aus
+                                    dem von Karl Marx und Friedrich Engels abgefaßten <hi rendition="#g">„Manifest der kommunistischen
+                                        Partei“</hi>, publicirt <hi rendition="#g">vor</hi>
+                                    der Februarrevolution. ⌋⌈ A. d. R.</rdg>
+                            </app><hi rendition="#c"><hi rendition="#b">.</hi></hi></head>
+            </div>
+            <div n="3" type="title">
+                <head><hi rendition="#c"><hi rendition="#g">1) Der </hi></hi>
+                    <app type="variants" xml:id="ybv_gll_mjb">
+                        <lem><hi rendition="#c"><hi rendition="#g">reaktionaire</hi></hi></lem>
+                        <rdg wit="#J3"><hi rendition="#g">reactionaire</hi></rdg>
+                    </app><hi rendition="#c"><hi rendition="#g"> Socialismus.</hi></hi></head>
+            </div>
+            <div n="4" type="title">
+                <head><hi rendition="#c">a) Der feudale Socialismus.</hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Die französische und englische Aristokratie war ihrer geschichtlichen Stellung
+                    nach dazu berufen, Pamphlete gegen die moderne bürgerliche Gesellschaft zu
+                    schreiben. In der französischen Julirevolution von 1830, in der englischen
+                    Reformbewegung war sie noch einmal dem verhaßten Emporkömmling erlegen. Von
+                    einem ernsten politischen Kampfe konnte nicht mehr die Rede sein. Nur der 
+                    <pb n="17"/> literarische Kampf blieb ihr übrig. Aber auch auf dem Gebiete der
+                    Literatur waren die alten Redensarten der Restaurationszeit unmöglich geworden.
+                    Um Sympathie zu erregen, mußte die 
+                    <app type="variants" xml:id="hsw_nml_mjb">
+                        <lem>Aristokratie</lem>
+                        <rdg wit="#J3">Aristocratie</rdg>
+                    </app> scheinbar ihre Interessen aus den Augen verlieren und 
+                    <app type="variants" xml:id="llf_brp_qjb">
+                        <lem>nur noch im</lem>
+                        <rdg wit="#D8 #D9">nur im</rdg>
+                    </app> Interesse der exploitirten Arbeiterklasse ihren 
+                    <app type="variants" xml:id="llb_1nl_mjb">
+                        <lem>Anklageakt</lem>
+                        <rdg wit="#J3">Anklageact</rdg>
+                    </app> gegen die Bourgeoisie formuliren. Sie bereitete sich so die
+                    <choice xml:id="ahd_pmq_4jb">
+                        <sic>Genugthuung vor,</sic>
+                        <corr cert="high">Genugthuung<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice>
+                    <app type="variants" xml:id="u4p_n3q_4jb">
+                        <lem>bereitete sich so die Genugthuung</lem>
+                        <rdg wit="#D4 #D8 #D9">bereitete so die Genugthuung vor,<note type="editorial">Siehe Kor. <ref corresp="#ahd_pmq_4jb"/>.</note></rdg>
+                    </app> Schmählieder auf ihren neuen Herrscher singen und mehr oder
+                    minder unheilschwangere Prophezeiungen ihm in’s Ohr raunen zu dürfen.</p>
+                <p>Auf diese Art entstand der feudalistische Socialismus, halb Klagelied, halb
+                    Pasquill, halb Rückhall der Vergangenheit, halb Dräuen der Zukunft, mitunter die
+                    Bourgeoisie in’s Herz treffend durch bittres, geistreich zerreißendes
+                    Urtheil, stets komisch wirkend durch gänzliche Unfähigkeit den Gang der modernen
+                    Geschichte zu begreifen.</p>
+                <p>Den proletarischen 
+                    <app type="variants" xml:id="h5x_yql_mjb">
+                        <lem>Bettlersack</lem>
+                        <rdg wit="#J3 #D9">Bettelsack</rdg>
+                    </app> schwenkten sie als Fahne in der Hand, um das Volk hinter sich her zu 
+                    <app type="variants" xml:id="p5c_grl_mjb">
+                        <lem>versammeln</lem>
+                        <rdg wit="#J3">sammeln</rdg>
+                    </app>. So oft es ihnen aber folgte, erblickte es auf ihrem Hintern die alten 
+                    feudalen Wappen und verlief sich mit lautem und unehrerbietigem Gelächter.</p>
+                <p>Ein Theil der französischen Legitimisten und das junge England gaben dies
+                    Schauspiel zum Besten.</p>
+                <p>Wenn die Feudalen beweisen, daß ihre Weise der Ausbeutung anders gestaltet war
+                    als die bürgerliche Ausbeutung, so vergessen sie nur, daß sie unter gänzlich
+                    verschiedenen und jetzt überlebten Umständen und Bedingungen ausbeuteten. Wenn
+                    sie nachweisen, daß unter ihrer Herrschaft nicht das moderne Proletariat
+                    existirt hat, so vergessen sie nur, daß eben die moderne Bourgeoisie ein
+                    nothwendiger Sprößling ihrer Gesellschaftsordnung war.</p>
+                <p>Uebrigens verheimlichen sie den 
+                    <app type="variants" xml:id="dmy_rrl_mjb">
+                        <lem>reaktionären</lem>
+                        <rdg wit="#J3">reactionairen</rdg>
+                    </app> Charakter ihrer Kritik so wenig, daß
+                    ihre Hauptanklage gegen die Bourgeoisie eben darin besteht, unter ihrem Regime 
+                    <app type="variants" xml:id="g2x_yrl_mjb">
+                        <lem>entwickele</lem>
+                        <rdg wit="#J3">entwickle</rdg>
+                    </app> sich eine Klasse, welche die ganze alte Gesellschaftsordnung in die
+                    Luft sprengen werde.</p>
+                <p>Sie
+                    <app type="variants" xml:id="tt4_rsl_mjb">
+                        <lem>werde. ⌋⌈ Sie</lem>
+                        <rdg wit="#J3">werde. Sie</rdg>
+                    </app> 
+                    <app type="variants" xml:id="vc2_ysl_mjb">
+                        <lem>werfen</lem>
+                        <rdg wit="#J3">warfen</rdg>
+                    </app> der Bourgeoisie mehr noch vor, daß sie ein 
+                    <choice>
+                        <sic>revolutionares</sic>
+                        <corr cert="high">revolutionäres</corr>
+                    </choice>
+                    <app type="variants" xml:id="ccw_ctl_mjb">
+                        <lem>revolutionäres</lem>
+                        <rdg wit="#J3">revolutionaires</rdg>
+                    </app> Proletariat, als daß sie überhaupt ein Proletariat erzeugt.</p>
+                <p>In
+                    <app type="variants" xml:id="e2j_3tl_mjb">
+                        <lem>erzeugt. ⌋⌈ In</lem>
+                        <rdg wit="#J3">erzeugt. In</rdg>
+                    </app> der politischen Praxis nehmen sie daher an allen 
+                    <app type="variants" xml:id="hfw_4tl_mjb">
+                        <lem>Gewaltmaßregeln</lem>
+                        <rdg wit="#J3">Gewaltmaaßregeln</rdg>
+                    </app> gegen die Arbeiterklasse Theil, und im gewöhnlichen Leben bequemen 
+                    sie sich, allen ihren aufgeblähten Redensarten zum Trotz, die 
+                    <app type="variants" xml:id="jcm_5tl_mjb">
+                        <lem>goldenen</lem>
+                        <rdg wit="#J3">goldnen</rdg>
+                    </app> Aepfel aufzulesen, 
+                    <app type="variants" xml:id="pfc_15l_mjb">
+                        <lem>und Treue, Liebe, Ehre</lem>
+                        <rdg wit="#J3">Treue, Liebe und Ehre</rdg>
+                    </app> mit dem Schacher in Schaafswolle, 
+                    <app type="variants" xml:id="mz2_hsm_5jb">
+                        <lem>Runkelrüben</lem>
+                        <rdg wit="#D9">Runkelrübe</rdg>
+                    </app> und Schnapps zu vertauschen.</p>
+                <p>Wie der Pfaffe immer Hand in Hand ging mit dem Feudalen, so der pfäffische
+                    Socialismus mit dem feudalistischen.</p>
+                <p>Nichts
+                    <app type="variants" xml:id="vjp_g5l_mjb">
+                        <lem>feudalistischen. ⌋⌈ Nichts</lem>
+                        <rdg wit="#J3">feudalistischen. Nichts</rdg>
+                    </app> leichter als dem christlichen Ascetismus einen socialistischen Anstrich zu
+                    geben. Hat das Christenthum nicht auch gegen das Privateigenthum, gegen die Ehe,
+                    gegen den Staat geeifert? Hat es nicht die Wohlthätigkeit und den Bettel, das 
+                    <app type="variants" xml:id="l5y_45l_mjb">
+                        <lem>Cölibat</lem>
+                        <rdg wit="#J3">Cölebat</rdg>
+                    </app> und die 
+                    <app type="variants" xml:id="ofd_s5l_mjb">
+                        <lem>Fleischesertödtung</lem>
+                        <rdg wit="#J3">Fleischestödtung</rdg>
+                        <rdg wit="#D5">Fleischertödtung</rdg>
+                    </app>, das Zellenleben und die Kirche an 
+                    <choice>
+                        <sic>ihre</sic>
+                        <corr cert="high">ihrer<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                        </choice> Stelle gepredigt? Der 
+                    <choice xml:id="lvv_2kq_4jb">
+                        <sic>heitige</sic>
+                            <corr cert="high">heilige<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice>
+                    <app type="variants" xml:id="dzp_zjq_4jb">
+                        <lem>heilige</lem>
+                        <rdg wit="#D4">heutige<note type="editorial">Siehe Kor. <ref corresp="#lvv_2kq_4jb"/>.</note></rdg>
+                        <rdg wit="#D8 #D9">christliche<note type="editorial">Siehe Kor. <ref corresp="#lvv_2kq_4jb"/>.</note></rdg>
+                    </app> Socialismus ist nur das Weihwasser, womit der Pfaffe den Aerger des 
+                    <app type="variants" xml:id="v1t_dvl_mjb">
+                        <lem>Aristokraten</lem>
+                        <rdg wit="#J3">Aristocraten</rdg>
+                    </app>einsegnet.</p>
+            </div>
+            <div n="4" type="title">
+                <head><hi rendition="#c">b) Kleinbürgerlicher Socialismus.</hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Die feudale 
+                    <app type="variants" xml:id="zy3_ljq_mjb">
+                        <lem>Aristokratie</lem>
+                        <rdg wit="#J3">Aristocratie</rdg>
+                    </app> ist nicht die einzige Klasse, welche durch die Bourgeoisie gestürzt wurde, 
+                    deren Lebensbedingungen in der modernen bürgerlichen Gesellschaft verkümmerten 
+                    und abstarben. Das mittelalterliche Pfahlbürgerthum und der kleine Bauernstand 
+                    waren die Vorläufer der modernen Bourgeoisie. In den weniger industriell und 
+                    <app type="variants" xml:id="xmb_2kq_mjb">
+                        <lem>kommerciell</lem>
+                        <rdg wit="#J3">kommerziell</rdg>
+                    </app> entwickelten Ländern vegetirt diese Klasse
+                    noch fort neben der aufkommenden Bourgeoisie.</p>
+                <pb n="18"/>
+                <p>In den Ländern, wo sich die moderne Civilisation entwickelt hat, hat sich eine
+                    neue Kleinbürgerschaft gebildet, die zwischen dem Proletariat und der
+                    Bourgeoisie 
+                    <app type="variants" xml:id="wyj_nkq_mjb">
+                        <lem>schwebt</lem>
+                        <rdg wit="#J3">schwebt,</rdg>
+                    </app> und als ergänzender Theil der bürgerlichen Gesellschaft
+                    stets von Neuem sich bildet, deren Mitglieder aber beständig durch die 
+                    <app type="variants" xml:id="sj2_rkq_mjb">
+                        <lem>Konkurrenz</lem>
+                        <rdg wit="#J3">Koncurrenz</rdg>
+                    </app> in’s Proletariat hinabgeschleudert werden, ja selbst mit der
+                    Entwicklung der großen Industrie einen Zeitpunkt herannahen sehen, wo sie als
+                    selbstständiger Theil der modernen Gesellschaft gänzlich verschwinden, und im
+                    Handel, in der 
+                    <app type="variants" xml:id="bms_xkq_mjb">
+                        <lem>Manufaktur</lem>
+                        <rdg wit="#J3">Manufactur</rdg>
+                    </app>, in der Agrikultur durch Arbeitsaufseher und Domestiken ersetzt werden.</p>
+                <p>In
+                    <app type="variants" xml:id="wtp_blq_mjb">
+                        <lem>werden. ⌋⌈ In</lem>
+                        <rdg wit="#J3">werden. In</rdg>
+                    </app> 
+                    <app type="variants" xml:id="txn_hlq_mjb">
+                        <lem>Ländern</lem>
+                        <rdg wit="#J3">Ländern,</rdg>
+                    </app> 
+                    <app type="variants" xml:id="lk2_bl1_qjb">
+                        <lem>wie in Frankreich</lem>
+                        <rdg wit="#D5">wie Frankreich</rdg>
+                    </app>, wo die Bauernklasse weit mehr als die Hälfte der
+                    Bevölkerung ausmacht, war es natürlich, daß Schriftsteller, die für das
+                    Proletariat gegen die Bourgeoisie auftraten, an ihre Kritik des
+                    Bourgeoisregime’s den kleinbürgerlichen und kleinbäuerlichen Maaßstab
+                    anlegten und die Partei der Arbeiter vom Standpunkt des Kleinbürgerthums
+                    ergriffen. Es bildete sich so der kleinbürgerliche Socialismus. Sismondi ist das
+                    Haupt dieser Literatur nicht nur für Frankreich sondern auch für England.</p>
+                <p>Dieser Socialismus zergliederte höchst scharfsinnig die Widersprüche in den
+                    modernen 
+                    <app type="variants" xml:id="dbw_cmq_mjb">
+                        <lem>Produktionsverhältnissen</lem>
+                        <rdg wit="#J3">Productionsverhältnissen</rdg>
+                    </app>. Er enthüllte die gleißnerischen Beschönigungen der 
+                    <app type="variants" xml:id="azn_slq_mjb">
+                        <lem>Oekonomen</lem>
+                        <rdg wit="#J3">Oeconomen</rdg>
+                    </app>. Er wies unwiderleglich die zerstörenden Wirkungen der Maschinerie und
+                    der Theilung der Arbeit nach, die 
+                    <app type="variants" xml:id="v11_xlq_mjb">
+                        <lem>Koncentration</lem>
+                        <rdg wit="#J3">Conzentration</rdg>
+                    </app> der Kapitalien und des Grundbesitzes, die 
+                    <app type="variants" xml:id="n3q_gmq_mjb">
+                        <lem>Ueberproduktion</lem>
+                        <rdg wit="#J3">Ueberproduction</rdg>
+                    </app>, die Krisen, den nothwendigen Untergang der kleinen Bürger und Bauern,
+                    das Elend des Proletariats, die Anarchie in der 
+                    <app type="variants" xml:id="trk_kmq_mjb">
+                        <lem>Produktion</lem>
+                        <rdg wit="#J3">Production</rdg>
+                    </app>, die schreienden Mißverhältnisse in der Vertheilung des Reichthums, den
+                    industriellen Vernichtungskrieg der Nationen 
+                    <app type="variants" xml:id="rml_pmq_mjb">
+                        <lem>unter einander</lem>
+                        <rdg wit="#J3">untereinander</rdg>
+                    </app>, die Auflösung der alten Sitten, der alten 
+                    <app type="variants" xml:id="xvs_smq_mjb">
+                        <lem>Familien-Verhältnisse</lem>
+                        <rdg wit="#J3">Familienverhältnisse</rdg>
+                    </app>, der alten Nationalitäten.</p>
+                <p>Seinem
+                    <app type="variants" xml:id="av2_xmq_mjb">
+                        <lem>Nationalitäten. ⌋⌈ Seinem</lem>
+                        <rdg wit="#J3">Nationalitäten. Seinem</rdg>
+                    </app> positiven Gehalte nach will jedoch dieser Socialismus entweder die alten 
+                    <app type="variants" xml:id="w32_cnq_mjb">
+                        <lem>Produktions-</lem>
+                        <rdg wit="#J3">Productions-</rdg>
+                    </app> und Verkehrsmittel 
+                    <app type="variants" xml:id="ixd_gnq_mjb">
+                        <lem>wiederherstellen</lem>
+                        <rdg wit="#J3">wieder herstellen</rdg>
+                    </app> und mit ihnen die alten
+                    Eigenthumsverhältnisse und die alte Gesellschaft, oder er will die modernen 
+                    <app type="variants" xml:id="mgf_mnq_mjb">
+                        <lem>Produktions-</lem>
+                        <rdg wit="#J3">Productions-</rdg>
+                    </app> und Verkehrsmittel in den Rahmen der alten Eigenthumsverhältnisse,
+                    die von ihnen gesprengt 
+                    <app type="variants" xml:id="vkm_xbq_qjb">
+                        <lem>werden</lem>
+                        <rdg wit="#D8 #D9">wurden</rdg>
+                    </app>, gesprengt werden 
+                    <app type="variants" xml:id="zj2_5nq_mjb">
+                        <lem>mußten</lem>
+                        <rdg wit="#J3">müssen</rdg>
+                    </app>, gewaltsam wieder einsperren. In
+                    <app type="variants" xml:id="ekr_xnq_mjb">
+                        <lem>einsperren. In</lem>
+                        <rdg wit="#J3">einsperren. ⌋⌈ In</rdg>
+                    </app> beiden Fällen ist er 
+                    <app type="variants" xml:id="yst_c4q_mjb">
+                        <lem>reaktionär</lem>
+                        <rdg wit="#J3">reactionair</rdg>
+                    </app> und utopistisch zugleich.</p>
+                <p>Zunftwesen in der 
+                    <app type="variants" xml:id="k4h_h4q_mjb">
+                        <lem>Manufaktur</lem>
+                        <rdg wit="#J3">Manufactur</rdg>
+                    </app> und patriarchalische Wirthschaft auf dem Lande, das
+                    sind seine letzten Worte.</p>
+                <p>In ihrer weitern Entwicklung hat sich diese Richtung in einen feigen Katzenjammer
+                    verlaufen.</p>
+            </div>
+            <div n="4" type="title">
+                <head><hi rendition="#c">c) Der </hi>
+                    <app type="variants" xml:id="pdx_zqq_mjb">
+                        <lem><hi rendition="#c">deutsche</hi></lem>
+                        <rdg wit="#J3">Deutsche</rdg>
+                    </app><hi rendition="#c"> oder der </hi> 
+                    <app type="variants" xml:id="otc_gcq_qjb">
+                        <lem><hi rendition="#c">wahre</hi></lem>
+                        <rdg wit="#D8 #D9">„wahre“</rdg>
+                    </app><hi rendition="#c"> Socialismus.</hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Die socialistische und kommunistische Literatur Frankreichs, die unter dem Druck
+                    einer herrschenden Bourgeoisie entstand und der literarische Ausdruck des Kampfs
+                    gegen diese Herrschaft ist, wurde nach Deutschland eingeführt zu einer Zeit, wo
+                    die Bourgeoisie 
+                    <app type="variants" xml:id="b1c_4cq_qjb">
+                        <lem>so eben</lem>
+                        <rdg wit="#D8 #D9">soeben</rdg>
+                    </app> ihren Kampf gegen den feudalen Absolutismus begann.</p>
+                <p>Deutsche Philosophen, Halbphilosophen und Schöngeister bemächtigten sich gierig
+                    dieser Literatur und 
+                    <app type="variants" xml:id="mpz_lrq_mjb">
+                        <lem>vergassen</lem>
+                        <rdg wit="#J3">vergaßen</rdg>
+                    </app> nur, daß bei der Einwanderung jener Schriften aus
+                    Frankreich die französischen Lebensverhältnisse nicht gleichzeitig nach
+                    Deutschland eingewandert waren. Den deutschen Verhältnissen gegenüber verlor die
+                    französische Literatur alle unmittelbar praktische Bedeutung und nahm ein rein
+                    literarisches 
+                    <app type="variants" xml:id="ccj_srq_mjb">
+                        <lem>Aussehen</lem>
+                        <rdg wit="#J3">Aussehn</rdg>
+                    </app> an. Als müßige 
+                    <app type="variants" xml:id="g25_vrq_mjb">
+                        <lem>Spekulation</lem>
+                        <rdg wit="#J3">Speculation</rdg>
+                    </app> 
+                    <app type="variants" xml:id="fgg_bdq_qjb">
+                        <lem>über die wahre Gesellschaft, über die</lem>
+                        <rdg wit="#D8 #D9">über die</rdg>
+                    </app> Verwirklichung des menschlichen Wesens mußte sie erscheinen. So hatten
+                    für die deutschen Philosophen des 18. Jahrhunderts die Forderungen der ersten
+                    französischen Revolution nur den Sinn, Forderungen der „prak<pb n="19"/>tischen
+                    Vernunft“ im 
+                    <app type="variants" xml:id="e4p_csq_mjb">
+                        <lem>Allgemeinen</lem>
+                        <rdg wit="#J3">allgemeinen</rdg>
+                    </app> zu sein und die 
+                    <app type="variants" xml:id="bgr_ldq_qjb">
+                        <lem>Willensäußerung</lem>
+                        <rdg wit="#D8 #D9">Willensäußerungen<note type="editorial">Siehe Kor. <ref corresp="#hfq_mdq_qjb"/>.</note></rdg>
+                    </app> der 
+                    <app type="variants" xml:id="fcy_rsq_mjb">
+                        <lem>revolutionären</lem>
+                        <rdg wit="#J3">revolutionairen</rdg>
+                    </app> französischen Bourgeoisie 
+                    <choice xml:id="hfq_mdq_qjb">
+                        <sic>bedeuteten</sic>
+                        <corr cert="high">bedeutete<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> in ihren Augen die Gesetze des reinen Willens, des Willens wie er 
+                    sein muß, des wahrhaft menschlichen Willens.</p>
+                <p>Die ausschließliche Arbeit der deutschen Literaten bestand darin, die neuen
+                    französischen Ideen mit ihrem alten philosophischen Gewissen in Einklang zu
+                    setzen, oder vielmehr von ihrem philosophischen Standpunkt aus die französischen
+                    Ideen sich anzueignen.</p>
+                <p>Diese
+                    <app type="variants" xml:id="ivz_btq_mjb">
+                        <lem>anzueignen. ⌋⌈ Diese</lem>
+                        <rdg wit="#J3">anzueignen. Diese</rdg>
+                    </app> Aneignung geschah in derselben Weise, wodurch man sich überhaupt eine
+                    fremde Sprache aneignet, 
+                    <app type="variants" xml:id="xbh_ptq_mjb">
+                        <lem>durch die Uebersetzung</lem>
+                        <rdg wit="#J3">durch Uebersetzung</rdg>
+                    </app>.</p>
+                <p>Es ist bekannt wie die Mönche Manuscripte, worauf die klassischen Werke der alten
+                    Heidenzeit verzeichnet waren, mit abgeschmackten katholischen 
+                    <app type="variants" xml:id="iss_vtq_mjb">
+                        <lem>Heiligengeschichten</lem>
+                        <rdg wit="#J3">Heiligenbildern</rdg>
+                    </app> überschrieben. Die deutschen Literaten gingen umgekehrt mit
+                    der profanen französischen Literatur um. Sie schrieben ihren philosophischen
+                    Unsinn hinter das französische 
+                    <app type="variants" xml:id="k4v_gx1_qjb">
+                        <lem>Original. Z. B.</lem>
+                        <rdg wit="#D5">Original, z. B.</rdg>
+                    </app> hinter die französische Kritik der Geldverhältnisse schrieben sie 
+                    „Entäußerung des menschlichen Wesens“, hinter die französische Kritik des 
+                    Bourgeoisstaats schrieben sie „Aufhebung der Herrschaft des abstrakt 
+                    Allgemeinen“ u. s. w.</p>
+                <p><app type="variants" xml:id="vjg_34q_qjb">
+                        <lem>Diese Unterschiebung ihrer</lem>
+                        <rdg wit="#D8 #D9">Die Unterschiebung dieser</rdg>
+                    </app> philosophischen Redensarten unter die französischen 
+                    <app type="variants" xml:id="ezz_f5q_mjb">
+                        <lem>Entwicklungen</lem>
+                        <rdg wit="#J3">Entwickelungen</rdg>
+                    </app> 
+                    <choice>
+                        <sic>taufte</sic>
+                        <corr cert="high">tauften<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> sie „Philosophie der That“, „wahrer Socialismus“, 
+                    <app type="variants" xml:id="imx_nvq_mjb">
+                        <lem>„Deutsche</lem>
+                        <rdg wit="#J3">„deutsche</rdg>
+                    </app> Wissenschaft des Socialismus“,
+                    <app type="variants" xml:id="lws_svq_mjb">
+                        <lem>„Philosophische</lem>
+                        <rdg wit="#J3 #D4 #D8 #D9">„philosophische</rdg>
+                    </app> Begründung des 
+                    <choice>
+                        <sic>Socialismus</sic>
+                        <corr cert="high">Socialismus“<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> u. s. w.</p>
+                <p>Die
+                    <app type="variants" xml:id="ihp_2wq_mjb">
+                        <lem>u. s. w. ⌋⌈ Die</lem>
+                        <rdg wit="#J3">u. s. w. Die</rdg>
+                    </app> 
+                    <choice xml:id="ov4_hy1_qjb">
+                        <sic>französisch-socialistisch kommunistische</sic>
+                        <corr cert="high">französisch socialistisch-kommunistische<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> 
+                    <app type="variants" xml:id="fyx_1y1_qjb">
+                        <lem>französisch socialistisch-kommunistische</lem>
+                        <rdg wit="#D5">französisch-socialistisch-kommunistische<note type="editorial">Siehe Kor. <ref corresp="#ov4_hy1_qjb"/>.</note></rdg>
+                        <rdg wit="#D8">französische socialistisch-kommunistische<note type="editorial">Siehe Kor. <ref corresp="#ov4_hy1_qjb"/>.</note></rdg>
+                        <rdg wit="#D9">französische sozial-kommunistische<note type="editorial">Siehe Kor. <ref corresp="#ov4_hy1_qjb"/>.</note></rdg>
+                    </app> Literatur wurde so förmlich entmannt. Und da sie in der Hand des
+                    Deutschen aufhörte, den Kampf einer Klasse gegen die 
+                    <app type="variants" xml:id="xnp_fxq_mjb">
+                        <lem>andere</lem>
+                        <rdg wit="#J3">andern</rdg>
+                    </app> auszudrücken, so war der Deutsche sich bewußt, 
+                    <app type="variants" xml:id="kfk_csq_qjb">
+                        <lem>französische Einseitigkeit</lem>
+                        <rdg wit="#D8 #D9">„französische Einseitigkeit“</rdg>
+                    </app> überwunden, statt wahrer Bedürfnisse, das Bedürfniß der Wahrheit, und statt 
+                    <app type="variants" xml:id="bq2_kqt_5jb">
+                        <lem>die</lem>
+                        <rdg wit="#D9">der</rdg>
+                    </app> Interessen des 
+                    <app type="variants" xml:id="fx2_pxq_mjb">
+                        <lem>Proletariers</lem>
+                        <rdg wit="#J3">Proletariats,</rdg>
+                    </app> die Interessen des menschlichen Wesens, des Menschen überhaupt vertreten zu 
+                    <app type="variants" xml:id="zms_4z1_qjb">
+                        <lem>haben,</lem>
+                        <rdg wit="#D5">haben;</rdg>
+                    </app> des 
+                    <app type="variants" xml:id="nhr_wxq_mjb">
+                        <lem>Menschen,</lem>
+                        <rdg wit="#J3">Menschen</rdg>
+                    </app> der keiner Klasse, der überhaupt nicht der Wirklichkeit,
+                    der nur dem Dunsthimmel der philosophischen Phantasie angehört.</p>
+                <p>Dieser deutsche Socialismus, der seine 
+                    <choice>
+                        <sic>unbeholfene</sic>
+                        <corr cert="high">unbeholfenen<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> Schulübungen so ernst und feierlich nahm und so marktschreierisch
+                    ausposaunte, verlor indeß nach und nach seine pedantische Unschuld.</p>
+                <p>Der Kampf der 
+                    <app type="variants" xml:id="pfx_2jr_mjb">
+                        <lem>deutschen</lem>
+                        <rdg wit="#J3">deutschen,</rdg>
+                    </app> namentlich der preußischen Bourgeoisie gegen die Feudalen
+                    und das absolute Königthum, mit einem 
+                    <app type="variants" xml:id="ehv_3jr_mjb">
+                        <lem>Wort,</lem>
+                        <rdg wit="#J3">Wort</rdg>
+                    </app> die liberale Bewegung wurde ernsthafter.</p>
+                <p>Dem
+                    <app type="variants" xml:id="ujx_zjr_mjb">
+                        <lem>ernsthafter. ⌋⌈ Dem</lem>
+                        <rdg wit="#J3">ernsthafter. Dem</rdg>
+                    </app> 
+                    <app type="variants" xml:id="agq_psq_qjb">
+                        <lem>wahren</lem>
+                        <rdg wit="#D8 #D9">„wahren“</rdg>
+                    </app> Socialismus war so erwünschte Gelegenheit geboten, der politischen
+                    Bewegung die socialistischen Forderungen gegenüber zu 
+                    <choice>
+                        <sic>stellen. ⌋⌈ Die</sic>
+                        <corr cert="high">stellen, die<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> überlieferten Anatheme gegen den Liberalismus, gegen den 
+                    <app type="variants" xml:id="wp5_jkr_mjb">
+                        <lem>Repräsentativ-Staat</lem>
+                        <rdg wit="#J3">Repräsentativstaat</rdg>
+                    </app>, gegen die bürgerliche Konkurrenz, bürgerliche Preßfreiheit,
+                    bürgerliches Recht, bürgerliche Freiheit und Gleichheit zu schleudern und der
+                    Volksmasse vorzupredigen, wie sie bei dieser bürgerlichen Bewegung nichts zu
+                    gewinnen, vielmehr Alles zu verlieren habe. Der deutsche Socialismus vergaß
+                    rechtzeitig, daß die französische Kritik, deren geistloses Echo er war, die
+                    moderne bürgerliche Gesellschaft mit den entsprechenden materiellen
+                    Lebensbedingungen 
+                    <app type="variants" xml:id="qys_skr_mjb">
+                        <lem>und</lem>
+                        <rdg wit="#J3">in</rdg>
+                    </app> der angemessenen politischen Konstitution 
+                    <app type="variants" xml:id="cmq_dtq_qjb">
+                        <lem>voraussetzt</lem>
+                        <rdg wit="#D8 #D9">vorausgesetzt</rdg>
+                    </app>, lauter Voraussetzungen, um deren Erkämpfung es sich erst in Deutschland
+                    handelte.</p>
+                <p>Er diente den deutschen 
+                    <app type="variants" xml:id="y2l_ykr_mjb">
+                        <lem>absoluten</lem>
+                        <rdg wit="#J3">absolutistischen</rdg>
+                    </app> Regierungen mit ihrem Gefolge von Pfaffen, Schulmeistern, Krautjunkern und 
+                    <app type="variants" xml:id="dhj_stt_5jb">
+                        <lem>Büreaukraten</lem>
+                        <rdg wit="#D9">Bureaukraten</rdg>
+                    </app> als erwünschte Vogelscheuche gegen die drohend aufstrebende Bourgeoisie.</p>
+                <p>Er bildete die süßliche Ergänzung zu den bittern Peitschenhieben und
+                    Flintenkugeln, womit dieselben Regierungen die deutschen Arbeiter-Aufstände
+                    bearbeiteten.</p>
+                <pb n="20"/>
+                <p>Ward <app type="variants" xml:id="a11_3lr_mjb">
+                        <lem>bearbeiteten. ⌋⌈ Ward</lem>
+                        <rdg wit="#J3">beantworteten. Ward</rdg>
+                        <rdg wit="#D5">beantworteten. ⌋⌈ Ward</rdg>
+                    </app> der 
+                    <app type="variants" xml:id="erm_4tq_qjb">
+                        <lem>wahre</lem>
+                        <rdg wit="#D8 #D9">„wahre“</rdg>
+                    </app> Socialismus dergestalt eine Waffe in der Hand der 
+                        <app type="variants" xml:id="upn_nlr_mjb">
+                        <lem>Regierungen</lem>
+                        <rdg wit="#J3">Regierung</rdg>
+                    </app> gegen die deutsche Bourgeoisie, so vertrat er auch unmittelbar ein
+                    <app type="variants" xml:id="llf_5lr_mjb">
+                        <lem>reactionäres</lem>
+                        <rdg wit="#J3">reactionaires</rdg>
+                    </app> Interesse, das Interesse der deutschen Pfahlbürgerschaft. In Deutschland
+                    bildet das vom 
+                    <app type="variants" xml:id="ihj_dmr_mjb">
+                        <lem>sechzehnten</lem>
+                        <rdg wit="#J3">sechszehnten</rdg>
+                        <rdg wit="#D9">16.</rdg>
+                    </app> Jahrhundert her überlieferte und seit der Zeit in
+                    verschiedener Form hier immer neu wieder auftauchende Kleinbürgerthum die
+                    eigentliche gesellschaftliche Grundlage der bestehenden Zustände.</p>
+                <p>Seine
+                    <app type="variants" xml:id="c4f_lmr_mjb">
+                        <lem>Zustände. ⌋⌈ Seine</lem>
+                        <rdg wit="#J3">Zustände. Seine</rdg>
+                    </app> Erhaltung ist die Erhaltung der bestehenden deutschen Zustände. Von der
+                    industriellen und politischen Herrschaft der Bourgeoisie fürchtet es den sichern
+                    Untergang, 
+                    <app type="variants" xml:id="phd_4wq_4jb">
+                        <lem>einer Seits</lem>
+                        <rdg wit="#D4 #D8 #D9">einerseits</rdg>
+                    </app> in Folge der Koncentration des Kapitals, 
+                    <app type="variants" xml:id="cwj_twq_4jb">
+                        <lem>anderer Seits</lem>
+                        <rdg wit="#D4">anderseits</rdg>
+                        <rdg wit="#D8 #D9">andererseits</rdg>
+                    </app> durch das Aufkommen eines 
+                    <app type="variants" xml:id="l1w_xmr_mjb">
+                        <lem>revolutionären</lem>
+                        <rdg wit="#J3">revolutionairen</rdg>
+                    </app> Proletariats. Der 
+                    <app type="variants" xml:id="jzs_m5q_qjb">
+                        <lem>wahre</lem>
+                        <rdg wit="#D8 #D9">„wahre“</rdg>
+                    </app> Socialismus schien ihm beide Fliegen mit einer Klappe zu 
+                    <app type="variants" xml:id="uyt_dnr_mjb">
+                        <lem>schlagen. Er</lem>
+                        <rdg wit="#J3">schlagen. ⌋⌈ Er</rdg>
+                    </app> verbreitete sich wie eine Epidemie.</p>
+                <p>Das 
+                    <app type="variants" xml:id="qp4_3nr_mjb">
+                        <lem>Epidemie. ⌋⌈ Das</lem>
+                        <rdg wit="#J3">Epidemie. Das</rdg>
+                    </app> Gewand, gewirkt aus  
+                    <app type="variants" xml:id="h4v_qnr_mjb">
+                        <lem>spekulativem</lem>
+                        <rdg wit="#J3">speculativem</rdg>
+                    </app> Spinnweb, überstickt mit schöngeistigen Redeblumen, 
+                    <app type="variants" xml:id="nqx_xnr_mjb">
+                        <lem>durchtränkt</lem>
+                        <rdg wit="#J3">durchdrängt</rdg>
+                    </app> von liebesschwülem Gemüthsthau, dies 
+                    <app type="variants" xml:id="p4p_d4r_mjb">
+                        <lem>überschwängliche</lem>
+                        <rdg wit="#J3">überschwengliche</rdg>
+                    </app> Gewand, worin die deutschen Socialisten ihre paar knöchernen 
+                    <app type="variants" xml:id="pqh_v5q_qjb">
+                        <lem>ewigen Wahrheiten</lem>
+                        <rdg wit="#D8 #D9">„ewigen Wahrheiten“</rdg>
+                    </app> einhüllten, vermehrte nur den Absatz ihrer Waare bei diesem 
+                    <app type="variants" xml:id="pfs_j4r_mjb">
+                        <lem>Publikum</lem>
+                        <rdg wit="#J3">Publicum</rdg>
+                    </app>.</p>
+                <p><app type="variants" xml:id="w1j_1vq_qjb">
+                        <lem>Seiner Seits</lem>
+                        <rdg wit="#D8 #D9">Seinerseits</rdg>
+                    </app> erkannte der deutsche Socialismus immer mehr seinen Beruf, der
+                    hochtrabende Vertreter dieser Pfahlbürgerschaft zu sein.</p>
+                <p>Er 
+                    <app type="variants" xml:id="v3t_44r_mjb">
+                        <lem>sein. ⌋⌈ Er</lem>
+                        <rdg wit="#J3">sein. Er</rdg>
+                    </app> proklamirte die deutsche Nation als die normale Nation und den deutschen
+                    Spießbürger als den Normal-Menschen. Er gab jeder Niedertracht desselben einen
+                    verborgenen höheren socialistischen Sinn, worin sie ihr Gegentheil bedeutete. Er
+                    zog die letzte 
+                    <app type="variants" xml:id="s34_54r_mjb">
+                        <lem>Konsequenz</lem>
+                        <rdg wit="#J3">Consequenz</rdg>
+                    </app>, indem er 
+                    <app type="variants" xml:id="scj_x4r_mjb">
+                        <lem>direkt</lem>
+                        <rdg wit="#J3">direct</rdg>
+                    </app> gegen die 
+                    <app type="variants" xml:id="vhg_1pr_mjb">
+                        <lem>rohdestruktive</lem>
+                        <rdg wit="#J3">roh destructive</rdg>
+                        <rdg wit="#D8 #D9">„rohdestruktive“</rdg>
+                    </app> Richtung des 
+                    <app type="variants" xml:id="pxh_2pr_mjb">
+                        <lem>Kommunismus auftrat,</lem>
+                        <rdg wit="#J3">Communismus auftrat</rdg>
+                    </app> und seine unparteiische Erhabenheit
+                    über alle Klassenkämpfe verkündete. Mit sehr wenigen Ausnahmen 
+                    <choice>
+                        <sic>gehören</sic>
+                        <corr cert="high">gehört<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> alles, was in Deutschland von angeblich socialistischen und
+                    kommunistischen Schriften 
+                    <app type="variants" xml:id="xwm_qpr_mjb">
+                        <lem>cirkulirt</lem>
+                        <rdg wit="#J3">circulirt</rdg>
+                    </app>, in den Bereich dieser schmutzigen entnervenden Literatur.</p>
+            </div>
+            <div n="3" type="title">
+                <head><hi rendition="#c"><hi rendition="#g">2) Der </hi></hi>
+                    <app type="variants" xml:id="eyk_rsx_mjb">
+                        <lem><hi rendition="#c"><hi rendition="#g">konservative</hi></hi></lem>
+                        <rdg wit="#J3"><hi rendition="#g">Konservative</hi></rdg>
+                    </app><hi rendition="#c"><hi rendition="#g"> oder Bourgeois-Socialismus.</hi></hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Ein Theil der Bourgeoisie wünscht den 
+                    <app type="variants" xml:id="cyk_vrv_qjb">
+                        <lem><hi rendition="#g">socialen Mißständen</hi></lem>
+                        <rdg wit="#D8 #D9">socialen Mißständen</rdg>
+                    </app> abzuhelfen, um den Bestand der bürgerlichen Gesellschaft zu sichern.</p>
+                <p>Es gehören 
+                    <app type="variants" xml:id="tpc_j5x_mjb">
+                        <lem>hierher,</lem>
+                        <rdg wit="#J3">hierher</rdg>
+                        <rdg wit="#D9">hierher:</rdg>
+                    </app> Oekonomisten, Philanthropen, Humanitäre, Verbesserer der Lage der
+                    arbeitenden Klassen, 
+                    <app type="variants" xml:id="nfn_45x_mjb">
+                        <lem>Wohlthätigkeits-Organisirer</lem>
+                        <rdg wit="#J3">Wohlthätigkeitsorganisation</rdg>
+                    </app>, Abschaffer der Thierquälerei, 
+                    <app type="variants" xml:id="fr5_s5x_mjb">
+                        <lem>Mäßigkeits-Vereinsstifer</lem>
+                        <rdg wit="#J3">Mäßigkeitsvereinsstifter</rdg>
+                    </app>, Winkelreformer der buntscheckigsten Art. Und auch zu
+                    ganzen Systemen ist dieser Bourgeois-Socialismus ausgearbeitet worden.</p>
+                <p>Als
+                    <app type="variants" xml:id="dm2_x5x_mjb">
+                        <lem>worden. ⌋⌈ Als</lem>
+                        <rdg wit="#J3">worden. Als</rdg>
+                    </app> Beispiel führen wir 
+                    <app type="variants" xml:id="krs_cvx_mjb">
+                        <lem>Proudhon’s</lem>
+                        <rdg wit="#J3">Proudhons</rdg>
+                    </app> Philosophie de la 
+                    <choice>
+                        <sic>misere</sic>
+                        <corr cert="high">misère<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice>
+                    <app type="variants" xml:id="q4g_hsv_qjb">
+                        <lem>misère</lem>
+                        <rdg wit="#D8 #D9">Misère</rdg>
+                    </app> an.</p>
+                <p>Die socialistischen Bourgeois wollen die Lebensbedingungen der modernen
+                    Gesellschaft ohne die nothwendig daraus hervorgehenden Kämpfe und Gefahren. Sie
+                    wollen die bestehende Gesellschaft mit Abzug der sie revolutionirenden und sie
+                    auflösenden Elemente. Sie wollen die Bourgeoisie ohne das 
+                    <app type="variants" xml:id="yp3_mvx_mjb">
+                        <lem>Proletariat. Die</lem>
+                        <rdg wit="#J3">Proletariat. ⌋⌈ Die</rdg>
+                    </app> Bourgeoisie stellt sich die Welt, worin sie herrscht, natürlich als die beste
+                    Welt vor. Der Bourgeois-Socialismus arbeitet diese tröstliche Vorstellung zu
+                    einem halben oder ganzen System aus. Wenn er das Proletariat auffordert seine
+                    Systeme zu verwirklichen, um in das neue Jerusalem einzugehen, so verlangt er im
+                    Grunde nur, daß es in der jetzigen Gesellschaft stehen bleibe, aber seine
+                    gehässigen Vorstellungen von derselben abstreife.</p>
+                <p>Eine zweite, weniger systematische und mehr praktische Form 
+                    <app type="variants" xml:id="btb_xvx_mjb">
+                        <lem>des Socialismus</lem>
+                        <rdg wit="#J3">des conservativen Socialismus</rdg>
+                        <rdg wit="#D5">dieses Socialismus</rdg>
+                    </app> suchte der Arbeiterklasse jede 
+                    <app type="variants" xml:id="nsk_bwx_mjb">
+                        <lem>revolutionäre</lem>
+                        <rdg wit="#J3">revolutionaire</rdg>
+                    </app> Bewegung zu verleiden, durch den Nachweis, wie nicht diese oder jene politische 
+                    <app type="variants" xml:id="d31_fwx_mjb">
+                        <lem>Veränderung</lem>
+                        <rdg wit="#J3">Verändrung</rdg>
+                    </app>, sondern nur eine 
+                    <app type="variants" xml:id="qkz_3wx_mjb">
+                        <lem>Veränderung</lem>
+                        <rdg wit="#J3">Verändrung</rdg>
+                    </app> der materiellen Lebensverhältnisse, der 
+                    <app type="variants" xml:id="sz4_mwx_mjb">
+                        <lem>ökonomischen</lem>
+                        <rdg wit="#J3">öconomischen</rdg>
+                    </app> Ver<pb n="21"/>hältnisse ihr von Nutzen sein könne. Unter Veränderung der 
+                    materiellen Lebensverhältnisse versteht dieser Socialismus aber keineswegs Abschaffung 
+                    der bürgerlichen 
+                    <app type="variants" xml:id="g5f_swx_mjb">
+                        <lem>Produktions-Verhältnisse</lem>
+                        <rdg wit="#J3">Productionsverhältnisse</rdg>
+                    </app>, die nur auf 
+                    <app type="variants" xml:id="avw_vwx_mjb">
+                        <lem>revolutionärem</lem>
+                        <rdg wit="#J3">revolutionairem</rdg>
+                    </app> Wege möglich ist, sondern administrative Verbesserungen, die auf dem Boden dieser 
+                    <app type="variants" xml:id="evy_zwx_mjb">
+                        <lem>Produktionsverhältnisse</lem>
+                        <rdg wit="#J3">Productionsverhältnisse</rdg>
+                    </app> vor sich 
+                    <app type="variants" xml:id="kgj_dxx_mjb">
+                        <lem>gehen;</lem>
+                        <rdg wit="#J3 #D8 #D9">gehen,</rdg>
+                    </app> also an dem Verhältniß von Kapital und
+                    Lohnarbeit nichts ändern, sondern im besten Fall der Bourgeoisie die Kosten
+                    ihrer Herrschaft vermindern und ihren Staatshaushalt vereinfachen.</p>
+                <p>Seinen entsprechenden Ausdruck erreicht der Bourgeois-Socialismus erst da, wo er
+                    zur bloßen rednerischen Figur wird.</p>
+                <p>Freier Handel! im Interesse der arbeitenden 
+                    <app type="variants" xml:id="wny_jxx_mjb">
+                        <lem>Klasse;</lem>
+                        <rdg wit="#J3">Klasse,</rdg>
+                    </app> Schutzzölle! im Interesse der arbeitenden Klasse; Zellengefängnisse! im 
+                    Interesse der arbeitenden 
+                    <app type="variants" xml:id="nvy_htv_qjb">
+                        <lem>Klasse,</lem>
+                        <rdg wit="#D8 #D9">Klasse:</rdg>
+                    </app> das ist das letzte, das 
+                    <app type="variants" xml:id="anh_ptv_qjb">
+                        <lem>einzig</lem>
+                        <rdg wit="#D8 #D9">einzige</rdg>
+                    </app> ernst gemeinte Wort des Bourgeois-Socialismus.</p>
+                <p><app type="variants" xml:id="hgq_wtv_qjb">
+                        <lem>Ihr Socialismus</lem>
+                        <rdg wit="#D8 #D9">Der Socialismus der Bourgeoisie</rdg>
+                    </app> besteht eben in der Behauptung, daß die Bourgeois Bourgeois sind
+                    — im Interesse der arbeitenden Klasse.</p>
+            </div>
+            <div n="3" type="title">
+                <head><hi rendition="#c"><hi rendition="#g">3) Der kritisch-utopistische Socialismus und Kommunismus.</hi></hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Wir reden hier nicht von der Literatur, die in allen großen modernen Revolutionen
+                    die Forderungen des Proletariats aussprach (Schriften 
+                    <app type="variants" xml:id="egd_jxt_5jb">
+                        <lem>Babeufs u. s. w.</lem>
+                        <rdg wit="#D9">Baboeuf’s &amp;c.</rdg>
+                    </app>).</p>
+                <p>Die ersten Versuche des Proletariats in einer Zeit allgemeiner Aufregung, in der
+                    Periode des Umsturzes der feudalen Gesellschaft 
+                    <app type="variants" xml:id="psr_lyx_mjb">
+                        <lem>direkt</lem>
+                        <rdg wit="#J3">direct</rdg>
+                    </app> sein eignes
+                    Klasseninteresse durchzusetzen, scheiterten nothwendig an der unentwickelten
+                    Gestalt des Proletariats selbst, wie an dem Mangel der materiellen Bedingungen
+                    seiner Befreiung, die eben erst das 
+                    <app type="variants" xml:id="vk2_syx_mjb">
+                        <lem>Produkt</lem>
+                        <rdg wit="#J3">Product</rdg>
+                    </app> der bürgerlichen Epoche 
+                    <app type="variants" xml:id="qg5_wyx_mjb">
+                        <lem>sind. Die revolutionäre</lem>
+                        <rdg wit="#J3">sind. ⌋⌈ Die revolutionaire</rdg>
+                    </app> Literatur, welche diese ersten Bewegungen des Proletariats
+                    begleitete, ist dem Inhalt nach nothwendig 
+                    <app type="variants" xml:id="qbb_czx_mjb">
+                        <lem>reaktionär</lem>
+                        <rdg wit="#J3">reactionair</rdg>
+                    </app>. Sie lehrt einen allgemeinen Ascetismus und eine rohe Gleichmacherei.</p>
+                <p>Die eigentlich socialistischen und kommunistischen Systeme, die Systeme
+                    St. Simons, 
+                    <app type="variants" xml:id="fwn_cvv_qjb">
+                        <lem>Fourriers</lem>
+                        <rdg wit="#D8 #D9">Fouriers</rdg>
+                    </app>, 
+                    <app type="variants" xml:id="qsl_bcy_mjb">
+                        <lem>Owens,</lem>
+                        <rdg wit="#J3">Owens</rdg>
+                    </app> u. s. w. tauchen auf in der ersten unentwickelten Periode des 
+                    <app type="variants" xml:id="mhc_fcy_mjb">
+                        <lem>Kampfes</lem>
+                        <rdg wit="#J3">Kampfs</rdg>
+                    </app> zwischen Proletariat und Bourgeoisie, die wir oben dargestellt 
+                    <app type="variants" xml:id="fxg_kcy_mjb">
+                        <lem>haben. (S. Bourgeoisie und Proletariat.)</lem>
+                        <rdg wit="#J3">haben.</rdg>
+                    </app></p>
+                <p>Die Erfinder dieser Systeme sehen zwar den Gegensatz der Klassen, wie die
+                    Wirksamkeit der auflösenden Elemente in der herrschenden Gesellschaft selbst.
+                    Aber sie erblicken auf der Seite 
+                    <choice>
+                        <sic>der</sic>
+                        <corr cert="high">des<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> Proletariats keine geschichtliche Selbstthätigkeit, keine ihm
+                    eigenthümliche politische Bewegung.</p>
+                <p>Da die Entwicklung des Klassengegensatzes gleichen Schritt hält mit der
+                    Entwicklung der Industrie, finden sie eben so wenig die materiellen Bedingungen
+                    zur Befreiung des Proletariats vor, und suchen nach einer socialen Wissenschaft,
+                    nach socialen Gesetzen, um diese Bedingungen zu schaffen.</p>
+                <p>An
+                    <app type="variants" xml:id="nsr_5cy_mjb">
+                        <lem>schaffen. ⌋⌈ An</lem>
+                        <rdg wit="#J3">schaffen. An</rdg>
+                    </app> die Stelle der gesellschaftlichen Thätigkeit muß ihre persönlich erfinderische
+                    Thätigkeit treten, an die Stelle der geschichtlichen Bedingungen der Befreiung
+                    phantastische, an die Stelle der allmählig vor sich gehenden Organisation des
+                    Proletariats zur Klasse eine eigens ausgeheckte Organisation 
+                    <app type="variants" xml:id="djc_cdy_mjb">
+                        <lem>der</lem>
+                        <rdg wit="#J3">oder</rdg>
+                    </app> Gesellschaft. Die kommende Weltgeschichte löst sich für sie auf in die 
+                    Propaganda und die praktische Ausführung ihrer Gesellschaftspläne.</p>
+                <p>Sie sind sich zwar bewußt in ihren Plänen 
+                    <choice>
+                        <sic>hauptsachlich</sic>
+                        <corr cert="high">hauptsächlich<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> das Interesse der arbeitenden Klasse als der leidendsten Klasse zu
+                    vertreten. Nur unter diesem Gesichtspunkt der leidendsten Klasse existirt das
+                    Proletariat für sie.</p>
+                <p>Die <app type="variants" xml:id="qxd_kdy_mjb">
+                        <lem>sie. ⌋⌈ Die</lem>
+                        <rdg wit="#J3">sie. Die</rdg>
+                    </app> unentwickelte Form des Klassenkampfes, wie ihre 
+                    <app type="variants" xml:id="cql_4dy_mjb">
+                        <lem>eigene</lem>
+                        <rdg wit="#J3">eigne</rdg>
+                    </app> Lebenslage bringen es aber mit sich, daß sie weit über 
+                    <app type="variants" xml:id="rpm_vvv_qjb">
+                        <lem>jenen</lem>
+                        <rdg wit="#D8 #D9">jenem</rdg>
+                    </app> Klassengegensatz erhaben zu sein glauben. Sie wollen die Lebenslage aller
+                    Gesellschaftsglieder, auch <pb n="22"/> der bestgestellten verbessern. Sie 
+                    <app type="variants" xml:id="cjv_vdy_mjb">
+                        <lem>appelliren</lem>
+                        <rdg wit="#J3">appeliren</rdg>
+                    </app> daher fortwährend an die ganze Gesellschaft ohne Unterschied, ja
+                    vorzugsweise an die herrschende Klasse. Man braucht ihr System ja nur zu
+                    verstehen, um es als den bestmöglichen Plan der bestmöglichen Gesellschaft
+                    anzuerkennen.</p>
+                <p>Sie verwerfen daher alle politische, namentlich alle revolutionäre Aktion
+                    <app type="variants" xml:id="gns_12y_mjb">
+                        <lem>revolutionäre Aktion</lem>
+                        <rdg wit="#J3">revolutionaire Action</rdg>
+                    </app>, sie wollen ihr Ziel auf friedlichem Wege erreichen und versuchen durch kleine
+                    natürlich fehlschlagende Experimente, durch die Macht des Beispiels dem neuen
+                    gesellschaftlichen Evangelium Bahn zu brechen.</p>
+                <p><app type="variants" xml:id="tmq_xzt_5jb">
+                        <lem>Diese</lem>
+                        <rdg wit="#D9">Die</rdg>
+                    </app> phantastische Schilderung der zukünftigen Gesellschaft 
+                    <app type="variants" xml:id="snt_g2y_mjb">
+                        <lem>entspricht</lem>
+                        <rdg wit="#J3">entspricht,</rdg>
+                        <rdg wit="#D8 #D9">entspringt</rdg>
+                    </app> in einer Zeit, wo das Proletariat noch höchst unentwickelt ist, also selbst noch
+                    phantastisch seine 
+                    <app type="variants" xml:id="mp4_k2y_mjb">
+                        <lem>eigene</lem>
+                        <rdg wit="#J3">eigne</rdg>
+                    </app> Stellung auffaßt, seinem ersten ahnungsvollen Drängen
+                    nach einer allgemeinen Umgestaltung der Gesellschaft.</p>
+                <p>Die socialistischen und kommunistischen Schriften bestehen aber auch aus
+                    kritischen Elementen. Sie greifen alle Grundlagen der bestehenden Gesellschaft
+                    an. Sie haben daher höchst werthvolles Material zur Aufklärung der Arbeiter
+                    geliefert. Ihre positiven Sätze über die zukünftige Gesellschaft, 
+                    <app type="variants" xml:id="kzn_s2y_mjb">
+                        <lem>z. B.,</lem>
+                        <rdg wit="#J3">z. B.</rdg>
+                    </app> Aufhebung des 
+                    <app type="variants" xml:id="gtw_w2y_mjb">
+                        <lem>Gegensatzes von Stadt</lem>
+                        <rdg wit="#J3">Gegensatzes Stadt</rdg>
+                        <rdg wit="#D8 #D9">Gegensatzes zwischen Stadt</rdg>
+                    </app> und Land, der Familie, des Privaterwerbs,
+                    der Lohnarbeit, die Verkündung der gesellschaftlichen Harmonie, die Verwandlung
+                    des Staats in eine bloße Verwaltung der 
+                    <app type="variants" xml:id="b5d_cfy_mjb">
+                        <lem>Produktion</lem>
+                        <rdg wit="#J3">Production</rdg>
+                    </app> — alle diese ihre Sätze drücken blos das Wegfallen des 
+                    Klassengegensatzes aus, der eben erst sich zu entwickeln beginnt, 
+                    den sie nur noch in seiner ersten gestaltlosen Unbestimmtheit kennen. 
+                    Diese Sätze selbst haben daher noch einen rein utopistischen Sinn.</p>
+                <p>Die Bedeutung des 
+                    <app type="variants" xml:id="frm_jfy_mjb">
+                        <lem>kritischen utopistischen</lem>
+                        <rdg wit="#J3 #D8 #D9">kritisch-utopistischen</rdg>
+                    </app> Socialismus und Kommunismus steht im
+                    umgekehrten Verhältniß zur geschichtlichen Entwicklung. In demselben Maaße,
+                    worin der Klassenkampf sich entwickelt und gestaltet, verliert diese
+                    phantastische Erhebung über denselben, diese phantastische Bekämpfung desselben,
+                    allen praktischen Werth, alle theoretische Berechtigung. Waren daher die Urheber
+                    dieser Systeme auch in vieler Beziehung 
+                    <app type="variants" xml:id="nhm_gpy_mjb">
+                        <lem>revolutionär</lem>
+                        <rdg wit="#J3">revolutionair</rdg>
+                    </app>, so bilden ihre Schüler jedes Mal 
+                    <app type="variants" xml:id="i35_kpy_mjb">
+                        <lem>reaktionäre</lem>
+                        <rdg wit="#J3">reactionaire</rdg>
+                    </app> Sekten. Sie halten die alten Anschauungen der Meister fest
+                    gegenüber der geschichtlichen Fortentwicklung des Proletariats. Sie suchen daher
+                    konsequent den Klassenkampf wieder abzustumpfen und die Gegensätze zu
+                    vermitteln. Sie träumen noch immer die versuchsweise Verwirklichung ihrer
+                    gesellschaftlichen Utopien, Stiftung einzelner 
+                    <app type="variants" xml:id="dqk_spy_mjb">
+                        <lem>Phalanstere</lem>
+                        <rdg wit="#J3">Phalanstern</rdg>
+                    </app>, Gründung von
+                    <app type="variants" xml:id="r4z_vpy_mjb">
+                        <lem>home-Colonien</lem>
+                        <rdg wit="#J3">home-Kolonieen</rdg>
+                        <rdg wit="#D8">Home-Colonien</rdg>
+                        <rdg wit="#D9">Home-Kolonien</rdg>
+                    </app>, Errichtung eines kleinen 
+                    <choice>
+                        <sic>Icariens,</sic>
+                        <corr cert="high">Icariens<note type="editorial">Korrigiert nach J<g rendition="sup">3</g>.</note></corr>
+                    </choice> — Duodez-Ausgabe des neuen Jerusalems — und zum Aufbau aller dieser 
+                    spanischen Schlösser müssen sie an die Philanthropie der bürgerlichen Herzen 
+                    und Geldsäcke appelliren. Allmählig fallen sie in die Categorie der oben 
+                    geschilderten 
+                    <app type="variants" xml:id="hkm_qqy_mjb">
+                        <lem>reaktionären oder konservativen</lem>
+                        <rdg wit="#J3">reaktionairen oder conservativen</rdg>
+                    </app> Socialisten, und unterscheiden sich nur 
+                    <app type="variants" xml:id="lfg_rxv_qjb">
+                        <lem>mehr</lem>
+                        <rdg wit="#D8 #D9">noch</rdg>
+                    </app> von ihnen durch mehr systematische Pedanterie, durch den fanatischen 
+                    Aberglauben an die Wunderwirkungen ihrer socialen Wissenschaft.</p>
+                <p>Sie treten daher mit Erbitterung aller politischen Bewegung der Arbeiter
+                    entgegen, die nur aus blindem Unglauben an das neue Evangelium hervorgehen
+                    konnte.</p>
+                <p>Die Owenisten in England, die 
+                    <app type="variants" xml:id="y54_qby_4jb">
+                        <lem>Fourrieristen</lem>
+                        <rdg wit="#D4 #D8 #D9">Fourieristen</rdg>
+                    </app> in Frankreich, reagiren dort gegen die Chartisten, hier gegen die 
+                    Reformisten.</p>
+            </div>
+            <div n="2" type="title">
+                <head><hi rendition="#c"><hi rendition="#b">IV. Stellung der Kommunisten zu den verschiedenen oppositionellen Parteien.</hi></hi></head>
+            </div>
+            <div n="5" type="chapter">
+                <p>Nach Abschnitt 
+                    <app type="variants" xml:id="m15_gc5_5jb">
+                        <lem>2</lem>
+                        <rdg wit="#D9">II.</rdg>
+                    </app> versteht sich das Verhältniß der Kommunisten zu den bereits
+                    konstituirten Arbeiterparteien von selbst, also ihr Verhältniß zu den Chartisten
+                    in England und den agrarischen Reformern in Nordamerika.</p>
+                <pb n="23"/>
+                <p>Sie kämpfen für die Erreichung der unmittelbar vorliegenden Zwecke und Interessen
+                    der Arbeiterklasse, aber sie vertreten in der gegenwärtigen Bewegung zugleich
+                    die Zukunft der Bewegung. In Frankreich schließen sich die Kommunisten an die
+                    socialistisch-demokratische Partei an gegen die konservative und radikale
+                    Bourgeoisie, ohne darum das Recht aufzugeben sich kritisch zu den aus der
+                    revolutionären Ueberlieferung herrührenden Phrasen und Illusionen zu
+                    verhalten.</p>
+                <p>In der Schweiz unterstützen sie die Radikalen, ohne zu verkennen, daß diese
+                    Partei aus widersprechenden Elementen besteht, theils aus demokratischen
+                    Socialisten im französischen Sinn, theils aus radikalen Bourgeois.</p>
+                <p>Unter den Polen unterstützen die Kommunisten die Partei, welche eine agrarische
+                    Revolution zur Bedingung der nationalen Befreiung 
+                    <app type="variants" xml:id="x3m_4yv_qjb">
+                        <lem>macht. Dieselbe</lem>
+                        <rdg wit="#D8 #D9">macht, dieselbe</rdg>
+                    </app> Partei, welche die Krakauer Insurrektion von 1846 in’s Leben rief.</p>
+                <p>In Deutschland kämpft die kommunistische Partei, sobald die Bourgeoisie
+                    revolutionär auftritt, gemeinsam mit der Bourgeoisie gegen die absolute
+                    Monarchie, das feudale Grundeigenthum und die Kleinbürgerei.</p>
+                <p>Sie unterläßt aber keinen Augenblick bei den Arbeitern ein möglichst klares
+                    Bewußtsein über den feindlichen Gegensatz 
+                    <app type="variants" xml:id="e2d_vyv_qjb">
+                        <lem>von</lem>
+                        <rdg wit="#D8 #D9">zwischen</rdg>
+                    </app> Bourgeoisie und Proletariat herauszuarbeiten, damit die deutschen Arbeiter 
+                    sogleich die gesellschaftlichen und politischen Bedingungen, welche die 
+                    Bourgeoisie mit ihrer Herrschaft herbeiführen muß, als eben so viele Waffen gegen 
+                    die Bourgeoisie kehren können, damit, nach dem Sturz der reaktionären Klassen in 
+                    Deutschland, sofort der Kampf gegen die Bourgeoisie selbst beginnt.</p>
+                <p>Auf Deutschland richten die Kommunisten ihre Hauptaufmerksamkeit, weil
+                    Deutschland am Vorabend einer bürgerlichen Revolution steht, und weil es diese
+                    Umwälzung unter fortgeschritteneren Bedingungen der europäischen Civilisation
+                    überhaupt, und mit einem viel weiter entwickelten Proletariat vollbringt als
+                    England im 
+                    <app type="variants" xml:id="n1g_ld5_5jb">
+                        <lem>siebenzehnten</lem>
+                        <rdg wit="#D9">17.</rdg>
+                    </app> und Frankreich im 
+                    <app type="variants" xml:id="uxd_4d5_5jb">
+                        <lem>achtzehnten</lem>
+                        <rdg wit="#D9">18.</rdg>
+                    </app> Jahrhundert, die deutsche bürgerliche Revolution also nur das unmittelbare 
+                    Vorspiel einer proletarischen Revolution sein kann.</p>
+                <p>Mit einem Wort, die Kommunisten unterstützen überall jede revolutionäre Bewegung
+                    gegen die bestehenden gesellschaftlichen und politischen Zustände.</p>
+                <p>In allen diesen Bewegungen heben sie die Eigenthumsfrage, welche mehr oder minder
+                    entwickelte Form sie auch angenommen haben möge, als die Grundfrage der Bewegung
+                    hervor.</p>
+                <p>Die Kommunisten arbeiten endlich überall an der Verbindung und Verständigung der
+                    demokratischen Parteien aller Länder.</p>
+                <p>Die Kommunisten verschmähen es, ihre Ansichten und Absichten zu verheimlichen.
+                    Sie erklären es offen, daß ihre Zwecke nur erreicht werden können durch den
+                    gewaltsamen Umsturz aller bisherigen Gesellschaftsordnung. Mögen die
+                    herrschenden Klassen vor einer Kommunistischen Revolution zittern. Die
+                    Proletarier haben nichts in ihr zu verlieren als ihre Ketten. Sie haben eine
+                    Welt zu gewinnen.</p>
+                <p><hi rendition="#c"><hi rendition="#g">Proletarier aller 
+                    <choice>
+                        <sic>Lander</sic>
+                        <corr cert="high">Länder</corr>
+                </choice> vereinigt Euch!</hi></hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

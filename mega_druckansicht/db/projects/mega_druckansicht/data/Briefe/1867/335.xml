@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00344" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>335</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 7. September 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4489/L VI 622</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 228 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Die erste Seite hat Marx vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+              Briefes auf der ersten Seite oben rechts mit Bleistift: „29“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2074</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+              (1913)<?oxy_custom_end?>. S. 405.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-09-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00346"/>
+                </correspContext>
+        <note>Engels antwortete Marx am 9. September 1867 (siehe <ref target="B00346"><?oxy_comment_start author="lindenberg" timestamp="20190219T150024+0100" comment="Br. 337"?>Engels
+                        an Marx, 9.9.1867</ref><?oxy_comment_end?>).</note>
+        <note>Zur überlieferten <ref target="B00341">Beilage</ref> zum Brief („Einliegend 1 Brief v.
+                    Lessner“) siehe Erl. Die weiteren Beilagen zum Brief („newest 'Dipl. Review'“)
+                    sind nicht überliefert. Siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:42Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> 7 Sept. 1867.</dateline>
+          <salute><hi rendition="#u">In Eile</hi>.</salute>
+        </opener>
+        <p>Dear Fred,</p>
+        <p><seg type="comment"><orig>Einliegend 1 Brief v. <persName key="ed_l54_cks_xy">Lessner</persName>.</orig><note xml:id="ac191baf-0a80-455d-87ae-c9b3237e01f1"> Siehe <ref target="B00341"><?oxy_comment_start author="reichhoff" timestamp="20180528T143405+0200" comment="(Br. 332)"?>F.
+                                Leßner an Marx, 4. und
+                        5.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Die<bibl sameAs="ed_ymr_nhj_tgb">
+                                Gazettes de Lausanne</bibl> hatte ich schon.</orig><note xml:id="a65fb025-4473-4e19-9160-b771b4263095">Siehe <ref target="B00341"><?oxy_comment_start author="reichhoff" timestamp="20180618T145858+0200" comment="Br. 332.40–42"?>F.
+                                Leßner an Marx, 4. und
+                        5.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Die <hi rendition="#u"><bibl sameAs="ed_cct_4hf_lbb">Times</bibl></hi> streicht schändlich den
+                                <expan><persName key="pdrPo.001.004.000001296">E<ex>ccarius</ex></persName></expan>.</orig><note xml:id="e06d5c87-4bf8-45a3-b67c-539c8bfdb43f">Verweis auf den ersten
+                            Beitrag der Artikelserie von <persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName> über den Lausanner Kongreß der
+                            Internationalen Arbeiterassoziation (siehe <ref target="B00337">Erl. zu
+                                Marx an Engels, 31.8.1867</ref> „Congress von Lausanne ...“). Er
+                            enthielt die Information über die Eröffnung des Kongresses und seine
+                            erste Sitzung vom 2. September 1867. Siehe [Johann Georg Eccarius:]
+                            International Working Men’s Congress. (From a correspondent.) In: The
+                            Times. London. Nr. 25 909, 6. September 1867. S. 8, Sp. 6. Weitere
+                            Artikel unter diesem Titel erschienen in den Nummern 25 910 (S. 10,
+                            Sp. 6), 25 911 (S. 9, Sp. 3), 25 912 (S. 8, Sp. 6) und 25 913 (S. 8, Sp.
+                            4) am 7., 9., 10. und 11. September
+                            1867.<?oxy_comment_start author="lindenberg" timestamp="20190206T175728+0100" comment="entfernt: In seinen Artikeln kommentierte Eccarius mit Ironie die verworrenen Ansichten und die Redseligkeit der französischen Delegierten (Proudhonisten) auf dem Kongreß."?><?oxy_comment_end?></note></seg>
+                    Ich schicke Dir gleichzeitig <seg type="comment"><orig>newest „<bibl sameAs="ed_vyj_nhf_lbb">Dipl.
+                            Review</bibl>“</orig><note xml:id="a51f3b32-f96e-4027-a879-eac474ae34fd">Offensichtlich übersandte Marx die September-Nummer der <bibl sameAs="ed_vyj_nhf_lbb">Monatsschrift</bibl>, die
+                            am ersten Mittwoch jedes Monats erschien. – The Diplomatic Review (Free
+                            Press). Journal of the Foreign Affairs Committees. London. Vol. 15. Nr.
+                            9, 4. September 1867.</note></seg> u. <seg type="comment"><orig>Nummern
+                            v. <expan>d<ex>em</ex></expan>
+                            <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb">Courrier Franç.</bibl></hi></orig><note xml:id="ea77b25a-c946-4e5e-930b-12fa8873cf71">Marx übersandte die
+                            Nummern vom 5. und 6. September 1867. Siehe
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T145613+0200" comment="Z. 7–10"?>oben<?oxy_comment_end?>
+                            und <ref target="B00346"><?oxy_comment_start author="reichhoff" timestamp="20180528T143603+0200" comment="(Br. 337.4–7 "?>Engels
+                                an Marx, 9.9.1867<?oxy_comment_end?></ref> „Die Courriers ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T114605+0200" comment="(Br. 337.4–7 und Erl. 337c)"?>Erl.<?oxy_comment_end?></note></seg>,
+                    die ich immer <hi rendition="#u">zurück</hi> haben muß. <seg type="comment"><orig>Der <bibl sameAs="ed_qkf_ghf_lbb"><hi rendition="#u">C. Fr.</hi></bibl> hat die kurze Notiz, die ich
+                            ihm über <persName key="pdrPo.001.004.000002255">Hübner</persName>
+                            schickte dadurch verblödsinnigt, daß sie an die Stelle v. tomber sous la
+                            subhastation (was ein Ausdruck des <hi rendition="#u">Code <persName key="pdrPo.001.004.000003391">Napoléon</persName></hi> ist)
+                            gesezt haben: „tomber sous le marteau des démolisseurs“.</orig><note xml:id="c7b428c5-6121-42fe-a541-1e8995775c20">Karl Marx: Le statisticien
+                            Otto Hübner sur la misère de masse en Allemagne. In: Le Courrier
+                            français. Paris. Nr. 81, 6. September 1867, S. 1, Sp. 2. Rubrik:
+                            Nouvelles. (MEGA<hi rendition="#sup">2</hi> I/20. S. 259.) Zur
+                            Erforschung der Notiz über <persName key="pdrPo.001.004.000002255">Hübner</persName> siehe Alix Guillain an IML, 20. Januar 1929
+                            (RGASPI, Sign. f. 71, op. 50, d. 132. Bl. 12). Siehe auch <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180528T143731+0200" comment="(Br. 331.63–74"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> „Erklärung O. Hübners
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T115314+0200" comment="(Br. 331.63–74 und Erl.{331t})"?>Erl<?oxy_comment_end?>.</note></seg></p>
+        <p>Adio</p>
+        <closer>D<lb/>KMarx </closer>
+      </div></body></text></TEI>

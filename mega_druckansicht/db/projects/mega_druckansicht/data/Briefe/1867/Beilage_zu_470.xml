@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_vk1_xcx_4gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paul Stumpf an Louis Kugelmann, 7. Dezember 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: RGASPI, Sign. f. 1, op. 5, d. 1786, Bl. 2. </p>
+                    <p>Der Brief ist, die Unterschrift ausgenommen, von unbekannter Hand
+                        geschrieben. </p>
+                    <p>Unten von Kugelmanns Hand der Vermerk: Adresse des „Freundes“ Dr Klein jr
+                        Institutsvorsteher / Mainz</p>
+                    <p>Der Brief ist eine Beilage zu: <ref target="B00479">Louis Kugelmann an Karl
+                            Marx in London. Hannover, Montag, 9. Dezember 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"><?oxy_comment_start author="lindenberg" timestamp="20190321T161002+0100" comment="Text anhand DARS geprüft"?>Sign.
+                                f. 1, op. 5, d. 1786, Bl. 2.</idno>
+                        </idno>
+                    </msIdentifier><?oxy_comment_end?>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div><opener>
+                <dateline><pb/> Mainz, 7 Dezember 1867</dateline>
+                <salute>Sr Wohlgeboren</salute>
+                <salute>d  Herrn D<hi rendition="#sup">r</hi>
+                        <persName key="pdrPo.001.004.000002616">L. Kugelmann</persName></salute>
+                <salute>Hannover.</salute>
+            </opener>
+                
+                <p/>
+                 <p>Ich werde mit einem <persName key="ed_lcb_fww_jjb">Freunde</persName> hier, der
+                    die Beurtheilungen in unserem Sinne mit Bereitwilligkeit machen wird &amp; kann,
+                    reden, daß in den nächsten Tagen etwas Geeignetes geschieht. Ende nächster Woche
+                    erst kann ich die Sendung nach Wiesbaden Ihrem Wunche gemäß effectuiren.</p>
+                <p>Obengenannter Freund ist einliegend genannter mit dem Sie auch direkt
+                    correspondiren können, er war voriges Jahr an der Dresdener <bibl sameAs="ed_qhf_frw_jjb" type="periodika">Reform</bibl> mitthätig &amp; hat
+                    einige kleine Critiken schon hier im Anzeiger veröffentlicht.</p>
+                <p>Freundschaftlichst</p>
+                <p><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

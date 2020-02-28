@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00295" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>286</idno>Friedrich Adolf Sorge an Karl Marx in London. Hoboken, Mittwoch, 10.
+          Juli 1867</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 4095/D VII 83 Fotosign. 7983&lt;a–b&gt;.</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              322 × 203 mm. Sorge hat die ersten zwei Seiten vollständig, die dritte Seite zu zwei
+              Dritteln beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Der Brief enthält eine Beilage; siehe „Es ist vielleicht von Interesse für Sie, ein
+              Statut unsres Kommunistischen Klubs zu besitzen, u. lege ich zu diesem Zwecke ein
+              Exemplar bei“ und Erl. sowie „Anmerkungen zum Brief“.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 21 op. 1 d. 228/1</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000004523">Sorge, Friedrich Adolph (Adolf)
+            (1828-1906)</persName>
+          <placeName key="ed_kqg_xch_4db">Hoboken</placeName>
+          <date when="1867-07-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <note>Wiedergabe der <ref target="mega_qht_trp_4gb">Beilage</ref> (Statuten des
+          Kommunisten-Klubs in New-York. Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. S 6
+          (urspr. Q 3.) Fotosign. 7983&lt;a–b&gt;. Erstveröffentlichung: gekürzt: <bibl sameAs="zotero-604880-HT5MUWDJ" type="secondary">BdK</bibl> 3. S. 489/490).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:45:52Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> Hoboken, 10 Juli 1867.</dateline>
+          <salute>Werther Herr!</salute>
+        </opener>
+        <p><seg type="comment"><orig>Es wird Ihnen durch den „<bibl sameAs="ed_s1m_ygf_lbb">Vorbote</bibl>“ bekannt geworden sein, daß wir hier in New York, von dem Hoboken
+              ein Vorstädchen ist, eine Section der International W. A. zu bilden im Begriff
+              sind,</orig><note xml:id="eba73449-b694-4cb6-8522-f40e3874c37b">„<bibl sameAs="ed_s1m_ygf_lbb">Der Vorbote</bibl>“ brachte in der Augustnummer 1867
+              folgende Information über die Gründung der Sektion der IAA in New York: „Die deutsche
+              Sektion in New-York (Adresse: F. A. Sorge, 101, Box, Hoboken J. D. New-York) ist nicht
+              nur eifrig bemüht deutsche, sondern auch englisch-amerikanische Sektionen zu gründen.
+              Auch erfahren wir soeben von Baltimor, daß der dortige Arbeiterkongreß beschlossen
+              habe, Delegierte auf unsern Kongreß nach Lausanne zu senden, um die Allianz zwischen
+              der amerikanischen und europäischen Arbeiterklasse zur Thatsache zu machen. Bravo!“
+              In: Der Vorbote. Genf. Jg. 2. Nr. 8. August 1867. S. 125. Siehe zum Folgenden auch
+                <ref target="B00293"><?oxy_comment_start author="reichhoff" timestamp="20180516T094638+0200" comment="(Br. 284.9–31)"?>S.
+                Meyer an Marx, 5.7.1867 <?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190523T145538+0200" comment="(Br. 284.9–31) und Erl. 284d, 284h"?>Erl.<?oxy_comment_end?> </note></seg>
+          u. hat der New Yorker Kommunistenklub die Vorarbeiten begonnen, so daß die Begründung
+          einer amerikanischen Zweigassociation, wenn auch in nuce, als gesichert zu betrachten ist.
+            Da<hi rendition="#u"> dieses</hi> Unternehmen vorläufig nur auf <hi rendition="#u">Deutsche</hi> Amerikaner berechnet ist, haben wir uns mit <persName key="pdrPo.001.004.000000317">J. Ph. Becker</persName>, unsrem alten Kämpen in Genf, in
+          Verbindung gesetzt, u. werden uns vorerst <seg type="comment"><orig>der dortigen
+              Sektionsgruppe deutscher Sprache</orig><note xml:id="ea65a9a8-2e27-4729-817a-e6b9df3bbba1"> Zur Sektionsgruppe der deutschen
+              Sprache siehe <ref target="B00007">Marx an J. Ph. Becker, zw. 9. u. 15.1.1866.</ref>
+              („Die deutschen Sectionen ...“) und
+              <?oxy_comment_start author="lindenberg" timestamp="20190523T150202+0200" comment="rl. 6ee.{Jg. 1866, Marx an Becker, zw. 9. u. 15.1.1866."?>Erl.<?oxy_comment_end?></note></seg>
+          anschließen. Doch hoffe ich, daß die I. A. hier so stark werde, daß in nicht zu ferner
+          Zeit wir eine eigne deutsch-amerikanische Sektionsgruppe bilden u. dann direkt mit dem
+          Generalrath in Beziehungen treten. Etwa bei Ihnen anfragende amerikanische Interessenten
+          mögen Sie direkt an mich weisen, u. bitten wir um Ihre freundliche Förderung der Sache
+          auch in der Neuen Welt, um den Kampf gegen die von der Alten Welt ererbten Erwerbs-u.
+          Besitzverhältnisse aufzunehmen. –</p>
+        <p>Doch zu dem Hauptpunkte meines Schreibens: Es ist, wenn die Internationale hier gedeihen
+          u. erfreulich wirken soll, nothwendig, daß das gewichtigere Element der
+          anglo-amerikanischen, englischredenden Arbeiter u. Gesinnungsgenossen hereingezogen u.
+          dafür interessirt werde. Dieserhalb habe ich schon mit Einigen meiner Freunde englischer
+          Zunge Rücksprache genommen u. will sie veranlassen, eine Sektion zu bilden. Dazu aber sind
+          mir <seg type="comment"><orig>die Schriftstücke der I. W. A. unentbehrlich, als da sind:
+              Manifeste, Statuten,</orig><note xml:id="e68e7e23-2888-4c54-9323-1b5405914d25">Address
+              of the International Working Men’s Association (Inaugural Address). (MEGA<hi rendition="#sup">2</hi> I/20. S. 3–12.) – [Karl Marx:] Provisional Rules of the
+              International Working Men’s Association. (Ebenda. S. 13–15.) Siehe auch Johann Georg
+              Eccarius an Marx, 14. Oktober 1867 (Br. 384f und Erl. 384f.</note></seg>
+          Beitrittsbedingungen u. vor Allem <seg type="comment"><orig>das <hi rendition="#u">Organ</hi>
+              <pb/> derselben in englischer Sprache</orig><note xml:id="ef60ebc6-ce23-470f-b8da-d1bcd5ff2c3f">Wahrscheinlich die Londoner
+              Wochenzeitung „<bibl sameAs="ed_f1z_lhf_lbb">The Bee-Hive Newspaper</bibl>“, die von
+              November 1864 bis April 1870 Organ der IAA in englischer Sprache war.</note></seg>. Es
+          ist mir augenblicklich keine andre Adresse von Beamten der Ass. in London bekannt, u.
+          darum richte ich an Sie, werther Herr, hiermit die Bitte, die Uebersendung der gewünschten
+          u. benöthigten Schriftstücke, womöglich mit begleitender Instruction (gleichviel ob in
+          englischer oder deutscher Sprache), schleunig zu vermitteln. Da Sie selbst Beamter der
+          Ass. u., soviel ich weiß, innigen Antheil am Gelingen nehmen, hoffe ich nicht vergeblich
+          mich an Sie zu wenden. Mit der Anzahl der zu übersendenden Blätter u. Papiere bitte nicht
+          zu knausern. It would be bad policy.</p>
+        <p>Wenn möglich, senden Sie die Sachen <hi rendition="#u">un</hi>frankirt. Wenn das nicht
+          geht, so belasten Sie mich damit, u. ich werde es dann übersenden, sobald es der Mühe
+          lohnt. Doch werde ich, sobald die Sache in Gang, Andre für mich in die Arbeitsstelle
+          eintreten lassen, da mir die deutschamerikanische Sektion genug Arbeit machen wird.
+          Veranlassen Sie ja die möglichst detaillirte Uebersendung von Instructionen. –</p>
+        <p>Es rührt sich auch in Amerika. Die Arbeiter fangen an, sich ein Wenig zu fühlen u. ihre
+          Bestrebungen ziehen jetzt die Augen aller Politiker auf sich, u. das ist eben in den
+          Vereinigten Staaten schlimm, da es keine nichtswürdigere Sorte von Menschen giebt, als die
+          amerikanischen Fachpolitiker. <seg type="comment"><orig>„Es geschehen Zeichen u.
+              Wunder“</orig><note xml:id="b24970bb-263c-493c-b031-f477db0b2e1d"> Siehe Die Bibel.
+              Das Alte Testament. 2. Buch Mose 7, 3 u. ö. </note></seg>, möchte man sagen, denn <seg type="comment"><orig>kürzlich hat Einer der einflußreichsten Politiker, <persName key="ed_lvs_nsk_kgb">Senator Wade</persName> von Ohio, eine Rede gehalten, die fast
+              kommunistisch klang. Das Geschrei der (bourgeois) Presse wurde darob auch so heftig,
+              daß man sich beeilte, explanations u. interpretations folgen zu lassen.</orig><note xml:id="f843011f-8760-4815-9dcb-fbd4123828c1">Marx brachte diese Mitteilung auf der
+              Generalratssitzung am 23. Juli 1867 (siehe Minutes 1866/1867. In: MEGA<hi rendition="#sup">2</hi> I/20. S. 576.21–22).</note></seg>
+          <seg type="comment"><orig><?oxy_comment_start author="lindenberg" timestamp="20190125T154734+0100" comment="    &quot;Und sie bewegt sich doch!&quot; bzw. &quot;Und sie dreht sich doch!&quot;
+
+        (Original lat.: &quot;Tamensi movetur!&quot;, Original ital.: &quot;Eppur si muove!&quot;)
+
+    Der Legende nach soll Galilei diesen Satz beim Verlassen des Inquisitionsgerichts gemurmelt haben, nachdem er dem kopernikanischen Weltbild öffentlich abschwören musste. Vgl. en:Galileo Galilei#Disputed und en:w:And yet it moves. Eventuell könnte Giordano Bruno diesen Satz auf dem Scheiterhaufen gesprochen haben.
+    https://de.wikiquote.org/wiki/Galileo_Galilei"?>E
+              pur si muove<?oxy_comment_end?></orig><note xml:id="nrqq_shq_vhb">Angeblicher
+              Ausspruch von <persName key="pdrPo.001.004.000010612">Galileo Galilei</persName>.
+            </note></seg>!!</p>
+        <closer>Mit aufrichtiger Hochachtung<lb/>Ihr</closer>
+        <closer>F.A. Sorge<lb/>box 101, Hoboken, N.J.<lb/>via New York, U.S.A.</closer>
+      </div>
+      <div type="writingSession">
+        <p/>
+        <p>Herrn Karl Marx<lb/>London. </p>
+        <p><pb/> P. S. Meine Wohnung ist für ein Jahr bis zum nächsten Mai N. 54 Fifth Str. Hoboken.
+            <persName key="pdrPo.001.004.000004960">A. Vogt</persName> aus Berlin ist seit 2 Wochen
+          hier bei mir u. bedauert sehr, Sie nicht in Hannover aufgesucht zu haben. <seg type="comment"><orig>Dem wackern <persName key="pdrPo.001.004.000002822">Liebknecht</persName> geht es sehr schlecht in Leipzig, wie Sie
+                <expan>d<ex>ur</ex>ch</expan>
+              <persName key="pdrPo.001.004.000003187">Meyer</persName> werden erfahren
+              haben.</orig><note xml:id="d3e744f4-7c4e-4a47-9d8e-645ab4b2cf47">Siehe <ref target="B00293"><?oxy_comment_start author="reichhoff" timestamp="20180516T095433+0200" comment="(Br. 284.32–40)."?>S.
+                Meyer an Marx, 5.7.1867<?oxy_comment_end?></ref> ( „Von Liebknecht
+            ...“).</note></seg> Ich habe ihm empfohlen, auch zu uns nach Amerika zu kommen, schon
+          seiner Kinder wegen. Auf <seg type="comment"><orig>Ihr Werk</orig><note xml:id="b254ce99-2630-4cdd-9b8c-ff53af04d277"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl></note></seg> (bei
+            <persName key="pdrPo.001.004.000003135">O. Meissner</persName>) freuen wir uns sehr u.
+          haben bereits nicht unansehnliche Bestellungen <expan>d<ex>ur</ex>ch</expan> Buchhändler
+            <persName key="pdrPo.001.004.000004287">L. W. Schmidt</persName> von hier gemacht. –
+          Unser alter braver <persName key="pdrPo.001.004.000002432">Fr. Kamm</persName> ist letzten
+          Mai gestorben. Ueberhaupt hat uns der Tod seit wenigen Jahren Viele der bravsten,
+          bewährtesten Kämpfer hinweggerafft. Es ist Zeit, daß ein neues, junges Geschlecht erstehe.
+          Es ist vielleicht von Interesse für Sie, <seg type="comment"><orig>ein <ref target="mega_qht_trp_4gb">Statut</ref> unsres
+                <expan>Komm<ex>unistischen</ex></expan>
+              <expan>Kl<ex>ubs</ex></expan> zu besitzen, u. lege ich zu diesem Zwecke ein Exemplar
+              bei</orig><note xml:id="c9d2d46b-4d31-427f-b042-fdb62c9abd68">Siehe die <ref target="mega_qht_trp_4gb">Beilage</ref>. – Es ist möglich, daß <persName key="pdrPo.001.004.000004523">Sorge</persName> eine von <persName key="ed_lfj_nzp_vhb">Katharina Sorge</persName> angefertigte handschriftliche Kopie
+              der „Statuten des Communisten Clubs in New York“ an Marx schickte (RGASPI, Sign.
+              f. 458, op. 1, d. 497, Bl. 1a/2). Die Statuten sind in dieser Kopie von <persName key="pdrPo.001.004.000002337"><?oxy_comment_start author="lindenberg" timestamp="20190523T155700+0200" comment="vorher: Fritz Jacoby"?>Friedrich
+                Jacobi<?oxy_comment_end?></persName> als Sekretär unterzeichnet.
+              Erstveröffentlichung der Statuten nach dieser Kopie in russischer Übersetzung
+              vollständig: Устав Коммунистического клуба в Нью-Йорке … S. 348/349. – die Statuten
+              des Kommunisten-Klubs in New-York” wurden auf dessen erster Sitzung am 25. Oktober
+              1857 angenommen.</note></seg>.</p>
+        <p>Mit herzlichen Wünschen für ihr u. Ihrer Familie Wohlergehen.</p>
+        <closer><?oxy_comment_start author="lindenberg" timestamp="20190125T141855+0100" comment="{?? Der Obige klar?}"?>D.
+          O.<?oxy_comment_end?><lb/>F. A. Sorge <pb/></closer>
+      </div>
+    </body>
+  </text>
+</TEI>

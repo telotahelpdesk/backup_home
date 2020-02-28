@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00296" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>287</idno>Otto Wigand an Karl Marx in London. Leipzig, Mittwoch, 10. Juli 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4572/D VIII 152 Fotosign. 11632&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, rosafarbigem Papier im Format 278 × 219 mm. Die
+                            ersten zwei Seiten hat Otto Wigand vollständig beschrieben, die dritte
+                            und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Engels’ Hand: auf der vierten Seite am rechten Rand mit Bleistift quer geschrieben der Vermerk: „10 Juli 67 OWigand“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1711</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000005126">Wigand, Otto (1795-1870)</persName>
+                    <placeName key="ed_rdd_5jt_qx">Leipzig</placeName><date when="1867-07-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:52Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Leipzig d. 10/VII.67.</dateline>
+                    <salute>Werthester Herr</salute>
+                </opener>
+                <p>In Folge einer ausdrücklichen Anordnung des Herrn
+                        <persName key="pdrPo.001.004.000003135">O. Meissner</persName>, sandte ich
+                    die Correcturen <seg type="comment"><orig>Ihres <bibl sameAs="zotero-604880-PT9GISVC">Werkes</bibl></orig><note xml:id="f279a0e7-2462-47eb-ac29-d6226df00514"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl></note></seg> von <seg type="comment"><orig>sig.</orig><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><note xml:id="nrtc_5lr_wfb">signatum
+                    (lat.)</note></seg><?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20181122T111518+0100" comment="???"?> <?oxy_comment_end?>24
+                    an, direct nach Hamburg. Sie haben also durch irgend welche Umstände 24 gar
+                    nicht u. 25 durch Vermittlung Ihres <seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Verlegers</persName></orig><note xml:id="nq3g_5lf_bhb"><persName key="pdrPo.001.004.000003135">Otto
+                                Meißner</persName>.</note></seg> erhalten. Ohne ein Verständniß für
+                    dies Alles, sende ich Ihnen heute sig. 24 noch einmal, u. zwar direct nach
+                    London, u. bitte höflichst um gelegentlichen Aufschluß darüber, ob Sie London
+                    demnächst verlassen wollen, <pb/> oder ob unser Correkturen-Verkehr in der
+                    früheren Weise aufrechterhalten bleiben soll.</p>
+                <p>Durch verkehrte Dispositionen entstehen immer aufs Neue
+                    Pausen im regelmäßigen Vorschreiten des Druckes, für welche ich mich als
+                    schuldlos erklären muß.</p>
+                <closer>Hochachtungsvoll<lb/>Ihr ergebener<lb/>Otto
+                    Wigand.</closer>
+                <postscript>
+                    <p>NB! Ihr Brief kam sehr ramponirt, aber mit richtigem Inhalt hier
+                        an. <pb/></p>
+                </postscript>
+            </div></body></text></TEI>

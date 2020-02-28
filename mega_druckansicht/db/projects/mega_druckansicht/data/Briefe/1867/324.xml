@@ -1,0 +1,673 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00333" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>324</idno>Friedrich Engels an Karl Marx in London. Manchester, Dienstag, 27. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1636/D III 406</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 275 × 218 mm und zwei Blätter dünnem, blauem Papier im Format 135 × 214 mm. Engels hat die erste Seite vollständig, die vierte zur Hälfte beschrieben, die zweite und die dritte Seite sind leer, die fünfte und die siebente Seite sind vollständig beschrieben, die sechste und die achte sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „25,1 bis „25,4“ (gestrichen),
+                            „27,1“, „221,1“ bis „221,4“.</p><p>Von unbekannter Hand: auf der ersten Seite mit Blaustift die Vermerke: oben „005“, am linken Rand
+                            Anstreichung der Berechnung
+                            (<?oxy_comment_start author="lindenberg" timestamp="20190405T154011+0200" comment="Z. (8–18)"?>„1860.
+                            Jan 1 ... usw. £ 1020“<?oxy_comment_end?> ) mit dem Vermerk„Petit“; auf
+                            der vierten Seite unten mit Bleistift der Vermerk: „Hierzu Blatt I u
+                            II“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2069</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913)<?oxy_custom_end?>. S. 397–400.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1867-08-27"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00330"/>
+                    <ref type="next" target="B00337"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 24. August 1867 (siehe <ref target="B00330"><?oxy_comment_start author="lindenberg" timestamp="20190219T144533+0100" comment="Br. 321"?>Marx
+                        an Engels, 24.8.1867</ref><?oxy_comment_end?>). Marx antwortete Engels am
+                    31. August 1867 (siehe <ref target="B00337"><?oxy_comment_start author="lindenberg" timestamp="20190219T144553+0100" comment="Br. 328"?>Marx
+                        an Engels, 31.8.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage zum Brief siehe  im Text („zwei Aufstellungen“ ).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:32Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 27 Aug 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p>Inl. zwei Aufstellungen über
+                    <?oxy_comment_start author="lindenberg" timestamp="20181126T095025+0100" comment="{Komma von Engels od. bei der Erstveröffentlichung?}"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="1"?>Maschinerie
+                    welche<?oxy_comment_end?><?oxy_custom_end mid="1"?> Dir die Sache ganz klar
+                    machen werden. Die Regel ist, man schreibt jedes Jahr auf den Original Betrag
+                    ab, <expan>gewöhnl<ex>ich</ex></expan>
+                    7½%, doch habe ich der Einfachheit der <expan>Rechn<ex>ung</ex></expan> halber 10% beibehalten,
+                    was für manche <expan>Maschin<ex>erie</ex></expan> auch nicht zu viel. Also z.B.</p>
+                <table rend="rules">
+                    <row>
+                        <cell>1860. Jan 1.</cell>
+                        <cell>angeschafft</cell>
+                        <cell>£ 1000.–</cell>
+                    </row>
+                    <row>
+                        <cell>1861. Jan 1.</cell>
+                        <cell>Abschrift 10%</cell>
+                        <cell>” 100.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 900.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Neu Angeschafft</cell>
+                        <cell>” 200.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 1100.–</cell>
+                    </row>
+                    <row>
+                        <cell>1862. Jan. 1.</cell>
+                        <cell>Abschrift 10% £ 1200.– (£ 1000 + £ 200)</cell>
+                        <cell>” 120.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 980.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Neu angeschafft</cell>
+                        <cell>” 200.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 1180.–</cell>
+                    </row>
+                    <row>
+                        <cell>1863. Jan 1.</cell>
+                        <cell>Abschrift 10% £ 1000.– + £ 200.– +
+                            £ 200.–</cell>
+                        <cell>” 140.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>usw.</cell>
+                        <cell><seg type="comment"><orig>£ 1020.</orig><note xml:id="nmfc_vkv_xfb">eigentl. £ 1040.</note></seg>–</cell>
+                    </row>
+                </table>
+                <p>In Aufstellung N<hi rendition="#sup">o </hi>1. nehme ich
+                    nun an, daß der Fabrikant sein <supplied cert="high">Geld</supplied> zum Zweck
+                    der Abschrift <hi rendition="#u">auf Zinsen</hi> legt; am Tage wo er die alte
+                    Maschinerie neu ersetzen muß, hat er, statt £ 1000.– <hi rendition="#u">£</hi> <hi rendition="#u">1252.11</hi>.– Aufstellung N<hi rendition="#sup">o </hi>2 setzt voraus daß er das Geld gleich, jedes Jahr, in neue
+                    Maschinerie steckt. Wie die letzte Colonne beweist, wo der Werth der sämmtlichen
+                    Anschaffungen, wir er sich am letzten Tage der 10 Jahre stellt, hat er dann
+                    allerdings nicht mehr <subst>
+                        <del rendition="#s">als</del>
+                        <add place="intralinear"><sic ana="#break-off"/>an</add>
+                    </subst>
+                    <hi rendition="#u">Werth</hi> als £ 1000.– in Maschinerie (&amp; er kann nicht
+                    mehr haben, da er ja eben nur den verschlissenen <hi rendition="#u">Werth</hi>
+                    hineingesteckt hat &amp; der <hi rendition="#u">Gesammt</hi><hi rendition="#uu">werth</hi> der <expan>Maschin<ex>erie</ex></expan> durch den Prozeß also nicht wachsen kann)
+                    aber er hat von Jahr zu Jahr seine Fabrik ausgedehnt, &amp; im Durchschnitt der
+                    11 Jahre mit Maschinerie, die in der Anlage £ <subst>
+                        <del>1593 °</del>
+                        <add>1449</add>
+                    </subst>.– gekostet hat, gearbeitet, also bedeutend mehr producirt &amp;
+                    verdient als bei den <expan>urspr<ex>ünglichen</ex></expan> £ 1000.– Nehmen wir an, daß er ein
+                    Spinner ist &amp; jedes £ eine Spindel nebst <expan>Vorspinnmaschi<ex>ne</ex></expan> repräsentirt, so
+                    hat er im Durchschnitt mit 1449 statt mit 1000 Spindeln gesponnen, &amp; tritt,
+                    nach Absterben der ursprünglichen 1000 Spindeln, am 1 Jan. <ex>18</ex>66 die
+                    neue Periode an mit 1357 inzwischen angeschafften Spindeln, wozu aus der
+                    Abschrift pro 1865 noch 236 <pb/> kommen, also mit 1593 Spindeln. Vermittelst
+                    des Abschreibevorschusses ist er also befähigt gewesen aus der alten Maschinerie
+                    heraus &amp; ohne einen Farthing seines <hi rendition="#u"><expan>eigentl<ex>ichen</ex></expan> Profits</hi> in
+                    die Neu Anlage zu stecken, die Maschinerie um 60% zu <hi rendition="#u">vermehren</hi>.</p>
+                <p>Bei beiden Aufstellungen sind Reparaturen außer Acht
+                    gelassen. Bei 10% Abschrift sollte die Maschine ihre eignen Reparaturkosten
+                    decken d.h. diese darin einbegriffen sein. Sie ändern auch nichts an der Sache,
+                    da sie entweder in den 10% einbegriffen sind, oder aber die Lebensdauer der
+                        <expan>Maschin<ex>en</ex></expan>
+                    entsprechend verlängern, was aufs Gleiche hinaus kommt.</p>
+                <p>Ich hoffe die Aufstellung N<hi rendition="#sup">o</hi> 2
+                    wird Dir klar genug sein, sonst schreib, ich habe Copie davon hier.</p>
+                <p>Eilig</p>
+                <closer>Dein<lb/>F. E. </closer>
+                <postscript>
+                    <p><pb/> I. Der Fabrikant legt den Erneuerungsfonds auf Zinsen <hi rendition="#u">à 5%</hi> an</p>
+                </postscript>
+                            </div>
+                                <div type="writingSession">
+                                    <table rend="rules">
+                    <row>
+                        <cell>1856. am 1 Jan.</cell>
+                        <cell>angeschafft Maschinerie für</cell>
+                        <cell><hi rendition="#u">£ 1000.–</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>1857. Jan. 1.</cell>
+                        <cell>Abgeschrieben 10% für Verschleiß</cell>
+                        <cell>–––––––</cell>
+                        <cell>£ 100.–</cell>
+                    </row>
+                    <row>
+                        <cell>1858 ” 1.</cell>
+                        <cell> ” ” ”</cell>
+                        <cell>£ 100.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Zinsen von £ 100.– ” </cell>
+                        <cell><hi rendition="#u"> ” <hi rendition="#u">5.–</hi></hi></cell>
+                        <cell><hi rendition="#u">” 105.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 205.–</cell>
+                    </row>
+                    <row>
+                        <cell>1859 ” 1.</cell>
+                        <cell>Zinsen von £ 205.– –––––––––––––</cell>
+                        <cell> £ 10.5.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abgeschrieben 10% </cell>
+                        <cell> ” 100.–.–</cell>
+                        <cell><hi rendition="#u">” 110.5.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 315.5.–</cell>
+                    </row>
+                    <row>
+                        <cell>1860. ” 1.</cell>
+                        <cell>Zinsen von £ 315.5.– </cell>
+                        <cell> £ 15.15.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell>
+                            <hi rendition="#u">” 100.–.–</hi></cell>
+                        <cell><hi rendition="#u">” 115.15.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 431.–</cell>
+                    </row>
+                    <row>
+                        <cell>1861. ” 1.</cell>
+                        <cell>Zinsen von £ 431.– </cell>
+                        <cell> £ 21.11.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell><hi rendition="#u"> ” 100.–.–</hi></cell>
+                        <cell><hi rendition="#u">” 121.11.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 552.11.–</cell>
+                    </row>
+                    <row>
+                        <cell>1862. ” 1.</cell>
+                        <cell>Zinsen £ 552.11.– </cell>
+                        <cell> £ 27.13.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell> ” 100.–</cell>
+                        <cell><hi rendition="#u">£ 127.13.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 680.4.–</cell>
+                    </row>
+                    <row>
+                        <cell>1863. ” 1.</cell>
+                        <cell>Zinsen £ 680.4.– </cell>
+                        <cell> £ 34.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell><hi rendition="#u"> ” 100.–</hi></cell>
+                        <cell><hi rendition="#u">” 134.–.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 814.4.–</cell>
+                    </row>
+                    <row>
+                        <cell>1864. ” 1.</cell>
+                        <cell>Zinsen £ 814.4.– </cell>
+                        <cell> £ 40.14.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell> ” 100.–</cell>
+                        <cell>” 140.14.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 954.18.–</cell>
+                    </row>
+                    <row>
+                        <cell>1865. ” 1.</cell>
+                        <cell>Zinsen £ 954.18.– </cell>
+                        <cell> £42.15.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell><hi rend="underline" xml:space="preserve">  ” 100.–.–</hi></cell>
+                        <cell>” 142.15.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>£ 1097.13.–</cell>
+                    </row>
+                    <row>
+                        <cell>1866. ” 1.</cell>
+                        <cell>Zinsen £ 1097.13.– </cell>
+                        <cell> £ 54.18.–</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abschrift 10% </cell>
+                        <cell>
+                            <hi rendition="#u">” 100.–.–</hi></cell>
+                        <cell><hi rendition="#u">” 154.18.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Resultat am Ende der 10 Jahre </cell>
+                        <cell/>
+                        <cell>£ 1252.11.–</cell>
+                    </row>
+                </table>
+                <p>oder am 1. Jan. 1866: statt der verschlissenen <hi rendition="#u">£ 1000</hi>.–
+                    in Maschinerie, <hi rendition="#u">£ 1252.11</hi>.– in baarem Gelde. </p>
+                <p><pb/> II. Der Erneuerungsfonds wird jedes Jahr neu in Maschinerie angelegt.</p>
+                <p><del rendition="#s">A. Neu <hi rendition="#u">angeschaffte</hi>
+                        Maschinerie:</del></p>
+                <p/>
+                <table rend="rules">
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">Neuanlage</cell>
+                        <cell cols="2">Verschleiß-pro cent</cell>
+                        <cell cols="2">Werth am 1 Jan 66.</cell>
+                    </row>
+                    <row>
+                        <cell>1856 am 1 Jan.</cell>
+                        <cell>angeschafft <expan>Maschin<ex>erie</ex></expan> ––</cell>
+                        <cell>––</cell>
+                        <cell cols="2">––</cell>
+                        <cell cols="2"><hi rendition="#u">£ 1000.–</hi></cell>
+                        <cell cols="2">100%</cell>
+                        <cell cols="2">––</cell>
+                    </row>
+                    <row>
+                        <cell>1857. 1 Jan.</cell>
+                        <cell>Abschrift 10% neu angelegt ––</cell>
+                        <cell>––</cell>
+                        <cell cols="2">––</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2">90%</cell>
+                        <cell cols="2">£ 10.–</cell>
+                    </row>
+                    <row>
+                        <cell>1858. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 100.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 10.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">”110.–</hi></cell>
+                        <cell cols="2">80%</cell>
+                        <cell cols="2">” 22.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 210.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1859. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 210.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 21.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 121.–</hi></cell>
+                        <cell cols="2">70%</cell>
+                        <cell cols="2">” 36.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 331.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1860. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 331.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 33.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 133.–</hi></cell>
+                        <cell cols="2">60%</cell>
+                        <cell cols="2">” 53.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 464.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1861. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 464.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 46.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 146.–</hi></cell>
+                        <cell cols="2">50%</cell>
+                        <cell cols="2">” 73.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 610.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1862. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 610.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 61.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 161.–</hi></cell>
+                        <cell cols="2">40%</cell>
+                        <cell cols="2">” 97.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 771.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1863. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 771.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 77.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 177.–</hi></cell>
+                        <cell cols="2">30%</cell>
+                        <cell cols="2">” 124.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 948.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1864. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£1000.–</cell>
+                        <cell cols="2">£100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">" 948.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">" 95.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">"195.–</hi></cell>
+                        <cell cols="2">20%</cell>
+                        <cell cols="2">"156.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£1143.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1865. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">”1143.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 114.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 214.–</hi></cell>
+                        <cell cols="2">10%</cell>
+                        <cell cols="2">” 193.–</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell cols="2"/>
+                        <cell cols="2">£ 1357.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell>1866. 1 Jan.</cell>
+                        <cell>Abschr. 10%</cell>
+                        <cell>£ 1000.–</cell>
+                        <cell cols="2">£ 100.–</cell>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                        <cell cols="2"/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell><hi rendition="#u">” 1357.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 136.–</hi></cell>
+                        <cell cols="2"><hi rendition="#u">” 236.–</hi></cell>
+                        <cell cols="2">0%</cell>
+                        <cell cols="2">” 236</cell>
+                    </row>
+                    <row>
+                        <cell cols="4">Nomineller Werth der neuen
+                            Maschinerie</cell>
+                        <cell cols="2"><hi rendition="#u">£ 1593.–</hi></cell>
+                    </row>
+                    <row>
+                        <cell cols="8">Reeller Werth der neuen Maschinerie
+                            –––––––––––––––––––––––</cell>
+                        <cell cols="2"><hi rendition="#u">£ 1000</hi></cell>
+                    </row>
+                </table>
+                <postscript>
+                    <p>à 1 £ per Spindel hat er gearbeitet</p>
+                </postscript>
+                                </div>
+                                <div type="writingSession">
+                                    <table rend="rules">
+                    <row>
+                        <cell><subst>
+                                <del>1856/57 °</del>
+                                <add>1856</add>
+                            </subst> mit</cell>
+                        <cell>1000 Spindeln</cell>
+                        <cell/>
+                        <cell><expan>Transp<ex>ort</ex></expan></cell>
+                        <cell> 9486 Spindeln</cell>
+                        <cell>&amp; fängt <hi rendition="#u">1866</hi> an
+                            mit</cell>
+                    </row>
+                    <row>
+                        <cell> 57 ––”</cell>
+                        <cell>1100 ”</cell>
+                        <cell/>
+                        <cell>1863 mit</cell>
+                        <cell> 1948 ”</cell>
+                        <cell>1357</cell>
+                    </row>
+                    <row>
+                        <cell> 58 ––”</cell>
+                        <cell>1210 "</cell>
+                        <cell/>
+                        <cell> 64 ”</cell>
+                        <cell> 2143 ”</cell>
+                        <cell><hi rendition="#u">236</hi></cell>
+                    </row>
+                    <row>
+                        <cell> 59 ––”</cell>
+                        <cell>1331 "</cell>
+                        <cell/>
+                        <cell> 65 ”</cell>
+                        <cell><hi rendition="#u"> 2357 ”</hi></cell>
+                        <cell><hi rendition="#u">1593 Spindeln</hi>
+                            <pb/></cell>
+                    </row>
+                    <row>
+                        <cell> 60 ––”</cell>
+                        <cell>1464 ”</cell>
+                        <cell/>
+                        <cell>in 11 Jahren:</cell>
+                        <cell><hi rendition="#u">15 934</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell> 61 ––”</cell>
+                        <cell>1610 ”</cell>
+                        <cell/>
+                        <cell>durchschnittl.</cell>
+                        <cell>1449 Spindeln</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell> 62 ––”</cell>
+                        <cell><hi rendition="#u">1771 ”</hi></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Transp.</cell>
+                        <cell>9486</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div></body></text></TEI>

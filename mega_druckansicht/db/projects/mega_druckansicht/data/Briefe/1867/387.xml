@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00397" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>387</idno>Karl Marx an Louis Kugelmann in Hannover. London, Dienstag, 15. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 341/C 100</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 273 × 211 mm. Die erste Seite hat Marx vollständig, die zweite zur Hälfte beschrieben, die dritte und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Louis Kugelmanns Hand: auf der vierten Seite oben mit schwarzer Tinte der Vermerk: „<hi rendition="#u">a. 6/11 cop.</hi>“</p><p>Von unbekannter Hand: auf der ersten Seite am rechten Rand
+                            <?oxy_comment_start author="lindenberg" timestamp="20190222T181553+0100" comment="(Z. 11–14) - nicht am Digitalisat erkennbar
+"?>und<?oxy_comment_end?>
+                            auf der zweiten
+                            <?oxy_comment_start author="lindenberg" timestamp="20190222T181627+0100" comment="(Z. 39–40)"?>Seite<?oxy_comment_end?>
+                            am linken Rand („Gruß an Ihre liebe Frau u. meine kleine Freundin, für
+                            deren Porträt ich Ihnen noch zu danken habe.“) Anstreichungen mit
+                            Blaustift.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2098</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-8HKY7X9Q">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Briefe von Karl Marx an Dr. L. Kugelmann (1902).<?oxy_custom_end?>
+                            S. 96.</bibl></witness><witness><bibl sameAs="zotero-604880-4L3Y4S89">vollständig: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Письма
+                            Маркса к Кугельману (1928).<?oxy_custom_end?> S. 28/29.</bibl></witness><witness><bibl sameAs="zotero-604880-3HYLPUNG">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Marx:
+                            Briefe an Kugelmann (1940)<?oxy_custom_end?>. S. 41/42.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-15"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00391"/>
+                    <ref type="next" target="B00419"/>
+                </correspContext>
+                <note>Marx beantwortet Kugelmanns Brief vom 13. Oktober 1867 (siehe <ref target="B00391">L. Kugelmann an Marx,
+                    13.10.1867</ref><?oxy_comment_start author="reichhoff" timestamp="20190221T114803+0100" comment="Br. 381"?>)<?oxy_comment_end?>.
+                    Kugelmann antwortete Marx am 6. November 1867 (siehe <ref target="B00419"><?oxy_comment_start author="lindenberg" timestamp="20190812T104719+0200" comment="409"?>L.
+                        Kugelmann an Marx, 6.11.1867<?oxy_comment_end?></ref>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:18Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 15 Oct. 1867.</dateline>
+                    <salute>Lieber Kugelmann,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Sie müssen <hi rendition="#u">nicht</hi> an <persName key="pdrPo.001.004.000000542">Borkheim</persName>
+                            schreiben.</orig><note xml:id="a7c55b7d-440c-4a95-a8e1-39870fdd13ed">Siehe <ref target="B00388"><?oxy_comment_start author="reichhoff" timestamp="20180605T120454+0200" comment="(Br. 378)"?>Marx
+                                an L. Kugelmann, 11.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    Ausserdem wäre es umsonst, da <seg type="comment"><orig>das Werk bereits im
+                            Buchhändlerbörsenblatte <subst>
+                                <del rendition="#s">gedruckt<sic ana="#break-off"/></del>
+                                <add place="intralinear">angezeigt</add>
+                            </subst> u. bereits fertig bei <persName key="pdrPo.001.004.000004219">Schab<ex>e</ex>litz</persName> erschienen ist.</orig><note xml:id="f1b574ae-9a02-4b76-9cf7-787845734102">
+                            <p>Marx bezieht sich auf folgende Anzeige über die Broschüre von
+                                Sigismund Ludwig Borkheim „Meine Perle vor dem Genfer Congress“, die
+                                unter dem Titel „Anti-Russisches“ mit einer Bemerkung des
+                                Verlags-Magazins in Zürich im „Börsenblatt für den Deutschen
+                                Buchhandel“, Leipzig, Nr. 230, 3. Oktober 1867. S. 2484, Sp. 2,
+                                erschien: „[23302.] In einigen Tagen wird erscheinen und nur auf
+                                Verlangen versandt werden: Meine Perle vor dem Genfer Congreß. Von
+                                einem proletarischen Diplomaten. 8 Geh. circa 5
+                                <?oxy_comment_start author="lindenberg" timestamp="20190812T110118+0200" comment="{SZ_Taler}
+"?>R[eichstaler]<?oxy_comment_end?>
+                                ord. Unter diesem Titel veröffentlicht Hr. Borkheim in London seine
+                                Rede, welche er auf dem Friedenscongreß in Folge tumultuarischer
+                                Unterbrechungen und Wortentziehung nur zum kleinern Theil halten
+                                konnte. Der Grundgedanke derselben ist, daß nur von Rußland her der
+                                Freiheit Gefahr drohe und daher die einzige Garantie für den Frieden
+                                in dem Frontmachen von West- und Centraleuropa gegen das andrängende
+                                Moskowiterthum liege. Die geistreiche und pikante Begründung dieser
+                                Ansicht wird nicht verfehlen, der vorliegenden Schrift das Interesse
+                                eines großen Leserkreises zuzuwenden. Wir machen namentlich die
+                                Handlungen, welche mit Russen verkehren, auf dieselbe aufmerksam,
+                                sowie auch alle diejenigen, welche Absatz für pikante Tagesliteratur
+                                haben, und sehen
+                                <?oxy_comment_start author="lindenberg" timestamp="20190812T110603+0200" comment="vorher: ges."?>gef.
+                                <?oxy_comment_end?>sofortigen Bestellungen entgegen. Verlags-Magazin
+                                in Zürich.“
+                                <?oxy_comment_start author="lindenberg" timestamp="20190812T132344+0200" comment="vorher: Das Buch erschien im Verlag von Jakob Schabelitz 1868. -- Schabelitz ist der Drucker!"?>–
+                                <?oxy_comment_end?>Siehe auch <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20190812T112338+0200" comment="331b"?>Erl.
+                                    zu Marx an Engels, 4.9.1867<?oxy_comment_end?></ref>.</p>
+                        </note></seg> Ausserdem <seg type="comment"><orig>ist <persName key="pdrPo.001.004.000000542">Borkheim</persName> selbst jezt in
+                            Bordeaux.</orig><note xml:id="bae01a3f-0667-451d-b98e-8d79d7e57db9">Siehe <ref target="B00392"><?oxy_comment_start author="reichhoff" timestamp="20180605T120555+0200" comment="(Br. 382.13–15)"?>S.
+                                L. Borkheim an Engels,
+                        14.10.1867<?oxy_comment_end?></ref>.</note></seg> Ein solcher Brief
+                    Ihrerseits hätte überhaupt keinen Effect haben können ausser den B. mir zu <hi rendition="#u">verfeinden</hi>.</p>
+                <p><?oxy_comment_start author="lindenberg" timestamp="20190812T132541+0200" comment="Was passiert ist, ist passiert, ist passiert"?>Ce
+                    qui est fait est fait<?oxy_comment_end?>. Never mind! Ich habe, da ich grade von
+                    Nachtarbeiten sehr aufgeregt <add place="superlinear">war</add>, nur at first
+                    die Bösartigkeit des événement übertrieben. In der That: <hi rendition="#u">Je
+                        suis puni par où j’ai peché!</hi> Nämlich die Idee des Skandals, den unser
+                    Freund unter den respektablen <subst>
+                        <del rendition="#s">Leuten</del>
+                        <add place="superlinear">Philistern</add>
+                    </subst> zu Genf anrichten würde, amüsirte mich <subst>
+                        <del rendition="#s">d’avance</del>
+                        <add place="superlinear">au premier abord</add>
+                    </subst>. Allerdings sah ich die <hi rendition="#u">buchhändlerischen
+                        Früchte</hi>
+                    <add place="intralinear">nicht</add> voraus. Ausserdem hätte ich bedenken
+                    sollen, daß <persName key="pdrPo.001.004.000000542">B.</persName> bei der
+                    Ausarbeitung <add place="superlinear">seines Plans</add> die weisen Schranken,
+                        <seg type="comment"><orig>worauf ihn mein Brief anwies,</orig><note xml:id="d80f2d11-879b-454a-a0fa-b87799693a9d">Offensichtlich Verweis auf
+                            einen nicht überlieferten Brief von Marx an Borkheim, geschrieben etwa
+                            zwischen 4. und 17.9.1867 (siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180605T120645+0200" comment="(Br. 331.7)"?>Marx
+                                an Engels, 4.<?oxy_comment_end?>9.1867</ref> und <ref target="B00356"><?oxy_comment_start author="reichhoff" timestamp="20180605T120756+0200" comment="(Br. 347)"?>S.
+                                L. Borkheim an Marx,
+                        17.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <hi rendition="#u">naturgemäß</hi> verletzen würde. Die einzig jezt zu
+                    befolgende Politik ist die: <hi rendition="#u">Schweigen</hi>, so lang unsre
+                    Feinde nicht sprechen; sobald sie sprechen u. <subst>
+                        <del rendition="#s">sich</del>
+                        <add place="intralinear"><sic ana="#break-off"/>mich</add>
+                    </subst> verantwortlich machen wollen, <hi rendition="#u">schlechte Witze</hi>
+                    darüber machen, daß sie gezwungen <subst>
+                        <del rendition="#s">zu</del>
+                        <add place="intralinear"><sic ana="#break-off"/>sind</add>
+                    </subst> mir die Schwänke Borkheims aufzubürden, um <seg type="comment"><orig>mein Buch</orig><note xml:id="c72d55bf-d0b1-4c83-87b2-36269b6b0371"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg>
+                    <hi rendition="#u">nicht</hi>
+                    <subst>
+                        <del rendition="#s">zu beantworten</del>
+                        <add place="intralinear">beantworten zu müssen</add>
+                    </subst>. Zudem müßte B. in solchem Fall noch <hi rendition="#u">wohlwollend</hi> behandelt werden, denn after all, seine literarische
+                    Eitelkeit abgerechnet, ist er ein tüchtiger u. wohlmeinender Mann u. als homme
+                    d’action gut, so oft ihm nicht der Schalk in den Nacken schlägt.</p>
+                <p>Sie werden <seg type="comment"><orig><persName key="ed_eyg_crj_sx">Engels</persName>’ Recepte</orig><note xml:id="d6cf1d60-79df-41f6-a5e0-70299b68e1eb">Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180605T120849+0200" comment="(Br. 379.3–16) "?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> „die
+                            gewünschten Gesichtspunkte zu einer Kritik ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190813T102643+0200" comment="379d"?>Erl<?oxy_comment_end?>. </note></seg>
+                    jezt wohl erhalten haben. Mit <persName key="pdrPo.001.004.000002822">Liebknecht</persName> u. <seg type="comment"><persName key="pdrPo.001.004.000000317"><orig>Becker</orig></persName><note xml:id="ba0a87ea-bec9-41d9-be31-2af01285b4db"><persName key="pdrPo.001.004.000000317">Johann Philipp
+                            Becker</persName>.</note></seg> bin ich in Correspondenz.</p>
+                <p>Unter <seg type="comment"><orig>„Erfolg des Buchs“</orig><note xml:id="nwdb_3tm_s3b">(siehe <ref target="B00391">L. Kugelmann an Marx,
+                                13.10.1867</ref><?oxy_comment_start author="reichhoff" timestamp="20190221T114803+0100" comment="Br. 381"?>)<?oxy_comment_end?></note></seg>
+                    verstehe ich nichts als <hi rendition="#u">raschen Absatz,</hi> von wegen der <subst>
+                        <del rendition="#ow">Wirkung</del>
+                        <add place="superlinear">Rückwirkungung</add>
+                    </subst> auf England. </p>
+                <p><pb/>
+                    <seg type="comment"><orig>Der <hi rendition="#u">„<bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier Français</bibl>“</hi> (jezt das <subst>
+                                <del rendition="#ow">Blatt</del>
+                                <add place="superlinear">Tages Blatt</add>
+                            </subst> in Paris, welches das meiste Aufsehn macht) und die <bibl sameAs="ed_bfw_33j_tgb" type="periodika"><hi rendition="#u">Liberté</hi></bibl> in Bruxelles haben fzsische Uebersetzung
+                            meiner Vorrede nebst complimentary preambles veröffentlicht.</orig><note xml:id="f2006b05-2906-4c1c-86ac-cea22c5dede4">Karl Marx: [Aus dem
+                            Vorwort. u. d. T.] Le socialisme en Europe. In: Le Courrier français.
+                            Paris. Nr. 106, 1. Oktober 1867. S. 3, Sp. 2/3. – Du Capital. Critique
+                            d’économie politique. In: La Liberté. Bruxelles. Nr. 15, 13. Oktober
+                            1867. S. 4. Sp. 2/3. – Siehe <ref target="B00352">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180914T121525+0200" comment="343p"?>Marx
+                                an Engels, 12.9.1867<?oxy_comment_end?></ref> „Laura u. Lafargue ...
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190812T133432+0200" comment="343p"?>Erl.<?oxy_comment_end?>,
+                            und <ref target="B00395">Marx an
+                                Engels,<?oxy_comment_start author="reichhoff" timestamp="20180914T121501+0200" comment="385l und 385n"?>14.10.1867<?oxy_comment_end?></ref>
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190812T133535+0200" comment="385l und 385n"?>Erläuterungen<?oxy_comment_end?>.</note></seg></p>
+                <p><seg type="comment"><orig>Ein gewisser <persName key="ed_dsn_yfc_pdb">Nahmer</persName> in New York hat sich für dort als englischer
+                            Uebersetzer angeboten.</orig><note xml:id="c3176a58-5bd3-46c8-9da6-4e870b6e2497">Siehe <ref target="B00357"><?oxy_comment_start author="reichhoff" timestamp="20180605T121042+0200" comment="(Br. 348)"?>Ad. Nahmer
+                                an Marx, 20.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Quod non.</orig><note xml:id="e41e36d9-d2f7-48b9-8dd3-854a79f92c5b">Geht aber
+                        nicht.</note></seg></p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002822">Liebknecht</persName>’s Auftreten in Berlin</orig><note xml:id="a3ca7cb1-442e-4981-8136-d2a602c0bffb">Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180605T121130+0200" comment="(Br. 360.23–25)"?>Marx
+                                an Engels 4.10.1867<?oxy_comment_end?></ref> „Aus den einliegenden
+                            Zeilen Liebknechts  ...“ und <ref target="B00368">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180914T121727+0200" comment="359e"?>S.
+                                L. Borkheim an Marx, 3.10.1867<?oxy_comment_end?></ref>, und <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190812T140130+0200" comment="360h"?>Erl.
+                                zu Marx an Engels, 4.10.1867<?oxy_comment_end?></ref> sowie <ref target="B00390"><?oxy_comment_start author="reichhoff" timestamp="20180605T121223+0200" comment="(Br. 380.10–23)"?>Engels
+                                an Marx, 13.10.1867 <?oxy_comment_end?></ref>.</note></seg> macht
+                    mir grosse Freude. <seg type="comment"><orig>Ich habe ihm von hier einige
+                            Instruktionen überschickt.</orig><note xml:id="f4354b12-cfd6-4d79-849d-fd4a9478ce31">Marx’ Brief an Wilhelm
+                            Liebknecht, geschrieben zwischen 8. und 14.10.1867, ist nicht
+                            überliefert. Siehe <ref target="B00395"><?oxy_comment_start author="reichhoff" timestamp="20180605T121325+0200" comment="(Br. 385.34)"?>Marx
+                                an Engels, 14.10.1867 <?oxy_comment_end?></ref> „Liebknecht hatte
+                            ich schon geantwortet ...“.</note></seg></p>
+                <p><seg type="comment"><orig>Der arme <persName key="pdrPo.001.004.000000317">Becker</persName> ist so weit, daß er auf dem Sprung steht, seine
+                            ganze politische u. schriftstellerische Thätigkeit
+                            einzustellen.</orig><note xml:id="f9d8b4ec-ebda-47c0-a7fa-1509c53c7702">Siehe <ref target="B00375"><?oxy_comment_start author="reichhoff" timestamp="20180605T121430+0200" comment="(Br. 364.28–66)"?>J.
+                                Ph. Becker an J. Marx, 7.10.1867<?oxy_comment_end?></ref> „Noch muß
+                            ich Ihnen ...“.</note></seg> Wie bedauert man unter solchen Umständen,
+                    daß man nicht helfen kann!</p>
+                <p>Gruß an <seg type="comment"><orig>Ihre liebe Frau u. meine kleine
+                            Freundin</orig><note xml:id="nm4x_3tm_wgb"><persName key="pdrPo.001.004.000002615">Gertrud</persName> und <persName key="pdrPo.001.004.000002614">Franzisca
+                        Kugelmann</persName>.</note></seg>, <seg type="comment"><orig><add place="superlinear">für</add> deren Porträt ich Ihnen noch zu danken
+                            habe</orig><note xml:id="e9eba826-2325-48ae-a1ed-8e2e9168f590"> Von
+                            welchem Porträt Franzisca Kugelmanns die Rede ist, konnte nicht
+                            ermittelt werden. Vermutlich handelt es sich um der beiden Abbildungen,
+                            die sich heute im RGASPI befinden (RGASPI, Sign. f. 184, op. 1, d. 27,
+                            28; Foto-Positiv).
+                            <?oxy_comment_start author="lindenberg" timestamp="20181114T122956+0100" comment="Siehe Rudjak: Oschibku neobchodimo ispravit’ … S. 26–29; Boris Rudjak: Ein Irrtum ist zu korrigieren … S. 320–328."?><?oxy_comment_end?>Siehe
+                            auch
+                                <?oxy_comment_start author="lindenberg" timestamp="20190812T143313+0200" comment=" (Br. 288.3 und Erl. 288d)"?><ref target="B00297">Marx an L. Kugelmann,
+                                13.7.1867<?oxy_comment_end?></ref> „Thanks for Hegel and
+                            Madämchen!“.</note></seg>.</p>
+                <closer>Ihr<lb/>KM </closer>
+            </div></body></text></TEI>

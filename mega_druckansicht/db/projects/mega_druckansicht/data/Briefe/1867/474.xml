@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00483" xml:lang="de"><teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>474</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Donnerstag, 12. Dezember 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1658/D III 429</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier, das von
+                            einem Bogen am linken Rand ungerade abgerissen wurde, im Format 116 ´
+                            181 mm. Wasserzeichen: „[A Piri]e &amp; Sons“. Prägung: ein Wappenschild
+                            im Oval mit der Aufschrift „London Superfine“. Die erste Seite hat
+                            Engels vollständig beschrieben, die zweite ist leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes: „69“ und „354“. Redaktionelle Vermerke.
+                            Streichungen.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „940“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2140</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 439/440.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930)<?oxy_custom_end?>. S. 462.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1867-12-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00472"/>
+                    <ref type="next" target="B00486"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 7. Dezember 1867 (<ref target="B00472">Engels an Marx,
+                    7.12.1867</ref>)<?oxy_comment_start author="lindenberg" timestamp="20190211T131704+0100" comment="(Br. 463)"?>.<?oxy_comment_end?>
+                    Marx antwortete am 14. Dezember 1867 (siehe <ref target="B00486"><?oxy_comment_start author="lindenberg" timestamp="20190322T164301+0100" comment=" Br. 477"?>Marx
+                        an Engels, 14.12.1867</ref><?oxy_comment_end?>). </note>
+                <note>Zu den Beilagen zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190322T164338+0100" comment="474.24, 474.251 474.252 und 474.26."?>Erl.<?oxy_comment_end?>
+                </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:18Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 12 Dec. 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Seit Sonntag</orig><note xml:id="nrmb_rtw_jgb">8. Dezember 1867. Siehe <ref target="B00482"><?oxy_comment_start author="reichhoff" timestamp="20180614T152310+0200" comment="(Br. 473.6–8)"?>Engels
+                                an L. Kugelmann, 12.12.1867<?oxy_comment_end?></ref>.</note></seg>
+                    große Extra-Vorstellung von Zahnschmerzen, Grippe, sore throat, Fieber &amp;
+                    allerlei andern Unannehmlichkeiten bei mir, erst seit heut Morgen bin ich wieder
+                    arbeitsfähig, &amp; <seg type="comment"><orig>werde heute Abend den <persName key="pdrPo.001.004.000003109">Mayerschwaben</persName>
+                            vornehmen</orig><note xml:id="ncyv_b5w_jgb">[Friedrich Engels:] Karl
+                            Marx, Das Kapital. Kritik der politischen Oekonomie. Erster Band.
+                            Hamburg, Meißner, 1867. In: Der Beobachter. Stuttgart. Nr. 303,
+                            27. Dezember 1867. S. 2, Sp. 1, bis S. 3, Sp. 2. (MEGA<hi rendition="#sup">2</hi> I/21. S. 38–40 und 1277–1279.) –
+                            Mayerschwaben, d. i. <persName key="pdrPo.001.004.000003109">Karl
+                                Mayer</persName>.</note></seg>
+                    <seg type="comment"><orig>nach Deinem Recept</orig><note xml:id="nv5c_25w_jgb">Siehe <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T152408+0200" comment=" (Br. 463.20–69)"?>Marx
+                                an Engels, 7.12.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+                    was – einige übertriebne Gründlichkeit abgerechnet die das Ding auf die 3fache
+                    Länge bringen würde – sehr hübsch ist.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000000664">Bürgers</persName> geht ad acta.</orig><note xml:id="new5_h5w_jgb">Heinrich Bürgers an Louis Kugelmann, 4. November 1867 (siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20200107T150744+0100" comment="409e"?><ref target="B00419">Erl. zu L. Kugelmann an Marx,
+                                6.11.1876<?oxy_comment_end?></ref> „Darauf erhielt ich ...“). Siehe
+                            auch <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180614T152505+0200" comment="(Br. 458.54–56),"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref>,<ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T152541+0200" comment="(Br. 463.14)"?>
+                                Marx an Engels, 7.12.1867<?oxy_comment_end?></ref> und
+                        Erl.</note></seg> Die Ironie des Schicksals wollte daß <seg type="comment"><orig>die Einleitung des ihm von <expan><persName key="pdrPo.001.004.000002616">K<ex>ugelmann</ex></persName></expan> zugesandten Art.</orig><note xml:id="nvt4_p5w_jgb">[Friedrich Engels:] <hi rendition="#u">Karl Marx,
+                                Das Kapital.</hi> Kritik der politischen Oekonomie. I. Band: Der
+                            Produktionsprozeß des Kapitals. Hamburg, O. Meißner, 1867. Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180614T153029+0200" comment="(Br. 379)"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref>  „Um nun Arbeit
+                            zu sparen ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200107T153220+0100" comment="{Rezension für die ‚Rheinische Zeitung‘“} "?>Erl<?oxy_comment_end?>. 
+                            – Siehe auch <ref target="B00419">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180614T153106+0200" comment="(Br. 409.22–30)"?>Kugelmann
+                                an Marx, 6.11.1867 <?oxy_comment_end?></ref> „Am 21 v. Mts.
+                            ...“.</note></seg> ihm als durchgefallnen D<ex>üssel</ex>dorfer
+                            <expan>Reichstagscand<ex>ida</ex>t</expan> schwer auf den Puckel brennen
+                    mußte. Ich spreche <choice>
+                        <sic>davon</sic>
+                        <corr cert="high">darin</corr>
+                    </choice> ganz naiv von dem Factum daß man die soz. dem. Partei nicht mehr mit
+                    Stillschweigen behandeln dürfe seit sie im Reichstag vertreten sei &amp; <seg type="comment"><orig>daß diese Herren dies Buch zu ihrer Bibel machen
+                            würden</orig><note xml:id="npvw_svw_jgb">[Friedrich Engels:] <hi rendition="#u">Karl Marx, Das Kapital.</hi> Kritik der politischen
+                            Oekonomie. I. Band: der Produktionsprozeß des Kapitals. Hamburg,
+                            O. Meißner. 1867. In: MEGA<hi rendition="#sup">2</hi> I/21. S. 6.14–18:
+                            „So sehr nun auch die sozialdemokratischen wenigen Parlamentler unter
+                            sich zerfallen u. zerfahren sein mögen, so ist doch mit Sicherheit
+                            anzunehmen daß alle Fraktionen dieser Partei das vorliegende Buch als
+                            ihre <hi rendition="#u">theoretische Bibel,</hi> als die Rüstkammer
+                            begrüßen werden, woraus sie ihre wesentlichen Argumente schöpfen.“ –
+                                <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl></note></seg>. Dies schickt K. mit
+                    üblichem Takt an <seg type="comment"><orig><persName key="pdrPo.001.004.000000664">Heinrich</persName></orig><note xml:id="nf3p_wvw_jgb"><persName key="pdrPo.001.004.000000664">Heinrich
+                                Bürgers</persName>.</note></seg>. <seg type="comment"><orig>Hinc
+                            illae lacrimae!</orig><note xml:id="nwrp_zvw_jgb">daher jene Tränen –
+                                <persName key="pdrPo.001.004.000011625">Publius Terentius
+                                Afer</persName>: Andria I, 1, 99.</note></seg> Ich hatte das ganz
+                    vergessen &amp; erst Heinrichs Rührschreiben, das dies alles ganz ernsthaft
+                    nimmt, rief’s mir wieder ins Gedächtniß.</p>
+                <p>Sehr gut <seg type="comment"><orig>die Gesch. mit der Zukft.</orig><note xml:id="nnm2_dww_jgb">[Karl Marx:] Plagiarismus. In: Die Zukunft.
+                            Berlin. Nr. 291, 12. Dezember 1867. Beil. S. 7, Sp. 2, bis S. 8, Sp. 1.
+                            Siehe <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T153608+0200" comment="Br. 463.76–90"?>Marx
+                                an Engels, 7.12.1867<?oxy_comment_end?></ref> „Ich habe (dieß blos
+                            unter uns) ...“  und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200107T154850+0100" comment="{463q}"?>Erl<?oxy_comment_end?>.</note></seg>
+                    Schreib mir wenn es erscheint, ich kann ohne den größten Zeitverlust nicht der
+                    Zukft in der <expan><seg type="comment"><orig>Sch<ex>iller-</ex>Anstalt</orig><note xml:id="nfp3_fww_jgb">Siehe <ref target="mega_jkb_hgx_vfb"><?oxy_comment_start author="lindenberg" timestamp="20200107T155139+0100" comment="Br. 267"?>A.
+                                    Davisson an Engels, 4.6.1867<?oxy_comment_end?></ref> und
+                                Erl.</note></seg></expan> täglich nachgehn.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002616">Kug<ex>elmann</ex></persName> wird täglich naiver. <persName key="pdrPo.001.004.000000648">Bucher</persName> – warum nicht gleich
+                            an <persName key="pdrPo.001.004.000000441">Bismark</persName>.</orig><note xml:id="nqkd_4ww_jgb">Siehe <ref target="B00464"><?oxy_comment_start author="lindenberg" timestamp="20200107T155546+0100" comment="(Br. 455.12–13)"?>L.
+                                Kugelmann an Marx, 1.12.1867<?oxy_comment_end?></ref> „Kann Borkheim
+                            uns nicht ...“. Siehe auch <ref target="B00474"><?oxy_comment_start author="reichhoff" timestamp="20180614T153757+0200" comment="(Br. 465.21–25)"?>Marx
+                                an L. Kugelmann, 7.12.1867<?oxy_comment_end?></ref> „Bucher hat ...“
+                            und Erl.</note></seg>
+                    <seg type="comment"><orig>Was er im <expan>B<ex>rie</ex>f</expan> an Dich vom
+                            3 Decbr von einem an mich beigelegten Brief v. <persName key="pdrPo.001.004.000003135">Meißner</persName> sagt versteh ich
+                            nicht oder hab’ ich vergessen.</orig><note xml:id="nknx_tww_jgb">Siehe
+                                <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180614T153842+0200" comment="(Br. 458.54–55)"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> „Übrigens hat
+                            Meissner ...“ und Erl.</note></seg>
+                </p>
+                <p>Inl. 1) <seg type="comment"><orig>2 <expan>B<ex>rie</ex>fe</expan> von Kglm an
+                            Dich</orig><note xml:id="ntfg_d1x_jgb"><?oxy_comment_start author="lindenberg" timestamp="20200107T161022+0100" comment="(Br. 455"?><ref target="B00464">L. Kugelmann an Marx,
+                                1.12.1867<?oxy_comment_end?></ref> und <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180614T153933+0200" comment="458)."?>3.12.1867<?oxy_comment_end?></ref>.</note></seg>
+                    retour</p>
+                <p>2)  <seg type="comment"><orig>1 <expan>d<ex>itt</ex>o</expan> ” ” ”
+                            mich</orig><note xml:id="nocx_g1x_jgb">Siehe <ref target="B00478">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180614T154017+0200" comment="(Br. 469)."?>Kugelmann
+                                an Engels, 9.12.1867 <?oxy_comment_end?></ref>.</note></seg> &amp;
+                        <seg type="comment"><orig>1 von <persName key="pdrPo.001.004.000004646">Stumpf</persName> an <persName key="pdrPo.001.004.000002616">Kglm</persName></orig><note xml:id="no5k_k1x_jgb">Paul Stumpf an
+                            Kugelmann, 8. Dezember 1867 siehe Beilage
+                            <?oxy_comment_start author="lindenberg" timestamp="20200107T161741+0100" comment=", S. 000 {Beilage} {ZB zum Br. 469, Beilage, Stumpf an Kugelmann, 8. Dezember 1867}"?>(ZB)<?oxy_comment_end?>
+                            zu <ref target="B00478">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180614T154017+0200" comment="(Br. 469)."?>Kugelmann
+                                an Engels, 9.12.1867 <?oxy_comment_end?></ref>, und <ref target="B00479">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180614T154138+0200" comment="(Br. 470.10–11)."?>Kugelmann
+                                an Marx, 9.12.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>3) <seg type="comment"><orig>Der <expan>B<ex>rie</ex>f</expan> von <persName key="pdrPo.001.004.000004424">Siebel.</persName></orig><note xml:id="nw4k_p1x_jgb">Siehe <ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180614T154235+0200" comment="(Br. 432)"?>C.
+                                Siebel an Engels, 23.12.1867<?oxy_comment_end?></ref>. Siehe auch
+                                <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180614T154317+0200" comment="(Br. 461.3)"?>Engels
+                                an Marx, 6.12.1867<?oxy_comment_end?></ref> und <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T154347+0200" comment="(Br. 463.12)."?>Marx
+                                an Engels, 7.12.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>Postschluß. Grüße <seg type="comment"><orig>die Damen</orig><note xml:id="nufh_xbx_jgb"><persName key="pdrPo.001.004.000003075">Jenny
+                                Marx</persName>und die Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName>.</note></seg> &amp;
+                        <persName key="pdrPo.001.004.000002648">Lafargue</persName> bestens</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

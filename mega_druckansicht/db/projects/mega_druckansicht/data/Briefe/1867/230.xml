@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00239" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>230</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester. London,
+          Montag, 25. März 1867</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 685/L II 90 Fotosign. 9851a&lt;–&gt;b.</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              259 × 203 mm. Wasserzeichen: „Extra Superfine A C J“. Aufdruck der
+              Firma <orgName key="pdrPo.001.015.000090279">„Schröder &amp; Schyler &amp; C<hi rendition="#sup">o</hi>“</orgName> auf der ersten Seite oben (siehe in den
+              „Anmerkungen zum Brief“:
+              <?oxy_comment_start author="lindenberg" timestamp="20180716T151734+0200" comment="S. 000[Br. 4]"?>S.
+              L. Borkheim an Marx, 8.1.1866<?oxy_comment_end?>). Borkheim hat alle vier Seiten
+              vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: Nummerierung des Briefes „35“ mit Bleistift auf der ersten Seite
+              oben in der Mitte.</p>
+            <p> </p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 5 d. 1694</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-03-25"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+        </correspAction>
+        <note>Engels' Antwortbriefe vom 4. April 1867 (siehe <ref target="B00246">S. L.
+            Borkheim an Engels, 11.4.1867:</ref> „Ihre beiden Briefe vom 4<hi rendition="#sup">ten</hi> habe ich richtig erhalten ...“)<?oxy_comment_start author="lindenberg" timestamp="20180716T154031+0200" comment="zwei Briefe, siehe Br. 236.3"?>
+          <?oxy_comment_end?>sind nicht überliefert (siehe  <ref target="mega_evr_w3g_l2b">Engels an
+            <?oxy_comment_start author="lindenberg" timestamp="20180716T155506+0200" comment="= Regest_1867_1867-04-04_E-SLBorkheim.xml"?>S.
+            L. Borkheim, 4.4.1867<?oxy_comment_end?></ref> und <ref target="B00244"><?oxy_comment_start author="lindenberg" timestamp="20180716T155601+0200" comment="= Brief 234a"?>Engels
+            an S. L. Borkheim, 4.4.1867 (Auszug)<?oxy_comment_end?></ref>.</note>
+        <note>Zum Aufdruck siehe <ref target="B00005"><?oxy_comment_start author="lindenberg" timestamp="20180716T151734+0200" comment="S. 000[Br. 4]
+"?>S.
+            L. Borkheim an Marx, 8.1.1866<?oxy_comment_end?></ref>.</note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_ht1_n3z_g1b">Exilantenleben in London u. Manchester (Schiller-Anstalt,
+            Arbeiter-Bildungsverein, Albert-Club, Versammlungsabende u. ä.)</term>
+          <term key="ed_rw2_4vl_qx">Preußen</term>
+          <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+          <term key="ed_mts_42y_g1b">Journalismus</term>
+          <term key="ed_hrp_vnf_h1b">Zeitungen der IAA</term>
+          <term key="ed_www_kkf_h1b">Russland</term>
+          <term key="ed_vnr_dvr_y2b">Panslawismus</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:45:05Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/>
+            <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+          <dateline><hi rendition="#mPrint">London,</hi> 25st. März <hi rendition="#mPrint">18</hi>67.</dateline>
+          <salute>Lieber Engels,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Der junge <persName key="ed_blf_k1t_gz">Schyler</persName> hat mir heute Ihre freundlichen Grüße
+              bestellt.</orig><note xml:id="a631bf79-a151-418a-a499-8166857c4e23">Siehe <ref target="B00076">S. L. Borkheim an Engels, 27.3.1866</ref> und <ref target="B00196">S. L. Borkheim an Engels, 26.11.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20180724T093118+0200" comment="Erl. 73a und  190a"?>
+              <?oxy_comment_end?></note></seg> Gleiches thaten auch vor einigen Monaten der alte
+            <persName key="ed_l21_q3c_p2b">S. Oppenheim</persName> und <persName key="ed_tgn_hyc_p2b">Lanville</persName>, der Schwager des Doktor <persName key="pdrPo.001.004.000001969">Gumpert</persName>.</p>
+        <p><seg type="comment"><orig>Vor mehreren Wochen schickte ich Ihnen
+              einen <bibl sameAs="ed_s51_tmw_1cb">„Hermann“</bibl>. Der darin
+              enthaltene Artikel „Niemen“ wird Ihnen Beweis gewesen sein von meinen Fortschritten in
+              der russischen Sprache.</orig><note xml:id="f1b018eb-dba5-442e-9420-92de50534f5a"><bibl sameAs="zotero-604880-JXXDB9KF">[Sigismund Ludwig Borkheim:]
+                Der Niemen.</bibl> In: Hermann. London. Nr. 426, 2. März 1867. S. [3407]/3408.
+              – Siehe auch <ref target="B00233">S. L. Borkheim an Marx,
+          6.3.1867</ref>.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20180724T093651+0200" comment="(Br. 224.3–6)"?></p>
+        <?oxy_comment_end?>
+        <p>Ich gehe jetzt <seg type="comment"><orig>des <persName key="pdrPo.001.004.000001761">Herzen</persName> russische Schreibereien</orig><note xml:id="f4687b50-bad6-401c-b1dd-f7dd09457ba2">Wahrscheinlich Bezugnahme auf <persName key="pdrPo.001.004.000001761">Gercens</persName> Publikationen in seinen
+              Zeitschriften <bibl sameAs="ed_nmx_qng_x2b">„Poljarnaja zvezda“
+              </bibl>(Polarstern) und <bibl sameAs="ed_zgh_kpg_x2b">„Kolokol“</bibl> (Die Glocke);  – siehe auch weitere Briefe:  <ref target="B00244">S. L. Borkheim an Engels, 1.4.1867</ref>; <ref target="B00246">S. L. Borkheim an
+                Engels, 11.4.1867</ref>; <ref target="B00273">S. L. Borkheim an Engels,
+                30.5.1867</ref>; <ref target="B00332">S. L. Borkheim an Engels, 27.8.1867.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20180724T095942+0200" comment="Br. 234a, 236, 264, 323"?></note><?oxy_comment_end?></seg>
+          durch, um seinem Verhalten gegen die Deutschen gründlich auf die Spur zu kommen, und, je
+          nachdem, ihm von Zeit zu Zeit auf die Finger zu klopfen. <seg type="comment"><orig><persName key="ed_ats_ysj_wx">Marx</persName> sagt <pb/> mir, daß seine von
+              ihm so genannte „socialistische“ Brühe dem <persName key="pdrPo.001.004.000002088">Haxthausen</persName> abgequetscht ist, und daß Sie, da ich hinlänglich mit dem
+              Russischen beschäftigt, auf mein Ersuchen, so gut sein würden, mir das Verhältniß
+                <persName key="pdrPo.001.004.000001761">Herzenscher</persName> Weisheit zu <persName key="pdrPo.001.004.000002088">Haxthausenschen</persName> Untersuchungen in Kürze
+              verständlich zu machen.</orig><note xml:id="a3e15a24-489b-4dbf-9def-6e3f4d88409e"><persName key="ed_ats_ysj_wx">Marx</persName> bezog sich offensichtlich auf zwei
+              Werke von <bibl sameAs="zotero-604880-H7QUVUG2">August von Haxthausen:
+                Studien über die innern Zustände, das Volksleben und insbesondere die ländlichen
+                Einrichtungen Rußlands.</bibl> Theil <bibl sameAs="zotero-604880-ERDJIP84">1.</bibl><bibl sameAs="zotero-604880-L5CVSPQN">2.</bibl> Hannover 1847. Theil <bibl sameAs="zotero-604880-8EMF8882">3.</bibl> Berlin 1852; derselbe: <bibl sameAs="zotero-604880-V6MWPE7V">Die ländliche Verfassung Rußlands.
+                Ihre Entwickelungen und ihre Feststellung in der Gesetzgebung von 1861</bibl>.
+              Leipzig 1866. Marx besaß beide in seiner Bibliothek (<bibl sameAs="zotero-604880-WAZZ3DEJ">MEGA² IV/32.</bibl> Nr. 544
+              und 545) und zitierte diese mehrmals (ebenda. S. 314), insbesondere im
+              Zusammenhang mit den Ansichten <persName key="pdrPo.001.004.000001761">Gercens</persName>, (z.B. im Nachtrag zum ersten Band des „Kapital“ in: <bibl sameAs="zotero-604880-25ETZ5BH">MEGA² II/5.</bibl>
+              <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=625%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 625</ref>). Engels empfahl Borkheim wahrscheinlich das erstgenannte Buch in dem
+              nicht im Original überlieferten Antwortbrief, geschrieben am 4. April 1867 (siehe
+                <ref target="B00244">Engels an S. L. Borkheim, 4.4.1867 (Auszug)</ref>, bzw. <bibl sameAs="zotero-604880-SNNYR5WW">Borkheim an Johann Philipp Becker,
+                6. April 1867</bibl>, IISG, Nachlass Johann Philipp Becker, Sign.
+              D I 185; siehe auch <ref target="mega_evr_w3g_l2b">Engels an S. L. Borkheim,
+                4.4.1867</ref>) und übersandte es ihm (<ref target="B00244"><?oxy_comment_start author="reichhoff" timestamp="20180426T133941+0200" comment="Br. 234a.1–2 und"?>Engels
+                an S. L. Borkheim, 4.4.1867<?oxy_comment_end?> (Auszug)</ref> und <ref target="B00246">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180426T134139+0200" comment="Br. 236.4–5 sowie"?>Borkheim
+                an Engels, 11.4.1867<?oxy_comment_end?></ref> sowie <ref target="B00273">S. L.
+                Borkheim an Engels,
+                <?oxy_comment_start author="reichhoff" timestamp="20180426T135208+0200" comment="Br. 264.000 "?>30.5.1867
+                <?oxy_comment_end?></ref> und <ref target="B00332"><?oxy_comment_start author="lindenberg" timestamp="20180725T094811+0200" comment="= Br 323"?>S.
+                L. Borkheim an Engels, 27.8.1867</ref><?oxy_comment_end?>). – Des Weiteren zur
+              Charakteristik der Ansichten <persName key="pdrPo.001.004.000002088">Haxthausens</persName> und zu seinem Einfluß auf die Vorstellungen <persName key="pdrPo.001.004.000001761">Gercens</persName> in dieser Frage siehe auch <ref target="B00244"><?oxy_comment_start author="reichhoff" timestamp="20180426T140635+0200" comment="(Br. 234a.2–12)"?>Engels
+                an S. L. Borkheim, 4.4.1867<?oxy_comment_end?> (Auszug)</ref> und <bibl sameAs="zotero-604880-XY2JGYBG">Friedrich Engels:
+                Flüchtlingsliteratur V</bibl> (<bibl sameAs="zotero-604880-DWLC9IVK">MEGA² I/24.</bibl> S. 420, 1156/1157).</note></seg> Marx selbst
+          wird mir <seg type="comment"><orig>das <persName key="pdrPo.001.004.000001761">Herzen</persName>-<persName key="pdrPo.001.004.000003833">Proudhonsche</persName>
+              Verhältniß</orig><note xml:id="ab1a7031-3c84-4ead-84fc-2564f2016da3">Ein
+              entsprechender Brief von Marx ist nicht bekannt; siehe früher <ref target="B00004">Marx an Engels, 5.1.1866</ref> („dem Proudhon-Herzenschen Muscovitismus“) und
+              Erl.</note></seg> erläutern. <seg type="comment"><orig>So schaffe ich mir nach und
+              nach einiges Material an zur „Bearbeitung“ des antideutschen Panslavismus. Läßt sich
+                <persName key="pdrPo.001.004.000001761">Herzen</persName> auf die Erörterung ein, so
+              wird's vergnüglich; nur rechne ich, aufrichtig gestanden, dabei nicht wenig auf Sie
+              und Marx.</orig><note xml:id="npxl_gc1_x2b"><persName key="pdrPo.001.004.000001761">Aleksandr Gercen</persName> war der Auffassung, dass sich nach den Ereignissen von
+              1848/49 die progressiven Impulse des Westens für den gesellschaftlichen Fortschritt
+              erschöpft hätten. (Vgl. <bibl sameAs="zotero-604880-F3JQLYC9">A. I.
+                Herzen: Vom anderen Ufer. VI Epilog auf 1849.</bibl> In: Ders.: <bibl sameAs="zotero-604880-G93S4JVN">Ausgewählte philosophische Schriften.
+                Moskau 1949.</bibl> S. 455-462.) Deshalb sah er in der russischen bäuerlichen
+              Dorfgemeinde (obščina) nun die rettende Kraft und die Keimzelle einer sozialistischen
+              Entwicklung. Seine Idealisierung von Besonderheiten der Entwicklung Russlands
+              verbunden mit dem politischen Streben nach einer Einheit aller Slawen führten dazu,
+              dass bei <persName key="pdrPo.001.004.000001761">Gercen</persName> panslawistische
+              Ideen ein gewisses Echo fanden (<bibl sameAs="zotero-604880-Y66HDBQZ">A. I. Herzen: Das russische Volk und der Sozialismus.</bibl> In: <bibl sameAs="zotero-604880-G93S4JVN">Ders.: Ausgewählte philosphische
+                Schriften. Moskau 1949.</bibl> S. 491-523) und der seit 1852 im Londoner Exil
+              lebende Publizist im Westen entsprechend wahrgenommen wurde. Marx und Engels, die den
+              Panslawismus seit 1848/49 immer als einen verlängerten Arm russischer Politik
+              betrachteten, waren nicht der Ansicht, "durch russisches Blut old Europe erneut zu
+              sehn" (Marx an Engels, 13. Febr. 1855. In: <bibl sameAs="zotero-604880-ZIMVA5GA">MEGA², III/7.</bibl> S. 180) und standen daher Gercen immer
+              reserviert
+              gegenüber.<?oxy_comment_start author="lindenberg" timestamp="20180822T175347+0200" comment="Erl. v. Hanno; 
+vorher: Panslawismus] Gesellschaftliche und politische Strömungen, die etwa seit Beginn des 19. Jahrhunderts unter den slawischen Völkern aus Opposition gegen türkische und österreichische Unterdrückung entstanden und deren Streben nach Vereinigung zum Ausdruck brachten. Engels bezog sich darauf und insbesondere auf die Rolle des russischen Panslawismus in seinem Artikel „What have the working classes to do with Poland. II“ (MEGA2 I/20. S. 200). Siehe Erl. zu Marx an Engels, 5.1.1866. ((Br. 234a.2–12))"?></note><?oxy_comment_end?></seg>
+          Schweigt er, <seg type="comment"><orig>so lasse ich vielleicht meine Ergüsse <pb/> des
+              Тейтштумъ irgendwo auf Russisch erscheinen, und was <persName key="pdrPo.001.004.000001761">Herzen</persName>-<persName key="pdrPo.001.004.000002088">Haxthausen</persName> und <persName key="pdrPo.001.004.000001761">Herzen</persName>-<persName key="pdrPo.001.004.000003833">Proudhon</persName> angeht, in einem Genfer Blatte auf
+              Französisch,</orig><note xml:id="f4777222-606f-4ec8-9dbf-cbdaf955248c">Dieses Vorhaben
+              ließ sich nicht verwirklichen. Siehe <bibl sameAs="zotero-604880-JC4NASZ7">Gemkow: Sigismund Ludwig Borkheim.</bibl>
+            S. 94/95.</note></seg> oder gar in einem Pariser. –</p>
+        <p><seg type="comment"><orig>Sind Sie jetzt auch <hi rendition="#u">militärgerichtlich</hi> straffrei?</orig><note xml:id="c77cbd3d-3c96-41ab-96e8-e90f259b5018">Nach der Revolution 1848/1849 , seiner
+              Teilnahme an dem Elberfelder Aufstand im Mai 1849 und der Reichsverfassungskampagne im
+              Sommer 1849 wurde Engels seit Juni 1849 steckbrieflich gesucht (<bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich Engels. Dokumente seines
+                Lebens.</bibl> S. 250–253, 276–279). Dieser Steckbrief blieb bis zum
+              23. März 1860 gültig, als die Verwandten von Engels in Barmen wegen der Krankheit
+              und des Todes seines <persName key="pdrPo.001.004.000001372">Vaters</persName> am
+              20. März 1860 eine Besuchserlaubnis vom preußischen Innenministerium für ihn
+              erwirkten (siehe Hermann Engels an Engels, 18. März, Elisabeth Engels und Emil
+              Blank an Engels, 20. März, und Engels an Marx, 8. April 1860. In: <bibl sameAs="zotero-604880-LGQY2UCG">MEGA² III/10.</bibl> Br. 193,
+              197 und 219). Nach der Amnestie vom 12. Januar
+              <?oxy_comment_start author="lindenberg" timestamp="20180730T100126+0200" comment="(siehe Erl. 6dd)"?>1861<?oxy_comment_end?>
+              (anläßlich der Thronbesteigung <persName key="pdrPo.001.004.000005131">Wilhelms
+                I.</persName>) für politische Flüchtlinge, die an der Revolution 1848/1849
+              teilgenommen hatten (<bibl sameAs="zotero-604880-G5HZXQML">MEGA²
+                III/11.</bibl> Br. 95.6), besuchte Engels Deutschland regelmäßig, fast jedes
+              Jahr. Die Amnestie betraf vorerst nur politische Verbrechen und Vergehen (siehe <bibl sameAs="zotero-604880-4BL92MDM">Königlich Preußischer Staats-Anzeiger
+                Nr 251, 19. Oktober 1861, S. 1945</bibl>). Einen Gnadenerlaß für durch
+              Militärgerichte verurteilte Personen behielt sich <persName key="pdrPo.001.004.000005131">Wilhem I.</persName>
+              vor<?oxy_comment_start author="lindenberg" timestamp="20180823T174031+0200" comment="vorher noch: Siehe Pierer&apos;s Universal-Lexikon. Bd. 13. S. 561-562."?>.<?oxy_comment_end?>
+              1866 gab es einen weiteren Gnadenerlaß anläßlich des preußischen Sieges im Deutschen
+              Krieg 1866 (siehe <bibl sameAs="zotero-604880-DVHDYNLC">Königlich-preußischer Staats-Anzeiger Nr. 242, 5. Oktober 1866, S. 3455</bibl>).
+            </note></seg> Ich weiß wahrlich immer noch nicht, woran ich bin, und <seg type="comment"><orig>habe mich vorgestern an meinem alten Freund und Gönner <persName key="pdrPo.001.004.000000648">Bucher</persName>, jetzigen „wirklichen Legationsrath“
+              gewandt, mit der Bitte, mir Erlaubniß zur Rückkehr, auf 6 Wochen, wenigstens, zu
+              erwirken.</orig><note xml:id="e952788a-6586-4ef9-bbf9-a0abfe3a767c">Der Brief von
+              Borkheim an <persName key="pdrPo.001.004.000000648">Lothar Bucher</persName> vom
+              23. März 1867 konnte nicht ermittelt werden. Siehe <ref target="B00243"><?oxy_comment_start author="reichhoff" timestamp="20180426T140903+0200" comment="(Br. 234.15–17)."?>Marx
+                an Engels, 2.4.1867<?oxy_comment_end?></ref>. </note></seg></p>
+        <p>Kommt Ihnen die Berliner <bibl sameAs="ed_lpm_jxn_q2b">„Zukunft“</bibl> vor die Augen? Ich empfehle Ihnen das Blatt. <seg type="comment"><orig>Vor einigen Tagen fand ich einen Bericht drin über eine Vorlesung
+              des Chefs des statistischen Bureaus <pb/>
+              <persName key="pdrPo.001.004.000001351"><hi rendition="#u">Engel</hi></persName>,
+              welcher der <persName key="pdrPo.001.004.000001661">Kronprinz</persName> und andere
+              <?oxy_comment_start author="lindenberg" timestamp="20180730T170801+0200" comment="engl. = feine Leute"?>swells<?oxy_comment_end?>
+              beiwohnten (– ich glaube auf russisch ist ein swell
+              <?oxy_comment_start author="lindenberg" timestamp="20180730T171257+0200" comment="vielleicht erläutern -- aufgebläht, geschwollen, aufgebauscht"?>надуть<?oxy_comment_end?>),
+              und in der er Ihres Buchs über die englischen Arbeiter Erwähnung that.</orig><note xml:id="b6b7c4c5-077e-47a7-b923-52f88d3d3de1">
+              <p>Der <bibl sameAs="zotero-604880-5MRMA5LZ">Artikel</bibl> in der Rubrik „Local-Nachrichten“ berichtet über einen Vortrag von
+                  <persName key="pdrPo.001.004.000001351">Ernst Engel</persName> am 16. März 1867 im
+                Meser'schen Salon Unter den Linden  in Berlin über „Arbeiter-Vertrag und
+                Arbeiter-Gesellschaft“
+                (<?oxy_comment_start author="lindenberg" timestamp="20180730T143953+0200" comment="Als Scan vorhanden"?>Die
+                Zukunft. Berlin. Nr. 66, 19. März 1867, Beil. S. 1/2<?oxy_comment_end?>.) –
+                  <persName key="pdrPo.001.004.000001661">Friedrich Wilhelm Kronprinz von
+                  Preußen</persName>, 1888 als Friedrich III. König von Preußen und deutscher
+                Kaiser.</p>
+            </note></seg>
+          <seg type="comment"><orig>Welches ist der genaue Titel Ihres Buchs</orig><note xml:id="d8283f25-d7f7-4c73-a116-8596c5b234d4"><bibl sameAs="zotero-604880-UIFI5RLI">Friedrich Engels: Die Lage der arbeitenden Klasse in England. Leipzig
+                1845.</bibl>
+            </note></seg> und wo kann man es kaufen?</p>
+        <p>Nun etwas business! – Ich habe immer ein nicht unbedeutendes
+          Lager von Cigarren hier, die ich <hi rendition="#u">selbst direkt</hi> importire. Sie sind
+          ja ein Haupt<hi rendition="#u">roo</hi>cher. Ich empfehle mich Ihnen bestens für diesen
+          Toback und bitte Sie, mich Ihren rauchenden Freunden zu empfehlen. –</p>
+        <p>Wie ich höre, hat Sie der junge <persName key="ed_blf_k1t_gz">Schyler</persName> grausam behandelt. Das Ihnen von ihm nicht abgezogene Diskonto
+          werden wir entweder verkneipen – natürlich Sie und ich – nicht der harttaschige junge
+          Bordelais – oder von einer anderen Rechnung zu Ihren Gunsten abziehen. – <seg type="comment"><orig>Herr <persName key="ed_blf_k1t_gz">Schyler</persName> sagt mir
+              auch, Sie wollen mir schreiben; nun das ist recht und es ist auch mal Zeit. Außer <hi rendition="#u">dieser</hi> versprochnen Zuschrift erwarte ich aber, worum ich oben
+              gebeten.</orig><note xml:id="efc31f0d-efd1-44a2-9b77-8dbeb6dd7688">Siehe <ref target="B00246">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180426T141133+0200" comment="(Br. 236.3)."?>Borkheim
+                an Engels, 11.4.1867<?oxy_comment_end?></ref>. </note></seg> Grüßen Sie D<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000001969">Gumpert</persName>.</p>
+        <closer>Freundlichst der Ihrige<lb/>Borkheim </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

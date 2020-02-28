@@ -1,0 +1,972 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>Praktikum</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-02-28</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <date>2018-03-27T08:55:49Z</date>
+                    <name>Praktikum</name>
+                </change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <pb n="[I]"/>
+            <titlePage type="main">
+                <docTitle>
+                    <titlePart type="main">
+                        <hi rendition="#b">Zwei Reden</hi><lb/> über die<lb/>
+                        <hi rendition="#g"><hi rendition="#b">Freihandels-</hi></hi><lb/>
+                        <hi rendition="#g">und</hi><lb/>
+                        <hi rendition="#g"><hi rendition="#b">Schutzzollfrage</hi></hi>
+                    </titlePart>
+                </docTitle>
+                <lb/>
+                <byline> von<lb/>
+                    <docAuthor><hi rendition="#g #b">Karl Marx</hi></docAuthor>
+                </byline>
+                <lb/>
+                <docTitle>
+                    <titlePart type="desc">
+                        aus dem Französischen übersetzt und mit einem Vorwort und<lb/>
+                        erläuternden Anmerkungen versehen
+                    </titlePart>
+                </docTitle><lb/>
+                <byline>
+                    von<lb/>
+                    <docAuthor><hi rendition="#b"><hi rendition="#g">J. Weydemeyer</hi>.</hi></docAuthor>
+                </byline><lb/>
+                <milestone rendition="#hr" unit="section"/>
+                <lb/>
+                <docImprint>
+                    <pubPlace><hi rendition="#g #b">Hamm,</hi></pubPlace>
+                    <docDate>
+                        <hi rendition="#b"><hi rendition="#g">1848</hi>.</hi>
+                    </docDate>
+                    <milestone rendition="#hr" unit="section"/><lb/>
+                    <publisher>
+                        <hi rendition="#b">Gedruckt in der <hi rendition="#g">Schulz</hi>ischen Buchdruckerei.</hi>
+                    </publisher><lb/>
+                </docImprint>
+                <lb/>
+            </titlePage>
+            <pb n="[III]"/>
+            <div n="3" type="preface">
+                <head><hi rendition="#b"><hi rendition="#g">Vorwort</hi>.</hi></head>
+                <p>Durch die politische Bewegung ist die soziale Frage für den Augenblick etwas in
+                    den Hintergrund gedrängt; doch bald, sehr bald wird sie sich um so mächtiger
+                    wieder hervordrängen. Die sozialen Mißstände unserer heutigen Gesellschaft sind
+                    das eigentliche Movens unserer Revolution; die Revolution wird nicht eher zum
+                    Stillstande kommen, bis diesen Mißständen abgeholfen, bis die soziale Frage
+                    vollständig gelös’t, oder der Widerstand gegen ihre friedliche Lösung gebrochen
+                    ist.</p>
+                <p>Das Volk, welches endlich die Ketten zerrissen hat, in denen es so lange
+                    gefesselt war, dessen schlummernde Thatkraft endlich geweckt ist, kann und wird
+                    sich mit einigen politischen Umgestaltungen nicht begnügen. Das Volk ist der
+                    sich täglich in furchtbarem Maaße steigernden sozialen Ungleichheit müde, es ist
+                    müde, Tausende seiner Brüder <choice>
+                        <sic>hüflos</sic>
+                        <corr cert="high">hülflos</corr>
+                    </choice> dem Hungertode preisgegeben zu sehen, während es selbst nur ein
+                    elendes Dasein mit Mühe und Noth fristet; es ist müde, ewig der Ausgebeutete
+                    eines herzlosen Kapitals zu sein, und ruhig zuzusehen, wie alle Früchte seiner
+                    sauren Arbeit, seines Schweißes nur dazu dienen, den Reichthum einiger Wenigen
+                    zu vermehren und seine eigene Lage mit jedem Tage zu verschlimmern. Das Volk ist
+                    des langen Regiertwerdens müde, es will selbst das Staatsruder in die Hand
+                    nehmen, selbst seine Angelegenheiten ordnen.</p>
+                <p>Bedenkt es wohl, ihr, die ihr beständig die Unreife des Volkes im Munde führt;
+                    das Volk hat noch keinen Beweis seiner Unreife geliefert, ihr aber liefert sie
+                    zu tausenden, in den <pb n="IV"/>Nationalversammlungen, in den Ministersesseln
+                    oder wohin ihr immer berufen seid, die Angelegenheiten des Volkes zu ordnen.
+                    Fehlt dem Volke auch das klare Bewußtsein seiner Lage, so wird sein Blick doch
+                    nicht durch Klasseninteressen verschleiert; sein richtiger Instinkt läßt es
+                    stets den rechten Weg wiederfinden. Baut nur immer eure Kartenhäuschen auf,
+                    zimmert eure Konstitutiönchen zurecht, paßt Alles so fein und zierlich in
+                    einander, wie es euerm erfinderischen Genie nur immer möglich ist; eine
+                    revolutionäre Zuckung des Volkes, und Alles stürzt wieder in wildem Gewirre über
+                    einander. Das Interesse des Volkes fordert, daß sich Deutschland zu <hi rendition="#g">einer großen untheilbaren Republik zusammenschließe</hi>. Wer
+                    diesem entgegenarbeitet, der arbeitet eben der Anarchie in die Hände, der tritt
+                    der Rückkehr von Ruhe und Ordnung hindernd in den Weg, mag er auch noch so sehr
+                    als ein Fanatiker der Ruhe verschrieen sein.</p>
+                <p>Nur innerhalb der republikanischen Staatsform kann die Herrschaft des Volkes, die
+                    Demokratie, eine Wahrheit werden. Jede andere Staatsform bedingt die Herrschaft
+                    einer Klasse gegenüber dem ganzen Volke: die absolute Monarchie die Herrschaft
+                    der jedesmaligen Herrscherfamilie, oder derjenigen, welche über den Herrscher
+                    den nöthigen Einfluß zu gewinnen wissen; die konstitutionelle Monarchie die
+                    Herrschaft der Bourgeoisie, des Geldsackes. Die Herrschaft Einzelner oder einer
+                    Klasse hat zu ihrer Grundlage stets besondere Klasseninteressen, die Interessen
+                    der Herrschenden sind niemals dieselben mit denen des Volkes, sie stehen diesen
+                    entgegen, und wissen sich durch die Gesetzgebung eine größere Geltung zu
+                    verschaffen. Betrachtet unsere ganze Gesetzgebung: verfolgt sie irgend einen
+                    anderen Zweck, als den, die Interessen der Herrschenden zu schützen. Seht nach
+                    allen konstitutionellen <pb n="V"/>Staaten, seht nach dem „freien“ England,
+                    dessen Verfassung ihr in der Paulskirche zu Frankfurt täglich als das Muster
+                    aller Verfassungen preisen hört: wen schützen seine Gesetze, die Menschen oder
+                    den Besitz? Mehr als in jedem anderen Staate werden gerade in England die
+                    Menschen nur nach ihrem Silberwerthe taxirt.</p>
+                <p>So lange die Einzelinteressen sich eine größere Geltung zu verschaffen wissen,
+                    als die Interessen des ganzen Volkes, ist eine Lösung der sozialen Frage nicht
+                    möglich. Die <hi rendition="#g">demokratische Republik</hi> ist daher eine
+                    Nothwendigkeit; der materielle Druck zwingt das Volk, darauf hinzuarbeiten, und
+                    es wird sie erreichen, sollte sich auch die ganze bewaffnete Bourgeoisie ihm
+                    entgegenstellen. Die demokratische Republik für Deutschland, aber nicht für 38
+                    deutsche Ländchen. Die Umgestaltung Deutschlands zu einem großen Reiche liegt
+                    schon im Interesse der Bourgeoisie, weil der Entwickelung unserer Industrie
+                    nichts mehr im Wege steht, als diese Zersplitterung, die uns schwächt und von
+                    den Launen mächtiger Nachbarn abhängig macht; im Interesse des Volkes aber liegt
+                    eine noch weit größere Ausdehnung unserer Produktion, als sie bisher im
+                    Interesse des Kapitals stattfinden konnte. Dazu erzeugt die Zersplitterung
+                    Sonderinteressen und einen Partikularpatriotismus, welche sich den allgemeinen
+                    Interessen feindlich gegenüberstellen, und der Reaktion stets neue Haltepunkte
+                    und Gelegenheit geben, den Kampf zum Nachtheile des Volkes in die Länge zu
+                    ziehen. Selbst Italien ist auf dem Wege, ein „einiges Italien“ zu bilden; soll
+                    Deutschland etwa hinter Italien zurückbleiben? Ein einiges Deutschland aber mit
+                    38 verschiedenen Staaten in seinem Inneren ist ein Unding, wie eine
+                    „demokratische Monarchie“ oder eine „konstitutionelle Demokratie“.</p>
+                <pb n="VI"/>
+                <p>Die Lösung der sozialen Frage erfordert eine vollständige Umgestaltung der
+                    bisherigen Produktionsweise und der Besitzverhältnisse, auf welcher diese
+                    beruht, damit ferner nicht mehr die Nachfrage des Kapitals, sondern das
+                    Bedürfniß der Gesellschaft das Maaß der Produktion bestimme. Die moderne
+                    Industrie hat aber die zivilisirten Völker zu sehr von einander abhängig
+                    gemacht, als daß eine solche Umgestaltung von einem einzelnen Volke allein
+                    ausgeführt werden könnte; die freie Konkurrenz duldet den freien Arbeiter nicht
+                    neben dem unterdrückten ausgebeuteten, die wohlfeilere Produktion des letzteren
+                    läßt dem ersteren nur die Wahl, sich wieder zum Sklaven der Arbeit zu machen
+                    oder unterzugehen. Das Interesse des Volkes erfordert also eine innige Allianz
+                    aller freien Völker. Das Volk hat überall dieselben Interessen; es waren allein
+                    die feindlichen Interessen privilegirter Personen oder Klassen, welche die
+                    Völker feindlich gegen einander führten.</p>
+                <p>Im Interesse der Bourgeoisie liegt es natürlich, das Volk über seine wahren
+                    Interessen möglichst lange zu täuschen, <hi rendition="#g">ihre</hi> Interessen
+                    als die Interessen des ganzen Volkes hinzustellen, um dasselbe desto länger und
+                    ungestörter ausbeuten zu können. Wir hören sie daher täglich alle Maaßregeln,
+                    welche das Interesse ihrer Klasse fördern, als solche darstellen, die das Wohl
+                    des ganzes Volkes bedingten, durch deren Ausführung aller Noth der Arbeiter mit
+                    einem Male abgeholfen werde. Wenn sie Schutzzölle wollen, wollen sie dieselben
+                    nur des Arbeiters halber, ebenso den Freihandel, bloß der Arbeiter halber soll
+                    das Steuersystem verbessert werden, bloß um der Arbeiter willen lassen sie am
+                    Ende ihre Fabriken gehen, ja aus lauter Philantropie würden sie wohl gar für die
+                    Arbeiter auch noch das Essen und Trinken übernehmen, könnten diese nur ohne
+                    solche lästige Beschäftigung fortexi<pb n="VII"/>stiren. Manche dieser
+                    Maaßregeln sind freilich auch dem Arbeiter nütze, wenn auch nicht im Sinne der
+                    Bourgeoisie; ihre Ausführung beschleunigt die Entwickelung und damit den Sturz
+                    des Bourgeoisieregimentes; sie können deßhalb von den Arbeitern unterstützt
+                    werden, doch dürfen sie sich über ihren wirklichen Erfolg nicht täuschen, und in
+                    der Verfolgung ihres eigentlichen Zieles aufhalten lassen.</p>
+                <p>Die Schutzzoll- und Freihandelsfrage werden gewiß sehr bald wieder Gegenstand der
+                    Debatten in unseren Nationalparlamenten werden, und mit ihnen all’ die alten
+                    Redensarten von Nationalwohlfahrt und Volksglück wieder zu Tage kommen.
+                    Dieselben Fragen hatte unser erster Nationalökonom, Karl Marx im vorigen Jahre
+                    zum Gegenstand einer Rede in dem Brüsseler demokratischen Verein gemacht; eine
+                    andere Rede hatte er für den eben da zusammengetretenen Oekonomisten-Congreß
+                    vorbereitet. Beide Reden nehmen das Interesse des Arbeiters, des Volkes
+                    gegenüber der Bourgeoisie wahr, und stellen die eigennützigen Bestrebungen
+                    dieser in ihrer ganzen Nacktheit dar. Ich habe dieselben in’s Deutsche
+                    übertragen, und glaube durch ihre Mittheilung dem Publikum, insbesondere den
+                    demokratischen und Arbeiter-Vereinen einen Dienst zu erweisen.</p>
+                <p>Die zweite Rede, welche in einem belgischen Journale abgedruckt war, wurde von
+                    der Redaktion mit nachstehenden Worten eingeleitet: </p>
+                <p>„Der folgende Artikel geht vom Herrn <hi rendition="#g">Karl Marx</hi> aus,
+                    dessen revolutionäre Energie und wissenschaftliche Tiefe unsere Leser schon in
+                    den von uns mitgetheilten Auszügen seines vortrefflichen Werkes: »<hi rendition="#aq">Misère de la Philosophie</hi>« <note place="foot" n="*)">Von
+                        demselben wird in kurzer Zeit eine deutsche Bearbeitung erscheinen.</note>
+                    <pb n="VIII"/>zu bewundern Gelegenheit haben. Herr Marx hatte
+                    in der dritten Sitzung der Oekonomisten-Versammlung um’s Wort gebeten, was ihm
+                    jedoch unter dem Vorwande, daß die Zahl der bereits eingeschriebenen Redner zu
+                    groß sei, verweigert wurde. Er übergab deßhalb sowohl dem Komité jener
+                    Versammlung, wie einigen Journalen, zu denen zu gehören wir uns Glück wünschen,
+                    eine Note, welche das Resumé seiner beabsichtigten Rede enthielt. Unsere Leser
+                    werden sich mit uns über das Glück freuen, welches unserem Journale dadurch
+                    widerfahren, sobald sie jenen Artikel gelesen haben; aber sie werden auch mit
+                    uns erstaunen, daß die anderen Journale, denen er übersandt war, so wenig
+                    Einsicht und Gerechtigkeitsliebe haben, daß sie denselben in ihren Cartons
+                    begruben. Gewiß haben sie sich gesagt, daß neben einem solchen Artikel die
+                    Ergießungen ihrer gewöhnlichen – und möge man uns ein Wortspiel gestatten, ihrer
+                        <hi rendition="#g">sehr gewöhnlichen</hi> – Redakteure dem Publikum noch
+                    unerträglicher als gewöhnlich erscheinen möchten. Wir für unsern Theil sagen
+                    indeß der Bourgeoisie-Presse unsern verbindlichsten Dank dafür, daß sie uns die
+                    Veröffentlichung dieses Artikels überlassen hat.“</p>
+                <closer><date><hi rendition="#g">Darmstadt</hi> im Juni <hi rendition="#b">1848</hi>.</date><lb/>
+                <salute><hi rendition="#b">J. Weydemeyer.</hi></salute></closer>
+                <milestone unit="section" rendition="#hr"/>
+                <lb/>
+            </div>
+        </front>
+        <body>
+            <pb n="[1]"/>
+            <div n="3" type="chapter">
+                <head>Rede über den Freihandel, gehalten in dem demokratischen Verein zu <hi rendition="#g">Brüssel</hi> in der öffentlichen Sitzung vom 9. <choice>
+                        <sic>Jannar</sic>
+                        <corr cert="high">Januar</corr>
+                    </choice> 1848.</head>
+                <head><hi rendition="#g #b">Meine Herren!</hi></head>
+                <p>Die Aufhebung der englischen Korngesetze ist der größte Triumph den der
+                    Freihandel im neunzehnten Jahrhundert davongetragen hat. Wo in der Welt unter
+                    Fabrikanten die Rede vom Freihandel ist, ist es vor Allem der freie Handel mit
+                    Getreide und Rohstoffen im Allgemeinen, den sie im Auge haben. Fremdes Korn mit
+                    Eingangszoll belasten, das gilt ihnen infam, das nennen sie auf den Hunger des
+                    Volkes spekuliren. </p>
+                <p>Wohlfeiles Brod, hoher Arbeitslohn <hi rendition="#aq">cheap food</hi>, <hi rendition="#aq">high wages</hi>, sind das alleinige Ziel, für dessen
+                    Erreichung die Freetraders (Freihandelsmänner) Englands schon Millionen geopfert
+                    haben; und schon hat sich ihr Enthusiasmus ihren Brüdern auf dem Festlande
+                    mitgetheilt. Ueberhaupt, wenn man den Freihandel will, will man nur die Lage der
+                    arbeitenden Klassen verbessern.</p>
+                <p>Doch wunderbar! das Volk, dem man so mit aller Gewalt wohlfeiles Brod verschaffen
+                    will, ist im höchsten Grade undankbar. Das wohlfeile Brod ist in England eben so
+                    verrufen, als in Frankreich die wohlfeile Regierung.<note place="foot" n="*)">
+                        <p>Man vergesse nicht, daß die Rede vor der Revolution gehalten wurde.</p>
+                        <p><?oxy_comment_start author="pagel" timestamp="20180824T152840+0200" comment="Rechtsbündig."?>D.
+                            Uebers.<?oxy_comment_end?></p>
+                    </note> Das Volk sieht in diesen aufopfernden Männern, einem Bowring, einem
+                    Bright und Konsorten seine ärgsten Feinde und die frechsten Heuchler.</p>
+                <pb n="2"/>
+                <p>Alle Welt weiß, daß der Kampf zwischen den Liberalen und Demokraten in England
+                    der Kampf zwischen <choice>
+                        <sic>Freetradres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice> und Chartisten<note place="foot" n="*)">
+                        <p>Die Volkscharte, deren Ausführung die Chartisten verlangen, wurde 1835
+                            von einem Comité der allgemeinen Londoner Arbeitergesellschaft (<hi rendition="#aq">Working Men’s Association</hi>), an dessen Spitze
+                            William Lovett stand, entworfen. Sie umfaßt folgende sechs Punkte: 1)
+                            Allgemeines Stimmrecht für jeden mündigen Mann, der bei gesundem
+                            Verstande und keines Verbrechens überführt ist; 2) jährlich zu
+                            erneuernde Parlamente; 3) Diäten für die Parlamentsmitglieder, damit
+                            auch Unbemittelte eine Wahl annehmen können; 4) Wahlen durch Ballotage,
+                            um Bestechung und Einschüchterung durch die Bourgeoisie zu vermeiden; 5)
+                            gleiche Wahldistrikte, um gleich billige Repräsentation zu sichern, und
+                            6) Abschaffung der – ohnehin illusorischen – ausschließlichen
+                            Wählbarkeit derjenigen, die 300 Pfund St. im Grundbesitz haben, so daß
+                            jeder Wähler auch wählbar ist. – Diese sechs Punkte, die sich alle auf
+                            die Konstituirung des Unterhauses beschränken, sind, so unschuldig sie
+                            aussehen, dennoch hinreichend, die englische Verfassung sammt Königinn
+                            und Oberhaus zu zertrümmern. … Der englische Chartist ist
+                            politisch Republikaner, obgleich er das Wort nie oder doch selten in den
+                            Mund nimmt, während er allerdings mit den republikanischen Parteien
+                            aller Länder sympathisirt und sich lieber einen Demokraten nennt. Aber
+                            er ist mehr als bloßer Republikaner; seine Demokratie ist keine bloß
+                            politische. … Der Chartismus ist, wie der berühmte Redner Stephens
+                            sagt, keine politische Frage, wobei es sich bloß um das Wahlrecht
+                            handelt. „Der Chartismus, das ist eine <hi rendition="#g">Messer- und
+                                Gabel-Frage</hi>, die Charte, das heißt gute Wohnung, gutes Essen
+                            und Trinken, gutes Auskommen und kurze Arbeitszeit.“</p>
+                        <p>(Friedrich Engels, die Lage der arbeitenden Klasse in England.)</p>
+                    </note> ist.</p>
+                <p>Sehen wir, welche Bürgschaft die <choice>
+                        <sic>Freetradres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice> dem Volke für den guten Willen geben, der die Triebfeder ihrer
+                    Handlungen sein soll.</p>
+                <p>Den Fabrikarbeitern sagen sie: der Eingangszoll vom Getreide ist eine Abgabe vom
+                    Arbeitslohne, eine Abgabe, die ihr an die Grundbesitzer, diese Aristokraten des
+                    Mittelalters entrichtet; wenn eure Lage schlecht ist, so liegt die Ursache davon
+                    in dem hohen Preise der nothwendigsten Lebensmittel.</p>
+                <p>Die Arbeiter fragen ihrerseits die Fabrikanten: Wie kömmt es denn, daß in den
+                    letzten 30 Jahren, in denen die Entwickelung unserer Industrie, die schnellsten
+                    Fortschritte gemacht hat, unser Arbeitslohn in viel stärkerem Verhältniß
+                    gesunken, als der Kornpreiß gestiegen ist?</p>
+                <p>Die Abgabe, welche wir nach eurer Behauptung an die Grundbesitzer zahlen, beträgt
+                    für den einzelnen Arbeiter kaum 3 Pence (ungefähr 2 Sgr. 6 Pf.) die Woche,
+                    während der Lohn des Handwerkers <pb n="3"/>in dem Zeitraum von 1815 bis 1848
+                    von 28 Schilling (9 Thlr. 10 Sgr.) auf 5 Schilling (1 Thlr. 20 Sgr.) die Woche,
+                    der Lohn des Fabrikwebers von 1823 bis 1843 von 20 Schilling (6 Thlr. 20 Sgr.)
+                    auf 8 Schilling (2 Thlr. 20 Sgr.) wöchentlich gesunken ist.</p>
+                <p>Und doch hat in dieser ganzen Zeit die Abgabe an die Grundbesitzer niemals über 3
+                    Pence betragen. Was sagtet ihr uns endlich 1834, als das Brod wohlfeil war und
+                    der Handel florirte? Wenn ihr unglücklich seid, so liegt es allein daran, daß
+                    ihr zu viele Kinder zeugt, daß eure Ehe fruchtbarer ist, als eure Industrie.</p>
+                <p>Das waren damals eure Worte, und ihr schufet die neuen Armengesetze und erbautet
+                    die <hi rendition="#aq">workhouses</hi>,<note place="foot" n="*)">
+                        <p>Die englischen Armengesetze sind wahre Strafgesetze für die Armuth, sie
+                            sind berüchtigt durch ihre Härte und Unmenschlichkeit. Bis zum Jahre
+                            1834 flossen die Armenunterstützungen reichlicher und waren an mildere
+                            Bedingungen geknüpft; dafür drohte aber auch zuletzt die englische
+                            Armuth den englischen Reichthum zu verschlingen, denn mit der Zahl der
+                            Armen stieg die Armentaxe von Jahr zu Jahr in erschreckendem Maaße. Die
+                            gewaltige Entwickelung der Industrie hatte die Konzentration bedeutender
+                            Volksmassen auf einzelnen Punkten, und damit eine rasche Vermehrung der
+                            Bevölkerung hervorgerufen; die Theilung der Arbeit, die Anwendung der
+                            Maschinen vermehrte täglich die Zahl der Arbeitslosen. Um die <hi rendition="#g">Armuth</hi> zu vernichten, hätte man die Grundlage
+                            unserer ganzen sozialen Zustände ändern, hätte man der Ausbeutung der
+                            Arbeit durch das Kapital ein Ende machen müssen. Das lag aber nicht im
+                            Interesse der Bourgeoisie; sie mußte sich also zu einer Vernichtung der
+                                <hi rendition="#g">Armen</hi> entschließen, um von ihrem Besitz die
+                            Gefahr abzuwenden, welche ihm aus der Armuth erwuchs. Die Armen <hi rendition="#g">geradezu</hi> dem Hungertode überliefern, war zu
+                            gefährlich, das hätte zur offenen Empörung geführt; Armengesetze aber,
+                            welche die Unterstützung fürchten machten, damit sie nur im äußersten
+                            Nothfalle, wenn es vielleicht schon zu spät ist, zur Rettung des siechen
+                            Körpers, in Anspruch genommen würde, boten einen willkommenen Ausweg.
+                            Man errichtete zu diesem Zwecke die <hi rendition="#aq">workhouses</hi>,
+                            welche von dem Volke nicht anders als Armengesetz-Bastillen genannt
+                            werden; in diese wurden die Unterstützungsbedürftigen eingeschlossen,
+                            jede Unterstützung außerhalb derselben verboten. Nur in Zeiten der
+                            Krisis, wo der Andrang zu groß war, war man bisweilen gezwungen,
+                            Ausnahmen von dieser Bestimmung zu machen. Das Volk fürchtet das <hi rendition="#aq">workhouse</hi> mehr, als das Gefängniß, und zieht
+                            die Strafe des Verbrechers nicht selten der Unterstützung des Armen vor.
+                            Die Nahrung dort ist schlechter, als die der ärmsten beschäftigten
+                            Arbeiter, die Arbeit schwerer. Fleisch, besonders frisches wird selten
+                            gereicht, meist Kartoffeln, möglichst schlechtes Brod und Hafermehlbrei,
+                            wenig oder gar kein Bier. Wer sein Quantum Arbeit nicht thut, bekommt
+                            <?oxy_comment_start author="pagel" timestamp="20180824T152759+0200" comment="Seitenwechsel auf S. 4"?>nichts<?oxy_comment_end?>
+                            zu essen, wer hinausgehen will, muß erst um Erlaubniß bitten, die ihm je
+                            nach seinem Betragen oder der Meinung, die der Inspektor davon hat,
+                            verweigert werden kann; Taback ist verboten, ebenso die Annahme von
+                            Geschenken von Freunden oder Verwandten außerhalb des Hauses. Die Armen
+                            tragen Arbeitshaus-Uniform und sind der Willkühr des Inspektors ohne
+                            Schutz unterworfen. Trotz der ärgsten Scheußlichkeiten, welche sich die
+                            Inspektoren häufig gegen ihre Gefangenen, denn das sind die
+                            Unterstützten im eigentlichen Sinne des Wortes, erlauben, werden sie
+                            doch nur selten bestraft; die härteste Behandlung ist ja eben das, was
+                            die Bourgeoisie wünscht, damit ihr Geldbeutel möglichst geschont werde.
+                            Wie sie, haben auch ihre Diener ihr Geldinteresse im Auge, und so
+                            schlecht auch die <hi rendition="#g">vorgeschriebene</hi> Kost der Armen
+                            schon ist, so sucht doch noch mancher Inspektor sich durch Verkürzung
+                            derselben zu bereichern. Ich erinnere in dieser Beziehung nur an die
+                            Gräuel in dem <hi rendition="#aq">workhouse</hi> zu Andover, wo die
+                            Armen zum Knochenstampfen – und wie der Bericht sagt, nicht allein von
+                            Thier-, sondern auch von auf den Kirchhöfen gesammelten Menschenknochen
+                            – benutzt wurden. Der Hunger war bei ihnen so groß, daß sie die an den
+                            Knochen hängen gebliebenen stinkenden Reste von Fleisch und Sehnen
+                            abnagten, und sich sogar darum schlugen. Herr Wakley brachte die Sache
+                            im Parlamente zur Anzeige, aber nur seiner Festigkeit war es zu danken,
+                            daß sie wirklich zur Untersuchung kam, welche der Minister Grey
+                            vergebens von der Hand zu weisen suchte.</p>
+                        <p>Die gewöhnliche Beschäftigung der Männer in den <hi rendition="#aq">workhouses</hi> ist Steineklopfen, „so viel ein starker Mann mit
+                            Anstrengung in einem Tage thun kann“; die Weiber, Greise und Kinder
+                            müssen alte Schiffstaue zupfen. Damit sich die Familie nicht vermehrt,
+                            und die Eltern auf ihre Kinder nicht einwirken können, werden sie
+                            auseinander gerissen und in verschiedene Flügel des Hauses gewiesen. Sie
+                            dürfen einander nur zu bestimmten, selten wiederkehrenden Zeiten sehen,
+                            und auch dann nur, wenn sie sich nach der Meinung der Beamten gut
+                            betragen haben. Besuch dürfen die Bewohner des <hi rendition="#aq">workhouse</hi> nur im Sprechzimmer mit Bewilligung der Beamten
+                            annehmen, überhaupt nur unter ihrer Aufsicht mit Leuten außerhalb
+                            verkehren.</p>
+                        <p>So sorgt die englische Bourgeoisie für das Proletariat, dessen Arbeit es allein seinen ganzen Reichthum verdankt;
+                            ähnliche Zustände warten auch unser, gestatten wir es nur unserer
+                            Bourgeoisie, ihre Herrschaft gehörig zu befestigen, und gönnen wir ihr
+                            ein langes Bestehen.</p>
+                        <p><?oxy_comment_start author="pagel" timestamp="20180824T152821+0200" comment="Rechtsbündig"?>Der
+                            Uebers.<?oxy_comment_end?></p></note> diese Bastillen des Proletariats.</p>
+                <pb n="4"/><p>Sie haben Recht, meine Herren Arbeiter, erwiederten nun die Fabrikanten; nicht allein der Preis
+                    des Korns ist es, der den Arbeitslohn bestimmt, sondern vielmehr das Angebot der
+                    Arbeitskräfte. Bedenken Sie, daß unser Land nur aus Felsen und Sandbänken
+                    besteht. Bilden Sie sich ein, man könne das Getreide in Blumentöpfen ziehen? <pb n="5"/>Wären wir nun, statt unser Kapital und unsere Arbeit auf einen ganz
+                    sterilen Boden zu verschwenden, reichlich mit Agrikulturprodukten versorgt, und
+                    könnten uns ausschließlich der Industrie widmen, so würden wir ganz Europa mit <choice>
+                        <sic>unsere</sic>
+                        <corr cert="high">unseren</corr>
+                    </choice> Manufakturwaaren überschwemmen; England würde eine große
+                    Manufakturstadt, das ganze übrige Europa seine ländliche Umgebung bilden.</p>
+                <p>Während sich der Fabrikant so mit seinem eigenen Arbeiter unterhält, wird er
+                    plötzlich von dem Kleinhändler unterbrochen:</p>
+                <p>Ja, mit der Abschaffung der Korngesetze ruiniren wir allerdings unseren Ackerbau,
+                    zwingen aber die anderen Länder dadurch nicht, sich in unseren Fabriken zu
+                    versorgen, und die ihrigen zu verlassen. Was ist also das Resultat? Ich verliere
+                    also meine Kundschaft, welche ich jetzt auf dem Lande habe, und der innere
+                    Handel verliert seine Märkte.</p>
+                <p>Dem Arbeiter den Rücken kehrend wendet sich der Fabrikant zu dem Kleinhändler:
+                    Was den Punkt betrifft, so laßt uns nur sorgen. Sind einmal die Kornzölle bei
+                    uns abgeschafft, und geht das fremde Korn zu niedrigeren Preisen bei uns ein, so
+                    werden wir alsbald den Arbeitslohn herabsetzen, während er in allen Ländern,
+                    denen wir das Korn entnehmen, nothwendig steigen muß.</p>
+                <p>So werden wir allen anderen Vortheilen, deren wir uns bereits erfreuen, dann auch
+                    noch den Vortheil des niedrigsten Arbeitslohnes hinzufügen, und mit diesem
+                    ganzen Uebergewicht den Kontinent zwingen, bei uns einzukaufen.</p>
+                <p>Da mischen sich plötzlich der Pächter und Ackerbautagelöhner in die Diskussion:
+                    Und was soll denn aus uns werden, fragen sie!</p>
+                <p>Statt aller Antwort setzt die <hi rendition="#aq">anti-corn-law-league</hi> (der Verein zur Abschaffung
+                    der Korngesetze) einen Preis aus für die drei besten Schriften über den
+                    heilsamen Einfluß der Aufhebung der Korngesetze auf den englischen Ackerbau.</p>
+                <p>Die Herren Hope, Morse und Gregg haben die Preise davongetragen, und ihre
+                    Schriften wurden in Tausenden von Exemplaren im Lande verbreitet.</p>
+                <p>Einer dieser Laureaten bemüht sich zu beweisen, daß es weder der Pächter noch der
+                    Tagelöhner, sondern einzig und allein der Grundeigenthümer sei, der durch die
+                    Einfuhr fremden Korns verliere. Der englische Pächter, ruft er aus, hat nichts
+                    zu fürchten von der Aufhebung der Korngesetze, denn kein anderes Land kann so
+                    gutes und wohlfeiles Korn hervorbringen als England. Selbst wenn der Preis des
+                    Korns fallen sollte, wird nicht der geringste Nachtheil für euch daraus
+                        erwach<pb n="6"/>sen, weil das Sinken allein auf die Rente, keineswegs aber
+                    auf den industriellen Gewinn und den Arbeitslohn fallen würde. Jene würde
+                    dadurch vermindert, während diese dieselben blieben.</p>
+                <p>Der zweite Laureat, Herr Morse, behauptet im Gegentheil, der Preis des Korns
+                    werde in Folge der Aufhebung der Korngesetze steigen. Er gibt sich unendliche
+                    Mühe, zu beweisen, daß die Korngesetze niemals im Stande gewesen seien, dem Korn
+                    einen entsprechenden Preis zu sichern. Zur Unterstützung seiner Behauptung führt
+                    er das Faktum an, daß allemal, wenn fremdes Korn eingeführt worden, der Preis
+                    des englischen Korns bedeutend gestiegen sei; dagegen bedeutend gesunken, wenn
+                    man wenig eingeführt habe.</p>
+                <p>Der Laureat vergißt nur, daß nicht die Einfuhr die Ursache des hohen Preises,
+                    sondern der hohe Preis die Ursache der Einfuhr war. Und ganz im Gegensatz zu
+                    seinem Mitlaureaten versichert er, daß das Steigen des Kornpreises zum Vortheil
+                    des Pächters und Tagelöhners, und nicht des Grundbesitzers ausschlage.</p>
+                <p>Der dritte Laureat, Herr Gregg, ist ein großer Fabrikant, und sein Buch an die
+                    Klasse der großen Pächter gerichtet. Er beschränkt sich nicht auf ähnliche
+                    Albernheiten, seine Sprache ist wissenschaftlicher. Er gibt zu, daß die
+                    Korngesetze nur dadurch im Stande waren, die Rente zu erhöhen, daß sie den Preis
+                    des Korns steigerten, und daß sie den Preis des Korns nur dadurch steigern
+                    konnten, daß sie dem Kapital die Nothwendigkeit auferlegten, sich an Ländereien
+                    niedrigerer Qualität zu wenden; was sich von selbst erklärt.</p>
+                <p>Verschließt sich ein Land gegen die Einfuhr fremden Korns, so ist man in
+                    demselben gezwungen, je nach der Zunahme der Bevölkerung unfruchtbareren Boden
+                    in Bebauung zu nehmen, dessen Kultur größere Kosten verursacht, dessen Produkt
+                    also theurer ist. Da der Ankauf von Korn nicht vermindert werden kann, so muß
+                    der Preis desselben sich nothwendig nach den Produkten derjenigen Ländereien
+                    richten, deren Bebauung am theuersten ist. Der Unterschied zwischen ihrem Preise
+                    und den Produktionskosten der besseren Ländereien macht die Rente aus. Fällt
+                    also in Folge der Aufhebung der Korngesetze der Kornpreis, und mit ihm die
+                    Rente, so kömmt es nur daher, weil die unfruchtbaren Ländereien nicht mehr
+                    bebaut werden. Die Reduktion der Rente muß also unbedingt den Ruin eines Theils
+                    der Pächter nach sich ziehen.</p>
+                <p>Diese Bemerkung war nothwendig, um die Auseinandersetzung Herrn Gregg’s zu
+                    verstehen. Die kleinen Pächter, heißt es bei ihm, welche sich im Ackerbau nicht
+                    mehr halten können, werden in der In<pb n="7"/>dustrie ein Unterkommen finden;
+                    die großen Pächter können bei der Aufhebung der Korngesetze nur gewinnen. Die
+                    Eigenthümer werden gezwungen sein, entweder ihre Ländereien wohlfeil zu <choice>
+                        <sic>verkanfen</sic>
+                        <corr cert="high">verkaufen</corr>
+                    </choice> oder lange Pachtverträge mit ihnen einzugehen. Hierdurch werden die
+                    Pächter in den Stand gesetzt, große Kapitalien auf die Ländereien zu verwenden,
+                    von den Maschinen einen weit ausgedehnteren Gebrauch zu machen, als bisher und
+                    so mit der Handarbeit zu ökonomisiren, welche außerdem durch das allgemeine
+                    Sinken des Arbeitslohnes, eine unmittelbare Folge der Abschaffung der
+                    Korngesetze, viel wohlfeiler werden wird.</p>
+                <p>Herr <hi rendition="#aq">Dr.</hi> Bowring hat all’ diesen Argumenten eine
+                    religiöse Weihe gegeben, indem er in einem öffentlichen Meeting ausrief: „Jesus
+                    Christus, das ist der Freihandel; der Freihandel, das ist Jesus Christus!“</p>
+                <p>Es ist wohl leicht erklärlich, daß dieses ganze Trugsystem eben nicht geeignet
+                    war, den Arbeitern das wohlfeile Brod besonders schmackhaft zu machen. Wie
+                    sollten auch die Arbeiter die plötzliche Philantropie der Fabrikanten begreifen,
+                    derselben Leute, die sich gerade eifrig bemühten, die Zehnstundenbill zu
+                    bekämpfen, eine Bill, durch welche die Tagesarbeit der Fabrikarbeiter von zwölf
+                    auf zehn Stunden reduzirt werden sollte. Um ihnen, meine Herren, eine Idee zu
+                    geben von der Philantropie der Fabrikanten, will ich nur an die Reglements
+                    erinnern, welche in allen Fabriken eingeführt sind.</p>
+                <p>Jeder Fabrikant hat zu seinem Privatgebrauche einen wahrhaften Code, worin er für
+                    alle freiwilligen oder unfreiwilligen Fehler Geldstrafen festgesetzt hat. So
+                    zahlt z. B. der Arbeiter so und so viel, wenn er das Unglück hat, sich auf einen
+                    Stuhl niederzulassen, wenn er lispelt, spricht, lacht, wenn er einige Minuten zu
+                    spät kommt, wenn an der Maschine etwas zerbricht; wenn die Produkte, welche er
+                    liefert, nicht die gewünschte Qualität haben, u. dgl. m. –</p>
+                <p>Die Geldstrafen sind stets höher, als der von den Arbeitern wirklich angerichtete
+                    Schaden.</p>
+                <p>Und um es den Arbeitern möglichst zu erleichtern, in solche Strafen zu verfallen,
+                    stellt man die Fabrikuhr vor, liefert schlechte Rohstoffe, aus denen die
+                    Arbeiter gute Fabrikate schaffen sollen. Man setzt den Contremaitre
+                    (Werkmeister) ab, wenn er nicht geschickt genug ist, die Contraventionsfälle zu
+                    vermehren.</p>
+                <p>Sie sehen, meine Herren, diese häusliche Gesetzgebung ist gemacht, um
+                    Contraventionen zu schaffen, und Contraventionen schafft man, um sich Geld zu
+                    schaffen. So wendet der Fabrikant alle Mittel an, um <pb n="8"/>den
+                    festgestellten Arbeitslohn zu verkürzen, und scheut sich selbst nicht,
+                    diejenigen Zufälle auszubeuten, über welche der Arbeiter nicht Herr ist. Und
+                    diese Fabrikanten sind dieselben Philantropen, welche die Arbeiter glauben
+                    machen wollten, sie wären im Stande, einzig zur Verbesserung des Looses der von
+                    ihnen gedrückten Arbeiterklasse sich in enorme Ausgaben zu stürzen.</p>
+                <p>So verkürzen sie also einerseits durch die Fabrikreglements den Lohn des
+                    Arbeiters auf die niederträchtigste Weise, und legen sich andererseits die
+                    größten Opfer auf, denselben durch die <hi rendition="#aq">anti-corn-law-league</hi> wieder zu
+                    erhöhen.</p>
+                <p>Mit großen Kosten erbauen sie Palläste, in denen die <hi rendition="#aq">league</hi> gewissermaßen ihren offiziellen Sitz hat; von einer Armee von
+                    Missionären lassen sie England nach allen Richtungen hin <choice>
+                        <sic>durziehen</sic>
+                        <corr cert="high">durchziehen</corr>
+                    </choice>, um die Religion des Freihandels zu predigen, lassen Tausende von
+                    Broschüren drucken und gratis vertheilen, um die Arbeiter über ihre eigenen
+                    Interessen aufzuklären, wenden enorme Summen an, um die Presse für ihre Sache
+                    günstig zu stimmen; organisiren eine weitumfassende Administration, um die
+                    Bewegungen der Freihandelsmänner zu dirigiren; und entfalten in den öffentlichen
+                    Meetings den ganzen Reichthum ihrer Beredsamkeit.</p>
+                <p>In einem dieser Meetings war es, daß ein Arbeiter ihnen zurief: Wenn die
+                    Grundeigenthümer unsere Knochen verkauften, so würdet ihr Fabrikanten die ersten
+                    Käufer sein, um sie in einer Dampfmühle zu Mehl zerreiben zu lassen.</p>
+                <p>Die englischen Arbeiter haben die Bezeichnung des Kampfes zwischen den
+                    Grundeigenthümern und den industriellen Kapitalisten sehr wohl verstanden, sie
+                    wissen sehr wohl, daß man den Preis des Brodes herabdrücken, daß der
+                    industrielle Profit um eben so viel vermehrt, als die Rente vermindert wird.</p>
+                <p><choice>
+                        <sic>Ruardo</sic>
+                        <corr cert="high">Ricardo</corr>
+                    </choice>, der Apostel der englischen <choice>
+                        <sic>Freetadres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice>, der ausgezeichneteste Oekonom unseres Jahrhunderts, ist in diesem
+                    Punkte vollständig mit den Arbeitern einverstanden. In seinem berühmten Werke
+                    über die politische Oekonomie sagt er: Wenn wir, statt das Korn bei uns zu
+                    bauen, einen neuen Markt entdeckten, auf dem wir uns wohlfeileres versorgen
+                    könnten, dann müßte der Arbeitslohn sinken, und der Profit steigen. Das Sinken
+                    des Preises der Agrikulturprodukte drückt aber nicht allein den Lohn der beim
+                    Ackerbau beschäftigten Arbeiter, sondern auch aller derjenigen, welche in den
+                    Manufakturen arbeiten, oder beim Handel angestellt sind.</p>
+                <pb n="9"/><p>Glauben sie indeß nicht, meine Herren, daß es für den Arbeiter ganz
+                    gleich sei, jetzt bei besseren Kornpreisen nur 4 Franken zu erhalten, während er
+                    früher 5 erhielt. Ist sein Lohn nicht beständig im Verhältniß zum Profit
+                    gefallen, und ist es nicht klar, daß sich seine soziale Stellung gegenüber dem
+                    Kapitalisten beständig verschlechtert hat? Außerdem verliert er aber auch
+                    wirklich.</p>
+                <p>Als der Kornpreis noch hoch war, und ebenso sein Lohn, reichte eine kleine
+                    Ersparniß von seinem Brodverzehren hin, um ihm andere Annehmlichkeiten zu
+                    verschaffen; seitdem aber der Brodpreis und mit ihm der Lohn so wohlfeil
+                    geworden ist, kann er vom Brode für den Ankauf anderer Gegenstände fast nichts
+                    mehr ersparen.</p>
+                <p>Die englischen Arbeiter haben es die <choice>
+                        <sic>Freetradres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice> fühlen lassen, daß sie nicht die Dupirten ihrer Illusionen und Lügen
+                    sind; und wenn sie sich trotzdem mit ihnen gegen die Grundeigenthümer vereinigt
+                    haben, so geschah es nur, um die letzten Rechte des Feudalismus zu vernichten,
+                    und es fortan nur mit einem einzigen Feinde mehr zu thun zu haben. Die Arbeiter
+                    haben sich in ihren Berechnungen nicht getäuscht; denn, um sich an den
+                    Fabrikanten zu rächen, machten die Grundeigenthümer gemeinschaftliche Sache mit
+                    den Arbeitern, um die Zehnstundenbill durchzubringen, welche seit 30 Jahren
+                    vergebens verlangt, jetzt unmittelbar nach Aufhebung der Korngesetze
+                    durchgeführt wurde.</p>
+                <p>Wenn auf der Oekonomisten-Versammlung zu Brüssel der <hi rendition="#aq">Dr.</hi> Bowring ein langes
+                    Verzeichniß aus der Tasche zog von allen Ochsen, Schinken, Speck, Hühner u. s.
+                    w., welche nach England eingeführt sind, um dort, wie er sagt, von den Arbeitern
+                    verzehrt zu werden, so hat er unglücklicher Weise nur ihnen zu sagen vergessen,
+                    daß in demselben Augenblicke die Arbeiter von Manchester und anderen
+                    Manufakturstädten durch die beginnende Krise auf’s Pflaster geworfen waren.</p>
+                <p>In der politischen Oekonomie darf man prinzipiell niemals die Zahlen eines
+                    einzigen Jahres nehmen, um daraus allgemeine Schlüsse zu ziehen. Man muß immer
+                    den Durchschnitt von 6 – 7 Jahren nehmen – einen Zeitraum, während dessen die
+                    moderne Industrie den Kreislauf durch die verschiedenen Phasen ihrer <choice>
+                        <sic>Blüthe</sic>
+                        <corr cert="medium">Blüthe,</corr>
+                    </choice> der Ueberproduktion, Stagnation und Krise vollendet.</p>
+                <p>Ohne Zweifel kann ich, wenn der Preis aller Waaren <choice>
+                        <sic>fällt,</sic>
+                        <corr cert="medium">fällt</corr>
+                    </choice> (und das ist die nothwendige Folge des freien <choice>
+                        <sic>Handes</sic>
+                        <corr cert="high">Handels</corr>
+                    </choice>), mir für einen Franken weit mehr Sachen kaufen, als <choice>
+                        <sic>vorher,</sic>
+                        <corr cert="medium">vorher</corr>
+                    </choice> (und der Frank des Arbeiters gilt eben so viel wie jeder andere). Der
+                    freie Handel wird daher sehr vortheilhaft sein für den Arbeiter. Es ist nur der
+                    kleine Uebel<pb n="10"/>stand dabei, daß der Arbeiter, ehe er seinen Franken
+                    gegen andere Waaren umsetzen kann, zuerst seine Arbeit gegen das Kapital
+                    austauschen muß. Wenn er bei diesem Austausch für dieselbe Arbeit stets den
+                    fraglichen Franken erhielt, während der Preis aller anderen Waaren sänke, so
+                    würde er immer bei diesem Handel gewinnen. Darin liegt nicht die Schwierigkeit,
+                    zu beweisen, daß wenn der Preis aller Waaren sinkt, ich für dasselbe Geld noch
+                    mehr Waaren kaufen kann.</p>
+                <p>Die Oekonomen nehmen den Preis der Arbeit stets in dem Momente, wo er gegen
+                    andere Waaren ausgetauscht wird. Sie lassen den Moment vollständig bei Seite, wo
+                    die Arbeit den Austausch gegen das Kapital bewirkt.</p>
+                <p>Wenn die Maschine, welche die Waaren hervorbringt, mit geringeren Kosten in
+                    Bewegung gesetzt werden kann, so werden auch die Dinge, die zur Erhaltung der
+                    Maschine, welche sich Arbeiter nennt, erforderlich sind, wohlfeiler sein; wenn
+                    alle Waaren wohlfeiler werden, sinkt die Arbeit, welche ebenfalls eine Waare
+                    ist, mit im Preise, und wie wir später sehen werden, verhältnißmäßig noch
+                    stärker, als die übrigen Waaren. Der Arbeiter, welcher sich immer auf die
+                    Beweisführung der Oekonomen verläßt, wird finden, daß der Frank in seiner Tasche
+                    sich verloren, und ihm nur 5 Sous davon geblieben sind.</p>
+                <p>Die Oekonomen sagen euch hierüber: Gut, wir räumen ein, daß die Konkurenz der
+                    Arbeiter, welche unter der Herrschaft des Freihandels sicher nicht abnimmt, den
+                    Arbeitslohn sehr bald in Uebereinstimmung bringen wird mit dem niedrigen Preise
+                    der Waaren. Auf der anderen Seite wird aber der niedrige Preis der Waaren die
+                    Konsumtion vermehren. Die größere Konsumtion fordert eine größere Produktion,
+                    welcher wiederum eine größere Nachfrage nach Händen folgt, und diese größere
+                    Nachfrage muß den Arbeitslohn wieder in die Höhe treiben.</p>
+                <p>Diese ganze Beweisführung läuft darauf hinaus: der Freihandel vermehrt die
+                    produktiven Kräfte; wenn die Industrie steigt, wenn der Reichthum, wenn die
+                    produktive Macht, wenn mit einem Worte das produktive Kapital die Nachfrage nach
+                    Arbeit vermehrt, so steigt der Preis der Arbeit, und folglich auch der
+                    Arbeitslohn. Die beste Bedingung für den Arbeiter, das muß man zugeben, ist die
+                    Zunahme des Kapitals. </p>
+                <p>Bleibt das Kapital stationär, so bleibt die Industrie nicht allein stationär,
+                    sondern geht zurück, und in diesem Falle ist der Arbeiter das erste Opfer, er
+                    geht unter vor dem Kapitalisten. Und in dem Falle, <pb n="11"/>wo das Kapital
+                    zunimmt, in diesem, wie gesagt für den Arbeiter günstigstem Falle, was ist da
+                    sein Schicksal? – Er geht ebenfalls unter.</p>
+                <p>Die Zunahme des produktiven Kapitals zieht die Anhäufung und Konzentration der
+                    einzelnen Kapitale nach sich, die Zentralisation der Kapitale hat wieder eine
+                    weit größere Theilung der Arbeit, und eine ausgedehntere Anwendung der Maschinen
+                    zur Folge; die größere Theilung der Arbeit zerstört die Spezialität des
+                    Arbeiters, und setzt an die Stelle dieser Spezialität eine Arbeit, welche
+                    Jedermann verrichten kann, sie vermehrt die Konkurrenz der Arbeiter. Diese
+                    Konkurrenz wird um so stärker, als die Theilung der Arbeit den Arbeiter in den
+                    Stand setzt, allein die Arbeit von dreien zu verrichten. Die Maschinen bringen
+                    in noch weit größerem Maaße dasselbe Resultat hervor.</p>
+                <p>Die Zunahme des produktiven Kapitals zwingt die industriellen Kapitalisten, mit
+                    stets wachsenden Mitteln zu arbeiten, vernichtet also die kleinen Industriellen,
+                    und wirft sie in das Proletariat.</p>
+                <p>Endlich wird durch die Anhäufung der Kapitale der Zinsfuß herabgedrückt, die
+                    kleinen Rentner, welche nicht mehr von ihren Renten leben können, werden
+                    gezwungen, sich in die Industrie zu stürzen, um dann ebenfalls die Zahl der
+                    Proletarier zu vermehren.</p>
+                <p>Je mehr zuletzt das produktive Kapital zunimmt, desto mehr ist es gezwungen, für
+                    einen Markt zu arbeiten, dessen Bedürfnisse es nicht kennt; um so mehr will die
+                    Produktion der Konsumtion voraus; um so mehr sucht das Angebot die Nachfrage zu
+                    erzwingen. Die Krisen steigen in Folge dess’ an Intensität und rascher Folge;
+                    aber jede Krise beschleunigt ihrerseits wieder die Zentralisation des Kapitals
+                    und vermehrt das Proletariat.</p>
+                <p>So steigt mit der Vermehrung des produktiven Kapitals in noch weit höherem Maaße
+                    die Konkurrenz unter den Arbeitern. Die Vertheilung der Arbeit auf Alle nimmt
+                    ab, die Last der Arbeit vermehrt sich für Einige.</p>
+                <p>Im Jahre 1829 waren in Manchester 1088 Spinner in 36 Fabriken beschäftigt. Im
+                    Jahre 1841 gab es deren nicht mehr als 448, und diese Arbeiter waren bei 54353
+                    Spindeln mehr beschäftigt, als die 1088 Arbeiter im Jahre 1829. Hätte die
+                    Handarbeit in gleichem Maaße mit der produktiven Macht zugenommen, so hätte die
+                    Zahl der Arbeiter auf 1848 steigen müssen; so daß also durch die Verbesserung in
+                    der Mechanik 1100 Arbeiter ihre Arbeit verloren haben.</p>
+                <p>Wir kennen schon im voraus die Antwort der Oekonomen: Diese Menschen, welche ihre
+                    Arbeit verloren haben, werden schon eine andere <pb n="12"/>Beschäftigung
+                    finden. Herr <hi rendition="#aq">Dr.</hi> Bowring hat es nicht versäumt, auf dem
+                    Oekonomisten-Kongresse dieses Argument wieder vorzubringen. Doch hat er nicht
+                    weniger
+                    <?oxy_comment_start author="pagel" timestamp="20180824T152637+0200" comment="auch?"?>auf<?oxy_comment_end?>
+                    sich selbst widerlegt.</p>
+                <p>Im Jahre 1833 sprach <hi rendition="#aq">Dr.</hi> Bowring in der Kammer der
+                    Gemeinen in Sachen der 50000 Weber von London, welche schon seit lange im Elend
+                    umkommen, ohne diese neue Beschäftigung finden zu können, die die <choice>
+                        <sic>Freetradres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice> ihnen in Aussicht stellen.</p>
+                <p>Wir wollen hier einige der treffendsten Stellen aus der Rede des Herrn <hi rendition="#aq">Dr.</hi>
+                    Bowring mittheilen.</p>
+                <p>„Das Elend der Handweber“, sagt er, „ist das Loos einer jeden Arbeit, die sich
+                    leicht erlernen läßt, und welche in Gefahr steht, in jedem Augenblick durch
+                    wohlfeilere Mittel ersetzt zu werden. Da in einem solchen Falle die Konkurrenz
+                    unter den Arbeitern bedeutend groß ist, so bringt das geringste Nachlassen in
+                    der Nachfrage eine Krisis hervor. Die Handweber stehen gewissermaßen auf der
+                    äußersten Grenze der menschlichen Existenz, ein Schritt weiter und ihre Existenz
+                    wird unmöglich. Der leiseste Stoß genügt, sie geradezu ihrem Untergange
+                    entgegenzutreiben. Indem die Fortschritte in der Mechanik mehr und mehr die
+                    Handarbeit unterdrücken, rufen sie für die Uebergangsepoche unzweifelhaft viele
+                    Leiden hervor. Das Nationalwohl kann nicht ohne einige individuelle Uebel
+                    erkauft werden. Man schreitet in der Industrie nur fort auf Kosten der
+                    Nachzügler, und von allen neuen Entdeckungen ist es gerade die Dampfmaschine,
+                    welche mit dem schwersten Drucke auf den Handwebern lastet. Schon ist der Weber
+                    in vielen Artikeln, die bis dahin durch Handarbeit erzeugt wurden, kampfunfähig
+                    gemacht, in vielen Dingen, die noch jetzt durch Handarbeit erzeugt werden, wird
+                    er noch geschlagen werden.</p>
+                <p>Ich habe“, sagt er weiter, „eine Korrespondenz zwischen dem Generalgouverneur und
+                    der ostindischen Kompagnie in der Hand. Diese Korrespondenz betrifft die Weber
+                    des Distriktes von Dacca.</p>
+                <p>Der Gouverneur sagt in diesem Briefe: Es sind erst einige Jahre her, daß die
+                    ostindische Kompagnie 6 – 8 Millionen Stück Baumwolle, welche hier zu Lande
+                    fabrizirt wurden, erhielt. Die Nachfrage fiel stufenweise, und sank bis auf
+                    ungefähr eine Million. In diesem Augenblick hat sie fast ganz aufgehört.</p>
+                <p>Mehr noch! Im Jahre 1800 zog Nordamerika beinah 800,000 Stück Baumwolle aus
+                    Indien. Im Jahre 1830 erhielt es keine 4000 mehr.</p>
+                <pb n="13"/><p>Endlich, im Jahre 1800 wurden zum Transport nach Portugal eine Million Stück Baumwolle
+                    eingeschifft. Im Jahre 1830 empfing Portugal nicht mehr als 20000.</p>
+                <p>Die Berichte über das Elend der indischen Weber sind fürchterlich. Und was war
+                    der Ursprung dieses Elends?</p>
+                <p>Das Erscheinen englischer Produkte auf dem Markte; die Produktion dieses Artikels
+                    mittelst der Dampfmaschine. Eine sehr große Anzahl Weber ist vor Erschöpfung
+                    umgekommen, die übrigen sind zu andern Beschäftigungen, besonders zu ländlichen
+                    Arbeiten übergegangen. Seine Beschäftigung nicht ändern <hi rendition="#g">können</hi>, ist so gut, wie ein Todesurtheil. Und in diesem Augenblicke
+                    strotzt der Bezirk von Dacca von englischen Gespinsten und Geweben. Der
+                    Mousseline von Dacca, in der ganzen Welt berühmt durch seine Schönheit und die
+                    Festigkeit seines Gewebes, ist ebenfalls verdrängt durch die Konkurrenz der
+                    englischen Maschinen. Kaum wird man ähnliche Leiden, wie sie hierdurch ganze
+                    Klassen in Ostindien haben erdulden müssen, in der ganzen Geschichte des Handels
+                    wiederfinden.“</p>
+                <p>Die Rede des <hi rendition="#aq">Dr.</hi> Bowring ist um so bemerkenswerther, als die darin angeführten
+                    Thatsachen richtig sind, und die Phrasen, mit welchen er dieselben zu verhüllen
+                    sucht, denselben betrügerischen Charakter tragen, wie alle Reden der
+                    Freihandelsmänner. Er betrachtet die Arbeiter als Produktionsmittel, welche man
+                    durch andere minder kostbare Mittel ersetzen müsse. Er stellt sich, als sähe er
+                    in der Arbeit von der er spricht, eine ganz besondere Arbeit, und in der
+                    Maschine, welche die Weber vernichtet hat, ebenso eine ganz besondere Maschine.
+                    Er vergißt, daß es keine Handarbeit gibt, welche sich nicht dazu eignet, eines
+                    Tags dasselbe Schicksal zu erfahren, wie die Weberei.</p>
+                <p>„Der beständige Zweck und die Tendenz jeder mechanischen Vervollkomnung sind in
+                    der That die, die menschliche Arbeit vollständig überflüssig zu machen, oder
+                    ihren Preis herabzudrücken, indem man die Arbeit des erwachsenen Arbeiters durch
+                    die der Frauen und Kinder ersetzt, oder den geschickten Künstler durch den
+                    groben Arbeiter verdrängt. In den meisten Maschinen-Spinnereien (<hi rendition="#aq">par métiers</hi>
+                    <hi rendition="#aq">continus-throstle-mills</hi>) wird die ganze Arbeit durch Mädchen von 16 Jahren und
+                    darunter ausgeführt. Die Ersetzung der gewöhnlichen <hi rendition="#aq">mull-jenny</hi> durch die
+                    automatische hatte zur Folge, daß der größte Theil der Spinner verabschiedet und
+                    statt ihrer Kinder und ältere Knaben genommen wurden.“</p>
+                <p>Diese Worte des leidenschaftlichsten Freihandelsmannes, des Herrn <hi rendition="#aq">Dr.</hi> Ure dienen
+                    zur Vervollständigung der Bekenntnisse des Herrn Bow<pb n="14"/>ring. Herr
+                    Bowring spricht von einigen individuellen Uebeln, und sagt zugleich, daß diese
+                    individuellen Uebel ganze Klassen vernichtet haben. Er spricht von
+                    vorübergehenden Leiden der Uebergangsepoche, und verheimlicht, während er davon
+                    spricht, nicht, daß diese vorübergehenden Leiden für die Meisten den Uebergang
+                    vom Leben zum Tode bildeten, für die Uebrigen die Uebergangsbewegung damit
+                    endete, daß sie sich in eine schlechtere Lage gesetzt sahen, als worin sie sich
+                    vorher befanden. Wenn er weiter sagt, daß das Unglück dieser Arbeiter
+                    unzertrennlich sei von dem Fortschritte der Industrie und nothwendig für das
+                    Nationalwohl, so spricht er damit einfach aus, daß die Wohlfahrt der
+                    Bourgeois-Klasse das Unglück der arbeitenden Klasse zu ihrer nothwendigen
+                    Bedingung habe.</p>
+                <p>Der ganze Trost, den Herr Bowring den untergehenden Arbeitern darreicht, so wie
+                    im Allgemeinen die ganze Lehre der <choice>
+                        <sic>Freetradres</sic>
+                        <corr cert="high">Freetraders</corr>
+                    </choice> von der Ausgleichung läuft auf Folgendes hinaus:</p>
+                <p>Ihr Tausende von Arbeitern, die ihr dem Untergange geweiht seid, seid nicht
+                    untröstlich, ihr könnt ruhig sterben, eure Klasse wird nicht untergehen, sie
+                    wird stets zahlreich genug sein, um sich, ohne ihre Vernichtung zu fürchten, vom
+                    Kapital dezimiren zu lassen.</p>
+                <p>Wie soll das Kapital eine nützliche Anwendung finden, wenn es nicht Sorge trägt,
+                    sich stets das exploitirbare Material, die Arbeiter, zu erhalten, um sie von
+                    neuem zu exploitiren.</p>
+                <p>Aber wozu noch den Einfluß, den die Verwirklichung des Freihandels auf die Lage
+                    der arbeitenden Klasse haben könnte, als ein zu lösendes Problem hinstellen?
+                    Alle die Gesetze, welche die Oekonomen von Quesnay bis <choice>
+                        <sic>Ricardi</sic>
+                        <corr cert="high">Ricardo</corr>
+                    </choice> aufgestellt haben, sind auf die Voraussetzung gegründet, daß die
+                    Fesseln, welche einstweilen die Handelsfreiheit noch beschränken, nicht mehr
+                    existiren. Diese Gesetze treten in’s Leben in dem Maaße, als sich der Freihandel
+                    verwirklicht.</p>
+                <p>Das erste dieser Gesetze ist, daß die Konkurrenz den Preis einer jeden Waare auf
+                    das Minimum ihrer Produktionskosten herabdrückt. So ist das Minimum des
+                    Arbeitslohnes der natürliche Preis der Arbeit. Und was ist dieses Minimum des
+                    Arbeitslohnes? Ganz genau dasjenige, was zur Erzeugung der für die Erhaltung des
+                    Arbeiters unentbehrlichen Gegenstände nothwendig ist, um ihn in den Stand zu
+                    setzen, sich so gut es eben gehen will zu nähren, und seine Race in möglichst
+                    geringem Maaße fortzupflanzen.</p>
+                <pb n="15"/><p>Glauben wir indeß nicht, daß der Arbeiter immer nur dieses Minimum des Lohnes erhält; glauben wir
+                    aber noch viel weniger, daß er dieses Minimum immer erhält.</p>
+                <p>Nein, nach diesem Gesetze wird die arbeitende Klasse bisweilen glücklicher sein;
+                    sie wird bisweilen mehr, als dieses Minimum haben, aber dieser Ueberschuß wird
+                    nur eine Ergänzung dessen sein, was sie weniger als das Minimum gehabt hat in
+                    der Zeit des Stillstandes der Industrie. Es ist das so zu verstehen: Wenn man in
+                    einem bestimmten <choice>
+                        <sic>Zeittraume</sic>
+                        <corr cert="high">Zeitraume</corr>
+                    </choice>, der stets periodisch ist, während dessen die Industrie ihren
+                    Kreislauf vollendet, indem sie zwischen Blüthe, Ueberproduktion, Stagnation und
+                    Krise wechselt, wenn man in diesem Zeitraume Alles zusammengerechnet, was die
+                    arbeitende Klasse mehr oder weniger, als das Nothwendige empfangen hat, so wird
+                    man sehen, daß sie im Ganzen nicht mehr und nicht weniger gehabt hat, als das
+                    Minimum: das heißt, die arbeitende Klasse hat sich als Klasse erhalten trotz so
+                    vielen Unglücks und Elends, nachdem sie viele Leichen auf dem industriellen
+                    Schlachtfelde zurückgelassen hat.</p>
+                <p>Was thut’s, die Klasse besteht, und mehr als das: sie vermehrt sich noch.</p>
+                <p>Das ist nicht Alles. Der Fortschritt der Industrie schafft minder kostbare
+                    Existenzmittel; so hat der Branntwein das Bier ersetzt, die Baumwolle Wolle und
+                    Leinewand, die Kartoffeln das Brod.</p>
+                <p>So wie man beständig Mittel findet, die Arbeit mit minder theuern und
+                    schlechteren Dingen zu nähren, so wird das Minimum des Lohnes auch noch
+                    beständig sinken. Wenn dieser Lohn damit begonnen hat, den Menschen zur Arbeit
+                    zu zwingen, um leben zu können, so endet er damit, den Menschen das Leben einer
+                    Maschine führen zu lassen. Seine Existenz hat keinen andern Werth, als den einer
+                    einfachen produktiven Kraft. Und der Kapitalist behandelt ihn danach.</p>
+                <p>Dieses Gesetz der Lohnarbeit, des Minimums des Salairs wird sich verwirklichen in
+                    dem Maaße, als die Voraussetzung der Oekonomen, der Freihandel, eine Wahrheit,
+                    eine Wirklichkeit geworden. Daher von zwei Dingen ein’s: entweder muß man die
+                    ganze politische Oekonomie, welche den Freihandel zur Grundlage hat, verneinen;
+                    oder man muß zugeben, daß unter dem Freihandel die Arbeiter von der ganzen Härte
+                    der ökonomischen Gesetze getroffen werden.</p>
+                <p>Resümiren wir noch einmal: Was ist der Freihandel in unserer jetzigen
+                    Gesellschaft? Er ist die Freiheit des Kapitals. Wenn ihr die nationalen Fesseln,
+                    welche einstweilen noch das Kapital in seinem Laufe <pb n="16"/>hindern,
+                    vernichtet habt, so habt ihr nichts gethan, als seine Bewegung ganz frei
+                    gemacht; laßt ihr das Verhältniß zwischen Kapital und Lohnarbeit bestehen, so
+                    wird der Austausch der Waaren unter einander allerdings unter den günstigsten
+                    Bedingungen vor sich gehen, es wird aber dann immer noch eine Klasse geben,
+                    welche exploitirt, und eine, welche sich exploitiren läßt. Man hat in der That
+                    Mühe, die Aufstellungen der Freihandelsmänner zu begreifen, welche sich
+                    einbilden, eine vortheilhaftere Anwendung des Kapitals könne den Antagonismus
+                    zwischen industriellen Kapitalisten und besoldeten Arbeitern beseitigen. Das
+                    ganze Resultat wird im Gegentheil darauf hinauslaufen, daß die Opposition dieser
+                    beiden Klassen nur noch reiner hervortritt.</p>
+                <p>Nehmen sie einen Augenblick an, daß keine Korngesetze, keine Duanen, keine Octroi
+                    mehr beständen, um alle die Nebenumstände verschwinden zu lassen, welchen der
+                    Arbeiter jetzt noch die Schuld seiner elenden Lage zuschieben kann; und sie
+                    haben eben so viele Schleier zerrissen, welche seinem Auge den wirklichen Feind
+                    noch verbergen.</p>
+                <p>Er sieht, daß das freigewordene Kapital ihn nicht weniger zum Sklaven macht, als
+                    das durch Duanen noch beschränkte.</p>
+                <p>Meine Herren, lassen <choice>
+                        <sic>Se</sic>
+                        <corr cert="high">Sie</corr>
+                    </choice> sich nicht durch das bloße Wort Freiheit imponiren! Freiheit, wessen?
+                    Nicht die Freiheit eines einfachen Individuums neben einem anderen ist es; es
+                    ist die Freiheit des Kapitals zur Vernichtung der Arbeiter.</p>
+                <p>Wie wollen sie noch die freie Konkurrenz durch die Idee der Freiheit
+                    sanktioniren, wenn diese Freiheit nichts, als das Produkt eines Standes der
+                    Dinge ist, der die freie Konkurrenz zur Grundlage hat?</p>
+                <p>Wir haben gesehen, welcher Art die Brüderlichkeit ist, die der Freihandel unter
+                    den verschiedenen Klassen einer und derselben Nation hervorruft; die
+                    Brüderlichkeit, welche er zwischen den verschiedenen Nationen der Erde
+                    hervorruft, wird nicht brüderlicher sein. Mit dem Namen allgemeiner Verbrüderung
+                    die kosmopolitisch gewordene Exploitation bezeichnen, dies ist eine Idee, die
+                    nur dem Herzen der Bourgeoisie entspringen konnte.</p>
+                <p>Alle die zerstörenden Erscheinungen, welche die freie Konkurrenz im Innern <choice>
+                        <sic>eine</sic>
+                        <corr cert="high">eines</corr>
+                    </choice> Landes hervorrief, erzeugen sich in gigantischeren Verhältnissen auf
+                    dem Weltmarkte wieder. Es ist überflüssig, uns länger bei den Sophismen
+                    aufzuhalten, welche die Freihandelsmänner über diesen Gegenstand vorbringen; sie
+                    sind ebenso trefflich, wie die Argumente der drei Laureaten, Hope, Morse und
+                    Gregg.</p>
+                <pb n="17"/><p>Man sagt uns z. B.: der freie Handel erzeuge eine internationale
+                    Theilung der Arbeit, wodurch jedem Lande eine seinen natürlichen Vorzügen
+                    entsprechende Produktion angewiesen werde.</p>
+                <p>So denken sie vielleicht, meine Herren, die Produktion des Kaffees und Zuckers
+                    sei die natürliche Bestimmung Westindiens.</p>
+                <p>Zwei Jahrhunderte früher hatte die Natur, welche sich um den Handel nicht
+                    kümmert, weder die Kaffeestaude noch das Zuckerrohr dorthin gesandt. Und es wird
+                    vielleicht kein halbes Jahrhundert darüber vergehen, daß sie dort weder Kaffee
+                    noch Zucker mehr finden; denn durch wohlfeilere Produktion hat bereits Ostindien
+                    diese angeblich natürliche Produktion Westindiens bekämpft. Und schon ist
+                    Westindien mit seinen natürlichen Gaben den Engländern eben so sehr zur Last,
+                    wie die Weber von Dacca, welche auch seit Menschengedenken zur Handweberei
+                    bestimmt waren.</p>
+                <p>Einen Punkt darf man endlich nicht aus den Augen verlieren, den nemlich, daß wie
+                    heute Alles Monopol geworden ist, es so auch einige Industriezweige gibt, welche
+                    alle anderen beherrschen, und den Völkern, von denen sie am meisten ausgebeutet
+                    werden, die Herrschaft des Weltmarktes sichern. So hat im internationalen
+                    Verkehr die Baumwolle allein für den Handel einen viel größeren Werth, als alle
+                    anderen Rohstoffe, welche zur Fabrikation von Kleidungen verwandt werden,
+                    zusammengenommen; und es ist wahrlich lächerlich anzusehen, wie die
+                    Freihandelsmänner einige Spezialitäten eines jeden Industriezweiges hervorheben,
+                    um sie den allgemein gebrauchten Produkten entgegenzustellen, welche in den
+                    Ländern am wohlfeilsten produzirt werden, in denen die Industrie am weitesten
+                    entwickelt ist.</p>
+                <p>Wenn die Freihandelsmänner es nicht begreifen können, wie sich ein Land auf
+                    Kosten des anderen bereichern kann, so darf uns das nicht wundern, da dieselben
+                    Herren ebenso wenig begreifen wollen, wie sich im Innern eines Landes eine
+                    Klasse auf Kosten einer andern bereichern kann.</p>
+                <p>Glauben sie nicht, meine Herren, daß ich, weil ich den Freihandel kritisire, das
+                    Schutzsystem zu vertheidigen beabsichtige.</p>
+                <p>Man kann ein Feind der konstitutionellen Regierung sein, ohne deshalb ein Freund
+                    des alten Regimentes zu sein.</p>
+                <p>Dann ist auch das Schutzzollsystem nur ein Mittel, die große Industrie bei einem
+                    Volke einzuführen, d. h. es vom Weltmarkte abhängig zu machen; und von dem
+                    Augenblicke an, wo man vom Weltmarkte abhängig ist, hängt man mehr oder weniger
+                    auch schon vom Freihan<pb n="18"/>del ab. Außerdem hilft das Schutzsystem zur
+                    Entwickelung der freien Konkurrenz innerhalb des Landes; deshalb sehen wir in
+                    einem Lande, wo die Bourgeoisie sich als Klasse geltend zu machen beginnt,
+                    Deutschland <choice>
+                        <sic>z. B</sic>
+                        <corr cert="high">z. B.</corr>
+                    </choice>, dieselbe die größten Anstrengungen machen, um Schutzzölle zu
+                    erringen. Das sind für sie die Waffen gegen den Feudalismus, gegen die absolute
+                    Regierung, ein Mittel, ihre Kräfte zu konzentriren und den Freihandel im Innern
+                    des Landes zur Ausführung zu bringen.</p>
+                <p>Im Allgemeinen aber ist das Schutzsystem heut zu Tage konservativ, während das
+                    System des freien Handels destruktiv ist. Es lös’t die alten Nationalitäten auf,
+                    und treibt den Antagonismus zwischen Bourgeoisie und Proletariat auf die Spitze.
+                    Mit einem Worte, das System des Freihandels beschleunigt die soziale Revolution,
+                    und allein in diesem revolutionären Sinne, meine Herren, gebe ich meine Stimme
+                    zu Gunstes des freien Handels ab.</p>
+            </div>
+            <milestone unit="section" rendition="#hr"/><lb/>
+            <div n="3" type="chapter">
+                <head><hi rendition="#b">Die Schutzzöllner, die Freihandelsmänner und die arbeitende Klasse.</hi></head>
+                <p>Die Schutzzöllner haben niemals die kleine Industrie, die eigentliche Handarbeit
+                    protegirt. Haben etwa in Deutschland der <hi rendition="#aq">Dr.</hi> List und seine Schule für die
+                    kleine Leinenindustrie, für die Handweberei, für das Handwerk Schutzzölle
+                    verlangt? Nein, wenn sie um Schutzzölle baten, thaten sie es nur, um die
+                    Handarbeit durch die Maschinen, die patriarchalische Industrie durch die moderne
+                    Industrie zu verdrängen. Mit einem Worte, sie wollen die Herrschaft der
+                    Bourgeoisie, besonders der großen industriellen Kapitalisten verbreiten. Sie
+                    gingen so weit, den Verfall und Untergang der kleinen Industrie, der kleinen
+                    Bourgeoisie, des kleinen Ackerbaus, der kleinen Bauern laut als ein trauriges,
+                    aber unvermeidliches und für die industrielle Entwickelung Deutschlands
+                    nothwendiges Ereigniß auszurufen.</p>
+                <p>Neben der Schule des <hi rendition="#aq">Dr.</hi> List gibt es in Deutschland,
+                    dem Lande der Schulen, noch eine andere Schule, welche nicht allein ein
+                    Schutzzollsystem, sondern ein eigentliches Prohibitivsystem verlangt. Der Füh<pb n="19"/>rer dieser Schule, Herr von Gülich, hat eine sehr wissenschaftliche
+                    Geschichte der Industrie und des Handels geschrieben, die auch in’s Französische
+                    übersetzt <choice>
+                        <sic>ist</sic>
+                        <corr cert="high">ist.</corr>
+                    </choice> Herr von Gülich ist ein aufrichtiger Philantrop; es ist ihm Ernst mit
+                    dem Schutz der Handarbeit, der Nationalarbeit. Nun gut! Was that er? Er begann
+                    mit der Widerlegung des <hi rendition="#aq">Dr.</hi> List, bewies, daß in dem
+                    List’schen System das Wohl der arbeitenden Klasse nur falscher Schein, eine
+                    hohle und klingende Phrase sei, und machte dann seinerseits folgende
+                    Vorschläge:</p>
+                <list>
+                    <item>1. Die Einfuhr der fremden Manufaktur-Produkte zu verbieten;</item>
+                    <item>2. Die Rohstoffe, welche aus dem Auslande kommen, wie Baumwolle, Seide sc.
+                        mit sehr hohen Eingangszöllen zu belasten, um die Wolle und die nationale
+                        Leinewand zu schützen;</item>
+                    <item>3. Ebenso die Kolonialwaaren, um durch inländische Produkte den Zucker,
+                        Kaffee, Indigo, Cochenille, die kostbaren Hölzer sc. zu verdrängen;</item>
+                    <item>4. Die inländischen Maschinen hoch zu besteuern, um die Handarbeit gegen die
+                        Maschinen zu schützen.</item>
+                </list>
+                <p>Man sieht, Herr von Gülich ist ein Mann, der das System mit allen seinen
+                    Konsequenzen annimmt. Und wohin ist er dadurch geführt? Nicht allein den Eingang
+                    ausländischer Industrieprodukte, sondern selbst den Fortschritt der nationalen
+                    Industrie zu verhindern.</p>
+                <p>Herr List und Herr von Gülich bilden die Grenzen, zwischen denen sich das System
+                    bewegt. Will es den Fortschritt der Industrie schützen, so opfert es geradezu
+                    die Handarbeit, die Arbeit; will es die Arbeit schützen, ist der industrielle
+                    Fortschritt das Opfer.</p>
+                <p>Kehren wir zurück zu den eigentlichen Schutzzöllnern, welche die Illusionen des
+                    Herrn von Gülich nicht theilen.</p>
+                <p>Sprechen sie wissentlich und frei zu der arbeitenden Klasse, so fassen sie ihre
+                    Philantropie in folgenden Worten zusammen: Es ist besser, von seinen
+                    Landsleuten, als von Fremden ausgebeutet zu werden.</p>
+                <p>Ich denke, die arbeitende Klasse wird sich nicht für immer mit dieser Lösung
+                    begnügen, welche, man muß es gestehen, zwar sehr patriotisch, aber doch ein
+                    wenig zu aszetisch und spiritualistisch ist für Leute, deren einzige
+                    Beschäftigung in<?oxy_comment_start comment="{{Kor.}}"?><?oxy_comment_end?>
+                    Produktion der Reichthümer, des materiellen Wohles besteht.</p>
+                <p>Aber die Schutzzöllner werden sagen: „So erhalten wir nach alledem doch
+                    wenigstens den jetzigen Zustand der Gesellschaft. Gut oder schlecht sichern wir
+                    dem Arbeiter Beschäftigung seiner Hände, und verhindern, daß er durch die fremde
+                    Konkurrenz auf’s Pflaster geworfen <pb n="20"/> wird.“ Ich will diese Behauptung
+                    nicht bekämpfen, ich nehme sie an. Die Erhaltung, die Konservirung des jetzigen
+                    Zustandes ist also das beste Resultat, wozu die Schutzzöllner im günstigen Falle
+                    gelangen werden. Gut, aber für die arbeitende Klasse handelt es sich nicht
+                    darum, den jetzigen Zustand zu erhalten, sondern denselben gerade in sein
+                    Gegentheil zu verwandeln.</p>
+                <p>Noch eine letzte Zuflucht bleibt den Schutzzöllnern: sie sagen, ihr System mache
+                    gar keinen Anspruch darauf, ein Mittel zu sozialen Reformen zu sein, aber es sei
+                    doch nothwendig, mit den sozialen Reformen im Innern des Landes zu beginnen, ehe
+                    man bei ökonomischen Reformen in internationaler Beziehung anlangen könne.
+                    Nachdem das Schutzsystem anfangs reaktionair, dann konservativ gewesen, wird es
+                    zuletzt konservativ-progressistisch. Es wird genügen, den Widerspruch
+                    hervorzuheben, der sich unter dieser Theorie birgt, die auf den ersten Blick
+                    etwas Verführerisches, Praktisches, Rationelles zu haben scheint. Ein
+                    befremdender Widerspruch! Das Schutzzollsystem gibt dem Kapitale des einen
+                    Landes die Waffen in die Hand, um den Kapitalen der andern Länder trotzen zu
+                    können; es verstärkt die Kraft jenes Kapitals gegenüber dem fremden, und bildet
+                    sich zugleich ein, durch dieselben Mittel dasselbe Kapital klein und schwach zu
+                    machen gegenüber der arbeitenden Klasse. Das hieße doch zuletzt an die
+                    Philantropie des Kapitals appelliren, als ob das Kapital als solches Philantrop
+                    sein könnte. Im Allgemeinen können die sozialen Reformen aber auch niemals durch
+                    die Schwäche der Starken bewirkt werden; sie müssen und werden in’s Leben
+                    gerufen werden durch die Stärke der Schwachen.</p>
+                <p>Uebrigens brauchen wir uns hierbei nicht aufzuhalten. Von dem Augenblicke, wo die
+                    Schutzzöllner zugeben, daß die sozialen Reformen nicht in den Bereich ihres
+                    Systems gehören, kein Ausfluß desselben sind, daß sie eine besondere Frage
+                    bilden: haben sie sich schon von der sozialen Frage entfernt. Ich werde daher
+                    die Schutzzöllner bei Seite lassen, und von dem Freihandel reden in seiner
+                    Beziehung zu der Lage der arbeitenden Klasse.</p>
+                <p>(Wir lassen diesen Theil der Rede hier nicht folgen, da er in der ersten Rede
+                    enthalten ist, welche selbst nur eine weitere Ausführung dieses Themas ist.)</p>
+            </div>
+            <milestone unit="section" rendition="#hr"/><lb/>
+        </body>
+    </text>
+</TEI>

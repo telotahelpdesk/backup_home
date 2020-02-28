@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Democratic Festival in Belgium</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-09-07</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich:] Democratic Festival in Belgium. In: Northern Star. Vol. X. Nr. 520, 9. Oktober 1847. S. 4.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Democratic Festival in Belgium.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1847-10-09</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X</biblScope>
+                        <biblScope unit="issue">520</biblScope>
+                        <biblScope unit="page">4</biblScope>
+                        <biblScope unit="column">1</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <date notBefore="1847-09-28" notAfter="1847-10-06">Ende September / Anfang Oktober 1847</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">Democratic Festival in Belgium.</hi></hi></head>
+                <p><milestone unit="section" rendition="#hr"/></p>
+                <p><hi rendition="#k">Brussels.</hi> — A democratic supper was held on Monday,
+                    26th Sept., at the Estaminet Liegeois. There were present Belgians, Frenchmen,
+                    Swiss, Poles, Italians, and even a Russian. M. Gottrand, ancient member of the
+                    Constituant Congress of Belgium (in 1831) took the chair, General Mellinet
+                    having declined. He was assisted by Messrs Imbert, former editor of the <hi rendition="#i">Peuple Souverain</hi>, of Marseilles (French), and Engels
+                    (German), vice-presidents. The principal toasts drank were: — “The Martyrs
+                    of Liberty”, by M. Imbert. “The Memory of the French Jacobin Revolution of 1792
+                    and 1793”, by M. Engels. “The English Democracy — may they send us a
+                    representative to our next fraternal meeting”, by M. Spilthoorn, of Ghent.
+                    “Death to the Jesuits of all kinds”, by M. Marty, Swiss. “The union of all
+                    people”, by M. Wallan, president of the German Working Men’s Society. M.
+                    Bartels, of Brussels, proposed to make the coming anniversary of the Polish
+                    Revolution, a fraternal demonstration, in which democrats of all nations should
+                    partake. Another motion was proposed — that a Democratic Society,
+                    representing as much as possible all nations, should be formed. Both motions
+                    were agreed to.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00427" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>417</idno>Karl und Laura Marx an Friedrich Engels in Manchester. London, Samstag, 9. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4501/L VI 634</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 135 × 180 mm. Prägung:
+                            Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Die erste
+                            Seite haben
+                            <?oxy_comment_start author="lindenberg" timestamp="20190301T181157+0100" comment="(Z. 1–6) "?>Marx
+                            <?oxy_comment_end?>und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190301T181218+0100" comment="(7–11)"?>Laura
+                            Marx <?oxy_comment_end?> zur Hälfte beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte. </p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes auf der ersten Seite oben rechts: „53“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2111</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-MYHFKSKB">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930)<?oxy_custom_end?>. S 447.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName><persName key="pdrPo.001.004.000003076">Laura Marx</persName><placeName>London</placeName><date when="1867-11-09"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00428"/>
+                </correspContext>
+                <note>Engels antwortete Marx am 10. November 1867 (siehe <ref target="B00428">Engels
+                        an Marx,
+                        10.11.<?oxy_comment_start author="reichhoff" timestamp="20190221T120636+0100" comment=" Br. 418"?>1867<?oxy_comment_end?></ref>).</note>
+                <note>Zur Beilage („Einliegendes von Kugelmann“) zum Brief siehe Erl.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:37Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline>9 Nov. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Einliegendes von <persName key="pdrPo.001.004.000002616">Kugelmann</persName>.</orig><note xml:id="a109d95d-4783-4703-947d-5bc9b7468118">
+                            <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180611T105640+0200" comment="(Br. 409)"?>L.
+                                Kugelmann an Marx,
+                    6.11.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>Salut.</p>
+                <closer>D<lb/>Mohr.</closer>
+</div><div type="writingSession">
+                <p/>
+                <p>Dear Engels,</p>
+                <p>As Mohr’s Secretary I am really rather ashamed to send
+                    off a letter of this kind.</p>
+                <p>Yours sincerely</p>
+                <closer>Kakadou. </closer>
+            </div></body></text></TEI>

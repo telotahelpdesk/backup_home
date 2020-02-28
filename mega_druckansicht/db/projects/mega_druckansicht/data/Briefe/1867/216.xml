@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00224" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>216</idno>S. Nördlinger an Friedrich Engels in Manchester. Manchester,
+                    Montag, 11. Februar 1867 </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5140/L VII 185 Fotosign.
+                                7272a&lt;–&gt;b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            232 × 185 mm. Wasserzeichen: „Towgood’s Extra Super“. Prägung: ein
+                            Wappenschild im Kreis mit der Aufschrift „London Extra Super“. Die erste
+                            Seite hat Nördlinger vollständig beschrieben, die zweite zur Hälfte, die
+                            übrigen zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Vermutlich von Engels’ Hand: die Berechungen mit Bleistift auf der
+                            vierten Seite oben rechts quer niedergeschrieben. </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1x_tqj_sx">S. Nördlinger</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-02-11"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Die Jahresangabe stützt sich auf den Zusammenhang des Briefes mit dem Brief
+                    Nördlingers an Engels vom 7. Februar 1867 (<ref target="B00222">S. Nördlinger an
+                        Engels,
+                    7.2.1867</ref>).<?oxy_comment_start author="lindenberg" timestamp="20180507T140503+0200" comment="(Br. 214)"?></note><?oxy_comment_end?>
+                <note>Über die Beilage siehe Erl. („Subscriptions
+                    Liste“).<?oxy_comment_start author="lindenberg" timestamp="20180507T140905+0200" comment="Über die Beilage (Z. 5–6) siehe Erl. 216b."?><?oxy_comment_end?>
+                </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:53Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> 11 Feb<hi rendition="#sup">r</hi></dateline><salute>Lieber
+                        Engels.</salute></opener>
+                <p><seg type="comment"><orig>Haben Sie weiter untersuchen können wie es sich mit der
+                            Actie verhält die auf den Namen <persName key="pdrPo.001.004.000001409">G Ermen</persName> eingetragen steht?</orig><note xml:id="a441d024-3d2a-4897-a1da-1e918c4ec435">Siehe <ref target="B00222">S. Nördlinger an Engels,
+                            7.2.1867</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180829T103850+0200" comment="Br. (Br. 214.8–10)"?><?oxy_comment_end?></note></seg></p>
+                <p>Mitfolgend die letzte <seg type="comment"><orig>Subscriptions
+                            Liste</orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><note xml:id="c2950663-7826-4d3e-99fc-3aa53221032f"><?oxy_custom_end?>Siehe
+                                <ref target="B00218">Erl. zu S. Nördlinger an Engels,
+                                26.2.1867.</ref>(„die Library
+                            anzuschaffen“).<?oxy_comment_start author="lindenberg" timestamp="20180508T084538+0200" comment="210a."?></note><?oxy_comment_end?></seg>
+                    &amp; <seg type="comment"><orig>ein Exemplar des am Samstag ausgesandten
+                            Circulars</orig><note xml:id="cdb1fac7-ac05-4877-8cae-006e37a9892e">Manchester, 8th February, 1867. Sir, the Shareholders of the
+                            ‚Manchester Subscription Library‘ …“ (<bibl sameAs="zotero-604880-T9G2NA5G">Circular of the Manchester Schiller
+                                Anstalt February 8, 1867</bibl>) (<bibl sameAs="zotero-604880-RYUSZX34">MEGA² I/20.</bibl> S. 821/822).
+                            Siehe auch <ref target="B00222">S. Nördlinger an Engels, 7.2.1867</ref>
+                            und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180507T141549+0200" comment="Br. 214.2"?></note><?oxy_comment_end?></seg> –</p>
+                <p>D<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000001969">Gumpert</persName> sagt mir sie sind der geeignetste Mann um D<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000000535">Borchard</persName> warm zu kriegen. <pb/> Er meint D<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000000535">B.</persName> hat <hi rendition="#u">großen Respect</hi> für Herrn Engels. Gehen Sie bitte zu ihm
+                    hin – Machen Sie daß er für uns arbeite</p>
+                <closer>In Eile<lb/>SNördlinger </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

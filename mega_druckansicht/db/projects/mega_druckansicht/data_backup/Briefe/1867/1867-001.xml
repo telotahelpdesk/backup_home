@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_sp3_kzs_gz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>S. Nördlinger an Friedrich Engels in Manchester. Manchester, Dienstag, 8.
+                    Januar 1867
+                    <?oxy_comment_start author="roth" timestamp="20170424T131431+0200" comment="bisheriger Br. 207 (III/14)"?></title>
+                <?oxy_comment_end?>
+            </titleStmt>
+            <editionStmt>
+                <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5137/L VII 177. Fotosign. 8161.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127 × 203 mm. Wasserzeichen: „A Pirie [&amp; Sons] 186[5]“. Aufdruck auf
+                            der ersten Seite: „Jacob Behrens.“ (links), „41, Portland St Manchester“
+                            und die Datumszeile (rechts). Die erste Seite hat Nördlinger vollständig
+                            beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte. </p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 E 20“, fast
+                            <?oxy_comment_start author="roth" timestamp="20170424T131321+0200" comment="[[Fotosign. f.374.1.47. Bl. 43: II 21 L ]]"?>ausradiert<?oxy_comment_end?>. </p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1x_tqj_sx">Nördlinger, S. (-)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-01-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>
+                        <pb n=""/>8 Jan 1867</dateline>
+					<salute>Werther Herr Engels.</salute>
+                </opener>
+				<p>Da ich Sie an der Börse nicht sah – verabredete ich mit H<hi rendition="#sup">n</hi>
+                    <persName key="pdrPo.001.004.000001123"><?oxy_comment_start author="roth" timestamp="20170421T140847+0200" comment="prüfen, ob Emil Theodor oder Ernst oder ein anderer Delius gemeint ist; hier (willkürlich) Verlinkung zu Ernst (geb. 1820) "?>Delius<?oxy_comment_end?></persName>
+                    daß wir am Donnerstag um 2½ p.m. <seg type="comment"><orig>in der
+                            Schiller-Anstalt uns als Local Common versammeln wollten.</orig><note xml:id="now4_33m_qz">Siehe auch <ref target="B00023">S. Nördlinger an
+                                Engels, 26.1.1866</ref>
+                            <?oxy_comment_start author="roth" timestamp="20170421T140717+0200" comment="(Br. 22)"?>und
+                            Erl.</note></seg><?oxy_comment_end?> Wollen Sie H<hi rendition="#sup">n</hi>
+                    <persName key="ed_tcy_clm_qz">Wehun</persName> &amp; H<hi rendition="#sup">n</hi>
+                    <persName key="ed_kgj_mkm_qz">Simon</persName> offiz. dazu einladen?</p>
+				<closer>
+				    <salute>Besten Gruß <lb/></salute>
+                    <signed>SNördlinger</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00220" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>212</idno>Carl Hoßfeld an Friedrich Engels in Manchester. Liverpool,
+                    Donnerstag, 31. Januar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 2433/L IV 386–1
+                            Fotosign. 14662.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format
+                            410 × 263 mm. Wasserzeichen: „L-J DL &amp; C<hi rendition="#sup">o</hi>“. Die erste Seite hat Hoßfeld zur Hälfte
+                            beschrieben, die übrigen drei sind leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von Engels’ Hand: Vermerk mit Tinte auf der vierten Seite unten,
+                            kopfstehend geschrieben: „£ 60 pr 27 Jan <hi rendition="#sup">L</hi> Jan 9.<lb/> " 75 " 17
+                            <?oxy_comment_start author="lindenberg" timestamp="20180427T105052+0200" comment="vorher: Manh"?>March<?oxy_comment_end?>
+                            " " 25.“ und eine Berechnung.</p>
+                        <p>Von unbekannter Hand: Vermerk mit Tinte auf der vierten Seite in der
+                            Mitte: „29.3.8 Ba[xx]:“</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten und vierten Seite: „II 21
+                            K“.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 6631</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ohr_wh2_sy">Carl Hoßfeld</persName>
+                    <placeName key="ed_zvg_2fj_wx">Liverpool</placeName>
+                    <date when="1867-01-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_ht1_n3z_g1b">Exilantenleben in London u. Manchester
+                        (Schiller-Anstalt, Arbeiter-Bildungsverein, Albert-Club, Versammlungsabende
+                        u. ä.)</term>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:49Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> Liverpool, den 31 Januar 1867.
+                        </dateline><salute>Herrn Engels</salute></opener>
+                <p> in Manchester</p>
+                <p><seg type="comment"><orig>Hierdurch ersuche ich Sie
+                            höflichst, die mir gütigst geliehenen fünf Pfund mir noch bis Ende März
+                            zu lassen; es ist mir leider heute noch nicht möglich Ihnen dieselbe
+                            zurückerstatten zu können.</orig><note xml:id="f1e8373e-4909-4a59-adb4-b85b548966e9"><p><?oxy_comment_start author="reichhoff" timestamp="20180425T120052+0200" comment="(Br. 196 und Erl."?>Siehe
+                                    <ref target="B00203">C. Hoßfeld an Engels,
+                                6.12.1866</ref><?oxy_comment_end?>, <ref target="mega_cjb_g4v_vy">C.
+                                    Hoßfeld an Engels, 10. 12.1866</ref>, <ref target="B00207">Engels an Marx, 14.12.1866</ref>, <ref target="mega_cjb_g4v_vy">Schuldschein von Carl Hoßfeld an Friedrich Engels in
+                                    Manchester, Manchester, Montag, 10. Dezember
+                            1866</ref>.</p></note></seg></p>
+                <p>Ihrer gef. Antwort entgegensehend</p>
+                <closer>zeichne achtungsvoll<lb/>CHoßfeld<lb/>14, Lydiate
+                    Street, Windsor, Liverpool. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

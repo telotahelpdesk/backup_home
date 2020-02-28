@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00343" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>334</idno>Carl Rode an Karl Marx in London. Liverpool, Freitag, 6. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 3835/D III 285 Fotosign. 12398&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 230 × 180 mm. Prägung ist nicht deutlich erkennbar. Rode hat die ersten zwei Seiten vollständig, die dritte fast vollständig beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 16 K 3“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1732</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000011456">Carl Rode</persName>
+                    <placeName key="ed_zvg_2fj_wx">Liverpool</placeName><date when="1867-09-06"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Rode beantwortet einen nicht überlieferten Brief von Marx, geschrieben vor dem
+                    6. September 1867 („Ihr Brieflein“).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:41Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Liverpool d. 6 Septbr. 1867</dateline>
+                    <salute>Lieber Dr. Marx,</salute>
+                </opener>
+                <p>Von der Heimath zurück gekehrt, fand ich <seg type="comment"><orig>Ihr Brieflein</orig><note xml:id="bcc3dd87-7f72-4b96-8419-b9e7fc29ab51">Marx’ Brief an Carl Rode,
+                            geschrieben vor dem 6. September 1867, ist nicht
+                        überliefert.</note></seg> und obgleich ich die paar Pfunde, die ich erübrigt
+                    zum Ankauf einer Hütte im Harze verwendet habe, so hätte ich doch zu der Zeit
+                    für <expan>ein<ex>en</ex></expan> alten
+                    Freund Rath zu schaffen gesucht. Wir denken, wenn in Frankreich der Kerl <expan>d<ex>en</ex></expan> Hals nicht
+                    bricht, Anfangs M<ex>ä</ex>rz n. J. alle nach <expan>d<ex>em</ex></expan> Harze über zu siedeln.</p>
+                <p>Was sagen Sie dazu, daß <seg type="comment"><orig>der
+                            reiche Kaufmann <persName key="pdrPo.001.004.000001214">E. D.</persName>
+                            banquerott und durchgebrannt ist</orig><note xml:id="b554d412-b7a3-4a59-a1f6-af744d7592c0"><persName key="pdrPo.001.004.000001214">Ernst Dronke</persName>. Siehe <ref target="B00315"><?oxy_comment_start author="reichhoff" timestamp="20180528T141212+0200" comment="(Br. 306.4–9)"?>Engels
+                                an Marx, 11.8.1867<?oxy_comment_end?></ref> und <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180528T141819+0200" comment="(Br. 360.57–63)"?>Marx
+                                an Engels 4.10.1867<?oxy_comment_end?></ref> „Ad vocem Dronke
+                            ...“.</note></seg> – sagte ich Ihnen, das nicht immer, daß es nicht so,
+                    wie Sie glaubten mit ihm stünde! als ich ihn das Letztemal vor 5 Monaten sprach
+                    <pb/> fragte ich nach Ihnen und da bediente er sich Wörter, die mir nicht
+                    gefielen – mündlich werde ich sie Ihnen repitiren.</p>
+                <p>Vor 2 Tagen laß ich <seg type="comment"><orig>eine Rede
+                            von <persName key="pdrPo.001.004.000000243">Bangÿa</persName> in der
+                                „<bibl sameAs="ed_dbd_djj_tgb">neuen Freien
+                                Presse</bibl>“,</orig><note xml:id="nlgs_p2k_yfb">Siehe Zu dem
+                            Empfange, welcher aus Anlaß der Geburtsfeier … [Korrespondenz:] Wien,
+                            31. August. [Vom Hofe.] In: Neue Freie Presse. Wien. Nr. 1078,
+                            1. September 1867. Morgenblatt. [S. 4.] Sp. 2. Rubrik: Kleine Chronik:
+                            „Zu dem Empfange, welcher aus Anlaß der Geburtsfeier Sr. Majestät des
+                            Kaisers <hi rendition="#u">Franz Joseph</hi> im großen Saale des
+                            Botschaftspalais in <hi rendition="#u">Konstantinopel</hi> stattfand,
+                            hatte sich auch, wie dem genannten Blatte geschrieben wird, eine Anzahl
+                            Ungarn eingefunden, welche nach dem Tag von Vilagos flüchtig in die
+                            Türkei gekommen waren und türkische Militärdienste genommen hatten. Sie
+                            waren in voller Uniform erschienen, und Oberst Mehmed Bey (Bangya) hielt
+                            in ungarischer Sprache eine Rede, in welcher er die Gefühle schilderte,
+                            die ihn und seine Freunde an dem Tage so tief bewegen, an dem es ihnen
+                            zum ersten Mal nach 19 Jahren gestattet ist, an dem Feste ihres
+                            Monarchen ihre Huldigungen darzubringen. Der k.k. Legationsrath
+                            beantwortete die Ansprache mit einem Verse aus Kisfaludy’s Volksliede:
+                            ‚Der erste Ungar ist der König, Ihm ist jedes Patrioten Arm geweiht‘.
+                            Ein ‚Eljen a Király‘ folgte diesen Worten …“ .</note></seg> die derselbe
+                    in Constantinopel auf der Östr. Gesandtschaft <seg type="comment"><orig>am Tage
+                            des <persName key="pdrPo.001.004.000001622">Kaisers</persName>
+                            Geburtstages</orig><note xml:id="nufb_wgk_yfb"><persName key="pdrPo.001.004.000001622">Franz Joseph I.</persName> wurde am
+                            18. August 1830 geboren.</note></seg> in türkischer Obristen Uniform
+                        (<persName key="pdrPo.001.004.000000243"><?oxy_comment_start author="lindenberg" timestamp="20190206T174317+0100" comment="https://fr.wikipedia.org/wiki/Mohammed_Bey"?>Mohamed
+                        Bey<?oxy_comment_end?></persName>) gehalten NB. im Namen der ungarischen
+                    Legion, was sagen Sie dazu?</p>
+                <p>Haben Sie <seg type="comment"><orig>das närrische Buch
+                            von <persName key="pdrPo.001.004.000000311">B. Becker</persName> über
+                            Nationalitäten</orig><note xml:id="c320c0d5-759a-4b8e-a17a-3b525855cf46"><bibl sameAs="zotero-604880-BHACMLIK">Bernhard
+                                Becker: Der Mißbrauch der Nationalitäten-Lehre. Wien
+                            1867</bibl>.</note></seg> gelesen – ich laß <seg type="comment"><orig>in
+                            oben genannter Zeitung eine Kritik darüber</orig><note xml:id="ca38aca7-235c-4e41-9b4f-0dafdae273b4">Zur Nationalitäten-Lehre
+                            („Der Mißbrauch der Nationalitäten-Lehre.“ Von Bernhard Becker, Wien
+                            1867. Druck und Verlag von A. Pichler’s Witwe und Sohn). In: Neue Freie
+                            Presse. Wien. Nr. 1076, 30. August 1867. Abendblatt. [S. 4.]
+                            Sp. 2/3.</note></seg> – der Mann ist hundert Jahre zu früh geboren. </p>
+                <p><pb/> Ist <seg type="comment"><orig>Ihr Buch</orig><note xml:id="cce65586-adc5-42fa-a99c-65257435aee0"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg>
+                    erschienen? wenn es mir möglich, besuche ich Sie bald einmal –, als ich London
+                    passirte, hielt ich mich nur wenige Augenblicke auf, meine <seg type="comment"><orig><persName key="pdrPo.001.004.000011455">Frau</persName></orig><note xml:id="b66cff73-1038-4616-b458-4fb626d16790">Der Name der Frau von Carl
+                            Rode konnte nicht ermittelt werden.</note></seg> war unwohl. <seg type="comment"><orig><persName key="ed_wyv_wnf_3hb">Thekla</persName></orig><note xml:id="ade642c2-9dc9-4d45-ad08-1713f9dcf732"><persName key="ed_wyv_wnf_3hb">Thekla Marriet</persName> geb.
+                        Rode.</note></seg> ist in Lesum bei Bremen seit einigen Tagen, wo sie bei
+                    befreundeten Familien lebt und es ihr Nichts kostet. <seg type="comment"><persName key="ed_erm_crf_3hb"><orig>Carl</orig></persName><note xml:id="bfad865b-99de-45e3-83a5-d0b3f7a231a0"><persName key="ed_erm_crf_3hb">Carl Rode</persName> junior.</note></seg> ist
+                    in <expan>s<ex>einem</ex></expan> alten
+                    Platz und ein guter Junge, der sehr sparsam lebt.</p>
+                <p>Wie geht es Ihnen und Ihrer mir so werthen Familie? wir
+                    grüßen Sie alle recht herzlich.</p>
+                <closer>Ihr<lb/>Sie hochachtender Freund<lb/>Rode
+                    <pb/></closer>
+            </div></body></text></TEI>

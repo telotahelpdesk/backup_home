@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00470" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>461</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag,
+                    6. Dezember 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1657/D III 428</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt dünnem, graublauem Papier im Format
+                            136 × 223 mm. Die erste Seite hat Engels vollständig beschrieben, die
+                            zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes: „67“ und „352“. Redaktionelle Vermerke.
+                            Streichungen.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „938“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2134</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 437.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930)<?oxy_custom_end?>. S. 458/459.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1867-12-06"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00472"/>
+                </correspContext>
+                <note>Marx beantwortet den Brief am 7. Dezember 1867 (siehe
+                        <?oxy_comment_start author="lindenberg" timestamp="20190319T145441+0100" comment="463"?><ref target="B00472">Marx an Engels, 7.12.1867<?oxy_comment_end?></ref>).</note>
+                <note>Zu den Beilagen  („Inl. Briefe von Kugelmann ...“) zum Brief siehe Erl.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 6<hi rendition="#sup">t</hi> Dezbr
+                        1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Inl. Briefe von <persName key="pdrPo.001.004.000002616">Kugelmann</persName> (nebst Beilage) <persName key="pdrPo.001.004.000002822">Liebknecht</persName> &amp; <persName key="pdrPo.001.004.000004424">Siebel</persName></orig><note xml:id="nefm_tvm_2gb">
+                            <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T145332+0200" comment="(Br. 450)"?><?oxy_comment_start author="lindenberg" timestamp="20191210T164111+0100" comment="(Br. 450)" mid="4"?>L.
+                                Kugelmann an Engels,
+                                30.11.1867<?oxy_comment_end?><?oxy_comment_end mid="4"?></ref>
+                            (Wiedergabe der Beilage in der
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T170142+0100" comment=" S. 000/000{ZB_Beilagen_Br. 450} "?>ZB<?oxy_comment_end?>)
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T170306+0100" comment="Erl. 450.76"?>Erl<?oxy_comment_end?>.,
+                                <ref target="B00449"><?oxy_comment_start author="reichhoff" timestamp="20180613T145415+0200" comment=" (Br. 439)"?><?oxy_comment_start author="lindenberg" timestamp="20191210T164142+0100" comment="(Br. 439)" mid="8"?>W.
+                                Liebknecht an Engels,
+                                26.11.1867<?oxy_comment_end?><?oxy_comment_end mid="8"?></ref> und
+                                <ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180613T145452+0200" comment="(Br. 432),"?>C.
+                                Siebel an Engels, spätestens 23.11.1867<?oxy_comment_end?></ref>,
+                                <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T145332+0200" comment="(Br. 450)"?><?oxy_comment_start author="lindenberg" timestamp="20191210T164230+0100" comment="(Br. 432)" mid="11"?>L.
+                                Kugelmann an Engels,
+                                30.11.1867<?oxy_comment_end?><?oxy_comment_end mid="11"?></ref>
+                            sowie <ref target="B00472"><?oxy_comment_start author="lindenberg" timestamp="20191210T164311+0100" comment="(Br. 463.12–13)"?>Marx
+                                an Engels,
+                            7.12.1867<?oxy_comment_end?></ref><?oxy_comment_start author="reichhoff" timestamp="20180613T145521+0200" comment=" (Br. 463.12–13)."?>
+                            .<?oxy_comment_end?></note></seg>, sowie <seg type="comment"><orig>drei
+                            Empfangscheine von <persName key="pdrPo.001.004.000003889">Rau</persName>
+                            <persName key="pdrPo.001.004.000002172">Hildebrandt</persName> &amp;
+                                <persName key="pdrPo.001.004.000004342">Schulze
+                            Delitsch</persName></orig><note xml:id="nexv_wvm_2gb">Siehe<ref target="B00441"><?oxy_comment_start author="reichhoff" timestamp="20180613T145601+0200" comment="(Br. 431.13–18),"?>
+                                L. und F. Kugelmann an Marx, 23.11.1867 <?oxy_comment_end?></ref>,
+                                <ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180613T145638+0200" comment="(Br. 436.8–13)"?>L.
+                                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T170739+0100" comment="436.13.{436i}"?>Erl<?oxy_comment_end?>.</note></seg>.
+                    Die von Kugelm nebst Beilage &amp; <persName key="pdrPo.001.004.000004424">Siebel</persName> erbitte ich mir umgehend zurück, die Post für Siebel geht
+                        <seg type="comment"><orig><hi rendition="#u">Montag Abend</hi></orig><note xml:id="nzk3_1wm_2gb">9. Dezember 1867.</note></seg> &amp; <seg type="comment"><orig>an Kugelm muß ich auch schreiben</orig><note xml:id="nfwm_dwm_2gb">Siehe<ref target="B00482"><?oxy_comment_start author="reichhoff" timestamp="20180613T145743+0200" comment="(Br. 473)"?>
+                                Engels an L. Kugelmann,
+                        12.12.1867<?oxy_comment_end?></ref>.</note></seg>. Was hältst Du von den
+                        <seg type="comment"><orig>schwäbischen Blättchen</orig><note xml:id="nk2z_fwm_2gb"><bibl sameAs="ed_ujl_xr3_hfb" type="periodika">Der
+                                Beobachter</bibl> (Stuttgart) und <bibl sameAs="ed_x4y_mtk_tgb" type="periodika">Schwäbischer Merkur</bibl> (Stuttgart). Siehe <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T145826+0200" comment="(Br. 450.18–19)."?>L.
+                                Kugelmann an Engels,
+                        30.11.1867<?oxy_comment_end?></ref>.</note></seg>?
+                        <?oxy_comment_start author="lindenberg" timestamp="20191210T171357+0100" comment="vorher Erl. --Siehe ebenda {L. Kugelmann an Engels, 30.11.1867} (Br. 450.15–21)"?>Kugelm<ex>ann</ex>
+                    scheint allerdings desperate Mittel anzuwenden<?oxy_comment_end?>.</p>
+                <p><seg type="comment"><orig>An <persName key="pdrPo.001.004.000002822">Liebkn</persName> hab’ ich ausführlich geschrieben</orig><note xml:id="nuzh_kwm_2gb">Engels' Brief an Wilhelm Liebknecht, geschrieben
+                            zwischen 30. November und 6. Dezember 1867, ist nicht überliefert. Zum
+                            Inhalt des Briefes siehe Liebknechts Antwortbrief vom 11. Dezember (<ref target="B00480">W<?oxy_comment_start author="reichhoff" timestamp="20180613T145939+0200" comment="(Br. 471)."?>.
+                                Liebknechts an Engels,11.12.1867<?oxy_comment_end?></ref>). Siehe
+                            auch <ref target="B00454"><?oxy_comment_start author="lindenberg" timestamp="20191210T171713+0100" comment="444.14–15.{h}"?>Erl.
+                                zu Engels an Marx, 28.11.1867<?oxy_comment_end?></ref> und <ref target="B00463"><?oxy_comment_start author="lindenberg" timestamp="20191210T171739+0100" comment="453a"?>Erl.
+                                zu Marx und E. Marx an L. und Fr. Kugelmann,
+                                30.11.1867<?oxy_comment_end?>
+                            </ref>.</note></seg> &amp; verlangt daß er nicht nur die Preußen sondern
+                    auch ihre Gegner, die Oestreicher, Föderalisten, <seg type="comment"><orig>Welfen</orig><note xml:id="nu1r_mwm_2gb">Deutsch-Hannoversche
+                            Partei (Welfenpartei). Siehe
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T174548+0100" comment="241h. falsch, es ist 242  {M.-E., 24.04.1867}"?>Erl. zu
+                            Marx an Engels, 24,4,1867<?oxy_comment_end?>.</note></seg> &amp; andre
+                    Kleinstaatler angreifen soll. Der Kerl ist wie ich vermuthete rein süddeutsch
+                    bornirt geworden. Er &amp; <persName key="pdrPo.001.004.000000303">Bebel</persName> haben eine <seg type="comment"><orig>Adresse an den Wiener
+                            Gemeinderath</orig><note xml:id="nfrn_swm_2gb"><?oxy_comment_start author="lindenberg" timestamp="20191210T180728+0100" comment="vorher: Adresse an den Wiener Gemeinderat. [Gez.:] Liebknecht, Bebel.{u.a.?} In: Neue Preußische Zeitung. Berlin. Nr. 000, 1. Dezember 1867 --Zeitung steht und nicht zur Verfügung --Prüfen?!"?>Siehe<?oxy_comment_end?>
+                            <ref target="B00480">W. Liebknecht an Engels, 11.12.1867</ref> „Ich gebe
+                            zu ...“ Die <bibl sameAs="zotero-604880-CXLPVUE4" type="primary">Adresse</bibl> „An den Gemeinderath und Bürgermeister der Stadt
+                            Wien“ unterzeichnet „Mit deutschem Gruß und Handschlag im Namen des
+                            Leipziger Volksvereins: August Bebel, Dr. Heinrich Wuttke, W.
+                            Liebknecht. Leipzig, den 16. November 1867“ wurde u. a. abgedruckt in:
+                            Die Presse (Wien), Nr 324 (Abendblatt), 25. November 1867, S. 1.; Neue
+                            Freie Presse, Nr 1163 (Abendblatt), 25. November 1867, S. 1.
+                        </note></seg> unterschrieben worin Oestreich als der im Süden neu erstehende
+                    Staat der Freiheit gegenüber dem geknechteten Norden gefeiert wird! It’s all
+                    very well daß er ein paar unbestimmte Reden im Reichstag hält aber <seg type="comment"><orig>ein <bibl sameAs="ed_umz_dxj_tgb" type="periodika">Blättchen</bibl></orig><note xml:id="narf_vwm_2gb"><bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches
+                                Wochenblatt</bibl>. Siehe Liebknecht an Marx, 19.10.1967 „Apropos.
+                            ... und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191211T113822+0100" comment="394l"?>Erl<?oxy_comment_end?>.</note></seg>
+                    ist doch ganz was andres, man macht uns verantwortlich dafür &amp; wir können
+                    uns doch nicht mit Oestreichern, Föderalisten &amp; Welfen verwechseln lassen.
+                        <seg type="comment"><orig>Auch wegen der Dummheit die soziale
+                                    <expan>Agitat<ex>ion</ex></expan> zu suspendiren hab’ ich ihm
+                            geschrieben.</orig><note xml:id="naxt_xwm_2gb">Siehe <ref target="B00480"><?oxy_comment_start author="reichhoff" timestamp="20180613T150028+0200" comment="(Br. 471.148–149)"?>W.
+                                Liebknecht an Engels, 11.<?oxy_comment_end?>12.1867</ref> „Wenn ich
+                            nun auch ...“ und <ref target="B00482"><?oxy_comment_start author="reichhoff" timestamp="20180613T152040+0200" comment="(Br. 473.26–27)."?>Engels
+                                an L. Kugelmann, 12.12.1867<?oxy_comment_end?></ref> „An Liebknecht
+                            habe ich ...“. Siehe auch <ref target="B00441"><?oxy_comment_start author="reichhoff" timestamp="20180613T152144+0200" comment="(Br. 431.37–54)"?>L.
+                                und Fr. Kugelmann an Marx, 23.<?oxy_comment_end?>11.1867</ref> „Von
+                            seinem Freunde ...“ sowie <ref target="B00451"><?oxy_comment_start author="reichhoff" timestamp="20180613T152222+0200" comment="(Br. 441.38–39),"?>Marx
+                                an Engels, 27.<?oxy_comment_end?>11.1867</ref> „Der Auszug ...“,
+                                <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180613T152302+0200" comment="(Br. 444.16–17)"?>Engels
+                                an Marx, 28.<?oxy_comment_end?>11.1867</ref> „Liebknechts Brochure
+                            ...“  und <ref target="B00459">Engels an  Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180613T152340+0200" comment="(Br. 449.39),"?>30.<?oxy_comment_end?>11.1867</ref>
+                            „Da Liebknecht jetzt ....“, <ref target="mega_xyg_mkh_2gb"><?oxy_comment_start author="reichhoff" timestamp="20180622T144329+0200" comment="(Br. 454.31–34)"?>Marx
+                                an V. Schily, 30.11.1867<?oxy_comment_end?></ref> „Ich lege Dir ...“
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191211T122439+0100" comment="441o"?>Erläuterungen<?oxy_comment_end?>.</note></seg></p>
+                <p>Ich schick der <persName key="pdrPo.001.004.000003074">Jenny</persName> heut
+                    Abend <seg type="comment"><orig>den Prozeß der  <persName key="ed_jsy_fyh_chb">Adelaide Macdonald</persName> die auf den Polizisten eine Pistole
+                            abdrückte.</orig><note xml:id="nasv_bxm_2gb">Am 4. November 1867 verübte
+                            die Fenierin <persName key="ed_jsy_fyh_chb">Adelaide
+                                Macdonald</persName> einen Anschlag auf die Polizeiwache vor dem
+                            Haus des Hauptzeugen, der gegen den im Manchester Prozeß (siehe <ref target="B00413"><?oxy_comment_start author="lindenberg" timestamp="20191211T123745+0100" comment="403s"?>Erl.
+                                zu Marx an Engels, 2.11.1867<?oxy_comment_end?></ref>) Angeklagten
+                                <persName key="ed_gd4_4n4_qgb">William Allen</persName> ausgesagt
+                            hatte. Sie wurde verhaftet und zu 5 Jahren Zuchthaus verurteilt. –
+                            Jenny, d. i. <persName key="pdrPo.001.004.000003074">Jenny Marx
+                                (Tochter)</persName>.</note></seg> Ihr Verhältniß zu <persName key="ed_gd4_4n4_qgb">Allen</persName> ist nicht klar. Allen war mit einem
+                    andren Mädchen verlobt &amp; sollte den Montag nach der „outrage“ heirathen.</p>
+                <p>Eilig</p>
+                <closer>Dein<lb/>F. E.</closer>
+                <postscript>
+                    <p><seg type="comment"><orig>loan wohl all right?</orig><note xml:id="nql1_fxm_2gb">Siehe <ref target="B00468"><?oxy_comment_start author="reichhoff" timestamp="20180613T152710+0200" comment=" (Br. 459.3–5) "?>Engels
+                                    an Marx, 4.<?oxy_comment_end?>12.1867</ref> sowie <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180613T152742+0200" comment="(Br. 463.3–11)."?>Marx
+                                    an Engels, 7.12.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                </postscript>
+            </div>
+            <div type="writingSession">
+                <p><seg type="comment"><orig>Heute Anfragen wegen Lebensversicherung.</orig><note xml:id="nqvj_hxm_2gb">Siehe <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180613T152824+0200" comment="(Br. 445.4–9)."?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref>.</note></seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

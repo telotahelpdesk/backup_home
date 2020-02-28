@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00422" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>412</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 7. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4500/L VI 632</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 228 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Marx hat die erste, die dritte und die vierte Seite vollständig beschrieben, die zweite Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Die Passage „Uebrigens {bis} besorgen.“
+              <?oxy_comment_start author="lindenberg" timestamp="20190301T143622+0100" comment="(Z. 4–6)"?>ist<?oxy_comment_end?>
+              auf der ersten Seite oben kopfstehend geschrieben und mit einem Einfügungszeichen
+              („++“) versehen.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+              Briefes bzw. der beschriebenen Seiten mit Bleistift: „50,1“ bis „50,3“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2108</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+              (1913)<?oxy_custom_end?>. S. 423–425.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+              (1930).<?oxy_custom_end?> S. 444/445.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-11-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+        <correspContext>
+          <ref type="prev" target="B00418"/>
+          <ref type="next" target="B00423"/>
+        </correspContext>
+        <note>Marx beantwortet Engels’ Brief vom 5. November 1867 (siehe <ref target="B00418"><?oxy_comment_start author="lindenberg" timestamp="20190301T143235+0100" comment="408"?>Engels
+            an Marx, 5.11.1867<?oxy_comment_end?></ref>). Engels antwortete am 8. November 1867
+          (siehe <ref target="B00423"><?oxy_comment_start author="lindenberg" timestamp="20190301T143307+0100" comment="Br. 413"?>Engels
+            an Marx, 8.11.1867</ref><?oxy_comment_end?>).</note>
+        <note>Die Beilage  („der beiliegenden 'Diplom. Rev.'“) zum Brief ist nicht überliefert.
+          Siehe
+          <?oxy_comment_start author="lindenberg" timestamp="20190301T143332+0100" comment="412.32–33."?>Erl.<?oxy_comment_end?>
+        </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:34Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> 7 Nov. 1867.</dateline>
+          <salute>Dear Fred,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Meine remerciments für die „<bibl sameAs="ed_bfc_bfr_tgb" type="periodika">Elberfelder</bibl>“.</orig><note xml:id="c4a81561-9ee9-44ed-a616-b7f7b46c2693">Engels übersandte Marx seine Rezension
+              über den ersten Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“, veröffentlicht in der „<bibl sameAs="ed_bfc_bfr_tgb" type="periodika">Elberfelder Zeitung</bibl>“: [Friedrich Engels:] Karl Marx über das
+              Capital. (Hamburg, Verlag von Otto Meißner I. Band 1867.) [Gez.:] S[iebel]. In:
+              Elberfelder Zeitung. Nr. 302, 2. November 1867. 2. Ausg. S. 2, Sp. 3–4. (MEGA<hi rendition="#sup">2</hi> I/21. S. 10/11 und 1239/1240.) Siehe <ref target="B00418"><?oxy_comment_start author="reichhoff" timestamp="20180606T123711+0200" comment="(Br. 408.3)"?>Engels
+                an Marx, 5.11.1867 <?oxy_comment_end?></ref> und <ref target="B00406"><?oxy_comment_start author="lindenberg" timestamp="20191108T101201+0100" comment="396b"?>Erl.
+                zu C. Siebel an Engels, 19.10.1867<?oxy_comment_end?></ref>.</note></seg></p>
+        <p><seg type="comment"><orig>Die <hi rendition="#u">alte</hi> Adresse des<hi rendition="#u">
+                <persName key="pdrPo.001.004.000002822">Liebknecht</persName></hi>: “11,
+              Braustrasse, Leipzig“.</orig><note xml:id="b7e549d8-35e3-4c9d-adc8-dd9cae8d4303">Siehe
+                <ref target="B00418"><?oxy_comment_start author="reichhoff" timestamp="20180606T123741+0200" comment="(Br. 408.14–15)"?>Engels
+                an Marx, 5.11.1867<?oxy_comment_end?></ref> „Die Sache ...“.</note></seg>
+          <add place="mTop">Uebrigens vielleicht <hi rendition="#u">sichrer</hi> durch Kugelmann,
+            der mit einem <seg type="comment"><orig>Freund <persName key="pdrPo.001.004.000002822">Liebknecht</persName>s</orig><note xml:id="b682e8d3-be9e-4b53-9cc3-3e558e48af67">Die Person konnte nicht ermittelt werden.</note></seg> zu Leipzig in Verbindung
+            steht, zu besorgen.</add></p>
+        <p>Ich hatte vergessen, Dir <seg type="comment"><orig>in dem Brief v. Samstag</orig><note xml:id="aebf694b-4530-443a-bd06-76c4208eb09d">Siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180606T123913+0200" comment="(Br. 403)"?>Marx
+                an Engels, 2.11.1867<?oxy_comment_end?></ref>.</note></seg> zu schreiben, daß <seg type="comment"><orig>für die <bibl sameAs="ed_b12_nhf_lbb" type="periodika">Fortnightly</bibl> 1 Bogen Maximum</orig><note xml:id="c744550a-9e59-4d81-aa7f-b5077358d9d4">Zur Engels’ Rezension über den ersten
+              Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ für die
+                „<bibl sameAs="ed_b12_nhf_lbb" type="periodika">Fortnightly Review</bibl>“ siehe
+                <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T123955+0200" comment="(Br. 395.73)"?>Marx
+                an Engels, 19.10.1867 <?oxy_comment_end?></ref> „Sobald dies in Deutschland besorgt
+              ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191108T101737+0100" comment="395q."?>Erl.<?oxy_comment_end?>
+              sowie <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180606T124033+0200" comment="(Br. 397.45)"?>Engels
+                an Marx, 22.10.1867 <?oxy_comment_end?></ref> „Die Sache ...“.</note></seg>. Wenn
+          mehr als halben Bogen, so in der Form zu geben: First Notice, Second Notice.</p>
+        <p><del rendition="#s">Ich habe es<sic ana="#break-off"/></del>Was den <persName key="pdrPo.001.004.000003135">Meißner</persName> angeht, so scheint es mir nicht
+          diplomatisch, ihn zu sehr hinter <expan>d<ex>ie</ex></expan> Karten sehn zu lassen. Was er
+          aus eignen Mitteln thun kann, thut er ohnehin. Wichtig wäre es – u. für
+              <expan>d<ex>en</ex></expan> Augeblick selbst wichtiger als <expan>d<ex>ie</ex></expan>
+          englische Geschichte – einen ausführlicheren <del rendition="#s">u. so<sic ana="#break-off"/></del> (vielleicht in mehrere Artikel zerfallenden) Bericht an die
+          Oestreichische “<bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Internationale
+          Revue</bibl>" (<hi rendition="#u">Arnold Hilberg’s</hi> Verlag, 4, Kolowrat-Ring, Wien) zu
+          schicken. <seg type="comment"><orig>Da <persName key="ed_ts3_qm2_sy">Arnold
+                Hilberg</persName> Dich u. mich als seine Mitarbeiter aufzählt (u. durch mich uns
+              beide zur Mitarbeit aufgefordert hat)</orig><note xml:id="cc7a9ffd-22da-472c-a5f0-538492e3af10">Siehe <ref target="B00002">Arnold
+                Hilberg’s Verlag an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180622T094533+0200" comment="(Br. 1a,"?>2.1.1866<?oxy_comment_end?></ref>,
+                <ref target="B00009"><?oxy_comment_start author="reichhoff" timestamp="20180622T094607+0200" comment="8"?>15.1.1866<?oxy_comment_end?></ref>,
+                <ref target="B00015"><?oxy_comment_start author="reichhoff" timestamp="20180622T094642+0200" comment="14"?>18.1.1866<?oxy_comment_end?></ref>,
+                <ref target="B00051"><?oxy_comment_start author="reichhoff" timestamp="20180622T094728+0200" comment="48"?>Anfang
+                März<?oxy_comment_end?> 1866</ref>, <ref target="B00099"><?oxy_comment_start author="reichhoff" timestamp="20180622T094808+0200" comment="95"?>April<?oxy_comment_end?>
+                1866</ref>, <ref target="B00105"><?oxy_comment_start author="reichhoff" timestamp="20180622T094848+0200" comment="101"?>4.5.1866<?oxy_comment_end?></ref>.
+            </note></seg>, so steht hier nichts im Weg. Es ist in der That die einzige deutsche <seg type="comment"><orig>“<bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Revue</bibl>“</orig><note xml:id="f67c3978-3bf3-49f8-a537-9754de1cc325"><bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Internationale Revue</bibl>. Siehe  <ref target="B00051">Arnold Hilberg’s Verlag an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180622T094926+0200" comment="(Br. 48.7–10)"?>Anfang
+                März 1866<?oxy_comment_end?></ref>.</note></seg>, die uns offen steht.</p>
+        <p>Das einzige Wochenblatt hier in London, das eine gewisse Unpartheiischkeit besizt u. sich
+          viel mit Deutschen beschäftigt, <del rendition="#s"><unclear reason="covered" cert="low">(mehr</unclear> etwa<sic ana="#break-off"/></del> wie deutscher Philologie,
+          Naturwissenschaft, <persName key="pdrPo.001.004.000002103">Hegel</persName> u.s.w., ist
+          ein – <hi rendition="#u">katholisches Blatt</hi>, the „<hi rendition="#u"><bibl sameAs="ed_sbg_mn3_tgb" type="periodika">Chronicle</bibl></hi>“. Es ist offenbar
+          Tendenz bei ihnen zu zeigen, daß sie gebildeter sind als ihre protestan<pb/>tischen
+          Rivalen. Ich habe ihnen Ende lezter Woche <seg type="comment"><orig>one <bibl sameAs="zotero-604880-PT9GISVC" type="primary">copy</bibl></orig><note xml:id="a6b43bcc-510a-4047-b52d-ca18cab84bf3"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg> geschickt
+            <seg type="comment"><orig>mit a short letter to the purpose</orig><note xml:id="d0a4e679-2ec7-4d04-8918-c1d5170f7093">Marx’ Brief an die Redaktion des
+              Wochenblattes „<bibl sameAs="ed_sbg_mn3_tgb" type="periodika">The Chronicle</bibl>“,
+              geschrieben vermutlich am 1. November 1867, ist nicht überliefert.</note></seg>, daß
+          mein Buch andre als ihre Ansichten vertritt, daß aber <expan>d<ex>er</ex></expan>
+          „wissenschaftliche“ Charakter ihres Blatts präsumiren läßt, that „some notice will be
+          taken of this first attempt at aplying the <hi rendition="#u">dialectic method</hi> to
+          Pol. Econ.“ Nous verrons! Es herrscht jezt in der feineren Welt (ich spreche natürlich v.
+              <expan>d<ex>em</ex></expan> intellectual Theil derselben) viel Bedürfniß, die
+          dialektische Methode kennen zu lernen. Und vielleicht ist das noch der leichteste Weg die
+          Engländer heranzukriegen.</p>
+        <p><seg type="comment"><orig>Von der beiliegenden „<hi rendition="#u"><bibl sameAs="ed_vyj_nhf_lbb" type="periodika">Diplom. Rev.</bibl></hi>“ das
+              Interessanteste der Auszug aus dem neuen Buch v. Prokesch.</orig><note xml:id="c46802f5-2dcd-4bcf-a77b-64f83ec6d5c6">Conference held on August the 27th,
+              1822, at Constantinople. From the work of Baron Prokesch. In: The Diplomatic Review
+              (Free Press). Vol. 15, Nr. 11, 2. Oktober 1867. S. 149–155. Die Monatsschrift
+              veröffentlichte Auszüge aus dem sechsbändigen
+              <?oxy_comment_start author="lindenberg" timestamp="20190301T143853+0100" comment="{CW 42, p. 464, note c: Bd. 1–6; MEW 31, Anm. 429: 5 Bde?}"?>Werk
+                <?oxy_comment_end?>„<bibl sameAs="zotero-604880-8UVRAE3L" type="primary">Geschichte
+                des Abfalls der Griechen vom Türkischen Reiche im Jahre 1821 und der Gründung des
+                hellenischen Königreiches, aus diplomatischem Standpuncte</bibl>“, Wien 1867, von
+                <persName key="pdrPo.001.004.000003829">Anton
+            Prokesch-Osten</persName>.</note></seg></p>
+        <p><seg type="comment"><orig>Ausführliche Beschreibung der <persName key="ed_zd3_5xq_4gb">Abercorn</persName>’schen Evictions war vor about 14 Tagen im (Dublin) „<hi rendition="#u"><bibl sameAs="ed_m2f_lck_tgb" type="periodika">Irishman</bibl></hi>“</orig><note xml:id="b50e310b-9433-4d43-868d-58b505921940">Siehe
+                <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180622T095900+0200" comment="(Br. 403.75–84)"?>Marx
+                an Engels, 2.11.1867<?oxy_comment_end?></ref> und <ref target="B00418"><?oxy_comment_start author="reichhoff" timestamp="20180625T171513+0200" comment="(Br. 408.53–54)"?>Engels
+                an Marx, 5. November 1867<?oxy_comment_end?></ref>. – der Artikel in der Dubliner
+              Zeitung „The Irishman“ über die
+              Zwangsräumungen<?oxy_comment_start author="lindenberg" timestamp="20191108T120435+0100" comment="https://archive.irishdemocrat.co.uk/features/bradlaugh-and-ireland/
+ON 7 NOVEMBER 1867, Karl Marx, writing to his friend and colleague Friedrich Engels, mentioned that he had read a detailed description of Lord Abercorn&apos;s evictions in the Dublin newspaper The Irishman. The Duke of Abercorn (1811-1885) had become Lord Lieutenant of Ireland in 1866. The family name was Hamilton and they owned large estates which embraced Counties Donegal, Derry and the family seat at Baronscourt, Co Tyrone. Abercorn was a Conservative of the far right and his estates were ruled with a firm and unsympathetic hand.
+
+He was to achieve notoriety in his suppression of the IRB during his first period as Lord Lieutenant. He then achieved even more notoriety in trying to suppress the Home Rule movement and the Land League. His evictions of the poor tenants of his estates created widespread agitation in Ireland and protests in England among radicals such as Marx.
+
+In his letter, Marx reports that at a protest meeting about Lord Abercorn at which &quot;Bradlaugh made a speech about Ireland&quot; and a resolution in support of the Fenians (IRB) had been passed unanimously. "?>
+              verarmter Pächter<?oxy_comment_end?> auf Lord <persName key="ed_zd3_5xq_4gb">Abercorns</persName> Ländereien in Irland konnte nicht ermittelt werden. (siehe
+              auch MEGA<hi rendition="#sup">2</hi> I/21. S. 20 und 1257–1258.)
+              <?oxy_comment_start author="lindenberg" timestamp="20190301T143911+0100" comment="{auch in CW nicht ermittelt.}"?></note><?oxy_comment_end?></seg>.
+          Ich bringe es vielleicht fertig die mir nur für 24 Stunden gepumpte Nummer wieder zu
+          erhalten.</p>
+        <p><seg type="comment"><orig>In Meeting, worin <subst>
+                <del rendition="#s">Bradlaugh präsid<ex>ierte</ex></del>
+                <add place="intralinear"><sic ana="#break-off"/>Col. <persName key="ed_jmq_5nn_zgb">Dickson</persName> präsidirte</add>
+              </subst> , u. <persName key="ed_d1d_4wh_yx">Bradlaugh</persName> Vortrag über Irland
+              hielt, brachte unser Old <persName key="pdrPo.001.004.000005083">Weston</persName>,
+              seconded by <persName key="pdrPo.001.004.000001603">Fox</persName> u. <persName key="pdrPo.001.004.000001027">Cremer</persName>, Resolution für die Fenians ein, die
+              einstimmig passirte.</orig><note xml:id="a969860f-7a08-4c5f-bd33-a984a9ccb838">Marx
+              bezieht sich auf eine Versammlung der Reform League (siehe <ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. und 15.1.1866</ref>. Über den Prozeß gegen
+              die Fenier siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180625T171653+0200" comment="(Br. 403)"?>Marx
+                an Engels, 2.11.1867<?oxy_comment_end?></ref> „Der Fenian Prozeß ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191108T134114+0100" comment="403s"?>Erl.<?oxy_comment_end?> </note></seg>
+          Lezten Dienstag ditto, während <persName key="ed_pz1_yyq_4gb">Aclands</persName> Vorlesung
+          über <seg type="comment"><orig>Reformbill</orig><note xml:id="cb76842b-71ba-46f8-a109-ba6db595e7fb"> Siehe <ref target="B00025"><?oxy_comment_start author="lindenberg" timestamp="20191108T140722+0100" comment="24d.{Jg. 1866}"?>Erl<?oxy_comment_end?>. zu
+                J. Marx an J. Ph. Becker 29.1.1866</ref>.</note></seg>, Cleveland Hall (über unsrem
+          Kopf, wir tagten unten im coffeeroom, der im Keller liegt) stürmische Demonstration für
+          die Fenians. Die Sache moussirt hier in <expan>d<ex>en</ex></expan> intelligenten Theil
+          der working class. </p>
+        <p><pb/> Höchst charakteristisch für die diplom. Farce, die jezt in Europa vorgeht, daß zur
+          selben Zeit, wo <seg type="comment"><orig><persName key="pdrPo.001.004.000003392">Bonaparte</persName></orig><note xml:id="f2c95418-407b-4151-a1c8-4bc1e85c58dd"><persName key="pdrPo.001.004.000003392">Napoleon III</persName>.</note></seg> in
+          Italien intervenirt, Fkch, Italien u. Preussen zusammen, im gehorsamsten Auftrag Rußlands,
+            <seg type="comment"><orig>eine Drohnote der Pforte zustellen.</orig><note xml:id="ca7c4a64-1f17-48b7-af05-4609a83ac13b">Anspielung auf die von Rußland,
+              Frankreich, Preußen und Italien unterzeichnete Erklärung an die türkische Regierung
+              vom 29. Oktober 1867. Die Erklärung rief die Türkei dazu auf, die von den türkischen
+              Truppen gegen die Bevölkerung Kretas und ihre nationale Befreiungsbewegung (siehe <ref target="B00336"><?oxy_comment_start author="reichhoff" timestamp="20180622T094336+0200" comment="Br. 327"?>Marx
+                an A.Vermorel, 27.8.1867<?oxy_comment_end?></ref> „Révolution de Crète“ und Erl.)
+              verübte Gewalt zu beenden.</note></seg></p>
+        <p>Salut</p>
+        <closer>D<lb/>KM</closer>
+        <postscript>
+          <p>Der alte <persName key="pdrPo.001.004.000004861">Urquhart</persName> mit seinem
+            Katholicismus etc grows more and more disgusting.</p>
+        </postscript>
+              </div><div type="writingSession"><p><seg type="comment"><orig>On lit dans un registre d’une inquisition d’Italie cet aveu d’une
+              religieuse; elle disait innocemment à la Madone:
+              „<?oxy_comment_start author="lindenberg" timestamp="20191108T151651+0100" comment="Degrâce, Heilige Jungfrau, gib mir jemanden, mit dem ich sündigen kann"?>Degrâce,
+              sainte Vierge, donne moi quelqu’un avec qui je puisse
+              pécher<?oxy_comment_end?>.“</orig><note xml:id="njwv_jkx_qjb">Es handelt sich um ein
+              Zitat aus einer Fußnote u. a. in <bibl sameAs="zotero-604880-EA28QW2L" type="primary">J[ules] Michelet: La Sorcière. Nouvelle Edition. Paris 1867.</bibl> S. 267: „On lit
+              dans un registre d’une inquisition d’Italie cet aveu d’une religieuse; elle disait
+              innoncement à la Madone: 'De grâce, sainte Vierge, donne moi quelqu’un avec qui je
+              puisse pécher '(dans Lasteyrie, Confession, p. 205). Zuvor auch in seiner in
+              verschiedenen Ausgaben und unterschiedlicher Bandzählung erschienenen „Histoire de
+              France“ (so in Band 13: <bibl sameAs="zotero-604880-4KJFK4NG" type="primary">Louis XIV
+                et la Révocation de l’Edit de Nantes. Paris 1860.</bibl> S. 457.  </note></seg> Die
+          Russen sind aber auch hierin plus forts. Es ist constatirt, daß ein kerngesunder Kerl, der
+          nur 24 Stunden in einem russischen Nonnenkloster, todt herauskam. Die Nonnen hatten ihn zu
+          Tod geritten. Allerdings, bei ihnen le directeur des consciences <hi rendition="#u">n’entre</hi> pas tous les jours! </p>
+      </div></body></text></TEI>

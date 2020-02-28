@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00278" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>269</idno>Friedrich Engels an Karl Marx in London. Manchester, Sonntag,
+                    16. Juni 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1629/D III 399</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            230 × 180 mm. Wasserzeichen: „A Pirie &amp; Sons 1866“.
+                            Prägung: Wappenschild im Oval mit der Aufschrift „London Superfine“.
+                            Engels hat die erste und die zweite Seite vollständig, die dritte zur
+                            Hälfte beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: 14,1 bis
+                            14,3 (gestrichen); 326,1 bis 326,3.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes auf der ersten Seite oben in der Mitte:
+                            „892“.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben links mit Bleistift der
+                            Vermerk: „W.“</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2040</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 380–382.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-06-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00275"/>
+                    <ref type="next" target="B00281"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 3. Juni 1867
+                        (<?oxy_comment_start author="lindenberg" timestamp="20190128T164935+0100" comment="(Br. 266)"?><ref target="B00275">Marx an Engels, 3.6.1867</ref><?oxy_comment_end?>). Marx
+                    antwortete ihm am 22. Juni 1867 (<ref target="B00281"><?oxy_comment_start author="lindenberg" timestamp="20190128T165000+0100" comment="(Br. 272)"?>Marx
+                        an Engels, 22.6.1867</ref><?oxy_comment_end?>).</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:38Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 16 Juni 1867.</dateline>
+                    <salute>Lieber Mohr,</salute>
+                </opener>
+                <p>Ich bin seit 8 Tagen durch allerlei Krakehl mit
+                    Monsieur <seg type="comment"><orig><persName key="pdrPo.001.004.000001409">Gottfried</persName></orig><note xml:id="nvyx_swx_vfb"><persName key="pdrPo.001.004.000001409">Gottfried
+                        Ermen</persName>.</note></seg> &amp; andre derartige Geschichten &amp;
+                    Störungen so derangirt worden daß ich nur selten <seg type="comment"><orig>zum
+                            Studium der Werthform Ruhe hatte. Sonst hätte ich Dir die Bogen längst
+                            zurückgeschickt.</orig><note xml:id="nfbk_wwx_vfb">Siehe <ref target="B00275"><?oxy_comment_start author="reichhoff" timestamp="20180514T163351+0200" comment="(Br. 266.4–8)."?>Marx
+                                an Engels, 3.6.1867<?oxy_comment_end?></ref>.</note></seg> Bogen 2
+                    namentlich trägt ein etwas gedrücktes Carbunkelgepräge, das ist aber nun nicht
+                    mehr zu ändern &amp; ich meine Du machst im Nachtrag weiter Nichts darüber, denn
+                    der Philister ist doch an diese Art abstracten Denkens nicht gewöhnt &amp; wird
+                    sie sich der Werthform zu Gefallen sicher nicht anquälen. Höchstens würde das
+                    hier dialectisch Gewonnene etwas weitläuftiger historisch nachzuweisen,
+                    sozusagen aus der Geschichte die Probe darauf zu machen sein obgleich dafür das
+                    Nöthigste auch schon gesagt ist; Du hast aber so viel Material darüber daß Du
+                    gewiß noch einen ganz guten Excurs darüber machen kannst der dem Philister auf
+                    historischem Wege die Nothwendigkeit der Geldbildung &amp; den dabei
+                    stattfindenden Prozeß nachweist.</p>
+                <p>Du hast den großen Fehler begangen den Gedankengang
+                    dieser abstracteren Entwicklungen nicht durch mehr kleine Unterabtheilungen
+                    &amp; Separatüberschriften anschaulich zu machen. Diesen Theil hättest Du
+                    behandeln sollen in der Art wie die <seg type="comment"><orig>Hegelsche
+                            Encyklopädie,</orig><note xml:id="nitl_r4c_wfb">Georg Wilhelm Friedrich
+                            Hegel: Encyclopädie der philosophischen Wissenschaften im Grundrisse.
+                            Th. 1: Die Logik. In: Werke. Vollst. Ausg. durch einen Verein von
+                            Freunden des Verewigten … Bd. 6. Berlin 1840.</note></seg> mit kurzen
+                    Paragraphen, jeden dialektischen Übergang durch besondre Überschrift
+                    hervorgehoben, &amp; wo möglich alle Excurse &amp; bloßen Illustrationen mit
+                    besondrer Schrift gedruckt. Das Ding würde etwas schulmeisterlich ausgesehen
+                    haben, das Verständniß für eine sehr große Klasse Leser aber wesentlich
+                    erleichtert worden sein. Der populus, selbst der gelehrte, ist eben an diese Art
+                    zu <pb/> denken gar nicht mehr gewohnt, &amp; man muß ihnen da jede mögliche
+                    Erleichterung zukommen lassen.</p>
+                <p>Im Vergleich mit der <seg type="comment"><orig>früheren Darstellung (<persName key="pdrPo.001.004.000001261">Dunker</persName>)</orig><note xml:id="nxhf_fqc_wfb"><bibl sameAs="zotero-604880-TRVS3BVD" type="primary">Karl Marx: Zur Kritik der Politischen Oekonomie.
+                                Erstes Heft. Berlin 1859.</bibl> (<bibl sameAs="zotero-604880-RDLJVE6F" type="primary">MEGA² II/2</bibl>.
+                                <bibl sameAs="zotero-604880-FVMQ2W9Y" type="primary">S. 95–245</bibl>.) Das Werk erschien im Verlag von <persName key="pdrPo.001.004.000001261">Franz Duncker</persName>.</note></seg>
+                    ist der Fortschritt in der Schärfe der dialektischen Entwicklung sehr bedeutend,
+                    in der Darstellung selbst gefällt mir Manches in der ersten Gestalt besser. Es
+                    ist sehr schade daß grade der wichtige zweite Bogen unter dem Carbunkeldruck
+                    leidet. Daran ist aber nichts mehr zu ändern, &amp; wer capabel ist dialektisch
+                    zu denken versteht es doch. Die übrigen Bogen sind sehr gut &amp; haben mir viel
+                    Freude gemacht. Hoffentlich kannst Du mir bald wieder ein fünf bis sechs Bogen
+                    schicken (wobei ich bitte Bogen 5 wieder beizulegen damit ich richtig in den
+                    Faden komme), die hier einzeln gelesenen Bogen werden sich im Zusammenhang viel
+                    besser machen.</p>
+                <p>Einige Druckfehler hab’ ich noch entdeckt. Ich würde ins
+                    Verzeichniß nur die wirklich sinnentstellenden aufnehmen.</p>
+                <p>Gestern war ich bei <persName key="pdrPo.001.004.000001969">Gumpert</persName>. Pauvre garçon! Er kommt
+                    täglich mehr herunter. Es war unmöglich ihn für irgend etwas Wissenschaftliches,
+                    nicht einmal Politisches zu interessiren. Stadtklatsch nichts als Stadtklatsch.
+                    Und dabei wundert er sich daß man nicht öfter zu ihm kömmt.</p>
+                <p><seg type="comment"><orig>Den <persName key="pdrPo.001.004.000002208">Hoffmann</persName>
+                            gelesen.</orig><note xml:id="ny3k_jqc_wfb">Aug[ust] Wilh[elm] Hofmann:
+                            Einleitung in die moderne Chemie. Nach einer Reihe von Vorträgen
+                            gehalten in dem Royal College of Chemistry zu London. Braunschweig 1866.
+                            Das Buch beinhaltet die Veröffentlichung der 1865 gehaltenen Vorlesungen
+                                <persName key="pdrPo.001.004.000002208">Hofmanns</persName>, die
+                            Marx besucht hatte (siehe <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180620T111106+0200" comment="Br. 272.61–62)"?>Marx
+                                an Engels, 22.6.1867<?oxy_comment_end?></ref>) und die ihn u.a.
+                            anregten, sich für Chemie als Naturwissenschaft zu interessieren.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190220T181124+0100" comment="vorher: Das Buch stellte sich die Veröffentlichung der 1865 gehaltenen Vorlesungen Hofmanns, die Marx besuchte (siehe Marx an Engels, 22.6.1867 Br. 272.61–62) und die ihn u.a. Anregungen gaben, sich für Chemie als Naturwissenschaft zu interessieren."?><?oxy_comment_end?>Zu
+                            Marx’ Chemiestudien in den 1870er Jahren siehe MEGA<hi rendition="#sup">2</hi> IV/31, Einführung, S. 627–632, 643/644, 657–678 und 682–685.
+                            Siehe auch <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180514T164542+0200" comment="(Br. 272.56–66)."?>Marx
+                                an Engels, 22.6.1867<?oxy_comment_end?></ref>.</note></seg> Die
+                    neuere chemische Theorie mit all ihren Fehlern ein großer Fortschritt gegen die
+                    frühere atomistische. Die Molecüle als kleinster <hi rendition="#u">selbstständiger Existenz fähiger</hi> Theil der Materie ist eine ganz
+                    rationelle Kategorie, <seg type="comment"><orig>ein „Knoten“ wie <persName key="pdrPo.001.004.000002103">Hegel</persName> sagt, in der
+                            unendlichen Reihe der Theilungen, der sie nicht abschließt aber einen
+                            qualitativen Unterschied <pb/> setzt.</orig><note xml:id="nutk_vqc_wfb">Georg Wilhelm Friedrich Hegel: Wissenschaft der Logik. Th. 1. Die
+                            objektive Logik. Abth. 1. Die Lehre vom Seyn. Hrsg. von Leopold von
+                            Henning. 2. unveränd. Aufl. Berlin 1841. (Werke. Vollst. Ausg. durch
+                            einen Verein von Freunden des Verewigten … Bd. 3.) S. 433/434: „In <hi rendition="#u">chemischen Verbindungen</hi> kommen bei der
+                            progressiven Aenderung der Mischungsverhältnisse solche qualitative
+                            Knoten und Sprünge vor, daß zwei Stoffe auf besondern Puncten der
+                            Mischungsscale, Producte bilden, welche besondere Qualitäten zeigen.
+                            Diese Producte unterscheiden sich nicht bloß durch ein Mehr oder Weniger
+                            von einander, noch sind sie mit den Verhältnissen, die jenen
+                            Knotenverhältnissen nahe liegen, schon vorhanden, etwa nur in einem
+                            schwächern Grade, sondern sind an solche Puncte selbst gebunden.“ Siehe
+                            auch ebenda. Kapitel 2. Das reale Maaß. Punkt B. Knotenlinie von
+                            Maaßverhältnissen. S. 445–452, sowie Friedrich Engels: Dialektik der
+                            Natur. (MEGA<hi rendition="#sup">2</hi> I/26. S. 180.13–14 und
+                            Erl.).</note></seg> Das Atom – früher als Schranke der Theilbarkeit
+                    dargestellt – ist jetzt bloß noch ein <hi rendition="#u">Verhältniß</hi>, obwohl
+                    Monsieur <persName key="pdrPo.001.004.000002208">Hoffm.</persName> selbst alle
+                    Fingerlang wieder in die alte Vorstellung zurückfällt es gäbe wirklich
+                    untheilbare Atome. Im übrigen sind die in dem Buch constatirten Fortschritte der
+                    Chemie wirklich ungeheure, &amp; <persName key="pdrPo.001.004.000004311">Schorlemmer</persName> sagt daß diese Revolution noch täglich vor sich geht
+                    so daß man alle Tage neue Umwälzungen erwarten kann.</p>
+                <p>Beste Grüße an <persName key="pdrPo.001.004.000003075">Deine Frau</persName>, die Mädchen &amp; den <seg type="comment"><orig><persName key="pdrPo.001.004.000002648">Elektriker</persName></orig><note xml:id="nqhx_nrc_wfb"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>, der als
+                            Medizinstudent große Erwartungen in die Anwendung von Elektrizität zur
+                            Krankenbehandlung setzte.</note></seg>.</p>
+                <closer>Dein<lb/>F. E.</closer>
+                <postscript>
+                    <p><seg type="comment"><orig>5 Bogen</orig><note xml:id="nhbp_src_wfb"><bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das
+                                    Kapital. Bd. 1.</bibl> Siehe <ref target="B00277"><?oxy_comment_start author="reichhoff" timestamp="20180514T164938+0200" comment="(Br. 268.52–55)."?>Marx
+                                    an L. Kugelmann,
+                            10.6.1867<?oxy_comment_end?></ref>.</note></seg> heute zurück. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

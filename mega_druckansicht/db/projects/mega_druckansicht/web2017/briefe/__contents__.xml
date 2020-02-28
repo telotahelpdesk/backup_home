@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/mega_druckansicht/web2017/briefe" owner="admin" group="dba" mode="755" created="2020-02-19T17:38:59+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="detail.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:59+01:00" modified="2020-02-19T17:38:59+01:00" filename="detail.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:59+01:00" modified="2020-02-19T17:38:59+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+</collection>

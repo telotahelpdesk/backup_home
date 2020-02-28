@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00402" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>392</idno>Friedrich Engels an Hermann Meyer  in Liverpool. Manchester, Freitag, 18. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">K 1310/K 515</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 226 × 177 mm. Prägung: Blumenstrauß. Engels hat die erste Seite vollständig, die zweite zu drei Vierteln beschrieben, die dritte und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite oben in der Mitte mit Rotstift Nummerierung des Briefes „88.“ und auf der vierten Seite unten rechts mit Bleistift der Vermerk „95“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2101</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                            (1934).<?oxy_custom_end?> S. 500/501.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW 31
+                            (1965).<?oxy_custom_end?> S. 566.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-10-18"/></correspAction><correspAction type="received">
+                    <persName key="pdrPo.001.004.000003182">Meyer, Hermann (1821-1875)</persName>
+                    <placeName key="ed_zvg_2fj_wx">Liverpool</placeName></correspAction>
+                <note>Engels beantwortet das nicht überlieferte Telegramm von Meyer, abgegeben am
+                    17. bzw. 18. Oktober 1866 („Ihr Telegramm“).</note>
+                <note>Die Beilage zum Brief („inl. Zettel“) ist nicht überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:20Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Manchester 18 Octbr 1867.</dateline>
+                    <salute>Lieber Meyer</salute>
+                </opener>
+                <p><seg type="comment"><orig>Heute Morgen erhielt ich Ihr Telegramm &amp; es thut
+                            mir unendlich leid nicht noch heute Abend nach Lpool gehn zu
+                            können.</orig><note xml:id="dd5f1856-d24c-4c8e-9435-22780c5ad3d7">Hermann Meyer kam aus den USA und besuchte im Mai 1867 Marx und Engels.
+                            Siehe <ref target="B00271"><?oxy_comment_start author="reichhoff" timestamp="20180605T160928+0200" comment="(Br. 262.5–18)"?>Marx
+                                an Engels, um den 22.5.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Mein <persName key="pdrPo.001.004.000001409">Associé</persName></orig><note xml:id="d9db059b-6f94-4bdf-b60e-3eca83761b8f"><persName key="pdrPo.001.004.000001409">Gottfried
+                        Ermen</persName>.</note></seg> &amp; <seg type="comment"><orig>unser erster
+                                <persName key="ed_lbg_ttj_3y">Commis</persName></orig><note xml:id="c455addb-7f59-4ab9-b71f-09fb938cd6e7"><persName key="ed_lbg_ttj_3y">Charles Roesgen</persName>.</note></seg> sind
+                    Beide morgen weg &amp; da muß ich dasein um Cheques zu unterschreiben &amp;
+                    Allem selbst nachzusehn. Dazu schließen wir Samstags hier schon um 1 Uhr, &amp;
+                    da Sie selbst erst gegen 11 Uhr heut Abend in Lpool eintreffen &amp; die Russia
+                    um 12 Uhr segelt, sehen Sie selbst ein daß da nichts zu machen ist.</p>
+                <p>Bitte schreiben Sie mir Ihre Adresse &amp; die von
+                        <persName key="pdrPo.001.004.000005095">Frau Weydemeyer</persName> auf inl.
+                    Zettel &amp; geben Sie das Couvert dann zur Aufgabe im Hotel ab. Grüßen Sie Frau
+                    W. herzlich von mir, &amp; sagen Sie ihr ich hätte ihr längst ein paar Zeilen
+                    geschrieben wenn ich ihre Adr. gewußt hätte.</p>
+                <p>Ich hoffe Sie werden im Stande sein die Aufmerksamkeit der amerik. deutschen
+                    Presse &amp; der Arbeiter auf <seg type="comment"><orig>Marx’s Buch</orig><note xml:id="c51b35f2-e80f-42e9-8323-89d1e4473515"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>.</note></seg> zu lenken. <pb/> Bei der
+                        <seg type="comment"><orig>8 Stunden Agitation</orig><note xml:id="c6a0735a-ebd0-4161-9e63-957bb959b2ba">Zum Kampf für den
+                            Achtstundentag siehe <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180605T161015+0200" comment="(Br. 330.17–21)"?>Engels
+                                an Marx, 2.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190814T112535+0200" comment="330k"?>Erl.<?oxy_comment_end?> </note></seg>
+                    die dort jetzt im Gang ist, kommt <seg type="comment"><orig>dies Buch mit seinem
+                            Kapitel über den <hi rendition="#u">Arbeitstag</hi></orig><note xml:id="ef6a4618-15bb-4ceb-b75a-79e975301e53"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>. Drittes Kapitel: 4) Der Arbeitstag.
+                            S. 198–281. (MEGA² II/5. S. 177.17–241.10.)</note></seg> grade zur Zeit
+                    für dort, &amp; ist auch sonst geeignet nach manchen Richtungen Klarheit in die
+                    Köpfe zu bringen. Sie erwerben sich ein großes Verdienst um die Zukunft der
+                    Partei in Amerika durch jeden Schritt den Sie in dieser Richtung thun.</p>
+                <p>Grüßen Sie auch <seg type="comment"><orig><persName key="pdrPo.001.004.000002336">Jacobi</persName></orig><note xml:id="nh3s_wwk_dhb"><persName key="pdrPo.001.004.000002336">Abraham
+                        Jacobi</persName>.</note></seg> in N<ex>ew</ex> York bestens von mir.</p>
+                <p>Glückliche Reise!</p>
+                <closer>Aufrichtigst Ihr<lb/>Friedrich Engels. </closer>
+            </div></body></text></TEI>

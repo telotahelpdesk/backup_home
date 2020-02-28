@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_hhs_5s2_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Unbekannt an Karl Marx. Etwa</title>
+                <title> Samstag, 21. Juli 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date when="1866-07-21" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief  (“einliegenden Zettel“) von Unbekannt an Marx,
+                    geschrieben etwa am 21. Juli 1866; siehe  <ref target="B00143">Karl Marx an
+                        Friedrich Engels in Manchester. London, Samstag, 21. Juli 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

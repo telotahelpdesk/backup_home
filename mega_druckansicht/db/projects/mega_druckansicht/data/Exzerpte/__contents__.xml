@@ -1,0 +1,23 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/mega_druckansicht/data/Exzerpte" owner="admin" group="dba" mode="755" created="2020-02-19T17:38:33+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="Textbeobachtungen.xlsx" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:34+01:00" modified="2020-02-19T17:38:34+01:00" filename="Textbeobachtungen.xlsx" mimetype="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="README.txt" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:34+01:00" modified="2020-02-19T17:38:34+01:00" filename="README.txt" mimetype="text/plain">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="telota-test.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:33+01:00" modified="2020-02-19T17:38:33+01:00" filename="telota-test.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="B101_information.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:33+01:00" modified="2020-02-19T17:38:33+01:00" filename="B101_information.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="B101" filename="B101"/>
+    <subcollection name="d2423%20Pocket%20Diary" filename="d2423 Pocket Diary"/>
+    <subcollection name="B105" filename="B105"/>
+    <subcollection name="B106" filename="B106"/>
+    <subcollection name="B102" filename="B102"/>
+    <subcollection name="P001" filename="P001"/>
+    <subcollection name="P002" filename="P002"/>
+    <subcollection name="P003" filename="P003"/>
+</collection>

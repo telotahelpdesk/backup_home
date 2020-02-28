@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_ep4_lzy_3fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Eleanor</title>
+                <title> Marx und Familie Marx, zwischen Samstag, 13. und Freitag, 26. April
+                    1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date from="1867-04-14" to="1867-04-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003068">Marx, Eleanor (1855-1898)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="mega_ep4_lzy_3fb"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Marx an Eleanor Marx und Familie Marx, geschrieben
+                    zwischen dem 13. und 26. April 1867: siehe <ref target="B00255">Eleanor Marx an
+                        Karl Marx in Hannover. London, Freitag, 26. April 1867</ref> und <ref target="B00257">Jenny Marx (Tochter) an Karl Marx in Hannover. London,
+                        Sonntag, 28. April 1867.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00473" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>464</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 7. Dezember 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4509/L VI 641</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            110 × 180 mm. Prägung: Schild mit einer Krone. Die erste Seite hat Marx
+                            fast vollständig beschrieben, die zweite ist leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes auf der ersten Seite oben rechts mit
+                            Bleistift: „66“.</p>
+                        <p/>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2136</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913). <?oxy_custom_end?>S. 439.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-12-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <note>Zu den zwei Beilagen („den 'Soc. Dem.' zu schicken ... eine Nummer
+                    'Courrier'“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:12Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:04+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 7 Dec. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p>Ich sehe zu spät, daß <seg type="comment"><orig>ich vergessen Dir den „<bibl sameAs="ed_dpq_lhf_lbb" type="periodika">Soc. Dem.</bibl>“ zu
+                            schicken.</orig><note xml:id="nmzz_1mn_2gb">Siehe <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T111814+0200" comment=" (Br. 463.73–74)"?>Marx
+                                an Engels, 7.12.1867<?oxy_comment_end?></ref> „Da versteht's Herr
+                            Schweitzer ...“ und Erl.</note></seg> Ich nehme es nach u. lege eine
+                    Nummer <add place="superlinear">„Courrier“</add> bei, die Dich wegen
+                            <expan>d<ex>es</ex></expan>
+                    <seg type="comment"><orig>Artikels <expan>d<ex>es</ex></expan> amerik. Generals
+                                <persName key="pdrPo.001.004.000000931">Cluseret</persName></orig><note xml:id="nu5s_tmn_2gb">Gustave Paul
+                            Cluseret: Mentana. Lettre adressée par le général Cluseret au Phare de
+                            la Loire. In: Le Courrier français. Paris. Nr. 173, 7. Dezember 1867.
+                            S. 1, Sp. 6 bis S. 2, Sp. 1. –Am 3. November 1867 wurde <persName key="pdrPo.001.004.000001724">Garibaldis</persName> Freiwilligenheer
+                            bei Mentana geschlagen.</note></seg>
+                    <subst>
+                        <del rendition="#s">amüsiren wird</del>
+                        <add place="intralinear">über Mentana u. <persName key="pdrPo.001.004.000001724">Garibaldi</persName> interessiren
+                            wird.</add>
+                    </subst> Du mußt mir <expan>d<ex>en</ex></expan> Packen „<bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier</bibl>“ zurückschicken.
+                    Ich brauche <expan>d<ex>ie</ex></expan> Sammlung, weil es
+                        <expan>d<ex>ie</ex></expan> einzige ist, worin ich <hi rendition="#u">fortlaufenden Börsenbericht</hi> habe.</p>
+                <p>Salut</p>
+                <closer>D<lb/>Mohr. </closer>
+            </div></body></text></TEI>

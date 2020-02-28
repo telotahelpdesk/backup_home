@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00373" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>362</idno>Hermann Jung an Karl Marx in London. London, Samstag, 5.
+                    Oktober 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1741</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, graublauem Papier im
+                            Format 184 × 113 mm. Die erste Seite hat Jung vollständig beschrieben,
+                            die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts
+                                (IMĖ): „Rj 12“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002417">Hermann Jung</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:01Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 4 Charles St.<lb/>Northampton
+                        Square.</dateline>
+                    <salute>Lieber Marx</salute>
+                </opener>
+                <p><seg type="comment"><orig>I have some engagements to meet by the 14<hi rendition="#sup">th</hi> of this month &amp; find great difficulty
+                            in getting my money in; if you could let me have, by saturday next, the
+                            £ 2 you owe me, you would greatly oblige yours fraternally.</orig><note xml:id="c66847f5-eec5-4030-94b5-d8b0097c95d3">Siehe <ref target="B00370"><?oxy_comment_start author="reichhoff" timestamp="20180531T121504+0200" comment="(Br. 361.4–7)"?>H.
+                                Jung an Marx, 5.10.1867<?oxy_comment_end?></ref>. – „saturday next“,
+                            d. i. der 12. Oktober 1867.</note></seg></p>
+                <closer>H<hi rendition="#sup">n</hi> Jung.</closer>
+            </div>
+            <div type="writingSession">
+                <p>5 October 1867. <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

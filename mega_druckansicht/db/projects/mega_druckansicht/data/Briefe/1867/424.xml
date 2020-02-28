@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00434" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>424</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London,
+                    Freitag, 15. November 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 463/D I 133
+                            Fotosign. 9686&lt;a–b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            270 × 210 mm. Aufdruck der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx, 8. Januar 1866) auf der
+                            ersten Seite oben links. Die Adresse „65, Fenchurch Street“ hat Borkheim
+                            gestrichen
+                            (<?oxy_comment_start author="lindenberg" timestamp="20190307T133652+0100" comment="die neuen Adressa lag auch im Bereich der Postasliegerung von Estern Central (E. C.)
+https://en.wikipedia.org/wiki/EC_postcode_area"?>„E.
+                            C.“ <?oxy_comment_end?>wurde beibehalten) und mit der neuen Adresse in
+                            Handschrift ersetzt. Alle vier Seiten hat Borkheim vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1767</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName>London</placeName>
+                    <date when="1867-11-15"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <note>Borkheim beantwortet einen nicht überlieferten Brief von Marx, geschrieben
+                    zwischen 12. (siehe <ref target="B00430"><?oxy_comment_start author="lindenberg" timestamp="20190305T112918+0100" comment="Br. 420"?>S.
+                        L. Borkheim an Marx, 12.11.1867<?oxy_comment_end?></ref>) und 15. November
+                    1867.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:41Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings</dateline>
+                    <dateline>93 Bishopsgate St. <hi rendition="#mPrint">E. C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 15 Nov. <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Briefchen erhalten. £ 45 auf die £ 150 stimmt. Wenn ich Ihnen nur bald das Übrige
+                    geben könnte!</p>
+                <p>Außer <seg type="comment"><orig><persName key="pdrPo.001.004.000000964">Comte</persName></orig><note xml:id="ad0434e4-e79d-47fa-b7f1-bfe1c2814cfe">Siehe <ref target="B00430"><?oxy_comment_start author="reichhoff" timestamp="20180611T121705+0200" comment="(Br. 420.6–8)"?>S.
+                                L. Borkheim an Marx, 12.11.1867<?oxy_comment_end?></ref> „In der
+                            neuesten Ausgabe des Brockhaus ...“  und Erl.</note></seg> wollen Sie
+                    mir auch die Addresse des <expan>H<ex>errn</ex></expan>
+                    <seg type="comment"><orig><persName key="pdrPo.001.004.000002056">Harrison</persName></orig><note xml:id="f7f9718c-8ee0-4618-88a6-b3fa47ef1d7d"><persName key="pdrPo.001.004.000002056">Frederic
+                        Harrison</persName>.</note></seg> schicken.</p>
+                <p><seg type="comment"><orig>Mein „Freund“ <persName key="ed_v2z_31r_4gb">Acollas</persName>.</orig><note xml:id="b1bacefe-6025-4173-a044-5807e5ad3b2a">Siehe  <ref target="B00368">S. L. Borkheim an Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T121748+0200" comment="(Br. 359.6–13)"?>3.10.1867<?oxy_comment_end?></ref>
+                            „Ihre Aufmerksamkeit ...“ und <ref target="B00385">S. L. Borkheim an
+                                Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T121822+0200" comment="(Br. 375.8–13)"?>10.10.1867<?oxy_comment_end?></ref>
+                            „Ich lege Ihnen Brief ...“.</note></seg> So kann ich mir diese Leutchen
+                    nicht von Ihnen aufoktroyiren lassen. Auch <persName key="ed_unq_r4t_bdb">Naquets</persName> Bekanntschaft habe ich <seg type="comment"><orig>bei
+                            meiner letzten Reise in Paris</orig><note xml:id="d47f9551-67e0-4c84-98a3-4c7882278d5c">Borkheim befand sich in
+                            Paris Anfang August 1867. Siehe <ref target="B00313"><?oxy_comment_start author="reichhoff" timestamp="20180611T121911+0200" comment="(Br. 304)"?>S.
+                                L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>.</note></seg>
+                    gemacht. Die Leute stehen auf hohlem Boden; es kräht kein Hahn nach ihnen. Wie
+                    Sie sagen, sie verpflichten <persName key="ed_dqq_dkc_3fb">Bonaparte</persName>
+                    durch ihre anscheinend und wohl auch wirklich hohle Agitation.</p>
+                <p>In der
+                    bekannten<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                    Parodie<?oxy_custom_end?> des <seg type="comment"><orig>„Handschuh“</orig><note xml:id="nax2_tcr_dgb"><persName key="pdrPo.001.004.000004246">Friedrich
+                                von Schiller</persName>: Der Handschuh. Bei Schiller: „Und hinein
+                            mit bedächtigem Schritt / Ein Löwe tritt“.</note></seg> heißt es</p>
+                <p>„Herein mit getretenem Schritt</p>
+                <p>Ein Löwe tritt“.</p>
+                <p><persName key="pdrPo.001.004.000001816">Goegg</persName> besuchte mich heute.
+                        <seg type="comment"><orig>Er reist, für die „<bibl sameAs="ed_qcy_mlj_tgb" type="periodika">Vereinigten Staaten von Europa</bibl>“ Geld zu
+                            sammeln.</orig><note xml:id="a786bf8a-7c1f-42cb-ad3d-d2c2f9f41242">
+                            <p>Nach dem Beschluß des Kongresses der Friedens- und Freiheitsliga in
+                                Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190305T113302+0100" comment="304g und 304h"?>Erl. zu
+                                    S. L. Borkheim an Marx, 5.8.1867</ref><?oxy_comment_end?>)
+                                sollte in Genf oder Basel ein deutsch-französisches Blatt, <bibl sameAs="ed_qcy_mlj_tgb" type="periodika">„Die Vereinigten
+                                    Staaten von Europa“ bzw. „Les États-Unis d’Europe“</bibl>
+                                betitelt, gegründet werden. In der „Subscription zur Gründung des
+                                Journals: ‚Die Vereinigten Staaten Europa’s‘“ heißt es: „Der
+                                Unterzeichnete verpflichtet sich Stück Actien à 10 Franken (4 Fl. 40
+                                Xr.) zu nehmen und den Betrag auf Verlangen an Hr. Rollanday,
+                                Schatzmeister des Friedenscongresses, rue Grenus N° 6 in Genf,
+                                einzusenden. / Land, Ort und Datum: Unterschrift:“ (IISG,
+                                Marx-Engels-Nachlass, Sign. S 61/Q 44). – Die Zeitung sollte in Bern
+                                erscheinen. (Siehe Der internationale Friedenskongreß. In: Der
+                                Vorbote. Genf. Jg. 2. Nr. 10, Oktober 1867. S. 152.) Zwei
+                                Probenummer erschienen im Dezember 1867. Einer der Redaktoren der
+                                Zeitung war <persName key="pdrPo.001.004.000004962">Gustav
+                                    Vogt</persName>. Das Erscheinen des Blattes wurde von <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                                begrüßt. Siehe dazu seinen vermutlich an Gustav Vogt adressierten
+                                Brief vom 31. Dezember 1867 (RGASPI, Sign. f. 200, op. 1,
+                                d. 354).</p>
+                        </note></seg>
+                    <pb/> Ich habe 10 Aktien zu 10 Frcs. genommen; ihm erklärt, daß dies eine rein
+                    persönliche Handlung von mir, daß ich <hi rendition="#u">keinem</hi> politischen
+                    Vereine angehöre, ihm darzuthun gesucht, daß man, was ich thue, durchaus nicht
+                    als Handlung irgend einer Partei, also auch nicht der Arbeiterpartei ansehen
+                    sollte.</p>
+                <p><seg type="comment"><orig>Ich habe ihm sein Benehmen re <persName key="pdrPo.001.004.000004961">Vogt</persName> in Genf
+                            vorgerückt.</orig><note xml:id="ea6fd888-8d1e-495d-aac3-13565b2f3d3a">
+                            Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180611T122016+0200" comment="(Br. 360.31–44)"?>Marx
+                                an Engels, 4. Oktober 1867<?oxy_comment_end?></ref> „Ad vocem Vogt:
+                            ...“.</note></seg> Er sagt, er hätte <seg type="comment"><orig>von Ihrem
+                                <bibl sameAs="zotero-604880-XK4TJ26A" type="primary">Buche gegen
+                                Vogt</bibl></orig><note xml:id="db461c9d-905f-4d45-a37e-5fdfe4de81ef"><bibl sameAs="zotero-604880-XK4TJ26A" type="primary">Karl Marx: Herr Vogt.
+                                London 1860.</bibl> (Siehe MEGA<hi rendition="#sup">2</hi> I/18.
+                            S. 55–339, insbesonders S. 141–156, 282–284, 286, 292–294, 297 und
+                            327–330.)</note></seg> nie etwas gehört, würde es sich nun aber
+                    jedenfalls zu verschaffen suchen. – Wenn K. Vogt oder  <persName key="pdrPo.001.004.000000470">K. Blind</persName> in der Sache vorträten, –
+                    sagte ich ihm – so würde ich meinen Namen mit Angabe des Grundes öffentlich
+                    zurückziehen. Mein Name braucht auch überhaupt nicht zu erscheinen, da die
+                    Aktien au porteur sind. – Er erklärte bestimmt, daß die Beiden damit nichts zu
+                    thun haben <hi rendition="#u">könnten</hi>.</p>
+                <p><seg type="comment"><orig>Auf den „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“, dessen Fortbestehen ich als durchaus nothwendig
+                            betonte, ist er böse, da <expan><persName key="pdrPo.001.004.000000317">Be<ex>c</ex>ker</persName></expan> auch <hi rendition="#u">ihn</hi> angegriffen re <persName key="pdrPo.001.004.000004961">Vogt</persName>.</orig><note xml:id="eece45b4-fbcb-46f0-b30a-6d085be3a744">Borkheim bezieht sich
+                            offensichtlich auf folgende Notiz, die im Oktoberheft des „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“
+                            veröffentlicht worden war: „Wir erhielten dieser Tage eine lange
+                            Einsendung über mancherlei Erscheinungen während der Kongreßzeit: wie
+                            Fasy und Vogt nach dicker Freundschaft in jahrelangem Zwist gelebt, sich
+                            aber an den Tumulttagen zu gemeinsamer Abstimmung die Hände gereicht und
+                            wie das seine tiefen Gründe habe; wie Vogt, als Demmler ihn darüber zu
+                            Rede gestellt, geantwortet: ‚ich habe gegen den Komiteantrag gestimmt,
+                            weil seine Annahme die Einverleibung Genf’s an Frankreich bedeutet‘; wie
+                            Gögg von dem Präsidenten der deutschen Republikanerversammlung ein
+                            schriftliches Zeugniß verlangt, daß er seinen Freund Vogt, als in der
+                            Dienstagssitzung dessen Ehre angegriffen worden war, warm verteidigt
+                            habe …“ (Der Vorbote. Genf. Jg. 2. Nr. 10, Oktober 1867. S. 152/153.) –
+                                <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                Becker</persName>.</note></seg> Ich erklärte ihm, Becker <pb/> hätte
+                    Recht gehabt; es wäre <hi rendition="#u">seine</hi> (<persName key="pdrPo.001.004.000001816">Goeggs</persName>) Schuld, und nicht Beckers,
+                    daß er (Goegg) Ihr Buch nicht gelesen.</p>
+                <p>Auch <hi rendition="#u">er</hi> hatte geglaubt, daß <seg type="comment"><orig>meine „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Rede</bibl>“</orig><note xml:id="b54d304b-2c92-486a-ba4a-a794160098f0"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867.</bibl> Zur Borkheims Rede auf dem
+                            Friedenskongreß in Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190307T141741+0100" comment="304h"?>Erl. zu
+                                S. L. Borkheim an Marx, 5.8.1867</ref><?oxy_comment_end?>) siehe
+                                <ref target="B00332">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T122110+0200" comment="(Br. 323.12–99)"?>Borkheim
+                                an Marx, 27.<?oxy_comment_end?>8.1867</ref> „Nun werde ich Ihnen
+                            einige Gedanken zuflüstern ...“, <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180611T122149+0200" comment="(Br. 331.4–6)"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> „Borkheim schrieb mir
+                            ...“ und <?oxy_comment_start author="lindenberg" timestamp="20191118T155731+0100" comment="{ 331b.}"?>Erl.<?oxy_comment_end?>
+                            <?oxy_comment_start author="lindenberg" timestamp="20190305T112328+0100" comment="{kommentar-lb}nochmal vergleichen mit Erl 357c{/kommentar-lb}"?></note><?oxy_comment_end?></seg>
+                    von Ihnen verfaßt war. Diese Ansicht ist er wohl heute in der Unterhaltung los
+                    geworden. Dies ist zu <hi rendition="#u">Ihrem</hi> Besten. – Ich sagte ihm, er
+                    würde sich hier leicht vergewissern können, ob ich als Ihr Emissär nach Genf
+                    gegangen. Übrigens wenn es so wäre, wie es nicht ist, so wäre das kein Übel für
+                    mich, dann bemerkte ich ihm: daß Marx Esel schickt, würden wohl auch seine
+                    Gegner nicht annehmen, das thäte <hi rendition="#u">ich</hi> ja nicht
+                    einmal.</p>
+                <p>Er wird Sie auch besuchen! Es wäre zu wünschen, sagte er, daß Sie, Engels und
+                    auch ich <seg type="comment"><orig>an dem <bibl sameAs="ed_r4j_1gk_tgb" type="periodika">Blatte</bibl></orig><note xml:id="c3d475e3-bd64-4d84-a656-2d2950d242ae">Offensichtlich geht es um
+                            die von <persName key="ed_v2z_31r_4gb">Émile Acollas</persName>
+                            beabsichtigte Herausgabe einer  Zeitung unter dem Titel „L’Ouvrier“. Da
+                            Acollas am 23. Dezember 1867 verhaftet und zu einem Jahr Haft verurteilt
+                            wurde, konnte diese Absicht nicht verwirklicht werden.</note></seg>
+                    mitarbeiteten. Man würde uns <hi rendition="#u">alle</hi> Freiheit der
+                    Diskussion lassen. – Sie werden ihn immerhin anhören können. <hi rendition="#u"><persName key="pdrPo.001.004.000001948">Grün</persName></hi><hi rendition="#u">, <persName key="pdrPo.001.004.000001631">Freiligrath</persName></hi><hi rendition="#u">, <persName key="pdrPo.001.004.000004576">Stein</persName></hi> seien <pb/> als
+                    Redakteure vorgeschlagen, d.h. einer von ihnen solle ausgesucht werden. Ich
+                    betonte sofort die Verlebtheit dieser Männer. <hi rendition="#u">Gut! sagt er,
+                        schlaget Ihr andere vor!</hi> –</p>
+                <p>Er wird mich wieder besuchen!</p>
+                <p><persName key="pdrPo.001.004.000004739">Thimm</persName> sagte mir heute,
+                        <persName key="pdrPo.001.004.000003135">Meissner</persName> hätte durch
+                    Rundschreiben bereits alle nichtverkauften Exemplare <seg type="comment"><orig>Ihres Buches</orig><note xml:id="e6c2b6ec-c8c3-4e55-a8bd-324c7c1cfd8e"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>.</note></seg> zurückverlangt – <hi rendition="#u">welches ein gutes Zeichen!</hi></p>
+                <p><seg type="comment"><orig>Die Pauke von <persName key="pdrPo.001.004.000002387">Ernest Jones</persName> nicht übel.</orig><note xml:id="f695c61c-f607-4154-9a62-e041a4e06aab">Vermutlich Anspielung auf
+                                <persName key="pdrPo.001.004.000002387">Ernest Jones’</persName>
+                            Auftreten auf dem Prozeß gegen die Fenier am 8. November 1867. Siehe
+                                <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T122242+0200" comment="(Br. 403"?>Marx
+                                an Engels, 2.<?oxy_comment_end?>11.1867</ref> „Der Fenian Prozeß
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191118T160153+0100" comment=" 403s)"?>Erl.<?oxy_comment_end?>
+                            sowie <ref target="B00423"><?oxy_comment_start author="reichhoff" timestamp="20180611T122322+0200" comment="(Br. 413"?>Engels
+                                an Marx, 8.11.1867 <?oxy_comment_end?></ref> „Old Blackburn ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191118T160336+0100" comment="413d)"?>Erl.<?oxy_comment_end?> </note></seg>
+                    – Die Trades Unionists, denen <persName key="pdrPo.001.004.000004560">Lord
+                        Derby</persName> angehört, das hat mich ergötzt. Sagten Sie mir nicht, Jones
+                    hätte deutsche Bildung erhalten?!</p>
+                <p>Leben Sie wohl! Long life to you, damit man Ihnen noch einige Bücher abquetschen
+                    kann. Ich rücke langsam vor aber sicher!</p>
+                <p>Gruß an <seg type="comment"><orig>die Damen</orig><note xml:id="ae29447a-27f8-43ab-92d6-fc8d647cf1b3"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName> sowie <persName key="pdrPo.001.004.000003074">Jenny (Tochter)</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor Marx</persName>.</note></seg>
+                    und <expan>H<ex>errn</ex></expan>
+                    <persName key="pdrPo.001.004.000002648">Lafargue</persName>.</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

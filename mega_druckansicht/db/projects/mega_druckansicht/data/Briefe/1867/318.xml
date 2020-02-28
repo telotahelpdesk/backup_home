@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00327" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>318</idno>Ernest Jones an Karl Marx in London. Liverpool, Mittwoch, 21. August 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1729</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 228 × 177 mm. Jones hat die erste Seite vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj 1542&lt;a&gt;“.</p><p/></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002387">Ernest Jones</persName>
+                    <placeName key="ed_zvg_2fj_wx">Liverpool</placeName><date when="1867-08-21"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Jones beantwortet einen nicht überlieferten Brief von Marx, geschrieben
+                    zwischen 17. (siehe <ref target="B00323">E.
+                        <?oxy_comment_start author="lindenberg" timestamp="20190219T143859+0100" comment=" Br. 314.5–10"?>Jones
+                        an Marx, 17.8.1867</ref><?oxy_comment_end?>) und hier.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:28Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Assises, Liverpool,<lb/>August
+                        21/67</dateline>
+                    <salute>Lieber Marx</salute>
+                </opener>
+                <p>Vielen Dank für
+                            <?oxy_comment_start author="lindenberg" timestamp="20181123T155718+0100" comment="{?MS: Dein}"?><expan>Dein<ex>en</ex></expan>
+                    Brief<?oxy_comment_end?>. <seg type="comment"><orig>Da Messrs
+                            <?oxy_comment_start author="lindenberg" timestamp="20190227T124849+0100" comment="vielleicht: 
+Bernard-Camille Collas, né le 2 mars 1819 à Bordeaux, et mort à Paris 9e le 14 février 18981,2, est un homme politique français. "?>Collas<?oxy_comment_end?>
+                            in La Presse Kerle der Art sind, und sie keine Adresse gegeben haben,
+                            benutze ich das Faktum und schicke ihnen keine Antwort.</orig><note xml:id="c5f6f3a5-eeb5-4860-983b-ca9d8aebeb1d">Vermutlich <persName key="ed_tl5_chv_xgb">Bernhard Camille Collas</persName> Der zweite
+                            Collas wurde nicht ermittelt. Siehe <ref target="B00323"><?oxy_comment_start author="reichhoff" timestamp="20180523T132434+0200" comment="(Br. 314.5–10)."?>E.
+                                Jones an Marx, 17.8.1867
+                            <?oxy_comment_end?></ref>(Br. 314.5–10).</note></seg></p>
+                <closer>Dein<lb/>Ernst Jones. <pb/></closer>
+            </div></body></text></TEI>

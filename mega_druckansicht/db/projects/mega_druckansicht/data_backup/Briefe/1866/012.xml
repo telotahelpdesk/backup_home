@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00013" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>12</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag, 15.
+          Januar 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4436/L VI 535.
+              Fotosign. 13652 a–b</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              253 × 203 mm. Wasserzeichen: „Joynson 1864“. Die ersten drei Seiten hat
+              Marx vollständig beschrieben, die vierte zu einem Drittel. Schreibmaterial: schwarze
+              Tinte.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+              <?oxy_comment_start author="lindenberg" timestamp="20170420T140734+0200" comment="(((nBernstein,E.))) Noch mit Register verbinden"?>
+              <?oxy_comment_end?>Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „2,1“
+              bis „2,4“.</p>
+            <p>Von unbekannter Hand: auf der vierten Seite oben links mit Bleistift der Vermerk
+              „15/1/65“.</p>
+            <p>Zu den Beilagen siehe die Erl.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1928</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt: Bw 3
+              (1913). S. 288–290</bibl>.</witness>
+          <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930). S. 303/304.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+          <date when="1866-01-15"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+        </correspAction>
+        <note><p>Zur Datierung: Marx hat den Brief versehentlich mit „1865“ datiert. Die korrekte
+            Datierung ergibt sich aus dem Inhalt des Briefes sowie aus der Erwähnung der Briefe von
+              <orgName key="ed_zmj_ltj_wx">Arnold
+              <?oxy_comment_start author="strauss" timestamp="20170613T113053+0200" comment="(((nFa.A.Hilberg&apos;sVerlag)))"?>Hilberg's
+              Verlag<?oxy_comment_end?></orgName> (<ref target="B00002">A. Hilberg's Verlag an Marx,
+              2.1.1866</ref>) und Theodor Metzner, Sigfrid Meyer und August Vogt, 13. November
+            1865 (<bibl sameAs="zotero-604880-3MXEQF9M" type="primary">MEGA² III/13.</bibl>
+            Br. 335) an Marx (siehe Erl.).</p></note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T.,
+            I.W.M.A.)</term>
+          <term key="ed_otj_cwr_by">Internationale Beziehungen in Europa</term>
+          <term key="ed_fv1_snz_g1b">Lektüre</term>
+          <term key="ed_hrp_vnf_h1b">Zeitungen der IAA</term>
+          <term key="ed_rw2_4vl_qx">Preußen</term>
+          <term key="ed_ujr_3c2_5z">Frankreich</term>
+          <term key="ed_www_kkf_h1b">Rußland</term>
+          <term key="ed_dy5_4kf_h1b">Mexiko</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:17Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingAct">
+        <opener>
+          <dateline sameAs="MBDatumszeile"><pb/> 15 Jan. <choice>
+              <sic>1865</sic>
+              <corr cert="high">1866</corr>
+            </choice>.</dateline>
+          <salute sameAs="MBAnrede">Dear Fred,</salute>
+        </opener>
+        <p sameAs="MBTextohneEinzug"><persName key="pdrPo.001.004.000003076"><anchor type="verweisziel" xml:id="start_myp_kfq_b1b"/>Laura</persName> hatte ganz u. gar
+          vergessen <seg type="comment"><orig>die <bibl sameAs="ed_xtj_fhf_lbb" type="periodika">„Tribunes“</bibl></orig><note xml:id="ade4e7b1-3979-4fc9-a842-290933773d65">
+              <p rend="endnote text"><bibl sameAs="ed_xtj_fhf_lbb" type="periodika">„La Tribune du
+                  Peuple“ (Brüssel).</bibl>
+                <!--(((zLa_Tribune_du_Peuple)))--> – Siehe <ref target="B00004/#start_pq1_nrv_mz">Marx an Engels,
+                  5.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T134333+0200" comment="{{Br. 
+3.22–29}}"?>1866<?oxy_comment_end?></ref></p>.
+            </note></seg>, seit einer Woche von mir zurecht gelegt, Dir zu schicken.<anchor type="verweisziel" xml:id="stop_myp_kfq_b1b"/> Sie
+          <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>nimmt
+          <?oxy_custom_end?>heute das Versäumte nach. Ditto ein <hi rendition="#u"><bibl sameAs="ed_wcg_phf_lbb">„Workman’s Advocate“</bibl></hi>.</p>
+        <p sameAs="MBTextmitEinzug" rendition="#mMM">Ich lege in diesen Brief ein:</p>
+        <p sameAs="MBTextmitEinzug">1) <seg type="comment"><orig>Schreiben aus Wien v.
+                <persName key="ed_ts3_qm2_sy">Buchhändler</persName>.</orig><note xml:id="ab5d293a-d52f-44ba-b917-dccdfaa7998d">Siehe <ref target="B00002">A. Hilberg's
+                Verlag an Marx,
+                2.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T111806+0100" comment="{{Br. 1a}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00002/#a132d1e9-b7e3-484b-91d0-adbdbc98a799">Erl.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170512T095006+0200" comment="{{Erl. 1ab}}."?></note><?oxy_comment_end?></seg>
+          (Dieß mußt Du zurückschicken.)</p>
+        <p sameAs="MBTextmitEinzug">2) <seg type="comment"><orig>Dr <persName key="pdrPo.001.004.000002616">Kugelmann</persName>.</orig><note xml:id="d13f36e6-6619-4ff5-a995-0b44e0089bc3">Siehe <bibl sameAs="zotero-604880-3MXEQF9M" type="primary">MEGA² III/13.</bibl> Br. 349.
+              Marx antwortete L. Kugelmann am 15. Januar 1866<ref target="B00012"> (Marx an L.
+                Kugelmann, 15.1.1866)</ref> .<!--(((lMEGA² III/13)))-->
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><anchor type="verweisziel" xml:id="start_lnz_xr5_mz"/>3) <persName key="pdrPo.001.004.000003187">Meyer</persName> aus Berlin. (<seg type="comment"><anchor type="verweisziel" xml:id="start_zpv_fpp_mz"/><orig>Ich habe den
+              Leuten erst heut geantwortet.</orig><anchor type="verweisziel" xml:id="stop_zpv_fpp_mz"/><note xml:id="b3a667ad-431c-4f5f-b652-064c7d0c2acf">
+              <p rend="endnote text">Marx hatte nach dem Brief von <persName key="pdrPo.001.004.000003176">Metzner</persName>, <persName key="pdrPo.001.004.000003187">Meyer</persName> und <persName key="pdrPo.001.004.000004960">Vogt</persName> (<bibl sameAs="zotero-604880-3MXEQF9M" type="primary">MEGA² III/13.</bibl>
+                Br. 335) inzwischen einen zweiten Brief aus Berlin, dieses Mal von Sigfrid
+                Meyer allein, erhalten (siehe <ref target="B00011/#start_q4f_42l_nz">Marx an W.
+                  Liebknecht,
+                  15.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T134654+0200" comment="{{Br. 10.49–50}}"?>1866<?oxy_comment_end?></ref>).
+                Dieser Brief (S. Meyer an Marx, vor 15.1.1866) ist nicht überliefert (siehe <ref target="B00011/#e139a3b1-cfd1-4ba0-b331-14cfaba7e3fc">Erl. zu Marx an W.
+                  Liebknecht, 15.1.1866</ref>).<?oxy_comment_start author="lindenberg" timestamp="20170512T095518+0200" comment="{{Erl._10h}}"?>
+                <?oxy_comment_end?>In Beantwortung der Post aus Berlin schickte Marx am 15. Januar
+                Sigfrid Meyer (Marx an S. Meyer, 15.1.1866), nicht überliefert, eine Nummer der
+                Zeitung <bibl sameAs="ed_f1z_lhf_lbb" type="periodika">„The Bee-Hive
+                  Newspaper“</bibl>
+                <!--(((zThe Bee-Hive Newspaper)))--> und sechs Mitgliedskarten der IAA (siehe <ref target="B00011/#cb864592-8d8a-4a93-b073-8383b8d607bc">Erl. zu Marx an W.
+                  Liebknecht, 15.1.1866</ref>).<?oxy_comment_start author="lindenberg" timestamp="20170512T095813+0200" comment="{{Erl._10c}}"?>
+                <?oxy_comment_end?>Siehe <ref target="B00019/#start_kvb_vsv_mz">W. Liebknecht an
+                  Marx,
+                  21.1.<?oxy_comment_start author="reichhoff" timestamp="20170408T135308+0200" comment="{{Br. 18.3–13}}"?>1866<?oxy_comment_end?></ref>
+                und <ref target="B00020">Marx an S. Meyer,
+                  24.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T115653+0100" comment="{{Br. 19}}"?>1866<?oxy_comment_end?>.</ref></p>
+              <p rend="endnote text"> Marx’ Brief nach Berlin an August Vogt, ebenfalls vom
+                15. Januar 1866 (Marx an A. Vogt, 15.1.1866), ist genauso nicht überliefert.
+                Marx beantwortete damit den Brief von Metzner, Meyer und Vogt vom 13. November
+                1865 (<bibl sameAs="zotero-604880-3MXEQF9M" type="primary">MEGA² III/13.</bibl>
+                Br. 335). Zum möglichen Inhalt der Antwort siehe <bibl sameAs="zotero-604880-3MXEQF9M" type="primary">MEGA² III/13.</bibl>
+                Br. 343.10–16, 30–39 und Br. 350.12–14. Siehe auch ebenda. Br. 338.7–10
+                und Br. 340.10–22) sowie <ref target="B00007/#start_rg1_qtv_mz">Marx an J. Ph.
+                  Becker, zw. 9. u.
+                  15.1.1866<?oxy_comment_start author="reichhoff" timestamp="20170408T135948+0200" comment="{Br. 6.60–65}}"?>.<?oxy_comment_end?></ref></p>
+            </note></seg> Der Zeitmangel ist bedeutend.)<anchor type="verweisziel" xml:id="stop_lnz_xr5_mz"/></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Wir haben unterdeß die elende Intrigue
+              des <persName key="pdrPo.001.004.000004915">Vésinier</persName> in Belgien u. des
+                <persName key="pdrPo.001.004.000002770">Le Lubez</persName> in London
+              todtgedrückt.</orig><note xml:id="ea342bf1-508d-46f6-af5f-e14dc006ae9d">Siehe <ref target="B00004/#start_nt4_45v_mz">Marx an Engels, 5.1.1866 </ref>
+              <?oxy_comment_start author="reichhoff" timestamp="20170408T140326+0200" comment="{{Br. 3.10–21}} "?>und<?oxy_comment_end?>
+              <ref target="B00004/#db8e9996-d94b-4b8a-be7b-18526318d9af">Erl.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170512T103925+0200" comment="{{3d}}."?></note><?oxy_comment_end?></seg>
+          Der Redacteur der <bibl sameAs="ed_cd1_fhf_lbb"><hi rendition="#u">Rive Gauche</hi></bibl>
+          u. Freund <persName key="pdrPo.001.004.000004051">Rogeard’s</persName> – <persName key="pdrPo.001.004.000002885">Longuet</persName> –, ferner Herr <persName key="ed_glf_vsn_cz">Crespel</persName>, – die zwei intelligentsten Mitglieder der von
+          ihm gestifteten <seg type="comment"><orig>Branche</orig><note xml:id="dc82dff7-96bf-45f7-b5bd-a89ebd59b50c">Die Branche française de Londres de
+              l’A.I.T. Siehe <ref target="B00004/#b67c4504-42c6-422c-ac87-3b4ae9f7e6fc">Erl. zu Marx
+                an Engels, 5.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170512T104234+0200" comment="{{Erl. 3b}}."?></note><?oxy_comment_end?></seg>
+          – sind Mitglieder unsres Centralcomité <choice>
+            <sic>geworfen</sic>
+            <corr cert="high">geworden</corr>
+          </choice>. Seine Branche hat sich gegen ihn, für uns, erklärt. <seg type="comment"><orig>Das Centralcomite has summoned <persName key="pdrPo.001.004.000004915">Vésinier</persName> „to substantiate his accusations, or to be
+              expelled“.</orig><note xml:id="d6224cf7-2d50-4242-8dc4-3ec0f2c61947">Diese
+              Entscheidung wurde in der Sitzung des Zentralrats der IAA am 9. Januar 1866
+              getroffen. Siehe <bibl sameAs="zotero-604880-7U8R32JW" type="secondary">The Minute
+                Book 1864–1866.</bibl> In: MEGA² I/20. S. 379.17–22.
+              <!--(((lThe Minute Book 1864–1866. In: MEGA² I/20. S. 265–450)))-->
+            </note></seg>
+          <seg type="comment"><orig>Der Kerl wirft uns u.a. in <expan resp="editor" sameAs="dottet_underline">d<ex>em</ex></expan>
+              <bibl sameAs="ed_xhd_3hf_lbb"><hi rendition="#u"><hi rendition="#u">„Echo
+                  de</hi>Verviers</hi><hi rendition="#u">“</hi></bibl> vor:</orig></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>«Il (le comité) a été chargé d’un des
+              plus grands intérêts de l’humanité et il abandonne de gaieté de coeur le but sublime
+              <pb/> pour dégénérer <hi rendition="#u">en comité des nationalités à la remorque du
+                bonapartisme</hi>».</orig><note xml:id="fc09d8da-2d66-4eb0-98be-8bd3cf941324"><bibl sameAs="zotero-604880-JHAJAJ6W" type="primary">[Pierre Vésinier:] L’Association
+                Internationale des Travailleurs. Fin.</bibl> In: L’Echo de Verviers. Nr. 294,
+              18. Dezember 1865. S. 3. Siehe <ref target="B00004/#db8e9996-d94b-4b8a-be7b-18526318d9af">Erl. zu Marx an Engels,
+                5.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170512T105029+0200" comment="{{Erl. 3c}}."?>
+              <?oxy_comment_end?><!--(((l[Vésinier,Pierre:] L’Association Internationale des
+              Travailleurs. Fin. In: L’Echo de Verviers. Nr. 294, 18. Dezember 1865.
+              S. 3.)))-->
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Und zwar ging diese Degeneration vor
+                <supplied cert="high">in</supplied> uns <subst>
+                <del>wegen</del>
+                <add>durch</add>
+              </subst> unsrer Erklärung <choice>
+                <sic>für Rußland, gegen Polen</sic>
+                <corr cert="high">für Polen, gegen Rußland</corr>
+              </choice>.</orig><note xml:id="a750c855-8301-4142-b9a1-5c85a53a3e62">Marx verweist auf
+              den Punkt 9 der Tagesordnung der Londoner Konferenz der IAA, beschlossen auf der
+              Plenarsitzung des Zentralrats am 25. Juli 1865: „The Muscovite invasion of Europe
+              and the reestablishment of an independent and integral Poland“ (<bibl sameAs="zotero-604880-7U8R32JW" type="primary">The Minute Book 1864–1866.</bibl> In:
+              MEGA² I/20. S. 343.33–34).
+              <!--(((lThe_Minute Book 1864–1866. In:
+              MEGA² I/20. S._265–450)))-->
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>«Cédant à
+              des influences fâcheuses (der Esel bildet sich ein, der polnische § des Programms sei
+              von den Paris Delegates ausgegangen, während diese <subst>
+                <del>es</del>
+                <add>ihn</add>
+              </subst> auf jede mögliche Art als „inopportun“ zu beseitigen suchten), <choice>
+                <sic>„il</sic>
+                <corr cert="high">il</corr>
+              </choice> a inscrit dans le programme du Congrès de Genève <expan resp="editor" sameAs="dottet_underline">d<ex>es</ex></expan> questions en dehors du but de
+              l’association et contraires au droit, à la justice, à la liberté, à la fraternité, à
+              la solidarité des peuples et des races, telles que celle: ‹d’anéantir l’influence
+              russe en Europe etc›, et cela juste au moment où les serfs russes et polonais viennent
+              d’être émancipés par la Russie, tandis que les nobles et les prêtres polonais ont
+              toujours refusé d’accorder la liberté aux leurs. On conviendra au moins que le moment
+              est mal choisi. Avant d’approuver <hi rendition="#u">ces articles</hi>, les membres
+              anglais du comité auraient bien dû se demander s’il ne serait pas aussi urgent de
+              mettre un terme aux progrès effrayants du paupérisme anglais, de la prostitution des
+              ouvrières, et de la misère des ouvriers de la Grande-Bretagne, de la famine et du
+              dépeuplement de l’Irlande etc! Quant au membre allemand du comité, qu’il nous dise
+              aussi si l’influence de la politique de M. de <persName key="pdrPo.001.004.000000441">Bismarck</persName> n’aurait pas aussi besoin d’être anéantie en Europe; la Prusse
+              et l’Autriche ne sont-elles pas co-partageantes de la Pologne et solidaires du crime
+              de la Russie contre cette nation malheureuse, et quant aux prétendus délegués de
+              Paris, sont-ils bien venus de flétrir l’influence russe, alors que les <pb/> soldats
+              de <persName key="pdrPo.001.004.000003392">Bonaparte</persName> occupent Rome qu’ils
+              ont bombardée, massacrant les défenseurs de la république mexicaine après avoir
+              détruit la république française? Que l’on compare les fautes et les crimes commis par
+              les gouvernements, et l’on sera convaincu qu’il ne faut mettre aucun peuple au ban de
+              l’humanité pour les forfaits de ses oppresseurs, que le devoir du comité central était
+              de proclamer la solidarité, la fraternité entre tous les peuples, <hi rendition="#u">et non d’en mettre un seul d’entre eux au ban de l’Europe</hi>.»</orig></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Dann fügte <persName key="pdrPo.001.004.000004915">er</persName> die Lüge hinzu: </orig></seg></p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>«Cette faute énorme a déjà eu de
+              fatales conséquences: les Polonais ont demandé en masse à faire partie du Comité, et
+              sous peu ils seront en immense majorité. (<hi rendition="#u">Ein einziger</hi> – denn
+                <persName key="ed_aqs_qvh_1cb">Holtorp</persName> zählt nicht und conspirirt selbst
+              mit <persName key="pdrPo.001.004.000002770">Le Lubez</persName> –, Captain <persName key="pdrPo.001.004.000000484">Bobzinski</persName>, ist drin). Déjà ils ne se font
+              pas faute de dire qu’ils se serviront de <hi rendition="#u">l’Association</hi> pour
+              aider au rétablissement de leur nationalité, sans s’occuper de la question de
+              l’émancipation des
+              travailleurs.»<?oxy_custom_end?></orig><?oxy_comment_start author="roth" timestamp="20170410T162457+0200" comment="Für HS: Gilt diese Erl. auch für die beiden vorhergehenden Absätze?"?><note xml:id="b9fe2aef-4aba-404f-87ae-4734efeaf498"><bibl sameAs="zotero-604880-JHAJAJ6W" type="primary">[Pierre Vésinier:] L’Association Internationale des Travailleurs.
+                Fin.</bibl> In: L’Echo de Verviers. Nr. 294, 18. Dezember 1865. S. 2/3.<?oxy_comment_end?>
+              <!--(((l[Pierre Vésinier:]
+              L’Association Internationale des Travailleurs. Fin. In: L’Echo de Verviers.
+              Nr. 294, 18. Dezember 1865. S. 2/3)))-->
+            </note></seg><?oxy_comment_start author="strauss" timestamp="20170418T123531+0200" comment="Ja. HS."?></p>
+        <?oxy_comment_end?>
+        <p sameAs="MBTextmitEinzug">Die Polen – sie hatten uns grade eine Deputation geschickt –
+          lachten laut auf, als diese passages verlesen wurden. <seg type="comment"><orig>Wir feiern
+              am 23. Jan. ihre Revolution.</orig><note xml:id="a1c6b181-d93f-4569-b3c7-975686c1d230">Der Zentralrat der IAA hatte in der
+              Sitzung am 9. Januar 1866 beschlossen, den Jahrestag des polnischen Aufstands von
+              1863/64 zu begehen. Siehe The Minute Book 1864–1866. In: MEGA² I/20.
+              S. 379.23–26. <!--(((lThe_Minute Book 1864–1866. In: MEGA² I/20. S._265–450)))-->
+              Der offizielle Beschluss des Zentralrats zu dieser Frage erschien als Bekanntmachung:
+                <bibl sameAs="zotero-604880-2CSXG4LL" type="primary">The Central Council having been
+                disappointed …</bibl> In: The Workman’s Advocate. London. Nr. 149,
+              13. Januar 1866. S. 5. (Siehe auch <bibl sameAs="zotero-604880-I7CVR5EI" type="secondary">MEGA² I/20.</bibl> Erl. 379.23–26).
+              <!--(((lThe_Central Council having been disappointed … In: The Workman’s
+              Advocate. London. Nr. 149, 13. Januar 1866. S. 5.)))-->
+            </note></seg></p>
+        <p sameAs="MBTextmitEinzug">Du wirst Dich amüsiren <seg type="comment"><orig>über des
+              wiseacre Dennis <hi rendition="#u">Schlußgebet an </hi><persName key="pdrPo.001.004.000003833"><hi rendition="#u">Proudhon</hi></persName>.</orig><note xml:id="a5c30f7f-df72-4e9e-8fc0-49dfcd52b21d"><bibl sameAs="zotero-604880-D3MUZRPA" type="primary">Denis (de Châteaugiron):
+                L'Anti-Proudhon. Rennes 1860</bibl>; eine Auseinandersetzung mit der Schrift von
+                <bibl sameAs="zotero-604880-M42TN2FJ" type="primary">P[ierre] J[oseph] Proudhon: De
+                la justice dans la révolution et dans l’église. Nouveaux pricipes de philosophie
+                pratique. Bd. 1–3. Paris 1858.</bibl>
+              <!--(((lDenis (de
+              Châteaugiron): L'Anti-Proudhon. Rennes 1860)))-->
+              <!--(((lProudhon,P[ierre] J[oseph]: De la
+              justice dans la révolution et dans l’église. Nouveaux pricipes de philosophie
+              pratique. Bd. 1–3. Paris 1858)))-->
+            </note></seg> Dieser „sensational writer“, mit seiner Halbgelehrtheit, mit seiner
+          Lassallschen Prunkerei von Wissenschaft, von der <supplied cert="high">er</supplied>
+          nichts wußte, mit seiner <pb/> scheinbar kritischen Ueberlegenheit über die Socialist
+          Sectarians, hat viel Schaden angerichtet.</p>
+        <p sameAs="MBTextmitEinzug"><seg type="comment"><orig><persName key="pdrPo.001.004.000002770">Le Lubez</persName> ist eine Null. <persName key="pdrPo.001.004.000001603">Fox</persName> nennt ihn richtig „<persName key="pdrPo.001.004.000001350">Le Père enfant-tin</persName>“,</orig><note xml:id="f9dfa0d6-4b58-4a8e-9f63-de65d2952f81">Ein Wortspiel in Anlehnung an den
+              französischen Saint-Simonisten <persName key="pdrPo.001.004.000001350">Prosper
+                Barthélemy Enfantin</persName>, der auch le Père Enfantin genannt wurde.
+            </note></seg> aber <persName key="pdrPo.001.004.000004915">Vésinier</persName> ist ganz
+          der Kerl für die Russen. Als Schriftsteller nicht viel werth, wie <seg type="comment"><orig>sein „Vie du Nouveau César“</orig><note xml:id="ea1bb593-983d-4886-bfe2-ff40322cd44e"><bibl sameAs="zotero-604880-YPPCH7SG" type="primary">Pierre Vésinier: La vie du nouveau César. Étude historique.
+                Pt. 1. Genève 1865.</bibl>
+              <!--(((lVésinier,Pierre: La vie du
+              nouveau César. Étude historique. Pt. 1. Genève_1865)))-->
+            </note></seg> u. seine andren Pamphlets gegen <persName key="pdrPo.001.004.000003392">Bonaparte</persName> zeigen. Aber mit Talent, grosser rhetorical power, <subst>
+            <del>xxxx</del>
+            <add>viel</add>
+          </subst> Energie, u. vor allem durch u. durch unscrupulös.</p>
+        <p sameAs="MBTextmitEinzug">Salut</p>
+        <closer sameAs="MBUnterschrift">
+          <salute>D <lb/></salute>
+          <signed>K M </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/mega_druckansicht/web2017/register/personen" owner="admin" group="dba" mode="755" created="2020-02-19T17:38:51+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="pdrergebnis.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="pdrergebnis.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="detail_OLD.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="detail_OLD.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql.bak" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:56+01:00" modified="2020-02-19T17:38:56+01:00" filename="index.xql.bak" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="personen.xsl" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:56+01:00" modified="2020-02-19T17:38:56+01:00" filename="personen.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pdrRecherche.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:56+01:00" modified="2020-02-19T17:38:56+01:00" filename="pdrRecherche.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="detail.xql.bak" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="detail.xql.bak" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="detail.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="detail.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="detail_OLD.xql.bak" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:57+01:00" modified="2020-02-19T17:38:57+01:00" filename="detail_OLD.xql.bak" mimetype="application/octet-stream">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="beacon" filename="beacon"/>
+</collection>

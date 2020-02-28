@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00036" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>33</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 10.
+          Februar 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4437/L VI 573</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 135
+              × 204 mm. Marx hat beide Seiten vollständig beschrieben. Schreibmaterial:
+              schwarze Tinte.</p>
+            <p>Möglicherweise von Marx Hand: ein L-förmiger Haken vor der Passage „Was die <hi rendition="#u">Russen</hi> betrifft …“. </p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: „7,1“ bzw „7,2“. </p>
+            <p>Datierung in der Erstveröffentlichung: 20. Februar 1866.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 1933</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: Bw 3 (1913).
+              S. 295–297.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1866-02-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="B00021"/>
+        </correspContext>
+        <note><p>Marx beantwortet Engels’ Brief vom 26. Januar 1866  <ref target="B00021">(Engels an Marx,
+            26.1.1866).</ref><?oxy_comment_start author="lindenberg" timestamp="20170609T132259+0200" comment="({{Br. 20}})"?></p><?oxy_comment_end?></note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+          <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten, Veröffentlichung)</term>
+          <term key="ed_fv1_snz_g1b">Lektüre</term>
+          <term key="ed_hrp_vnf_h1b">Zeitungen der IAA</term>
+          <term key="ed_www_kkf_h1b">Rußland</term>
+          <term key="ed_r5w_nkf_h1b">Polen</term>
+          <term key="ed_mts_42y_g1b">Journalismus</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:38:35Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> 10 Feb. 1866.</dateline>
+          <salute>Lieber Fritz,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Dießmal ging es um die Haut. Meine
+              Familie wußte nicht, wie sérieux der cas war. Wenn sich das Zeug noch drei bis viermal
+              in derselben Form wiederholt, bin ich ein Mann des Todes. <del>All <sic ana="#break-off"/></del></orig><note xml:id="a4a8d655-6885-4d96-ad25-0b8be9169a79">Ende Januar/Anfang Februar 1866 litt Marx schwer an Furunkulose.</note></seg> Ich bin
+          wundervoll abgefallen u. noch verdammt schwach, nicht im Kopf, sondern in Lende u. Bein.
+          Die Aerzte haben ganz Recht, daß <hi rendition="#u">übertriebne Nachtarbeit</hi> die
+          Hauptursache dieses Rückfalls. Aber ich kann den Herrn nicht die Ursachen mittheilen – was
+          auch ganz zwecklos wäre – die mich zu dieser Extravaganz <hi rendition="#u">zwingen</hi>.
+          In diesem Augenblick hab ich noch allerlei kleinen Nachwuchs am Leib, der schmerzlich,
+          aber in keiner Art mehr gefährlich.</p>
+        <p><anchor type="verweisziel" xml:id="start_vy1_wbp_mz"/>Mir war
+          das Ekelhafteste die Unterbrechung <seg type="comment"><orig>meiner Arbeit,</orig><note xml:id="ff0c7bb0-0174-437b-948d-f32b65fddd91">Gemeint ist hier <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital</bibl>; siehe
+                <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph.
+                Becker, zw. 9. u. 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T113146+0200" comment="{{Erl. 6b}}."?>
+              <?oxy_comment_end?><!--(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))-->
+            </note></seg> die seit 1<hi rendition="#sup">st </hi>January, wo mein Leberleiden
+          verschwunden war, famos voran ging. Von <hi rendition="#u">„Sitzen“</hi> war natürlich
+          keine Rede. Es genirt mich noch in diesem Augenblick. Aber liegend habe ich doch, wenn
+          auch nur während kurzer Intervalle im Tag, fortgeschanzt. Mit dem eigentlich theoretischen
+          Theil konnte ich nicht vorangehn. Dazu war das Hirn zu schwach. <seg type="comment"><orig>Ich habe daher den Abschnitt über den <hi rendition="#u">„Arbeitstag“</hi>
+              historisch ausgeweitet, was ausser meinem ursprünglichen Plan lag.</orig><note xml:id="dae9f116-75ab-4ba6-b0eb-a929cc75b7fe">Der Abschnitt „Der Arbeitstag“ gehörte
+              in der ersten Ausgabe des „Kapitals“ zum dritten Kapitel. Siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                Buch 1. Hamburg 1867.</bibl> S. 198–281. (<bibl sameAs="zotero-604880-DJBKPEMZ">MEGA² II/5.</bibl>
+              <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=177%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 177–241</ref>).
+              <!--(((lMarx,Karl:Das Kapital. Bd. 1. Buch 1. Hamburg 1867.
+              S. 198–281. (MEGA² II/5. S. 177–241).)))-->
+            </note></seg> Das jetzt von mir „Eingelegte“ bildet die Ergänzung <hi rendition="#u">(skizzenhaft)</hi> zu <seg type="comment"><orig>Deinem Buch</orig><note xml:id="nv2g_cfy_5y"><bibl sameAs="zotero-604880-UIFI5RLI">Friedrich
+                Engels: Die Lage der arbeitenden Klasse in England. Nach eigner Anschauung und
+                authentischen Quellen. Leipzig 1845.</bibl> Von Engels ist ein Handexemplar
+              überliefert (MEGA² IV/32. Nr. 381). Vollständig wurde die Arbeit in zweiter
+              Auflage erst 1892 wieder gedruckt (<bibl sameAs="zotero-604880-JBEA5LKR">Friedrich Engels: Die Lage der arbeitenden Klasse in England. Nach
+                eigner Anschauung und authentischen Quellen. 2. durchges. Aufl. Stuttgart
+                1892</bibl>). <!--(((lEngels,Friedrich:Die Lage der arbeitenden Klasse in England. Leipzig 1845)))-->
+              <!--(((lEngels,Friedrich:Die Lage der arbeitenden Klasse in England. Nach eigner
+              Anschauung und authentischen Quellen. 2. durchges. Aufl. Stuttgart 1892)))-->
+            </note></seg>
+          <add>bis 1865</add> (was ich auch <seg type="comment"><orig>in Note sage)</orig><note xml:id="ng5n_lfy_5y">Siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl
+                Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 207. (<bibl sameAs="zotero-604880-DJBKPEMZ">MEGA² II/5.</bibl>
+              <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=185%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 185, Fn. 48</ref> sowie <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=189%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 189, Fn. 66</ref>; <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=198%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 198, Fn. 88</ref> und <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=210%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 210, Fn. 110</ref>).
+              <!--(((lMarx,Karl:DasKapital.Bd.1. Buch 1.Hamburg1867.
+              (MEGA² II/5).)))--></note></seg>
+          u. <expan>d<ex>ie</ex></expan>
+          <add>volle</add> Rechtfertigung <add>der Differenz</add> zwischen Deiner Appreciation der
+          Zukunft u. ihrer Wirklichkeit. Sobald mein Buch erschienen, ist daher die zweite Auflage
+          Deines Buchs nothwendig u. zugleich leicht.<anchor type="verweisziel" xml:id="stop_vy1_wbp_mz"/> Das Theoretisch Nöthige gebe ich. Was <subst>
+            <del>die</del>
+            <add>den</add>
+          </subst> weiteren historischen Zusatz betrifft, den Du als Appendix <add>Deines
+            Buchs</add> geben mußt, so ist <hi rendition="#u">alles Material</hi> reiner Schund u.
+          wissenschaftlich nicht anzuwenden, <anchor type="verweisziel" xml:id="start_kbx_z1r_nz"/>ausser <seg type="comment"><orig>den <hi rendition="#u">„Factory
+              Reports“</hi></orig><note xml:id="cb690e33-7f9b-4087-b1f1-e6f8425297cf"><bibl sameAs="zotero-604880-S85EV74P">Reports of the Inspectors of
+                Factories to Her Majesty’s Principal Secretary of State for the Home
+                Department … London 1842–1865.</bibl>
+              <!--(((lReports of the Inspectors of Factories to Her
+              Majesty’s Principal Secretary of State for the Home Department … London
+              1842–1865)))--></note></seg>,
+            <seg type="comment"><orig>den <hi rendition="#u">„Children’s Employment Commission
+                Reports“</hi></orig><note xml:id="b907b393-9563-40e1-bd24-c5623e0102b7"><bibl sameAs="zotero-604880-D6WFSBR5">Children’s Employment Commission.
+                Reports 1–4. London 1863–1865.</bibl>
+              <!--(((lChildren’s Employment Commission. Reports 1–4.
+              London 1863–1865)))-->
+            </note></seg> u. <seg type="comment"><orig>den <hi rendition="#u">„Board of Health
+                Reports“</hi></orig><anchor type="verweisziel" xml:id="stop_kbx_z1r_nz"/><note xml:id="a8051ce5-3e03-4261-8f1c-27aaa23f07a2"><bibl sameAs="zotero-604880-ISXASCZM">Public Health. Report of the Medical officer of the Privy
+                Council … Reports 3–7. London 1861–1865.</bibl>
+              <!--(((lPublic Health. Report of the Medical officer of the Privy
+              Council … Reports 3–7. London 1861–1865)))-->
+            </note></seg>. Die Bewältigung dieses Materials bringst Du <pb/> mit Deiner nicht <subst>
+            <del>karbunkelhaften</del>
+            <add>verkarbunkelten</add>
+          </subst> Arbeitskraft bequem in 3 Monaten fertig.</p>
+        <p><anchor type="verweisziel" xml:id="start_ih4_hkj_nz"/><seg type="comment"><orig>Was die <hi rendition="#u">Russen</hi> betrifft, so habe ich <hi rendition="#u">kein</hi> Material. Sobald mein Zustand es erlaubt, gehe ich deßwegen
+              aufs Museum u. will mich bei den Polen umsehn.</orig><anchor type="verweisziel" xml:id="stop_ih4_hkj_nz"/><note xml:id="ef46d767-391d-4cca-b397-205ae4f272a8">Siehe
+                <ref target="B00021">Engels an Marx,
+                26.1.<?oxy_comment_start author="reichhoff" timestamp="20170314T161806+0100" comment="{{Br. 20}}"?>1866<?oxy_comment_end?></ref>
+              und Erl.</note></seg><anchor type="verweisziel" xml:id="start_r1p_14k_nz"/>
+          <anchor type="verweisziel" xml:id="start_vgc_rhv_4z"/>Es war grosse Crise im <bibl sameAs="ed_wcg_phf_lbb">„Workman’s Advocate“</bibl>, der Morgen als <hi rendition="#u"><bibl sameAs="ed_etf_mhf_lbb">„Commonwealth“</bibl></hi>
+          erscheint, <seg type="comment"><orig>eine Verwandlung,</orig><note xml:id="nxqw_mn4_1y">Zur Reorganisation der Zeitung siehe <ref target="B00032">J. G. Eccarius an Marx,
+                6.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T104052+0200" comment="{{Br. 29}}"?>1866<?oxy_comment_end?>
+              </ref>und <bibl sameAs="zotero-604880-ZMTIHXVG">George Odger,
+                E.S. Mantz: To our readers.</bibl> In: The Commonwealth. London. Nr. 153,
+              10. Februar 1866. S. 4. und <ref target="B00007/#nmrb_qzn_4y">Erl. zu Marx
+                an J. Ph. Becker, zw. 9. u. 15.1.1866.</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20170516T113536+0200" comment="{{Erl. 6f}})."?>
+              <?oxy_comment_end?><!--(((lOdger,George, E.S. Mantz: To our readers. In: The Commonwealth.
+              London. Nr. 153, 10. Februar 1866. S. 4.)))-->
+            </note></seg> durchgesetzt von dem Bourgeoiselement u. <hi rendition="#u">meiner</hi>
+          Abwesenheit vom Council geschuldet. Dennoch habe ich so weit, vom Krankenbett aus, durch
+          schriftliche Drohungen, die Intrigue durchkreuzt, daß <persName key="pdrPo.001.004.000001296"><hi rendition="#u">Eccarius</hi></persName> Redacteur
+          wurde <anchor type="verweisziel" xml:id="start_osy_qv5_4z"/>statt eines Herrn vom <bibl sameAs="ed_kyf_4hf_lbb">„Nonconformist“</bibl> , <anchor type="verweisziel" xml:id="start_kvh_s5z_nz"/>u. ein <hi rendition="#u">editorial
+            Supervisioncommittee</hi>, das sich wöchentlich versammelt, ernannt wurde. Es besteht
+          aus mir, <persName key="pdrPo.001.004.000001603">Fox</persName>, <persName key="pdrPo.001.004.000002244">Howell</persName>, <persName key="pdrPo.001.004.000005083">Weston</persName>, u. Miall (dem <seg type="comment"><orig>publisher <add>editor</add>
+              <expan>d<ex>es</ex></expan>
+              <bibl sameAs="ed_kyf_4hf_lbb">„Nonconformist“</bibl><anchor type="verweisziel" xml:id="stop_osy_qv5_4z"/></orig><note xml:id="nr3g_z34_1y"><persName key="pdrPo.001.004.000003192">Edward Miall</persName>.</note></seg> u.
+            <seg type="comment"><orig>unsrem publisher now)</orig><note xml:id="ngdz_ck4_1y"><persName key="ed_z5s_ptj_wx">Arthur Miall</persName>; Marx hält hier beide Mialls,
+                <persName key="pdrPo.001.004.000003192">Vater</persName> und <persName key="ed_z5s_ptj_wx">Sohn</persName>, offensichtlich für ein und dieselbe Person.
+            </note></seg>, 4 Atheisten gegen den einen „Protestant“.<anchor type="verweisziel" xml:id="stop_vgc_rhv_4z"/>
+          <seg type="comment"><orig><hi rendition="#u">Dein</hi> Artikel</orig><note xml:id="aa4c6ecd-ee57-4fdc-a0d9-188519cb0808"><bibl sameAs="zotero-604880-P783H7N7">Frederic Engels: What have the working classes to do with Poland?
+                I–III. In: The Commonwealth. London. Nr. 159, 24. März 1866. S. 5;
+                Nr. 160, 31. März 1866. S. 5; Nr. 165, 5. Mai 1866.
+                S. 5.</bibl> (<bibl sameAs="zotero-604880-665AQT5C">MEGA²
+                I/20.</bibl> S. 193–203). Siehe auch <ref target="B00004/#start_f3b_gqq_nz">Marx an Engels,
+                5.1.<?oxy_comment_start author="reichhoff" timestamp="20170411T105205+0200" comment="{{Br. 3.22–28}}"?>1866<?oxy_comment_end?>.</ref>
+              <!--(((lEngels, [Friedrich] Frederic: What have the working classes to do with Poland?
+              I–III. In: The Commonwealth. London. Nr. 159, 24. März 1866. S. 5;
+              Nr. 160, 31. März 1866. S. 5; Nr. 165, 5. Mai 1866.
+              S. 5. (MEGA² I/20. S. 193–203).)))-->
+            </note></seg> ist jezt für Poor <persName key="pdrPo.001.004.000001296">Eccarius</persName> (da die Intriguen massenhaft, u. ich nicht unterstützen kann; meine
+          Schreibzeit gehört ganz meinem Werk) <hi rendition="#u">dringend</hi> nöthig.<anchor type="verweisziel" xml:id="stop_r1p_14k_nz"/></p>
+        <p><seg type="comment"><orig>Dein Wein thut jetzt Wunderdinge an
+              mir. Während der Blüthe der Krankheit mußte ich schlechten Portwine kaufen, da nun
+              einmal dieser Wein der einzig passende für den akuten <subst>
+                <del rendition="#s">Zust<sic ana="#break-off"/></del>
+                <add place="intralinear">Karbunkelzustand</add>
+              </subst> ist.</orig><note xml:id="e3130caa-943c-47a9-8598-57443f77e3e2">Siehe
+                <?oxy_comment_start author="strauss" timestamp="20170717T115055+0200" comment="Br.31.3-4"?><ref target="B00034">J. Marx an Engels,<?oxy_comment_end?> vor
+              10.2.1866.</ref><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?><?oxy_comment_start author="reichhoff" timestamp="20170411T103600+0200" comment="{{Br. 31}}"?></p>
+        <?oxy_comment_end?>
+        <p><anchor type="verweisziel" xml:id="start_gyk_cnq_nz"/>À Propos.
+            <anchor type="verweisziel" xml:id="start_oss_jxw_mz"/><seg type="comment"><orig><persName key="pdrPo.001.004.000005027">John Watts</persName>, wie ich aus
+              einem der letzten „Factory Reports“ sehe, hat ein Pamphlet <hi rendition="#u">„On
+                Machinery“</hi> veröffentlicht. Ersuche ihn in meinem Namen mir das Zeug zu
+                schicken.<anchor type="verweisziel" xml:id="stop_gyk_cnq_nz"/><anchor type="verweisziel" xml:id="stop_oss_jxw_mz"/></orig><note xml:id="b0128bc6-6f4e-4b18-be19-28af8fa4cc34"><bibl sameAs="zotero-604880-9XVD7JDF">John Watts: Trade Societies and Strikes. Their good and evil
+                Influences on the Members of Trades’ Unions, and on Society at large. Machinery; its
+                Influences on Work and Wages, and Co-operative Societies, productive and
+                distributive, Past, Present, and Future. Manchester, London [1865]</bibl>.
+              <!--(((lWatts,John: Trade Societies and Strikes. Manchester,London_[1865])))--> Zur
+              Kritik dieser Schrift siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl
+                Marx: Das Kapital. Bd. 1. Hamburg 1867.</bibl> (<bibl sameAs="zotero-604880-DJBKPEMZ">MEGA² II/5.</bibl><?oxy_comment_start author="roth" timestamp="20170920T172206+0200" comment="seitengenaue Links auf &quot;Kapital&quot; II/5 in MEGAdigital-Kapital ergänzt"?>
+              <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=447%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">S. 447</ref> und <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=449%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">449<?oxy_comment_end?></ref>, Fn. 45 und Fn. 51). – Engels hatte Watts in den
+              1840er Jahren bei einem Aufenthalt in Manchester
+              <?oxy_comment_start author="strauss" timestamp="20170710T150138+0200" comment="(((lSchmidtgall, Harry: Friedrich Engels&apos; Manchester-Aufenthalt 1842-1844. Soziale Bewegungen und politische Diskussionen. Trier (1981). (Schriften aus dem Karl-Marx-Haus. H. 25).)))"?>kennengelernt<?oxy_comment_end?>
+              (siehe <bibl sameAs="zotero-604880-V2TQHWBJ">Schmidtgall: Friedrich
+                Engels' Manchester-Aufenthalt 1842-1844.</bibl> S.
+              18-28).<!--(((lMarx,Karl:DasKapital.Bd.1.1867.
+              (MEGA² II/5).)))--></note></seg></p>
+        <p><seg type="comment"><orig>Dem <persName key="pdrPo.001.004.000002822">Wilhelm</persName> werde ich einige Donnerzeilen über
+              seine Schwachleibigkeit schreiben. Was wir wollen, ist ja grade der Untergang des
+                <bibl sameAs="ed_dpq_lhf_lbb">„Soc. Democ.“</bibl> u. der ganzen
+                <persName key="pdrPo.001.004.000002711">Lassallescheisse</persName>.</orig><note xml:id="f13226c9-d7ff-45a6-a627-63d5a6ebc93a">Siehe <ref target="B00016/#start_csk_3rq_nz">W. Liebknecht an Marx, 18.1.1866
+                <?oxy_comment_start author="reichhoff" timestamp="20170411T110014+0200" comment="{{Br. 15.29–40}}"?>.<?oxy_comment_end?></ref><?oxy_custom_start type="oxy_content_highlight" color="255,198,140"?></note></seg><?oxy_custom_end?></p>
+        <p><seg type="comment"><orig><anchor type="verweisziel" xml:id="start_hwh_dkk_nz"/><hi rendition="#u">Lyon</hi> (<expan>d<ex>ie</ex></expan> Arbeiter v. dort) haben 8 l. dem
+              Intern. Council geschickt.<anchor type="verweisziel" xml:id="stop_hwh_dkk_nz"/></orig><note xml:id="f83f30b2-1649-4dec-9aa8-f2267eee2365">Siehe <ref target="B00030/#start_xnq_5rq_nz">H. Jung an Marx,
+                5.2.<?oxy_comment_start author="reichhoff" timestamp="20170411T110347+0200" comment="{{Br. 27.10–11}}"?>1866<?oxy_comment_end?></ref>.</note></seg></p>
+        <p>Salut</p>
+        <closer>
+          <salute>Dein <lb/></salute>
+          <signed>Mohr. </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

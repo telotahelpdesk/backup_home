@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00331" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>322</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 26. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1635/D III 405</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 128 × 204 mm. Die erste Seite hat Engels vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seite: „26“ (gestrichen) und „332,1“ („1“
+                            gestrichen). Redaktionelle Vermerke.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+                            Briefes: „907“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. SPI 1 op. 1 d. 2065</bibl></listBibl></additional></msDesc><listWit><witness><bibl>Erstveröffentlichung: Bw 3 (1913). S. 396/397.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-08-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00330"/>
+                </correspContext>
+                <note>Engels beantwortet Marx Brief vom 24. August 1867 (siehe <ref target="B00330"><?oxy_comment_start author="lindenberg" timestamp="20190219T144432+0100" comment="Br. 321"?>Marx
+                        an Engels, 24.8.1867</ref><?oxy_comment_end?>).</note>
+                <note>Die Beilage zum Brief („Photographie“) ist nicht überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:31Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 26 Aug. 1867.</dateline>
+                    <salute>Lieber Mohr,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Über die Ersatzfonds-Frage
+                            morgen ausführlich mit begleitenden Rechnungen.</orig><note xml:id="cfd75f8d-626b-4452-b3e9-81268efc334a">Siehe <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180523T171110+0200" comment="(Br. 321.52–54)"?>Marx
+                                an Engels, 24.8.1867<?oxy_comment_end?></ref> „Ich schrieb Dir vor
+                            vielen Jahren ...“ und Erl. und <ref target="B00333"><?oxy_comment_start author="lindenberg" timestamp="20190612T123858+0200" comment="324"?>Engels
+                                an Marx, 27.8.1867<?oxy_comment_end?></ref>.</note></seg> Ich muß
+                    nämlich noch ein Paar Fabrikanten fragen ob unser Modus der allgemeinen, oder
+                    nur ausnahmsweise. Es fragt sich nämlich, ob bei £ 1000.– <expan>urspr<ex>ünglicher</ex></expan> Kost<ex>en</ex>
+                    der Maschinerie, wo im 1. Jahr £ 100.– abgeschrieben werden, die Regel ist, im
+                    2. Jahr 10% auf <hi rendition="#u">£ 1000</hi>.– oder auf <hi rendition="#u">£ 900</hi>.– abzuschreiben <add place="superlinear">usw.</add> Letzteres
+                    thun wir, &amp; damit läuft die Sache begreiflich <seg type="comment"><orig>in
+                            infinitum</orig><note xml:id="fe959931-b408-4246-9650-d37751507ca1">in
+                            infinitum°(lat.) ins Unendliche</note></seg>, wenigstens theoretisch.
+                    Dies afficirt die Rechnerei beträchtlich. Sonst aber ist kein Zweifel daß der
+                    Fabrikant den Ersatzfonds <hi rendition="#u">im Durchschnitt</hi> 4½ Jahr ehe
+                    die Maschinerie verschlissen ist, bereits <hi rendition="#u">benutzt</hi>,
+                    wenigstens zur Verfügung hat. Dies wird aber eingerechnet, sozusagen als eine
+                    gewisse Garantie gegen den moralischen Verschleiß oder aber der Fabrikant sagt:
+                    die Annahme daß die Maschinerie in 10 Jahren ganz verschleißt, ist nur <add place="superlinear">annähernd</add> richtig, <add place="superlinear">d.h.</add> unter der Voraussetzung daß ich den <expan>Ersatzfond</expan> in 10 <expan>jährl<ex>ichen</ex></expan> Raten gleich von
+                    Anfang an ausbezahlt erhalte. Jedenfalls sollst Du die Rechnungen haben, die
+                    Sache, was ihre <expan>ökon<ex>omische</ex></expan>
+                    <hi rendition="#u">Bedeutung</hi> angeht, ist mir nicht so ganz klar, ich sehe
+                    nicht ein wie der Fabrikant im Stande sein sollte durch eine derartige falsche
+                    Vorspiegelung die übrigen Theilnehmer am Mehrwerth resp. die letzten
+                    Konsumenten, zu prellen – auf die Dauer. Nota bene, in der Regel wird auf die
+                    Maschinerie <hi rendition="#u">7½%</hi> Abgeschrieben, also eine
+                    Verschleißperiode von c<hi rendition="#sup">a</hi> 13 Jahren angenommen.</p>
+                <p><persName key="pdrPo.001.004.000003296">Moore</persName>
+                    schickt inl. seine Photographie &amp; erinnert Dich daran daß Du ihm <hi rendition="#u">die Deinige</hi> versprochen worauf er sehr begierig ist.</p>
+                <p><seg type="comment"><orig>Das Kapitel über
+                            Accumulation</orig><note xml:id="f9ee7837-b173-46cc-93e6-db2962f4f1bb">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867. S. 551–756.
+                            Sechstes Kapitel: Der Accumulationsprozeß des Kapitals. (Siehe MEGA²
+                            II/5. S. 456.11–619.14). Siehe <ref target="B00329"><?oxy_comment_start author="reichhoff" timestamp="20180523T171339+0200" comment="(Br. 320.35–37)."?>Engels
+                                an Marx, 23.8.1867<?oxy_comment_end?></ref> „die
+                            Accumulation“.</note></seg> ist sehr famos</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

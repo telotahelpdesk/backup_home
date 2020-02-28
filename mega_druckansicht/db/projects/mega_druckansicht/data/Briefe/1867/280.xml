@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00289" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>280</idno>O. Theobald (Thomas Wilson, Sons &amp; Co.) an Friedrich
+                    Engels in Manchester. Hull, Dienstag, 2. Juli 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 6376/L IX 291-2
+                            Fotosign. 15035.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            257 × 204 mm. mit einem Firmenaufdruck von <orgName key="ed_hqn_fgg_zgb">Thomas Wilson, Sons &amp; Co.</orgName> (siehe Anmerkungen zum
+                            Brief). </p>
+                        <p>Der Schreiber O. Theobald hat die erste Seite vollständig, die vierte zu
+                            drei Vierteln beschrieben, die zweite Seite als Adressseite benutzt, die
+                            dritte Seite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Engels’ Hand: auf der zweiten Seite quer stehend mit Bleistift die
+                            Notizen: in der Mitte: die Adresse „Meißner Bergstr 26.“; einige kaum
+                            lesbare Notizen (oben links), eine Berechnung: „6
+                                2/<?oxy_comment_start author="lindenberg" timestamp="20190128T173151+0100" comment="{?}"?>7<?oxy_comment_end?><hi rendition="#sup">d</hi>“[?] sowie die Berechnungen oben rechts
+                            (siehe Anmerkungen zum Brief)</p>
+                        <p>Archivsignatur des SPD-Archivs auf der dritten Seite: „II 21 K 64“.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1708</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ek1_kph_4gb">Theobald, O. (-)</persName>
+                    <placeName key="ed_d2c_nhl_ndb">Hull</placeName>
+                    <date when="1867-07-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>
+                    <ref target="mega_k5j_zd3_4gb">Firmenaufdruck im Briefkopf und
+                    Berechnung</ref></note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:48Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">Hull.</hi> 2 July <hi rendition="#mPrint">186</hi>7<hi rendition="#mPrint">.</hi></dateline>
+                </opener>
+                <p>Fred<hi rendition="#sup">k</hi> Engels Esq<hi rendition="#sup">e</hi><lb/>Msrs Ermen &amp; Engels<lb/>Manchester</p>
+                <p>Sir</p>
+                <p>The Hero sails for <seg type="comment"><orig>Gothenburg</orig><note xml:id="f2f9b276-cf03-4867-afa5-daa668b9b0ae">Göteborg,
+                        Schweden.</note></seg>
+                    <seg type="comment"><orig>next Saturday</orig><note xml:id="ac0cdd39-617e-47dd-9173-38cec4d2aee3">6. Juli 1867. Zu Engels'
+                            Reiseplänen siehe <ref target="B00284"><?oxy_comment_start author="lindenberg" timestamp="20190521T162317+0200" comment="(Br. 275.23–25) und Erl. 275e"?>Engels
+                                an Marx, 26.6.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+                    morning at 6 o’clock &amp; you can have a Cabin with 2 berths if you engage one
+                    by return for the usual charge viz £ <hi rendition="#u">6.6.0</hi> for 2 berths.
+                    The Steamer is laying in <pb/> the Railway dock &amp; will remain there until
+                    Saturday morning at 6. &amp; the passage lasts from 44 to 48 hours.</p>
+                <closer><unclear reason="illegible" cert="low">Sincere</unclear><lb/>Sir<lb/>Your respectfully<lb/><expan>I<ex>n</ex></expan>
+                    <expan>P<ex>erson</ex></expan> T Wilson
+                    Sons<lb/>O Theobald <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

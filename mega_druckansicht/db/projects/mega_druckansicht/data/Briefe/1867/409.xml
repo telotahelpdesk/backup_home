@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00419" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>409</idno>Louis Kugelmann an Karl Marx in London. Hannover, Mittwoch, 6.
+          November 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 1 d. 2111
+              Fotosign. 33&lt;a–d&gt;.</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt.
+              <?oxy_comment_start author="lindenberg" timestamp="20190227T155917+0100" comment="{Feltrinelli ??} "?>Die<?oxy_comment_end?>
+              Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 1, op. 1, d. 2111.
+              Fotosign. 33&lt;a–d&gt;.</p>
+            <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Bogen. Kugelmann
+              hat die ersten drei Seiten vollständig, die vierte Seite zu drei Vierteln beschrieben. </p>
+            <p>Möglicherweise von Louis Kugelmanns Hand: Klammer („Nächstens werde ich Ihnen diese
+              Correspondenz mittheilen. Hierauf erwarte ich nun Antwort. –“)<?oxy_comment_start author="lindenberg" timestamp="20190301T182429+0100" comment="Z. 35–36"?>,<?oxy_comment_end?>
+              <?oxy_comment_start author="lindenberg" timestamp="20190301T182200+0100" comment="(Z. 65–66, 79–80, 80–81, 86–87)"?>Randanstreichungen<?oxy_comment_end?>.</p>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-JGYK6A2M">Erstveröffentlichung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Dlubek, Skambraks:
+              „Das Kapital“ von Karl Marx in der deutschen Arbeiterbewegung
+              (1967).<?oxy_custom_end?> S. 115–117.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+          <placeName>Hannover</placeName>
+          <date when="1867-11-06"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+        <note>Zu zwei Beilagen zum Brief
+          (<?oxy_comment_start author="lindenberg" timestamp="20190301T102925+0100" comment="Z. 47 und 92"?>„Einliegend
+          einer davon“ ; „einen Separat-Abdr.“<?oxy_comment_end?>) siehe <ref target="B00418"><?oxy_comment_start author="lindenberg" timestamp="20190301T103216+0100" comment="408.8"?>Erl.
+            zu Engels an Marx, 5.11.1867<?oxy_comment_end?></ref>   bzw. <ref target="B00389"><?oxy_comment_start author="lindenberg" timestamp="20190301T103435+0100" comment="{bzw. 379d Zukunft_30.10.67}"?>Engels
+            an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref>.</note>
+        <note>Zwei überlieferte Beilagen zum Brief
+          (<?oxy_comment_start author="lindenberg" timestamp="20190301T181913+0100" comment="Z. 46{Weiß}"?>„Guido
+          Weiss mit einliegenden Zeilen“<?oxy_comment_end?>) und „Antwort von Miquèl einliegend“)
+          siehe hier:</note>
+        <note>Wiedergabe der Beilagen:</note>
+        <note>1. <ref target="mega_p44_qdf_pgb">Guido Weiß an Louis Kugelmann, 31. Oktober
+            1867.</ref>
+        </note>
+        <note>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. D 4488/D VIII 82. Fotosign.
+          3063.</note>
+        <note>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 282 ´ 227 mm.
+          Prägung: „Redaction der Zeitung ,Die Zukunft‘ Auguststr. 91.“ Die erste Seite hat Weiß zur
+          Hälfte beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze
+          Tinte.</note>
+        <note>Von Louis Kugelmanns Hand: auf der vierten Seite oben rechts mit schwarzer Tinte der
+          Vermerk: „1867 Guido Weiß Berlin, 31. Oktob.“</note>
+        <note>Von unbekannter Hand: auf der ersten Seite oben in der Mitte mit Bleistift der
+          Vermerk: „1867“.</note>
+        <note>2. <ref target="mega_n4j_32f_pgb">Johannes Miquel an Louis Kugelmann, 5. November
+            1867.</ref></note>
+        <note>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. R 80/D I 116.</note>
+        <note>Erstveröffentlichung: <bibl sameAs="zotero-604880-H8NPM3CY">Eduard
+            Bernstein: Johannes Miquel über Marx und seine Abwendung von ihm (1914).</bibl> S.
+          195.</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:32Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> Hannover, 6. Novbr. 1867</dateline>
+          <salute>Mein hochverehrter, lieber Freund!</salute>
+        </opener>
+        <p>Der Wunsch Ihnen mehr Erfolge meiner Bemühungen berichten zu
+          können ließ mich bis heute mit der Antwort zögern, damit Sie aber nicht glauben ich gehöre
+          zu den Lässigen, will ich wenigstens referiren. –</p>
+        <p><seg type="comment"><orig>Meine Aufforderung an <persName key="ed_ajj_jzj_bdb">Warnebold</persName> eine Notiz über Ihr Buch irgend wo in die Preße zu bringen
+              blieb mit Hinweis auf die Engelsschen Recepte unberücksichtigt.</orig><note xml:id="ddfb49f0-d82b-4ccd-8339-4d5cc4f7cc4d">Siehe <ref target="B00380">L. Kugelmann
+                an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T120124+0200" comment="(Br. 370.4, 19–22"?>8.<?oxy_comment_end?>10.1867</ref>
+              „Warnebold erbot sich ...“ und <ref target="B00391"><?oxy_comment_start author="reichhoff" timestamp="20180606T120209+0200" comment="und 381.74–78)"?>13.<?oxy_comment_end?>10.1867</ref>„Heute
+              war ich schon bei Warnebold …“ sowie <ref target="B00397"><?oxy_comment_start author="reichhoff" timestamp="20180606T120257+0200" comment="(Br. 387.24)"?>Marx
+                an L. Kugelmann, 15.10.1867<?oxy_comment_end?></ref> „Sie werden Engels' Recepte
+              ...“ und <ref target="B00389">Erl. zu Engels an L. Kugelmann, 12.10.1867</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20191105T154641+0100" comment="379.3 {379d}"?>„in
+              zwei fertigen Artikeln“<?oxy_comment_end?>. – Ihr Buch°] <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg
+                1867.</bibl></note></seg> Sobald <seg type="comment"><orig>letztere
+              (2 Stück)</orig><note xml:id="e5454757-3df9-4df0-8cc8-a51fdba2503b">[Friedrich
+              Engels:] <hi rendition="#u">Karl Marx,</hi> Das Kapital. Erster Band. Hamburg.
+              Meißner. 1867. 784 Seiten. 8°. In: Die Zukunft. Berlin. Nr. 254, 30. Oktober 1867.
+              Beil. S. 5. Sp. 1/2. Rubrik: Bücher-Anzeigen. (MEGA<hi rendition="#sup">2</hi> I/21.
+              S. 3–5 und 1229–1231.) – [Friedrich Engels:] <hi rendition="#u">Karl Marx, Das
+                Kapital.</hi> Kritik der politischen Oekonomie. I. Band: Der Produktionsprozeß des
+              Kapitals. Hamburg, O. Meißner, 1867. Siehe <ref target="B00389">Erl. zu Engels an L.
+                Kugelmann, 12.10.1867</ref>
+              <?oxy_comment_start author="lindenberg" timestamp="20191105T154641+0100" comment="379.3 {379d}"?>„in
+              zwei fertigen Artikeln“<?oxy_comment_end?>. – Siehe <ref target="B00387"><?oxy_comment_start author="reichhoff" timestamp="20180606T120359+0200" comment="(Br. 377.15–16)"?>Engels
+                an Marx, 11.<?oxy_comment_end?>10.1867</ref> und <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180606T120439+0200" comment="(Br. 379.5–17)"?>an
+                L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> sowie Erläuterungen.</note></seg>
+          angelangt machte ich von der einen, <persName key="pdrPo.001.004.000002615">meine
+            Frau</persName> von der andern eine Abschrift u. brachte sie zu Warnebold. – Vornehme
+          Wichtigmacherei, protectionsbereites Achselzucken, Möglichkeit <hi rendition="#u">einen</hi> Artikel <hi rendition="#u">durch die Dummheit des Redacteurs</hi>
+          <hi rendition="#uu">vielleicht</hi> durch <hi rendition="#u">persönliche</hi> Connexion in
+          ein hiesiges Winkelblatt zu bringen, trotz alledem nichts, gar nichts thun, das war die
+          Verfahrungsart dieses eitlen Laffen. Nachdem ich 8–14 Tage gewartet nahm ich ihm den einen
+          ab u. schickte ihn an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> für
+          die „Zukunft“, die denselben sofort acceptirte. Nach weiterem Hangen u. Bangen mit
+            <persName key="ed_ajj_jzj_bdb">Warnebold</persName>
+          <seg type="comment"><orig>schrieb ich ihm endlich einen eben so höflichen wie groben
+              Brief, worin ich ihm sagte, daß ich auf seine Veranlassung die Artikel von Engels
+              verschrieben habe,</orig><note xml:id="b1085cc8-8ac4-478f-97a1-3486514902ec">Der Brief
+              Kugelmanns an E. Warnebold, geschrieben Ende Oktober 1867, konnte nicht ermittelt
+              werden.</note></seg> daß er sich für diese Gefälligkeit meinerseits sehr unschicklich
+          benehme, daß, da sein Einfluß für die Placirung auch des <hi rendition="#u">einen</hi>
+          Artikels nicht ausreiche, so erbäte ich ihn mir zurück um, da mich die Sache außerdem
+          persönlich interessire selbst dafür zu sorgen. – Am 21 v. Mts. schickte ich diese Kritik
+          an <persName key="pdrPo.001.004.000000664">Bürgers</persName> nach Cöln für die <bibl sameAs="ed_p2v_klh_hfb" type="periodika">Rhein. Ztg</bibl>. Weil keine Antwort erfolgte
+            <seg type="comment"><orig>am 1. d. Mts. heftige Anpurrung an Bürgers mit Bemerkung „die
+              Democratie werde uns doch nicht zwingen wollen die feudalen Zeitungen um Raum für
+              <pb/> unsere wissenschaftlichen Besprechungen zu ersuchen?“</orig><note xml:id="fffdc65b-49e1-4b27-b15f-3ee1c3c0dbe5">Der Brief Kugelmanns an H. Bürgers vom
+              1. November 1867 konnte nicht ermittelt werden.</note></seg>
+          <seg type="comment"><orig>Darauf erhielt ich <hi rendition="#u">gestern</hi>
+              Antwort.</orig><note xml:id="e69dc629-6610-43e2-a69b-672953478d02">
+              <p>Siehe <ref target="mega_jpx_d2p_cgb">Heinrich Bürgers an Louis Kugelmann,
+                  4. November 1867</ref> (IISG Marx-Engels-Nachlass, Sign. L 856/L II 220). </p>
+            </note></seg> Bürgers hält den Artikel nicht geeignet, weil darin sofort die letzten
+          Consequenzen angeführt werden, wenn <hi rendition="#u">Sie</hi> es indeß wünschten, so
+          wolle er ihn auch so mit einigen Änderungen in der Einleitung drucken. – <seg type="comment"><orig>Ich antwortete sofort, daß er hierin vielleicht Recht haben möchte,
+              daß ich Sie nicht fragen könne, weil Ihnen die ganze Sache unbekannt, daß er aber so
+              bald wie möglich etwas darüber schreiben möchte. Er schien zu vermuthen, daß Sie
+              selbst der Verfasser. Um allem Argwohne von vorn herein zu begegnen, sagte ich ihm,
+                <hi rendition="#u">daß</hi>
+              <persName key="ed_eyg_crj_sx">Engels</persName> u. <hi rendition="#u">weshalb</hi> der
+              Verfasser.</orig><note xml:id="d10b2891-e3e7-491e-991a-cfe10610ed24">
+              <p>Siehe <ref target="mega_s4v_xjp_cgb">Louis Kugelmann an Heinrich Bürgers,
+                  5. November 1867</ref> (IISG Kollektion Kleine Korrespondenz (Kugelmann)):</p>
+              <?oxy_comment_start author="lindenberg" timestamp="20181115T152843+0100" comment="von Ljudmila gestrichen: {#Absatz}Fotokopie dieses Briefes in der Handschrift von Gertrud Kugelmann (siehe Kugelmann an Marx, 3.12.1867 Br. 458.52) siehe RGASPI, Sign. f. 184, op. 1, d. 3/2, Bl. 1–7; Fotosign. KA 40&lt;a–b&gt; und KA 41&lt;a–b&gt;."?>
+            </note><?oxy_comment_end?></seg> – <seg type="comment"><orig>Nächstens werde ich Ihnen
+              diese Correspondenz mittheilen. Hierauf erwarte ich nun Antwort. –</orig><note xml:id="fa04ff70-4b7e-42b0-9d9a-cd1c3e993411">Kugelmann legte die beiden o.g. Briefe
+              seinem Brief an Marx vom 3. Dezember (<ref target="B00467">L.
+                Kugelmann<?oxy_comment_start author="reichhoff" timestamp="20180606T121106+0200" comment="(Br. 458.51–52)"?>
+                an Marx vom 3.12.1867<?oxy_comment_end?></ref> „Einliegend die letzten Briefe ...“)
+              bei. Siehe auch <ref target="B00488"><?oxy_comment_start author="reichhoff" timestamp="20180606T121150+0200" comment="(Br. 479.51–52)"?>L.
+                Kugelmann an Engels, 16.12.1867<?oxy_comment_end?></ref> „Hat Bürgers Ihnen
+              geantwortet ...).</note></seg></p>
+        <p>Ich selbst wagte <seg type="comment"><orig>einen kleinen Artikel</orig><note xml:id="nykg_3m4_qjb">Aller Wahrscheinlichkeit nach ist die am 10. November 1867 in
+              der hannoverischen „<bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutschen
+                Volkszeitung</bibl>“ von Kugelmann veröffentlichte Rezension zum ersten Band des
+              „Kapital“ nicht als Handschrift überliefert. (Siehe <bibl sameAs="zotero-604880-KPL7ZHJG" type="secondary">Kopf: Bibliographie zur
+                Wirkungsgeschichte von Karl Marx’ „Das Kapital“ bis 1872</bibl>. S. 227; <bibl sameAs="zotero-604880-6S3U3SQW" type="secondary">Hundt: Louis
+                Kugelmann (1974).</bibl> S. 238–246.)</note></seg> der besonders die Fachöconomen
+          provociren soll u. habe vom <seg type="comment"><orig><persName key="ed_wfj_lf4_zgb">Redacteur</persName></orig><note xml:id="nq2n_tm4_qjb">Vermutlich <persName key="ed_wfj_lf4_zgb">Ehrenreich Eichholz</persName> , der 1866 die Redaktion der
+                „<bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutschen Volkszeitung</bibl>“ in
+              Hannover übernommen hatte.</note></seg> der hiesigen „<bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutschen Volkszeitung</bibl>“ die Zusage er solle gedruckt werden, es
+          geschieht trotz wiederholten Anmahnens u. trotzdem ein Freund <persName key="pdrPo.001.004.000002822">Liebknecht</persName>’s, der <persName key="ed_uvj_ctv_zgb">Dr. Heysterbergh</persName>, in der Redaction ist, immer noch
+          nicht. – Ich werde indeß nicht ermüden. –</p>
+        <p>Wie gesagt erschien <seg type="comment"><orig>der eine Artikel in der „Zukunft“ u. zwar
+              am 30. v. Mts.</orig><note xml:id="bbf84ae6-bfbf-4aef-92e6-5aeafb0740b1">[Friedrich
+              Engels:] <hi rendition="#u">Karl Marx,</hi> Das Kapital. Erster Band. Hamburg.
+              Meißner. 1867. 784 Seiten. 8°. In: Die Zukunft. Berlin. Nr. 254, 30. Oktober 1867.
+              Beil. S. 5. Sp. 1/2. Rubrik: Bücher-Anzeigen. (MEGA<hi rendition="#sup">2</hi> I/21.
+              S. 3–5 und 1229–1231.) Siehe  <ref target="B00389"><?oxy_comment_start author="lindenberg" timestamp="20191106T122310+0100" comment="379d"?>Erl.
+                zu Engels an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref>.</note></seg> Ich
+          hatte mir durch <persName key="pdrPo.001.004.000002822">Liebknecht</persName>
+          50 Separatabdrücke bestellt, die mir <seg type="comment"><orig><persName key="ed_vtr_13k_bdb">Guido Weiss</persName> mit einliegenden Zeilen</orig><note xml:id="d16188c7-c108-40af-bcbd-65609f9590eb">Wiedergabe der Beilage 1 siehe
+              ZB.</note></seg> auch sandte u. die ich zu gewählter Verbreitung benutze.– Einliegend
+          einer davon, auf Verlangen mehr. – So schickte ich einen an <persName key="pdrPo.001.004.000003135">Meissner</persName>, ferner <seg type="comment"><orig>an
+                <persName key="pdrPo.001.004.000000656">Büchner</persName>-Darmstadt,</orig><note xml:id="f188996b-f93e-4078-9265-c1c60559d53f">Der Brief Kugelmanns an Ludwig Büchner,
+              geschrieben, wie der Antwort Büchners vom 9. November 1867
+              (<?oxy_comment_start author="lindenberg" timestamp="20190301T184136+0100" comment="S. 000, Br. 436.ZB)"?>siehe
+              ZB<?oxy_comment_end?> u. <ref target="B00446">Beil. zu L. Kugelmann an Engels,
+                25.11.1867</ref>) zu entnehmen ist, am 1. November 1867, ist nicht
+              überliefert.</note></seg>
+          <seg type="comment"><orig>mit dem ich 8 Tage in der Schweiz zusammen war</orig><note xml:id="ea4c7593-ca3d-44cb-88ca-9aefe7734baa">Zur Kugelmann’s Reise siehe <ref target="B00316"><?oxy_comment_start author="reichhoff" timestamp="20180606T121424+0200" comment="(Br. 307.13–18)"?>L.
+                Kugelmann an Marx, 12.8.1867<?oxy_comment_end?></ref>. Kugelmann hatte im September
+              1867 am Kongreß der IAA in Lausanne (siehe
+                <?oxy_comment_start author="reichhoff" timestamp="20180914T162133+0200" comment="328d"?><ref target="B00337">Erl. zu Marx an Engels, 31.8.1867<?oxy_comment_end?></ref>) und
+              anschließend am Gründungskongreß der Friedens- und Freiheitsliga in Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20191106T123033+0100" comment="304g und 304h"?>Erl.
+                zu S. L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>) teilgenommen. Siehe
+              auch <ref target="B00363">L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T121517+0200" comment="(Br. 354.3–4)"?>Kugelmann
+                an Marx, 29.<?oxy_comment_end?>9.1867</ref>  sowie <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180606T121555+0200" comment="(Br. 330.28–29)"?>Engels
+                an Marx, 2.<?oxy_comment_end?>9.1867</ref>, <ref target="B00341"><?oxy_comment_start author="reichhoff" timestamp="20180606T121638+0200" comment="(Br. 332.52)"?>F.
+                Leßner an Marx, 4. und 5.<?oxy_comment_end?>9.1867</ref>, <ref target="B00345"><?oxy_comment_start author="reichhoff" timestamp="20180606T121721+0200" comment="(Br. 336.7)"?>J.
+                G. Eccarius an Marx, 9.9.1867<?oxy_comment_end?></ref>.</note></seg>, mit der
+          Aufforderung in der Preße etwas zu thun; an <persName key="ed_ekh_ntq_y2b">Rempel</persName> u.s.w. Auch an <persName key="pdrPo.001.004.000003226">Miquèl</persName> mit einem kurzen aber stolzen Begleitschreiben u. der Aufforderung
+          für die Verbreitung <seg type="comment"><orig>des Buches</orig><note xml:id="ab796c57-e4b5-49a0-9e27-5fc0e1f3966f"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg> unter
+          seinen Genossen zu sorgen. – <pb/>
+          <seg type="comment"><orig>Heute empfangene Antwort von Miquèl einliegend.</orig><note xml:id="a57df9fa-5be2-4cb4-986b-43e030e4d70b">Wiedergabe der Beilage 2 siehe ZB
+              .</note></seg> – Mit Ausnahme der eingeklammerten Stelle, <seg type="comment"><orig>habe ich den Inhalt bereits an <persName key="pdrPo.001.004.000003135">Meissner</persName> mitgetheilt um für Berlin geeignete Maaßregeln zu
+              ergreifen.</orig><note xml:id="e8b6cff6-58d5-4a48-86fb-00e56f53269a">
+              <p>Kugelmanns Brief an Otto Meißner vom 5. bzw. 6. November 1867 ist nicht
+                überliefert. <ref target="mega_rfb_44p_cgb">Meißner beantwortete diesen Brief am 8.
+                  November 1867</ref> (IISG, Marx-Engels-Nachlass, Sign. R 70/D VI 42. Fotosign.
+                8877&lt;a–b&gt;. Auf der zweiten Seite des Blattes Engels’ Notiz, vermutlich von
+                1883: „8 Nov 67 an Kugelmann?“). </p>
+            </note></seg> – Die Ansicht von <persName key="pdrPo.001.004.000003226">Miquèl</persName>, daß Ihnen die Anzapfung von <persName key="pdrPo.001.004.000004074">Roscher</persName> u. Complicen nachtheilig sei bezweifle ich durchaus. Sie
+          todtzuschweigen werden sie jedenfalls versuchen, ob nun etwas tödter ist gleichgültig. –
+          Die Absicht auszuführen, muß ihnen aber unmöglich gemacht werden. Deshalb wählte ich
+          gerade diesen Anzapfungsartikel für die „Zukunft“ u. beabsichtige den Herren <persName key="pdrPo.001.004.000004074">Roscher</persName>, <persName key="pdrPo.001.004.000003889">Rau</persName>, <persName key="ed_qbw_plf_scb">Otto
+            Michaelis</persName>, <persName key="pdrPo.001.004.000001474">Faucher</persName> u. A.
+          einen Separat-Abdruck ohne weiteres Begleitschreiben recommandirt <hi rendition="#u">unter
+            Retourrecipisse</hi> einzusenden, damit wir es documentirt haben, daß ihnen diese
+          Herausforderung zugestellt. Wenn mein Artikelchen bald gedruckt, oder sonst wo etwas
+          darüber, werde ich es ebenfalls beilegen. – Wollen Sie es nicht dann <pb/> bitte ich um
+          Nachricht.</p>
+        <p>Daß ich außerdem, wo ich kann das Buch empfehle bedarf keiner
+          Erwähnung. –</p>
+        <p>Heute bekam ich <seg type="comment"><orig><persName key="pdrPo.001.004.000000542">Borkheims</persName> Brochüre</orig><note xml:id="bc2df535-73fd-46c2-b2d8-d932f7345629"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig Borkheim:] Ma Perle Devant le Congrès de Genève.
+                Par un Diplomate Prolétaire. Bruxelles 1867.</bibl> Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180606T121858+0200" comment="(Br. 360.93–115)"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ad vocem Borkheim: ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191106T124209+0100" comment="360y"?>Erl.<?oxy_comment_end?>
+            </note></seg>. <seg type="comment"><orig>Ich meine Sie dürfen beruhigt sein, so etwas
+              kann der böseste Wille <hi rendition="#u">Ihnen</hi> nicht aufbürden.</orig><note xml:id="f97fdca8-662b-4817-88ac-b4dcbfa1ded7">Siehe <ref target="B00388"><?oxy_comment_start author="reichhoff" timestamp="20180606T121949+0200" comment="(Br. 378.9–52)"?>Marx
+                an L. Kugelmann, 11.10.1867<?oxy_comment_end?></ref>.</note></seg> Wie ist es nur
+            <hi rendition="#u">möglich</hi>, daß Borkh. so etwas in die Welt zu schicken wagt.
+          Solche furchtbare Wichtigmacherei, wo er sich keine einzige neue Idee zuschreiben kann. –
+          Welche Vorrede! Welcher Text! Welcher Titel! Indeß soll nach Ihrer Vorschrift verfahren
+          werden, wenn ich etwas höre u. soweit mein Einfluß reicht. – <persName key="pdrPo.001.004.000000542">Borkheim</persName> persönlich gefiel mir recht gut, auch
+            <seg type="comment"><orig>seine <persName key="pdrPo.001.004.000000541">Frau</persName></orig><note xml:id="e852da3a-f0f7-4667-a3f1-78bde8474d50"><persName key="pdrPo.001.004.000000541">Hannah Borkheim</persName>.</note></seg>, nur wäre es
+          erwünscht, daß ihm begreiflich gemacht würde, daß bei einer so kleinen u. so prononcirten
+          Partei wie die unsrige, jedes Mitglied das <pb/> Interesse u. die Würde der Partei im
+          Ganzen u. besonders ihrer classischen Repräsentanten im Auge haben muß. – </p>
+        <p>Was haben Sie sonst über ihr <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buch</bibl> gehört?</p>
+        <p>Nicht wahr, Sie arbeiten doch an der <seg type="comment"><orig>Fertigmachung des
+              2. Bandes</orig><note xml:id="a05ee3bc-ccbe-445f-883d-9883df32682b">Siehe
+                <?oxy_comment_start author="lindenberg" timestamp="20181018T173909+0200" comment="Erl. 6b."?><ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+              15.1.1866.</ref><?oxy_comment_end?> – Die Manuskripte für eine Fortsetzung des
+              „Kapital“ in einem zweiten und dritten Band, an denen Marx bis zum Ende seines Lebens
+              weiterarbeitete, wurden erst nach seinem Tod von Engels veröffentlicht.
+              <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+              zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3.
+              S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431
+              und II/15. S. 917–926. Siehe auch <ref target="B00185"><?oxy_comment_start author="reichhoff" timestamp="20180531T091816+0200" comment="(Br. 180.33–42"?>Marx
+                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref>. und <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190725T135522+0200" comment="360dd"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ich kann weder Bd. II fertig machen
+              …“ und Erl.</note></seg>?</p>
+        <p><seg type="comment"><orig>Grüßen Sie, bitte, Engels herzlich von mir u. sagen Sie meinen
+              Dank für seine famosen „Recepte“.</orig><note xml:id="f04ab07f-9d96-4816-ae1c-0582213723a0">Zu Engels’ Rezensionen über den ersten
+              Band des „Kapital“ siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180606T122036+0200" comment="(Br. 379.3–7)"?>Engels
+                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191107T095745+0100" comment="379.5–7{379d}."?>Erl.<?oxy_comment_end?> </note></seg>
+          – Hoffentlich giebt er mir nie Gelegenheit ihm dafür von den meinigen zu senden. – Sie
+          haben wohl die Güte ihm das aus meinen Berichten mitzutheilen, was ihn interessirt, wenn
+          ich Veranlassung habe schreibe ich ihm selbst. – Bitte, bitte, <seg type="comment"><orig>bewegen Sie ihn doch, daß er mir, wie versprochen <hi rendition="#uu">sein</hi>
+              <hi rendition="#u"> u.</hi>
+              <persName key="pdrPo.001.004.000005180"><hi rendition="#uu">Lupus</hi></persName>
+              <hi rendition="#u"> Bild schickt</hi>.</orig><note xml:id="ndr1_334_qjb">Siehe <ref target="B00275"><?oxy_comment_start author="reichhoff" timestamp="20180606T122118+0200" comment="(Br. 266.23)"?>Marx
+                an Engels, 3. Juni <?oxy_comment_end?></ref> „Vergiß nur nicht Photogramm ...“, <ref target="B00277"><?oxy_comment_start author="reichhoff" timestamp="20180606T122156+0200" comment="(Br. 268.60–61)"?>Marx
+                an L. Kugelmann, 10.6.1867<?oxy_comment_end?></ref> „Engels läßt ditto ..." und
+              <?oxy_comment_start author="lindenberg" timestamp="20191107T101831+0100" comment="268.60–61{268i}."?>Erl.<?oxy_comment_end?> 
+              – Lupus, d. i. <persName key="pdrPo.001.004.000005180">Wilhelm
+              Wolff</persName>.</note></seg> In meiner verzweiflungsvollen Verlassenheit thut es mir
+          wohl, meine fernen Gesinnungsgenossen wenigstens in effigie bei mir zu haben. –</p>
+        <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004646">Stumpf</persName> läßt
+              Sie um Antwort bitten.</orig><note xml:id="d0c6352f-aefc-4c4e-9b32-f3d87e7ce5cb"><persName key="pdrPo.001.004.000004646">Paul Stumpf</persName> hatte an Marx am 29.
+              September 1867 geschrieben (<ref target="B00364">P. Stumpf an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180606T122254+0200" comment="(Br. 355)"?>29.9.1867<?oxy_comment_end?></ref>).</note></seg>
+          Betreff des <persName key="pdrPo.001.004.000000542">Borkh</persName>. Buches ist er
+          instruirt u. wird mir sobald etwas auftaucht Nachricht geben. –</p>
+        <p>Ich lege noch einen <seg type="comment"><orig>Separat-Abdr.</orig><note xml:id="ddd51f6e-628c-4782-9427-829dea804f9c">Aus der „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ vom 30. Oktober 1867.</note></seg> für unsern
+          braven <persName key="pdrPo.001.004.000001296">Eccarius</persName> bei, den ich herzlich
+          zu grüßen bitte. –</p>
+        <p>Wie immer</p>
+        <closer>Der Ihrige<lb/>LKugelmann<lb/>Dr <pb/></closer>
+      </div>
+    </body>
+  </text>
+</TEI>

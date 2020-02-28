@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">The Prussian Bank Question</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+                </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-09-04</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich:] The Prussian Bank Question. In: Northern Star. Vol. X. Nr. 451, 4. Juli 1846. S. 5.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">The Prussian Bank Question.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication" when="1846-07-04"/>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X</biblScope>
+                        <biblScope unit="issue">451</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                        <biblScope unit="column">2</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <date notBefore="1846-06-21" notAfter="1846-06-30"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <p><hi rendition="#smaller">Again, rumours are rife in</hi></p>
+            </div>
+            <div>
+                <head><hi rendition="#smaller"><hi rendition="#c"><hi rendition="#k">Germany,</hi></hi></hi></head>
+                <p><hi rendition="#smaller">that the long projected Prussian Constitution is at last framed, and will be
+                    immediately published. For ourselves, we will believe when we see. The King of
+                    Prussia is such a liar that none but asses would repose faith in his most solemn
+                    promises. One thing is certain that, if a Constitution is granted, it will be so
+                    worthless as to be utterly inadequate to satisfy the popular demands. From our
+                    “German correspondent” we have received the following brief but interesting
+                    communication which exhibits his Prussian kingship in a new but not very
+                    respectable character. He is about to turn swindler on a large scale. He will
+                    borrow, and then “repudiate”. We believe a favourite song of his is: —</hi></p>
+                <lg type="poem">
+                    <l><hi rendition="#smaller">Yankee Doodle borrows cash,</hi></l>
+                    <lb/>
+                    <l><hi rendition="#smaller">Yankee Doodle spends it,</hi></l>
+                    <lb/>
+                    <l><hi rendition="#smaller">And then he snaps his fingers at</hi></l>
+                    <lb/>
+                    <l><hi rendition="#smaller">The jolly flat who lends it.</hi></l>
+                    <lb/>
+                </lg>
+                <lb/>
+                <p><hi rendition="#smaller">Much, however, might be said for the Yankees which will not apply to the Royal
+                    Pietist of Prussia. Perhaps he will quiet his conscience with the moral
+                    reflection: —</hi></p>
+                <lg type="poem">
+                    <l><hi rendition="#smaller">If humbgg’d thus the jobbers choose to be,</hi></l>
+                    <lb/>
+                    <l><hi rendition="#smaller">Why let them, since it brings the chink to me,</hi></l>
+                    <lb/>
+                    <l><hi rendition="#smaller">There’s non so blind as those who will not see.</hi></l>
+                    <lb/>
+                </lg>
+                <lb/>
+                <p><hi rendition="#smaller">Here follows the letter from our correspondent: —</hi></p>
+            </div>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">The Prussian Bank
+                    Question.</hi></hi></head>
+                <p>You will probably have already heard that the King of Prussia’s plan of making
+                    money out of paper has been found impracticable. Two of the administrators of
+                    the State Debts refused to sign the new bank notes, as they considered them to
+                    be a new public debt, therefore subject to the guarantee of the States-General.
+                    Frederick William IV., to show that he can make as much money as he likes,
+                    has now hit upon a far better plan. <choice>
+                        <sic>In stead</sic>
+                        <corr cert="high">Instead</corr>
+                    </choice> of making ten millions, he makes thirty — twenty millions of
+                    paper-money and ten of good, solid gold and silver coin. He proposes that ten
+                    millions of capital be raised by shares, “which shares it appears shall bring no
+                    dividends but merely 3½ per cent. interest and which shall not be transferable
+                    unless at the owner’s death, in order to keep them out of the reach of
+                    speculation”!!! Now would you call such things <hi rendition="#i">shares</hi>?
+                    Why not? His Majesty of Prussia decrees that they <hi rendition="#i">are</hi>
+                    shares, and fosters the fond hope that he will find a lot of capitalists stupid
+                    enough to invest ten millions of dollars in such not transferable, leaden,
+                    three-and-a-half Bank Stock! And that at a time, too, when by speculating in
+                    railway shares they can make quite another per centage. When the King will have
+                    found the parcel of fools he is in want of, and thus borrowed ten millions in
+                        <hi rendition="#i">coin</hi>, he will issue <hi rendition="#i">twenty</hi>
+                    millions in banknotes, making “a sum total of thirty <choice>
+                        <sic>millions</sic>
+                        <corr cert="high">millions”</corr>
+                    </choice>, increasing the national liabilities. Really this is raising the wind
+                    with a vengeance. Raising thirty millions, because one can’t get ten, the King
+                    of Prussia bids fair to turn a Yankee Swindler. We cannot but heartily applaud
+                    such honest intentions in high quarters.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00226" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>217a</idno>Karl Marx an die Redaktion der „Zeitung für Norddeutschland“
+                    in Hannover. London, Montag, 18. Februar 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 336/C 95</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <?oxy_comment_start author="lindenberg" timestamp="20180508T105335+0200" comment="Die Bemerkungen zur Handschriftenbeschreibung sind von mir verändert worden. Auch der Hinweis auf die Erstveröffentlichung ist nach den Angaben von Svetlana geändert worden.
+Die &quot;Redaktion der &quot;Zeitung für Norddeutschland&quot; ist als Person in das Namenregister aufgenommen, um die Verbindung mit dem Empfänger in den Briefmetadaten herstellen zu können."?>
+                        <p><?oxy_comment_end?>Der Standort des Originals ist zur Zeit nicht bekannt.
+                            Die Veröffentlichung erfolgt nach einer Abschrift von Kugelmanns Hand
+                            auf der
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>dritten<?oxy_custom_end?>
+                            Seite des Briefes von Marx an Kugelmann vom 18. Februar 1867: IISG,
+                            Marx-Engels-Nachlass, Sign. C 336/C 95 (siehe den Link in den
+                            „Anmerkungen zum Brief“).
+                            <?oxy_comment_start author="lindenberg" timestamp="20180605T131254+0200" comment="Siehe Br. 218 und S. 000 [Br. 218 TG]."?><?oxy_comment_end?>Die
+                            Abschrift, mit schwarzer Tinte geschrieben, beginnt am oberen Blattrand
+                            und ist mit „Copie“ (unterstrichen) von Kugelmann überschrieben. Es
+                            folgt der unten stehende Text, dann die Abschrift der Berichtigung
+                            (MEGA² I/20. S. 248, siehe Erl.). </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2018</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: in russischer Übersetzung:</bibl> Письма
+                        Маркса к Кугельману (1928). S.
+                        21.<?oxy_comment_start author="lindenberg" timestamp="20180619T171710+0200" comment="Läßt sich nicht mit Zotero verlinken. 
+Beim Erstellen der Position &quot;Überlieferung Druck ...&quot; über das Metadatenmenü erfolgt nicht die gleiche Darstellung wie bei den anderen Briefen (D: fehlt) -- habe in diesem Fall durch copy&amp;paste die Befehle &lt;bibl&gt; &lt;/bibl&gt; aus einen anderen Brief genommen."?></witness>
+                    <?oxy_comment_end?>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-3HYLPUNG">in der Sprache des
+                            Originals: Briefe an Kugelmann (1940). S. 34.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-02-18"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qt1_shh_tdb">Redaktion der "Zeitung für Norddeutschland",
+                        (-)</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                </correspAction>
+                <note>Die Datierung des Begleitbriefes stützt sich auf seinen Zusammenhang mit dem
+                    Brief von <ref target="B00227">Marx an L. Kugelmann,18.2.1867</ref> und Erl.
+                    Über die Beilage siehe
+                    ebenda.<?oxy_comment_start author="lindenberg" timestamp="20180508T132640+0200" comment="Brief von Marx an Kugelmann vom 18. Februar 1867 (Br. 218)
+Br. 218"?></note>
+                <?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_mts_42y_g1b">Journalismus</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:54Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <closer>Ich ersuche <expan>d<ex>ie</ex></expan>
+                    <expan>löbl<ex>iche</ex></expan>
+                    <expan>Redact<ex>ion</ex></expan> der
+                    „Ztg f. Norddtschl<ex>and</ex>“ <seg type="comment"><orig>um <ex>Au</ex>fnahme
+                            folgender Berichtigung.</orig><note xml:id="f6d5d7d9-b0b8-4cdc-af09-c3052ab9e436"><bibl sameAs="zotero-604880-J7FQYTLM">Karl Marx:
+                                Berichtigung. An die Redaktion der „Zeitung für
+                                Norddeutschland“</bibl> (MEGA² I/20. S. 248). Siehe <ref target="B00225">L. Kugelmann an Marx , 15.2.1867</ref> („eine Sie
+                            betreffende blödsinnige Notiz, die ich Ihnen beilege ...“)<?oxy_comment_start author="lindenberg" timestamp="20180508T143334+0200" comment="217.3–5"?>,<?oxy_comment_end?>
+                            <ref target="B00227">Marx an L. Kugelmann, 18.2.1867</ref> („Wollen Sie
+                            zusehn, ob Sie die folgende Erwiederung ...“) und Erl.<?oxy_comment_start author="lindenberg" timestamp="20180508T143402+0200" comment="218.3–5"?>
+                            <?oxy_comment_end?></note></seg></closer>
+                <closer><expan>
+                        <lb/>Hochacht<ex>u</ex>ngsvoll</expan><lb/>Karl Marx</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

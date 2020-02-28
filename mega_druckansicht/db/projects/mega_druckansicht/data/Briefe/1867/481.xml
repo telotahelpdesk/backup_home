@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00490" xml:lang="de">
+                            <teiHeader>
+                                                  <fileDesc>
+                                                  <titleStmt>
+                                                  <title><idno>481</idno>Karl Marx an Friedrich
+                                                  Engels in Manchester. London, Dienstag, 17.
+                                                  Dezember 1867</title>
+                                                  </titleStmt>
+                                                  <publicationStmt>
+                                                  <p>unknown</p>
+                                                  </publicationStmt>
+                                                  <sourceDesc>
+                                                  <msDesc>
+                                                  <msIdentifier>
+                                                  <institution>IISG</institution>
+                                                  <collection>Marx-Engels-Nachlass</collection>
+                                                  <idno><idno type="shelfmark">L 4511/L VI
+                                                  643</idno></idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>Der Brief besteht aus einem Bogen
+                                                  mittelstarkem, weißem Papier im Format
+                                                  222 × 180 mm. Prägung: Schild mit einer Krone. Die
+                                                  erste Seite hat Marx vollständig beschrieben, die
+                                                  übrigen drei Seiten sind leer. Schreibmaterial:
+                                                  schwarze Tinte.</p>
+                                                  <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung
+                                                  des Briefes: „70“.</p>
+                                                  <p>Von unbekannter Hand: auf der vierten Seite am
+                                                  linken Rand quer mit Bleistift der Vermerk:
+                                                  „<persName key="ed_hv3_fmc_fhb">Chmoulevitch</persName>“ (siehe Marx an Engels
+                                                  6.1.1868).</p>
+                                                  <p/>
+                                                  </physDesc>
+                                                  <additional>
+                                                  <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2144</bibl>
+                                                  </listBibl>
+                                                  </additional>
+                                                  </msDesc>
+                                                                        <listWit>
+                                                                                              <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                                  Bw 3 (1913).<?oxy_custom_end?>
+                                                  S. 440/441.</bibl></witness>
+                                                                        </listWit></sourceDesc>
+                                                  
+                                                  </fileDesc>
+                                                  <profileDesc>
+                                                  <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                                  <placeName>London</placeName>
+                                                  <date when="1867-12-17"/>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName key="ed_eyg_crj_sx">Friedrich
+                                                  Engels</persName>
+                                                  <placeName>Manchester</placeName>
+                                                  </correspAction>
+                                                  <correspContext>
+                                                  <ref type="prev" target="B00487"/>
+                                                  <ref type="next" target="B00493"/>
+                                                  </correspContext>
+                                                  <note>Marx beantwortet Engels’ Brief vom 16.
+                                                  Dezember 1867 (siehe <ref target="B00487"><?oxy_comment_start author="reichhoff" timestamp="20190221T125008+0100" comment="Br. 478"?>Engels
+                                                  an Marx, 16.12.1867<?oxy_comment_end?></ref>).
+                                                  Engels antwortete am 19. Dezember 1867 (siehe <ref target="B00493"><?oxy_comment_start author="lindenberg" timestamp="20190306T155538+0100" comment="Br. 484"?>Engels
+                                                  an Marx,
+                                                  19.12.1867</ref><?oxy_comment_end?>).</note>
+                                                  <note>Zur Beilage („Einliegend Wilhelm zurück.“)
+                                                  zum Brief siehe Erl. </note>
+                                                  </correspDesc>
+                                                  </profileDesc>
+                                                  <revisionDesc>
+                                                  <listChange>
+                                                  <change><date>2018-03-14T09:48:22Z</date> |
+                                                  <name>Sascha Grabsch</name> |
+                                                  <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                                  2.15.0</change>
+                                                  <change><date>2018-03-14T15:35:05+01:00</date> |
+                                                  <name>Sascha Grabsch</name> |
+                                                  <orgName>Telota</orgName> | convert_tei_file.py |
+                                                  0.85</change>
+                                                  </listChange>
+                                                  </revisionDesc>
+                            </teiHeader>
+                            <text>
+                                                  <body>
+                                                  <div type="writingSession">
+                                                  <opener>
+                                                  <dateline><pb/> London. 17
+                                                  Dec. 1867.</dateline>
+                                                  <salute>Lieber Fred,</salute>
+                                                  </opener>
+                                                  <p><seg type="comment"><orig>Einliegend <persName key="pdrPo.001.004.000002822">Wilhelm</persName>
+                                                  zurück.</orig><note xml:id="nnd1_1xc_kgb"><ref target="B00480"><?oxy_comment_start author="reichhoff" timestamp="20180614T173732+0200" comment="(Br. 471)"?>W.
+                                                  Liebknecht an Engels,
+                                                  11.12.1867<?oxy_comment_end?></ref>.</note></seg>
+                                                  In der Antwort mußt Du vorsichtig sein. Die
+                                                  Position ist schwierig. Um ganz correkt zu
+                                                  handeln, wäre viel mehr kritisches Wesen u.
+                                                  dialektische <expan>Gewand<ex>t</ex>heit</expan>
+                                                  nöthig als unser Wilhelm besizt. Man kann ihn nur
+                                                  von groben Böcken abhalten. Im Uebrigen ist die
+                                                  Preussenfeindseeligkeit das Pathos, dem er allein
+                                                  verve u. singleness of purpose verdankt. Er hat
+                                                  richtig herausgewittert, daß die wirkliche
+                                                  Bourgeoisie den Kern der <seg type="comment"><orig>„Nationalliberalen“</orig><note xml:id="njbc_qpd_kgb">Siehe <ref target="B00265"><?oxy_comment_start author="lindenberg" timestamp="20200109T145926+0100" comment="256j
+{Die Nationalliberale Partei (M.–E. 7.05.1867)}"?>Erl. zu
+                                                  Marx an Engels, 7.5.1867<?oxy_comment_end?></ref>
+                                                  „die National-Liberalen“. </note></seg> bildet,
+                                                  was ihm Gelegenheit giebt seiner politischen
+                                                  Antipathie die höhere ökonomische Weihe zu geben.
+                                                  <seg type="comment"><orig>Ira facit
+                                                  poetam</orig><note xml:id="norr_zyc_kgb">Der Zorn
+                                                  macht den Poeten – Frei nach Decimus Iunius
+                                                  Iuvenalis: Satirae I, 79: Si natura negat, facit
+                                                  indignatio versum. – Wenn das Talent versagt, so
+                                                  schmiedet Entrüstung die Verse.</note></seg> u.
+                                                  macht auch unser Wilhelmchen schlau to a certain
+                                                  point.</p>
+                                                  <p>Der hiesige Correspondent des „<hi rendition="#u"><bibl sameAs="ed_m2f_lck_tgb" type="periodika">Irishman</bibl></hi>“ will, wenn
+                                                  Du es englisch schreibst, eine <add place="superlinear">etwa Spaltenlange</add> Kritik
+                                                  <seg type="comment"><orig>des <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buchs</bibl></orig><note xml:id="noby_nzc_kgb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx.
+                                                  Das Kapital. Bd. 1. Buch 1. Hamburg
+                                                  1867</bibl>.</note></seg> (wobei aber Irland die
+                                                  eigentliche Rolle spielen müßte) als von sich
+                                                  ausgehend <add place="superlinear">in
+                                                  Correspondenzform</add> in jenes Dubliner Blatt
+                                                  bringen. Ich schicke Dir ein paar Nummern des
+                                                  Blattes u. Du wirst sehn, was zu thun ist.</p>
+                                                  <p><seg type="comment"><orig>Die „<hi rendition="#u"><bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl></hi>“ besizt
+                                                  Talent in Druckfehlern</orig><note xml:id="njlp_kpd_kgb">[Karl Marx:] Plagiarismus …
+                                                  Siehe <ref target="B00472"><?oxy_comment_start author="reichhoff" timestamp="20180614T173957+0200" comment="(Br. 463.76–90)"?>Marx
+                                                  an Engels, 7.12.1867<?oxy_comment_end?></ref> „Ich
+                                                  habe (dieß blos unter uns) ...“ und Erl. Die
+                                                  Debatten während der Generalversammlung des ADAV,
+                                                  die am 24. November 1867 stattfand, wurden im
+                                                  „Sozial-Demokrat“ vom 29. November veröffentlicht,
+                                                  nicht vom 22. September, wie die „Zukunft“ angab;
+                                                  statt „da er“ und „legale“ wurde in der Zeitung
+                                                  „daher“ und „loyale“ gedruckt. (MEGA<hi rendition="#sup">2</hi> I/21. S. 1275. Korrektur
+                                                  34.19 und 37.15.)</note></seg>, die um so
+                                                  befremdlicher, da <persName key="ed_vtr_13k_bdb">Dr. Guido Weiß</persName> doch im Besitz des
+                                                  Originals.</p>
+                                                  <p>Ich habe einen
+                                                  kleinen, aber unendlich lästigen Karbunkel am
+                                                  linken Hintern.</p>
+                                                  <p><seg type="comment"><orig>Und wenn er keinen Hintern hat,</orig><note xml:id="ncrx_zpd_kgb">
+                                                  <p>
+                                                  <note>
+                                                  <p>Abgewandeltes Zitat aus <persName key="pdrPo.001.004.000001818">Goethe</persName>s
+                                                  Gedicht „Totalität“ („Und wenn er keinen Hintern
+                                                  hat, / Wie mag der Edle sitzen?“).</p>
+                                                  </note>
+                                                  </p>
+                                                  </note></seg></p>
+                                                  <p>Wie soll der Edle
+                                                  sitzen?</p>
+                                                  <p>Ich habe gestern <subst>
+                                                  <del rendition="#ow">im</del>
+                                                  <add place="across">in</add>
+                                                  </subst>
+                                                  <add place="superlinear">unsrem</add> deutschen
+                                                  <orgName key="ed_fgm_42g_zgb">Arbeiterverein</orgName> (aber noch 3 andre <add place="superlinear">dtsche</add> Arbeitervereine
+                                                  waren vertreten, im Ganzen about 100 Mann) <seg type="comment"><orig>einen 1½-stündigen Vortrag
+                                                  über Irland</orig><note xml:id="nbrw_4qd_kgb">Am
+                                                  16. Dezember 1867 hielt Marx im <orgName key="ed_fgm_42g_zgb">Deutschen
+                                                  Arbeiterbildungsverein</orgName> London (siehe
+                                                  <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180614T174251+0200" comment="Br. 272"?>Marx
+                                                  an Engels, 22.6.1867<?oxy_comment_end?></ref> „Der
+                                                  Arbeiterverein ... und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20200109T162313+0100" comment="272w"?>Erl<?oxy_comment_end?>.)
+                                                  einen Vortrag zur irischen Frage: Karl Marx:
+                                                  Entwurf eines Vortrags über den Fenianismus.
+                                                  (MEGA<hi rendition="#sup">2</hi> I/21. S. 22–32
+                                                  und 1261–1263.) Siehe auch <ref target="B00461"><?oxy_comment_start author="reichhoff" timestamp="20180614T174338+0200" comment="(Br. 451.73–80)"?>Marx
+                                                  an Engels, 30.11.1867<?oxy_comment_end?></ref>
+                                                  „Ehe ich meine Ansichten ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20200109T162920+0100" comment="{451v.}"?>Erl<?oxy_comment_end?>.
+                                                  – Von <persName key="pdrPo.001.004.000001296">Johann Georg Eccarius</persName> sind
+                                                  Aufzeichnungen über Marx’ Vortrag erhalten, die
+                                                  zur Veröffentlichung in <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                                  Becker</persName>s „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“ vorgesehen
+                                                  waren. Siehe Johann Georg Eccarius: Bericht über
+                                                  Karl Marx’ Vortrag zur irischen Frage im Londoner
+                                                  Arbeiterbildungsverein am 16. Dezember 1867. In:
+                                                  MEGA<hi rendition="#sup">2</hi> I/21. S. 697/698.
+                                                  Eccarius’ Bericht war aber bei Becker nicht
+                                                  eingetroffen. (Siehe Johann Philipp Becker an
+                                                  Marx, 10. Januar 1868; RGASPI, Sign. f. 1, op. 5,
+                                                  d. 1804.) Siehe dazu auch MEGA<hi rendition="#sup">2</hi> I/21. S. 1973.</note></seg> gehalten, da
+                                                  „Stehn“ jezt für mich die leichteste
+                                                  Haltungsart.</p>
+                                                  <p>Salut</p>
+                                                  <closer>D<lb/>KM.
+                                                  </closer>
+                                                  </div>
+                                                  </body>
+                            </text>
+</TEI>

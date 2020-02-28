@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00337" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>328</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 31. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4487/L VI 620</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 230 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Die erste Seite hat Marx vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: auf der ersten
+                            Seite oben rechts mit Bleistift Nummerierung des Briefes: „26“.</p><p/><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2070</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913).<?oxy_custom_end?> S. 400.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930)<?oxy_custom_end?>. S. 414/415.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-08-31"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00331"/>
+                    <ref type="prev" target="B00333"/>
+                    <ref type="next" target="B00338"/>
+                    <ref type="next" target="B00339"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Briefe vom 26. und 27. August 1867 (siehe <ref target="B00331"><?oxy_comment_start author="lindenberg" timestamp="20190219T145330+0100" comment="Br. 322"?>Engels
+                        an Marx, 26.8.1867</ref><?oxy_comment_end?> und <ref target="B00333"><?oxy_comment_start author="lindenberg" timestamp="20190219T145358+0100" comment="324"?>27.8.1867</ref><?oxy_comment_end?>).
+                    Engels antwortete Marx am 1. und 2. September 1867 (siehe <ref target="B00338"><?oxy_comment_start author="lindenberg" timestamp="20190219T145419+0100" comment="Br. 329"?>Engels
+                        an Marx, 1.9.1867</ref><?oxy_comment_end?> und <ref target="B00339"><?oxy_comment_start author="lindenberg" timestamp="20190219T145440+0100" comment="330"?>2.9.1867</ref><?oxy_comment_end?>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:36Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 31 Aug. 1867.</dateline>
+                    <salute>Lieber Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Deine beiden Briefe mit dem
+                            Calkul erhalten.</orig><note xml:id="e3cdf329-4695-48a2-ac88-07c55fb9599d">Siehe <ref target="B00333"><?oxy_comment_start author="reichhoff" timestamp="20180618T135606+0200" comment="(Br. 324)"?>Engels
+                                an Marx, 27.8.1867<?oxy_comment_end?></ref> „Inl. zwei Aufstellungen
+                            ...“.</note></seg> Thanks.</p>
+                <p>Ich muß bis <subst>
+                        <del rendition="#s">D<ex>ienstag</ex><sic ana="#break-off"/></del>
+                        <add place="intralinear">nächsten Dienstag</add>
+                    </subst>  (3 Sept.) 4 £ unter 2 Scheißepiciers zahlen, beiden blossen Abschlag.
+                    Ich finde, daß die Kerle dieses Jahr zudringlicher sind wie je.</p>
+                <p><seg type="comment"><orig>Die Kinder kommen
+                            zurück</orig><note xml:id="a810b085-04d0-47c8-b7ed-2ea0a4b2e6e7">Marx’
+                            Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>,
+                                <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                <persName key="pdrPo.001.004.000003068">Eleanor</persName> besuchten
+                            Bordeaux vom Ende Juli bis etwa 10. September 1867 auf Einladung der
+                            Familie Lafargue. Siehe <ref target="B00300"><?oxy_comment_start author="reichhoff" timestamp="20180618T135705+0200" comment="(Br. 291.4–8)"?>Marx
+                                an Engels, 20.<?oxy_comment_end?>7.1867</ref>, <ref target="B00311"><?oxy_comment_start author="reichhoff" timestamp="20180618T135742+0200" comment="(Br. 302)"?>J.
+                                Marx (Tochter) an Marx, Ende Juli<?oxy_comment_end?> 1867</ref>,
+                                <ref target="B00329"><?oxy_comment_start author="reichhoff" timestamp="20180618T135820+0200" comment="(Br. 320.38)"?>Engels
+                                an Marx, 23.8.1867<?oxy_comment_end?></ref>, <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180618T135854+0200" comment="(Br. 321.59)"?>Marx
+                                an Engels, 24.8.1867<?oxy_comment_end?></ref> und <ref target="B00297"><?oxy_comment_start author="reichhoff" timestamp="20180912T100406+0200" comment="Erl. 288j"?>Marx
+                                an L. Kugelmann, 13.7.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190614T113239+0200" comment=" 288j."?>Erl.<?oxy_comment_end?></note></seg>
+                    <seg type="comment"><orig>Sonntag (Morgen) über 8 Tag</orig><note xml:id="b15e9b82-4f13-431e-85f4-201cd0e2e397">8. September
+                        1867.</note></seg>. Ich wünschte, sie wären noch länger weggeblieben. Drüben
+                    amüsirten sie sich. Aber <persName key="pdrPo.001.004.000002648">Lafargue</persName> muß zurück zu seiner Schule. (Er ennuyirt sich immer,
+                    wenn ich ihn frage: N’allez-vous pas à votre école?)</p>
+                <p>Für den <seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Congress
+                            von Lausanne
+                            (Intern.)<?oxy_custom_end?></orig><?oxy_comment_start author="lindenberg" timestamp="20190206T162844+0100" comment="noch Erl. -- in welchen Briefen wird der Kongress noch thematisiert"?><note xml:id="f06088e3-f690-4c91-9e15-fd9d71475077"><?oxy_comment_end?>
+                            Entsprechend dem Beschluß des Genfer Kongresses der IAA
+                            <?oxy_comment_start author="lindenberg" timestamp="20181114T173507+0100" comment="(siehe Erl. 11b und 168d)"?>tagte<?oxy_comment_end?>
+                            der Lausanner Kongreß, der zweite Kongreß der IAA, vom 2. bis
+                            8. September 1867. Anwesend waren 64 Delegierte aus England, Frankreich,
+                            Deutschland, der Schweiz, Belgien und Italien (siehe <ref target="B00341"><?oxy_comment_start author="reichhoff" timestamp="20180525T122145+0200" comment="Br. 332"?>F.
+                                Leßner an Marx, 4. u. 5.9.1867<?oxy_comment_end?></ref> und
+                            Erläuterungen). Marx, der seit dem Frühjahr 1867 mit der Korrektur des
+                            ersten Bandes des „Kapital“ beschäftigt war, nahm am Kongreß nicht teil.
+                            Er gab jedoch Hinweise und schlug u.a. vor, die Tagesordnung auf zwei
+                            Punkte zu beschränken, die die Diskussion auf die praktischen
+                            organisatorischen Aufgaben der IAA orientieren (siehe <ref target="B00280"><?oxy_comment_start author="reichhoff" timestamp="20180912T100613+0200" comment="Erl. 271a"?>R.
+                                Shaw an Marx, 19. Juni 1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190614T115155+0200" comment="271a"?>Erl.<?oxy_comment_end?>).
+                            Aus Deutschland waren die Sektionen Köln und Solingen (durch <persName key="pdrPo.001.004.000002522">Carl Wilhelm Klein</persName>), Mainz
+                            (durch <persName key="pdrPo.001.004.000004646">Paul Stumpf</persName>)
+                            und Magdeburg (durch das in der Schweiz lebende Mitglied der IAA
+                                <persName key="pdrPo.001.004.000002644">August Ladendorf</persName>)
+                            vertreten. Außerdem waren <persName key="pdrPo.001.004.000002616">Ludwig
+                                Kugelmann</persName> aus Hannover, <persName key="pdrPo.001.004.000000656">Ludwig Büchner</persName> aus
+                            Darmstadt und <persName key="pdrPo.001.004.000002686">Friedrich Albert
+                                Lange</persName> aus Duisburg anwesend. Auf dem Kongreß wurde der
+                            Bericht des Generalrats und die Berichte aus den einzelnen Ländern
+                            verlesen. (Siehe Rapport du Conseil Général de l’Association
+                            Internationale des Travailleurs au Congrès de Lausanne (1867). In:
+                                MEGA<hi rendition="#sup">2</hi> I/20. S. 771–787 sowie<ref target="B00341"><?oxy_comment_start author="reichhoff" timestamp="20180912T100812+0200" comment="Erl. 332b"?>
+                                F. Leßner an Marx, 4. und 5.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190614T115628+0200" comment="332b"?>Erl.<?oxy_comment_end?>)
+                            <?oxy_comment_start author="lindenberg" timestamp="20190206T162613+0100" comment="erstmal herausgenommen:
+Obwohl auf Verlangen der zahlenmäßig überwiegenden französischen und Schweizer Delegierten die vom Generalrat festgelegte Tagesordnung durchbrochen wurde (siehe Erl. 332c) und viele Delegierte proudhonistische Ideen in die Diskussionen einbrachten, gelang es den Proudhonisten nicht, die Führung der IAA zu übernehmen. Der Generalrat wurde in der alten Zusammensetzung wiedergewählt und London als sein Sitz beibehalten (siehe F. Leßner an Marx, 5. bis 7.9.1867 Erl. 333d). Der auf dem Kongreß gefaßte Beschluß über die Notwendigkeit des politischen Kampfes war eine Niederlage für die Proudhonisten. Während der Beratung über die Genossenschaftsfrage kam es zu einer Diskussion über das gesellschaftliche Eigentum an Grund und Boden (siehe F. Leßner an Marx, 5. bis 7.9.1867 Erl. 333a, 333h und V. Schily an Marx, 25.9.1867 352n), die zeigte, daß es unter den Mitgliedern der IAA bereits eine bedeutende Gruppe von Anhängern sozialistischer Anschauungen gab. Dazu gehörten auch die deutschen Delegierten, von denen Paul Stumpf in der Diskussion die sozialistischen Auffassungen verteidigte. "?>Siehe<?oxy_comment_end?>
+                            Procès-Verbaux du Congrès de l’Association Internationale des
+                            Travailleurs réuni à Lausanne ... Chaux-de-Fonds 1867.– Dokumentiert in:
+                            La Première Internationale. Recueil de documents ... Bd. 1. S. 111–158,
+                            sowie Les Rapports lus au Congrès de Lausanne. S. 159–236; [Johann
+                            Philipp Becker:] Kongreß der Internationalen Arbeiterassociation in
+                            Lausanne. In: Der Vorbote. Genf. Jg. 2. Nr. 9, September 1867.
+                            S. 137–143; Nr. 10, Oktober 1867. S. 153–155; Nr. 11, November 1867.
+                            S. 169–171; Nr. 12, Dezember 1867. S. 182–189; Jg. 3. Nr. 1, Januar
+                            1868. S. 7–11; Nr. 2, Februar 1868. S. 17–23; Nr. 3, März 1868.
+                            S. 38–43; Nr. 4, April 1868. S. 53–61; Nr. 5, Mai 1868. S. 73–76;
+                            Wilhelm Eichhoff: Die Internationale Arbeiterassoziation … S. 26–29
+                                (MEGA<hi rendition="#sup">2</hi> I/21. S. 964–966); Die Erste
+                            Internationale. Tl. 1. 1864–1870. Moskau 1981. S. 143–159.</note></seg>
+                    von hier: <persName key="pdrPo.001.004.000001296">Eccarius</persName>, <persName key="ed_l54_cks_xy">Lessner</persName>, <persName key="pdrPo.001.004.000001279">Dupont</persName>. Ausserdem <seg type="comment"><orig><persName key="ed_ffj_p2w_jgb">der Präsident der
+                                Coventry Ribbon weavers</persName></orig><note xml:id="d80f1eb7-3e72-4e7f-b247-b250bad942ae"><persName key="ed_ffj_p2w_jgb">Daniel Swann</persName>.</note></seg> u.
+                        <persName key="pdrPo.001.004.000005014">A. Walton</persName>, Esq. (v.
+                    Wales). Eccarius hat die Correspondenz über den Congress für die <hi rendition="#u">Times</hi> – nach Anfrage bei letzterer – richtig
+                    erhalten.</p>
+                <p><seg type="comment"><orig>Nach allen Nachrichten aus
+                            Paris sieht es sehr wacklig dort mit dem <persName key="pdrPo.001.004.000003392">Bonaparte</persName>.</orig><note xml:id="acbfd127-7af2-4c1f-bdb5-3258169df6a4">Siehe <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180525T122709+0200" comment="(Br. 330.6–16)."?>Engels
+                                an Marx, 2.9.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <closer>Salut<lb/>D<lb/>KM </closer>
+            </div></body></text></TEI>

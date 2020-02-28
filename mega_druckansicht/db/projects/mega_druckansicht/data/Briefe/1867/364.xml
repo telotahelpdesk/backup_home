@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00375" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>364</idno>Johann Philipp Becker an Jenny Marx in
+                                        London. Genf, Montag, 7. Oktober 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 185 op. 1 d. 28
+                                                  </idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  blauem kariertem Papier im Format 272 × 213 mm.
+                                                  Alle vier Seiten hat Becker vollständig
+                                                  beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Archivsignatur des Moskauer
+                                                  Marx-Engels-Instituts (IMĖ):
+                                                  „Rj 7&lt;a–d&gt;“.</p>
+                                                <p/>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-RQ96LE52">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Hecker,
+                                                  Limmroth (Hrsg.): Jenny Marx. Die Briefe
+                                                  (2014)<?oxy_custom_end?>.
+                                                S. 409–411.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000000317">Johann Philipp
+                                                Becker</persName>
+                                        <placeName key="ed_p3t_jpj_wx">Genf</placeName>
+                                        <date when="1867-10-07"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="pdrPo.001.004.000003075">Jenny
+                                                Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                </correspAction>
+                                <correspContext>
+                                        <ref type="prev" target="mega_gns_c55_zfb"/>
+                                </correspContext>
+                                <note>Becker beantwortete Jenny Marx’ Brief vom 5. Oktober 1867
+                                                (<ref target="mega_gns_c55_zfb"><?oxy_comment_start author="lindenberg" timestamp="20190219T154320+0100" comment="Br. 363"?>J.
+                                                Marx an J. Ph. Becker,
+                                                5.10.1867<?oxy_comment_end?></ref>).</note>
+                                <note>Marx legte diesen Brief seinem Brief an Engels vom 19. Oktober
+                                        1867 (siehe <ref target="B00405"><?oxy_comment_start author="lindenberg" timestamp="20190219T154528+0100" comment="Br. 395.83–84"?>Marx
+                                                an Engels, 19.10.1867<?oxy_comment_end?></ref>)
+                                        bei.</note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:47:02Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Genf den 7 October
+                                                1867</dateline>
+                                        <salute>Werthe Freundin!</salute>
+                                </opener>
+                                <p>Ich bin Ihnen sehr dankbar <seg type="comment"><orig>für Ihre
+                                                  lebhafte Korrespondenz</orig><note xml:id="fb729a1e-3932-4e5e-ad9d-be9c88fbb73e">Siehe <ref target="B00371"><?oxy_comment_start author="reichhoff" timestamp="20180530T100516+0200" comment="(Br. 361a)"?>J.
+                                                  Marx an J. Ph. Becker, vor dem
+                                                  5.<?oxy_comment_end?>10.1867</ref> und <ref target="mega_gns_c55_zfb"><?oxy_comment_start author="lindenberg" timestamp="20190722T161819+0200" comment="(Br. 363)"?>J.
+                                                  Marx an J. Ph. Becker, nicht später als
+                                                  5.10.1867<?oxy_comment_end?></ref>.</note></seg>,
+                                        die ohne telegraphisch zu sein, doch elektrisch wirkt &amp;
+                                        mich durch’s Feuer jagt. <seg type="comment"><orig>Die
+                                                  Adresse <persName key="pdrPo.001.004.000000231">Bakunin</persName>’s</orig><note xml:id="ccee43bb-085e-4d4e-a0ae-51a3e1fff145">Siehe <ref target="mega_gns_c55_zfb"><?oxy_comment_start author="lindenberg" timestamp="20190722T161819+0200" comment="Br. 363.4–6"?>J.
+                                                  Marx an J. Ph. Becker, nicht später als
+                                                  5.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        habe ich eben aufgetrieben; das Löwenhaupt wohnt rue <choice>
+                                                <sic>Bradier</sic>
+                                                <corr cert="high">Pradier</corr>
+                                        </choice> N<hi rendition="#sup">o</hi> 3 à Genève.</p>
+                                <p><seg type="comment"><orig>Das Buch unseres Freundes</orig><note xml:id="e0631509-fdae-4ead-8e4e-f971f68a0459"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx:
+                                                  Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl>
+                                                  Becker wurde das Exemplar direkt vom Verlag
+                                                  zugesandt.</note></seg> habe ich dieser Tage
+                                        erhalten – für mich ein Heiligthum &amp; für die Welt ein
+                                        Schatz. Leider hat mir der Strudel von
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190218T185758+0100" comment="eigenlich Plakereigeschaften, aber siehe Vateländer, dort auch mit ä wiedergegeben - oder auch Schreppköpfen, Glückseligkeit "?>Plakereigeschäften<?oxy_comment_end?>
+                                        für die Association kaum Zeit gelassen ernstlich hinein zu
+                                        blicken. Das ist bitter, wenn man voll Lust, ja Sucht, ist,
+                                        es ganz zu verschlingen &amp; sich auch stark genug fühlt es
+                                        zu verdauen. Indessen werde ich <seg type="comment"><orig>Ihren gastronomischen Rath</orig><note xml:id="a71db7bd-eb52-4f5d-be40-b5c94b56d626">Siehe <ref target="B00371"><?oxy_comment_start author="reichhoff" timestamp="20180530T100638+0200" comment="(Br. 361a.21–26)"?>J.
+                                                  Marx, Frau, an J. Ph. Becker, vor
+                                                  5.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        befolgen, die bezeichneten Artikel zuerst einnehmen &amp;
+                                        die übrigen als Nüsse &amp; Mandeln zum Nachtisch knacken –
+                                        &amp; auch in Abwechslung &amp; zur Erfrischung meines
+                                        Humors den Herrn <expan>Bourg<ex>e</ex>ois</expan> an den
+                                        Kopf werfen.</p>
+                                <p>Ueber den Gang <seg type="comment"><orig>des
+                                                  Friedenskongresses</orig><note xml:id="b2bbff46-74e0-42e1-84e6-e362332a7d0f"> Zum
+                                                  Friedenskongreß in Genf siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190722T165953+0200" comment="304h"?>Erl. zu
+                                                  S. L. Borkheim an Marx,
+                                                  5.8.1867<?oxy_comment_end?></ref>. </note></seg>
+                                        war ich innerlich ganz entzückt, so zürnerisch ich auch
+                                        äusserlich darüber that &amp; thue. <pb/> Die internationale
+                                                <seg type="comment"><orig>Friedensliga</orig><note xml:id="c180730e-58ee-46b6-8acb-d355449f1352">Zur
+                                                  Friedens- und Freiheitsliga (Ligue internationale
+                                                  de la paix et de la liberté) siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190722T171108+0200" comment="304g"?>Erl.
+                                                  zu S. L. Borkheim an Marx,
+                                                  5.8.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        ist das beste Mittel, um den alten politischen Parteien von
+                                        schleichender zu galopirender Schwindsucht &amp; stillem
+                                        Grabe zu verhelfen, freies Feld für gesunde Entwicklung zu
+                                        erhalten. Also vorwärts Herrn demokratische Weltbürger!
+                                        lasst noch einmal auflodern euer letztes Lebensflämmchen
+                                        &amp; strebt den Tod für alle Vaterländer! Mit Ansetzung von
+                                        Schreppköpfen &amp; Auflegung von Zugpflastern werden wir
+                                        euch die Erfüllung eurer Mission beschleunigen! – Es ist oft
+                                        kein Spaß, gute Freundin, wie man zu weilen sich im
+                                        praktischen Leben dumm stellen muß, um der Dummheit mit
+                                        Anstand zur Glückseeligkeit zu verhelfen.</p>
+                                <p>Noch muß ich Ihnen &amp; zur Mittheilung an Freund Marx mein Herz
+                                        ausschütten &amp; sagen, daß ich mit dem Ablaufe dieses
+                                        Jahres sowohl die Redaktion des „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“ als die Präsidentschaft des
+                                        Zentralkomites der <seg type="comment"><orig>SektionsGruppe
+                                                  deutscher Sprache</orig><note xml:id="fdacd6a5-336b-41c3-8743-53a213fa2c49">Zur
+                                                  Sektionsgruppe deutscher Sprache siehe <ref target="B00007">Marx an J. Ph. Becker, zw. 9. u.
+                                                  15. Jan. 1866</ref> „Die deutschen Sectionen ...“
+                                                  und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190723T102842+0200" comment="6ee"?>Erl.<?oxy_comment_end?></note></seg>
+                                        aufgeben werde. Weder körperlich noch ökonomisch kann ich
+                                        diese Stellungen länger aushalten: ökonomisch nicht weil ich
+                                        nun seit drei Jahren keine Stunde für Besorgung meiner
+                                        Privatverhältnisse erübrigen kann, ja auch noch meinen
+                                        jüngsten <seg type="comment"><orig><persName key="pdrPo.001.004.000000313">Sohn</persName></orig><note xml:id="cad0a153-d7f1-4aef-a635-1b480dd537d8"><persName key="pdrPo.001.004.000000313">Ernst
+                                                  Hermann Becker</persName>.</note></seg> fur die
+                                        Arbeiten der Association in Anspruch nehmen <pb/> muß;
+                                        körperlich nicht, weil ich nicht länger, als es
+                                        menschenmöglich ist, entbehren &amp; ein unabänderliches
+                                        Naturgesetz umgehen kann &amp; auch ein friedlicheres Leben
+                                        im Schooße meiner Familie herstellen möchte. Hier stehe ich
+                                        ganz allein &amp; schaffe Alles allein, selbst die
+                                        einfachsten Arbeiten &amp; ist am allerwenigsten das „Zeug“
+                                        für ein Zentralkomite, das in Wahrheit funktioniren kann,
+                                        vorhanden. Die Verdrießlichkeiten, die mir zuweilen
+                                        maulwurfsmäßig durch einige Arbeiter, welchen <seg type="comment"><orig><persName key="pdrPo.001.004.000004961">Vogt</persName></orig><note xml:id="b5c299be-9efe-4344-a959-1bbe99974690"><persName key="pdrPo.001.004.000004961">Carl
+                                                  Vogt</persName>.</note></seg> gefällig zu sein die
+                                        Politik hat, würden mich nicht abschrecken, sondern eher
+                                        anspornen die Stellung bei zu behalten. Die Redaktion des
+                                                „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“ allein wär mir Spielerei &amp;
+                                        würde mich nicht weiter geniren aber die stündliche
+                                        Korrespondenz, die man immer noch vermehren muß, wenn man
+                                        die Sache ausdehnen &amp; sie recht machen will, die
+                                        Expedition, Verwaltung &amp; Leitung von Allem sind es, die
+                                        mein ganzes Dasein absorbiren, so daß ich seit Jahr &amp;
+                                        Tag weder Zeit fand mit meiner Familie einen sonntäglichen
+                                        Spazirgang zu machen, oder nur ein Bad zu nehmen. Die Mittel
+                                        zur Zahlung der Stellungen bringen die Arbeiter noch nicht
+                                        zusammen &amp; wenn sie dieselbe auch zusammenbringen
+                                        würden, so stehen sie für mich noch lange nicht auf dem
+                                        Standpunkt, daß man ohne drückendes Gefühl, ohne sich selbst
+                                        zu vernichten, eine Zahlung <pb/> annehmen kann. So bin ich
+                                        in der peinlichen Situation ein Kind verlassen zu müssen das
+                                        noch nicht laufen kann, dem ich aber nicht länger zu
+                                                <unclear reason="covered" cert="high"><seg type="comment"><orig>helfen</orig><note xml:id="nqqb_fq4_vgb">Andere Lesart: „verhelfen“;
+                                                  es ist nicht sicher, ob die Vorsilbe als getilgt
+                                                  angesehen werden kann.</note></seg></unclear>
+                                        vermag. Verschiedene Pläne der Sache in anderer Weise
+                                        fortzuhelfen sind gescheitert. Vergeblich hoffte ich
+                                                <persName key="pdrPo.001.004.000003940">Theodor
+                                                Remy</persName> von Eupen hierherzubringen. In
+                                        Zürich, wohin ich dachte den Zentralsitz zu verlegen, finde
+                                        ich Niemand, der die rechte Initiative, Energie &amp;
+                                        ausdauernde Arbeitskraft hätte und auch prinzipiell <seg type="comment"><orig>in der Wolle
+                                                  gefärbt</orig><note xml:id="ni2f_ghq_m3b">übertragen für: unverfälscht, überzeugungstreu,
+                                                  zuverlässig; durch und durch echt.</note></seg>
+                                        wäre. Dieser Tage wandte ich mich berathungsweise an
+                                                <persName key="pdrPo.001.004.000002822">Liebknecht</persName>, <persName key="pdrPo.001.004.000000303">Bebel</persName> &amp;
+                                        s. w. in Leipzig, wo der Zentralsitz &amp; Vorbote gut
+                                        plazirt wären, wenn nicht die Polizeistaaterei im Wege
+                                        stünde. Was ist aber zu machen? Freund <persName key="ed_ats_ysj_wx"><expan>M<ex>arx</ex></expan></persName> soll hier
+                                        Rath geben.</p>
+                                <p>Hätte ich eine <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">Geheimräthin &amp;
+                                                  Sekretärin</persName></orig><note xml:id="a7c5d26e-bc71-48d7-b452-57f51e784b98"><persName key="pdrPo.001.004.000003075">Jenny
+                                                  Marx</persName>.</note></seg> wie Freund Marx an
+                                        Herz &amp; Hand, dann würde ich es wohl auch aushalten
+                                        können bis an’s Ende der Welt, so stehe ich aber am – <seg type="comment"><orig>Oehlberg</orig><note xml:id="npsq_bbq_m3b">Der Ölberg ist eine Erhebung
+                                                  nordöstlich der Jerusalemer Altstadt, die in
+                                                  verschiedenen neutestamentlichen Berichten eine
+                                                  Rolle spielt. Hier wohl Anspielung auf die
+                                                  Einsamkeit <persName key="pdrPo.001.004.000010839">Jesus</persName> in Nacht vor seiner Kreuzigung,
+                                                  die er mit seinen Jüngern am Fuß des Berges
+                                                  verbrachte, wobei die Jünger, anstatt zu wachen
+                                                  und zu beten, eingeschlafen sind (Matthäus
+                                                  26,36-56).</note></seg>.</p>
+                                <p>Im „<bibl sameAs="ed_s1m_ygf_lbb" type="periodika">Vorboten</bibl>“ mehr!</p>
+                                <p>Inzwischen seien Sie samt Ihrer <lb/>
+                                        ganzen Familie herzlich gegrüßt</p>
+                                <closer>Joh Ph Becker</closer>
+                                <postscript>
+                                        <p>Bitte gelegenheitlich auch Grüsse an <persName key="pdrPo.001.004.000000542">Borkheim</persName>,
+                                                  <persName key="pdrPo.001.004.000001296">Eccarius</persName> &amp; <persName key="ed_l54_cks_xy">Lessner</persName>
+                                                auszurichten. <pb/></p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

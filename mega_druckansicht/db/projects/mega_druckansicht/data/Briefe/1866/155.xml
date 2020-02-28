@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00159" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>155</idno>William Randall Cremer an Karl Marx in London. London, Mittwoch, 22.
+          August 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 1 d. 1987</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt festem, weißem Papier im Format
+              114 × 179 mm. Auf der ersten Seite oben links trägt der Brief den
+              ovalen roten Aufdruck des Central Council der IAA. Die erste Seite hat Cremer
+              vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Marx' Hand: Kurzes Exzerpt mit Bleistift auf der zweiten Seite, kopfstehend. </p>
+          </physDesc>
+        </msDesc>
+        <listWit> 
+          <witness><bibl sameAs="zotero-604880-I7CVR5EI"> Erstveröffentlichung (gekürzt): MEGA²
+              I/20. S. 1496;</bibl>
+          </witness> 
+          <witness>
+            <bibl>vollständig wird der Brief hier erstmals veröffentlicht.</bibl>
+          </witness> 
+        </listWit>      
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000001027">William Randall Cremer</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1866-08-22"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <note>Zum Aufdruck siehe <ref target="B00007">Marx an J. Ph. Becker, zw. 9. u.
+            15.1.1866.<?oxy_comment_start author="lindenberg" timestamp="20171123T144037+0100" comment="Hier Absatz einfügen"?></ref><?oxy_comment_end?>
+        </note>
+        <note>Das Exzerpt ist dem Text einer Rede von William Robert Grove entnommen: <bibl sameAs="zotero-604880-WMLU8LBQ">[William Robert] Grove: [Address to the
+              British Association for the Advancement of Science, delivered 22. August 1866.]</bibl>
+            In: The Artizan. Nr. 45, 1. September 1866. S. 207. Es wird in <bibl sameAs="zotero-604880-5RK286TX">MEGA² IV/18</bibl> veröffentlicht. Marx
+            zitiert die exzerpierte Notiz später im ersten Band des „Kapitals“ (<ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=427%26startPage=%26endPage=%26startLine=%26endLine=%26startTerm=%26endTerm=">MEGA² II/5. S. 427</ref>).
+        </note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter Assoziation (IAA, A.I.T.,
+            I.W.M.A.)</term>
+          <term key="ed_urb_njf_h1b">Gewerkschaften</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:39:50Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener><dateline><pb/> 15 Bouverie St<lb/>Fleet
+            St<lb/>22/8/66</dateline><salute>Dear Citizen</salute></opener>
+        <p>Have just received information <seg type="comment"><orig>There
+              are 700 Tailors locked out in Manchester.</orig><note xml:id="cff67721-5df5-4418-8d4d-9c4d5086166f">
+              <p>Anfang August 1866 forderten einige hundert Schneidergesellen
+                in Manchester einen Ausgleich für Lohneinbußen, die mit der Einführung von Maschinen
+                entstanden waren und eine Beteiligung am gestiegenen Gewinn der Unternehmer. Als
+                Antwort wurden ab dem 16. August 700 Schneider ausgesperrt. Gewerkschaften
+                verhinderten den Einsatz von Streikbrechern und halfen mit Geldspenden. Der Konflikt
+                endete am 12. September 1866 mit einem Vergleich. – In der Sitzung des
+                Zentralrats am 21. August 1866 wurde eine Bitte an die IAA, die Zufuhr von
+                Streikbrechern vom Kontinent zu verhindern, vorgebracht. Der Zentralrat beschloss,
+                „to suspend any continental action until the arrival of confirmatory intelligence
+                from Manchester; but in case of danger, the secretary was to act immediately“.
+                  (<bibl sameAs="zotero-604880-7U8R32JW">The Minute Book
+                  1864–1866.</bibl> In: MEGA² I/20. S. 448.1–8).
+                <!--(((lThe Minute Book 1864–1866.
+                                                  In: MEGA² I/20. S. 265–450)))-->
+                Siehe auch MEGA² I/20. Erl. 448.1–8 und 479.11–12.</p>
+            </note></seg>
+          <seg type="comment"><orig>They wish you to <expan>communic<ex>a</ex>te</expan> with Hamburg and the parts of <expan>Germa<ex>n</ex>y</expan> you think best for the
+              purpose</orig><note xml:id="nej3_b1p_hz">Marx beteiligte sich als Korrespondierender
+              Sekretär des Zentralrats für Deutschland an der Unterstützung der ausgesperrten
+              Schneider (<bibl sameAs="zotero-604880-7U8R32JW">The Minute Book
+                1864–1866.</bibl> In: MEGA² I/20. S. 479.9–11 und Erl.).</note></seg>
+          <expan>The<ex>y</ex></expan> also wish it done
+          directly as the danger is imminent.</p>
+        <closer>Fraternally Yours<lb/>Cremer</closer>
+        <postscript>
+          <p>Do not mind the expense, as they will pay the expenses incurred </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

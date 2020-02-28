@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00243" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>234</idno>Karl Marx an Friedrich Engels in Manchester. London,
+                    Dienstag, 2. April 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4473/L VI 606</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            227 × 179 mm. Prägung: „Extra Super“ in einem Kranz. Marx
+                            hat die erste Seite vollständig beschrieben, die dritte zu zwei
+                            Dritteln, die zweite und vierte Seite sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „6,1“ bzw.
+                            „6,2“.</p>
+                        <p>Von unbekannter Hand: der Vermerk „+“ mit Bleistift auf beiden
+                            beschriebenen Seiten oben rechts.</p>
+                        <p>Datierung in der Erstveröffentlichung: 27. März 1867.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2022</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                   
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            Bw 3 (1913). S. 365/366.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig: MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                        S. 378/379.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-04-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00235"/>
+                    <ref type="next" target="B00245"/>
+                </correspContext>
+                <note>Zur Datierung: Marx legt seinem Brief ein Schreiben von Borkheim bei, das er
+                    „gestern“ erhalten hatte.<?oxy_comment_start author="lindenberg" timestamp="20180815T105453+0200" comment="(Z. 13)"?><?oxy_comment_end?>
+                    <persName key="pdrPo.001.004.000000542">Borkheim</persName> schrieb Marx am
+                    1. April 1867 (<ref target="B00241">S. L. Borkheim an Marx,
+                    1.4.1867</ref>)<?oxy_comment_start author="lindenberg" timestamp="20180815T111812+0200" comment="Br. 232
+"?>;<?oxy_comment_end?>
+                    Engels beantwortet den vorliegenden Brief am 4. April 1867 (<ref target="B00245"><?oxy_comment_start author="lindenberg" timestamp="20190508T151806+0200" comment="Br. 235"?>Engels
+                        an Marx, 4.4.1867<?oxy_comment_end?></ref>). Entsprechend wird der Brief
+                    <?oxy_comment_start author="lindenberg" timestamp="20190908T155639+0200" comment="https://de.pons.com/%C3%BCbersetzung/deutsch-englisch/datieren
+https://www.duden.de/rechtschreibung/datieren"?>auf
+                    den<?oxy_comment_end?> 2. April 1867 datiert.</note>
+                <note>Die Beilage („Wisch von <persName key="pdrPo.001.004.000000542">Borkheim</persName>“)<?oxy_comment_start author="lindenberg" timestamp="20180814T120310+0200" comment="Z. 13"?>
+                    <?oxy_comment_end?>ist überliefert (siehe <ref target="B00241">S. L. Borkheim an
+                        Marx,
+                    1.4.1867</ref>).<?oxy_comment_start author="lindenberg" timestamp="20180814T120018+0200" comment="Br. 232"?></note>
+                <?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_jtl_xrw_ww">Internationale Arbeiter-Assoziation (IAA, A.I.T.,
+                        I.W.M.A.)</term>
+                    <term key="ed_otj_cwr_by">Internationale Beziehungen in Europa</term>
+                    <term key="ed_rw2_4vl_qx">Preußen</term>
+                    <term key="ed_r5w_nkf_h1b">Polen</term>
+                    <term key="ed_www_kkf_h1b">Russland</term>
+                    <term key="ed_mdh_bhh_1fb">Luxemburg</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:08Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 27. März 1867.</dateline>
+                    <salute>Lieber Engels,</salute>
+                </opener>
+                <p>Ich hatte mir vorgenommen, Dir nicht zu schreiben, bis
+                    ich Dir das Fertigsein <seg type="comment"><orig>des <bibl sameAs="zotero-604880-PT9GISVC">Buches</bibl></orig><note xml:id="cef8742f-5b6a-4506-bac8-1306596fec4d">
+                            <p><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital.</bibl> Siehe <ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+                                    15.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180815T134815+0200" comment="Erl. 6b"?>
+                                <?oxy_comment_end?>
+                            </p>
+                        </note></seg> anzeigen könnte, <seg type="comment"><orig>was jezt der Fall
+                            ist.</orig><note xml:id="ca6df614-61f4-418b-b0d8-c4cba8a9b1e1">Siehe
+                                <ref target="B00245"><?oxy_comment_start author="reichhoff" timestamp="20180427T102226+0200" comment="(Br. 235.3–4)."?>Engels
+                                an Marx, 4.4.1867<?oxy_comment_end?></ref>.</note></seg> Ich wollte
+                    Dich auch nicht ennuyiren mit den Ursachen des abermaligen Aufschubs, nämlich
+                    Karbunkeln am Hintern u. in der Nähe des penis, deren letz<ex>t</ex>e Reste jezt
+                    verblühn u. die mir nur unter grossen Schmerzen sitzende Position (also
+                    schreibende) erlaubten. <hi rendition="#u">Arsenik</hi> nehm ich <hi rendition="#u">nicht</hi>, weil es mich zu dumm macht u. ich wenigstens für
+                    die Zeit, wo das Schreiben möglich war, den Kopf beisammen haben mußte.</p>
+                <p><seg type="comment"><orig>Ich muß nächste Woche selbst
+                            mit dem Mscpt nach Hamburg.</orig><note xml:id="b92b42b8-3874-4954-aa40-fcf5fa3648e7">Marx reiste von London am
+                            10. April ab und kam am 12. April 1867 in Hamburg an. Siehe <ref target="B00247"><?oxy_comment_start author="reichhoff" timestamp="20180508T135020+0200" comment="Br. 237"?>Marx
+                                an Engels, 13.4.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+                    <seg type="comment"><orig>Der Ton des letzten Briefs des Herrn <persName key="pdrPo.001.004.000003135">Meißner</persName> gefiel mir
+                            nicht.</orig><note xml:id="de64d0e7-acf6-492c-893c-45269bfd12e6">Siehe
+                                <ref target="B00209"><?oxy_comment_start author="reichhoff" timestamp="20180427T102831+0200" comment="(Br. 202)"?>O.
+                                Meißner an Marx, 20.12.1866<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Dazu erhielt ich gestern einliegenden Wisch von
+                                <persName key="pdrPo.001.004.000000542">Borkheim</persName>.</orig><note xml:id="d1aac214-aee8-4033-8fb1-ea8992fd2e1d">Siehe <ref target="B00241"><?oxy_comment_start author="reichhoff" timestamp="20180427T103003+0200" comment="(Br. 232)."?>S.
+                                L. Borkheim an Marx, 1.4.1867
+                        <?oxy_comment_end?></ref>.</note></seg> Ich habe alle Ursache zu glauben,
+                    daß der <del> Schre <sic ana="#break-off"/></del> „continentale Freund“ Herr
+                    Geheimrath <persName key="pdrPo.001.004.000000648">Bucher</persName> ist. <seg type="comment"><orig>Borkheim hatte ihm nämlich einen Brief, den er mir
+                            vorlas, geschrieben, <add>von</add> wegen seiner Reiseverhältnisse nach
+                            Schlesien, wo er in Familienangelegenheiten hin will.</orig><note xml:id="c52efad3-8827-4180-9d6a-7f479504ea44">Siehe auch <ref target="B00239">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180427T103129+0200" comment="(Br. 230.27–31"?>Borkheim
+                                an Engels, 25.3. 1867<?oxy_comment_end?></ref>.</note></seg> Bucher
+                    hat ihm unmittelbar geantwortet. <seg type="comment"><orig>Ich wittere also
+                            hinter diesen canards eine Intrigue</orig><note xml:id="nbgt_ymp_y2b">Diesen Verdacht äußert auch <bibl sameAs="zotero-604880-SNNYR5WW">Borkheim in seinem Brief an Johann Philipp Becker vom
+                                6. April 1867</bibl>: „Es ist mir kaum möglich, nicht anzunehmen,
+                            daß die Gerüchte über Marx’sches Elend und über das Geschick seines
+                            Buches aus sehr unlautern Quellen fließen, deren Zustand Ihr
+                            angelegentlich untersuchen solltet. Es scheint mir, als wolle man zum
+                            Voraus den möglichen Werth des staatsöconomischen Buches dadurch
+                            schmälern, daß man den Schreiber als in selbstverschuldetes Elend
+                            gerathenen Privatlumpen darstellt. Sei auf der Huth, Alter! Meine
+                            Andeutungen werden wohl genügen.“ (IISG, Nachlass Johann Philipp Becker,
+                            Sign. D I 185). </note></seg> u. <seg type="comment"><orig>muß dem
+                                <persName key="pdrPo.001.004.000003135">Meißner</persName> das
+                            Messer persönlich auf die Brust setzen. Sonst <subst>
+                                <del>ist</del>
+                                <add>wäre</add>
+                            </subst> der Kerl im Stand mein Mscpt (ungefähr 25 starke <subst>
+                                <del rendition="#ow">B[ogen]</del>
+                                <add place="across">Druckbogen</add>
+                            </subst>, wie ich rechne) zurückzuhalten und zugleich <hi rendition="#u">nicht drucken</hi> zu lassen unter dem Vorwand, <subst>
+                                <del rendition="#ow">das</del>
+                                <add place="across">den</add>
+                            </subst> zweiten Band „abwarten“ zu wollen.</orig><note xml:id="dfe4bc1d-8e8d-4cfe-a215-ff2381eebd18">Siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20180816T155402+0200" comment="(Br. 201.33–36 und Erl. 201n)"?><ref target="B00208/#start_mnf_fqn_mz">Marx an Engels,
+                                17.12.1866<?oxy_comment_end?></ref> und Erl.</note></seg></p>
+                <p><seg type="comment"><orig>Ich muß nun d'abord meine
+                            Kleidungsstücke u. Uhr, die<del> sich <sic ana="#break-off"/></del> im
+                            Pfandhaus wohnen, herausnehmen. Ich kann auch kaum meine Familie im
+                            jetzigen Zustand verlassen, wo sie sans sou, u. die Gläubiger täglich
+                            unverschämter werden. Endlich, damit ich das nicht vergesse, alles Geld,
+                            was ich für <persName key="pdrPo.001.004.000003076">Laura's</persName>
+                            Champagnerkur ausgeben konnte, habe ich den Weg alles Fleisches gesandt.
+                            Sie muß <subst>
+                                <del rendition="#s">aber noch</del>
+                                <add place="intralinear">jezt</add>
+                            </subst> Rothwein haben u. besseren als ich <pb/> kommandiren kann.
+                            Voilà la situation.</orig><note xml:id="d028d4f5-199e-43eb-8116-8c4d22251781">Siehe <ref target="B00245"><?oxy_comment_start author="reichhoff" timestamp="20180508T140011+0200" comment="Br. 235.5–7."?>Engels
+                                an Marx, 4.4.1867<?oxy_comment_end?></ref> („Damit der Nervus Rerum
+                            nicht fehlt ...“)  – Zur „Champagnerkur“ siehe <ref target="B00229"><?oxy_comment_start author="lindenberg" timestamp="20190508T171442+0200" comment="220"?>Marx
+                                an Engels, 21.2.1867<?oxy_comment_end?></ref>. </note></seg></p>
+                <p><seg type="comment"><orig>Unsere „International“ hat
+                            einen grossen Sieg <del> xx <sic ana="#break-off"/></del> gefeiert. Wir
+                            verschafften den auf Strike befindlichen <subst>
+                                <del>Parisern</del>
+                                <add>Pariser</add>
+                            </subst> Bronzeworkern Geldunterstützung von den London Trades’ Unions.
+                            Sobald die Meister das sahen, gaben sie nach. Die Sache hat viel Lärm in
+                            den französischen Blättern gemacht u. wir sind jezt in Fkch eine
+                            etablirte Macht.</orig><note xml:id="bdda3947-d07e-461f-a44d-0a9accff9498">Anfang Januar 1867 erhoben
+                            die Arbeiter in Paris Forderungen nach Lohnerhöhungen. Ihre
+                            Organisation, die Chambre syndicale des ouvriers en bronze, rief ihre
+                            Mitglieder auf, sich auf einen allgemeinen Solidaritätsstreik
+                            vorzubereiten. Da die Unternehmer den Forderungen der Arbeiter nicht
+                            nachkamen, begannen am 26. Januar 1867 die Arbeiter einiger Werkstätten
+                            zu streiken. Auf einer Versammlung am 14. Februar nahmen die Unternehmer
+                            eine Resolution an, in der sie mit Aussperrung drohten, falls die
+                            Chambre bis zum 25. Februar nicht aufgelöst werde. Mitte Februar
+                            schlossen sich viele Bronzegießer der Organisation an, die als
+                            Streikziel nun auch das Koalitionsrecht
+                            anstrebte.<?oxy_comment_start author="lindenberg" timestamp="20180820T124621+0200" comment=" und der Streik wurde jetzt auch für das Koalitionsrecht geführt."?><?oxy_comment_end?>Als
+                            Antwort auf die Forderungen der Streikenden sperrten am 27. Februar 1867
+                            weitere Fabrikanten ihre Arbeiter aus, so daß sich bis Anfang März 1867
+                            2000 Arbeiter im Ausstand befanden. Der Generalrat der IAA unterstützte
+                            aktiv den Streik. Am 5. März 1867 besprach der Generalrat der IAA die
+                            Briefe von <persName key="pdrPo.001.004.000001654">Ernest Édouard
+                                Fribourg</persName> über die Lage der Streikenden in Paris und
+                            Maßnahmen zu ihrer Unterstützung (<bibl sameAs="zotero-604880-LKLES7SU">Minutes of the General Council 1866/1867.</bibl> In:
+                            MEGA² I/20. S. 537.13–19 und
+                            Erl.).<?oxy_comment_start author="lindenberg" timestamp="20180816T171914+0200" comment="(((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591)))."?><?oxy_comment_end?>
+                            – Unmittelbar nach der Sitzung des Generalrats am 5. März 1867 (siehe
+                                <bibl sameAs="zotero-604880-LKLES7SU">ebenda</bibl>)
+                            veröffentlichte <persName key="pdrPo.001.004.000001279">Dupont</persName> einen Brief über die Solidarität der IAA mit den
+                            Bronzegießern. Siehe <bibl sameAs="zotero-604880-UUX2JNEX">Eugène Dupont: L’association internationale des
+                                travailleurs ne pouvait rester indifférente …</bibl> In: Le Courrier
+                            français. Paris. Nr. 10, 10. März 1867. S. 5, Sp. 3/4,
+                            <?oxy_comment_start author="lindenberg" timestamp="20180817T112032+0200" comment="in Moskau nachgefragt  - Mail an Svetlana 2018-08-?"?>unter
+                            den Begleitworten: Nous recevons de Londres la lettre suivante. Siehe
+                                <bibl sameAs="zotero-604880-LP3LDN2R">Alix Guillain
+                                an Marx-Engels-Lenin Institut, 12. Februar 1936</bibl> (RGASPI,
+                            Sign. f. 71, op. 50, d. 143, Bl. 47, 50)<?oxy_comment_end?>. Dupont
+                            berichtete, daß das Subkomitee sofort an die wichtigsten Trade-Unions
+                            geschrieben habe bzw. Abordnungen senden werde. Am 4. März sei er mit
+                                <persName key="ed_ats_ysj_wx">Marx</persName>, <persName key="pdrPo.001.004.000002417">Hermann Jung</persName>, <persName key="pdrPo.001.004.000002648">Paul Lafargue</persName> und <persName key="ed_dfr_s54_v2b">Jacques Van Rijen</persName> beim London Trades
+                            Council gewesen, der einstimmig einen Beschluß gefaßt habe, die Pariser
+                            Bronzegießer in ihrem Streik zu unterstützen. Anschließend sei die
+                            Abordnung noch zur Day-Working Bookbinders’ Society, London, gegangen. –
+                            „The Bee-Hive Newspaper“. London, Nr. 282 vom 9. März 1867, S. 6, und
+                            „The Commonwealth“. London, Nr. 209 vom 9. März 1867, S. 4
+                            veröffentlichten den auf Initiative der Generalratsmitglieder vom London
+                            Trades Council beschlossenen Aufruf zur Unterstützung der Pariser
+                            Bronzegießer: <bibl sameAs="zotero-604880-X8N5F3LH">„London Trades Council. The council held …“</bibl> bzw. <bibl sameAs="zotero-604880-EFLPBHES">„London Trades
+                                Council“</bibl>. In französischer Übersetzung erschien der Aufruf
+                            in: Le Courrier français. Paris, Nr. 11, 17. März 1867. S. 3, Sp. 2–4
+                            unter dem Titel „<bibl sameAs="zotero-604880-M6VA5C2Y">La
+                                grève du bronze. Adresse du Trade’s Council, London 7 Mars 1867, à
+                                toutes les sociétés anglaises, sur les ouvriers du bronze de
+                                Paris</bibl>“, unterzeichnet von <persName key="pdrPo.001.004.000003494">George Odger</persName>. Siehe <bibl sameAs="zotero-604880-LP3LDN2R">Alix Guillain an
+                                das Marx-Engels-Lenin Institut, 12. Februar 1936</bibl>, (RGASPI,
+                            Sign. f. 71, op. 50, d. 143, Bl. 47, 50). – Auf den Sitzungen des
+                            Generalrats der IAA im März/April 1867 berichtete man regelmäßig über
+                            Geldsammlungen der Arbeiter zur Übersendung nach Paris (siehe <bibl sameAs="zotero-604880-LKLES7SU">Minutes of the
+                                General Council 1866/1867.</bibl> In: MEGA² I/20. S. 539.1–19,
+                            541.5–7, 543.3–8, 544.4–10,
+                            545.21–22.<?oxy_comment_start author="lindenberg" timestamp="20180817T140252+0200" comment="(((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591)))."?><?oxy_comment_end?>
+                            – Dank der Unterstützung endete der Streik erfolgreich. Am 24. März 1867
+                            erklärte sich die Unternehmervereinigung zu neuen Tarifabschlüssen
+                            bereit.<?oxy_comment_start author="lindenberg" timestamp="20180820T145245+0200" comment="vorher: Dank dieser Unterstützung haben die Pariser Bronzearbeiter ihren Kampf erfolgreich beendet. Am 24. März 1867 erklärte sich die Unternehmervereinigung bereit, mit den Streikenden der einzelnen Fabriken neue Tarife abzuschließen. Trotzdem wurden 17 der aktivsten Streikführer nicht wieder eingestellt."?><?oxy_comment_end?>Siehe
+                                <bibl sameAs="zotero-604880-LKLES7SU">ebenda.</bibl>
+                            S. 545.18–21 und Erl. </note></seg></p>
+                <p><seg type="comment"><orig>Die Luxemburger Affaire
+                            scheint mir zwischen <persName key="pdrPo.001.004.000000441">Bismark</persName> u. <persName key="pdrPo.001.004.000003392">Bonaparte</persName> abgekartet. Möglich, aber nicht
+                            wahrscheinlich, daß der erstre sein Wort nicht halten kann oder
+                            will.</orig><note xml:id="de9f3f52-4ea1-4cfd-85bb-6868de4f7a9d">Die
+                            Verhandlungen um den beabsichtigten Gebietserwerb des zu den
+                            Niederlanden unter König <persName key="pdrPo.001.004.000005139">Willem
+                                III</persName> (gleichzeitig Großherzog von Luxemburg) gehörenden
+                            Großherzogtums Luxemburgs durch die französische Regierung unter Kaiser
+                                <persName key="pdrPo.001.004.000003392">Napoléon III</persName>
+                            („Luxemburger Krise“) mündeten in die Beschlüsse der Londoner Konferenz
+                            vom 7. bis 11. Mai 1867. Der anfangs in Geheimverhandlungen von der
+                            Regierung <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                            gebilligte Verkauf scheiterte, nachdem die Pläne öffentlich geworden
+                            waren. Es blieb beim Status quo, wobei Luxemburg, zur Neutralität
+                            verpflichtet, unter der niederländischen Krone verblieb und Preußen
+                            seine Garnison aus der Festung abzog. Siehe <ref target="B00150"><?oxy_comment_start author="lindenberg" timestamp="20180820T164118+0200" comment="= Erl.146d"?>Erl.
+                                zu Marx an Engels, 10.8.1866</ref><?oxy_comment_end?>;
+                                <?oxy_comment_start author="lindenberg" timestamp="20180820T164553+0200" comment="(= Br. 235.27–48)"?><ref target="B00245">Engels an Marx, 4.4.1867</ref><?oxy_comment_end?>
+                            („Die Luxemburger Geschichte …“); <ref target="B00273">S. L. Borkheim an
+                                Engels,
+                            30.5.1867</ref><?oxy_comment_start author="lindenberg" timestamp="20180820T164324+0200" comment="Borkheim an Engels, 30.5.1867 = Br. 264m --&gt; eigentl. 264 n)"?>
+                            („das Resultat der Conferenz …“) und Erl.<?oxy_comment_end?>; <bibl sameAs="zotero-604880-MC9EPTFE">Baumgart:
+                                Europäisches Konzert.</bibl> S. 388–394.
+                            <?oxy_comment_start author="lindenberg" timestamp="20180820T145623+0200" comment="vorher: Im Frühjahr 1867 entwickelte sich der Konflikt zwischen Frankreich und Preußen um das Großherzogtum Luxemburg, das staatsrechtlich seit 1815 Mitglied des Deutschen Bundes, dynastisch aber im Besitz des Königs der Niederlande (gleichzeitig Großherzog von Luxemburg) war, fort. Während des Deutschen Kriegs 1866 (siehe Erl. zu Engels an Marx, 11.6.1866 = Erl. 120) bewahrte Luxemburg Neutralität, blieb aber im Zollverein und die Festung in den Händen Preußens. – Im August 1866 kam es zu den Ansprüchen Frankreichs auf die Erwerbung von Luxemburg als eine Kompensation für seine Neutralität im Deutschen Krieg, die aber Preußen nicht unterstützt hatte (siehe Erl. zu Marx an Engels, 10.8.1866 = Erl.146d). Während der weiteren Verhandlungen zwischen Frankreich und den Niederlanden wurde deutlich, dass Luxemburg weder zu Frankreich noch zu dem neuen Norddeutschen Bund (siehe Erl. zu Marx an Engels, 6.8.1866 = Erl.144k) gehören, sondern seine Neutralität bewahren wollte. Preußen wünschte den Eintritt Luxemburgs in den Norddeutschen Bund auch nicht, wollte aber ebensowenig das Großherzogtum an Frankreich überlassen. Nach einigen diplomatischen Schritten Preußens im März 1867 weigerte sich der niederländische König Willem III, den schon ausgefertigten Abtretungsvertrag mit Frankreich zu unterschreiben, was eine neue Niederlage für Napoléon III bedeutete. Zu einem richtigen Krieg mit Frankreich war jedoch Bismarck zu der Zeit nicht bereit und tat in den folgenden Wochen alles, um die Krise friedlich beizulegen. Diese Haltung sollte auch Frankreich unterstützen. Als daher am 15. April 1867 die französische Regierung auf die Erwerbung Luxemburgs verzichtete, wenn Preußen die Festung räume, erklärte sich Preußen mit dem von Rußland gemachten Vorschlag einer Konferenz einverstanden. Diese trat am 7. Mai 1867 in London zusammen (siehe Erl. zu S. L. Borkheim an Engels, 30.5.1867 = Br. 264m --&gt; eigentl. 264 n). Siehe Baumgart: Europäisches Konzert. S. 388–394. Siehe auch Engels an Marx, 4.4.1867 (Br. 235.27–48)"?><?oxy_comment_end?></note></seg>
+                    Die <hi rendition="#u">russische</hi> Einmischung in die deutschen Verhältnisse
+                    ist sonnenklar</p>
+                <p>1) <hi rendition="#u">Daraus</hi>, <seg type="comment"><orig>daß der <hi rendition="#u">Würtembergische</hi> Vertrag mit
+                            Preussen schon am 13. August vor allen anderen, geschlossen
+                            war;</orig><note xml:id="a93c7cbe-7f5a-4c74-8cf3-f32fb3974054">Seit der
+                            Hochzeit einer württembergischen Prinzessin mit dem russischen
+                            Thronfolger <persName key="pdrPo.001.004.000003638">Pavel Petrovič
+                                (Pavel I)</persName> im Jahre 1776 (<bibl sameAs="zotero-604880-XMQHIB9R">Strauß: Der Besuch
+                                des russischen Großfürsten Paul Petrowitsch in Berlin 1776.</bibl>)
+                            waren die Beziehungen Russlands zu diesem deutschen Territorium durch
+                            mehrere wechselseitige Heiraten zwischen den Herrscherhäusern intensiver
+                            als zu vielen anderen deutschen Teilstaaten. Der Friedensvertrag
+                            Preußens mit dem Königreich Württemberg wurde als erster, am 13. August
+                            1866, geschlossen, die weiteren fünf Verträge in der Zeit vom 17. August
+                            (Baden) bis 21. Oktober (Sachsen). Siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20180821T115341+0200" comment="= Br. 142 "?><ref target="B00146">Erl. zu Marx an Engels,
+                            27.7.1866</ref><?oxy_comment_end?> und <ref target="B00219"><?oxy_comment_start author="lindenberg" timestamp="20180821T115415+0200" comment="= Br. 211 "?>Erl.
+                                zu Marx an Engels, 29.1.1867</ref><?oxy_comment_end?> sowie <bibl sameAs="zotero-604880-MC9EPTFE">Baumgart:
+                                Europäisches Konzert.</bibl> S.
+                            384/385.<?oxy_comment_start author="lindenberg" timestamp="20180821T114040+0200" comment="vorher: 
+Der Friedensvertrag Preussens mit Württemberg vom 13. August 1866 neben seinen weiteren Verträgen mit den süddeutschen Staaten Bayern, Baden und Hessen im Laufe des August und September 1866, denen auch geheime Schutz- und Trutzverträge beigelegt waren, sollten die territoriale Integrität dieser Staaten garantieren, aber den militärischen Oberbefehl im Kriegsfall an Preussen übertragen. Siehe Baumgart: Europäisches Konzert. S. 384/385"?></note><?oxy_comment_end?></seg></p>
+                <p>2) <seg type="comment"><orig>aus <persName key="pdrPo.001.004.000000441">Bismarks</persName> Auftreten mit Bezug auf die Polen.</orig><note xml:id="ff8e6aa8-88a2-45e2-b170-b2b727bdd43c">Anspielung auf die Rede
+                            Bismarcks auf der 14. Sitzung des Norddeutschen Reichstags am 18. März
+                            1867. (Abdruck in: <bibl sameAs="zotero-604880-2S3P6M22">Stenographische
+                                Berichte über die Verhandlungen des Reichstags des Norddeutschen
+                                Bundes im Jahre 1867. Bd. 1. (24.2.-17.4.). Berlin 1867.</bibl> S.
+                            210-213). Es wurde der „Entwurf der Verfassung des Norddeutschen Bundes“
+                            verhandelt. Bismarck anwortete äußerst abweisend auf die Protestrede
+                            eines polnischen Abgeordneten hinsichtlich der Eingliederung der Provinz
+                            Posen und anderer polnischer Gebiete in den Norddeutschen Bund und der
+                            beklagten mangelnden Berücksichtigung der polnischen
+                            Nationalität.<?oxy_comment_start author="lindenberg" timestamp="20180822T160801+0200" comment="Quelle: https://www.preussenchronik.de/thema_jsp/key=thema_%2584verpreu%25dfung%2593+-+die+politik+preu%25dfens+gegen%25fcber+den+polnisc.html"?><?oxy_comment_end?>(Abdruck
+                            in: <bibl sameAs="zotero-604880-GDLJ8NGQ"> Stenographische Berichte über
+                                die Verhandlungen des Reichstags des Norddeutschen Bundes im Jahre
+                                1867.</bibl> Bd. 2 (Anlagen). Berlin 1867. S. 11-17 (Actenstück Nr.
+                            10). Siehe <ref target="B00245"><?oxy_comment_start author="reichhoff" timestamp="20180427T104605+0200" comment="(Br. 235.27–48 und"?>Engels
+                                an Marx, 4.4.1867<?oxy_comment_end?></ref> und <ref target="B00265"><?oxy_comment_start author="reichhoff" timestamp="20180427T104652+0200" comment="und 256.123–125)."?>Marx
+                                an Engels,
+                    7.5.1867<?oxy_comment_end?></ref>.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20180821T163804+0200" comment="vorher: Auf den Protest der polnischen Abgeordneten im konstituierenden Norddeutschen Reichstag gegen die willkürliche Eingliederung des Fürstentums Posen und anderer polnischen Gebiete in den Norddeutschen Bund antwortete Otto von Bismarck am 18. März 1867 mit einer antipolnischen Rede, in der er demagogisch den Anspruch Preußens und des zaristischen Rußlands auf polnische Gebiete nachzuweisen versuchte. Siehe Engels an Marx, 4.4.1867 und Marx an Engels, 7.5.1867 (Br. 235.27–48 und 256.123–125)."?></p>
+                <?oxy_comment_end?>
+                <p><seg type="comment"><orig>Die Russen sind thätiger als
+                            je. Zwischen Frankreich u. Deutschland brocken sie die Suppe ein.
+                            Oestreich ist an sich hinreichend gelähmt.</orig><note xml:id="bbe13184-fe0a-4fde-ad4f-8b51b3afb58d">Siehe auch <ref target="B00245"><?oxy_comment_start author="reichhoff" timestamp="20180618T102901+0200" comment="Br. 235.12–26."?>Engels
+                                an Marx, 4.4.1867<?oxy_comment_end?></ref> („An der Allianz ...“).
+                        </note></seg> Den Herrn Engländern wird in <expan>d<ex>en</ex></expan> U<ex>nited</ex>
+                        St<ex>ates</ex> aufgespielt werden.</p>
+                <p>Salut</p>
+                <closer>D<lb/>KM </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00504" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>494</idno>Edith B. André an Karl Marx in London. London, Donnerstag, 26. Dezember 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 5 d. 1800 Fotosign. 15118&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 1, op. 5, d. 1800. Fotosign. 15118&lt;a–b&gt;.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Blatt. Aufdruck: das Monogramm „EA“. Edith B. André hat die erste Seite vollständig, die zweite zur Hälfte beschrieben.</p><p>Archivsignatur des SPD-Archivs: „II 15 D 10“.</p><p/></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_umd_hhc_pdb">André, Edith B. (-)</persName><placeName>London</placeName><date when="1867-12-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Zur Datierung: <persName key="pdrPo.001.004.000001603">Peter Fox
+                        André</persName> übersiedelte Ende 1867 nach Wien, wovon sein Brief an Marx
+                    vom 24. Dezember 1867 zeugt (siehe <ref target="B00502"><?oxy_comment_start author="lindenberg" timestamp="20190326T163158+0100" comment="Br. 492"?>P.
+                        F. André an Marx, 24.12.1867</ref><?oxy_comment_end?>). So kann das im
+                    vorliegenden Brief von seiner Tochter angegebene Datum „Thursday 26/67“ nur der
+                    26. Dezember 1867 sein.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:31Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 87. Upper Charlotte St.<lb/>Fitzroy
+                        Square.</dateline>
+                    <salute>D<hi rendition="#sup">r</hi> Marx,</salute>
+                </opener>
+                <p>Sir, I received a letter from <seg type="comment"><orig><persName key="pdrPo.001.004.000001603">Papa</persName></orig><note xml:id="nwtf_b5l_kgb"><persName key="pdrPo.001.004.000001603">Peter Fox
+                                André.</persName> Siehe auch <ref target="B00502">P.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180618T095501+0200" comment="(Br. 492)"?>Fox
+                                André an Marx, 24.12.1867<?oxy_comment_end?></ref>.</note></seg>
+                    yesterday &amp; he desired me to write &amp; ask you if you had any commission
+                    for him, on his return through Vienna, Dresden or Leipzig? <pb/> he wiches also
+                    to be kindly remembered to <persName key="pdrPo.001.004.000003075">M<hi rendition="#sup">rs</hi> Marx</persName>.</p>
+                <p>I am Sir,</p>
+                <closer>yours respectfully<lb/>Edith B. André.</closer>
+</div><div type="writingSession"><p>Thursday 26/67. <pb/></p>
+            </div></body></text></TEI>

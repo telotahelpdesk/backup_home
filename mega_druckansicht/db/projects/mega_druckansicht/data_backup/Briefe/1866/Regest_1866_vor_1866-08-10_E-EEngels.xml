@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_zqy_py2_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Engels an Elisabeth Engels. Vor Freitag, 10. August 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <date when="1866-08-09" cert="low"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00153"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Engels an Elisabeth Engels, geschrieben vor dem 10.
+                    August 1866: siehe  <ref target="B00152">Hermann Engels an Friedrich Engels in
+                        Manchester. Barmen, Montag, 13. August 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

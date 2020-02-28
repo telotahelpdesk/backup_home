@@ -1,0 +1,452 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00413" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>403</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Samstag, 2. November 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4499/L VI
+                                                  631</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format 228 × 180 mm. Prägung:
+                                                  Wappenschild mit Lilie mit der Aufschrift „Satin
+                                                  vergee“. Marx hat die ersten drei Seiten
+                                                  vollständig, die vierte Seite fast zur Hälfte
+                                                  beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung
+                                                  des Briefes bzw. der beschriebenen Seiten: „48,1“
+                                                  bis „48,4“.</p>
+                                                <p/>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2106</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                                                  (1913).<?oxy_custom_end?>
+                                                S. 419–422.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName>London</placeName>
+                                        <date when="1867-11-02"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                                <correspContext>
+                                        <ref type="prev" target="B00411"/>
+                                        <ref type="next" target="B00418"/>
+                                </correspContext>
+                                <note>Marx beantwortet Engels’ Brief vom 1. November 1867 (siehe
+                                                <ref target="B00411"><?oxy_comment_start author="lindenberg" timestamp="20190226T182639+0100" comment="Br. 402"?>Engels
+                                                an Marx, 1.11.1867<?oxy_comment_end?></ref>). Engels
+                                        antwortete Marx am 5. November 1867 (siehe <ref target="B00418"><?oxy_comment_start author="lindenberg" timestamp="20190226T182705+0100" comment="Br. 408"?>Engels
+                                                an Marx, 5.11.1867</ref><?oxy_comment_end?>).</note>
+                                <note>Zu den Beilagen („Einliegend Brief des deutschen
+                                        Communistenvereins“; „Der einliegende Brief v. Maughan“) zum
+                                        Brief siehe Erl. </note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:47:27Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> 2 Nov.
+                                                1867.</dateline>
+                                        <salute>Dear Fred,</salute>
+                                </opener>
+                                <p>Ich habe in <expan>d<ex>er</ex></expan>
+                                        lezten Zeit zwar keine entwickelten carbuncles, aber
+                                        beständige Anfänge, die immer wieder verschwinden, but fret
+                                        me. Daneben die alte Schlaflosigkeit. Doch ists besser seit
+                                        about 3 days. Das Stillschweigen über <seg type="comment"><orig>mein Buch</orig><note xml:id="f0f63c86-a8c0-46eb-865c-38efc9a8fe15"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                                  Buch 1. Hamburg 1867.</bibl></note></seg> macht
+                                        mich fidgety. Ich höre u. sehe nichts. Die Deutschen sind
+                                        gute Kerls. <hi rendition="#u">Ihre</hi> Leistungen als
+                                        Bediente <expan>d<ex>er</ex></expan> Engländer, Franzosen u.
+                                        selbst Italiener auf diesem Gebiet berechtigten sie in der
+                                        That meine Geschichte zu ignoriren. Unsre Leut’ drüben
+                                        verstehn nicht zu agitiren. Indeß muß mans machen wie die
+                                        Russen – warten. Die Geduld ist der Kern der russischen
+                                        Diplomatie u. Erfolge. Aber unser einer, der nur einmal
+                                        lebt, kann darüber verrecken.</p>
+                                <p><add place="superlinear"><seg type="comment"><?oxy_comment_start author="lindenberg" timestamp="20181207T093423+0100" comment="{v403} |:°Einliegend Brief {bis} Knotenstyl.°:|
+Variante/Einfügung noch an der Hs. prüfen
+!Problem: im Text der Variante ist eine Erl., dadurch wird in der Webansicht nicht mehr die ganze Passage als Einfügung sichtbar!"?><orig>Einliegend
+                                                  Brief <expan>d<ex>es</ex></expan> deutschen
+                                                  Communistenvereins.</orig><note xml:id="bcc3f0d8-d1d2-47dd-af42-33784cafe284">Siehe <ref target="B00410"><?oxy_comment_start author="reichhoff" timestamp="20180606T103117+0200" comment="(Br. 400)"?>K.
+                                                  Speyer an Marx, Ende Oktober
+                                                  1867<?oxy_comment_end?></ref> und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190905T124502+0200" comment="(Br. 400) und Erl. 35a{Jg. 1866}."?>Erl.<?oxy_comment_end?> </note></seg>
+                                                Gut gemeint. Aber sonderbarer
+                                        Knotenstyl.</add><?oxy_comment_end?></p>
+                                <p><seg type="comment"><orig>Der einliegende Brief v. <persName key="ed_ic1_222_pdb">Maughan</persName></orig><note xml:id="efab49d9-48a9-485d-a74b-7033e690b634">Siehe <ref target="B00409"><?oxy_comment_start author="reichhoff" timestamp="20180606T103206+0200" comment="(Br. 399)"?>J.
+                                                  Maughan an Marx,
+                                                  27.10.1867<?oxy_comment_end?></ref>.</note></seg>,
+                                        Rentier, alter Owenit, sehr anständiger Kerl. <seg type="comment"><orig>Die Leute bezwecken offenbar <subst>
+                                                  <del rendition="#s">sich<sic ana="#break-off"/></del>
+                                                  <add place="intralinear">die
+                                                  Freethinkbewegung</add>
+                                                  </subst> v. <expan>d<ex>en</ex></expan>
+                                                  professional agitators <persName key="ed_d1d_4wh_yx">Bradlaugh</persName> etc zu
+                                                  emancipiren.</orig><note xml:id="nxmk_p1x_xgb">Siehe <ref target="B00409"><?oxy_comment_start author="lindenberg" timestamp="20190902T110846+0200" comment="(Br. 399) und Erl. 399a {399.8}"?>J.
+                                                  Maughan an Marx, 27. Oktober
+                                                  1867<?oxy_comment_end?></ref>. <persName key="ed_d1d_4wh_yx">Charles Bradlaugh</persName>
+                                                  hatte 1866 die <orgName key="ed_z3m_5lc_y3b">National Secular Society</orgName> gegründet und
+                                                  wurde ihr erster Präsident.</note></seg>
+                                        <seg type="comment"><orig>Ich habe höflichst
+                                                  abgelehnt.</orig><note xml:id="bc02341a-2f84-41b7-89b8-9160938d2389">Marx’ Brief an John Maughan, geschrieben zwischen
+                                                  27. Oktober und 2. November 1867, ist nicht
+                                                  überliefert.</note></seg> Einerseits hätte ich bei
+                                        der Gelegenheit zwar, was mir so sehr fehlt, allerlei Leute
+                                        kennen lernen können, die mehr od. weniger, direkt od.
+                                        indirekt, mit <expan>d<ex>er</ex></expan> englischen Presse
+                                        in Verbindung stehn. Andrerseits habe ich keine Zeit u.
+                                        finde es auch unpassend in <expan>d<ex>em</ex></expan>
+                                        leading Committee irgend einer englischen Sekte zu
+                                        figuriren.</p>
+                                <p>Ein gewisser<seg type="comment"><orig>
+                                                  <persName key="ed_ot1_s4x_mcb"><add place="superlinear">Egerton</add>
+                                                  Herbert</persName></orig><note xml:id="nljd_rxr_dhb">Marx meint <persName key="ed_ot1_s4x_mcb">Auberon
+                                                  Herbert</persName>.</note></seg>, Bruder des
+                                                <persName key="ed_qgg_zmv_zgb">earl of
+                                                Carnarvon</persName> u. cousin des <persName key="ed_wqr_x21_1db">Stepney</persName> (der
+                                        Mitglied unsres Central Council) <del rendition="#s">hat<sic ana="#break-off"/></del> u. vielerlei in
+                                        Socialismus macht (i.e. Cooperative dodges etc) hat mich
+                                        durch den Stepn<ex>ey</ex> um Rendezvous ersucht. Da ich den
+                                        Mann erst sehn u. beriechen will, habe ich ihm dieß für
+                                        nächsten Dienstag <subst>
+                                                <del rendition="#s">im<sic ana="#break-off"/></del>
+                                                <add place="across">in</add>
+                                        </subst> der Cleveland Hall, wo wir unsre Sitzungen halten,
+                                        anberaumt. Vielleicht kann <seg type="comment"><orig>dieser
+                                                  „Kanal“ (<persName key="pdrPo.001.004.000004961">Vogt</persName>)</orig><note xml:id="df487e12-9b40-4a08-9b4d-72075e572d25">Anspielung auf folgende Aussage <persName key="pdrPo.001.004.000004961">Carl
+                                                  Vogts</persName> in seinem Buch „<bibl sameAs="zotero-604880-VZPA4JF6" type="primary">Mein Prozess gegen die Allgemeine Zeitung.
+                                                  Stenographischer Bericht, Dokumente und
+                                                  Erläuterungen.</bibl>“ Genf 1859. S. 144: „Wenn
+                                                  mich mein Gedächniss nicht trügt, so war das
+                                                  Cirkular, von welchem Techow hier spricht,
+                                                  allerdings von einem Parteigänger Marx’s, dem
+                                                  sogenannten Parlaments-Wolf abgefaßt und wurde der
+                                                  hannöver’schen Polizei in die Hände gespielt. –
+                                                  Auch jetzt wieder taucht dieser Canal in der
+                                                  Geschichte des Cirkulars der ‚Vaterlandsfreunde an
+                                                  die Gothaer‘ auf“. Marx machte sich über das von
+                                                  Vogt häufig gebrauchte Wort „Kanal“ in seinem
+                                                  Pamphlet „Herr Vogt“ lustig. (MEGA<hi rendition="#sup">2</hi> I/18. S. 100.11–18.)
+                                                </note>
+                                        </seg><subst>
+                                                <del rendition="#s">fxx</del>
+                                                <add place="intralinear">zu</add>
+                                        </subst> Buchhändlern <pb/> dienen.</p>
+                                <p>À Propos. Die Subcriptions für <expan>d<ex>ie</ex></expan>
+                                        Intern. sind jezt zu erneuern. <seg type="comment"><orig>Sobald <persName key="pdrPo.001.004.000003296">Moore</persName>
+                                                  zurück,</orig><note xml:id="c89eb390-9dda-453d-b1ff-fe6f93d393f5">Zur
+                                                  Reise <persName key="pdrPo.001.004.000003296">Samuel Moores</persName> nach Deutschland siehe
+                                                  <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180606T103436+0200" comment="(Br. 330.31–33)"?>Engels
+                                                  an Marx, 2.9.1867<?oxy_comment_end?></ref> „Moore
+                                                  geht ...“ und Erl.</note></seg> schickt Eure
+                                                  <expan>Subsc<ex>riptions</ex></expan> per <hi rendition="#u">Postoffice order</hi>
+                                        <add place="superlinear">(Charing Cross)</add> an mich, aber
+                                        gezogen auf unsren treasurer:<hi rendition="#u"> Robert
+                                                  <persName key="pdrPo.001.004.000004412">Shaw</persName></hi><hi rendition="#u">,</hi> 62,
+                                        Hall Place, Hall Park, London. W. Es wäre wünschenswerth,
+                                        wenn <persName key="pdrPo.001.004.000004311">Schorlemer</persName>, sei es auch nur a few
+                                        shillings, gleichzeitig mit euch schickte. <seg type="comment"><orig>Ist er zurück?</orig><note xml:id="a9505c56-e426-46c0-a727-97789196ad55"><persName key="pdrPo.001.004.000004311">Carl
+                                                  Schorlemmer</persName> nahm an der 41. Versammlung
+                                                  deutscher Naturforscher und Ärzte in Frankfurt am
+                                                  Main im September 1867 (siehe <ref target="B00316"><?oxy_comment_start author="reichhoff" timestamp="20180606T103528+0200" comment="(Br. 307)"?>L.
+                                                  und G. Kugelmann an Marx,
+                                                  12.8.1867<?oxy_comment_end?></ref> „In den beiden
+                                                  letzten Städten ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191021T141313+0200" comment="307g"?>Erl.<?oxy_comment_end?>) teil.
+                                                  Siehe <ref target="B00426"><?oxy_comment_start author="reichhoff" timestamp="20180606T103615+0200" comment="(Br. 416.72–73)"?>Engels
+                                                  an L. Kugelmann, 8. und
+                                                  20.11.1867<?oxy_comment_end?></ref> „Schorlemmer
+                                                  hat sich ...“.</note></seg> Wann erhalte ich <seg type="comment"><orig>seine Chemie</orig><note xml:id="e6a48727-f582-4067-a783-61470eebb485"><bibl sameAs="zotero-604880-QYK9AV9R" type="primary">H[enry] E[nfield] Roscoe: Kurzes
+                                                  Lehrbuch der Chemie nach den neuesten Ansichten
+                                                  der Wissenschaft. Deutsche Ausg., unter Mitwirkung
+                                                  des Verf. bearb. von Carl Schorlemmer. Mit
+                                                  zahlreichen in den Text eingedruckten Holzstichen
+                                                  und einer Spectraltafel. Braunschweig 1867</bibl>.
+                                                  – Handexemplar von Marx der <bibl sameAs="zotero-604880-CF6FZRZD" type="primary">4. Aufl.</bibl> von 1873 siehe MEGA<hi rendition="#sup">2</hi> IV/32. Nr.
+                                                1139.</note></seg>?</p>
+                                <p>Ich weiß nicht, ob Dir <seg type="comment"><orig>der Verlauf der
+                                                  italien. Affaire</orig><note xml:id="bfe93f05-0ef1-468c-bbcd-ebde355734a2">Siehe <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180606T103723+0200" comment="(Br. 397.33–36)"?>Engels
+                                                  an Marx, 22.11.1867<?oxy_comment_end?></ref>
+                                                  „Victor Emanuel scheint ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191021T140145+0200" comment="397k"?>Erl.<?oxy_comment_end?> </note></seg>,
+                                        wovon <expan>d<ex>ie</ex></expan> Bruchstücke
+                                        accidentellement durch Auszüge aus russischen etc Blättern,
+                                        sich in <expan>d<ex>ie</ex></expan> englische <add place="superlinear">u. deutsche</add> Presse
+                                        verliefen, bekannt ist. Man übersieht solche Fäden
+                                        leicht.</p>
+                                <p><seg type="comment"><orig>Herr <persName key="pdrPo.001.004.000003392">Bonaparte</persName>
+                                                  hatte zu Zeiten <expan>d<ex>er</ex></expan>
+                                                  luxemburgischen Affaire</orig><note xml:id="f9f503ac-adb9-4084-b594-53b3e0b87818">Siehe <ref target="B00243"><?oxy_comment_start author="reichhoff" timestamp="20180606T103854+0200" comment="(Br. 234)"?>Marx
+                                                  an Engels, 2. April 1867<?oxy_comment_end?></ref>
+                                                  „Die Luxemburger Affaire ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191021T143336+0200" comment="234j."?>Erl.<?oxy_comment_end?> </note></seg>
+                                        <seg type="comment"><orig>eine Convention (informal) mit
+                                                  <persName key="pdrPo.001.004.000004955"><expan>Vict<ex>or</ex></expan>
+                                                  Emmanuel</persName> gemacht, wonach lezterer
+                                                  <expan>d<ex>as</ex></expan> Recht erhielt sich
+                                                  <expan>d<ex>en</ex></expan> Rest
+                                                  <expan>d<ex>es</ex></expan> Kirchenstaats ausser
+                                                  Rom zu annexiren, dagegen Trutzbündniß gegen
+                                                  Preussen im Kriegsfall</orig><note xml:id="ff4d5a56-f13f-4b1a-96db-e2d4883d06c3"> Die
+                                                  französisch-italienische Konvention vom
+                                                  15. September 1864 hatte dem Kirchenstaat Rom die
+                                                  Unantastbarkeit garantiert, jedoch den weitaus
+                                                  größten Teil seines Territoriums bei Italien
+                                                  belassen. Entsprechend der Konvention sollte
+                                                  Frankreich seine seit der Revolution 1848/49 in
+                                                  Italien stationierten Truppen bis zum Herbst 1866
+                                                  aus Rom abziehen. Italien seinerseits
+                                                  verpflichtete sich, Rom nicht anzugreifen und
+                                                  jeden Angriff auf den Kirchenstaat abzuwehren. Als
+                                                  im Herbst 1867 die Freischaren <persName key="pdrPo.001.004.000001724">Guiseppe
+                                                  Garibaldis</persName> in Rom eindrangen (siehe
+                                                  <ref target="B00407">Engels an Marx,
+                                                  22.10.1867</ref> „Victor Emanuel scheint ...“ und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191021T143621+0200" comment="397k"?>Erl.<?oxy_comment_end?>),
+                                                  kam es zu geheimen italienisch-französischen
+                                                  Verhandlungen, um die September-Konvention zu
+                                                  revidieren. Preußen, das mit Italien alliiert war,
+                                                  wurde von diesen Verhandlungen nicht unterrichtet.
+                                                  Im Oktober 1867 schickte <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  dem preußischen Gesandten in Florenz, <persName key="pdrPo.001.004.000004864">Graf von
+                                                  Usedom</persName>, eine Depesche, in der er seinen
+                                                  Standpunkt zu diesen Verhandlungen darlegte. Er
+                                                  wies Usedom an, zur römischen Frage „eine rein
+                                                  beobachtende Haltung“ einzunehmen und die
+                                                  Entwicklung abzuwarten.</note></seg>. Als nun <seg type="comment"><orig>die pr. Scheisse sich in
+                                                  Wohlgefallen verlief,</orig><note xml:id="f106a968-cc48-495a-bfe7-732f54708648">Vermutlich<?oxy_comment_start author="lindenberg" timestamp="20191021T153416+0200" comment="Mit dem Sieg Preußens über Österreich im Deutschen Krieg 1866 wurde der entscheidenden Schritt zur Vereinigung Deutschlands getan. Schleswig-Holstein, Hannover, Kurhessen, Nassau und die Freie Stadt Frankfurt a. M. wurden der preussischen Monarchie mit der Gründung des Norddeutschen Bundes einverleibt. (siehe Erl. 142l {Jg. 1866}). (Siehe Baumgart: Europäisches Konzert … S. 384/385."?>
+                                                  ist die Gründung des Norddeutschen
+                                                  Bundes<?oxy_comment_end?>
+                                                  gemeint.<?oxy_comment_start author="lindenberg" timestamp="20190228T105237+0100" comment="{kommentar-lb}Formulierung überarbeiten? s. https://de.wikipedia.org/wiki/Bundestag_(Deutscher_Bund){/kommentar-lb}"?></note><?oxy_comment_end?></seg>
+                                        wurde Herr Bonaparte des Dings leid u. <subst>
+                                                <del rendition="#ow">suchte sich mit seiner
+                                                  gewöhnlichen Pfiffigkeit an Oestreich zu
+                                                  machen.</del>
+                                                <add place="superlinear">suchte mit
+                                                  <expan>s<ex>eine</ex>r</expan> gewöhnlichen
+                                                  Pfiffigkeit den Emmanuel zu verrathen u. sich an
+                                                  Oestreich zu machen.</add>
+                                        </subst>
+                                        <seg type="comment"><orig>In Salzburg kam es bekanntlich
+                                                  auch zu nichts</orig><note xml:id="db8343b4-ba97-4b8d-a17d-ed2971761520">Anspielung auf ein Zusammentreffen <persName key="pdrPo.001.004.000003392">Napoleons III.</persName> mit Kaiser <persName key="pdrPo.001.004.000001622">Franz Joseph
+                                                  I.</persName> von Österreich, das am 18. August
+                                                  1867 in Salzburg stattfand. Napoleon III. hatte
+                                                  die Absicht, mit Österreich einen Vertrag gegen
+                                                  Preußen und Rußland zu schließen. Da Österreich
+                                                  jedoch in keinen neuen Konflikt mit Preußen
+                                                  geraten wollte und auf beiden Seiten Mißtrauen
+                                                  vorherrschte, kam der Vertrag nicht
+                                                  zustande.</note></seg> u. so schien für Zeitlang
+                                                  <expan>d<ex>er</ex></expan> europ. Hexenkessel
+                                        nicht zu sieden. Die Herrn Russen unterdessen, die sich wie
+                                        gewöhnlich eine Copie der Convention verschafft hatten,
+                                        fanden <expan>d<ex>en</ex></expan> Augenblick gekommen, sie
+                                        Herrn <persName key="pdrPo.001.004.000000441">Bismark</persName> mitzutheilen, der sie
+                                        seinerseits d<ex>ur</ex>ch <seg type="comment"><orig>den<persName key="pdrPo.001.004.000004864">
+                                                  pr. Gesandten</persName></orig><note xml:id="e895a000-b3fc-4135-9280-96fa547e6b0c"><persName key="pdrPo.001.004.000004864">Karl
+                                                  Georg von Usedom</persName>.</note></seg>
+                                        <seg type="comment"><orig>dem <persName key="pdrPo.001.004.000003745">Pabst</persName></orig><note xml:id="b481d280-e7ac-4854-8b65-a7b6426f4d31"><persName key="pdrPo.001.004.000003745">Pius
+                                                  IX.</persName>
+                                                </note></seg> vorlegen ließ. Darauf, auf Wink
+                                                  <expan>d<ex>es</ex></expan> Pabst, <seg type="comment"><orig>die Brochüre
+                                                  <expan>d<ex>es</ex></expan> Bischof <persName key="pdrPo.001.004.000001274">Dupanloup</persName>, <pb/> v.
+                                                  Orleans.</orig><note xml:id="f378a51d-4ba8-418f-8e40-96fbcc5ff6ab"><persName key="pdrPo.001.004.000001274">Félix
+                                                  Dupanloup</persName> formulierte am 15. September
+                                                  1867 einen offenen Brief, anläßlich des dritten
+                                                  Jahrestages der französisch-italienischen
+                                                  Konvention vom 15. September 1864 über die
+                                                  Unantastbarkeit des Kirchenstaates (siehe
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191022T085514+0200" comment="Marx an Engels, 2. November 1867 und Erl. 403j"?>Erl.
+                                                  oben<?oxy_comment_end?>). Er wandte sich an den
+                                                  Ministerpräsidenten conte <persName key="pdrPo.001.004.000003887">Urbano
+                                                  Rattazzi</persName> und forderte die Regierung
+                                                  Italiens auf, <persName key="pdrPo.001.004.000001724">Guiseppe
+                                                  Garibaldis</persName> Bewegung zur Eingliederung
+                                                  des Kirchenstaats in das vereinigte Italien zu
+                                                  bekämpfen. Der Brief erschien in der „<bibl sameAs="ed_skn_whr_tgb" type="periodika">Gazette
+                                                  de France</bibl>“ und als Broschüre unter dem
+                                                  Titel „<bibl sameAs="zotero-604880-4RVWZQHK" type="primary">Lettre à M. Ratazzi, Président du
+                                                  Conseil des Ministres du Roi d’Italie sur les
+                                                  Entreprises de Garibaldi</bibl>“, ergänzt durch
+                                                  ein „<bibl sameAs="zotero-604880-T8SWW9Y5" type="primary">Post-Scriptum de la Lettre à M.
+                                                  Ratazzi</bibl>“.</note></seg> Andrerseits
+                                                <persName key="pdrPo.001.004.000001724">Garibaldi</persName> v. <persName key="pdrPo.001.004.000004955">Emmanuel</persName>
+                                        lancirt. Später: <persName key="pdrPo.001.004.000003887">Ratazzi</persName> entlassen als Preussenfeind u.
+                                        Bonapartist. So das jetzige Imbroglio. Der Scheißhund
+                                                <persName key="pdrPo.001.004.000003392">Bonaparte</persName> sizt jezt tief im Dreck.
+                                        Krieg, nicht nur mit Italien, sondern Preussen u. Rußland u.
+                                        in einer Sache, die in Fkch den fanatischsten Haß v. Paris
+                                        etc genießt, <add place="superlinear">in England verhaßt
+                                                etc</add> – oder abermalige Retirade! Der Kerl
+                                        suchte sich durch Appell an Europa zu retten, <hi rendition="#u">Europ. Congreß</hi>. Aber Preussen u.
+                                        England haben ihm bereits geantwortet, er möge die Sauce
+                                        allein ausfressen. Der Kerl irrt sich im Datum. Er ist nicht
+                                        mehr der russisch europäische Geheimgeneral.</p>
+                                <p>Wenn Retirade, so bei <expan>d<ex>en</ex></expan> jetzigen Getreidepreisen,
+                                        Geschäftskrisis u. Verdrießlichkeit in Fkch. Revolution
+                                        möglich one fine morning.</p>
+                                <p>Unser <persName key="pdrPo.001.004.000000441">Bismark</persName> –
+                                        obgleich er Hauptwerkzeug <expan>d<ex>er</ex></expan>
+                                        russischen Intriguen – hat <expan>d<ex>as</ex></expan> Gute,
+                                        daß er <expan>d<ex>ie</ex></expan> Sachen in Fkch zur Krise
+                                        treibt. Was aber unsre deutschen Philister betrifft, so hat
+                                        ihre ganze Vergangenheit bewiesen, daß ihnen die Einheit nur
+                                        von
+                                        <?oxy_comment_start author="lindenberg" timestamp="20181207T111018+0100" comment="{Divis fehlt, stillschw. einfügen? oder ohne Divis lassen?} = fehlender Bindestrich"?>Gottes<?oxy_comment_end?>
+                                        u. Säbelgnaden octroyirt werden kann.</p>
+                                <p><seg type="comment"><orig>Der Fenian Prozeß in Manchester alles,
+                                                  was man erwarten konnte.</orig><note xml:id="c2fbf09b-e15b-4ca0-948f-4d45d3f83be4">Vom
+                                                  28. Oktober bis 13. November 1867 fand in
+                                                  Manchester der Prozeß gegen fünf wegen Mordes
+                                                  angeklagte Fenier statt. Trotz aller Bemühungen
+                                                  von <persName key="pdrPo.001.004.000002387">Ernest
+                                                  Jones</persName>, der einer der Verteidiger war,
+                                                  wurden die fünf Beschuldigten (siehe <ref target="B00358">Engels an Laura Marx,
+                                                  23.9.1867</ref> und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191111T111129+0100" comment="349f"?>Erl.<?oxy_comment_end?>)
+                                                  zum Tode verurteilt. In Irland und nach
+                                                  anfänglichem Zögern auch in England wurde in
+                                                  politischen Versammlungen, Petitionen und
+                                                  Demonstrationen vergeblich die Umwandlung der
+                                                  Todesstrafen in Haftstrafen verlangt. Nur einer
+                                                  der Verurteilten (<persName key="ed_hsb_ddz_rcb">Thomas Maguire</persName>) wurde später
+                                                  begnadigt; bei einem zweiten (Edward O’Meagher
+                                                  Condon) wurde die Todesstrafe in lebenslängliches
+                                                  Zuchthaus umgewandelt. Die anderen (<persName key="ed_nsv_bxm_qcb">Michael Larkin</persName>,
+                                                  <persName key="ed_gd4_4n4_qgb">William
+                                                  Allen</persName> und <persName key="ed_krb_jlb_wcb">Michael O’Brien</persName>)
+                                                  wurden am 23. November 1867 hingerichtet. In
+                                                  Irland wurden die Hingerichteten daraufhin zu
+                                                  Märtyrern der nationalen Sache. (Siehe <bibl sameAs="zotero-604880-HDEZQIBB" type="secondary">Rose: The Manchester Martyrs</bibl>. S. 52–64;
+                                                  <bibl sameAs="zotero-604880-FYE5235L" type="secondary">Rutherford: The Secret History of
+                                                  the Fenian Conspiracy</bibl>. Vol. 2. S. 303–305,
+                                                  sowie <bibl sameAs="zotero-604880-MQ5YMCNL" type="secondary">Crilly: The Fenian
+                                                  Movement</bibl>. S. 70ff.)</note></seg> Du wirst
+                                        gesehn haben, <seg type="comment"><orig>welchen Scandal
+                                                  „unsre Leut“ in <expan>d<ex>er</ex></expan> Reform
+                                                  League gemacht. Diese Demonstration
+                                                  <expan>d<ex>er</ex></expan> englischen Arbeiter
+                                                  für Fenianism habe ich auf alle Art zu provociren
+                                                  gesucht</orig><note xml:id="edf35702-28d4-4d6a-a550-0afbc89e8aea"> Am
+                                                  23. Oktober 1867 wurde im Generalrat der
+                                                  Reformliga (siehe <ref target="B00007">Erl. zu
+                                                  Marx an J. Ph. Becker, zw. 9. u. 15.1.1866</ref>)
+                                                  ein Brief des Vorsitzenden <persName key="pdrPo.001.004.000000296">Edmond
+                                                  Beales</persName> diskutiert, in welchem dieser
+                                                  sich für Proteste gegen die von der Regierung
+                                                  beabsichtigte Bewaffnung der britischen Polizei
+                                                  und gegen eine „foolish Fenian panic“ aussprach.
+                                                  Gleichzeitig bedauerte er, daß die Fenier den Weg
+                                                  der Gewalt beschritten und zur Trennung und
+                                                  Schwächung der Reformbewegungen in Irland und
+                                                  England beigetragen hätten. Die
+                                                  Generalratsmitglieder <persName key="pdrPo.001.004.000002922">Benjamin
+                                                  Lucraft</persName> und <persName key="pdrPo.001.004.000003494">George
+                                                  Odger</persName> traten gegen die Veröffentlichung
+                                                  von Beales’ Brief auf und brachten ihre volle
+                                                  Unterstützung für die irische Befreiungsbewegung
+                                                  zum Ausdruck. Die Diskussion, über die in der
+                                                  „<bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl>“ und im „<bibl sameAs="ed_f1z_lhf_lbb" type="periodika">Bee-Hive</bibl>“ berichtet wurde (siehe Fenianism
+                                                  and the Reform League. In: The Times. London.
+                                                  Nr. 25 951, 25. Oktober 1867. S. 10, Sp. 2; The
+                                                  Reform League. Meeting of the General
+                                                  Council.––Mr. Beales on Fenianism.––Extraordinary
+                                                  Scene. In: The Bee-Hive Newspaper. London.
+                                                  Nr. 315, 26. Oktober 1867. S. 1, Sp. 3/4), rief im
+                                                  Vorstand der Liga Befürchtungen hervor. Der auf
+                                                  Odger und Lucraft ausgeübte Druck hatte zur Folge,
+                                                  daß beide in den Sitzungen des Generalrats der
+                                                  Reformliga am 30. Oktober und 1. November
+                                                  zurückwichen und erklärten, sie seien falsch
+                                                  verstanden worden. In einer abschließenden
+                                                  Resolution, in der weder Irland noch die fenische
+                                                  Bewegung erwähnt wurden, distanzierte sich der
+                                                  Generalrat der Reformliga von jeder
+                                                  Gewaltanwendung als politischem Mittel. (Siehe The
+                                                  Reform League. Meeting of the General
+                                                  Council.–Fenianism. In: The Bee-Hive Newspaper.
+                                                  London. Nr. 316, 2. November 1867. S. 1, Sp. 3/4.
+                                                  Siehe auch die entsprechenden Einträge unter dem
+                                                  26. und 30. Oktober sowie 1. November 1867 im
+                                                  Minute Book des Reform League Council, Bishopsgate
+                                                  Institute, Howell, Sign. 11/1B/1. Ausführlicher
+                                                  darüber siehe MEGA<hi rendition="#sup">2</hi>
+                                                  I/21. S. 1175/1176.)</note></seg>.</p>
+                                <p>Salut</p>
+                                <closer>D<lb/>KM </closer>
+                                <postscript>
+                                        <p>Ich habe früher Trennung Irlands v. Engld
+                                                  <expan>f<ex>ür</ex></expan> unmöglich gehalten.
+                                                Ich halte sie jezt für unvermeidlich, obgleich nach
+                                                  <expan>d<ex>er</ex></expan> Trennung <hi rendition="#u">Federation</hi> kommen mag. Wie
+                                                  <expan>d<ex>ie</ex></expan> Engländer vorangehn,
+                                                beweist <seg type="comment"><orig><expan>d<ex>ie</ex></expan> vor einigen
+                                                  Tagen erschienene Agric. Statist. für dieß
+                                                  Jahr</orig><note xml:id="f71fd64c-d0fb-4915-a93b-30dd30165186">Agricultural statistics, Ireland. Tables showing
+                                                  the estimated average produce of the crops for the
+                                                  year 1866; and the emigration from Irish ports,
+                                                  from 1<hi rendition="#sup">st</hi> January to
+                                                  31<hi rendition="#sup">st</hi> December, 1866;
+                                                  also the number of mills for scutching flax in
+                                                  each county and province. Dublin
+                                                  1867.</note></seg>. Dazu
+                                                  <expan>d<ex>ie</ex></expan> Form
+                                                  <expan>d<ex>er</ex></expan> Eviction. Der irische
+                                                Viceroy, <seg type="comment"><orig><persName key="ed_zd3_5xq_4gb">Lord
+                                                  Abicorn</persName></orig><note xml:id="a4c01355-c02d-4c87-bda5-9c9e2f539451"><persName key="ed_zd3_5xq_4gb">James Hamilton
+                                                  Abercorn</persName>.</note></seg> (so <hi rendition="#u">ungefähr</hi> ist
+                                                  <expan>d<ex>er</ex></expan> Name) hat in den
+                                                lezten Wochen seinen Estate durch gewaltsame
+                                                Exekution v. Tausenden „cleared“. <subst>
+                                                  <del rendition="#s">Es</del>
+                                                  <add place="intralinear"><sic ana="#break-off"/>Darunter</add>
+                                                </subst> wohlhabende Pächter, deren improvements u.
+                                                Kapitalanlagen in dieser Weise confiscirt! In keinem
+                                                andren europ. Land hat <expan>d<ex>ie</ex></expan>
+                                                Fremdherrschaft diese direkte Form der Expropriation
+                                                  <expan>d<ex>er</ex></expan> Eingebornen. Die
+                                                Russen confisciren nur aus politischen Gründen; die
+                                                Preussen in Westpreussen kaufen aus. </p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00403" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>393</idno>Collet Dobson Collet an Karl Marx in London. London, Samstag, 19. Oktober 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 805/D II 4–33 Fotosign. 9350&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 230 × 177 mm. Alle vier Seiten hat Collet vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1756</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000956">Collet Dobson Collet</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-19"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Collet beantwortet vermutlich einen nicht überlieferten Brief von Marx,
+                    geschrieben zwischen 8. und 14.10.1867 (siehe <ref target="B00395">Marx an
+                        Engels,
+                    14.10.1867</ref><?oxy_comment_start author="reichhoff" timestamp="20190221T115238+0100" comment="Br. 385.34–35"?>)<?oxy_comment_end?>,
+                    in dem Marx Collet gebeten hatte, ihm die von Wilhelm Liebknecht angefragte
+                    Information über die Vollmachten und Akten der Kommissionen des britischen
+                    Parlaments (siehe <ref target="B00382">W. Liebknecht an Marx, 8.10.1867</ref>)
+                    zur Verfügung zu stellen.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:21Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Sunny Bank-Hirnsey Lane<lb/>19 October
+                        1867</dateline>
+                    <salute>My dear Sir</salute>
+                </opener>
+                <p>A Select Committee of the House of Commons receives its
+                    power specially from the House.—These powers are to send for persons, papers and
+                    records and to examine witnesses but not upon oath.—A Select Committee <pb/> of
+                    the House of Lords derives its powers specially from the House and has, besides
+                    the powers already mentioned, the power of examining witnesses upon oath, the
+                    House of Lords being a court of law.—</p>
+                <p>I think a Royal Commission has no more power than a
+                    Committee of the House of Commons but I am not sure whether it <pb/> has not
+                    also the power of examining upon oath.—</p>
+                <p>The power of pardoning professed by the Trades Union
+                    Commissions is granted by special Acts of Parliament.—</p>
+                <p><seg type="comment"><orig>I forward an old copy of the Orders of the House of
+                            Commons</orig><note xml:id="fa976751-9084-4161-b454-0215d7232919">Diese
+                            Quelle konnte nicht ermittelt werden. Marx hatte sich sich hierüber
+                            erkundigt, um Wilhelm Liebknecht eine entsprechende Auskunft über das
+                            britische Parlament geben zu können. Siehe <ref target="B00382"><?oxy_comment_start author="lindenberg" timestamp="20190814T114053+0200" comment="(Br. 372.15–18)"?>W.
+                                Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref> und Erl.
+                            sowie <ref target="B00395"><?oxy_comment_start author="lindenberg" timestamp="20190814T114207+0200" comment="(Br. 385.34)"?>Marx
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref>.</note></seg> which
+                    please to return when you have quite <pb/> done with it.—</p>
+                <p>The subject will probably be treated at length in <seg type="comment"><orig>May’s
+                            book on the House of Commons</orig><note xml:id="a0e88c90-1fa1-42b8-b956-ed76963bf95d">Die Quelle konnte nicht
+                            ermittelt werden.</note></seg>.—I am sorry that I am too busy at home to
+                    be able to go to the <seg type="comment"><orig>Museum</orig><note xml:id="ac99dabe-bbe9-4b21-b52c-6b5aa612a0e2">The British
+                        Museum.</note></seg> and search it for you.—</p>
+                <closer>Yours very truly<lb/>CDCollet</closer>
+</div><div type="writingSession"><p>D<hi rendition="#sup">r.</hi> Marx <pb/></p>
+            </div></body></text></TEI>

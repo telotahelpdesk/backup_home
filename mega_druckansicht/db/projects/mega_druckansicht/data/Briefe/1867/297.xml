@@ -1,0 +1,124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00306" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>297</idno>Edward Spencer Beesly an Karl Marx in London.
+                                        London, Mittwoch, 24. Juli 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 1 op. 5 d.
+                                                  1717</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen festem, weißem
+                                                  Papier im Format 226 × 180 mm. Prägung: „University Hall, Gordon
+                                                  Square, W.C.“ Alle vier Seiten hat Beesly
+                                                  vollständig beschrieben. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Archivsignatur des Moskauer
+                                                  Marx-Engels-Instituts (IMĖ):
+                                                  „Rj 1404&lt;a–d&gt;“.</p>
+                                                <p>Von unbekannter Hand: auf der ersten Seite oben
+                                                  rechts mit Bleistift der Vermerk: „1867“.</p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness>
+                                                <bibl type="print" sameAs="zotero-604880-C3ITJW5J">Erstveröffentlichung eines Auszugs:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Harrison:
+                                                  E.S. Beesly and Karl Marx
+                                                  (1959<?oxy_custom_end?>). S. 38/39;
+                                                  </bibl>
+                                        </witness>
+                                        <witness>
+                                                <bibl>vollständig wird der Brief hier erstmals veröffentlicht.</bibl>
+                                        </witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000000329">Beesly, Edward
+                                                Spencer (1831-1915)</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                        <date when="1867-07-24"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                </correspAction>
+                                <note>Beesly beantwortet einen nicht überlieferten Brief von Marx,
+                                        geschrieben vor dem 24. Juli 1867.</note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:46:04Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> July 24.
+                                                1867</dateline>
+                                        <salute/><hi rendition="#u">Private</hi><salute/><salute>Dear Sir</salute>
+                                </opener>
+
+                                <p>I have received your letter &amp; <seg type="comment"><orig>the
+                                                  copy of the <bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                                                  Français</bibl></orig><note xml:id="d330272d-8a88-49d2-bb75-bef2699bf11c">Vermutlich übersandte Marx Beesly den „Courrier
+                                                  français“ vom 23. Juli 1867 mit dem Artikel von
+                                                  A[uguste] Vermorel: Il n’y a pas de sentiment plus
+                                                  haïssable en politique que l’hypocrisie
+                                                  doctrinaire … In: Courrier français. Paris.
+                                                  Nr. 36, 23. Juli 1867. S. 1, Sp. 4. Vermorel
+                                                  unterstützte die am 4. Juli 1867 von Beesly in
+                                                  London gehaltene Rede zu den sogenannten Sheffield
+                                                  Outrages, Gewalttätigkeiten von Gewerkschaftern
+                                                  gegen Unternehmer und Arbeiter 1866/67. Beesly
+                                                  verurteilte die Gewalttätigkeiten, verteidigte
+                                                  aber zugleich die Forderungen der Gewerkschaften
+                                                  nach Rechtssicherheit und gesetzlicher
+                                                  Anerkennung. Siehe E[ward] S[pencer] Beesly: The
+                                                  Sheffield outrages and the meeting at Exeter Hall.
+                                                  Two letters. Reprint from “The Daily News”, July 9
+                                                  und 10, 1867. London 1867. – Ein Exemplar befand
+                                                  sich in Marx’ Bibliothek (MEGA<hi rendition="#sup">2</hi> IV/32. Nr. 112). Siehe MEGA<hi rendition="#sup">2</hi> I/21. Erl. 1072.39–40.
+                                                </note>
+                                        </seg> for which I am much obliged to you as also for your
+                                        kind expressions of sympathy &amp; approval. I have had a
+                                        great deal <pb/> to bear both in public &amp; in private but
+                                        I have the satisfaction of not having retracted anything
+                                        &amp; I believe I shall have the further satisfaction of
+                                        seeing those who <pb/> have tried to visit me with penalties
+                                        foiled. The Council of the College decided yesterday to do
+                                        nothing &amp; I think other attempts will fail in the same
+                                        way. But it has been a near <pb/> thing &amp; after all the
+                                        combat is only adjourned. In some shape it must sooner or
+                                        later be renewed for when duty calls I hope I shall never be
+                                        silent.</p>
+                                <p>If there should be any other notices in
+                                        the <bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                                                Français</bibl> &amp; you can spare the paper <seg type="comment"><orig><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>w<hi rendition="#sup">d</hi><?oxy_custom_end?></orig><note xml:id="nqdx_tkt_pgb">would.</note></seg> you
+                                        kindly cut them out &amp; send them to me? I should esteem
+                                        it a great favour. I am going out of town immediately but
+                                        they will be forwarded to me.</p>
+                                <closer>Yrs truly<lb/>ES Beesly </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

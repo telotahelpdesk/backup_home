@@ -1,0 +1,373 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00252" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>241a</idno>Paul Lafargue an Karl Marx in Hannover.
+                                        London, nach Dienstag, 23. April 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>RGASPI</institution>
+                                                <idno><idno type="shelfmark">f. 10 op. 1 d.
+                                                  232</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus zwei Blättern
+                                                  mittelstarkem, weißem,
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180917T110213+0200" comment="auf dem Foto sehe ich keine Linien"?>liniertem<?oxy_comment_end?>
+                                                  Papier im Format 136 × 211 mm. Lafargue hat alle
+                                                  vier Seiten vollständig beschrieben, das zweite
+                                                  Blatt mit „2“ paginiert. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von unbekannter Hand: Vermerk mit Bleistift auf
+                                                  der ersten Seite oben in der Mitte: „70?“.</p>
+                                                <p>Archivsignatur auf der ersten Seite:
+                                                  „J. 132“.</p>
+                                                <p>Die Schreibweise wurde zurückhaltend
+                                                  korrigiert.</p>
+                                                <p/>
+                                                <p>Datierung in der Erstveröffentlichung: April–Mai
+                                                  1867.</p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-URXZ92VG">Erstveröffentlichung: Les Filles de Karl Marx
+                                                  (1979). S. 75–77.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000002648">Lafargue, Paul
+                                                (1842-1911)</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                        <date when="1867-04-24"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                                </correspAction>
+                                <note>Zur Datierung: Lafargue berichtet von den Sitzungen des
+                                        Generalrats der IAA am 16. und 23. April 1866.
+                                        Dementsprechend muß der Brief nach dem 23. April 1867
+                                        geschrieben worden sein.</note>
+                                <note>Die Beilage
+                                        <?oxy_comment_start author="lindenberg" timestamp="20180918T100817+0200" comment="Z. 70"?>(„une
+                                        lettre pour Moilin“)<?oxy_comment_end?> ist nicht
+                                        überliefert.</note>
+                                <note/>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_jtl_xrw_ww">Internationale
+                                                Arbeiter-Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                        <term key="ed_fv1_snz_g1b">Lektüren im
+                                                Korrespondentenkreis</term>
+                                        <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an
+                                                Manuskripten, Veröffentlichung)</term>
+                                        <term key="ed_rw2_4vl_qx">Preußen</term>
+                                        <term key="ed_mts_42y_g1b">Journalismus</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:45:17Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <salute><pb/> Mon cher Mons. Marx</salute>
+                                </opener>
+                                <p>Vous aviez donc peur que la maison
+                                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>ne<?oxy_custom_end?>
+                                        s’écroulât sur vous <seg type="comment"><orig>le jour de
+                                                  votre départ;</orig><note xml:id="da85802f-9057-45ff-b40a-503761f31fb3">Zur
+                                                  Reise von Marx nach Hamburg und zu seinem
+                                                  Aufenthalt in Hannover siehe <ref target="B00247"><?oxy_comment_start author="lindenberg" timestamp="20180914T152415+0200" comment="Erl. Br.  237a"?>Erl.
+                                                  zu Marx an Engels,
+                                                  13.4.1867.<?oxy_comment_end?></ref></note></seg>
+                                        c’est sans doute la raison qui vous a fait partir si tôt;
+                                        sans vouloir m’attendre jusqu’à l’heure fixée; car je suis
+                                        venu exactement au rendez-vous; mais la cage était vide,
+                                        vous aviez emmené avec vous <seg type="comment"><orig><persName key="pdrPo.001.004.000003074">Jenny</persName> et <persName key="pdrPo.001.004.000003068"><?oxy_comment_start author="lindenberg" timestamp="20180917T112559+0200" comment="vorher: Tussi
+"?>Tuss<?oxy_comment_end?>y</persName>;</orig><note xml:id="d07725e4-6c32-4c07-b369-d932d261e1d1">
+                                                  <persName key="pdrPo.001.004.000003074">Jenny Marx
+                                                  (Tochter)</persName> und <persName key="pdrPo.001.004.000003068">Eleanor
+                                                  Marx</persName>.</note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000003076">Laura</persName></orig><note xml:id="dd339f2e-7c71-4625-9b62-80f98aaee659"><persName key="pdrPo.001.004.000003076">Laura
+                                                  Marx</persName>.<?oxy_comment_start author="lindenberg" timestamp="20180918T101729+0200" comment="[vgl IIII/11. Br. 167 und III/12]"?></note><?oxy_comment_end?></seg>
+                                        était dans la cuisine à m’attendre, ne vous trouvant pas je
+                                        voulais au moins vous serrer la main sur le bateau; nous
+                                        prîmes un cab et nous allâmes; arrivé<ex>s</ex> au bord de
+                                        la Tamise, nous comprîmes, mais un peu tard, que votre
+                                        impatience ne vous aurait pas permis de rester sur le bord.
+                                                <persName key="pdrPo.001.004.000003076">Laura</persName> et moi nous nous consolâmes de
+                                        notre désappointement en faisant une promenade énorme.</p>
+                                <p><seg type="comment"><orig>J’ai fait
+                                                  votre commission auprès du Conseil central. La
+                                                  première fois que je communiquai au conseil votre
+                                                  demande, on ajourna la déliberation pour attendre
+                                                  la présence de <persName key="pdrPo.001.004.000003494">Odger</persName>;</orig><note xml:id="f57a399b-89b2-4ecd-9a0e-55e57fa8ea9a">Auf
+                                                  dem Meeting der „Reform League“ am 3. April 1867
+                                                  hatte <persName key="pdrPo.001.004.000003494">George Odger</persName> eine Resolution
+                                                  eingebracht, in der laut <bibl sameAs="ed_etf_mhf_lbb">„Commonwealth“</bibl> dem deutschen Volk zu der
+                                                  Einführung des allgemeinen Wahlrechts für Männer
+                                                  für den zu konstituierenden Reichstag des
+                                                  Norddeutschen Bundes gratuliert werden sollte
+                                                  („its congratulations to the people of North
+                                                  Germany on their achievement of full
+                                                  representation in the legislation of their
+                                                  country“). Darüber hinaus sollte ein
+                                                  entsprechender Dank an <persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  als Ministerpräsidenten („its thanks and gratitude
+                                                  to Count Bismarck for the frank, manly, and noble
+                                                  expressions made by him as Prime Minister of
+                                                  Prussia on the happiness and general prosperity
+                                                  which must accrue to a nation governed on the
+                                                  principle of manhood suffrage.“) übermittelt
+                                                  werden. Siehe: <bibl sameAs="zotero-604880-42ZJXYKB">Meeting of the Reform League and trades’
+                                                  delegates.</bibl> In: The Commonwealth. London.
+                                                  Nr. 213, 6. April 1867. S. 1, Sp. 1/2. Auf der
+                                                  Sitzung des Generalrats der IAA am 16. April 1867
+                                                  forderte deshalb Lafargue im Auftrag von <persName key="ed_ats_ysj_wx">Marx</persName> ein
+                                                  Mißtrauensvotum gegen <persName key="pdrPo.001.004.000003494">Odger</persName>,
+                                                  weil dieser das Ansehen der IAA beschädigen wolle
+                                                  („was calculated to injure the Credit [of] this
+                                                  Association“). Siehe <bibl sameAs="zotero-604880-LKLES7SU">Minutes of the General Council 1866/1867.</bibl>
+                                                  In: MEGA² I/20. S. 547.30–548.2. – Zur
+                                                  „Reform-League“ siehe <ref target="B00007">Erl. zu
+                                                  Marx an J. Ph. Becker, zw. 9. u. 15.1.1866</ref>
+                                                  und <bibl sameAs="zotero-604880-FJCQUX3P">Handbuch der europäischen
+                                                  Geschichte. Bd. 5 (1981). S. 394-400</bibl>.
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180918T133018+0200" comment="(((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591)))"?></note><?oxy_comment_end?></seg><?oxy_comment_start author="lindenberg" timestamp="20180918T132147+0200" comment="vorher: Auf dem Meeting der Reform League am 3. April 1867 hatte George Odger die Resolution vorgeschlagen, die die „congratulations to the people of North Germany on their achievement of full representation in the legislation of their country“ überbrachte und gleichzeitig „its thanks and gratitude to Count Bismarck for the frank, manly, and noble expressions made by him as Prime Minister of Prussia on the happiness and general prosperity which must accrue to a nation governed on the principle of manhood suffrage.“ Siehe: Meeting of the Reform League and trades’ delegates. In: The Commonwealth. London. Nr. 213, 6. April 1867. S. 1, Sp. 1/2. – Auf der Sitzung des Generalrats der IAA am 16. April 1867 schlug Lafargue in Abwesenheit von Marx und in seinem Auftrag vor, diese Haltung Odgers zu mißbilligen. Siehe Minutes of the General Council 1866/1867. In: MEGA² I/20. S. 547.30–548.2. (((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591)))"?><?oxy_comment_end?>on
+                                        lui écrivit, mais il ne vint pas; et même ne daigna pas
+                                        excuser son absence. <seg type="comment"><orig>Sur ma
+                                                  proposition on procéda immédiatement; <persName key="pdrPo.001.004.000000814">Carter</persName>
+                                                  nous a
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180917T124008+0200" comment="vorher: assommés"?>assommé<?oxy_comment_end?><ex>s</ex>
+                                                  avec trois ou quatre longs discours, qui n’avaient
+                                                  qu’un petit malheur, c’était d’être toujours des
+                                                  répétitions de plus en plus affaiblies et pâles.
+                                                  Il défendait <persName key="pdrPo.001.004.000003494">Odger</persName> <pb/> comme Anglais et non comme
+                                                  président de l’Internationale, j’avais beau me
+                                                  tuer à lui démontrer que nous n’avions que faire
+                                                  avec M<hi rendition="#sup">r</hi> l’anglais
+                                                  <persName key="pdrPo.001.004.000003494">Odger</persName>, mais bien avec M<hi rendition="#sup">r</hi> le Président du conseil
+                                                  central; mais je serais plustot parvenu à changer
+                                                  du plomb en or que de faire entrer une chose si
+                                                  simple dans cette outre pleine de mots sonores.
+                                                  Enfin après les discours soporifiques de <persName key="pdrPo.001.004.000000814">Carter</persName>,
+                                                  on passa la résolution suivante présentée par moi
+                                                  et secondée par <persName key="ed_l54_cks_xy">Lessner</persName>; je vous en donne le sens: Que
+                                                  le Conseil central répudiait énergiquement l’eloge
+                                                  donné par son président à <persName key="pdrPo.001.004.000000441">Bismark</persName>.</orig><note xml:id="b64f4866-a084-404a-bfa0-3d4d455263ae">
+                                                  <p>Die auf der folgenden Sitzung am 23. April 1867
+                                                  verabschiedete Resolutiondes des Generalrats wurde
+                                                  später unter dem Titel <bibl sameAs="zotero-604880-L7FIVQCD">„Count von Bismarck and George Odger“</bibl>
+                                                  veröffentlicht (In: International Courier. London.
+                                                  Nr. 17, 1. Mai 1867. S. 3). Siehe <bibl sameAs="zotero-604880-LKLES7SU">Minutes of the General Council 1866/1867.</bibl>
+                                                  In: MEGA² I/20. S.
+                                                  550.19–27.<?oxy_comment_start author="lindenberg" timestamp="20180918T165256+0200" comment="vorher: Auf der nächsten Sitzung des Generalrats am 23. April 1867 wurde die Diskussion trotz der Abwesenheit Odgers fortgesetzt und der Beschluß gefaßt, mit dem der Generalrat der Rede Odgers (siehe Erl. 241ad) entgegentrat. Siehe Minutes of the General Council 1866/1867. In: MEGA² I/20. S. 550.19–27. (((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591))). Der Beschluß wurde unter dem Titel „Count von Bismarck and George Odger“ im „International Courier“, London, Nr. 17, 1. Mai 1867. S. 3 veröffentlicht"?></p><?oxy_comment_end?>
+                                                </note></seg> Vous devez être content.</p>
+                                <p><seg type="comment"><orig>Après on s’est
+                                                  occupé d’une autre question très importante le
+                                                  salaire du secrétaire. C’est <persName key="pdrPo.001.004.000002417">Jung</persName> qui
+                                                  a soulevé la question. Il a été convenu qu’on lui
+                                                  donnerait 10 <choice>
+                                                  <sic>schellings</sic>
+                                                  <corr cert="high">schillings</corr>
+                                                  </choice> par semaine, et que cette somme serait
+                                                  fournie volontairement par les membres du Conseil;
+                                                  immédiatement on fit passer une liste et l’on
+                                                  trouva des souscripteurs pour 14 <choice>
+                                                  <sic>schellings</sic>
+                                                  <corr cert="high">schillings</corr>
+                                                  </choice>.</orig><note xml:id="f3749740-0382-4435-9bab-a67bcc75e1e5">Siehe Protokoll der Sitzung des Generalrats vom
+                                                  23. April 1867 (<bibl sameAs="zotero-604880-LKLES7SU">Minutes of the General Council 1866/1867.</bibl>
+                                                  In: MEGA² I/20. S. 550.5–18. – Die Vergütung des
+                                                  Generalsekretärs von 2 Pfund pro Woche wurde auf
+                                                  dem Genfer Kongreß der IAA (3.–8. September 1866)
+                                                  auf Vorschlag des Zentralrats (siehe Karl Marx:
+                                                  <bibl sameAs="zotero-604880-YIJG9RRW">Instructions for the Delegates of
+                                                  the Provisional General Council. The different
+                                                  questions.</bibl> In: MEGA² I/20. S. 225.13–14)
+                                                  beschlossen (siehe <bibl sameAs="zotero-604880-FL54HMSU">Special Regulations voted at the Geneva Congress
+                                                  (1866).</bibl> Ebenda. S. 644.18–25 und 1737 sowie
+                                                  <bibl sameAs="zotero-604880-7UELYWCX">Bourdon, Card, Coullery: Congrés
+                                                  Ouvrier de l’Association Internationale des
+                                                  Travailleurs. Procès-verbaux. 2 h. Procès-v. de la
+                                                  séance du 8 7<hi rendition="#sup">bre</hi>
+                                                  1866.</bibl> In: IISG, Nachlass Hermann Jung,
+                                                  Sign. 45/2). Der Generalrat war wegen der geringen
+                                                  Einnahmen nicht in der Lage, diese Summe zu
+                                                  bezahlen. </note></seg> Quand la question
+                                        pécuniaire fut tranchée, il s’agissait de trouver un
+                                        secrétaire. <persName key="pdrPo.001.004.000004412">Shaw</persName> donnait sa démission, il ne voulait
+                                        pas être payé, <persName key="pdrPo.001.004.000001603">Fox</persName> refusait, <persName key="pdrPo.001.004.000001296">Ecarius</persName>
+                                        aussi; même <persName key="pdrPo.001.004.000001296">Ecarius</persName> a été très beau, il est
+                                        maintenant en Grève; et <persName key="pdrPo.001.004.000001603">Fox</persName>
+                                        prétendait <pb/> qu'<persName key="pdrPo.001.004.000001296">Ecarius</persName> devrait accepter parce que cela
+                                        l’aiderait à supporter plus facilement la grève. Mais il
+                                        refusa carrément et ajouta que dans une affaire comme
+                                        celle-là on ne devait jamais invoquer des <hi rendition="#u">considérations humanitaires</hi>. <persName key="pdrPo.001.004.000004412">Shaw</persName> fut
+                                        donc obligé de garder sa place de secrétaire et d’être payé
+                                        contre son gré. Même il ne voulait pas prendre l’argent
+                                        versé sur la table, alors je lui dis: «Prenez-le et
+                                        flanquez-le par les fenêtres si cela vous plaît.».</p>
+                                <p><seg type="comment"><orig>Vous n’avez pas du être sans entendre
+                                                  parlez des grèves;</orig><note xml:id="f0e01f05-e388-4cea-8fc8-b2f084a6682a">Vermutlich meint Lafargue Ereignisse im
+                                                  Zusammenhang mit dem Streik der Bronzegießer in
+                                                  Paris. Siehe <ref target="B00243"><?oxy_comment_start author="lindenberg" timestamp="20180919T154101+0200" comment="Erl. 234i"?>Erl.
+                                                  zu Marx an Engels,
+                                                  2.4.1867.<?oxy_comment_end?></ref> Ab März 1867
+                                                  streikten auch die Lokomotivführer und Heizer auf
+                                                  mehreren britischen Eisenbahnlinien für
+                                                  Lohnerhöhungen und geregelte Arbeitszeiten (siehe
+                                                  Protokoll der Sitzung des Generalrats der IAA vom
+                                                  2. April 1867 in: <bibl sameAs="zotero-604880-LKLES7SU">Minutes of the
+                                                  General Council 1866/1867.</bibl> In: MEGA² I/20.
+                                                  S. 544.11–16.<?oxy_comment_start author="lindenberg" timestamp="20180919T154030+0200" comment="(((lMinutes of the General Council 1866/1867. In: MEGA² I/20. S. 477–591)))"?><?oxy_comment_end?>und
+                                                  Pariser Seiler (Protokoll der Sitzung vom 7. Mai
+                                                  1867. <bibl sameAs="zotero-604880-LKLES7SU">Ebenda.</bibl> S. 555.38–39). Seit April 1867
+                                                  streikten Londoner, Pariser und Brüsseler
+                                                  Schneider (Protokoll der Sitzung vom 23. April
+                                                  1867. <bibl sameAs="zotero-604880-LKLES7SU">Ebenda.</bibl> S. 549.15–23) sowie Londoner
+                                                  Tapetendrucker (<bibl sameAs="zotero-604880-LKLES7SU">ebenda.</bibl>
+                                                  S. 549.4–8).</note></seg> c’est superbe. <seg type="comment"><orig>Le <bibl sameAs="ed_pr1_2nw_1cb">journal des Débats</bibl>,
+                                                  a lancé un article fulminant contre l’entente des
+                                                  ouvriers de divers nations.</orig><note xml:id="e5ab231e-7e7b-4ba6-a373-0e95227f3efd">
+                                                  Vermutlich handelt es sich um den Artikel <bibl sameAs="zotero-604880-V9NLHEG6"><?oxy_comment_start author="lindenberg" timestamp="20180920T144032+0200" comment="P. David = Le secretaire de la rédaction"?>P.
+                                                  David<?oxy_comment_end?>: Parmi les derniers
+                                                  incidents qui se sont manifestés entre les
+                                                  ouvriers et les patrons ...“.</bibl> (In:
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180920T144124+0200" comment="https://gallica.bnf.fr/ark:/12148/bpt6k456488p.item"?>Journal
+                                                  des débats politiques et littéraires. Paris.
+                                                  22./23. April 1867, S. 1, Sp.
+                                                  3/4).<?oxy_comment_end?>
+                                                </note></seg><seg type="comment"><orig><persName key="ed_kkn_g2h_mdb">Veuillot</persName> dans
+                                                  <bibl sameAs="ed_pr1_2nw_1cb">son journal</bibl>
+                                                  qui a reparu, ces jours derniers a tonné contre la
+                                                  grève, et a prètendu <choice>
+                                                  <sic>qu’elles</sic>
+                                                  <corr cert="high"><sic>qu’elle</sic></corr>
+                                                  </choice> étaient les <hi rendition="#u">rugissements du lion socialiste</hi> (sic), et
+                                                  que tous les honnêtes gens devraient se réunir
+                                                  sous un même drapeau pour courir sus au
+                                                  monstre.</orig><note xml:id="b15b067b-81f2-475d-a9a4-b4c8a99b911d">In
+                                                  der von <persName key="ed_kkn_g2h_mdb">Louis
+                                                  Veuillot</persName>, redigierten Zeitung „<bibl sameAs="ed_h1k_3vp_tgb">L’Univers</bibl>“ erschien
+                                                  in der ersten Nummer (Nr. 1, 16. April 1867, S.
+                                                  1/2) ein Artikel (<bibl sameAs="zotero-604880-X7RJBTQ3">„Les grèves
+                                                  d'ouvriers ...“</bibl>) , unterzeichnet von
+                                                  <persName key="ed_ish_lz1_ffb">Léon
+                                                  Aubineau</persName>,
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180919T183020+0200" comment="Birth :	02-10-1815
+Death :	15-03-1891
+Note :	
+Archiviste paléographe (promotion de 1841). - Journaliste (à partir de 1850)
+Field :	Histoire de la France
+http://data.bnf.fr/12459778/leon_aubineau/"?>mit<?oxy_comment_end?>
+                                                  der von Lafargue zitierten Bemerkung zum Streik
+                                                  „Il n'est pas difficile de démêler, dans les
+                                                  correspondances mielleuses et les protestations de
+                                                  dévouement livrées à la publicité, les
+                                                  rugissements du lion socialiste.“ (S. 2).
+                                                </note></seg> Les prêtres béniraient les
+                                        combattants, et comme les corbeaux iraient boire leur sang
+                                        après la bataille; quant à M<hi rendition="#sup">r</hi> <persName key="ed_kkn_g2h_mdb">Veuillot</persName> il ferait des gros sous en
+                                        répétant les nouvelles, et en chantant les gloires de cette
+                                        armée de Dieu. La pudeur du <bibl sameAs="ed_cct_4hf_lbb">Times</bibl>, ces jours derniers a été mise à une
+                                        grande épreuve; Dieu veuille éloigner de lui de pareilles
+                                        épreuves, <pb/> elles sont au-dessus de la nature humaine,
+                                        surtout bourgeoise. <seg type="comment"><orig>L’enquête sur
+                                                  les <hi rendition="#u">trades’ Unions</hi> se
+                                                  continue avec beaucoup d’activité, les <hi rendition="#u">leaders</hi> de la classe ouvrière
+                                                  sont appelés et subissent un examen des plus
+                                                  rigoureux.</orig><note xml:id="d86e7ea4-ab7e-4b2c-a67b-951c5032bc40">Gemeint ist die Arbeit der Königlichen Kommission
+                                                  zur Untersuchung der Arbeit der Gewerkschaften
+                                                  seit Februar 1867 in England (Royal Commission on
+                                                  the Organization and Rules of Trade Unions and
+                                                  other Associations 1867-1869), die im Ergebnis zu
+                                                  einer Entkriminalisierung und Legalisierung der
+                                                  „Trades' unions“ führte. Siehe <bibl sameAs="zotero-604880-DSG6WDU3">Report[s] of the
+                                                  commissioners appointed to inquire into the
+                                                  organization and rules of trades unions and other
+                                                  associations. Together with Minutes of evidence.
+                                                  London 1867-69.</bibl>
+                                                </note></seg> Un entre autres, <seg type="comment"><orig><persName key="pdrPo.001.004.000000972">Colonny</persName>, <hi rendition="#u">stonemason</hi>, prétendait que la classe
+                                                  ouvrière n’avait rien a voir avec les intérêts du
+                                                  capital, et au contraire qu’elle devait lui porter
+                                                  les plus grands coups. Jugez des criailleries du
+                                                  Times; mais ce n’est pas tout. Colonny avec un
+                                                  cynisme superbe, digne des grands jours, ajoutait,
+                                                  qu’un ouvrier, (stonemason) considérait comme de
+                                                  son devoir de mettre une mauvaise brique dans une
+                                                  bâtisse ou de faire mal son ouvrage. La morale
+                                                  usuelle, je le sais, trouverait à redire à ceci,
+                                                  disait-il,
+                                                  <ex><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>«</ex><?oxy_custom_end?>mais
+                                                  nous nous moquons de la morale;<?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>»<?oxy_custom_end?>
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180917T165614+0200" comment="Wo beginnt das Zitat?"?><?oxy_comment_end?>(we
+                                                  don’t care). Cela dépassait les bornes, le <bibl sameAs="ed_cct_4hf_lbb">Times</bibl> a consacré
+                                                  tout un article à ce mot.</orig><note xml:id="cff95040-ee83-464a-ab3e-c1323233e1ca">Vermutlich Anspielung auf den Artikel <bibl sameAs="zotero-604880-XHU99HE2">„The evidence
+                                                  taken before the Trades' Union Commission
+                                                  ...“</bibl> (In: The Times. London. Nr. 25788, 18.
+                                                  April 1867, S. 6, Sp.
+                                                  4/5)<?oxy_comment_start author="lindenberg" timestamp="20180920T150803+0200" comment="http://find.galegroup.com/ttda/infomark.do?&amp;source=gale&amp;prodId=TTDA&amp;userGroupName=bbaw&amp;tabID=T003&amp;docPage=article&amp;searchType=&amp;docId=CS101098642&amp;type=multipage&amp;contentSet=LTO&amp;version=1.0"?>,<?oxy_comment_end?>
+                                                  in dem es heißt: A witness who volunteered his
+                                                  evidence upon the Stonemasons’ Union appeared to
+                                                  think it a commendable proceeding if a workman
+                                                  could succeed without detection in putting a
+                                                  faulty stone in a building, and, though he owned
+                                                  that “some highly moral men might object” to such
+                                                  an act, he asserted that it would not be regarded
+                                                  as censurable by the trade , and that he himself
+                                                  “did not look upon it as a “question of honesty.”
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                                                  – <?oxy_custom_end?><persName key="pdrPo.001.004.000000972">Thomas
+                                                  Conolly</persName>.<?oxy_comment_start author="lindenberg" timestamp="20180918T185753+0200" comment="vorher: Thomas Connolly"?><?oxy_comment_end?></note></seg></p>
+                                <p><seg type="comment"><orig>Je n’ai pas
+                                                  besoin de vous donner de nouvelles de votre
+                                                  famille, tout le monde vous a écrit, mais je ne
+                                                  sais si l’on vous a dit que nous vous demandions à
+                                                  corps et à cris; surtout <persName key="pdrPo.001.004.000003068">Tussy</persName>, elle a besoin de vous à ce
+                                                  qu’il paraît pour pouvoir vivre. Vos nouvelles
+                                                  sont bonnes,</orig><note xml:id="fcbaa22f-35cd-4037-af71-67f2aa51a0fb">Der
+                                                  Briefe, geschrieben zwischen 10. und 23. April
+                                                  1867, konnten nicht ermittelt werden. Siehe auch
+                                                  <ref target="B00255"><?oxy_comment_start author="reichhoff" timestamp="20180502T124127+0200" comment="(Br. 244)"?>E.
+                                                  Marx an Marx, 26.4.1867 <?oxy_comment_end?></ref>
+                                                  und <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180502T124339+0200" comment="(Br. 246)."?>J.
+                                                  Marx (Tochter) an Marx,
+                                                  28.4.1867<?oxy_comment_end?></ref>. </note></seg>
+                                        tant mieux; ayez le plus grand succès tant moral que
+                                        pécuniaire; mais, pour Dieu! revenez le plus tôt possible.
+                                                <seg type="comment"><orig>Vous trouverez, ci-inclus,
+                                                  une lettre pour <persName key="pdrPo.001.004.000003253">Moilin</persName>,
+                                                  je vais lui écrire d’ailleurs, mais je vous
+                                                  remercie sincerement d’avoir procuré à mon ami un
+                                                  client.</orig><note xml:id="af70e5f1-8152-4bab-bdf1-74548cf54756">Der
+                                                  Brief von Lafargue an <persName key="pdrPo.001.004.000003253">Jules Antoine
+                                                  Moilin</persName>, geschrieben etwa am 23. April
+                                                  1867, konnte nicht ermittelt werden.
+                                        </note></seg></p>
+                                <closer>Je vous serre cordialement la
+                                        main<lb/>PLafargue </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

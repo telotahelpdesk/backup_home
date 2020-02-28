@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00004a" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>3</idno>Karl Marx an Friedrich Engels in Manchester. London, Freitag,
+                    5. Januar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4435/L VI 570</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            253 × 203 mm. Wasserzeichen: „Joynson 1864“. Die erste
+                            Seite hat Marx vollständig beschrieben, auf der dritten befinden sich
+                            nur eine Zeile und Unterschrift, die zweite und vierte Seite sind leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="Bernstein">Eduard Bernsteins</persName> Hand:
+                            Numerierung
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>des
+                            Briefes bzw. <?oxy_custom_end?>der beschriebenen Seiten: „1,1“ bzw.
+                            „1,2“.</p>
+                        <p>Marx beantwortet den Brief von Engels vom 4. Januar 1866
+                            (Br. 2).</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 1924</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: Bw 3 (1913).
+                        S. 288.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date><?oxy_comment_start author="roth" timestamp="20170222T095643+0100" comment="Form Datum, damit es nicht in Liste im Internet angezeigt wird"?>5.
+                        Jan. 1866<?oxy_comment_end?></date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:06Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:08+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener>
+                    <dateline sameAs="MBDatumszeile"><pb/> 5 January 1866.</dateline>
+                    <salute sameAs="MBAnrede">Dear Fred,</salute>
+                </opener>
+                <p sameAs="MBTextohneEinzug"><hi rendition="#u">In aller Eile</hi>.</p>
+                <p sameAs="MBTextmitEinzug"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Besten Dank
+                    für die £ 10.</p>
+                <p sameAs="MBTextmitEinzug"><seg type="comment"><orig>Der Wechsel ist fällig
+                            18 Februar u. beträgt £ 48. Ich wollte <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Landlord sollte ihn
+                            nur für 2 fällige, aber nicht auch für das Dritte Semester ziehn, was
+                            Ende Januar erst fällig ward. Er bestand aber
+                            darauf.</orig><?oxy_custom_end?><note xml:id="e0eed80a-cd88-4175-8a5a-7d046eb5d096">Siehe
+                            {{Br. 2.3–5}}.</note></seg></p>
+                <p sameAs="MBTextmitEinzug">Es hat sich eine Intrigue gegen die <hi rendition="#u">Intern. Assoc.</hi> gebildet, wobei ich Deiner Mitwirkung bedarf. Später
+                    ausführlicher darüber. Für jetzt nur dieß: <seg type="comment"><orig>Herr Le
+                                <persName key="Le Lubez">Lubez</persName> u. <persName key="Vésinier">Vesigny</persName> (der letztre im Bewußtsein, daß <choice>
+                                <sic>ieine</sic>
+                                <corr cert="high">eine</corr>
+                                <note resp="editor">Versehentlich nicht gestrichen</note>
+                            </choice> inquiry über seine <expan resp="editor" sameAs="dottet_underline">Vergan<ex>gen</ex>heit</expan> im Gang
+                            ist; er ist wieder in Brüssel) haben hier eine <add>fzs</add> Branche
+                            (in fact Oppositionsbranche), wobei auch <persName key="Longuet">Longuet</persName>, <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> Redacteur <expan resp="editor" sameAs="dottet_underline">d<ex>er</ex></expan> „Rive <bibl sameAs="zzLa Rive Gauche">Gauche“</bibl> u. <del>d. ganze<sic ana="#break-off"/></del> womit die ganze Proudhonisten Bande in
+                            Brüssel zusammenhängt.</orig><note xml:id="b67c4504-42c6-422c-ac87-3b4ae9f7e6fc">Die Branche française de
+                            Londres de l’A.I.T. entstand im Oktober 1865. Der proudhonistische Teil
+                            dieser Sektion begann jedoch den Kampf gegen die Programmdokumente der
+                            IAA und ihre Politik. Der Zentralrat und in erster Linie Marx traten
+                            diesen Angriffen entgegegn. Siehe dazu {{Br. 5.31–40}} und die
+                            Protokolle der Sitzungen des Zentralrats der IAA vom 26. Dezember
+                            1865 und 9. Januar 1866 (The_Minute Book 1864–1866. In:
+                            MEGA² I/20. S. 373 und 378/379). (((lThe_Minute Book
+                            1864–1866. In: MEGA² I/20. S._265–450))) </note></seg>
+                    <seg type="comment"><orig>Erst veröffentlicht <persName key="Vésinier">Vesigny</persName> im <hi rendition="#u">Echo de <bibl sameAs="zzL’Écho de Verviers">Verviers</bibl></hi> lange
+                            Schmiere gegen uns, of course anonymously.</orig>
+                        <note xml:id="db8e9996-d94b-4b8a-be7b-18526318d9af"> [Pierre Vésinier:]
+                            L’Association Internationale des Travailleurs. Un des membres du
+                            comité … In: L’Écho de <persName key="[Pierre Vésinier">Verviers</persName>. Nr. 293, 16. Dezember 1865.
+                            S. 1/2; [derselbe:] L’Association Internationale des Travailleurs.
+                            Fin. Ebenda. Nr. 294, 18. Dezember 1865. S. 2/3. Der
+                            Artikel verleumdete die Tätigkeit des Zentralrats und legte die
+                            Ergebnisse der Londoner Konferenz der IAA (25.–29. September 1865)
+                            entstellt dar. Siehe {{Erl. 6m}}.<p rend="endnote text"> Der
+                                Zentralrat erörterte den Artikel in den Sitzungen vom
+                                26. Dezember 1865, 2. und 9. Januar 1866, an denen jeweils
+                                auch Marx teilnahm. Auf seinen Antrag beschloss der Zentralrat,
+                                Vésinier (((nVesinier))) aus dem Rat auszuschließen, wenn dieser
+                                seine Anschuldigungen nicht mit Fakten belege (The_Minute Book
+                                1864–1866. In: MEGA² I/20. S. 374.25–28, 376.1–14 und
+                                378.14–379.22). (((lThe_Minute Book 1864–1866. In: MEGA² I/20.
+                                S._265–450))) </p><p rend="endnote text"> Als Widerlegung verfasste
+                                Hermann <persName key="Jung">Jung</persName> einen Artikel (von Marx
+                                redigiert): [Lettre ouverte à Pierre Vésinier publiée dans „L’Écho
+                                de Verviers“.] In: L’Écho de Verviers. Nr. 43, 20. Februar
+                                1866. S. 1/2. [dort u._d._T.:] L’Association Internationale des
+                                Travailleurs. (MEGA² I/20. S. 603–611.) (((lJung,Hermannnn:
+                                [Lettre ouverte à Pierre Vésinier publiée dans „L’Écho de
+                                Verviers“.] In: L’Écho de Verviers. Nr. 43, 20. Februar
+                                1866. S. 1/2. [dort u._d._T.:] L’Association Internationale des
+                                Travailleurs.))) Siehe auch {{Br. 9}}, {{Br._21}},
+                                {{Br. 54}} und {{Br. 72}}.</p></note>
+                    </seg><seg type="comment"><orig>Dann publicirt die <subst>
+                                <del>Bande</del>
+                                <add>Branch</add>
+                            </subst> v. London in <hi rendition="#u">demselben</hi> Blatt, das die
+                            slanders gegen unsre Association bringt (u.a. auch <persName key="Tolain">Tolain</persName> u. <persName key="Fribourg">Fribourg</persName> zu Bonapartisten umlügt) ein Programm, <del>das
+                                    sie<sic ana="#break-off"/></del> Entwurf künftiger
+                            Statuten,</orig><note xml:id="nrk1_sfc_3y">[Victor Le Lubez:]
+                            Association internationale des travailleurs. Exposition de principes.
+                            In: L’Écho de Verviers. Nr. 301, 27. Dezember 1865. S. 2.
+                            (((l[Le Lubez,Victor:] Association internationale des travailleurs.
+                            Exposition de principes. In: L’Écho de Verviers. Nr. 301,
+                            27. Dezember 1865. S. 2.))) Der Artikel behandelte einen
+                            Gegenvorschlag zu den provisorischen Statuten der IAA (Karl
+                            Marx:_Provisional Rules of the International Working Men’s Association.
+                            Siehe MEGA_2_I/20. S. 13–15 sowie III/13. Br. 21.151–157). Der
+                            vorgelegte Statutenentwurf sollte die Aufgaben des Zentralrats
+                            beschneiden und und ihn in ein Informationsorgan umwandeln.
+                            (((lMEGA_2_I/20))) (((llMEGA_2_I/13))) </note></seg> die <hi rendition="#u">sie</hi>, die Wahren, <seg type="comment"><orig>dem Congress
+                            </orig><note xml:id="nr1k_5fc_3y"> Der erste Kongress der IAA. Die
+                            Londoner Konferenz der IAA (25.–29. September 1865) hatte
+                            beschlossen, im Mai 1866 den ersten allgemeinen Kongress der IAA in Genf
+                            durchzuführen. Später als klar wurde, dass die Vorbereitungen nicht
+                            ausreichten, verschob man den Kongress auf den 3. September (Genfer
+                            Kongress der IAA, 3.–8. September 1866).</note></seg>vorlegen
+                    werden.</p>
+                <p sameAs="MBTextmitEinzug"><expan resp="editor" sameAs="dottet_underline">D<ex>er</ex></expan> eigentliche Nerv der Polemik ist die <hi rendition="#u">Polenfrage</hi>. Die Kerls haben alle an <seg type="comment"><orig>dem <persName key="pdrPo.001.004.000003833">Proudhon</persName>-<persName key="pdrPo.001.004.000001761">Herzenschen</persName> Muscovitismus</orig><note xml:id="nhdn_ync_3y">Siehe Karl Marx: Ueber P.-J. Proudhon. In:
+                            MEGA² I/20. S. 66.32–37. Marx bezieht sich auf Proudhons Aufsatz
+                            „Si les traités de 1815 ont cessé d’exister? Actes du futur congrès“.
+                            Paris 1863. (((lProudhon:Si les traités de 1815…))) Proudhon trat in
+                            dieser Schrift gegen die Unterstützung der polnischen Nationalbewegung
+                            durch die europäische Demokratie auf und rechtfertigte die russische
+                            Politik gegenüber Polen. (((lMarx,Karl: Ueber P.-J. Proudhon. In:
+                            MEGA² I/20. S._60–67))) </note></seg> angebunden. <seg type="comment"><orig>Ich werde Dir daher die früheren Artikel der <persName key="Denis, H.">Orakel</persName> in der <bibl sameAs="zzLa Tribune du Peuple"><hi rendition="#u">Tribune du
+                                    Peuple</hi></bibl> gegen Polen schicken</orig><note xml:id="b9a863d1-f48c-48a8-94b2-451da3245de1">Hector Denis: La question
+                            polonaise et la démocratie. I–IV. In: La Tribune du Peuple. Bruxelles.
+                            Nr. 41, 5. März 1864. S. 1/2; Nr. 42, 26. März
+                            1864. S. 1/2; Nr. 43, 17. April 1864. S. 1/2;
+                            Nr. 45, 29. Mai 1864. S. 1/2; Nr. 46, 30. Juni
+                            1864. S. 2. (((lDenis,Hector: La question polonaise et la
+                            démocratie. I–IV. In:La Tribune du Peuple. Bruxelles. Nr. 41,
+                            5. März 1864. S. 1/2; Nr. 42, 26. März 1864.
+                            S. 1/2; Nr. 43, 17. April 1864. S. 1/2; Nr. 45,
+                            29. Mai 1864. S. 1/2; Nr. 46, 30. Juni 1864.
+                            S. 2))) Marx schickte die Zeitungen wahrscheinlich am
+                            15. Januar 1866 (siehe {{Br. 10,nach
+                            jetzgm.Stand:Br.12.3–5}}).</note></seg> u. Du mußt eine Gegenarbeit
+                    machen, sei es für unsre Genfer Blätter <seg type="comment"><orig>(<subst>
+                                <del>dann</del>
+                                <add>das</add>
+                            </subst> „Deutsche“)</orig><note xml:id="naxy_w3c_3y"><bibl sameAs="zzDer Vorbote">„Der Vorbote“</bibl> (Genf).
+                            (((zDer_Vorbote/Die Zeitung wurde von Januar 1866 bis Dezember 1871 als
+                            Monatsschrift unter der Redaktion von Johann Philipp Becker in Genf
+                            herausgegeben, zunächst mit dem Untertitel „Organ der Internationalen
+                            Arbeiter-Association“. Becker verfaßte die meisten Artikel selbst und
+                            organisierte auch den Vertrieb der Zeitschrift.)))</note></seg>
+                    <seg type="comment"><orig> oder für <expan resp="editor" sameAs="dottet_underline">d<ex>en</ex></expan> „Workman’s <bibl sameAs="zzThe Workman’s Advocate">Advocate“.</bibl></orig><note xml:id="a099d127-3ab3-4126-bcd4-b1896c4d8ccd">Engels erfüllte diese
+                            Bitte mit seiner Artikelreihe „What have the working classes to do with
+                            Poland?“ I–III. In: The Commonwealth. London. Nr. 159,
+                            24. März 1866. S. 5; Nr. 160, 31. März 1866.
+                            S. 5; Nr. 165, 5. Mai 1866. S. 5. (MEGA² I/20.
+                            S. 193–203). Zur Entstehungsgeschichte der Arbeit siehe auch
+                            {{Br. 20}}, {{Br. 33}}, {{Br. 51}}, {{Br. 62}},
+                            {{Br. 78}}, {{Br. 81}}, {{Br. 96}}, {{Br. 109}} und
+                            {{Br. 112}}. (((lEngels, [Friedrich] Frederic: What have the
+                            working classes to do with Poland? I–III. In: The Commonwealth. London.
+                            Nr. 159, 24. März 1866. S. 5; Nr. 160, 31. März
+                            1866. S. 5; Nr. 165, 5. Mai 1866. S. 5.
+                            (MEGA² I/20. S. 193–203).))) </note></seg>
+                    <expan resp="editor" sameAs="dottet_underline">D<ex>ie</ex></expan> Herrn Russen
+                    haben in <expan resp="editor" sameAs="dottet_underline">d<ex>em</ex></expan>
+                    Proudhonisirten Theil der „Jeune France“ die <pb/> allerneusten Bundesgenossen
+                    gefunden.</p>
+                <closer sameAs="MBUnterschrift">
+                    <salute>Dein</salute>
+                    <signed>KM. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

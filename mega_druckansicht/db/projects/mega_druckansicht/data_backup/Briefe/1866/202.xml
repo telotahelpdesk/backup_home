@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00209" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>202</idno>Otto Meißner an Karl Marx in London. Hamburg, Donnerstag, 20. Dezember 1866</title></titleStmt><editionStmt><edition ana="#firstEdition">Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3346/D VI 37.
+                            Fotosign. 8871</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            283 × 229 mm. Die erste Seite hat Meißner vollständig
+                            beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: Datierung „20 Dec 66“, mit Bleistift, in der
+                            Mitte der vierten Seite quer stehend.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1685</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000003135">Otto Meißner</persName><placeName>Hamburg</placeName><date when="1866-12-20"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="mega_zqn_mrf_g1b"/>
+                    <ref type="next" target="mega_sq2_4sf_g1b"/>
+                </correspContext>
+                <note>Meißner beantwortet einen nicht überlieferten Brief von Marx (<ref target="mega_zqn_mrf_g1b">Marx an O. Meißner, etwa Mitte Nov. 1866</ref>),
+                    geschrieben vermutlich Mitte November 1866 (siehe <ref target="B00191">Marx an
+                        Engels, 10.11.1866</ref>: „NächsteWoche geht ...“ und Erl.). Marx’ Antwort
+                        (<ref target="mega_sq2_4sf_g1b">Marx an O. Meißner, zw. 20.12.1866 u.
+                        19.1.1867</ref>), geschrieben zwischen 20. Dezember 1866 und
+                    19. Januar 1867 (siehe <bibl sameAs="zotero-604880-TNWKCG62" type="secondary">Marx an Engels, 19.1.1867:</bibl> „Meißner, nach langem
+                    Schweigen, schrieb mir, ...“) ist ebenfalls nicht überliefert.</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2016-10-31T13:40:19Z</date> | <name>Regina Roth</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingAct"><opener><dateline sameAs="MBDatumszeile"><pb/> Hamburg 20. Decbr 1866</dateline><salute sameAs="MBAnrede">Werther Herr Marx!</salute></opener><p rend="MBTextOhneEinzug"><seg type="comment"><orig>Entschuldigen Sie meine späte
+                            Antwort,</orig><note xml:id="d698c9f8-956e-4b31-bbf8-b15d19f69d25">Siehe
+                                <ref target="B00191">Marx an Engels,
+                                10.11.<?oxy_comment_start author="reichhoff" timestamp="20170506T183257+0200" comment="{{Br. 185.8–9}}"?>1866<?oxy_comment_end?></ref>;
+                            Marx an Engels, <ref target="B00206">8.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T183341+0200" comment="{{Br. 199.3–5}}"?>1866<?oxy_comment_end?></ref>
+                            und Marx an Engels, <ref target="B00208/#start_mnf_fqn_mz">17.12.<?oxy_comment_start author="reichhoff" timestamp="20170506T183518+0200" comment="{{Br. 201.32–37}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+                    die Weihnachtszeit nimmt mich stark in Anspruch.</p><p sameAs="MBTextmitEinzug">Das Vorauserscheinen <seg type="comment"><orig>des ersten
+                            Bandes</orig><note xml:id="e99d4e96-b30e-4db2-b2d7-6f629a89ba5d"><bibl sameAs="zotero-604880-PT9GISVC" type="primary">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1</bibl>; siehe auch <ref target="B00191">Marx
+                                an Engels,
+                                <?oxy_comment_start author="strauss" timestamp="20170710T171609+0200" comment="Br. 185"?>10.11.1866<?oxy_comment_end?>
+                            </ref>und <bibl sameAs="zotero-604880-HKJZS9BT" type="secondary">Marx an
+                                S. Meyer,
+                                <?oxy_comment_start author="strauss" timestamp="20170711T102706+0200" comment="Br. v. 1867; später Link setzen."?>30.4.1867.<?oxy_comment_end?></bibl><!--(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))--></note></seg>
+                    ist mir, gerade heraus gesagt, nicht recht, ich möchte am liebsten das ganze
+                    Manuscript auf einmal in die Hand bekommen und schnell drucken, jeden Tag einen
+                    Bogen. So ist es am besten fürs Publicum, für Verleger u. Drucker und ich glaube
+                    auch für Sie.</p><p sameAs="MBTextmitEinzug">Wenn Sie das Manuscript vollständig druckfertig machen, daß während des Drucks keine Änderungen nöthig sind, lasse ich die erste Correctur hier besorgen u. sende Ihnen nur die Revision, dann werden wir schnell fertig. –</p><closer sameAs="MBUnterschrift">Hochachtungsvoll<lb/>Otto Meissner </closer></div></body></text></TEI>

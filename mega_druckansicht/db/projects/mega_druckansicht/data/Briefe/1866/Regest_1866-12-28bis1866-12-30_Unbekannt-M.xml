@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_xct_vtf_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Unbekannt an Karl Marx. Zwischen Freitag, 28. und Sonntag, 30. Dezember
+                    1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <date from="1866-12-28" to="1866-12-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief (“sehr trübe Nachricht“) von Unbekannt an Marx,
+                    geschrieben zwischen dem 28. und 30. Dezember 1866; siehe <ref target="B00213">Karl Marx an Friedrich Engels in Manchester. London, Montag, 31. Dezember
+                        1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

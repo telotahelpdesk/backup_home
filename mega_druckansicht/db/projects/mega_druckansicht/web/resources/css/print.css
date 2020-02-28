@@ -1,0 +1,29 @@
+body {
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+}
+
+#comments {
+    font-style: italic;
+}
+
+#comments ul {
+    list-style-type: decimal;
+}
+
+#comments li,
+#critical li {
+    padding-bottom: 0.3em;
+}
+
+#critical ul {
+    list-style-type: lower-alpha;
+}
+
+span.measure span.fussnote {
+    display: none;
+}
+
+span.measure {
+    background-color: transparent;
+}

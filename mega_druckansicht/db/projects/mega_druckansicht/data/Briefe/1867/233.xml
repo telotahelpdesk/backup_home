@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00242" xml:lang="de"><teiHeader><fileDesc>
+      <titleStmt>
+        <title><idno>233</idno>Mathew Lawrence an Karl Marx in London. London, Montag, 1. April
+          1867</title>
+        <?oxy_comment_start author="lindenberg" timestamp="20181004T122652+0200" comment="Telegramm an Lawrence von wem (Absender, der dann in der Beil. zum Adressaten wird) "?>
+      </titleStmt>
+      <?oxy_comment_end?>
+      <editionStmt>
+        <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 21, op. 1
+              d. 77/1.</idno></idno>
+          </msIdentifier>
+                    <physDesc>
+            <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung
+              erfolgt nach einer Fotokopie: RGASPI, Sign. f. 21, op. 1, d. 77/1. </p>
+            <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Blatt. Der
+              Aufdruck auf der ersten Seite oben links: „London Tailors Central“. Lawrence hat die
+              erste Seite vollständig beschrieben.</p>
+            <p>Archivsignatur des ИМЭ auf der ersten Seite: „Rj 14“.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 21 op. 1 d. 77/1</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc><profileDesc><correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_rr5_4hk_wy">Lawrence, Mathew (etwa 1835-1869)</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-04-01"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <note>Der Brief enthält eine Beilage („the enclosed reply“): <ref target="mega_eyh_jsl_52b"><ref target="mega_eyh_jsl_52b">Antwort von Mathew Lawrence an die Pariser Schneider
+              vom 31. März oder 1. April
+          1867</ref>.</ref><?oxy_comment_start author="lindenberg" timestamp="20180814T115726+0200" comment="vorher: Wiedergabe der Beilage
+Die Antwort von Mathew Lawrence an die Pariser Schneider vom 31. März oder 1. April 1867.
+Kopie: RGASPI, Sign. f. 21, op. 1, d. 77/1.
+Aufdruck: „London Tailors Central“.
+Archivsignatur des ИМЭ auf beiden Seiten: „RJ 686a&lt;–&gt;b“.
+Nous accusons reception de votre telegramme ayant pleine confiance dans votre succès nous vous promettons tout notre concours, materiel et moral.
+Dr. Marx1 Modena VillasMaitland ParkHaverstock Hill"?></note>
+        <?oxy_comment_end?>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_jtl_xrw_ww">Internationale Arbeiter-Assoziation (IAA, A.I.T.,
+            I.W.M.A.)</term>
+        </keywords>
+      </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:08Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> 38 King st Regent S<hi rendition="#sup">t</hi><lb/>April 1<hi rendition="#sup">st</hi> 1867</dateline>
+          <salute>Dear Sir</salute>
+        </opener>
+        <p><seg type="comment"><orig>I received a telegram from Paris last
+              night which informed me that the Paris Tailors are all out on stricke
+              to-day.</orig><note xml:id="fde89bb5-8050-4fb6-af3b-d8abd0f4253e">Zum Streik der
+              Pariser Schneider im März und April 1867 für mehr Lohn und kürzere Arbeitszeiten siehe
+                <bibl sameAs="zotero-604880-I7CVR5EI">MEGA² I/20.</bibl> S.
+              1602-1602 ; darüber hinaus siehe: <bibl sameAs="zotero-604880-R2WHGC6P">Third Annual Report of the International Working Men’s Association</bibl> und <bibl sameAs="zotero-604880-TXJDZJ5R">Rapport du Conseil Général de
+                l’Association Internationale des Travailleurs au Congrès de Lausanne (1867).</bibl>
+              In: MEGA² I/20. S. 770 und 787.
+              <?oxy_comment_start author="lindenberg" timestamp="20180810T160332+0200" comment="vorher: Mitte März 1867 hatten die Schneider einiger Werkstätten in Paris Lohnerhöhungen gefordert. Am 1. April 1867 begannen über 3000 Schneider für 20% Lohnerhöhung und den Zehnstundentag zu streiken. Die London Operative Tailors&apos; Protective Association, Schneider in Hamburg und Schweizer Mitglieder der IAA unterstützten die Streikenden. Am 27. April 1867 wurde der Streik gewaltsam unterbunden. Die Unternehmer hatten die Lohnerhöhung von 10% bewilligt. Die Regierung verbot die während des Streiks gegründete Association fraternelle de solidarité et de crédit mutuel des ouvriers tailleurs; die Streikführer wurden vor Gericht gestellt und verurteilt. Diese Verurteilung wurde vom Generalrat der IAA in seinem Bericht an den Lausanner Kongreß als ein deutliches Beispiel des Klassenkampfes gewertet"?>Siehe<?oxy_comment_end?>
+              auch: <bibl sameAs="zotero-604880-WRP8GFPD">Mathew Lawrence: The strike
+                of the Paris tailors.</bibl> In: The Bee-Hive Newspaper. London. Nr. 286,
+              6. April 1867. S. 5, Sp. 6. Der Artikel endet mit der englischen
+              Version der <ref target="mega_eyh_jsl_52b">o. g. Beilage</ref>: „M. Duquerque. – We
+              acknowledge the receipt of your telegram. We have entire confidence in your success;
+              and we promise you our moral and material co-operation.“ Der <bibl sameAs="zotero-604880-S9AFJCFX">Artikel</bibl> erschien zuvor in: The
+              Times. London. Nr 25776, 4. April 1867, S. 10, Sp. 1. <?oxy_comment_start author="lindenberg" timestamp="20180816T111416+0200" comment="Foto vorhanden!"?>
+              <?oxy_comment_end?></note></seg>
+          <seg type="comment"><orig>I sent the <hi rendition="#u">enclosed</hi> reply.</orig><note xml:id="f2ab94ec-1dbe-4d01-b914-46999d59b9c0">Siehe Wiedergabe der Beilage (<ref target="mega_eyh_jsl_52b">Antwort von Mathew Lawrence an die Pariser Schneider vom
+                31. März oder 1. April 1867</ref>).</note></seg></p>
+        <p><seg type="comment"><orig>Please to inform <hi rendition="#u">Germany</hi> of the position of affairs <hi rendition="#u">here</hi>,</orig><note xml:id="b4532082-7faf-40fb-9650-7b93702a6409">Den <?oxy_comment_start author="lindenberg" timestamp="20180815T100929+0200" comment="Scan vom Original in Marx-Hermann_1867_3.pdf"?>Aufruf<?oxy_comment_end?>
+              <bibl sameAs="zotero-604880-W6MJ2GKU">„Warnung. An die deutschen
+                Schneider.“</bibl> haben <persName key="pdrPo.001.004.000001296">Johann Georg
+                Eccarius</persName> und <persName key="pdrPo.001.004.000002789">Friedrich
+                Leßner</persName> im „Hermann“, London, Nr. 431 vom 6. April 1867,
+              S. 3452, Sp. 3 veröffentlicht. Siehe Abdruck in: <bibl sameAs="zotero-604880-I7CVR5EI">MEGA² I/20.</bibl>
+              S. 1604.</note></seg> so that the Tailors will not be misled.</p>
+        <closer>Yours Truly<lb/>Mathew Lawrence.</closer>
+        <p>D<hi rendition="#sup">r</hi> Marx </p>
+      </div></body></text></TEI>

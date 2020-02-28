@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00282" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>273</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag, 24. Juni 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1630/D III–400</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 234 × 182 mm. Wasserzeichen: „A Pirie &amp; Sons 1866“. Prägung: Wappenschild im Oval mit der Aufschrift „London Superfine“. Engels hat die ersten zwei Seiten vollständig, die dritte zu einem Drittel beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „16,1“ bzw. „16,2“ (beide
+                            gestrichen) und „327,1“ bis „327,3“. Redaktionelle Vermerke.</p><p>Von unbekannter Hand: auf der ersten Seite: oben links Vermerk mit Blaustift: „001“, unten mit Bleistift: „30“.</p><p/><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2042</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 384/385.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-06-24"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00281"/>
+                    <ref type="next" target="B00285"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 22. Juni 1867 (<ref target="B00281"><?oxy_comment_start author="lindenberg" timestamp="20190128T172814+0100" comment="(Br. 272)"?>Marx
+                        an Engels, 22.6.1867</ref><?oxy_comment_end?>) . Marx antwortete am 27. Juni
+                    1867 (<ref target="B00285"><?oxy_comment_start author="lindenberg" timestamp="20190128T172910+0100" comment="(Br. 276)"?>Marx
+                        an Engels, 27.6.1867<?oxy_comment_end?></ref>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:41Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Manchester 24 Juni 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Die Bogen bis incl. 12 dankend erhalten</orig><note xml:id="nljl_4p2_wfb">Korrekturbogen des ersten Bandes des „Kapital“.
+                            Siehe <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180517T115916+0200" comment="(Br. 272.3)."?>Marx
+                                an Engels, 22.6.1867 <?oxy_comment_end?></ref>.</note></seg>, habe
+                    aber noch nicht über N<hi rendition="#sup">o</hi>. 8 hinaus gelesen. <seg type="comment"><orig>Die Kapitel über die Verwandlung in Kapital &amp; das
+                            Entstehen des Mehrwerths</orig><note xml:id="nk4n_zp2_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> Zweites Kapitel: Die Verwandlung von
+                            Geld in Kapital (MEGA² II/5. S. 102–128); Drittes Kapitel: Die
+                            Produktion des absoluten Mehrwerts. (Ebenda. S. 129–251.)</note></seg>
+                    bilden was Darstellung &amp; Inhalt angeht, soweit den Glanzpunkt. Ich habe sie
+                    gestern dem <persName key="pdrPo.001.004.000003296">Moore</persName>
+                    vorübersetzt, der sie auch richtig capirt hat &amp; sehr verwundert war über
+                    diese einfache Methode Resultate zu erlangen. Gleichzeitig habe ich die Frage
+                    gelöst <seg type="comment"><orig><hi rendition="#u">wer</hi> Dein Buch englisch
+                            übersetzen soll: der Moore.</orig><note xml:id="nhp4_gq2_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> – Die englische Ausgabe des ersten
+                            Bandes des „Kapital“ wurde erst nach Marx’ Tod von Engels besorgt. Die
+                            Übersetzung auf Grundlage der 3. deutschen Ausgabe hatten <persName key="pdrPo.001.004.000003296">Samuel Moore</persName> und <persName key="pdrPo.001.004.000000194">Edward Aveling</persName> übernommen
+                            unter Mithilfe von Eleanor Marx-Aveling. Siehe <bibl sameAs="zotero-604880-NIDMDGHD" type="primary">Karl Marx: Capital: A
+                                critical analysis of capitalist production. Transl. from the third
+                                German ed., by Samuel Moore and Edward Aveling and ed. by Frederick
+                                Engels. Vol. 1. London 1887</bibl>. (MEGA<hi rendition="#sup">2</hi>
+                            II/9. S. 1–692.) Ausführlicher zur Entstehungs- und
+                            Überlieferungsgeschichte dieser Ausgabe siehe ebenda.
+                        S. 703–725.</note></seg> Er kann jetzt Deutsch genug um den <persName key="pdrPo.001.004.000002109">Heine</persName> ziemlich fließend zu lesen
+                    &amp; wird sich bald in Deinen Styl hineinarbeiten (mit Ausnahme der Werthform
+                    &amp; der Terminologie, da werd’ ich stark nachhelfen müssen). Dabei versteht
+                    sich daß die ganze Arbeit unter meiner unmittelbaren Aufsicht vor sich geht.
+                    Sobald Du einen Verleger hast der ihm n.b. etwas für seine Arbeit <hi rendition="#u">zahlt</hi> ist er ganz bereit dazu. Der Kerl ist fleißig
+                    &amp; zuverlässig &amp; hat dabei soviel theoretische Vorbildung, wie man bei
+                    einem Engländer erwarten kann. Ich habe ihm gesagt, <seg type="comment"><orig>die Analyse der Waare &amp; das über’s Geld</orig><note xml:id="nods_rq2_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx:
+                                Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> Erstes Kapitel:
+                            Waare und Geld. S. 1–106 (Siehe MEGA² II/5. S. 17–101.)</note></seg>
+                    würdest Du selbst englisch neu bearbeiten. Für den Rest aber ist nun auch eine
+                        <hi rendition="#u">Terminologie</hi> (englische) nöthig um die Hegelschen
+                    Ausdrücke zu verdollmetschen, &amp; da kannst Du einstweilen darüber nachdenken,
+                    denn das ist nicht leicht, aber unumgänglich.</p>
+                <p>Wie viel Bogen sind nun eigentlich schon gesetzt, ich
+                    kann nicht mehr daraus klug werden, es muß aber doch wohl jetzt das halbe Buch
+                    gesetzt sein? Ich freue mich auf die Verlegenheit der Herren Oekonomen wenn sie
+                    an die beiden oben erwähnten Passus kommen. <pb/> Die Entwicklung der Werthform
+                    ist allerdings das Ansich der ganzen bürgerlichen Schmiere, die revolutionäre
+                    Consequenz tritt aber noch nicht so hervor &amp; die Leute können sich an diesen
+                    abstracten Sachen leichter vorbeidrücken &amp; Phrasen machen. Hier hört’s aber
+                    auf, die Sache ist so sonnenklar daß ich nicht sehe was sie darauf sagen
+                    können.</p>
+                <p>Ich hoffe es gelingt <seg type="comment"><orig>den
+                            Herren Bürgern mit ihrer neuen Untersuchung einen Stock
+                            vorzustecken.</orig><note xml:id="nstn_xq2_wfb">Siehe <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180517T120042+0200" comment="(Br. 272.23–33),"?>Marx
+                                an Engels, 22.6.1867<?oxy_comment_end?></ref> ('Das Schlimmste in
+                            den <hi rendition="#u">„Reports“</hi> ...') und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190520T140008+0200" comment="272k und 272l."?>Erl.<?oxy_comment_end?> –
+                            Zur Redewendung: „der riegelstock, welcher die thür verschlieszt,
+                            besonders in der übertragenen wendung: einem in einer sache einen stock
+                            vorstecken ..., ihn in seinem freien thun und lassen hindern.“ Siehe
+                            „Stock“, in: Deutsches Wörterbuch von Jacob Grimm und Wilhelm Grimm,
+                            Erstbearbeitung (1854–1960), digitalisierte Version im Digitalen
+                            Wörterbuch der deutschen Sprache, &lt;<ref target="https://www.dwds.de/wb/dwb/Stock">https://www.dwds.de/wb/dwb/Stock</ref>&gt;, abgerufen am 20.05.2019.
+                        </note></seg> Ich hörte noch vor ein Paar Tagen einen der Eisengießer &amp;
+                    Maschinenfabrikanten heulen über die drohende Gefahr. Unterdessen ist es sehr
+                    gut daß die <seg type="comment"><orig>Sheffielder Vehmgerichts-Organisation
+                            durch die Commission für alle Zukunft unmöglich gemacht
+                            wird.</orig><note xml:id="ncng_cr2_wfb">Siehe <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180517T120125+0200" comment="(Br. 272.27–28)"?>Marx
+                                an Engels, 22.6.1867<?oxy_comment_end?></ref> („Sie rechnen darauf
+                            ...“) und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190520T135703+0200" comment="272k."?>Erl.<?oxy_comment_end?> </note></seg>
+                    Dieser Localterrorismus &amp; sein großer Erfolg hielt die Kerle grade ab sich
+                    an der großen nationalen Bewegung zu betheiligen &amp; bestärkte sie in ihrer
+                    Localbornirtheit. Komisch ist das Geheul der Bourgeois. Als ob die Herren
+                    Bourgeois nicht selbst in Australien &amp; Californien &amp;c ihre Vehmgerichte,
+                    ihre vigilance committees gehabt hätten, die grade so verfuhren, nur noch viel
+                    massenhafter todtschlugen.</p>
+                <p><seg type="comment"><orig>Den Wein werde ich Dir
+                            schicken, auch noch eine £ 10.– vor Ende <expan>d<ex>iese</ex>s</expan>.</orig><note xml:id="num2_bs2_wfb"><?oxy_comment_start author="lindenberg" timestamp="20181120T171048+0100" comment="(Br. 272.73–78)"?>Siehe
+                                <ref target="B00281">Marx an Engels,
+                            22.6.1867</ref><?oxy_comment_end?> („Nun Privates ...“) und
+                        Erl. </note></seg> Ich wollt Ihr hättet Eure Party etwas später als 2. Juli
+                    gesetzt. Du begreifst daß ich nicht ohne großes Aufsehen zu erregen, grade am
+                        <hi rendition="#u">ersten</hi> Tag des Bilanzjahrs mir £ 100.– kann geben
+                    lassen, ich muß verhindern daß die Leute auf dem Comptoir nicht zu viel darüber
+                    nachdenken was ich mit einer solchen Summe auf ein Mal wohl mache.</p>
+                <p><seg type="comment"><orig>Wegen der Moleculartheorie
+                            sagt mir<persName key="pdrPo.001.004.000004311">
+                            Schorlemmer</persName></orig><note xml:id="nvdv_ds2_wfb">Siehe <ref target="B00281"><?oxy_comment_start author="lindenberg" timestamp="20181120T171214+0100" comment="(Br. 272.56–66)"?>Marx
+                                an Engels, 22.6.1867</ref><?oxy_comment_end?> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190520T142637+0200" comment="272q"?>Erl.<?oxy_comment_end?> </note></seg>
+                    daß die Hauptkerle dabei <persName key="pdrPo.001.004.000001766">Gerhardt</persName> &amp;<persName key="pdrPo.001.004.000002472">
+                        Kekule</persName> sind; daß <persName key="pdrPo.001.004.000005207">Wurtz</persName> nur popularisirt &amp; ausgearbeitet hat. <pb/> Er wird
+                    Dir <seg type="comment"><orig>ein Buch</orig><note xml:id="nbt3_gs2_wfb">Vermutlich Hermann Kopp: Sonst und jetzt in der Chemie. Ein
+                            populär-wissenschaftlicher Vortrag. Braunschweig 1867. Auf den Seiten
+                            28–34 legte Kopp die Grundlagen der Molekulartheorie dar. – Das
+                            Handexemplar von Marx bzw. Engels hat den Besitzvermerk: C.
+                            Schorlemm[er]. (MEGA<hi rendition="#sup">2</hi> IV/32. Nr. 685.)
+                                <persName key="pdrPo.001.004.000004311">Schorlemmer</persName>
+                            studierte Chemie ein Semester 1859 bei <persName key="pdrPo.001.004.000005136">Heinrich Will</persName> und <persName key="pdrPo.001.004.000002573">Hermann Kopp</persName> in Gießen.
+                            (Siehe MEGA<hi rendition="#sup">2</hi> IV/31. S. 675.)</note></seg>
+                    schicken worin die historische Entwicklung des Gegenstands dargestellt wird.</p>
+                <p>Gibt es nicht alte, <persName key="pdrPo.001.004.000010129">vorbaconische</persName> oder doch <persName key="pdrPo.001.004.000011025">vorlockische</persName> engl. philos.
+                    Schriften aus denen man Material zur Terminologie finden könnte? Mir ist so, als
+                    existire so etwas. Und wie ists mit den engl. Versuchen den <persName key="pdrPo.001.004.000002103">Hegel</persName> wiederzugeben?</p>
+                <p>Beste Grüße an <persName key="pdrPo.001.004.000003075">Deine Frau</persName> &amp; <seg type="comment"><orig>die
+                            Mädchen</orig><note xml:id="nob3_jwf_bhb"><persName key="pdrPo.001.004.000003068">Eleanor</persName>, <persName key="pdrPo.001.004.000003074">Jenny</persName> und <persName key="pdrPo.001.004.000003076">Laura Marx</persName>.
+                    </note></seg></p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

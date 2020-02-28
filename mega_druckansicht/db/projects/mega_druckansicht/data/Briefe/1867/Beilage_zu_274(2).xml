@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_ebt_1kt_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harro Harring an Nicolaus Trübner, 16. Mai 1867 (Brief).</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                        Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 1, op. 5, d.
+                        1705. Bl. 2.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"> Standort Orig. nicht bekannt; Kopie: Sign. f. 1, op. 5, d. 1705. Bl. 2.</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <opener>
+                    <dateline><pb/> Sonntag. d. 16 Mai 1867.</dateline>
+                    <salute>Geehrter Herr <persName key="pdrPo.001.004.000004818">Truebner</persName>.</salute>
+                    <salute/>
+                </opener>
+                        
+                <p>Umstehend Certificat, das zweite von D<hi rendition="#sup">r</hi>
+                    <persName key="ed_f3g_dnt_ngb">Wills</persName> wurde in duplo nach Copenhagen
+                    gesandt, eins an die Regierung, ein Duplicat an D<hi rendition="#sup">r</hi>
+                    <persName key="ed_fns_mk1_hhb">Lorenzen</persName>, meinen innigsten Freund, der
+                        <hi rendition="#u">allein</hi> mir seitdem kleine Hülfe sandte.</p>
+                <p>Vergebens. Es kam keine Hülfe. Seit Juli 1865. Seit zwei Jahren lebe ich hier in
+                    solchem Elend.</p>
+                <p>Dr Lorenzen u. sein Schwager Mr <persName key="ed_zdf_wk4_zgb">Erichson</persName> in New castle und ein junger <seg type="comment"><orig>Baron <persName key="ed_hxm_5g4_2jb">Rosencranz</persName>
+                                (<persName key="pdrPo.001.004.000010771">Hamlets</persName> Freund!
+                            – – )</orig><note xml:id="nlww_xsn_2jb">Anspielung auf die Figur des
+                                <persName key="ed_yjf_3k4_2jb">Rosencrantz</persName> in
+                            Shakespeares Tragödie „Hamlet“.</note></seg> sandten mir nach und nach
+                        <hi rendition="#u">kleine</hi> Hülfe, daß ich nicht verhungerte.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

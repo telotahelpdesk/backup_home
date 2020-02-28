@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00384" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>374</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch, 9. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4495/L VI 627</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 230 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Marx hat die erste Seite vollständig, die dritte fast vollständig beschrieben, die zweite und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten mit Bleistift: „38,1“ bzw.
+                            „38,2“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2089</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913)<?oxy_custom_end?>. S. 413/414.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930)<?oxy_custom_end?>. S. 430/431.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-09"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00378"/>
+                    <ref type="next" target="B00387"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Brief vom 8. Oktober 1867 (siehe <ref target="B00378"><?oxy_comment_start author="lindenberg" timestamp="20190220T150106+0100" comment=" Br. 368"?>Engels
+                        an Marx, 8.10.1867</ref><?oxy_comment_end?>). Engels antwortete am 11.
+                    Oktober 1867 (siehe
+                        <?oxy_comment_start author="lindenberg" timestamp="20190220T161258+0100" comment="377"?><ref target="B00387">Engels an Marx, 11.10.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage zum Brief („in <expan>dem</expan> gleichzeitig kommenden Courrier“) siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:08Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 9 Oct. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000000542">Borkheim</persName> erwartet erst Brief von Dir, daß Du Co-Garant
+                            sein willst</orig><note xml:id="c18623f5-d240-4c17-9c02-530b112b5ed2">
+                            Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180531T142458+0200" comment="(Br. 360.126–130"?>Marx
+                                an Engels, 4.<?oxy_comment_end?>10.1867</ref> „Private Affairs: ...“
+                            und Erl. sowie <ref target="B00378"><?oxy_comment_start author="reichhoff" timestamp="20180531T142548+0200" comment="(Br. 368.3–5)"?>Engels
+                                an Marx, 8.10.1867<?oxy_comment_end?></ref> .</note></seg>.</p>
+                <p><seg type="comment"><orig>Der <hi rendition="#u">arme</hi>
+                            <persName key="pdrPo.001.004.000002648">Lafargue</persName> hat heute
+                            die lezte Qual, die Französirung (soweit das überhaupt möglich!) der <hi rendition="#u">Vorrede</hi> des B. Leztrer hat sein opus getauft:
+                                „<hi rendition="#u">Ma Perle</hi> devant le Congrès de
+                            Genève.“</orig><note xml:id="f4dc579e-cc16-4b62-9097-3e8961b0f374"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867.</bibl> – Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180531T142643+0200" comment="(Br. 360.105–126)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ad vocem Borkheim
+                            ...“.</note></seg> Merkwürdig, wie die Schriftsteller- u. Ruhmsucht
+                    einen sonst ganz verständigen garçon zum fool machen kann!</p>
+                <p><seg type="comment"><orig>Gestern also sollte <persName key="pdrPo.001.004.000001296">Eccarius</persName> von <persName key="pdrPo.001.004.000001603">Fox</persName> enthauptet
+                            werden</orig><note xml:id="c7eb4b75-9809-4a21-bb14-49202bc4f250">Siehe
+                            Minutes 1867–1869. S. 519.10–19. Siehe auch <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180531T143441+0200" comment="(Br. 360.83–86)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ad vocem:
+                            International  Assoc. ...“sowie
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T110227+0200" comment="360v und 360w."?>Erläuterungen<?oxy_comment_end?>. </note></seg>.
+                    Leztrer sprach in seiner Anklage über 1 Stunde. Er hatte sehr malitiös die
+                    schlimmsten Stellen zusammengestellt u. wandte alle Künste eines <seg type="comment"><orig>Old Bailey</orig><note xml:id="fb42ce8a-bd21-46d4-94aa-d46b85c8b735">The Central Criminal Court
+                            in London.</note></seg> Advokaten an, griff auch mich
+                            <expan>f<ex>or</ex>twährend</expan> an. Ich schlug ihm in der Replique
+                    so in die Parade, daß er in <expan>s<ex>eine</ex>r</expan> schließlichen Reply
+                    alle Fassung u. Controle über sich selbst verlor. Alle betheiligten sich an
+                            <expan>d<ex>er</ex></expan> Diskussion. Resultat: Meine Motion <add place="superlinear">(rather Amendement)</add> „zur Tagesordnung überzugehn“
+                    wurde mit ungeheurer Majorität angenommen. Doch bekam <persName key="pdrPo.001.004.000001296">Eccarius</persName> während der Debatte
+                    gehörig den Kopf gewaschen.</p>
+                <p><seg type="comment"><orig>Lies in <expan>d<ex>em</ex></expan> gleichzeitig <add place="superlinear">kommenden</add>
+                            <hi rendition="#u">Courrier</hi> das von mir Angestrichene: „Le
+                            Troisième Larron“</orig><note xml:id="a64c1905-8390-412c-b0a3-c51a5f3f0244">Le troisième larron. In:
+                            Le Courrier français. Paris. Nr. 113, 8. Oktober 1867. S. 1, Sp. 4. Der
+                            Titel ist in Anlehnung an Jean de La Fontaines Fabel „Les voleurs et
+                            l’âne“ gewählt.</note></seg> (schön, daß <expan>d<ex>ie</ex></expan>
+                    Franzosen schon sans gêne <hi rendition="#u">ihren</hi>
+                    <persName key="pdrPo.001.004.000003392">Bonaparte</persName> als einen der
+                    <?oxy_comment_start author="lindenberg" timestamp="20190410T110032+0200" comment="larron = Dieb"?>Larrons<?oxy_comment_end?>
+                    bezeichnen). <pb/>
+                    <seg type="comment"><orig>Sobald ich <expan>d<ex>ie</ex></expan> Nummern von
+                                <persName key="ed_lfk_vgz_lz">Lormier</persName> zurück habe,
+                            schicke ich die interessanten Communications über
+                                <expan>d<ex>ie</ex></expan> Mexican Affaire</orig><note xml:id="a83645f6-540f-40b1-9a96-ddbaf9e5e5ad">Offensichtlich meinte Marx
+                            den in derselben Nummer von „Courrier français“ veröffentlichten
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T110722+0200" comment="(siehe Erl. 374e) "?>Artikel
+                            <?oxy_comment_end?>von A[uguste] Vermorel: La contre-guérilla française
+                            au Mexique (Le Courrier français. Paris. Nr. 113, 8. Oktober 1867. S. 1,
+                            Sp. 4 bis S. 2, Sp. 2), in dem es um die Ereignisse der im Dezember 1861
+                            begonnenen gemeinsamen Intervention Frankreichs, Großbritannien und
+                            Spaniens in Mexiko ging. Der Widerstand der Mexikaner erzwang im März
+                            1867 den Abzug der französischen Interventen.</note></seg>.</p>
+                <p>Salut</p>
+                <closer>D<lb/>KM</closer>
+                <postscript>
+                    <p>À Propos. <persName key="pdrPo.001.004.000004629">Strohn</persName> war
+                        gestern einen Tag hier. Er bildet sich ein, Du hättest ihn bei seinem
+                        letzten Besuch in Manchester snobben wollen, nämlich durch die Phrase: „Ja
+                        in Bradford spielt der Commis Voyageur noch eine Rolle.“ Ich habe ihm den
+                        Unsinn aus dem Kopf zu treiben gesucht. – Er sagt, <persName key="pdrPo.001.004.000001214">Dronke</persName> selbst habe den
+                        englischen Associé der Kupfergesellschaft verschafft. Er habe wahrscheinlich
+                        dafür indemnité verlangt u. <del rendition="#s">sich<sic ana="#break-off"/></del> sicher habe er faule, aber legal disputable Ansprüche geltend
+                        gemacht bei der Aneignung oder Handlegung auf einen Theil des durch seine
+                        Hand gehenden Kupfers. Er glaube nicht, daß <seg type="comment"><orig>D.
+                                ohne Rückhalt direkt den code pénal frisé habe</orig><note xml:id="e1dbb247-62ad-4d29-8d9b-49ccd540b838"> Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180531T143857+0200" comment="(Br. 360.61–63)"?>Marx
+                                    an Engels, 4.10.1867 <?oxy_comment_end?></ref> „Ad vocem Dronke
+                                ...“ und
+                                <?oxy_comment_start author="lindenberg" timestamp="20190730T110904+0200" comment="360o."?>Erl.<?oxy_comment_end?> </note></seg>.
+                        Tant mieux. </p>
+                </postscript>
+            </div></body></text></TEI>

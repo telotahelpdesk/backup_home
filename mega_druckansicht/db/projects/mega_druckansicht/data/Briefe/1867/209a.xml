@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00217" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>209a</idno>Elisabeth Engels an Friedrich Engels in Manchester. Barmen,
+                    Mittwoch, 23. Januar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1
+                                d. 6/1 Fotosign. 757a&lt;–&gt;b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 9,
+                            op. 1, d. 6/1. Fotosign. 757a&lt;–&gt;b.</p>
+                        <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem
+                            Bogen, dessen alle vier Seiten Elisabeth Engels vollständig beschrieben
+                            hat. Die letzten Passagen hat sie am linken Rand der vierten („kurz“ bis
+                            „Unglück.–“)
+                            <?oxy_comment_start author="lindenberg" timestamp="20180524T181546+0200" comment="(„kurz“ bis „Unglück.–“, Z. 42–43)"?>und<?oxy_comment_end?>
+                            der ersten Seite („Nun leb recht wohl“ bis „Deine Mutter
+                            E.“<?oxy_comment_start author="lindenberg" timestamp="20180524T181828+0200" comment="vorher: Z. 44–45"?>)<?oxy_comment_end?>
+                            quer niedergeschrieben. Das Papier wurde gelocht, der dadurch
+                            entstandene Textverlust („r[e]cht“,
+                            „re[ch]t“)<?oxy_comment_start author="lindenberg" timestamp="20180525T104350+0200" comment="vorher: (Z. 45)"?><?oxy_comment_end?>konnte
+                            rekonstruiert werden.</p>
+                        <p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind
+                            ausgewiesen.<?oxy_comment_start author="lindenberg" timestamp="20180524T175632+0200" comment="vorher: Die Schreibweise wurde nicht berichtigt."?></p><?oxy_comment_end?>
+                        <p>Von unbekannter Hand: Nummerierung des Briefes: „757“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName>
+                    <placeName key="ed_mzj_vcv_cbb">Barmen</placeName>
+                    <date when="1867-01-23"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:47Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:55+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> Barmen 23 Janr.1867</dateline><salute>Lieber
+                        Friedrich</salute></opener>
+                <p>Es ist Zeit daß ich Dir einmal wieder schreibe, ich habe diesmal etwas lange
+                    damit gewartet, indessen war in den letzten 14 Tagen eine
+                        <expan>kl<ex>eine</ex></expan> Krankheit schuld daran, ich habe acht Tage
+                    das Bette hütten müssen u. bin dann nach her immer so angegriffen daß ich nicht
+                    schreiben kann. Es geht mir indessen jetzt wieder gut u. ich will diese gute
+                    Zeit benutzen, im Winter kann ich nicht recht auf Gesundheit rechnen. Bei diesem
+                    kalten Wetter, was wir in der letzten Zeit hatten kommen allerlei
+                    Krankheits-Anfälle vor u. so sind denn auch die andern Familienglieder,
+                    besonders die Kinder damit heimgesucht worden, doch waren es Gott sei Dank keine
+                    <pb/> schwere Krankheiten. Bei <seg type="comment"><orig><persName key="pdrPo.001.004.000000502">Hedwig</persName></orig><note xml:id="fdbb2bbb-b144-4310-88af-7bb0ee6ac2b2"><persName key="pdrPo.001.004.000000502">Hedwig
+                        Boelling</persName>.</note></seg> haben zwar <seg type="comment"><orig>3 Mädchen</orig><note xml:id="ac44a45d-2f9f-446e-a705-207edd08556f"><persName key="pdrPo.001.004.000000498">Anna</persName>, <persName key="pdrPo.001.004.000000499">Elise</persName> und <persName key="pdrPo.001.004.000000504">Klara Boelling</persName>.
+                        </note></seg> das Scharlachfieber gehabt, es war aber auch nicht sehr
+                    schlimm. Ich hatte <seg type="comment"><orig>die 3 jüngsten Kinder</orig><note xml:id="f61322ae-2b8a-4f86-ab97-5fe3624239b2"><persName key="pdrPo.001.004.000000503">Helene</persName>, <persName key="pdrPo.001.004.000000505">Marie</persName> und <persName key="ed_fh3_2nh_yx">Hedwig Boelling</persName>. </note></seg>
+                    2 Monate hier, weil es so sehr ansteckend ist, am vorigen Sammstag sind sie
+                    wieder zu ihren <seg type="comment"><orig>Eltern</orig><note xml:id="ce35523a-5c27-4765-9a52-a34d3f7a87e7"><persName key="pdrPo.001.004.000000502">Hedwig</persName> und <persName key="pdrPo.001.004.000000501">Friedrich Wilhelm
+                            Boelling</persName>.</note></seg> gezogen. <seg type="comment"><orig><persName key="ed_fzq_5lg_yx">Roberth Bartels</persName>
+                            befindet sich mit seiner jungen Frau recht wohl u. <persName key="pdrPo.001.004.000000459">Marie</persName> macht sich als
+                            Hausfrau ganz gut.</orig><note xml:id="e6f3f439-a02f-4ba2-a08b-fd9a953c4ffd">Zur Verlobung und Hochzeit
+                            von <persName key="ed_fzq_5lg_yx">Robert Barthels</persName> und
+                                <persName key="pdrPo.001.004.000000459">Marie Blank</persName> siehe
+                                <ref target="B00006">E. Engels an Engels 13.1.1866</ref> und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180412T121353+0200" comment="siehe Br. 5.18–27 und Erl."?><?oxy_comment_end?></note></seg>
+                    Hier ist in den letzten Wochen ein wahres Verlobungsfieber herschend, wir haben
+                    jetzt 11 Bräute in Barmen, von denen Du aber wol die wenigsten kennen wirst. Das
+                        <persName key="ed_wkm_bpb_mdb">Constanze Molineus</persName> mit einem Herrn
+                        <persName key="ed_pzn_5qb_mdb">Saatweber</persName> verlobt ist weißt Du
+                    vieleicht schon, auch <seg type="comment"><orig>die <persName key="ed_ojk_bhg_4db">Tochter</persName> von <persName key="ed_msz_llg_4db">Carl Bredt</persName> ist mit einem Herrn
+                                <persName key="ed_sd2_nnb_mdb">Pelzer</persName> aus
+                                Vervie<ex>r</ex>s verlobt</orig><note xml:id="nlyq_tkg_4db"><persName key="ed_ojk_bhg_4db">Charlotte Adelina Bredt</persName>
+                            und <persName key="ed_sd2_nnb_mdb">Carl Oscar Peltzer</persName>
+                            heirateten am 13. März 1867 (siehe <ref target="http://www.familienbuch-euregio.de/genius?person=155621">http://www.familienbuch-euregio.de/genius?person=155621</ref>)</note></seg>,
+                    er kam nach Barmen <pb/> um sich hier auf dem Weihnachtsball die jungen Mädchen
+                    an zu sehn, da er eine Frau suchte, er sah sie also zuerst auf dem Ball, dann
+                    2 Tage später in einem Conzert u. wurde Neujahrstag auf ein Mittagessen bei der
+                    Großmutter <seg type="comment"><orig><persName key="ed_zjs_252_ndb">Fr[au]
+                                Fr[riedrich] Bredt</persName></orig><note xml:id="nidl_sv2_ndb">Vermutlich <persName key="ed_zjs_252_ndb">Juliane Adeline
+                                Bredt</persName>, geb. Keuchen, Ehefrau von <persName key="ed_bxk_r3c_pdb">Friedrich Bredt</persName>.</note></seg>
+                    eingeladen u. damit war die Verlobung fertig. Er ist ein reicher, junger Mann,
+                    was <seg type="comment"><orig>Bredts</orig><note xml:id="nqpp_zrg_4db"><persName key="ed_msz_llg_4db">Peter Karl</persName> und <persName key="ed_ajl_2lg_4db">Charlotte Albertina
+                        Bredt.</persName></note></seg> natürlich wußten. Er soll eine kolosale Nase
+                    vor den Kopf haben. Mit den militärischen Verlobungen von <seg type="comment"><orig><persName key="pdrPo.001.004.000001406">Anton
+                                Ermens</persName>
+                            <persName key="ed_jgr_cmf_ndb">Töchtern</persName></orig><note xml:id="nl1v_3w2_ndb">Nicht ermittelt.</note></seg> scheint es doch noch
+                    eine unsichere Sache zu sein, Anton müßte denn der Braut eine jährliche Zulage
+                    geben, das Militär ist im Punkt der Liebe nicht von großer Beständigkeit.</p>
+                <p>Nach Kälte u. Schnee haben wir heute plötzlich Regenwetter bekommen u. <pb/>
+                    gestern schrieb mir <seg type="comment"><orig><persName key="pdrPo.001.004.000001910">Elise</persName></orig><note xml:id="ef86c4bb-896a-472b-abb8-0a5823c412c3"><persName key="pdrPo.001.004.000001910">Elise von
+                        Griesheim</persName>.</note></seg> daß sie diesen Mittag mit <seg type="comment"><orig><persName key="pdrPo.001.004.000001915">Hebchen</persName></orig><note xml:id="e9332937-39c0-41bb-b394-506eafea69c6"><persName key="pdrPo.001.004.000001915">Hedwig von
+                            Griesheim</persName>.</note></seg> auf einige Tage über Liegburg u.
+                    Deutz hier ankommen würden, sie hatten wahrscheinlich vor bis Liegburg zu
+                    Schlitten zu fahren, aber daraus wird nun wol nichts geworden sein. <persName key="pdrPo.001.004.000000456">Emil Blank</persName> hatte sich auch einen
+                    Schlitten bestellt, er sollte heute fertig werden, es geht gewöhnlich so, wenn
+                    der Schlitten fertig ist giebt es Regen u. so bei allen andern Gelegenheiten.
+                    Ich hoffe nur Du schreibst mir r<supplied cert="high">e</supplied>cht bald
+                    wieder. Dann sage mir doch auch <seg type="comment"><orig>wie es eigentlich mit
+                            der Tevortschen Angelegenheit steht.</orig><note xml:id="f62194c5-8e57-49de-bd3f-2a375ccecbdd">Nicht
+                        ermittelt.</note></seg> Der Alte <persName key="ed_a5j_ry2_ndb">Tevort</persName> soll sein ganzes Vermögen verloren haben, wenigstens
+                    verkaufen er, (oder vielmehr die <persName key="ed_qzv_sy2_ndb">Frau</persName>
+                    denn er soll ganz kindisch sein) Wagen u. Pferde, schafft Dienstboten bis auf 1
+                    ganz ab kurz schrenkt sich auf jede mögliche Weise ein. Die <seg type="comment"><orig>Wittensteins Kinder</orig><note xml:id="nssh_5gf_ndb">Vermutlich
+                            ist das Ehepaar <persName key="ed_srs_r3g_ldb">Gustav</persName> (Sohn
+                            des Färbereibesitzers <persName key="ed_j23_52f_ndb">Wilhelm
+                                Wittenstein</persName>) und <persName key="ed_tyg_ydf_ndb">Marie
+                                Wittenstein</persName> gemeint bzw. Gustavs Schwester <persName key="ed_gwt_zff_ndb">Laura Wittenstein</persName>.</note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20180416T174021+0200" comment="Quelle: http://www.heidermanns.net/gen-pers.php?ID=36782-36781"?>haben<?oxy_comment_end?>
+                    in dieser Hinsicht viel Unglück. – </p>
+                <p>/ Nun leb recht wohl lieber Friedrich, Gott erhalte Dich gesund. Schreibe mir
+                        re<supplied cert="high">ch</supplied>t bald. Mit treuer Liebe</p>
+                <closer>Deine Mutter <lb/>E. /</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

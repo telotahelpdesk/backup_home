@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_k4k_ppt_gfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Wilhelm Liebknecht, zwischen Dienstag, 16. und Donnerstag, 25.
+                    April 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date from="1867-04-17" to="1867-04-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002822">Liebknecht, Wilhelm
+                        (1826-1900)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von  Marx an Wilhelm Liebknecht, geschrieben zwischen
+                    dem 16. und 25. April 1867: siehe <ref target="B00254">Wilhelm Liebknecht an
+                        Karl Marx in Hannover. Leipzig, Donnerstag, 25. April 1867</ref> und <ref target="B00264">Karl Marx an Jenny Marx (Tochter) in London. Hannover,
+                        Sonntag, 5. Mai 1867</ref>  („I had, very soon after my arrival  [d. i. 16.
+                    April] here, <seg type="comment"><orig>written to Liebknecht</orig></seg>
+                    ...“)</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

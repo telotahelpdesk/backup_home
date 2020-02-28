@@ -1,0 +1,24 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00498" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>488</idno>Friedrich Leßner an Karl Marx in London. London, Sonntag, 22. Dezember 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 3027/D V 185–3</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem, kariertem Papier im Format 210 × 136 mm. Die erste Seite hat Leßner vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite oben links mit Bleistift Nummerierung des Briefes: „14“.</p><p>Die Schreibweise wurde nicht berichtigt.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1797</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_l54_cks_xy">Leßner, Friedrich (1825-1910)</persName><placeName>London</placeName><date when="1867-12-22"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:27Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 4 Francis St. Gower St. W.C!</dateline>
+                    <salute>Lieber Marx!</salute>
+                </opener>
+                <p>Sei so gut und schicke mir <seg type="comment"><orig>die Zeitung, die Du mir
+                            versprachst, worin die auszüge aus Deinen Buch enthalten
+                            sind.</orig><note xml:id="njyw_5n2_kgb"><bibl sameAs="zotero-604880-PT9GISVC" type="primary">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> Vorwort. Siehe <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180615T122950+0200" comment="(Br. 321.7–9)"?>Marx
+                                an Engels, 24.8.1867<?oxy_comment_end?></ref> „Selbiger Meißner ...“
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200113T094728+0100" comment="321b"?>Erl<?oxy_comment_end?>.</note></seg></p>
+                <p>Hast Du <seg type="comment"><orig>die probe Numer von <persName key="pdrPo.001.004.000002822">Liebknechts</persName>
+                            <bibl sameAs="ed_umz_dxj_tgb" type="periodika">zeitung</bibl></orig><note xml:id="np5v_yn2_kgb"><bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches
+                                Wochenblatt</bibl>. Siehe <ref target="B00404"><?oxy_comment_start author="lindenberg" timestamp="20200113T095527+0100" comment="394l"?>Erl. zu
+                                W. Liebknecht an Marx, 19.10.1867<?oxy_comment_end?></ref>. Die
+                            erste reguläre Nummer erschien am 4. Januar 1868.</note></seg> noch
+                    nicht erhalten? wenn dieselbe gut ist, werde ich einige Abonenten darauf
+                    bekommen.</p>
+                <p>Es grüst freundlichst</p>
+                <closer>Frd. Leßner.</closer>
+</div><div type="writingSession"><p>London 22/12 67. <pb/></p>
+            </div></body></text></TEI>

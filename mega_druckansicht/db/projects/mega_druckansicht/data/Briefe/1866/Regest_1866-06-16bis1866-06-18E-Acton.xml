@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_msf_jb2_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Friedrich Engels an Henry Morell Acton</title>
+                <title>. Zwischen Samstag, 16. Juni 1866 und Montag, 18. Juni 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <date from="1866-06-16" to="1866-06-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xxq_cbf_sy">Acton, Henry Morrell (-)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00125"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Engels an Henry Morell Acton, geschrieben zwischen
+                    dem 16. und dem 18. Juni 1866; siehe <ref target="B00125">Henry Morrell Acton an
+                        Friedrich Engels in Manchester. Manchester, Montag, 18. Juni 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

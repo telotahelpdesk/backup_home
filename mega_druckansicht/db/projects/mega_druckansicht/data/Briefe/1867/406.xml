@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00416" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>406</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Dienstag, 5. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 461/D I 130 Fotosign. 9684.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 240 × 210 mm; vom
+                            zweiten Blatt ist rechts ein Stück Papier ungerade abgerissen worden, so
+                            daß die obere Breite des Bogens nur 202 mm beträgt. Aufdruck der Firma
+                            „Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi>“ (siehe
+                            Borkheim an Marx, 8. Januar 1866) auf der ersten Seite oben links. Die
+                            Adresse „65, Fenchurch Street E.C.“ hat Borkheim gestrichen und durch
+                            die neue Adresse handschriftlich ersetzt. Die erste Seite hat Borkheim
+                            vollständig beschrieben, die übrigen drei Seiten sind leer.
+                            Schreibmaterial: schwarze Tinte.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1760</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-11-05"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:30Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Bldgs</dateline>
+                    <dateline>Bishopsgate Street</dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 5 Nov <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ich bin einige Tage später zurückgekommen</orig><note xml:id="f5ea87e6-1220-4de8-9610-73f8be9b37b0">Borkheim reiste nach
+                            Bordeaux. Siehe seinen <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180606T105751+0200" comment="(Br. 388.13–14)"?>Brief
+                                an Engels vom 16.10.1867<?oxy_comment_end?></ref>.</note></seg> als
+                    ich vor hatte. Nun werde ich mich sofort um <seg type="comment"><orig>die
+                            Geldgeschichte bekümmern, wenn ich aber nicht pünktlich am 10<hi rendition="#sup">ten</hi> damit fertig werde eben wegen verspäteter
+                            Rückkehr, werden Sie mich hoffentlich nicht bankerott
+                            erklären.</orig><note xml:id="c5cc6d3c-1767-4da2-b248-b03addf136f6">Siehe <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180606T105819+0200" comment="(Br. 388.6–13)"?>S.
+                                L. Borkheim an Engels, 16.10.1867 <?oxy_comment_end?></ref>, <ref target="B00415"><?oxy_comment_start author="reichhoff" timestamp="20180606T105904+0200" comment="(Br. 405.6)"?>5.<?oxy_comment_end?>11.1867</ref>
+                            und <ref target="B00400"><?oxy_comment_start author="reichhoff" timestamp="20180606T105939+0200" comment="(Br. 390.3–5)"?>an
+                                Marx, 17.<?oxy_comment_end?>10.1867</ref> sowie <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T110024+0200" comment="(Br. 395.3–8)"?>Marx
+                                an Engels, 19.10.1867<?oxy_comment_end?></ref>. Zur Geschichte
+                            dieser Geldanleihe siehe auch <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180606T110112+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und Erl. 360.</note></seg></p>
+                <p>Gruß an <seg type="comment"><orig>die Damen</orig><note xml:id="a5964864-aa97-477c-845f-8bad384d9e5d"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>, <persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName>,
+                                <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                <persName key="pdrPo.001.004.000003068">Eleanor</persName>
+                            Marx.</note></seg> und <seg type="comment"><orig>the <persName key="pdrPo.001.004.000002648">young man</persName></orig><note xml:id="a5561bb8-3c09-483a-be01-1d2a39e0c1b0"><persName key="pdrPo.001.004.000002648">Paul
+                    Lafargue</persName>.</note></seg>.</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00451" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>441</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch, 27. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4503/L VI 636</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            230 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin
+                            vergee“. Die erste und die dritte Seite hat Marx vollständig
+                            beschrieben, die zweite und die vierte Seite sind leer. Schreibmaterial:
+                            schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „58,1“ bzw.
+                            „58,2“.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2119</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 429/430.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930).<?oxy_custom_end?> S. 451/452.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-11-27"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <note>Marx beabsichtigte Borkheims Brief vom 27. November 1867 (<ref target="B00450"><?oxy_comment_start author="lindenberg" timestamp="20190315T140122+0100" comment="Br. 440"?>S.
+                        L. Borkheim an  Marx, 27.11.1867<?oxy_comment_end?></ref>) dem vorliegenden
+                    Brief
+                    <?oxy_comment_start author="lindenberg" timestamp="20190315T140458+0100" comment="(Z. 8–9)"?>beizulegen<?oxy_comment_end?>,
+                    vergaß es aber. Siehe <ref target="B00454"><?oxy_comment_start author="lindenberg" timestamp="20190315T140437+0100" comment="Br. 444.4"?>Engels
+                        an Marx, 28.11.1867</ref><?oxy_comment_end?>).</note>
+                <note>Marx beantwortet Engels’ Brief vom 26.11.1867 (siehe <ref target="B00448"><?oxy_comment_start author="lindenberg" timestamp="20190315T140632+0100" comment=" Br. 438"?>Marx
+                        an Engels, 26.11.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage
+                    <?oxy_comment_start author="lindenberg" timestamp="20190315T140839+0100" comment="Z. 44"?>(„50
+                        <expan>seiner</expan> Pamphlets
+                    (wovon ich Dir heut eins schicke)“)<?oxy_comment_end?> zum Brief siehe
+                    Erl.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:00Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 27 Nov. 1867.</dateline>
+                    <salute>Lieber Engels,</salute>
+                </opener>
+                <p>Was die Privatangelegenheiten angeht (ich wollte Dir <add place="superlinear">schon</add>
+                    <seg type="comment"><orig>Samstag darüber schreiben</orig><note xml:id="ad80743c-bccb-416f-83ab-59dff542d52c">Siehe <ref target="B00448"><?oxy_comment_start author="reichhoff" timestamp="20180612T104907+0200" comment="(Br. 438.3)"?>Engels
+                                an Marx, 26.11.1867<?oxy_comment_end?></ref>.</note></seg> wurde
+                    aber an diesem u. <expan>d<ex>en</ex></expan> folgenden Tagen verhindert, weil
+                    man mich v. allen Ecken wegen <expan>d<ex>er</ex></expan>
+                    <seg type="comment"><orig>Fenian Affairs</orig><note xml:id="b4917ef1-5e3f-470c-9cce-6878efa40caf">Siehe <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180612T104956+0200" comment="(Br. 403.67) "?>Marx
+                                an Engels, 2.11.1867<?oxy_comment_end?></ref> „Der Fenian Prozeß
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191203T140638+0100" comment="{403s}"?>Erl<?oxy_comment_end?>.</note></seg>
+                    consultirte u.s.w., kurz meine Zeit confiscirte), so <seg type="comment"><orig>hat Herr <persName key="pdrPo.001.004.000000542">Borkheim</persName> – ich glaube sicher trotz besten Willens – mich
+                            diesen ganzen Monat zwischen Würgen u. Hängen gehalten.</orig><note xml:id="fb30cfa3-6aa3-4bec-8e7c-4e1af05ea57f">Zur Geschichte dieser
+                            Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180612T105059+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191203T140743+0100" comment="360dd"?>Erl<?oxy_comment_end?>.</note></seg>
+                    <seg type="comment"><orig>Aus seinem Letzten von gestern</orig><note xml:id="c7f7410b-eceb-4ce4-b61f-96e49d650171">Siehe <ref target="B00447"><?oxy_comment_start author="reichhoff" timestamp="20180612T105141+0200" comment="(Br. 437)"?>S.
+                                L. Borkheim an Marx, 26.11.1867<?oxy_comment_end?></ref>. Marx
+                            vergaß, Borkheims Brief dem vorliegenden Brief beizulegen. Siehe <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180612T105254+0200" comment="(Br. 444.4"?>Engels
+                                an Marx, 28.11.1867 <?oxy_comment_end?></ref>sowie <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180612T105330+0200" comment="445.3–4)"?>Marx
+                                an Engels<?oxy_comment_end?>, 28.11.1867</ref>.</note></seg> siehst
+                    Du, daß es sich wieder um neuen unabsehbaren Aufschub handelt. Das
+                    Allerschlimmste an <expan>d<ex>er</ex></expan> Sache, daß <seg type="comment"><orig>er mir <hi rendition="#u">positiv</hi> versprochen hatte, am <hi rendition="#u">10</hi><hi rendition="#sup">t</hi>
+                            <expan>d<ex>ie</ex>s</expan><ex>e</ex>s Monats (im schlimmsten Fall) die
+                            ganze Summe auszuzahlen.</orig><note xml:id="bd928053-c91d-4c84-b696-dfdc34447de0"> Siehe <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180612T105458+0200" comment="(Br. 388.10–13)"?>S.
+                                L. Borkheim an Engels,
+                        16.10.1867<?oxy_comment_end?></ref>.</note></seg> Darauf hatte ich mit
+                            <expan>d<ex>en</ex></expan> Gläubigern arrangirt. Was er wirklich zahlte
+                        <seg type="comment"><orig>seit seiner Rückkehr</orig><note xml:id="bfb7f2c6-a1f3-43d7-97fd-08de05f61bf4">Ende Oktober 1867 reiste
+                            Borkheim nach Bordeaux. Siehe <ref target="B00398">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180612T105536+0200" comment="(Br. 388.13–14)"?>Borkheim
+                                an Engels, 16.10.1867<?oxy_comment_end?></ref> und <ref target="B00416">S. L. Borkheim
+                                <?oxy_comment_start author="reichhoff" timestamp="20180612T105618+0200" comment="(Br. 406.5)"?>an
+                                Marx, 5.11.1867<?oxy_comment_end?></ref>.</note></seg>, sind £ 5. Du
+                    begreifst daher den trouble, worin ich mich befinde. Mein Gesundheitszustand hat
+                    sich sehr verschlechtert u. von Arbeiten konnte kaum die Rede sein. Ausserdem
+                    seh ich jeden Tag gerichtlichen Klagen entgegen u. wissen wir nicht mehr, wie v.
+                    Tag zu Tag uns helfen.</p>
+                <p><seg type="comment"><orig>Was <expan>d<ex>en</ex></expan>
+                            <persName key="pdrPo.001.004.000003135"><hi rendition="#u">Meißner</hi></persName> angeht, so ist meine Ansicht, ihn in
+                                    <expan>s<ex>eine</ex>r</expan> Annonce gewähren zu
+                            lassen,</orig><note xml:id="da55ea72-80af-4394-9499-de40e1e927c5">Siehe<ref target="B00448"><?oxy_comment_start author="reichhoff" timestamp="20180612T105729+0200" comment="(Br. 438.4)"?>
+                                Engels an Marx, 26.11.1867<?oxy_comment_end?></ref> und
+                        Erl.</note></seg> denn alles andre bewirkt <add place="superlinear">neuen</add> Aufschub. <persName key="pdrPo.001.004.000004739">Thimm</persName> sagte <persName key="pdrPo.001.004.000000542">Borkheim</persName>, <persName key="pdrPo.001.004.000003135">Meißner</persName> habe alle Buchhändler aufgefordert die bis jezt
+                    unverkauften Exemplare ihm <subst>
+                        <del rendition="#s">zur<ex>ückzuschicken</ex></del>
+                        <add place="intralinear">(resp. seinem <seg type="comment"><orig>Commissionär in Leipzig</orig><note xml:id="nukm_yvz_dgb"><note xml:id="a1bbfd15-1906-4442-b6c2-bf4d1d439c9a">Die
+                                        Person konnte nicht identifiziert
+                                werden.</note></note></seg>) zurückzuschicken.</add>
+                    </subst> Auch weiß ich von <persName key="pdrPo.001.004.000005219">York</persName>, dem Buchhändler <expan>d<ex>es</ex></expan>
+                    <seg type="comment"><orig>Arbeitervereins,</orig><note xml:id="b03b8775-c59b-4e87-9d0d-dfafa9449ab1">Der <orgName key="ed_fgm_42g_zgb">Deutsche Arbeiterbildungsverein in
+                                London</orgName> (siehe <?oxy_comment_start author="lindenberg" timestamp="20191203T144403+0100" comment="35a{Jg. 66}"?>
+                            <ref target="B00038">Erl. zu F. Leßner an Marx,
+                                12.2.1866<?oxy_comment_end?></ref>).</note></seg>
+                    <pb/> daß es <hi rendition="#u">sehr schwer</hi> ist in diesem Augenblick <seg type="comment"><orig>Exemplare</orig><note xml:id="b3577ea9-4b37-4d15-a2c4-2d1b57b778e9"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>.</note></seg> von <persName key="pdrPo.001.004.000003135">Meißner</persName> zu bekommen. Dies beweist
+                    mir weiter nichts als 1) daß der stock in Meißner’s Hand sehr klein ist, 2) daß
+                    er wissen will, wie viel von dem <hi rendition="#u">nicht in seiner Hand</hi>
+                    befindlichen stock wirklich verkauft ist, 3) seine Geschäfts-„freunde“ forciren
+                    will möglichst viel auf eigne Rechnung zu halten. <seg type="comment"><orig>Ich
+                            werde dem Meißner schreiben,</orig><note xml:id="ed698b57-9fe5-4447-b489-1b615152bcfc">Marx’ Brief an Otto
+                            Meißner, geschrieben zwischen 27. und 30. November 1867 (siehe <ref target="B00464">Marx<?oxy_comment_start author="reichhoff" timestamp="20180612T110303+0200" comment="Br. 454.3–4)"?>
+                                an V. Schily, 30.11.1867<?oxy_comment_end?></ref>), ist nicht
+                            überliefert.</note></seg> daß im Fall er für bestimmte Zeitungen od.
+                    Zeitschriften (die er aber <add place="superlinear">mir</add>
+                    <hi rendition="#u">nennen</hi> muß) Anzeigen oder Kritiken brauche, könne er sie
+                    von Freunden wie Dir etc erhalten. <add place="sublinear">Solle mir das
+                        schreiben.</add></p>
+                <p>Der Dr <persName key="pdrPo.001.004.000000981">Kontze</persName>, Privatdocent
+                    der <add place="superlinear">Pol. Oek.</add> in Leipzig, <persName key="pdrPo.001.004.000004074">Roschers</persName>
+                    <add place="superlinear">partisan u.</add> Schüler u. <persName key="pdrPo.001.004.000002822">Liebknechts</persName> Freund hat durch
+                    lezteren bei mir Exemplar <subst>
+                        <del rendition="#s">mit</del>
+                        <add place="superlinear">für</add>
+                    </subst> Versprechen ausführlicher Revue verlangt. Du siehst, daß dieß durch <subst>
+                        <del rendition="#s">L<sic ana="#break-off"/></del>
+                        <add place="intralinear"><persName key="pdrPo.001.004.000003135">Meißner</persName></add>
+                    </subst> bereits besorgt ist. <seg type="comment"><orig>Dieser Anfang mit
+                                <persName key="pdrPo.001.004.000000981">Kontze</persName> ist
+                            gut.</orig><note xml:id="ed105156-134d-43c3-be17-d86e93f24b82">Siehe
+                                <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180612T110404+0200" comment="(Br. 421.18–19)"?>W.
+                                Liebknecht an Marx, 12.11.1867<?oxy_comment_end?></ref>. – Kontze,
+                            d. i.  <persName key="pdrPo.001.004.000000981">Heinrich
+                                Contzen</persName>.</note></seg></p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002822">Liebknecht</persName> hat mir 50 <expan>s<ex>eine</ex>r</expan>
+                            Pamphlets (wovon ich Dir heut eins schicke) zum hiesigen Verkauf gesandt
+                                <add place="superlinear">3 d. <expan>p<ex>ro</ex></expan>
+                                Stück.</add></orig><note xml:id="bdeb40a9-3696-4b63-98bb-c5d46f51d761">Siehe <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180612T110454+0200" comment="(Br. 421.5–6). "?>W.
+                                Liebknecht an Marx, 12.11.1867<?oxy_comment_end?></ref> und Erl. –
+                                <bibl sameAs="zotero-604880-4XKDE42Q" type="primary">W[ilhelm]
+                                Liebknecht: Was ich im Berliner „Reichstag" sagte … Leipzig
+                                [1867]</bibl>.</note></seg>
+                    <persName key="ed_l54_cks_xy">Lessner</persName> sieht, was damit im <orgName key="ed_fgm_42g_zgb">Arbeiterverein</orgName> zu thun.</p>
+                <p><seg type="comment"><orig>Der Auszug, den derselbe <persName key="pdrPo.001.004.000002822">Liebk.</persName> aus
+                                    <expan>s<ex>einer</ex></expan> speech im <orgName key="ed_ksr_jz4_23b">Berl. Arbeiterverein</orgName>
+                            <add place="superlinear">über <expan>d<ex>en</ex></expan> Aufschub
+                                        <expan>d<ex>er</ex></expan> „soc. Frage“</add>
+                            beidruckt,</orig><note xml:id="a73980ae-643e-468a-bad8-eb800167b076">Die
+                            oben genannte Broschüre Wilhelm Liebknechts enthielt als Beidruck einen
+                            Bericht aus der „Zukunft“, Berlin, Nr. 242 vom 16. Oktober 1867
+                            (Beilage) über seine Reden, die er am 14. und 15. Oktober 1867 vor
+                            Berliner Arbeitern gehalten hatte. Danach vertrat Liebknecht den
+                            Standpunkt, daß es unter den gegenwärtigen Umständen unzweckmäßig, ja
+                            schädlich sei, die soziale Frage in den Vordergrund zu stellen. Alle
+                            verfrühten Versuche zur Lösung der sozialen Frage würden nur den
+                            Absolutismus in Deutschland festigen und den Sieg der sozialistischen
+                            Prinzipien hinausschieben. – Der „Berl. Arbeiterverein“, d. i. der
+                                <orgName key="ed_ksr_jz4_23b">Allgemeine Berliner
+                                Arbeiterverein</orgName>. Siehe Erl. zu<ref target="B00348"> Marx an
+                                Engels, 11.9.1867</ref> 339i.</note></seg> giebt allerdings Anlaß
+                        <seg type="comment"><orig>zu <persName key="pdrPo.001.004.000002616">Kugelmanns</persName> Rüge</orig><note xml:id="ab17fbdd-391a-4d2b-ab20-788f78eed7fd">Siehe <ref target="B00441"><?oxy_comment_start author="reichhoff" timestamp="20180612T110653+0200" comment="(Br. 431.35–59)"?>L.
+                                und Fr. Kugelmann an Marx, 23.11.1867<?oxy_comment_end?></ref> „Daß
+                            Liebknecht ...“.</note></seg>. <seg type="comment"><orig>Da Liebknecht
+                            Dich u.a. zur Mitarbeit an <expan>s<ex>einem</ex></expan> zu
+                            erscheinenden <bibl sameAs="ed_umz_dxj_tgb" type="periodika">Blättchen</bibl> auffordert,</orig><note xml:id="af849587-c072-4bfc-8805-af24ceb373dd">Siehe <ref target="B00449"><?oxy_comment_start author="reichhoff" timestamp="20180612T110741+0200" comment="(Br. 439.22–24) "?>W.
+                                Liebknecht an Engels, 26.11.1867<?oxy_comment_end?></ref> „I don't
+                            know whether ...“ und  <ref target="B00404">W.
+                                <?oxy_comment_start author="lindenberg" timestamp="20191203T153053+0100" comment="394l"?>Liebknecht
+                                an Marx, 19.10.1867<?oxy_comment_end?></ref> „Apropos. We want to
+                            found ...“ und Erl. – <bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches Wochenblatt</bibl>.</note></seg> kannst Du ihm <add place="superlinear">privatim</add> einige Winke darüber geben, wie die
+                    politische Opposition mit der soc. Agitation zu verbinden.</p>
+                <p>Einliegend <seg type="comment"><orig>Brief v. <persName key="pdrPo.001.004.000002822">Liebknecht</persName> u. <persName key="pdrPo.001.004.000002616">Kugelman</persName></orig><note xml:id="f84a8d17-7692-4801-8fe9-be95c58cc45c">
+                            <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180612T110819+0200" comment="(Br. 421)"?>W.
+                                Liebknecht an Marx, 12.11.1867 <?oxy_comment_end?></ref> und <ref target="B00441"><?oxy_comment_start author="reichhoff" timestamp="20180612T110941+0200" comment="(Br. 431)"?>L.
+                                und Fr. Kugelmann an Marx,
+                            23.11.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+                <p>Salut</p>
+                <closer>D<lb/>KM </closer>
+            </div>
+            <div type="writingSession">
+                <p/>
+                <closer>Wie steht es <seg type="comment"><orig>mit des Herrn <persName key="pdrPo.001.004.000004311">Schorlemer</persName>
+                            <bibl sameAs="zotero-604880-QYK9AV9R" type="primary">Chemie</bibl></orig><note xml:id="c37d7b0a-baa3-4709-9876-677d851e217f"><bibl sameAs="zotero-604880-QYK9AV9R" type="primary">H[enry]
+                                E[nfield] Roscoe: Kurzes Lehrbuch der Chemie nach den neuesten
+                                Ansichten der Wissenschaft … Braunschweig 1867</bibl>. Siehe auch
+                                <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180612T111028+0200" comment="(Br. 403.35)"?>Marx
+                                an Engels, 2.11.1867<?oxy_comment_end?></ref>
+                            <p>„Es wäre wünschenswerth …“ und Erl.</p></note></seg>, die ich
+                    erhalten sollte?</closer>
+            </div></body></text></TEI>

@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00346" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>337</idno>Friedrich Engels an Karl Marx in London. Manchester, Montag,
+                    9. September 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1639/D III 409</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            126 × 203 mm. Wasserzeichen: „A Piri[e &amp; Sons]”. Die erste Seite hat
+                            Engels zu drei Vierteln beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes: „32“ und „625“. Redaktionelle Vermerke,
+                            u.a. „Undatirt, 10 September 1867“ auf der ersten Seite oben mit
+                            Bleistift.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „907“.</p>
+                        <p/>
+                        <p>Datierung in der Erstveröffentlichung: 9. September 1867.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2075</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913).<?oxy_custom_end?> S.  405.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-09-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00344"/>
+                    <ref type="next" target="B00348"/>
+                </correspContext>
+                <note>Zur Datierung: Engels beantwortet Marx’ Brief vom 7. September 1867 (siehe
+                        <ref target="B00344"><?oxy_comment_start author="lindenberg" timestamp="20190219T150439+0100" comment="Br. 335"?>Marx
+                        an Engels, 7.9.1867</ref><?oxy_comment_end?>). Da er wegen seiner
+                    Beschäftigung bei der Firma „Ermen &amp; Engels“ an Marx „gestern“, am
+                    8. September, nicht schreiben konnte und ihm erst „heut“ antwortet, müßte der
+                    Brief am 9. September 1867 geschrieben worden sein.</note>
+                <note>Marx antwortete Engels am 11. September 1867 (siehe <ref target="B00348"><?oxy_comment_start author="lindenberg" timestamp="20190219T150502+0100" comment="Br. 339"?>Marx
+                        an Engels, 11.9.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage zum Brief („Die Courriers“) siehe Erl. </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:46:43Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute><pb/> Lieber Mohr</salute>
+                </opener>
+                <p>Ich wollte <seg type="comment"><orig>gestern</orig><note xml:id="cad27280-9c38-4fae-bc81-82227ecebb27">8. September 1867.</note></seg> &amp; heut schreiben aber der Commerce
+                    hat mich dran gehindert. <seg type="comment"><orig><bibl sameAs="ed_qkf_ghf_lbb">Die Courriers</bibl> hierbei zurück.</orig><note xml:id="c538b9ae-b9e3-41aa-a0d9-e5a55808efa5"><bibl sameAs="ed_qkf_ghf_lbb">Le Courrier
+                                français.</bibl> Siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180528T145004+0200" comment="(Br. 331.16, 25–45"?>Marx
+                                an Engels,<?oxy_comment_end?> 4.9.1867</ref> und <ref target="B00344"><?oxy_comment_start author="reichhoff" timestamp="20180528T145043+0200" comment="335.6–11"?>7.9.1867<?oxy_comment_end?></ref>
+                            und Erl.).</note></seg>
+                    <seg type="comment"><orig>Der <persName key="pdrPo.001.004.000004910">Vermorel</persName> ist gut mit seinem Einfluß der <expan>Franz<ex>osen</ex></expan>
+                            auf dem Congreß &amp; ihrem caractère sérieux &amp; daß sie <hi rendition="#u">gar keine Reden halten</hi>.</orig><note xml:id="d50e892f-cf3a-4588-a8c3-681d695060c3">Engels meinte folgende
+                            Stelle aus dem ersten Artikel der Artikelserie <persName key="pdrPo.001.004.000004773">Henri Tolains</persName> „Congrès de
+                            Lausanne“, die in <persName key="pdrPo.001.004.000004910">Vermorels</persName> Blatt „<bibl sameAs="ed_qkf_ghf_lbb">Courrier français</bibl>“, Paris, Nr. 80,
+                            5. September 1867, S. 2, Sp. 3/4, veröffentlicht wurde: „… on a remarqué
+                            avec étonnement qu’aucun délégué français ne prenait la parole, on croit
+                            assez volontiers à l’étranger que nous sommes un peuple de discoureurs
+                            et de bavards. S’il est vrai qu’il n’en manque pas chez nous, ce n’est
+                            guère parmi les ouvriers qui, dans leurs réunions , ne prennent
+                            généralement la parole que lorsqu’ils ont quelque chose à dire.“ Siehe
+                            auch H[enri] Tolain: Congrès de Lausanne … In: Le Courrier français.
+                            Paris. Nr. 81, 6. September 1867, S. 2, Sp. 2–4; Nr. 82, 7. September
+                            1867, S. 1, Sp. 6 bis S. 2, Sp. 1; Nr. 83, 8. September 1867, S. 2,
+                            Sp. 1/2; Nr. 84, 9. September 1867, S. 3, Sp. 1/2; Nr. 85, 10. September
+                            1867, S. 2, Sp. 2/3; Nr. 86, 11. September 1867, S. 2, Sp. 3/4; Nr. 87,
+                            12. September 1867, S. 1, Sp. 6 bis S. 2, Sp. 1; Nr. 88, 13. September
+                            1867, S. 1, Sp. 2/3; Nr. 89, 14. September 1867, S. 1, Sp. 4/5, S. 2,
+                            Sp. 1/2.</note></seg> Poor <persName key="pdrPo.001.004.000001296">Eccarius</persName>!</p>
+                <p><seg type="comment"><orig>Wegen Deines Werthform
+                            Anhangs</orig><note xml:id="b7557031-25a1-4357-80ba-f48aeb351ce5">Karl
+                            Marx: Anhang zu Kapitel I, 1. Die Werthform. In: <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>. S. 764–784 (MEGA² II/5.
+                            S. 626–649). Siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180528T145158+0200" comment="(Br. 331.18)"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> „Anhang über die
+                            Werthform ...“.</note></seg> mache ich Dir mein Compliment. In dieser
+                    Form ist es brought home to the most rebellious understanding.
+                        Deßgl<ex>eichen</ex> wegen <seg type="comment"><orig>der Vorrede</orig><note xml:id="f1d05d72-11cb-4047-bcb5-579170b2f7cc">Siehe Karl Marx: Das
+                            Kapital. Bd. 1. Buch 1. Hamburg 1867. Vorwort. S. VII–XII (MEGA² II/5.
+                            S. 11–15). Siehe <ref target="B00309"><?oxy_comment_start author="reichhoff" timestamp="20180912T142002+0200" comment="Erl. 300a"?>O.
+                                Meißner an Marx, 31.7.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T152333+0200" comment="300a."?>Erl.<?oxy_comment_end?> </note></seg>.
+                        <seg type="comment"><orig>Wer aber hat die schmähliche <expan>ungrammat<ex>ische</ex></expan>
+                            Übersetzung in dem
+                            <?oxy_comment_start author="lindenberg" timestamp="20190208T165647+0100" comment="{so im MS: beehive}"?>beehive<?oxy_comment_end?>
+                            gemacht?</orig><note xml:id="cbf1f76a-174c-45e6-a370-890cf2e4f729">[Karl
+                            Marx: Aus dem Vorwort.] [u.d.T.:] A new work on political economy. In:
+                            The Bee-Hive Newspaper. London. Nr. 308, 7. September 1867. S. 7, Sp. 2.
+                            Rubrik: Literature. Die englische Übersetzung des von Otto Meißner für
+                            die deutsche Presse ausgewählten Auszugs aus dem Vorwort von Marx zum
+                            ersten Band des „Kapital“ (siehe <ref target="B00317">O. Meißner an
+                                Marx, 13.8.1867</ref> Erl. 308d), die verkürzt im „Bee-Hive
+                            Newspaper“ veröffentlicht wurde, hatte Johann Georg Eccarius besorgt.
+                            Siehe Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867. Vorwort.
+                            S. VII–XII (MEGA² II/5. S. 11–15); Karl Marx: Capital. Vol. 1. London
+                            1887. S. XV–XX (MEGA<hi rendition="#sup">2</hi> II/9. S. 15–18). Siehe
+                            auch <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180528T150655+0200" comment="(Br. 321.10–11"?>Marx
+                                an Engels, 24.8.<?oxy_comment_end?>1867</ref> „Ich rechne darauf
+                            ...“ und <ref target="B00348"><?oxy_comment_start author="reichhoff" timestamp="20180528T150732+0200" comment="339.7–11)"?>11.9.1867<?oxy_comment_end?></ref>
+                            „Die Uebersetzung ...“.</note></seg> Warum es nicht mir geschickt &amp;
+                    gesagt was Du haben wolltest? Ich fürchte es schadet Dir bei<persName key="pdrPo.001.004.000000329"> Beesly</persName> &amp;c sie werden glauben
+                    Du selbst hättest es gemacht.</p>
+                <p>Apropos, wo strömt denn <seg type="comment"><orig>der
+                                „<hi rendition="#u">trans</hi>atlantische Ocean“</orig><note xml:id="f45be3c8-c5b0-48a6-9560-389cb7aafb90">Siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> Vorwort. S. XII: „des
+                            transatlantischen Oceans“. (Siehe MEGA<hi rendition="#sup">2</hi>
+                            II/5. S. 14.29 und Korrektur 14.29.) In Engels’ Handexemplar des von
+                                <persName key="pdrPo.001.004.000003135">Otto Meißner</persName> Ende
+                            August 1867 herausgegebenen Separatdruckes vom Vorwort (siehe <ref target="B00317">Erl. zu O. Meißner an Marx,
+                            13.8.1867</ref><?oxy_comment_start author="lindenberg" timestamp="20190208T170103+0100" comment="Erl. 308d"?>)<?oxy_comment_end?>
+                            ist diese Stelle unterstrichen und auf dem Seitenrand vermerkt (IISG,
+                            Marx-Engels-Nachlass, Sign. E 91/E 21). Der Fehler wurde in der zweiten
+                            Auflage des ersten Bandes des „Kapital“ korrigiert: „des atlantischen
+                            Oceans“. (MEGA<hi rendition="#sup">2</hi> II/6. S. 68.21.) Siehe auch
+                                <ref target="B00348"><?oxy_comment_start author="reichhoff" timestamp="20180528T150820+0200" comment="(Br. 339.3–4)"?>Marx
+                                an Engels, 11.9.1867<?oxy_comment_end?></ref>.</note></seg>?</p>
+                <p><seg type="comment"><orig>Morgen mehr.</orig><note xml:id="f6a1dc89-d334-46db-9613-b3d31bc494cb">Siehe <ref target="B00347"><?oxy_comment_start author="reichhoff" timestamp="20180528T150904+0200" comment="(Br. 338)"?>Engels
+                                an Marx, 11.9.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

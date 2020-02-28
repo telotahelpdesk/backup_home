@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00216" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>209</idno>Anna von Beust an Friedrich Engels in Manchester. Zürich,
+                    Sonntag, 20. Januar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 525/L II 1–3 Fotosign. KA
+                                1a&lt;–&gt;b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            255 × 202 mm. Die ersten drei Seiten hat von Beust vollständig
+                            beschrieben, die vierte zu einem Drittel. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von unbekannter Hand: der Bleistiftvermerk auf der ersten Seite oben
+                            links: „Frau Anna Beust – Zürich“.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 10 N 66“.
+                            <?oxy_comment_start author="lindenberg" timestamp="20180405T152101+0200" comment="Offensichtlich dazugehörig die Notiz: 1-3"?></p><?oxy_comment_end?>
+                        <p>Die Schreibweise wurde zurückhaltend korrigiert, die Eingriffe sind
+                            ausgewiesen.
+                            <?oxy_comment_start author="lindenberg" timestamp="20180405T164103+0200" comment="vorher: Die Schreibweise wurde nicht berichtigt."?></p><?oxy_comment_end?>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 9 op. 1 d. 15/2</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000411">Beust, Anna von (1827-1900)</persName>
+                    <placeName key="ed_rwk_nbc_pdb">Zürich</placeName>
+                    <date when="1867-01-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:46Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:55+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <p><pb/> Geliebtester Vetter!</p>
+                <p>Du schüttelst Dein melirtes (?) Haupt und denkst: es giebt doch nichts
+                    verrückteres als dieses <seg type="comment"><orig>Frauenziefer</orig><note xml:id="nedz_5w5_ldb">scherzhaft für „Frauenzimmer“ – Vgl. <bibl sameAs="zotero-604880-EKJ5SEPL">Sanders, Daniel: Wörterbuch der
+                                Deutschen Sprache. Bd. 2, 2. Hälfte. Leipzig 1865.</bibl> S.
+                            1741).</note></seg>, da schreibt sie mir schon wieder einen Brief – aber
+                    wie wirst Du Dich wundern, wenn Du erst den Zweck dieses Briefes erkennst! –
+                    Also heraus damit.</p>
+                <p>Ein Ladenschwung, ein jugendlicher Ladenschwung mit einer winzig dünnen, feinen
+                    Diskant Stimme, will von mir ein <expan>Empfe<ex>h</ex>lungsschreiben</expan> an
+                    Dich, oder die Firma, <orgName key="ed_mtd_tkh_1z">Ermen und Engels</orgName>.
+                    Doch jetzt ernshaft. Dieser junge Mann war 2 Jahre im Geschäft von <hi rendition="#u"><persName key="ed_lr2_5n3_kdb">Christian
+                        Fischer</persName></hi> Buchhalter und hat sich seit Neujahr selbst
+                    etablirt. Jetzt will er bei Euch eine Bestellung machen und wünscht dazu meine
+                    bedeutende <expan>Empfe<ex>h</ex>lung</expan>. Meine
+                        <expan>Bekan<ex>n</ex>tschaft</expan> mit ihm datirt aus dem deutschen
+                    Wehrverein. Du weißt, daß mein <seg type="comment"><orig><persName key="pdrPo.001.004.000000414">Mann</persName></orig><note xml:id="d8d976f1-1ee3-40b8-93b5-f5ccb94043ea"><persName key="pdrPo.001.004.000000414">Friedrich von
+                        Beust.</persName></note></seg> einen deutschen Wehrverein gegründet und mit
+                    den jungen Leuten jeden Sonntag Exerzier und Schieß Uebungen machte. Zu diesem
+                    Verein gehörte <pb/> besagter Herr Ladenschwung, <expan>Name<ex>n</ex>s</expan>
+                    <persName key="ed_y1g_nr3_kdb">Franz Kissel</persName> und war ein thätiges und
+                    eifriges Mitglied desselben. Auch war sein Prinzipal früher sehr mit ihm
+                    zufrieden und das ist alles, was ich weiß, jetzt habe ich <seg type="comment"><orig>erfüllet meine Pflicht Rosen und Vergiß mein nicht!</orig><note xml:id="e64384ee-59dc-4622-8431-0eb1c7642ea6"><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Quelle
+                            nicht
+                            ermittelt<?oxy_custom_end?>.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?></note></seg><?oxy_custom_end?>
+                    –<?oxy_comment_start author="lindenberg" timestamp="20180406T144539+0200" comment="FL Bestellung: Theodor Hold: Rosen und Vergißmeinnicht. Reutlingen 1866
+2018-04-06 - Nicht verleihbar!"?></p><?oxy_comment_end?>
+                <p>Ich muß Dir aber doch noch erklären, wie ich dazu gekommen bin, Dir diesen
+                    Jüngling an's Herz zu legen. Er kam einmal zu meinem <seg type="comment"><orig>Mann</orig><note xml:id="no4t_zr3_kdb"><persName key="pdrPo.001.004.000000414">Friedrich von
+                        Beust</persName>.</note></seg> in Sachen „Wehrverein“ als ich sehr eifrig
+                    nähend in meiner Stube saß und ein Kästchen mit Deinem Nähgarn vor mir stand. Er
+                    fragte, woher ich das Garn bezöge und auf meine Antwort, von meinem Vetter, hat
+                    der Kerl sich das hinter die Ohren geschrieben und da es ein ganz guter Kerl
+                    ist, konnte ich ihm seine Bitte nicht abschlagen. –</p>
+                <p>Nun darf ich Dir eigendlich kein Wort weiter schreiben, <seg type="comment"><orig>weil Du mir noch nicht geantwortet hast,</orig><note xml:id="e02e4026-c9d6-494a-9e7f-a41209f2f082">Der Brief von Anna von
+                            Beust an Engels, geschrieben vor dem 20. Januar 1867 (<ref target="mega_qxn_35n_ldb">A. v. Beust an Engels, vor
+                            20.1.1867</ref>), konnte nicht ermittelt werden. </note></seg> aber was
+                    soll man mit so einem prosaischen Baumwollen König machen? So'n Kerl wird ein
+                        <seg type="comment"><orig>Pomadikus</orig><note xml:id="necn_p3d_kdb">von
+                            „<?oxy_comment_start author="lindenberg" timestamp="20180406T094838+0200" comment="SIEHE: Wasserzieher, Ernst: Woher? Etymolgisches Wörterbuch der deutschen Sprache. 2., vermehrte u. verbesserte Aufl. Berlin 1918, S. 107
+
+SIEHE:
+DWDS:  pomadig Adj. umgangssprachlich (nordostd. omd.) für ‘träge, langsam, bequem’ (Anfang 19. Jh.)"?>pomadig<?oxy_comment_end?>“,
+                            umgangssprachlich/studentisch für „träge, langsam, bequem,
+                            gemächlich“.</note></seg>, der jeden Tag regelmäßig in's Geschäft und in
+                    den <pb/> Bierklupp wandelt und weil er nicht <hi rendition="#u">täglich
+                        geschäftsmäßig,</hi> einen Brief an seine liebenswürdigste Verwandte
+                    schreibt, schreibt er lieber gar nicht. Dafür sammelt er aber Geld in seinen
+                    Beutel und wird fett, wie ein Hamsterchen – dazu bringe ich es nie. Weder Geld
+                    noch Fett, will bei mir sich festsetzen, dagegen besitze ich viel von dem
+                    Kapital, was die Menschen, d.h. die Phillister „Thorheit“ nennen und nur die
+                    gestrengen Blicke meines <persName key="pdrPo.001.004.000000414">Gatten</persName> und
+                    <?oxy_comment_start author="lindenberg" timestamp="20180411T171256+0200" comment="Vaters - urspr. erl. mit Adolph Likpa.
+
+Adolph Lipka gemeint, geb. 1792
+
+gest. nach Knieriem: 1829 !!! auch so im Moskauer Register
+http://marxforschung.de/2016/wp-content/uploads/2017/03/MEJb-12-M.-Knieriem-S.-283-328.pdf
+s. pdf  in Megalit
+Knieriem, Michael: &quot;Daß der Freidrich von seinem Vater spricht, gefällt mir sehr&quot; Äußerungen über Friedrich Engels aus 40 bisher unbekannten Familienbriefen der Jahre 1820 bis 1858
+
+2018-04-11 - Nachgefragt in Moskau"?>Vaters<?oxy_comment_end?>
+                    halten mich von größeren Thorheiten zurück, kleine, werden täglich viele
+                    begangen.</p>
+                <p>Was ist der Mensch! sagt <seg type="comment"><orig><persName key="ed_l5l_fws_ldb">Hirsch Hiazinth</persName></orig><note xml:id="da6a7b2a-fee1-45f5-aa32-7542ed719c96">Gestalt des Kammerdieners
+                                <persName key="ed_zs2_2ys_ldb">Hirsch</persName>, <persName key="ed_l5l_fws_ldb">Hyacinth</persName> genannt, aus <bibl sameAs="zotero-604880-W3QSNGZR">Heinrich Heines „Die Bäder von
+                                Lukka“ (Reisebilder. Teil 3). </bibl></note></seg> und ich sage
+                    auch, was ist der Mensch, wenn er einen leeren Magen hat? Diese intressante
+                    Betrachtung drängt sich mir auf, wenn ich <seg type="comment"><orig>meine
+                            8 Jungens </orig><note xml:id="ebcca377-bf86-4188-806a-4c5dc2fa6027">Anna von Beust hatte zwei Kinder, die Söhne <persName key="pdrPo.001.004.000000410">Adolf</persName> und <persName key="pdrPo.001.004.000000412">Friedrich Anton von Beust.</persName>
+                        </note></seg>betrachte, die alle um mich herum stehen und mit hungrigen
+                    Blicken auf den Schluß meines Briefes warten, weil dann gegessen wird. Da sich
+                    nun in dieser großen Gesellschaft auch schlecht schreibt, so will ich mich
+                    wirklich von Dir trennen und die verschiedenen leeren Magen befriedigen.
+                    <?oxy_comment_start author="lindenberg" timestamp="20180406T144018+0200" comment="zu den Kindern vgl. Familie_von_Beust_Stadt-Archiv-Zürch.pdf - MEGALIT
+
+online: https://amsquery.stadt-zuerich.ch/query/Dateien/29/D149636.pdf"?></p><?oxy_comment_end?>
+                <p><pb/> Von Barmen habe ich lange nichts gehört, nur schrieb <seg type="comment"><orig><persName key="pdrPo.001.004.000001913">Giesbert</persName></orig><note xml:id="ae53bfca-0ed7-47d0-8b68-1ab30096ea61">vermutlich <persName key="pdrPo.001.004.000001913">Gisbert von Griesheim</persName>, ein
+                            Vetter von Anna von Beust. Siehe Elisabeth Engels an Engels, 7. August
+                            1865 (<bibl sameAs="zotero-604880-3MXEQF9M">MEGA<hi rendition="#sup">2</hi> III/13.</bibl> Br. 286.13–17). </note></seg> einmal und
+                    klagt in geschäftlicher Beziehung sehr. Es ist auch wahrlich kein Spaß, die
+                    große Familie, eine theure <seg type="comment"><orig><persName key="ed_rqk_ch5_ldb">Gattin</persName></orig><note xml:id="d0d9fea8-32d6-4afe-be40-de362f931076"><persName key="ed_rqk_ch5_ldb">Ida von Griesheim. </persName></note></seg> und
+                    kein Verdienst.</p>
+                <p>Jetzt leb wohl Theuerster, mit herzlichen Grüßen von <seg type="comment"><orig>Mann</orig><note xml:id="d5fae349-bfad-4aba-9887-c0c02da5ed0f"><persName key="pdrPo.001.004.000000414">Friedrich von
+                                Beust.</persName></note></seg> und <seg type="comment"><orig>Kindern</orig><note xml:id="da168c30-4a3d-47c1-bbee-499144902ae7"><persName key="pdrPo.001.004.000000410">Adolf</persName> und
+                                <persName key="pdrPo.001.004.000000412">Friedrich Anton von
+                                Beust.</persName></note></seg></p>
+                <closer>Deine Anna.</closer>
+                <p>Zürich den 20<hi rendition="#sup">ten</hi> Januar<lb/>1867. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

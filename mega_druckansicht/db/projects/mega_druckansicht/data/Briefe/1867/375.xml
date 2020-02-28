@@ -1,0 +1,44 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00385" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>375</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Donnerstag, 10. Oktober 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 458/D I 127 Fotosign. 9681.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 129 × 204 mm.
+                            Wasserzeichen: „[A Cowan &amp;] Sons“. Aufdruck der Firma <orgName key="pdrPo.001.015.000090279">„Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi>“</orgName> (siehe Borkheim an Marx,
+                            8. Januar 1866) auf der ersten Seite oben links. Die erste Seite hat
+                            Borkheim vollständig beschrieben, die zweite ist leer. Schreibmaterial:
+                            schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1748</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-10"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Die Beilagen zum Brief („Brief eines der Hauptmucker des Friedenskongresses
+                    bei mit Kopie meiner
+                    Antwort“<?oxy_comment_start author="lindenberg" timestamp="20190220T150424+0100" comment="Z. 6 und 8–10"?>)<?oxy_comment_end?>
+                    sind nicht überliefert. Siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:09Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 10/10 <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Mein lieber Mandarin non-ventru,</salute>
+                </opener>
+                <p>Als Quelle obigen Ausdrucks verweise ich Sie an Herrn <persName key="pdrPo.001.004.000002648">Lafargue</persName>, dem Sie bestens für <seg type="comment"><orig>seine saure Arbeit</orig><note xml:id="ncks_5bc_1gb">Paul Lafargue bearbeitete den Text der französischen Ausgabe von
+                            Borkheims Rede auf dem Friedenskongreß in Genf im September 1867 (siehe
+                                <ref target="B00313">Erl. zu S. L. Borkheim an Marx,
+                            5.8.18687</ref>). Siehe <bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig Borkheim:] Ma Perle Devant le
+                                Congrès de Genève. Par un Diplomate Prolétaire. Bruxelles
+                                1867.</bibl> Siehe auch <ref target="B00369">Marx an Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180601T092349+0200" comment="(Br. 360.105–126"?>4.<?oxy_comment_end?></ref>,
+                                <ref target="B00384"><?oxy_comment_start author="reichhoff" timestamp="20180601T092428+0200" comment="374.4–8"?>9.
+                                <?oxy_comment_end?></ref>und <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180601T092512+0200" comment="395.16–19)"?>19.<?oxy_comment_end?>10.1867</ref>.</note></seg>
+                    danken wollen.</p>
+                <p>Nun soll er mir nur noch beigehende Fußnoten französisch
+                    erudiren und recht bald zurückschicken.</p>
+                <p>Ich lege Ihnen Brief eines der <persName key="ed_v2z_31r_4gb">Hauptmucker</persName>
+                    <seg type="comment"><orig>des Friedenskongresses bei mit Kopie meiner
+                            Antwort</orig><note xml:id="f90012e5-c821-4ad0-a8ac-dee81a54bb93">Offensichtlich erwähnt Borkheim einen Brief von Émile Acollas an ihn.
+                            Siehe <ref target="B00368"><?oxy_comment_start author="reichhoff" timestamp="20180601T092808+0200" comment="(Br. 359.6–14"?>Borkheim
+                                am Marx, 3.10.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190730T141540+0200" comment="359.5–6"?>Erl.<?oxy_comment_end?>).
+                            Die Kopie der Antwort Borkheims ist auch nicht
+                    überliefert.</note></seg>, welche Dokumente Sie mir recht bald zurücksenden
+                    wollen.</p>
+                <p>Den Herrn <persName key="ed_v2z_31r_4gb">Acollas</persName> habe ich nie gekannt; <hi rendition="#u">er</hi> ist’s
+                    der den Briefwechsel eröffnet. Lassen Sie auch Herrn Lafargue diese französische
+                    Korrespondenz sehen; es muß ihn interessiren.</p>
+                <closer>Ihr<lb/>Borkheim<lb/>„Vorübergehender“ Politicus.
+                    <pb/></closer>
+            </div></body></text></TEI>

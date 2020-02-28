@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00228" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>219</idno>Isaac Hall an Friedrich Engels in Manchester. Manchester,
+                    Donnerstag, 21. Februar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 2143/L IV 140
+                            Fotosign. 8999.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            126 × 203 mm. Wasserzeichen: „[A Pirie] &amp; Sons
+                            [186]6“. Aufdruck auf der ersten Seite oben in der Mitte: „6, Essex
+                            Street. Manchester.“ Die erste Seite hat Hall vollständig beschrieben,
+                            die zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 L 20.“.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1689</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002011">Hall, Isaac</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-02-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:56Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/>
+                        <hi rendition="#mPrint">6, Essex Street. Manchester</hi>. <lb/>21 Feb.
+                        1867.</dateline><salute>Dear Engels,</salute></opener>
+                <p>Half a dozen bachelors have been asked to dine with me
+                    on <seg type="comment"><orig>Thursday next</orig><note xml:id="dffa8aa2-9b5d-4c8d-a90e-4963a3f72a5c">28. Februar
+                            1867.</note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20180612T123335+0200" comment="vorher: 26. Februar 1867"?>at<?oxy_comment_end?> 5.
+                    In mufti not in dinner togs. Will you come also?</p>
+                <closer>Yours very truly<lb/>Isaac Hall.</closer>
+                <p>F Engels Esq<hi rendition="#sup">r</hi>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00256" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>245</idno>Friedrich Engels an Karl Marx in Hannover. Manchester, Samstag, 27. April 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1628/D III 398</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 232 × 181 mm. Wasserzeichen: „A Pirie &amp; Sons“. Prägung: „London Superfine“ und ein Wappenschild. Alle vier Seiten hat Engels vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „441,1“ bis „441,4“ bzw. „10,1“
+                            bis „10,4“ (gestrichen). Redaktionelle Vermerke; eine Streichung.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+                            Briefes: „888“.</p><p>Von unbekannter Hand: Vermerke mit Bleistift auf der ersten Seite: „Schuster“ oben links; die
+                            Jahresangabe „<hi rendition="#u">1867</hi>“ oben in der Mitte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2029</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt: Bw 3 (1913).
+                            S. 372–375.</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig: MEGA<hi rendition="#sup">1</hi> III/3
+                            (1930). S. 385–388.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-04-27"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00247"/>
+                    <ref type="prev" target="B00253"/>
+                    <ref type="next" target="B00265"/>
+                </correspContext>
+                <note>Engels beantwortet Marx' Briefe
+                    (<?oxy_comment_start author="lindenberg" timestamp="20181005T124816+0200" comment="Z. 3"?>„deine
+                    beiden Briefe“<?oxy_comment_end?>) vom 13. und 24. April 1867 (<ref target="B00247">Engels an Marx, 13.4.1867</ref>; <ref target="B00253">Engels
+                        an Marx, 24.4.1867</ref>). Die Antwort von Marx erfolgte am 7. Mai 1867
+                        (<ref target="B00265">Marx an Engels, 7.5.1867</ref>).</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+                    <term key="ed_rd3_f3s_zdb">Hannover (Königreich/Preußische Provinz)</term>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                    <term key="ed_rw2_4vl_qx">Preußen</term>
+                    <term key="ed_ujr_3c2_5z">Frankreich</term>
+                    <term key="ed_otj_cwr_by">Internationale Beziehungen in Europa</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:20Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Manchester 27 April 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p>Ich habe deine beiden Briefe, den letzten gestern
+                    Nachmittag bekommen, &amp; hätte Dir auf den ersten längst geantwortet, wenn ich
+                    gewußt hätte wohin. Zuerst business. <seg type="comment"><orig>Deiner <persName key="pdrPo.001.004.000003075">Frau</persName>, die mir heute Morgen
+                            schreibt, schick' ich £ 10.– &amp; ebenso gleich Anfang nächsten Monats
+                            an <persName key="pdrPo.001.004.000005100">Wheeler</persName> die andern
+                            £ 10.–.</orig><note xml:id="bab774ab-ab1b-4118-af48-e8e34db3afa1">Siehe
+                                <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180502T145838+0200" comment="(Br. 242.82–87)"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref> („Ich habe eine
+                            Ehrenschuld an Mr. Wheeler ...“). Der Brief von Jenny Marx an Engels vom
+                            <?oxy_comment_start author="lindenberg" timestamp="20181005T171302+0200" comment="vorher: geschrieben nicht später als am 26. April 1867
+in der Liste der nicht überliefeten Briefe aber korrekt mit 27. April datiert"?>27. April
+                            1867<?oxy_comment_end?> (<ref target="mega_fy3_2yh_jfb">J. Marx an
+                                Engels, 27.4.1867</ref>), ist nicht überliefert.</note></seg> Dies
+                    wird Dich in Beziehung auf diesen Punkt<del> xxx <sic ana="#break-off"/></del>
+                    einiger Maßen beruhigen, für die Zukunft eröffnet sich nach dem was Du schreibst
+                    glücklicher Weise endlich auch eine <choice>
+                        <sic>erfreulichen</sic>
+                        <corr cert="high">erfreuliche</corr>
+                    </choice> Aussicht. Es ist mir immer so gewesen als wenn dies verdammte <seg type="comment"><orig>Buch</orig><note xml:id="fe03e21e-001b-4c7a-97e0-960652196122">
+                            <p><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital.</bibl></p>
+                            <p> Siehe <ref target="B00007"><?oxy_comment_start author="reichhoff" timestamp="20180828T103600+0200" comment="Erl. 6b."?>Erl.
+                                    zu Marx an J. Ph. Becker, zw. 9. u.
+                                    15.1.1866<?oxy_comment_end?></ref>.</p>
+                        </note></seg> an dem Du solange getragen hast, der Grundkern von allem
+                    Deinem Pech war &amp; Du nie herauskommen würdest &amp; könntest solange dies
+                    nicht abgeschüttelt. Dies ewig unfertige Ding drückte Dich körperlich, geistig
+                    &amp; finanziell zu Boden &amp; ich kann sehr gut begreifen daß Du jetzt nach
+                    Abschüttelung dieses Alps Dir wie ein ganz andrer Kerl vorkommst, besonders
+                        da<del> sich <sic ana="#break-off"/></del> die Welt, sobald Du nur erst
+                    wieder einmal hinein kommst auch nicht so trübselig aussieht wie vorher.
+                    Besonders wenn man einen so famosen Verleger hat wie <persName key="pdrPo.001.004.000003135"><expan>M<ex>eißner</ex></expan></persName> zu sein scheint. Übrigens
+                    fürchte ich der Schnelldruck wird sich nicht anders machen lassen als wenn Du
+                    selbst die ganze Zeit in der Nähe bleibst d.h. auf dem Continent, denn auch
+                    Holland wäre für den Zweck noch nahe genug. Ich glaube nicht daß die
+                    Gelehrsamkeit der Leipziger Correctoren für Deine Art hinreicht. <seg type="comment"><orig>Meine Broschüre</orig><note xml:id="be8f35da-d49b-4ef7-95df-a2df617aacb9"><bibl sameAs="zotero-604880-QLSEZJ2C">Friedrich Engels: Die
+                                preußische Militärfrage und die deutsche Arbeiterpartei. Hamburg
+                                1865</bibl> (<bibl sameAs="zotero-604880-G77L6FY8">MEGA² I/20. S. 71–108</bibl>).</note></seg> ließ <persName key="pdrPo.001.004.000003135">M.</persName> auch bei <persName key="pdrPo.001.004.000005126">Wigand</persName> drucken &amp; was haben die Schisser mir
+                    für Zeug da hinein korrigirt. Daß das Buch gleich bei seinem Erscheinen großen
+                    Effect machen wird, davon bin ich überzeugt, <seg type="comment"><orig>aber es
+                            wird sehr nöthig sein dem Enthusiasmus des wissenschaftlichen Bürgers
+                            &amp; Beamten etwas auf die Beine zu <pb/> helfen</orig><note xml:id="fd700e63-2d46-4434-a9df-324f09ce3394">Zu den Besprechungen des
+                                <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl> siehe <ref target="B00254">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180828T100546+0200" comment="Erl. 243l."?>W.
+                                Liebknecht an Marx, 25.4.1867<?oxy_comment_end?></ref>.</note></seg>
+                    &amp; die kleinen Manöver nicht zu verschmähen. Dafür wird <hi rendition="#u">nach dem Erscheinen</hi> von Hannover <add>aus</add> Manches geschehen
+                    können &amp; auch <seg type="comment"><orig>amicus <persName key="pdrPo.001.004.000004424">Siebel</persName> der dieser Tage von
+                            Madeira, wie er sagt wohl &amp; munter, zurückkehrt, &amp; zwar über
+                            England,</orig><note xml:id="ab1eba0e-6c35-4b04-9960-1b2889615af5">
+                            <p>Freund </p>
+                            <p>Siehe <ref target="B00238"><?oxy_comment_start author="reichhoff" timestamp="20180502T150045+0200" comment="(Br. 229)."?>C.
+                                    Siebel an Engels, 20.3.1867<?oxy_comment_end?></ref>.</p>
+                        </note></seg>
+                    <seg type="comment"><orig>wird sich mit Vortheil in Bewegung setzen
+                            lassen.</orig><note xml:id="d9cf8a62-01a2-4595-97c5-3fe51d04a3df">Siehe
+                                <ref target="B00261"><?oxy_comment_start author="reichhoff" timestamp="20180502T150143+0200" comment="(Br. 252.4–8)."?>Siebel
+                                an Marx, 1.5.1867<?oxy_comment_end?></ref>.</note></seg> Dies ist
+                    gegenüber dem Literaten Pack nothwendig, von dessen gründlichem Haß gegen uns
+                    wir ja Beweise genug haben. <seg type="comment"><orig>Und dann wirken dicke,
+                            wissenschaftliche Bücher ohne solche Nachhülfe ja doch nur langsam, mit
+                            derselben aber – confer <bibl sameAs="zotero-604880-IQHX3H9P">Heracleitos den Dunkeln</bibl> &amp;sw.– sehr
+                            „zündend“.</orig><note xml:id="f60c80f3-e9d4-4d97-be98-c057feefb197"><bibl sameAs="zotero-604880-IQHX3H9P">Ferdinand
+                                Lassalle: Die Philosophie Herakleitos des Dunklen von Ephesos.
+                                Bd. 1.2. Berlin 1858.</bibl> Engels erinnert sich an die Reklame,
+                            die <persName key="pdrPo.001.004.000002711">Lassalle</persName> für
+                            seine Schrift gemacht hatte. Zur Marx’ Einschätzung dieser Arbeit siehe
+                            seine Briefe an Engels vom 1. Februar, sowie an Lassalle und an Engels
+                            vom 31. Mai 1858 (<bibl sameAs="zotero-604880-G3EMDWFF">MEGA² III/9.</bibl> Br. 32, 87.32–54 und 88.45–49). Als ein Werk,
+                            das „zünden wird!“, nannte Lassalle sein Drama „Franz von Sickingen“,
+                            Berlin 1859, im Brief an Marx vom 26. April 1857 (<bibl sameAs="zotero-604880-D9BSQ95Y">MEGA² III/8.</bibl>
+                            S. 390.20–25).</note></seg> Dies muß aber diesmal um so sichrer &amp;
+                    fleißiger geschehn als es sich auch um <hi rendition="#u">finanzielle</hi>
+                    Resultate handelt. <seg type="comment"><orig>Die Gesammelten Aufsätze wird
+                                <persName key="pdrPo.001.004.000003135">M.</persName> dann schon
+                            gern nehmen</orig><note xml:id="ca17db9f-3a8e-4476-8055-6f4e2faa56a9">Der erste Versuch, Marx’ Werke herauszugeben, erfolgte 1851: <bibl sameAs="zotero-604880-JWNAMJZX">Karl Marx: Gesammelte
+                                Aufsätze. Hrsg. von Hermann Becker. 1. Heft. Köln 1851.</bibl> Die
+                            Absicht von Hermann Becker, zwei Bände, je 25 Druckbogen, als
+                            Einzelhefte herauszubringen, scheiterte. Es erschien nur das erste Heft,
+                            5 Druckbogen, in einer Auflage von 15 000 Exemplaren </note></seg> &amp;
+                    damit ist wieder Geld &amp; ferner auch ein neuer literarischer Erfolg
+                    geschaffen. <seg type="comment"><orig>Die Sachen aus der <bibl sameAs="ed_llf_w4w_1cb">N. Rh.
+                            Z.</bibl>,</orig><note xml:id="caca6644-a3a2-4451-9d43-2cf008aa939c"><?oxy_comment_start author="lindenberg" timestamp="20181009T150527+0200" comment="vorher: Marx veröffentlichte in der „Neuen Rheinischen Zeitung“ 1848/1849 zahlreiche Artikel, darunter z.B., „Lohnarbeit und Kapital“ (Neue Rheinische Zeitung. Köln. Nr. 264–267, 269; 5–8., 11. April 1849). Siehe auch MEGA² III/3. S. 819. Zum ersten Mal erschien die Sammlung dieser Artikel in: Aus dem literarischen Nachlass von Karl Marx, Friedrich Engels und Ferdinand Lassalle. Bd. 3. Stuttgart 1902"?>Marx
+                            veröffentlichte in der <bibl sameAs="ed_llf_w4w_1cb">„Neuen Rheinischen Zeitung“</bibl> 1848/1849 zahlreiche Artikel
+                            (Neue Rheinische Zeitung. Köln. Nr. 264–267, 269; 5–8., 11. April 1849).
+                            Siehe auch <bibl sameAs="zotero-604880-K2JNEGCK">MEGA²
+                                III/3.</bibl> S. 819. Eine erste Sammlung dieser Artikel erschien
+                            in: <bibl sameAs="zotero-604880-XV3UUMBF">Aus dem
+                                literarischen Nachlass von Karl Marx, Friedrich Engels und Ferdinand
+                                Lassalle. Bd. 3. Stuttgart
+                        1902<?oxy_comment_end?>.</bibl></note></seg>
+                    <seg type="comment"><orig>der 18. Brümaire</orig><note xml:id="cad57661-753d-410c-ada7-6882b95d1add"><bibl sameAs="zotero-604880-JLV5RJGN">Karl Marx: Der 18te
+                                Brumaire des Louis Napoleon.</bibl> In: Die Revolution. New-York
+                            1852. H. 1 (<bibl sameAs="zotero-604880-J4JGP7E5">MEGA²
+                                I/11. S. 96–189</bibl>). Siehe <ref target="B00156"><?oxy_comment_start author="reichhoff" timestamp="20180828T110726+0200" comment="Erl. 152h."?>Erl.
+                                zu P. Stumpf an Marx, 18.8.1866<?oxy_comment_end?></ref>
+                            Erl. 152h.</note></seg> &amp;sw, werden dem Philister jetzt enorm
+                    imponiren, &amp; haben wir auf dieser Basis erst wieder etwas Terrain gewonnen
+                    so finden sich auch bald noch allerhand andre einträgliche Geschichten. Diese
+                    ganze Wendung der Sache ist mir ungeheuer erfreulich, erstens an sich selbst,
+                    zweitens wegen Deiner speciell &amp; Deiner <persName key="pdrPo.001.004.000003075">Frau</persName>, &amp; drittens weil es
+                    wirklich Zeit ist daß sich dies Alles bessert. <seg type="comment"><orig>In
+                        2 Jahren läuft mein Contract mit dem Sau-<persName key="pdrPo.001.004.000001409">Gottfried</persName> ab,</orig><note xml:id="e261ecc7-0a4b-4a67-abfb-c9ccaf9f0006">Nach dem Tode von
+                                <persName key="pdrPo.001.004.000001372">Friedrich Engels
+                                senior</persName> am 20. März 1860 entstand ein Konflikt zwischen
+                            seinen Erben (siehe <bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich Engels. Dokumente seines Lebens.</bibl>
+                            S. 333–335; <bibl sameAs="zotero-604880-CH872CUU">Knieriem: „Gewinn unter Gottes Segen“.</bibl> S. 61). Die
+                            Erbschaftsregelung wurde im Februar 1861 abgeschlossen. Engels hatte die
+                            Forderungen der Familie erfüllt und auf seine Rechte auf die Unternehmen
+                            in Barmen und Engelskirchen verzichtet (siehe Engels an Elisabeth
+                            Engels, 13. und 27. Februar 1861 in: <bibl sameAs="zotero-604880-G5HZXQML">MEGA² III/11</bibl>,
+                            Br. 227 und 242). Laut einem <bibl sameAs="zotero-604880-6RYBYTSZ">Entwurf des Vertrags zwischen Gottfried Ermen und
+                                Friedrich Engels</bibl> sollte er vom 30. Juni 1860 bis zum 30. Juni
+                            1864 als Angestellter („corresponding clerk und general assistant“) in
+                            der Firma <orgName key="ed_mtd_tkh_1z">Ermen &amp; Engels in
+                                Manchester</orgName> tätig sein, unter der Voraussetzung, ab
+                            30. Juni 1864 Teilhaber der Firma zu werden (IISG, Marx-Engels-Nachlass,
+                            Sign. M 11). Der Vertrag wurde erst am 25. September 1862 unterzeichnet
+                            (siehe <bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich
+                                Engels. Dokumente seines Lebens.</bibl> S. 337–340) bzw. anwaltlich
+                            bestätigt (<bibl sameAs="zotero-604880-CH872CUU">Knieriem: „Gewinn unter Gottes Segen“.</bibl> S. 64). Zur Festigung
+                            seiner rechtlichen und finanziellen Positionen in der Firma Ermen &amp;
+                            Engels in Manchester wurde Engels mit einer Summe von £ 10 000
+                            entschädigt, die die Familie als Kapital im Unternehmen in Manchester
+                            ließ (Engels an Marx, 10. Mai 1860, in: <bibl sameAs="zotero-604880-LGQY2UCG">MEGA² III/10.</bibl>
+                            Br. 286.5–13; Engels an Hermann Engels, 24. Mai 1864, <bibl sameAs="zotero-604880-WDQAUCHH">ebenda.
+                                III/12.</bibl> Br. 350). Das gestattete ihm, 1864 Mitinhaber der
+                                <orgName key="ed_mtd_tkh_1z">Firma Ermen &amp; Engels in
+                                Manchester</orgName> und neben <persName key="pdrPo.001.004.000001409">Gottfried</persName> und <persName key="pdrPo.001.004.000001406">Anton Ermen</persName> einer der drei
+                            Prinzipale der Firma zu werden. Engels führte die Verhandlungen darüber
+                            im Sommer 1864 mit <persName key="pdrPo.001.004.000001409">Gottfried
+                                Ermen</persName> und am 30. Juni 1864 wurde ein neuer Vertrag
+                            zwischen beiden abgeschlossen (<bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich Engels. Dokumente seines Lebens.</bibl>
+                            S. 343–345). Am 2. September 1864 teilte Engels Marx mit: „Die
+                            Partnerships Geschichte ist endlich geordnet, die Contracte
+                            unterschrieben, &amp; so hab’ ich hoffentlich auf 5 Jahre Ruhe von
+                            dieser Seite her.“ (<bibl sameAs="zotero-604880-WDQAUCHH">MEGA² III/12.</bibl> Br. 404.13-15.) Siehe auch <bibl sameAs="zotero-604880-G5HZXQML">MEGA² III/11</bibl>.
+                            S. 757/758. – Originale der Verträge vom 25. September 1862 und 30. Juni
+                            1864 befinden sich im Lancashire Record Office in Preston (siehe <bibl sameAs="zotero-604880-RT59R8DP">Henderson: The firm
+                                of Ermen &amp; Engels in Manchester.</bibl> S. 7).</note></seg>
+                    &amp; wie sich die Sachen hier drehen, werden wir Beide schwerlich wünschen ihn
+                    zu verlängern; es wäre sogar nicht unmöglich daß schon früher eine Trennung
+                    einträte. <seg type="comment"><orig>Ist das der Fall, so muß ich aus dem
+                            Commerce <hi rendition="#u">ganz</hi>
+                            <hi rendition="#u">heraus;</hi></orig><note xml:id="ecb2f6c5-0ab0-43fb-b6a6-4ab71d86967d">Ende 1868 begann <persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName>
+                            Verhandlungen mit Engels, die eine Weiterführung des Unternehmens über
+                            die 1864 vereinbarten fünf Jahre hinaus bezweckten. Am 2. Dezember 1868
+                            kam es zu einer Vereinbarung, nach der Engels „Verwaltung und Leitung
+                            des Büros“ in Manchester bis zum 30. Juni 1869 wahrzunehmen hatte. Über
+                            diesen Zeitpunkt hinaus sollte er ein weiteres Jahr (bis 30. Juni 1870)
+                            in Manchester wohnen bleiben und seinem Nachfolger <persName key="ed_lbg_ttj_3y">Charles Roesgen</persName> für Nachfragen zur
+                            Verfügung stehen. Siehe <bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich Engels. Dokumente seines Lebens.</bibl>
+                            S. 348/349 sowie Engels’ Briefe vom <bibl sameAs="zotero-604880-654V67A4">1. Juli 1869 an
+                                Marx</bibl> (IISG, Marx-Engels-Nachlass, Sign. D 1756), <bibl sameAs="zotero-604880-7KH9U4S7">an Elisabeth
+                                Engels</bibl> (RGASPI, Sign. f. 1, op. 1, d. 2470, Kopie) und <bibl sameAs="zotero-604880-AGLEYPEU">an Louis Kugelmann,
+                                10. Juli 1869</bibl> (ebenda, Sign. f. 1, op. 1, d. 2473). Am
+                            10. August 1869 schlossen <persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName> und Engels einen Auflösungsvertrag ab,
+                            der die Abwicklung zwischen den beiden Kontrahenten regelte. Dieser
+                            Vertrag war auf fünf Jahre befristet: vom 1. Juli 1870 bis 30. Juni
+                            1875. Er verlängerte sich automatisch, wenn er nicht mindestens ein Jahr
+                            vor dem Endtermin schriftlich gekündigt wurde. Siehe <bibl sameAs="zotero-604880-ZIIK6QPM">Friedrich Engels.
+                                Dokumente seines Lebens. S. 349–352</bibl>, <bibl sameAs="zotero-604880-CH872CUU">Knieriem: „Gewinn
+                                unter Gottes Segen“.</bibl> S. 108, 116 sowie <bibl sameAs="zotero-604880-MJHLEZVF">Engels an Gottfried
+                                Ermen, 1. Juni 1874</bibl> (RGASPI, Sign. f. 1, op. 1, d. 3543,
+                            Kopie).</note></seg> denn jetzt noch ein eignes Geschäft anzufangen,
+                    hieße 5–6 Jahre fürchterlich schanzen ohne nennenswerthes Resultat, &amp; dann
+                    noch 5–6 Jahre schanzen, um die Früchte der ersten 5 Jahre einzuärnten. Dabei
+                    ging ich aber caput. Ich sehne mich nach Nichts mehr als nach Erlösung von
+                    diesem hündischen Commerce der mich mit seiner Zeitverschwendung vollständig
+                    demoralisirt. Solange ich da drin bin, bin ich zu Nichts fähig, besonders
+                    seitdem ich Principal bin ist das viel schlimmer geworden wegen der größeren
+                    Verantwortlichkeit. Wenn es nicht wegen der vermehrten Einkünfte wäre, möchte
+                    ich wahrhaftig lieber wieder Commis sein. Jedenfalls kommt <pb/> mein
+                    Kaufmannsleben in wenigen Jahren zu End &amp; dann werden auch die Einnehmen
+                    sehr, sehr viel spärlicher fließen, &amp; das hat mir denn immer im Kopf gelegen
+                    wie wir es dann mit Dir machen.<del> Auf <sic ana="#break-off"/></del> Wenn das
+                    aber so geht wie es sich jetzt anläßt, so wird sich auch das schon arrangiren
+                    lassen, selbst wenn nicht die Revolution dazwischen kommt &amp; allen
+                    Finanzprojecten ein Ende macht. Geschieht das aber nicht, so behalte ich mir
+                    vor, mir zu meiner Erlösung <seg type="comment"><orig>einen Hauptspaß zu machen
+                            &amp; ein heitres Buch zu schreiben: <hi rendition="#u">Leiden &amp;
+                                Freuden der englischen Bourgeoisie</hi>.</orig><note xml:id="fab39596-ee95-43c9-a868-b26055139c67"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Vermutlich
+                            spielt Engels auf den Titel des Romans von <bibl sameAs="zotero-604880-FN4H2XWZ">[Jeremias Gotthelf
+                                (eigtl. Albert Bitzius)]: Leiden und Freuden eines Schulmeisters.
+                                Theil 1.2. Bern 1838/1839</bibl> an. 1848 erschien das Werk in
+                            Berlin<?oxy_custom_end?>.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20181005T180830+0200" comment="vorher: Jeremias Gotthelf (eigtl. Albert Bitzius): Leiden und Freuden eines Schulmeisters. Bd. 1.2. Bern 1838/1839. Die deutsche Ausgabe erschien 1858 in Berlin."?></p><?oxy_comment_end?>
+                <p><seg type="comment"><orig>Auf <persName key="pdrPo.001.004.000003135">Meißner's</persName> Vorschlag kann
+                            ich nicht eingehn.</orig><note xml:id="b4f8aff3-3fa9-44c7-9d37-65409fa3c80a">Siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180618T105813+0200" comment="Br. 242.20–29. "?>Marx
+                                an Engels, 24.4.1867 <?oxy_comment_end?></ref>Br. 242.20–29.
+                        </note></seg>
+                    <hi rendition="#u">Ein paar Bogen </hi>wären rasch zusammengeschmiert, aber
+                    etwas Größeres, 6 à 10 Bogen, würden mehr Arbeit erfordern &amp; für den
+                    jetzigen Kriegslärm <hi rendition="#u">zu spät</hi> kommen. Man kann doch nicht
+                        <del rendition="#s">solche</del> Sauereien<seg type="comment"><orig> à la
+                                <persName key="pdrPo.001.004.000004961">Vogts</persName>
+                            Studien</orig><note xml:id="e5fed3c8-91e9-4a70-be8e-55dd08bba119"><bibl sameAs="zotero-604880-8P7YSSLZ">Carl Vogt: Studien
+                                zur gegenwärtigen Lage Europas. Genf, Bern 1859.</bibl> Zu Marx'
+                            Kritik siehe <bibl sameAs="zotero-604880-XK4TJ26A">Karl
+                                Marx: Herr Vogt. London 1860</bibl> (<bibl sameAs="zotero-604880-4G3K6GFY">MEGA² I/18. S. 100
+                                bis 286</bibl>).</note></seg> zusammenschmieren. Außerdem würde die
+                    Geschichte mehr oder weniger als ein Parteimanifest angesehen &amp; da müßten
+                    wir doch zuerst einen Rath halten. Ich habe aber seit längerer Zeit ein Anti
+                    Russicum im Kopf &amp; wenn die Ereignisse mir einen Anhalt bieten so fang ich
+                    gleich damit an &amp; schreibe an <persName key="pdrPo.001.004.000003135">Meißner</persName>. Die Frage bei mir ist nur noch die ob ich <seg type="comment"><orig>das „Nationalitätsprinzip“,</orig><note xml:id="fad75626-950a-43c5-9eda-6b98f1b7007d">Das sogenannten
+                            „Nationalitätenprinzip“, dem die Aufassung über das Rechts einer Nation
+                            oder Nationalität auf die Bildung eines eigenen Staates zugrunde liegt,
+                            war z. B. die grundlegende Tendenz in der französischen Außenpolotik
+                            unter Napoléon III. Die russische Zarenregierung versuchte dieses
+                            Prinzip auf die slawischen Völker des Balkans und Mitteleuropas
+                            auszudehnen. (siehe <ref target="B00239">Erl. zum „antideutschen
+                                Panslavismus“ in S. L. Borkheim an Engels,
+                            25.3.1867</ref>).<?oxy_comment_start author="lindenberg" timestamp="20181010T104332+0200" comment="vorher: Das „Nationalitätsprinzip“ als Recht einer Nation auf die Bildung eines eigenen Staates verbreitete sich insbesondere in Frankreich unter Napoléon III, der mit den nationalen Interessen der unterdrückten Völker spekulierte, um Frankreichs Hegemonie zu festigen und seine Grenzen zu erweitern. In der Tat führte diese Politik zu den nationalen Zwietrachten und zum Manipulieren mit den kleineren Völkern durch die Großmächte. Russische Zarenregierung versuchte dieses Prinzip auf die slawischen Völker des Balkans und Mitteleuropas auszudehnen."?><?oxy_comment_end?>Siehe
+                            dazu auch <bibl sameAs="zotero-604880-XK4TJ26A">Karl
+                                Marx: Herr Vogt</bibl> (<bibl sameAs="zotero-604880-4G3K6GFY">MEGA² I/18. S. 173–175, 182–185, 191–194,
+                                256/257</bibl>); <bibl sameAs="zotero-604880-P783H7N7">Friedrich Engels: What have the working classes to do
+                                with Poland?</bibl> (<bibl sameAs="zotero-604880-665AQT5C">MEGA² I/20. S. 194, 197–203</bibl>).</note></seg>
+                    oder <seg type="comment"><orig>die „orientalische Frage“</orig><note xml:id="f4702923-830d-4fb9-b7e6-a39b503a0427">Ein Begriff der
+                            europäischen Diplomatie, verbunden mit dem inneren Niedergang des
+                            Osmanischen Reiches im 19. Jahrhundert, mit dem Eingreifen der
+                            europäischen Großmächte in diesen Prozess und ihren Rivalitäten im Kampf
+                            um den Einfluß auf die neu entstehenden Nationalbewegungen unter den
+                            Balkanvölkern. Marx und Engels schenkten diesem Problem viel
+                            Aufmerksamkeit, besonders zur Zeit des Krimkriegs 1853–1856. Siehe z.B.
+                                <bibl sameAs="zotero-604880-BCXSB46E">[Karl
+                                Marx/Friedrich Engels:] British Politics–Disraeli–The
+                                Refugees–Mazzini in London–Turkey</bibl>. In: New-York Daily
+                            Tribune. Nr. 3736, 7. April 1853. S. 5, Sp. 4–6 bis S. 6, Sp. 1. Rubrik:
+                            Europe. (<bibl sameAs="zotero-604880-IVRWRW4T">MEGA<hi rendition="#sup">2</hi> I/12. S. 70–75</bibl>); <bibl sameAs="zotero-604880-4N2CDYLT">[Friedrich Engels:]
+                                Deutschland und der Panslavismus. In: Neue Oder-Zeitung. Breslau.
+                                Nr. 185, 21. April 1855. Mittagsblatt. S. 1, Sp. 2/3; Nr. 189,
+                                24. April 1855. Mittagsblatt. S. 1, Sp. 2 bis S. 2, Sp. 1</bibl>
+                                (<bibl sameAs="zotero-604880-ZG572TGA">MEGA<hi rendition="#sup">2</hi> I/14. S. 286–292</bibl>); <bibl sameAs="zotero-604880-S37C47PK">[Karl Marx: Aus dem
+                                Parlament.] London, 29. Mai 1855.</bibl> In: Neue Oder-Zeitung.
+                            Breslau. Nr. 249, 1. Juni 1855. Mittagsblatt. S. 2, Sp. 3 bis S. 3,
+                            Sp. 3. Rubrik: Großbritannien (ebenda. S. 373–377). Siehe auch <bibl sameAs="zotero-604880-MC9EPTFE">Baumgart:
+                                Europäisches Konzert.</bibl> S. 287–293. </note></seg> in den
+                    Vordergrund stelle.</p>
+                <p><seg type="comment"><orig>Daß <persName key="pdrPo.001.004.000000441">Bismark</persName> bei Dir anklopfen
+                            würde hatte ich erwartet, wenn auch nicht die Eile.</orig><note xml:id="bdad0c39-b0fa-46e0-9974-a20fb3960a4d">Siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180618T110000+0200" comment="Br. 242.60–65."?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref>
+                        Br. 242.60–65.</note></seg> Es ist bezeichnend für die Denkweise &amp; den
+                    Horizont <seg type="comment"><orig>des <persName key="ed_ajj_jzj_bdb">Kerls</persName></orig><note xml:id="fa9ab458-4a3b-45e2-b60c-f0ada7305a9b"><persName key="ed_ajj_jzj_bdb">Warnebold</persName>. </note></seg> daß er alle
+                    Leute nach sich beurtheilt. Die Bourgeoisie mag wohl die großen Männer von heute
+                    bewundern, sie sieht sich in ihnen widergespiegelt. Alle Eigenschaften wodurch
+                        <expan><persName key="pdrPo.001.004.000003392">Bonap<ex>arte</ex></persName></expan>
+                    &amp; <persName key="pdrPo.001.004.000000441">Bismark</persName> Erfolge
+                    erreichten sind kaufmännische Eigenschaften: das Verfolgen eines bestimmten
+                    Zweckes durch Abwarten &amp; Experimentiren bis der richtige Moment getroffen,
+                    die Diplomatie der stets offnen Hinterthür, das Accordiren &amp; Abdingen, das
+                    Einstecken von Insulten, wenn das Interesse es erfordert, das: „ne soyons pas
+                    larrons“, kurz, überall der Kaufmann. <persName key="pdrPo.001.004.000001409">Gottfriend Ermen</persName> ist in seiner Weise ein ebenso großer
+                    Staatsmann wie <persName key="pdrPo.001.004.000000441">Bismark</persName>, &amp;
+                    wenn man die Schliche dieser großen Männer verfolgt so <pb/> wird man immer
+                    wieder auf die Manchester Börse versetzt. <persName key="pdrPo.001.004.000000441">B.</persName> denkt wenn ich nur fortfahre bei
+                        <expan>M<ex>arx</ex></expan>
+                    anzuklopfen so treffe ich schließlich doch einmal den richtigen Moment &amp; wir
+                    machen dann doch ein Geschäftchen zusammen. Der reine <persName key="pdrPo.001.004.000001409">Gottfried <expan>E<ex>rmen</ex></expan></persName>.</p>
+                <p><seg type="comment"><orig>Daß der Preußenhaß dort <hi rendition="#u">so</hi> stark ist hätte ich nicht
+                            gedacht.</orig><note xml:id="e5b45fa2-97c0-48c8-8427-4409d0db2c5a">Siehe<ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180618T110048+0200" comment="Br. 242.54–59."?>
+                                Marx an Engels, 24.4.1867<?oxy_comment_end?></ref> („Das Volk u. in
+                            der Hauptstadt Hannover ...“).</note></seg> Aber wie stimmt das mit dem
+                    Resultat <seg type="comment"><orig>der Wahlen?</orig><note xml:id="c4397015-0742-4df7-98cc-1b084e17d3fc">Die Wahlen zum
+                            konstituierenden Norddeutschen Reichstag am 12. Februar 1867. Siehe auch
+                                <ref target="B00235"><?oxy_comment_start author="reichhoff" timestamp="20180828T111212+0200" comment="Erl. 226f"?>Erl.
+                                zu Engels an Marx, 13.3.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Die Nationalvereins Esel</orig><note xml:id="efe3beaa-d913-45c9-a989-0efb714f42c6">Zum Nationalverein siehe
+                                <ref target="B00048"><?oxy_comment_start author="reichhoff" timestamp="20180828T113050+0200" comment="Erl. 45e."?>Erl.
+                                zu L. Kugelmann an Marx,
+                        23.2.1866<?oxy_comment_end?></ref>.</note></seg> brachten doch die Hälfte
+                    durch, &amp; in Kurhessen alle bis auf einen.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004961">Vogt</persName> hat sich in der
+                    Gartenlaube in Lebensgröße abbilden lassen.</orig><note xml:id="daac5775-4d6c-4827-8e5a-f044c8f6e8ea">Über <persName key="pdrPo.001.004.000004961">Karl Vogt</persName> erschien ein Artikel in Form
+                            eines Interviews mit einem Kupferstich-Porträt in der <bibl sameAs="ed_inz_jrr_kfb">Gartenlaube</bibl> . (<bibl sameAs="zotero-604880-BQWXPIL2">In einem Genfer
+                                Landhause</bibl>. In: Die Gartenlaube. 1867, Nr. 10, S. 148-152; S.
+                            149: Porträt).</note></seg> Er hat sich in den letzten Jahren noch sehr
+                    verschweinert &amp; sieht gut aus.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004456"><?oxy_comment_start author="lindenberg" timestamp="20181011T154924+0200" comment="Noch inhaltlich gegenprüfen!"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="18"?>Simon</persName>
+                            von Trier</orig><note xml:id="nvmw_rsx_kfb"><persName key="pdrPo.001.004.000004456">Ludwig Simon</persName> war 1849 in
+                            Trier als Rechtsanwalt tätig (siehe <bibl sameAs="zotero-604880-NVGIPFG4">Best/Weege:
+                                Biographisches Handbuch</bibl>).</note></seg> hat in den <seg type="comment"><orig><bibl sameAs="zotero-604880-UGULMBBM"><expan>Demokr<ex>atischen</ex></expan> Studien</bibl></orig><note xml:id="nvm3_vsx_kfb"><bibl sameAs="zotero-604880-GQ6XC7C9">Ludwig Simon: Deutschland und seine beiden
+                                Großmächte.</bibl> In: Demokratische Studien. Hamburg 1860. S.
+                            203–230.</note></seg> die mir neulich in die Hand fielen, ganz naiv
+                    ganze Seiten von <seg type="comment"><orig><bibl sameAs="zotero-604880-GTQ6BBQS">Po &amp; Rhein</bibl></orig><note xml:id="nhdy_wsx_kfb"><bibl sameAs="zotero-604880-GTQ6BBQS">[Friedrich Engels:] Po und Rhein. Berlin
+                            1859.</bibl></note></seg> abgeschrieben ohne zu ahnen aus welcher
+                    vergifteten Quelle er schöpfte! So hat auch <seg type="comment"><orig>der
+                            Leutnant der in <hi rendition="#u"><bibl sameAs="ed_l4v_qsw_1cb">Unsere Zeit</bibl></hi> die <expan>milit<ex>ärischen</ex></expan> Artikel schreibt, in <bibl sameAs="zotero-604880-VQ7IXC3B">„Preußen in
+                                Waffen“</bibl>
+                            <bibl sameAs="zotero-604880-QLSEZJ2C">meine
+                                Broschüre</bibl> stark copirt natürlich ebenfalls ohne
+                            Quellen-Angabe.</orig><note xml:id="a48b6b66-4878-484d-af4e-5514cd7b6717"><bibl sameAs="zotero-604880-VQ7IXC3B">Preußen in Waffen
+                                I–II.</bibl> In: Unsere Zeit. Deutsche Revue der Gegenwart.
+                            Monatsschrift zum Conversations-Lexikon. Neue Folge. 2. Jg. 2. Hälfte.
+                            Leipzig 1866. S. 161–177, 321–343. – <bibl sameAs="zotero-604880-QLSEZJ2C">Friedrich Engels: Die
+                                Preußische Militärfrage und die deutsche Arbeiterpartei. Hamburg
+                                1865</bibl> (<bibl sameAs="zotero-604880-G77L6FY8">MEGA<hi rendition="#sup">2</hi> I/20.
+                        S. 71–108</bibl>).</note></seg><?oxy_comment_end?><?oxy_custom_end mid="18"?></p>
+                <p><persName key="pdrPo.001.004.000004113">Rüstow</persName> will mit Gewalt preuß. General werden, als ob das so
+                    leicht ginge wie bei <persName key="pdrPo.001.004.000001724">Garibaldi</persName>. In seinem grundschlechten &amp; liederlichen <seg type="comment"><orig>Buch über den Krieg</orig><note xml:id="f0da7a58-f93b-4a42-b6d3-832ea18125cb"><bibl sameAs="zotero-604880-ST72WIWC">W[ilhelm] Rüstow: Der
+                                Krieg von 1866 in Deutschland und Italien, politisch-militärisch
+                                beschrieben. Zürich 1866</bibl>. </note></seg>
+                    <hi rendition="#u">kriecht</hi> er <seg type="comment"><orig>in optima
+                            forma</orig><note xml:id="bfb6ce00-3388-4404-b78b-3c8a830e2a94">in
+                            bester Form</note></seg> vor <seg type="comment"><orig><persName key="pdrPo.001.004.000005131">Wilhelm</persName>
+                            <persName key="pdrPo.001.004.000011754">dem
+                            Eroberer</persName></orig><note xml:id="d21f7574-30d0-42ad-89a4-b8f2cdb3ea3a"><persName key="pdrPo.001.004.000011754">William I, the Conqueror.</persName>
+                            Hier: <persName key="pdrPo.001.004.000005131">Wilhelm I, König von
+                                Preußen.</persName></note></seg> &amp; dem <seg type="comment"><orig><persName key="pdrPo.001.004.000001664">Prinzen</persName>.</orig><note xml:id="d7ce9a69-731e-4668-84be-f9d4ebc8e386"><persName key="pdrPo.001.004.000001664">Friedrich Karl Prinz von
+                                Preußen</persName>.</note></seg>
+                    <hi rendition="#u">Daher</hi> zieht er nach Berlin.</p>
+                <p>Ich sah <persName key="pdrPo.001.004.000002387">Ernest
+                        Jones</persName> dieser Tage, er hat von 4 Orten Anfrage sich wählen zu
+                    lassen <seg type="comment"><orig>unter der neuen Bill</orig><note xml:id="cea356f2-53d3-43ac-997c-1a24e999ab82">Zur Wahlrechtsreform in
+                            Großbritannien siehe <ref target="B00025"><?oxy_comment_start author="reichhoff" timestamp="20180828T112215+0200" comment="Erl. 24d."?>Erl.
+                                zu Jenny Marx an J. Ph. Becker,
+                            29.1.1866<?oxy_comment_end?></ref>.</note></seg> – auch von Manchester.
+                    Schimpft gräulich auf die Arbeiter hier, and backs the Prussians at any odds
+                    against the French. Ich hoffe dieser Saukrieg geht vorüber, ich sehe nicht ein,
+                    was Gutes davon kommen kann. Eine <add>franz.</add> Revolution mit von
+                    vornherein gegebner Eroberungsverpflichtung wäre sehr eklig, es scheint fast als
+                    wolle <expan><persName key="pdrPo.001.004.000003392">Bon<ex>aparte</ex></persName></expan> sich
+                    mit dem Allergeringsten begnügen, ob aber der Herr der Heerscharen <seg type="comment"><orig>dem schönen <persName key="pdrPo.001.004.000005131">Wilhelm</persName></orig><note xml:id="a4dc8c5c-1b0f-4c42-bb39-e5b90e6f2776"><persName key="pdrPo.001.004.000005131">Wilhelm I, König von
+                                Preußen.</persName></note></seg> erlauben wird ihm auch nur dieses
+                    Geringste zu gewähren werden wir abwarten müssen.</p>
+                <p>Grüße den Dr. <persName key="pdrPo.001.004.000002616">Kugelmann</persName> unbekannter Weise bestens &amp; <seg type="comment"><orig>danke ihm für die <bibl sameAs="zotero-604880-GSXX4DVT"><expan>Heil<ex>ige</ex></expan> Familie.</bibl></orig><note xml:id="e345b883-9f1f-4e4b-aa87-8137dfb09b59"><bibl sameAs="zotero-604880-GSXX4DVT">Friedrich Engels,
+                                Karl Marx: Die heilige Familie, oder Kritik der kritischen Kritik.
+                                Gegen Bruno Bauer &amp; Consorten. Frankfurt a.M. 1845.</bibl> Siehe
+                                <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180618T110303+0200" comment="Br. 242.48–53"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref>, und <ref target="B00277"><?oxy_comment_start author="reichhoff" timestamp="20180618T110421+0200" comment="268.62"?>Marx
+                                an L. Kugelmann,
+                    10.6.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <postscript>
+                    <p>Dein<lb/>F. E. </p>
+                </postscript>
+            </div></body></text></TEI>

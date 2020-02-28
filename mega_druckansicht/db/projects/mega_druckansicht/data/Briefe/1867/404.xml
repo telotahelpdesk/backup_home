@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00414" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>404</idno>Carl Siebel an Friedrich Engels in Manchester. Honnef am
+                    Rhein, spätestens Sonntag, 3. November 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5697/L VIII 329.
+                                Fotosign. 3289&lt;a–b&gt;</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief ist auf der Visitenkarte geschrieben und besteht aus einem
+                            Blatt festem, weißem Papier im Format 78 × 42 mm. Auf der ersten Seite
+                            steht nur Siebel’s Unterschrift, die zweite Seite hat er vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000004424">Siebel, Carl (1836-1868)</persName>
+                    <placeName>Honnef am Rhein</placeName>
+                    <date when="1867-11-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+                <note>Zur Datierung: Die Datierung ergibt sich aus dem Zusammenhang des Briefes mit
+                    dem von Siebel an Engels vom 19. Oktober 1867, in dem Siebel die genauen Daten
+                    seiner Abreise nennt (siehe <ref target="B00406"><?oxy_comment_start author="lindenberg" timestamp="20190226T183739+0100" comment="Br. 396.6–8"?>C.
+                        Siebel an Engels, 19.10.1867</ref><?oxy_comment_end?>). Entsprechend fallen
+                    die hier genannten Tage („8ten“ und „10ten“) in den November 1867. Somit müßte
+                    der Brief Anfang November 1867 geschrieben worden sein. Engels dürfte den Brief
+                    Siebels am 6. oder 7. November 1867 erhalten haben. Da der Brief von Honnef am
+                    Rhein nach Manchester etwa drei Tage unterwegs war, ist anzunehmen, daß Siebel
+                    den Brief spätestens am 3. November 1867 verfaßt hat.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:29Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <p><pb/> Carl Siebel </p>
+                <p><pb/>
+                    <seg type="comment"><orig>Ich werde wohl am 8ten in Lpool eintreffen – am 10ten
+                            geh ich in’ See.</orig><note xml:id="cacffdfe-5beb-419e-ba0d-bd6efcb55e52">Carl Siebel beabsichtigte,
+                            sich nach Madeira einzuschiffen. Siehe seinen <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180606T104806+0200" comment="(Br. 396)"?>Brief
+                                an Engels vom 19.<?oxy_comment_end?>10.1867</ref>  sowie  <ref target="B00407">Engels an Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180606T104840+0200" comment="(Br. 397.6–7"?>22.<?oxy_comment_end?>11.1867</ref>
+                            und <ref target="B00423"><?oxy_comment_start author="reichhoff" timestamp="20180606T104931+0200" comment="413.4–5"?>8.11.1867<?oxy_comment_end?></ref>.</note></seg>
+                    Kann ich nicht mit <seg type="comment"><orig><persName key="pdrPo.001.004.000004427">meiner Frau</persName></orig><note xml:id="ab6f5759-e454-4912-9af3-8e7bbf593e04"><persName key="pdrPo.001.004.000004427">Reinhilde
+                        Siebel</persName>.</note></seg>
+                    <seg type="comment"><orig>nach Manchester kommen</orig><note xml:id="nc15_4qw_1gb">Siehe <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180606T105020+0200" comment="(Br. 396.6–8)"?>C.
+                                Siebel an Engels, 19.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    – kommst Du wohl nach Lpool. Ich telegraphire Dir darüber. Ich kann noch <seg type="comment"><orig>3 Zeitungsartikel</orig><note xml:id="e947355c-cdb3-4b28-8e7b-382fc1698ead">Siehe <ref target="B00406">
+                                C.<?oxy_comment_start author="reichhoff" timestamp="20180606T105050+0200" comment="(Br. 396.2–5)"?>
+                                Siebel an Engels, 19.10.1867 <?oxy_comment_end?></ref> und
+                            Erl. sowie <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180606T105126+0200" comment="(Br. 397.7–9)"?>Engels
+                                an Marx, 22.10.1867<?oxy_comment_end?></ref>.</note></seg> gleich
+                    verwenden. <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

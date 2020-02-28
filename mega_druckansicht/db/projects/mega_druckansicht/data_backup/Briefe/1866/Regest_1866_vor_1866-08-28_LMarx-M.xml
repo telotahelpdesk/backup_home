@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_d3y_h3f_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Laura Marx an Karl Marx. Vor Dienstag, 28. August 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003076">Marx, Laura (1845-1911)</persName>
+                    <date when="1866-08-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00164"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Laura Marx an Marx, geschrieben vor dem 28. August
+                    1866; siehe <ref target="B00164">Karl Marx an Laura Marx in Hastings. London,
+                        Dienstag, 28. August 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

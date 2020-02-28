@@ -1,0 +1,487 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="journal mega">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+                <author>竹永 進</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>2013-12-15</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-02-28T09:13:18Z</date><name>竹永 進</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head resp="editor"><supplied reason="editorialOutline">Notizbuch aus den Jahren 1869
+                    bis 1871</supplied></head><head><supplied reason="editorialOutline">Titelblatt des Notizbuches: The
+                Illustrated Universal Pocket Diary and Almanack for 1869. Standort des Originals:
+                RGASPI, Sign. f. 1, op. 1, d. 2423.</supplied></head>
+            <div><head resp="editor"><supplied resp="editor" reason="editorialOutline">[Wohnadressen und Notizen]</supplied></head>
+            <p><supplied resp="editor" reason="editorialOutline"><pb n="[1]"/></supplied></p> 
+                <div n="1">
+                <list>
+                    <item><hi rendition="#u">Redaction d<ex>er</ex> Neuen Freien Presse.</hi>
+                            Kolowrat Ring; 11 Fichtegasse. Wien.</item>
+                        <item><hi rendition="#u"><persName key="ed_jqz_kwx_wy">Rochat</persName>,
+                                380, Rue St. Denis, Paris.</hi></item>
+            <item><hi rendition="#u">M. Caubet, red. de la Morale Indep. 58, rue Tiquetonne.</hi></item>
+            <item><hi rendition="#u">John A. Schoenner.</hi> 816, California Street, <hi rendition="#u">San Francisco</hi>. Cal.</item>
+            <item><hi rendition="#u"><persName key="ed_c2b_vh3_mcb">E. Glaser de
+                                    Willebrord</persName></hi>, Rue de la Pepinière 24, <hi rendition="#u">Bruxelles</hi>.</item>
+                </list>
+                </div>
+                <div n="1">
+            <head><supplied resp="editor" reason="editorialOutline"><pb n="[2]"/></supplied>
+                        <hi rendition="#u">20 Feb. 1871.</hi></head>
+            <list><head><hi rendition="#u">Gezahlt</hi></head>
+            <item>an Mama <hi rendition="#u">18£. 1sh.</hi></item>
+            <item>(2£. Besides the other for taxes etc)</item>
+            <item><hi rendition="#u">2£ paid back to Withers.</hi></item>
+            </list>
+            <milestone unit="section" rendition="#hr"/><lb/> 
+            <table>
+                <row><cell><hi rendition="#u">Summa:</hi></cell><cell>20£.</cell> <cell>1s.</cell><cell/></row>
+            <row><cell><hi rendition="#u">Landlord.</hi></cell> <cell>15£</cell> <cell>3s.</cell> <cell>4d.</cell></row>
+                <row><cell/> <cell cols="3">(nach Abzug d<ex>er</ex> Landtax)<!-- Summenstrich unter dieser Zeile --></cell></row>
+                 
+            <row><cell/> <cell>35£</cell> <cell>4s.</cell> <cell>4d.</cell></row>
+                <row><cell><!-- Summenstrich unter dieser Zeile -->Mamma:</cell> <cell>3£</cell><cell/><cell/></row>
+            
+            <row> <cell/><cell>38£.</cell> <cell>4s.</cell> <cell>4d.</cell></row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile --><hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>Weiter<?oxy_custom_end?>:</hi></cell>
+                            <cell>15£</cell>
+                            <cell/>
+                <cell/>
+                        </row>
+                
+            <row><cell/><cell>53</cell><cell/><cell/></row>
+            <row><cell>1£</cell>
+                <cell><hi rendition="#u">54</hi></cell>
+                <cell cols="2"><hi rendition="#u">Champagner f. Jennychen.</hi></cell>
+            </row>
+            </table>
+                </div>
+                <div n="1">
+            <list>
+                <item><supplied resp="editor" reason="editorialOutline"><pb n="[3]"/></supplied>
+                            <hi rendition="#u"><persName key="pdrPo.001.004.000003187">Sigfried
+                                    Meyer</persName>. Letterbox 184, Hoboken, N. J. via N.
+                                York.</hi></item>
+            <item><hi rendition="#u"><persName key="pdrPo.001.004.000002686">F. A. Lange</persName>
+                                box 108. N. 9. Hoboken etc</hi></item></list>
+            <p><hi rendition="#u">Loyd 20 März 1869</hi></p>
+                    <list>
+                <item><persName key="pdrPo.001.004.000003314"><hi rendition="#u">John
+                                Morley</hi></persName>, Esq. Flexford House, near <choice>
+                                <sic>Guilford</sic>
+                                <corr cert="high">Guildford</corr>
+                            </choice></item>
+                    
+            <item><hi rendition="#u">H. Charnier</hi>, secret. of French Branch, New York. <hi rendition="#u">51 Prince Street, New York.</hi></item>
+            <!-- Geschweifte Klammer von "E.Aubry" bis "Rouen." (4 Zeilen) --><item><persName key="ed_nvg_cvv_fcb"><hi rendition="#u">E. Aubry</hi></persName>, <hi rendition="#u">Adresse</hi>, <del rendition="#s">Boulanger, charpentier, place Eau
+                                de <choice>
+                                    <sic>Roboc</sic>
+                                    <corr cert="high">Robec</corr>
+                                </choice>,</del> 2)</item>
+            <item>M.
+                            <?oxy_comment_start author="grassmann" timestamp="20191003T121604+0200" comment="Martin Bernard?"?>Benard<?oxy_comment_end?>
+                            charbonnier <hi rendition="#u">5 Rue de l’Amitié. Rouen.</hi></item>
+            <item><hi rendition="#u"><persName key="ed_evj_bqp_mcb">G. E. Harris</persName></hi>, 3,
+                            Camillia St<ex>reet</ex> Wandsworth Road. S.</item>
+            <item><supplied resp="editor" reason="editorialOutline"><pb n="[4]"/></supplied>
+                            <hi rendition="#u"><persName key="pdrPo.001.004.000005083">John
+                                    Weston</persName>.</hi> 80 White Cross Street. E. C.</item>
+            <item><hi rendition="#u">Eccarius.</hi> 10 Great Chapel Street. Westminster</item>
+                <item><hi rendition="#u">S. W.</hi> 3 xxxbridge{note}Tintenfleck{/note} Terrace.
+                            Levisham, Kent S. E.</item>
+                <item><hi rendition="#u">Chas. Burton.</hi>
+                            <hi rendition="#u">Lafargue.</hi>
+                            <hi rendition="#u">6 Rue Naujac. Bordeaux.</hi></item>
+            </list>
+            <list>
+                <head><hi rendition="#u">Addresses.</hi></head>
+            <item><hi rendition="#u">Dr. Felix Vogeli</hi>, <hi rendition="#u">10 Bank
+                            street</hi>,</item>
+            <item><hi rendition="#u">Paterson</hi> (N. J.), president of the Section Patersonienne
+                            de l’<hi rendition="#u">Union Républicaine de la langue
+                            française</hi>.</item>
+            <item><persName key="pdrPo.001.004.000001279"><hi rendition="#u">Eugène
+                                Dupont</hi></persName>, <hi rendition="#u">40, Carnarvon Str.</hi>
+                            <hi rendition="#u">Cheetham Hill</hi>, <hi rendition="#u">Manchester.</hi></item>
+                <item><hi rendition="#u"><persName key="pdrPo.001.004.000004395">Serebrenicoff</persName>.</hi> 7, Huntley Str., Tottenham Court
+                            Road W. C.</item>
+            <item><supplied resp="editor" reason="editorialOutline"><pb n="[5]"/></supplied>
+                            <seg type="comment"><orig><persName key="ed_c2b_vh3_mcb">Glaser de
+                                        Willebrord</persName> 24 Rue de la Pépinière
+                                    Bruxelles</orig><note xml:id="nl23_4f5_gjb">Von fremder Hand mit
+                                    Bleistift geschrieben.</note></seg></item>
+                <item><hi rendition="#u">James O’Daly</hi>, 2
+                            <?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>Ellen<?oxy_custom_end?>
+                            Cottages, Warner Road, Camberwell.</item><milestone unit="section" rendition="#hr"/><lb/>
+                        <item><seg type="comment"><orig>Pacific Steam Navigation
+                                    <?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>Coneym<?oxy_custom_end?>,
+                                    Lʼpool, W.
+                                    <?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>I.<?oxy_custom_end?>
+                                    Conlan, Secretary, Liverpool.</orig><note xml:id="nmx1_bg5_gjb">Von fremder Hand mit Bleistift geschrieben.</note></seg></item>
+                        <item><seg type="comment"><orig><persName key="pdrPo.001.004.000001214">E.
+                                        Dronke</persName> 11, Oldhall Str.</orig><note xml:id="nyx2_1g5_gjb">Von fremder Hand mit Bleistift
+                                    geschrieben.</note></seg></item>
+            </list>                    
+                </div>
+            </div>
+            <div n="1">
+                <head><supplied resp="editor" reason="editorialOutline"><pb n="[6]"/></supplied>
+                    <supplied resp="editor" reason="editorialOutline">[Bibliographische
+                        Notizen]</supplied></head>
+                <listBibl>
+                    <bibl><hi rendition="#u">Julius Eckardt.</hi>
+                        <hi rendition="#u">Russland’s ländliche Zustände.</hi> 1870.</bibl>
+                    <lb/>
+                    <bibl><hi rendition="#u">Schedo-Ferroti:</hi>
+                        <hi rendition="#u">Etudes sur l’Avenir de la Russie.</hi> 1868.</bibl>
+                    <lb/>
+                    <bibl><hi rendition="#u">C. Schirren: Livländische Antwort an Herrn Juri
+                            Samarin</hi>. 3 Aufl, 1869.</bibl>
+                    <lb/>
+                    <bibl><supplied resp="editor" reason="editorialOutline"><pb n="[7]"/></supplied>
+                        <seg type="comment"><orig><hi rendition="#u">Inspectors’ of coal mines
+                                    Report for year 1868</hi> (issued Mitte Mai.)</orig><note xml:id="nyf5_5h5_gjb">Mit Bleistift geschrieben.</note></seg></bibl>
+                </listBibl>
+            </div>
+                <div n="1">
+            <head><pb n="[8]"/>
+                    <hi rendition="#u">Max Wirth:</hi>
+                    <hi rendition="#u">Geschichte der Handelskrisen. Fkft <hi rendition="#sup">a</hi>/<hi rendition="#sub">M</hi>. 1858.</hi> (Sauerländer)</head>
+            <p>»Dagegen stellt sie (die Bank v. England) sogenannte Bank=Post=Bills, zahlbar acht
+                    Tage nach Sicht, <hi rendition="#u">auf das Ausland aus</hi>.<supplied cert="high">«</supplied>
+                    <seg type="comment"><orig>(!!)</orig><note xml:id="nsms_shm_gjb">Zusatz von
+                            Marx.</note></seg> (p. 245)</p>
+            <p>»Nun ist zwar seit 1848 der Goldvorrath durch die Zufuhr aus Californien u.
+                    Australien bedeutend vermehrt worden; allein auch der Silberexport nach Asien,
+                    für dessen Betrag England Gold gab etc. Gleichwohl würde d<ex>er</ex>
+                    <hi rendition="#u">Vorrath an baarem Geld</hi> recht gut ausgereicht haben, wenn
+                    nicht beim Hereinbrechen einer jeden Crise eine Menge von Leuten so viel als
+                    möglich baares Geld an sich zu ziehen <supplied resp="editor" reason="editorialOutline"><pb n="[9]"/></supplied> und vorräthig zu halten
+                    suchten, welches dem Verkehr entzogen wird. Tritt d<ex>ie</ex> Furcht hinzu, so
+                    wird dieses Verbergen des baaren Geldes epidemisch, u. so konnte es kommen, daß
+                        d<ex>em</ex> Handel wirklich für einen Augenblick die Cirkulationsmittel
+                    fehlten, u. daß dadurch d<ex>ie</ex> Klemme beängstigend wurde.<supplied cert="high">«</supplied> (250, 251)</p>
+            <p>»<hi rendition="#u">trustees</hi>, eine Art Ehrencharge, welche <hi rendition="#u">mit keiner Verbindlichkeit behaftet ist</hi> u. <hi rendition="#u">nur</hi>
+                    dazu dienen soll, einem Unternehmen Kredit zu verschaffen.<supplied cert="high">«</supplied> (369)</p>
+            <p>Mit <hi rendition="#u">Bezug auf d<ex>ie</ex> Crise v. 1857:</hi></p>
+            <p>»Das erste u. einfachste Manöver der Spekulanten war, <hi rendition="#u">die
+                        Fabrikanten zu verleiten</hi>, ihre Waaren auf eigne Rechnung zu
+                    consigniren, wodurch sie sowohl einen Markt für ihre <supplied resp="editor" reason="editorialOutline"><pb n="[10]"/></supplied> Produkte finden, als
+                    auch den Gewinn des Kaufmanns sichern könnten.<supplied cert="high">«</supplied>
+                    (417)</p>
+            <p>Das ist d<ex>ie</ex> Folge dieses Gesetzes <seg type="comment"><orig>(der illimited
+                            liability) (heißt es mit Bezug auf Krise v. 1857)</orig><note xml:id="nd5h_xmm_gjb">Zusätze von Marx.</note></seg>, welches
+                        d<ex>as</ex> Publikum verhindert, statt blindes Vertrauen in d<ex>ie</ex>
+                    Bankdirektionen zu setzen, <seg type="comment"><orig><hi rendition="#u">eigene
+                                Vorsicht anzuwenden</hi></orig><note xml:id="ndqv_xmm_gjb">Hervorhebung in der Quelle.</note></seg> etc (424)</p>
+                </div>
+                <div n="1">
+            <head resp="editor"><supplied resp="editor" reason="editorialOutline">[Bibliographische Notiz]</supplied></head>
+            <listBibl><bibl><hi rendition="#u">Dr. Karl Freiherr von Richthofen. Friesische Rechtsquellen,
+                    Berlin. 1840.</hi></bibl></listBibl>
+                </div>
+                <div n="1">
+                    <head resp="editor"><supplied resp="editor" reason="editorialOutline"><pb n="[51/52, 64/64, 66]"/></supplied> 
+                <supplied resp="editor" reason="editorialOutline">[Formeln und Berechnungen zu Mehrwert- und
+                Profitrate]</supplied></head>
+                    <p><supplied resp="editor">[Veröffentlicht in: MEGA2 II/14. S. 3-7.]</supplied></p>
+                </div>
+                <div n="1">
+            <head resp="editor"><supplied resp="editor" reason="editorialOutline"><pb n="[68]"/></supplied> <supplied resp="editor" reason="editorialOutline">[Notizen zu Ausgaben]</supplied></head>
+                    <table><head><hi rendition="#u">March</hi></head>
+                <row>
+                    
+                    <cell>Möhmchen</cell> 
+                    <cell>35£.</cell>
+                    <cell/>
+                    <cell/>
+                </row>
+            <row>
+                <cell>Weinmerchant</cell> 
+                <cell>3</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Jennychen</cell> 
+                <cell>1</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lesner</cell> 
+                <cell>1</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Lehnchen</cell> 
+                <cell>1</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Hut</cell> 
+                <cell/>
+                <cell>7<hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi>sh.</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Cigarren</cell> 
+                <cell/>
+                <cell>10</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Tussy</cell> 
+                <cell/>
+                <cell>5</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Nature</cell> 
+                <cell/>
+                <cell>5</cell>
+                <cell/>
+            </row>
+                        <row>
+                <cell/>
+                <cell>42£</cell> 
+                <cell>7<hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi>sh.</cell>
+                <cell/>
+            </row>
+            <row>
+                
+                <cell><!-- Summenstrich unter dieser Zeile -->Helen f. Neffen</cell>
+                <cell>1</cell>  
+                <cell>10</cell>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>43</cell> 
+                <cell>17<hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi></cell>
+                <cell/>
+            </row>
+            <row>
+                
+                <cell><!-- Summenstrich unter dieser Zeile -->Stamps</cell>
+                <cell/>
+                <cell>2<hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi></cell>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>44£</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->24 March. Landlord</cell>
+                <cell>16</cell>     
+                <cell>5</cell>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>60.</cell>
+                <cell>5.</cell> 
+                <cell/>
+            </row>
+            <row> 
+                <cell><supplied resp="editor" reason="editorialOutline"><pb n="[69]"/></supplied></cell>
+                <cell>60£.</cell> 
+                <cell>5s.</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>27 März Lesner</cell>
+                <cell>1</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Arbeiterverein</cell> 
+                <cell/>
+                <cell>12s.</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Helen</cell>
+                <cell/>
+                <cell>11s.</cell>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>62.</cell>
+                <cell>8s.</cell> 
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->B<?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>am<?oxy_custom_end?>berger</cell>
+                <cell>5</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>67.</cell>
+                <cell>8s.</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->ditto
+                            B<?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>am<?oxy_custom_end?>berger</cell>
+                 <cell>2</cell>     
+                <cell>12</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell/>
+                <cell>70£</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Hut f. Tussy</cell>
+                <cell/>
+                <cell>5s.</cell> 
+                <cell>6</cell>
+            </row>
+            <row>
+                <cell>Mamma</cell>
+                <cell/>
+                <cell>2s.</cell> 
+                <cell>6</cell>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Uhr f. Tussy</cell>
+                <cell/>
+                <cell>2</cell>      
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>70£</cell>
+                <cell>11sh.</cell>
+                <cell/>
+            </row>
+            <row> 
+                <cell><supplied resp="editor" reason="editorialOutline"><pb n="[70]"/></supplied></cell>
+                <cell>£</cell> 
+                <cell>s.</cell> 
+                <cell>d.</cell>
+            </row>
+            <row> 
+                <cell/>
+                <cell>70</cell> 
+                <cell>11</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Für neue Uhr an Tussy</cell> 
+                <cell/>
+                <cell>6</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell>Helen
+                            (<?oxy_custom_start type="oxy_content_highlight" color="166,89,220"?>Loos<?oxy_custom_end?>,
+                            Fr.)</cell>
+                <cell>1</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell>Mamma</cell>
+                <cell>4</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Stamps</cell>
+                <cell/>
+                <cell>6</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell/>
+                <cell>76</cell> 
+                <cell>3</cell>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Zeitung</cell>
+                <cell/>
+                <cell>8</cell>  
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>76</cell>
+                <cell>11</cell>
+                <cell>6</cell>
+            </row>
+            <row>
+                <cell>Mamma</cell> 
+                <cell>2</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row>
+                <cell><!-- Summenstrich unter dieser Zeile -->Bierbrauerei</cell>
+                <cell>5</cell>
+                <cell/>
+                <cell/>
+            </row>
+            <row> 
+                <cell/>
+                <cell>83</cell> 
+                <cell>11</cell> 
+                <cell>6</cell>
+            </row>
+                    </table>
+                </div>
+                <div n="1">
+            <head resp="editor"><supplied resp="editor" reason="editorialOutline"><pb n="[71]"/></supplied> <supplied resp="editor" reason="editorialOutline">[Bibliographische Notizen]</supplied></head>
+            <head><hi rendition="#u">Volksstatt. Fehlende Nummern,</hi></head>
+                    <listBibl>
+                    <head><hi rendition="#u">1870:</hi>
+                        <bibl>N. 55;</bibl><bibl> 52;</bibl><bibl> 68;</bibl><bibl> 67,
+                            </bibl><bibl>65; </bibl><bibl>64; </bibl><bibl>63, </bibl><bibl>71,
+                            </bibl><bibl>88; </bibl><bibl>84; </bibl><bibl>82; </bibl><bibl>99;
+                            </bibl><bibl>92:</bibl></head>
+                </listBibl>
+            <listBibl>
+                    <head><hi rendition="#u">1871.</hi>
+                        <bibl><hi rendition="#u">N. 3</hi></bibl></head>
+                </listBibl>
+                </div>
+        </body>
+    </text>
+</TEI>

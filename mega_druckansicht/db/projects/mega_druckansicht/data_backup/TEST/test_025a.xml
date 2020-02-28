@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00027a" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>25a</idno>Jenny Marx an Friedrich Engels in Manchester. London, Ende
+                    Januar 1866</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 1 d. 5726</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            202 × 127 mm. Wasserzeichen: „Jo[ynson]“. Die ersten drei
+                            Seiten hat Jenny Marx vollständig beschrieben, die vierte zu zwei
+                            Dritteln. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur auf der ersten Seite oben: „11 P 14“ (links) und „A<hi rendition="#sup">2</hi>“ (rechts).</p>
+                        <p>Die Datierung stützt sich auf folgende Tatsachen: Jenny Marx erwähnt den
+                            Brief Edgar von Westphalens aus Berlin mit der Beschreibung der
+                            Weihnachtsfeiern (Z. 19–23). Ihr jüngerer Bruder begab sich nach
+                            Berlin am 4. November 1865 (siehe Erl. 25ah)
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"
+        ?>[=III/13.
+                            e256.4]<?oxy_custom_end?> und so konnte er nach London im Januar 1866
+                            schreiben. Jenny Marx erwähnt auch die schwere Krankheit von Marx, als
+                            er an dem Manuskript des „Kapitals“ nicht arbeiten konnte. In ihrem
+                            Brief an Johann Philipp Becker vom 29. Januar 1866 schreibt sie,
+                            Marx liegt schon „seit einer Woche“ (Br. 24.2). In ihrem Brief an
+                            Louis Kugelmann vom 26. Februar 1866 steht: ihr Mann „liegt seit
+                            4 Wochen wieder an seiner alten … Krankheit darnieder“
+                            (Br. 46.5–6). So können wir vermuten, der vorliegende Brief sollte
+                            auf etwa Ende Januar 1866 datiert werden.</p>
+                        <p>Datierung der Erstveröffentlichung: nicht früher als 29. November
+                            1864.</p>
+                        <p>Über die Beilagen (Z. 11–14) siehe Erl. 25ad und 25ae.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl>Erstveröffentlichung: in russischer Übersetzung: МЭС2 31 (1963).
+                            S. 489/490</bibl>.</witness>
+                    <witness><bibl>in der Sprache des Originals: MEW 31 (1965).
+                            S. 583.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName>Jenny Marx</persName>
+                    <placeName>London</placeName>
+                    <?oxy_comment_start author="roth" timestamp="20170222T095835+0100" comment="kein Datum eingegeben, damit es nicht in Liste im Internet angezeigt wird"?>
+                    
+                    <?oxy_comment_end?>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2016-10-31T13:38:29Z</date> | <name>Regina Roth</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2016-10-31T14:57:09+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingAct">
+                <opener><salute sameAs="MBAnrede"><pb/>
+                        <hi rendition="#mPrint">Mein lieber Herr Engels</hi>,</salute></opener>
+                <p rend="MBTextOhneEinzug">Der arme Mohr hat wieder einen <hi rendition="#i">großen,
+                        sehr schmerzhaften Karbunkel</hi>. Er muß dabei liegen u. das<hi rendition="#g"> Schreiben fällt ihm sehr schwer</hi>. Ich hoffe, daß wir in
+                    ein paar Tagen Herr über diesen ersten Ausbruch werden. Wie schrecklich, daß das
+                    jetzt wieder kommt. Sie glauben nicht, <seg type="comment"><orig>wie herrlich er
+                            im Zuge mit dem <hi rendition="#u">wirklichen</hi> Abschreiben des Buchs
+                            war.</orig><note xml:id="a26990a7-e18a-4ed3-8efe-ca0c2f13b3cb">a Karl
+                            Marx: Das Kapital. Siehe {{<ref key="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl._6b</ref>}}.
+                            (((lMarx,Karl:DasKapital.Bd.1.Hamburg1867))) </note></seg> Es liegt
+                    schon ein ganzer schwerer Haufen zum Druck parat. Das zu anhaltende Sitzen u.
+                    Schreiben bis tief, tief <pb/> in die Nacht hinein u. die damit verbundene
+                    Aufregung sind sicher Schuld an dem neuen Ausbruch der Krankheit. Karl hofft,
+                    daß die Unterbrechung nicht lange dauern wird. Er will selbst versuchen heute
+                    etwas zu schreiben. <seg type="comment"><orig>Er schickt Ihnen hierbei einen
+                            Brief von <persName key="Liebknecht">Wilhelmchen</persName>,</orig><note xml:id="ac367cf1-4980-4273-b8a6-78237180a45c">Vermutlich schickte Marx
+                            den Brief Wilhelm Liebknechts (((nLiebknecht,W.))) vom 18. Januar
+                            1866 ({{Br. 15}}).</note></seg>
+                    <seg type="comment"><orig>ebenso einen an <persName key="Weydemeyer">Weydemeyer</persName>,</orig><note xml:id="b50d34c8-136d-499d-92b6-e105e0216d7d">Ein solcher Brief von Marx
+                            an Joseph Weydemeyer konnte nicht ermittelt werden.</note></seg> dessen
+                    Addresse wir nicht wissen u. den ich Sie bitte besorgen zu wollen. <anchor xml:id="d27e82"/>Die Karten für die „International Society“ kosten
+                    1 Sh. 1 ₰<seg type="comment"><orig/><note xml:id="d8ff63f9-ccc2-4479-9474-01c69403f3fb">a Member’s Annual
+                            Subscription Card of the International Working Men’s Association for
+                            1866. Siehe MEGA² I/20. S. 815, 817 und 1909/1910. Anfang 1866
+                            verteilte Marx Mitgliedskarten der IAA unter seinen Gesinnungsgenossen.
+                            Siehe {{Erl._10c}}.</note></seg> Der Mohr meint aber daß Niemand
+                    Gentelmen <pb/> hindern würde 5–10 Sh. zu geben.</p>
+                <p rend="MBTextMitEinzug">Sein Sie, lieber Herr Engels, tausendmal von uns Allen
+                    gegrüßt.</p>
+                <closer sameAs="MBUnterschrift"><signed>Ihre Jenny Marx.</signed></closer>
+                <postscript>
+                    <p>Apropos. <seg type="comment"><orig>Endlich kamen ein paar Zeilen von unserm
+                                alten „Öhmchen“ <persName key="Westphalen,Edgar">Edgar</persName>
+                                an.</orig><note xml:id="c5252eb0-4912-402e-8ab2-09ccbc901dad"><persName key="pdrPo.001.004.000005086">Edgar von
+                                    Westphalen</persName> war 1865 krank aus den USA nach England
+                                zurückgekehrt und hatte sich dann im November des gleichen Jahres in
+                                Berlin niedergelassen.</note></seg> Die Berliner scheinen sich
+                        anständig gegen ihn zu benehmen. Das Baby schreibt man habe ihm Röcke,
+                        Hosen, Westen, Handschuhe, Cigarren u. ein „Gesangbuch“ zu Weihnachten
+                        „bescheert“. <pb/> Der Doctor, den sie consultirt haben, erklärte seine
+                        Krankheit für eine Herzkrankheit. Wenn die Ärzte nicht wissen was sagen, muß
+                        immer die „allgemeine“ Herzkrankheit herhalten. Ich glaube sein Leiden liegt
+                        vielmehr in Lunge u. Hirn. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

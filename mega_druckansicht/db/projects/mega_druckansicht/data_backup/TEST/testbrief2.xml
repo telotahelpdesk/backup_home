@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_jmy_3jk_3y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>S. Nördlinger an Friedrich Engels in Manchester. Manchester, Dienstag, 8. Januar 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5137/L VII 177</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1x_tqj_sx">Nördlinger, S. (-)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Engels, Friedrich (1820-1895)</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>|<?oxy_comment_start author="roth" timestamp="20170222T100029+0100" comment="kein maschinenlesbares Datum eingeben, damit es nicht in Liste im Internet angezeigt wird"?>
+                        8 Jan 1867<?oxy_comment_end?></dateline>
+					<salute>Werther Herr Engels.</salute>
+                </opener>
+                <p><supplied cert="high">Da ich Sie an der Börse</supplied> nicht sah – verabredete
+                    ich mit Hn
+                    <?oxy_comment_start author="roth" timestamp="20161220T193152+0100" comment="Prüfen, welcher der beiden Delius aus NR (beide Kaufleute in Manchester)
+"?>Delius<?oxy_comment_end?>
+                    daß wir am Donnerstag um 2½ p.m. {e/}<seg type="comment"><orig>in der S<choice>
+                                <sic>chiller-Anstal</sic>
+                                <corr type="deleted"><supplied cert="high"/></corr>
+                            </choice>t uns als Loca<choice>
+                                <orig/>
+                                <reg/>
+                            </choice>l Common versammeln wollten.</orig><note xml:id="nfdc_5kk_3y">Ähnlich wie im Jahr zuvor. Siehe Nördlinger an Engels, 26. Januar 1866
+                                (<ref target="B00027">Br. 22</ref> und Erl.).</note></seg>
+                    <choice>
+                        <orig>Wollhen</orig>
+                        <reg>Wollen</reg>
+                    </choice> Sie Hn Wehun &amp; Hn Simon offiz. dazu einladen? </p>
+                <p>[Test für Korrektur:] <choice>
+                        <sic>Wollhen</sic>
+                        <corr cert="high">Wollen</corr>
+                    </choice> Sie Hn Wehung<del rendition="#s"><gap quantity="1" unit="words"/></del> &amp; Hn Simon offiz. dazu einladen?</p>
+				<closer>
+                    <salute>
+                        <table rows="3" cols="2">
+                            <row role="label">
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell/>
+                                <cell/>
+                            </row>
+                        </table>
+                    </salute>
+                    <salute>Besten Gruß</salute>
+                    <signed>SNördlinger |</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

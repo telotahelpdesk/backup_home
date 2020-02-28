@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00335" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>326</idno>Karl Marx an Sigfrid Meyer in New York. London, Dienstag, 27. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 602/C 163</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 273 × 211 mm. Die erste Seite hat Marx vollständig beschrieben, die dritte zur Hälfte beschrieben, die zweite und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite oben mit roter Tinte die Nummerierung: „87“ und der Bleistiftvermerk: „pr. 9/9 67“; auf der vierten Seite oben die Bleistiftvermerke: „27/8 67“, „4 #“ und unten: „94“.</p><p/><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2068</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                                                  (1934)<?oxy_custom_end?>. S. 495.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW 31
+                                                  (1965).<?oxy_custom_end?> S. 558.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-08-27"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000003187">Sigfrid Meyer</persName>
+                                        <placeName key="ed_lzf_5nv_cbb">New York</placeName></correspAction>
+                                <correspContext>
+                                        <ref type="prev" target="B00293"/>
+                                </correspContext>
+                                <note>Marx beantwortet Meyers Brief vom 5. Juli 1867 (siehe <ref target="B00293"><?oxy_comment_start author="lindenberg" timestamp="20190219T145245+0100" comment="284"?>S.
+                                                Meyer an Marx,
+                                        5.7.1867</ref><?oxy_comment_end?>).</note>
+                                <note>Die Beilage zum Brief („Auszug aus Vorwort“) ist nicht
+                                        überliefert. Siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:34Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> 27 August,
+                                                1867.<lb/>1, Modena Villas, Maitland
+                                                Park,<lb/>Haverstock Hill. <hi rendition="#u">London</hi>.</dateline>
+                                        <salute>Lieber Meyer,</salute>
+                                </opener>
+                                <p><seg type="comment"><orig>Einliegend
+                                                  Auszug aus Vorwort zum Ersten Band meiner
+                                                  Schrift</orig><note xml:id="c4d58d55-f346-47cb-bbd5-5d838c8e1d23">Aus
+                                                  dem Vorwort von: Das Kapital. Kritik der
+                                                  politischen Oekonomie. Von Karl Marx. Erster Band.
+                                                  Productionsprozess des Kapitals. 50 Bogen gr. 8.
+                                                  Preis 3⅓ Thlr. Verlag von Otto Meißner in Hamburg.
+                                                  Siehe <ref target="B00317"><?oxy_comment_start author="reichhoff" timestamp="20180912T094401+0200" comment="Erl. 308d"?>O.
+                                                  Meißner an Marx,
+                                                  13.8.1867<?oxy_comment_end?></ref>
+                                                  „Separatabdruck“ und Erl. Siehe auch <ref target="B00330"><?oxy_comment_start author="reichhoff" timestamp="20180528T092018+0200" comment="(Br. 321.13–14).,"?>Marx
+                                                  an Engels, 24.8.1867 <?oxy_comment_end?></ref>
+                                                  „Theil meiner Vorrede“ und Erl.</note></seg>, die
+                                        nächste Woche ausgegeben wird. Suchen Sie selben möglichst
+                                        in deutsch-amerikanische Blätter u., wo thubar, auch in
+                                        englisch amerikanische Blätter zu bringen. Wo abgedruckt,
+                                        schicken Sie mir gefälligst <hi rendition="#u">ein
+                                                Exemplar</hi>, da dieß wichtig für meinen <seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Buchhändler</persName></orig><note xml:id="c895bd01-3960-408c-965d-41b900affd5f"><persName key="pdrPo.001.004.000003135">Otto
+                                                  Meißner</persName>.</note></seg> ist.</p>
+                                <p><seg type="comment"><orig><hi rendition="#u">Ad vocem <persName key="pdrPo.001.004.000005037">Weber</persName></hi>.</orig><note xml:id="f911607b-97c1-4112-a374-da685e2fbe2b"><persName key="pdrPo.001.004.000005037">Wilhelm
+                                                  Weber</persName>. Siehe <ref target="B00293"><?oxy_comment_start author="reichhoff" timestamp="20180528T092948+0200" comment="(Br. 284.26–33)."?>S.
+                                                  Meyer an Marx, 5.7.1867<?oxy_comment_end?></ref>
+                                                  (Br. 284.26–33).</note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000005033">Sein
+                                                  Vater</persName></orig><note xml:id="a941f42c-3fc3-4678-92db-5a626618936d"><persName key="pdrPo.001.004.000005033">Joseph
+                                                  Valentin Weber</persName>.</note></seg> ist ein
+                                        Narr, Exile v. Baden, Uhrmacher. <persName key="pdrPo.001.004.000005037">Der Junge</persName>,
+                                        den Sie dort geniessen, ist ein Lump. Er war von der
+                                                <persName key="pdrPo.001.004.000002070">Hatzfeld</persName> ausersehn, den <seg type="comment"><orig><persName key="ed_k4n_vl2_jy">Killer des Lassalle</persName></orig><note xml:id="b2b4242a-18e9-4faa-9c03-6c0fb30684d8"><persName key="ed_k4n_vl2_jy">Iancu
+                                                  Racowiţă</persName>.</note></seg> zu morden. Er
+                                        nahm das Geld, reiste dem prädestinirten Opfer nach bis
+                                        Augsburg oder so. Das Herz fiel ihm dann in die Hosen. Er
+                                        drückte sich dann, mit dem H’schen Geld (er suchte dem alten
+                                        Mensch unter Drohungen noch mehr <pb/> zu erpressen) von
+                                        Deutschland nach Amerika.</p>
+                                <p>Sein würdiger <persName key="pdrPo.001.004.000005035">Vater</persName> hier
+                                        u. <seg type="comment"><orig>sein <persName key="pdrPo.001.004.000005035">Bruder</persName></orig><note xml:id="f863b3d3-9dd6-43f7-b541-414320939e96"><persName key="pdrPo.001.004.000005035">Louis
+                                                  Weber</persName>.</note></seg> hier im hiesigen
+                                                <seg type="comment"><orig><orgName key="ed_fgm_42g_zgb">Communistenverein</orgName>
+                                                  (deutschen) </orig><note xml:id="e9ee746e-12d0-4346-8d14-d4abc33cddd8">Der
+                                                  <orgName key="ed_fgm_42g_zgb">Deutsche
+                                                  Arbeiterbildungsverein</orgName> in London. Siehe
+                                                  <ref target="B00038">Erl. zu Leßner an Marx,
+                                                  12.02.1866</ref>.</note>
+                                        </seg>sagten: <hi rendition="#uu">Ich</hi> habe den braven
+                                        Jungen <hi rendition="#u">der deutschen Polizei
+                                                denuncirt</hi>. So erklärten sie seine Retirade und
+                                        Prellerei der Gräfin<persName key="pdrPo.001.004.000002070">
+                                                Hatzfeldt</persName>. Ich ging in den Verein, <add place="superlinear">denuncirte die Lumpen</add> u.
+                                                <persName key="pdrPo.001.004.000005035">Weber
+                                                Jun.</persName> ward mit éclat
+                                        hinausgeschmissen.</p>
+                                <p>Sie kennen jezt den Zusammenhang.</p>
+                                <closer>Salut<lb/>Ihr<lb/>K. Marx </closer>
+                        </div></body></text></TEI>

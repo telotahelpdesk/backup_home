@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00340" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>331</idno>Karl Marx an Friedrich Engels in Manchester. London, Mittwoch, 4.
+          September 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">L 4488/L VI 621</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              225 × 178 mm. Prägung ist nicht deutlich erkennbar. Alle vier Seiten hat Marx
+              vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: „28,1“ bis <hi rendition="#u">„</hi>28,4“.</p>
+            <p/>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 2073</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+              (1913)<?oxy_custom_end?>. S. 402–404.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-09-04"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="B00339"/>
+        </correspContext>
+        <note>Marx beantwortet Engels’ Brief vom 2. September 1867 (siehe <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20190227T171200+0100" comment="Br. 330"?>Engels
+            an Marx, 2.9.1867</ref><?oxy_comment_end?>).</note>
+        <note>Die Beilagen zum Brief ( „die letzten Druckbogen ...“, „ einliegenden Wisch mit dem
+          neuen Programm „)
+          <?oxy_comment_start author="lindenberg" timestamp="20190206T164651+0100" comment="Z. 14–16, 40"?>sind<?oxy_comment_end?>
+          nicht überliefert. Siehe Erl. </note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:46:39Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> 4 Sept. 1867.</dateline>
+          <salute>Dear Fred,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Die £ 5 dankend erhalten.</orig><note xml:id="be52b4f5-1c7f-43e7-96a4-de652f1190b8">Siehe <ref target="B00338">Engels an
+                Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180525T153202+0200" comment="(Br. 329.3–5 "?>1.9.<?oxy_comment_end?>1867</ref>
+              und <ref target="B00339"><?oxy_comment_start author="lindenberg" timestamp="20190618T094150+0200" comment="330"?>2.9.1867<?oxy_comment_end?>.</ref></note></seg></p>
+        <p><seg type="comment"><orig><persName key="pdrPo.001.004.000000542">Borkheim</persName>
+              schrieb mir vor ein paar Tagen v. Bern u. schickte mir „zu gefälligen Randglossen“ das
+              brouillon zur Rede, die er auf dem Peace-Congress zu Genf halten will.</orig><note xml:id="aa45eba7-d8e3-4a71-ac97-dadbe023f659">Siehe <ref target="B00332"><?oxy_comment_start author="reichhoff" timestamp="20180525T153522+0200" comment="(Br. 323)"?>S.
+                L. Borkheim an Marx, 27.8.1867<?oxy_comment_end?></ref>. Borkheims Auftreten auf dem
+              Kongreß der Friedens- und Freiheitsliga in Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190618T095631+0200" comment=" 304h"?>Erl. zu
+                S. L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>) am 10. September 1867
+              mündete in einen Skandal. Als er in überaus drastischen Worten gegen „ehemalige
+              deutsche politische Flüchtlinge“, die sich zu „Troßknechten der Kosacken“ gemacht
+              hätten, loszog, Rußland als „die schwere Nachhut der großen reactionären Parthei
+              Europa’s“ anklagte und die Friedens- und Freiheitsliga zu „einer aufrichtigen Alliance
+              mit den arbeitenden Klassen“, die am meisten unter Kriegen zu leiden hätten,
+              aufforderte, wurde er von der Mehrheit der Teilnehmer niedergeschrieen und mußte die
+              Tribune verlassen. (Siehe Annales de Congrès de Genève (9–12 septembre 1867. Genève
+              1868. S. 172–177; Gemkow: Sigismund Ludwig Borkheim … S. 97–99; Extrait du discours de
+              Borkheim, prononcé le 10 septembre 1867, in: Archives Bakounine. Vol. 2. Leiden 1965.
+              S. 243–249.) Siehe auch <ref target="B00355">S. L. Borkheim an Engels, 17.9.1867</ref>
+              und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T095035+0200" comment="346f."?>Erl. <?oxy_comment_end?>
+              Borkheims Rede kam anonym 1867 in Brüssel als Broschüre unter dem Titel „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Ma Perle Devant le Congrès de
+                Genève</bibl>“ und in deutscher Übersetzung als „Meine Perle vor dem Genfer
+              Congress“ 1868 in Zürich heraus.</note></seg> Er wollte auch Deine Beihilfe. <seg type="comment"><orig>Unsrer Verabredung gemäß</orig><note xml:id="c65fdb47-ac6a-44cc-b258-772aca8010d0">Siehe <ref target="B00321"><?oxy_comment_start author="reichhoff" timestamp="20180525T161056+0200" comment="(Br. 312.6–8)"?>Engels
+                an Marx, 15.8.1867 <?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>schrieb ich ihm,</orig><note xml:id="edaa7848-47a6-46f0-a59c-bb8fb4f47e12">Marx’ Brief an Borkheim, geschrieben
+              etwa zwischen 27.8.1867 (siehe <ref target="B00332">S. L. Borkheim an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180525T161244+0200" comment="(Br. 323)"?>27.8.<?oxy_comment_end?>1867</ref>
+              und 4. September 1867, ist nicht überliefert.</note></seg> Du seist noch nicht
+          zurückgekehrt. Du kannst das Geld aber an <seg type="comment"><orig> seinen Associé <hi rendition="#u"><persName key="pdrPo.001.004.000011517">Schüler</persName></hi></orig><note xml:id="fb0dc0a9-0201-4f23-ac94-efa699ad2e6d">Schyler.</note></seg>, 65 Fenchurchstreet, schicken. Es sind jedoch nicht 45, sondern
+          50 £. Bei Nachsehn fand ich nämlich, daß der Wechsel an 48 £ u. Borkheim sagte darauf, er
+          könne mir wohl die volle Summe v. 50 £ geben. <seg type="comment"><orig>Ich habe Dir das
+              nicht früher mitgetheilt, weil ich von Tag zu Tag auf das mir versprochne Geld lauerte
+              u. dann die 50 £ selbst zahlen wollte.</orig><note xml:id="nj3s_p4c_yfb">Zur
+              Geldübersendung siehe <ref target="B00284"><?oxy_comment_start author="reichhoff" timestamp="20180525T161414+0200" comment="(Br. 275.22–23)"?>Engels
+                an Marx, 26.<?oxy_comment_end?>6.1867</ref> , <ref target="B00285"><?oxy_comment_start author="reichhoff" timestamp="20180525T161515+0200" comment="(Br. 276.80–81)"?>Marx
+                an Engels, 27.<?oxy_comment_end?>6.1867</ref>, <ref target="B00300"><?oxy_comment_start author="lindenberg" timestamp="20190618T100759+0200" comment="(Br. 291.4–16)"?>Marx
+                an Engels, 20.7.1867<?oxy_comment_end?></ref>, <ref target="B00338"><?oxy_comment_start author="reichhoff" timestamp="20180525T161939+0200" comment="(Br. 329.5–8)"?>Engels
+                an Marx, 1.<?oxy_comment_end?>9.1867</ref>, sowie <ref target="B00355">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180525T162235+0200" comment="(Br. 346.5–7)"?>Borkheim
+                an Engels, 17.<?oxy_comment_end?>9.1867</ref> und <ref target="B00360">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180525T162718+0200" comment="(Br. 351.11)"?>Borkheim
+                an Marx, 24.9.1867<?oxy_comment_end?></ref>.</note></seg></p>
+        <p>Einliegend</p>
+        <p>1. <seg type="comment"><orig>die letzten Druckbogen</orig><note xml:id="d4d90ee4-a441-487e-9ab5-f075a2beea44"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+            1867</bibl>.</note></seg>.</p>
+        <p>2. <seg type="comment"><orig>2 <bibl sameAs="ed_vyj_nhf_lbb"><expan>D<ex>iplomatic</ex></expan> Reviews</bibl></orig><note xml:id="f8c870db-c499-4ca4-8d9a-316b21e1792d">Siehe <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180525T162838+0200" comment="(Br. 330.4–5"?>Engels
+                an Marx, 2.9.1867<?oxy_comment_end?></ref> „die versprochnen Free presses ...“ und
+              Erl.).</note></seg> u. 1 Nummer von <bibl sameAs="ed_qkf_ghf_lbb">Courrier Français</bibl>.</p>
+        <p>Was die letzten Bogen betrifft, so haben sie, <hi rendition="#u">gegen meine Anordnung, </hi><seg type="comment"><orig>den<hi rendition="#u"> Nachtrag
+                zu den Noten</hi></orig><note xml:id="cb1140d5-de07-44a3-936a-5f19c7816e39">Karl
+              Marx: Nachtrag zu den Noten des ersten Buchs. In: <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                Buch 1. Hamburg 1867.</bibl> S. 757–763. (MEGA² II/5. S. 620–625.)</note></seg><hi rendition="#u"> groß</hi> u. <seg type="comment"><orig>den <hi rendition="#u">Anhang
+                über die Werthform</hi></orig><note xml:id="fbd365a2-b4e6-40f4-b62d-ae6ff8fb539d">Siehe Karl Marx: Anhang zu Kapitel I, 1. Die Werthform. In: Ebenda. S. 764–784.
+              (MEGA² II/5. S. 626–649.)</note></seg><hi rendition="#u"> klein</hi> gedruckt. <pb/>
+          Es geschah dieß wohl, damit das Buch nicht weniger u. nicht mehr als 50 Bogen betrage.
+            <persName key="pdrPo.001.004.000003136">Meißner</persName> hat nach meiner Ansicht einen
+          groben Bock geschossen, indem er den Verkaufspreis von 3 Th. auf 3 Th. 10 Sgr. erhöht hat.
+          Es ist aber auch möglich, daß er nachträglich noch so viel feste Bestellungen erhielt, daß
+          er kaufmännisch richtig operirt hat.</p>
+        <p>Um Dir <seg type="comment"><orig>den Artikel im <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                  Français</bibl></hi> (den Du mir nach Durchlesen <hi rendition="#u">zurückschicken</hi> mußt): <hi rendition="#u">„Les Conditions de la
+              Paix“</hi></orig><note xml:id="d4394158-d361-48c5-80da-ba26c64ddc55">Lucien Dubois:
+              Les conditions de la paix. In: Le Courrier français. Paris. Nr. 77, 2. September 1867.
+              S. 1, Sp. 6 bis S. 2, Sp. 2. In diesem Artikel, der aus der „Liberté“, Bruxelles,
+              übernommen worden war, wurde Marx’ Rede auf der Sitzung des Generalrates vom
+              13. August 1867 (siehe folgende
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T171236+0200" comment="331i"?>Erl.<?oxy_comment_end?>)
+              unter Auslassung der Passage „That“ bis „Paris“ (siehe Minutes 1866/1867. S. 586.9–14)
+              wiedergegeben, ihr Verfasser genannt und als „une grande autorité“ vorgestellt. (Siehe
+              Les conditions de la paix. In: La Liberté. Bruxelles. Nr. 8, 25. August 1867. S. 2.)
+              Den Text dieser Veröffentlichung im „<bibl sameAs="ed_qkf_ghf_lbb">Courrier français</bibl>“ siehe Andréas, Grandjonc, Pelger (Hrsg.): Unbekanntes von
+              Friedrich Engels und Karl Marx. Tl. 1: 1840–1874. Trier 1986. S. 81/82 und
+              83/84.</note></seg> zu erklären, Folgendes:</p>
+        <p><seg type="comment"><orig>Du weißt, daß ich im General Council
+              gegen den Anschluß an die Friedenswindbeutel sprach. Meine Rede dauerte about
+              ½ hour.</orig><note xml:id="f5f4b658-0038-4917-94d2-cdbe7e2389ab"> Auf der Sitzung des
+              Generalrates vom 13. August 1867 hatte Marx u.a. über die Stellung der IAA zum Kongreß
+              der Friedens- und Freiheitsliga (siehe <ref target="B00313">S. L. Borkheim an Marx,
+                5.8.1867</ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T103703+0200" comment=" 304g und 304h"?>Erläuterungen<?oxy_comment_end?>)
+              gesprochen und einen Resolutionsentwurf zu dieser Frage eingebracht, der einstimmig
+              angenommen wurde. Sein Resolutionsentwurf lautete: „… the delegates of the Council be
+              instructed not to take any official part in the Peace Congress, and to resist any
+              motion that might be brought forward at the Working Men’s Congress tending to take an
+              official part.“ (Siehe Minutes 1866/1867. In: MEGA<hi rendition="#sup">2</hi> I/20.
+              S. 585.27–586.16.)</note></seg>
+          <seg type="comment"><orig><persName key="pdrPo.001.004.000001296">Eccarius</persName> als
+              Protokollführer gab einen Bericht im <bibl sameAs="ed_f1z_lhf_lbb"><hi rendition="#u">Beehive</hi></bibl></orig><note xml:id="d1ae00a6-ba2a-452e-8d02-47c08331a8f2">International Working Men’s Association.
+              The ordinary weekly council meeting … In: The Bee-Hive Newspaper. London. Nr. 305,
+              17. August 1867. S. 1, Sp. 3/4. (Siehe MEGA<hi rendition="#sup">2</hi> I/20.
+              S. 585/586.) Ein weiterer kurzer Pressebericht erschien im „Working Man“ (siehe
+              International Working Men’s Association. The General Council … In: The Working Man.
+              London. Nr. 21, 17. August 1867. S. 10, Sp. 1.)</note></seg>, worin er nur ein paar
+          Sätze von mir brachte. <seg type="comment"><orig>Der Wiederabdruck im <subst>
+                <del rendition="#s">Beehive<sic ana="#break-off"/></del>
+                <add place="intralinear"><hi rendition="#u">Courrier</hi></add>
+              </subst> läßt selbst wieder die Sätze über die Nothwendigkeit der Armeen vis à vis
+                Rußland<add place="superlinear">, u. über die <hi rendition="#u">Feigheit</hi> der
+                Kerls</add> weg.</orig><note xml:id="ed0922a7-8046-42ca-a720-cc44932bddd8"><bibl sameAs="ed_qkf_ghf_lbb">Le Courrier français.</bibl> – Marx meinte
+              folgende Stelle aus seiner Rede auf der Sitzung des Generalrates vom 13. August 1867:
+              „That party would fain leave Russia alone in the possession of the means to make war
+              upon the rest of Europe, while the very existence of such a power as Russia was enough
+              for all the other countries to keep their armies intact. It was more than probable
+              that some of the French Radicals would avail themselves of the opportunity to make
+              declamatory speeches against their own Governments, but such would have more effect if
+              delivered at Paris.“ (Siehe Minutes 1866/1867. In: MEGA<hi rendition="#sup">2</hi>
+              I/20. S. 586.9–14.)</note></seg></p>
+        <p>Nichtsdestoweniger hat diese Geschichte viel Lärm gemacht. Die
+          Esel v. dem <seg type="comment"><orig>Peace Congress</orig><note xml:id="d0de5a61-38e0-4157-9e58-135bc7160e65">Siehe <ref target="B00313">S. L.
+                Borkheim an Marx, 5.8.1867</ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T105429+0200" comment="304h."?>Erl.<?oxy_comment_end?></note></seg>,
+          deren Agent in London <persName key="ed_xhr_wjt_zgb">M. de Colleville</persName>, <hi rendition="#u">änderten</hi> ganz ihr ursprüngliches Programm u. schmuggelten in dem
+          neuen, das viel demokratischer ist, selbst die Worte ein <seg type="comment"><orig> „the
+              harmonizing of economic interests with liberty”</orig><note xml:id="e4149d08-ceaa-40a3-a3f1-d716b51eda69">Siehe Zeugenbeschreibung zu
+                <?oxy_comment_start author="lindenberg" timestamp="20190618T105635+0200" comment="(Br. 330.ZB)"?><ref target="B00339">Engels an Marx, 2.9.1867<?oxy_comment_end?></ref>.</note></seg>,
+          eine weitschichtige Phrase, die auch blossen <hi rendition="#u">freetrade</hi> meinen
+          kann. Sie bombardirten mich mit Zuschriften u. hatten selbst die Frechheit einliegenden
+          Wisch mit dem neuen Programm mir zuzusenden. Die <pb/> Frechheit besteht darin, daß sie
+          mich in der Adresse zum „member of the Geneva etc Congress” ernennen. Der <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb">Courrier</bibl></hi>, ihr
+          lebhaftester Vertreter zu Paris, fällt, wie Du ersehn wirst, von ihnen ab. Derselbe
+          Courrier hat, in Folge <seg type="comment"><orig>eines Privatbriefs, den ich an den
+                <persName key="pdrPo.001.004.000004910">Vermorel</persName> vor about 14 Tagen
+              schrieb</orig><note xml:id="d15b03a4-ecd8-4e30-8a0c-fc641f3cb027">Siehe <ref target="B00336"><?oxy_comment_start author="reichhoff" timestamp="20180618T141925+0200" comment="(Br. 327)"?>Marx
+                an A. Vermorel, 27.8.1867<?oxy_comment_end?></ref>.</note></seg> (ich kenne ihn
+          nicht) <seg type="comment"><orig>die Politik mit Bezug auf Rußland geändert</orig><note xml:id="c9254d2f-c7ac-4853-9c21-a600a9114ea1">Siehe <ref target="B00336"><?oxy_comment_start author="reichhoff" timestamp="20180618T142002+0200" comment="(Br. 327.9–10"?>Marx
+                an A. Vermorel, 27.8.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T110054+0200" comment="327c"?>Erl.<?oxy_comment_end?>).</note></seg>.</p>
+        <p>Die Hauptsache war, daß diese grossen Herrn vom
+          Friedenscongress, <persName key="pdrPo.001.004.000002266">Victor Hugo</persName>,
+            <persName key="pdrPo.001.004.000001724">Garibaldi</persName>, <persName key="pdrPo.001.004.000000447">L. Blanc</persName> etc unsere Intern. Assoc. mit der
+          äussersten Vornehmheit ignorirt hatten. Ich habe sie jezt gezwungen uns als eine Macht
+          anzuerkennen.</p>
+        <p>Ich habe von<hi rendition="#u"> Neapel</hi> die 2 ersten Nummern eines Blatts erhalten:
+            „<hi rendition="#u"><bibl sameAs="ed_v4d_kz3_tgb">Libertà e Giustizia</bibl>“</hi>. <seg type="comment"><orig>In <expan>d<ex>er</ex></expan> N. I erklären sie sich für <hi rendition="#u">unser Organ</hi>.</orig><note xml:id="cfa1ca1c-7cc6-4e14-974d-6a1e4390d51c">Am 17. August 1867 erschien in Neapel
+              die erste Nummer der sozialistischen Wochenschrift „<bibl sameAs="ed_v4d_kz3_tgb" type="periodika">Libertà e Giustizia</bibl>“, Organ des wenige Monate zuvor
+              gegründeten gleichnamigen Vereins. In der ersten Nummer sind sowohl das Programm der
+              Zeitung als auch das der Organisation abgedruckt. Siehe <bibl sameAs="zotero-604880-5C3ZFCBR" type="primary">Libertà e Giustizia. Edizione
+                integrale. Salerno 1977</bibl>. </note></seg> Ich habe sie <persName key="pdrPo.001.004.000001296">Eccarius</persName> zur Vorlage auf dem Congress
+          mitgegeben. <seg type="comment"><orig>Die N. II, die ich Dir schicken werde, enthält sehr
+              guten Angriff auf<hi rendition="#u">
+                <persName key="pdrPo.001.004.000003114">Mazzini</persName></hi>.</orig><note xml:id="bf168ab8-844d-40f4-b504-9a367970e73c">La questione romana. In: Libertà e
+              Giustizia. Neapel. Nr. 2, 24. August 1867. S. 9, Sp. 1, bis S. 11, Sp. 1.</note></seg>
+          Ich vermuthe, daß <persName key="pdrPo.001.004.000000231">Bakunin</persName> dabei
+          ist.</p>
+        <p><seg type="comment"><orig>Was das Confisciren u. Verbieten
+              meines <bibl sameAs="zotero-604880-PT9GISVC">Buchs</bibl></orig><note xml:id="ec68359b-d10e-45ed-86d3-8dd370f3bdcc"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> Siehe
+                <ref target="B00338"><?oxy_comment_start author="reichhoff" timestamp="20180618T142112+0200" comment="(Br. 329.23–24)"?>Engels
+                an Marx, 1.9.1867<?oxy_comment_end?></ref> „Es ist ein Glück ...“.</note></seg>
+          angeht, so ist es doch eine andre Sache Wahlpamphlets zu verbieten oder ein Buch von
+          50 Bogen, was so gelehrt aussieht, u. sogar griechische Noten enthält. <pb/> Allerdings
+          möchte das nichts helfen, wenn ich statt 12 counties in England 12 Regierungsbezirke in
+          Preussen zur Charakteristik der Verhältnisse der Landarbeiter gewählt hätte. Auch scheint
+          mir, daß Herr <persName key="pdrPo.001.004.000000441">Bismarck</persName> sich die Sache
+          zweimal besehn wird, bevor er meine Angriffe auf sein Régime in London u. Paris
+          provocirt.</p>
+        <p>Wie <del rendition="#s">es</del> übrigens die pr. Zustände,
+          zeigt <seg type="comment"><orig>folgende Erklärung <hi rendition="#u"><persName key="pdrPo.001.004.000002255">O. Hübners</persName></hi>,</orig><note xml:id="nbp4_w5c_yfb">Siehe Bei Herrn Dr. Otto Hübner … In: Die Zukunft. Berlin.
+              Nr. 198, 25. August 1867. S. 1/2. Rubrik: Zur Wahlbewegung. – Marx benutzte diese
+              Erklärung <persName key="pdrPo.001.004.000002255">Hübners</persName> vom 23. August
+              1867 für eine Notiz, die im „<bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                français</bibl>“ am 6. September 1867 veröffentlicht wurde. Siehe <ref target="B00344"><?oxy_comment_start author="reichhoff" timestamp="20180618T142244+0200" comment="(Br. 335.7–11)"?>Marx
+                an Engels, 7.9.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T121643+0200" comment="335e"?>Erl. <?oxy_comment_end?>
+              – <persName key="pdrPo.001.004.000002255">Otto Hübner</persName>, Ökonom und
+              Statistiker, gründete 1849 in Berlin das Statistische Zentralarchiv. Er betrachtete
+              als einer der ersten in Deutschland die Statistik als eine wissenschaftliche Basis für
+              die Analyse ökonomischer und sozialer Zustände mit dem Ziel, sie für künftige
+              volkswirtschaftliche Vorhaben nutzbringend auszuwerten. (Siehe Otto Hübner: Siebenter
+              Jahres-Bericht des Statistischen Central-Archives für das am 30. Juni 1860 abgelaufene
+              Jahr. In: Jahrbuch für Volkswirtschaft und Statistik. Leipzig. Jg. 7. 1861.
+              S. 228–230.) – Für die Wahlen zum ersten gesetzgebenden Reichstag des Norddeutschen
+              Bundes, die am 31. August 1867 stattfanden, trug die
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T122442+0200" comment="vorher: (siehe Erl. 89.73 (89k) {Jg. 1866, Liebknecht an Marx, 14.4.1866})"?>Deutsche
+              Fortschrittspartei<?oxy_comment_end?> Hübner ein Mandat an, das er unter Darlegung
+              seiner politischen Ansichten annahm. Er wurde jedoch nicht zum Abgeordneten
+              gewählt.</note></seg> Direktor des <hi rendition="#u">statistischen
+            Centralarchivs</hi>, in <subst>
+            <del rendition="#s">sein<ex>em</ex><sic ana="#break-off"/></del>
+            <add place="intralinear">einem</add>
+          </subst> Schreiben an seine Wähler:</p>
+        <p>„Das Volk ist bereits überlastet. Ausser den Waffenfabriken
+          liegen beinahe alle Gewerbe darnieder, um jedes kleine Amt bewerben sich Hunderte von
+          Hungrigen, in den Städten wächst die Zahl der leerstehenden Wohnungen u. der Bewohner,
+          welche keine Miethe bezahlen können, Güter u. Häuser kommen massenhaft zur Subhastation,
+          die Armenanstalten sind <hi rendition="#u">von verkrüppelten Siegern</hi> u. Arbeitslosen
+          belagert, das Vertrauen zu Gegenwart u. Zukunft fehlt überall u. in das Budget der
+          Aermsten dringt die Wahrnehmung, <hi rendition="#u">daß er für die Dienste des Staats
+            bereits mehr zahlt als sie werth sind.</hi>“</p>
+        <p>In Berlin hat weder die Regierung, noch <seg type="comment"><orig>die nationalliberale Partei einen einzigen Kandidaten durchgesezt.</orig><note xml:id="e2197d6e-7820-472f-93a8-cf6034ffc9ce">Siehe <ref target="B00265"><?oxy_comment_start author="reichhoff" timestamp="20180618T142657+0200" comment="Br. 256"?>Marx
+                an Engels, 7.5.1867<?oxy_comment_end?></ref> „die National-Liberalen“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190618T123126+0200" comment="256j."?>Erl.<?oxy_comment_end?></note></seg>
+          Welche verfluchte Hornochsen aber die <seg type="comment"><orig>Fortschrittler</orig><note xml:id="ecbe9275-da68-47c5-a3d6-786df227dc67"><?oxy_comment_start author="lindenberg" timestamp="20190618T143851+0200" comment="urspr.: Siehe Erl. 89k.{Jg. 1866, Liebknecht an Marx, 14.4.1866}"?>Mitglieder
+              der Deutschen Fortschrittspartei (1861–1884)<?oxy_comment_end?>.</note></seg>, welche
+          jezt die äusserste Linke bilden, zeigt u.a. folgender Auszug aus ihrem „radikalsten“
+          Organ, der <hi rendition="#u">Zukunft</hi>:</p>
+        <p><seg type="comment"><orig>„Es ist der alles <hi rendition="#u">gleichmachende Snobbismus</hi>, der durch die ganze englische Nation geht, u. dem
+              jede persönliche Thätigkeit unbequem ist … <hi rendition="#u">Derselbe Snobbismus</hi>
+              ist es, welcher fortwährend <hi rendition="#u">auf Verkürzung der Arbeitszeit</hi>
+              dringt u. von Unions wegen <hi rendition="#u">die Ueberstunden</hi>
+              verbietet!“</orig><note xml:id="c8d8732e-2224-4669-b8d4-d3c5c636f3a8">Englische
+              Briefe. (Schluß.) In: Die Zukunft. Berlin. Nr. 199, 27. August 1867. Beil. S. 5,
+              Sp. 2.</note></seg> Sollte man es für möglich halten! Wahrhaftig, verglichen mit der
+          deutschen Presse ist die Pariser Presse, selbst jezt, ein Riese!</p>
+        <closer>Dein<lb/>KMarx. </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00222" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>214</idno>S. Nördlinger an Friedrich Engels in Manchester. Manchester,
+                    Donnerstag, 7. Februar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5139/L VII 179 Fotosign. 7270.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            256 × 203 mm. Wasserzeichen: „A Pirie &amp; Sons 1866“. Aufdruck auf der
+                            ersten Seite: „Jacob Behrens.“, Adresse und die Datumszeile (siehe S.
+                            Nördlinger an Engels,
+                            8.1.1867).<?oxy_comment_start author="lindenberg" timestamp="20180502T164114+0200" comment="Br. 207"?><?oxy_comment_end?>Nördlinger
+                            hat die ersten zwei Seiten vollständig beschrieben, die übrigen zwei
+                            sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p><?oxy_comment_start author="lindenberg" timestamp="20180530T121537+0200" comment="urspr. an dieser Stelle: Über die Beilage (Z. 3) siehe Erl. 214.3."?><?oxy_comment_end?></p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1x_tqj_sx">S. Nördlinger</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-02-07"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Zu Adresse und die Datumszeile siehe <ref target="B00214">S. Nördlinger an
+                        Engels,
+                    8.1.1867</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180502T163958+0200" comment="(siehe Br. 207)"?><?oxy_comment_end?>
+                    Über die Beilage („Mitfolgend Proofcopy ...“) siehe Erl.
+                    <?oxy_comment_start author="lindenberg" timestamp="20180530T121351+0200" comment="Über die Beilage (Z. 3) siehe Erl. 214.3."?></note><?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_ht1_n3z_g1b">Exilantenleben in London u. Manchester
+                        (Schiller-Anstalt, Arbeiter-Bildungsverein, Albert-Club, Versammlungsabende
+                        u. ä.)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:51Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> 41, Portland S<hi rendition="#sup">t</hi>
+                    </dateline>
+                    <dateline><hi rendition="#mPrint">Manchester</hi> 7 Feb<hi rendition="#sup">y</hi>
+                        <hi rendition="#mPrint">186</hi>7</dateline><salute>Lieber
+                    Engels</salute></opener>
+                <p>Mitfolgend Proofcopy of the <seg type="comment"><orig>Address to the
+                            Shareholders.</orig><note xml:id="adb3bb09-13bb-48f2-95ec-7ea06ea653f3">Manchester, 6th February, 1867. The Schareholders of the „Manchester
+                            Subscription Library“ … Korrekturexemplar des Entwurfs. Siehe <bibl sameAs="zotero-604880-T9G2NA5G">Circular of the Manchester Schiller
+                                Anstalt February 8, 1867</bibl> (<bibl sameAs="zotero-604880-RYUSZX34">MEGA² I/20. S. 821/822</bibl> und
+                            1915/1916) und <ref target="B00218">Erl. zu S. Nördlinger an Engels,
+                                26.1.1867 („die Library anzuschaffen
+                            ...“</ref>)<?oxy_comment_start author="lindenberg" timestamp="20180504T104351+0200" comment="Erl. 210a"?><?oxy_comment_end?>sowie
+                                <ref target="B00224">S. Nördlinger an Engels, 11.2.1867</ref> („die
+                            letzte Subscriptions Liste
+                            ...“).<?oxy_comment_start author="lindenberg" timestamp="20180504T104653+0200" comment="(Br. 216.5–6)"?></note><?oxy_comment_end?></seg></p>
+                <p>Bis jetzt habe ich die Erlaubniß einer Anzahl deutscher Herren ihren Namen
+                    beizusetzen: <seg type="comment"><orig>Z.<?oxy_comment_start author="lindenberg" timestamp="20180503T111832+0200" comment="vorher J.B.
+Quelle der Zuweisung? "?>B<?oxy_comment_end?>. <persName key="ed_i5v_scx_rdb">Stern</persName></orig><note xml:id="b25d24da-5252-4a7b-ac49-b97bb688b776"><persName key="ed_i5v_scx_rdb">Sigismund J. Stern</persName>.</note></seg>,
+                        <persName key="ed_ep4_kqx_rdb">Reiss</persName>, <persName key="ed_byt_4g5_2z">Leppoc</persName>, u.a.m. Ich will heute zu Rev<hi rendition="#sup">d</hi> M<hi rendition="#sup">r</hi> <persName key="ed_b5b_4fz_ndb">Bently</persName> M<hi rendition="#sup">r</hi> <persName key="ed_m5t_z1y_rdb">Braybrooke</persName>, <persName key="ed_ytp_zhy_rdb">Foxcroft</persName>
+                    <persName key="ed_j25_hjy_rdb">Cottam</persName> – An D<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000004345">Schunk</persName>
+                    <?oxy_comment_start author="lindenberg" timestamp="20180503T163253+0200" comment="Ein Sohn von Martin Schunck war Henry Edward Schunck (1820-1903) Chemiker und promoviert.  --&gt; Vielleicht doch dieser, weil promoviert?"?>schrieb<?oxy_comment_end?>
+                    ich deßhalb gestern Abend schon. –</p>
+                <p><seg type="comment"><orig>Auf der Liste der Schareholders steht auch Hr <persName key="pdrPo.001.004.000001409">G Ermen</persName>
+                            <pb/> Die Actie ist uns doch sicher?</orig><note xml:id="d5482099-1967-4663-aa04-1c0102430abb">Siehe <bibl sameAs="zotero-604880-S2CBKBCU">„Subscription List …“</bibl> (<ref target="B00218">Erl. zu S. Nördlinger an Engels, 26.1.1867: „die
+                                Library anzuschaffen
+                                ...“</ref>).<?oxy_comment_start author="lindenberg" timestamp="20180504T103248+0200" comment="Erl.  210a
+"?><?oxy_comment_end?><persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName> und weitere
+                            Spender beabsichtigten sich mit einem Aktienanteil („One Share“) zu
+                            beteiligen.</note></seg> Wäre es nicht gut auch den Namen bei den
+                    Promoters zu haben? Wollen sie es besorgen</p>
+                <p>Besten Gruß</p>
+                <closer><signed>SNördlinger</signed></closer>
+                <postscript>
+                    <p>Copie der <bibl sameAs="zotero-604880-S2CBKBCU">Sharenholderslist</bibl> hat
+                            <persName key="pdrPo.001.004.000001107">Davisson</persName>. Wenn wir
+                        uns an der Börse wieder nicht treffen sollten – mögte ich Sie kämen zur <seg type="comment"><orig><orgName key="ed_zbn_cdn_jdb">Anstalt</orgName> </orig><note xml:id="f9422d5b-67c3-48c2-8fb4-fb4b69f00435"><orgName key="ed_zbn_cdn_jdb">Schiller-Anstalt in Manchester</orgName>.
+                                Siehe <ref target="B00023">Erl. zu S. Nördlinger an Engels,
+                                    26.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180504T105856+0200" comment="Erl. 22a"?></note><?oxy_comment_end?></seg>–
+                    </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

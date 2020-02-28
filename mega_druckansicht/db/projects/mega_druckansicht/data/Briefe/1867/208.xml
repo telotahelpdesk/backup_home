@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00215" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>208</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 19. Januar 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4470/L VI 603</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 226 × 179 mm. Prägung:
+                            eine Krone auf dem Schild. Die erste und dritte Seite hat Marx
+                            vollständig beschrieben, die zweite und vierte sind leer.
+                            Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes bzw. der beschriebenen Seiten: „1,“ bzw. „1,1“.</p><p>Von unbekannter Hand: das Zeichen „+“ mit Bleistift auf beiden beschriebenen Seiten oben rechts.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2013</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt: Bw 3 (1913).
+                            S. 360/361</bibl></witness><witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig: MEGA<hi rendition="#sup">1</hi> III/3
+                            (1930). S. 373/374.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-01-19"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00219"/>
+                </correspContext>
+                <note>Engels beantwortet den Brief am 29. Januar 1867 (<ref target="B00219">Engels an Marx, 29.1.1867</ref>).
+                    <?oxy_comment_start author="lindenberg" timestamp="20180403T144504+0200" comment="(Br. 211)
+"?></note>
+                <?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_rw2_4vl_qx">Preußen</term>
+                    <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:44:45Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:55+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 19 Jan. 1867</dateline>
+                    <salute>Lieber Engels</salute>
+                </opener>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Meißner</persName>, nach langem
+                            Schweigen, das er mit Ueberbeschäftigung entschuldigte, schrieb mir,
+                            mein Plan „sei ihm nicht recht".</orig><note xml:id="noxq_zks_zdb">Siehe
+                                <ref target="B00209"> O. Meißner an Marx, 20.12.1866</ref> sowie
+                                <ref target="B00191">Marx an Engels, 10.11.1866</ref> und
+                            Erl.).</note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20180531T104708+0200" comment="Siehe Otto Meißner an Marx, 20. Dezember 1866 (Br. 202) sowie Marx an Engels, 10. November 1866 (Br. 185.8–9 und Erl.)"?></p>
+                <?oxy_comment_end?>
+                <p>1) wolle er die 2 Bände auf einmal fertig in
+                    Hand haben;</p>
+                <p>2) nicht nach u. nach drucken, da er per Tag einen
+                    Druckbogen liefern u. mir nur die lezte Correktur <add>(Revision)</add>
+                    <subst>
+                        <del>liefern</del>
+                        <add>lassen</add>
+                    </subst> wolle.</p>
+                <p><seg type="comment"><orig>Ich antwortete ihm</orig><note xml:id="cce03ae2-8ca9-46db-afe6-1a92c1cff0ab">Der Brief von Marx an
+                            Meißner, geschrieben zwischen 20. Dezember 1866 und 19. Januar
+                            1867 (<ref target="mega_sq2_4sf_g1b">Marx an O. Meißner, zw. 20.12.1866
+                                u. 19.1.1867</ref>), konnte nicht ermittelt werden.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20180404T100754+0200" comment="= Regest_1867_1866-12-20bis1867-01-19_M-Meißner.xml"?>
+                    <?oxy_comment_end?>ad 2), sei mir das gleichgültig, da er in kurzer Zeit das
+                    ganze <seg type="comment"><orig>Manuscript von Band I</orig><note xml:id="a4feec00-2a45-4355-ac19-b2ee423e569c">
+                            <p><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital.</bibl> Siehe <ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+                                    15.1.1866.</ref> („1<orig>200 Seiten Manuscript</orig>“).
+                                <?oxy_comment_start author="lindenberg" timestamp="20180410T154658+0200" comment="Siehe Erl. 6b."?></p>
+                            <?oxy_comment_end?>
+                            <p> </p>
+                        </note></seg> haben könne. Fange er später an zu drucken u. drucke um so
+                    rascher, so bleibe sich das gleich. Er möge aber wohl bedenken, ob bei einem
+                    Buch mit so vielen Randnoten in verschiednen Sprachen die Art Correctur, wie er
+                    sie wolle, ohne grosse Verunstaltung durch Druckfehler, zulässig. ad 1) so
+                    sei das unmöglich ohne lange Verzögrung der ganzen Sache, auch keines wegs in
+                    unsrem Contract abgemacht. Ich setzte ihm die verschiednen Gründe aus einander,
+                    habe aber noch keine Antwort.</p>
+                <p>Ich kann mich auf <expan>d<ex>en</ex></expan> 2. Band, von der
+                    Verzögrung abgesehn, um so weniger einlassen, als ich <expan>n<ex>a</ex>ch</expan> Erscheinen <expan>d<ex>es</ex></expan> ersten meiner
+                    Gesundheit wegen Pause machen u. überhaupt <seg type="comment"><orig>nach <expan>d<ex>em</ex></expan>
+                            Continent muß,</orig><note xml:id="b506e65e-34a5-4c3e-9c35-cb9c2b151d35">Marx reiste in der Zeit vom 12. April bis 19. Mai 1867 nach
+                            Hamburg und Hannover . Siehe <ref target="B00247">Marx an Engels,
+                                13.4.1867</ref> und <ref target="B00271">Marx an Engels, um
+                                22.5.1867</ref> und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180404T145024+0200" comment="Siehe Marx an Engels, 13. April und um 22. Mai 1867 (Br. 237.3 und 262.3) und Erl. 237a"?></note><?oxy_comment_end?></seg>
+                    um zu sehn, ob ich meine Verhältnisse in irgend einer Weise regeln kann. Diese
+                    werden täglich schlimmer u. alles droht mir über dem Kopf zusammenzubrechen. Der
+                    Bäcker allein hat 20 £ zu fordern, u. alle Teufel von Metzger, Grocer,
+                    Taxes u.s.w. Um das Ganze zu verschönen, <seg type="comment"><orig>erhalte ich
+                            vor einiger Zeit <pb/> einen Brief von <add>einem</add> Mr. <persName key="ed_hd1_vkv_jdb">Burton</persName> in Torquay, worin dieser mir
+                            anzeigt, er habe das Haus von <persName key="ed_m5m_fhj_nz">Sawyers</persName> gekauft u. mich 1) wegen der rückständigen
+                            Rente für letztes quarter tritt, 2) da März mein Contract zu Ende
+                            mich auffordert zu erklären, ob ich das Haus weiter nehmen will, sei es
+                            für längere lease, sei es jährlich. Ich antwortete zu nächst nicht.
+                            Darauf erhalte ich gestern zweiten Brief, ich müsse mich erklären, da
+                            sonst sein „agent“ Schritte thun müsse wegen Vermiethung an
+                            andre.</orig><note xml:id="f50b4ffd-76e4-45bb-8ee3-e49a6aac5d6c">Zwei
+                            Briefe von <persName key="ed_hd1_vkv_jdb">Burton</persName> an Marx,
+                            geschrieben vor dem 19. Januar 1867 – <ref target="mega_syk_g5x_f2b">Burton an Marx, vor 19.1.1867(1)</ref>;
+                                <ref target="mega_kmx_4jv_jdb">Burton an Marx, vor
+                                19.1.1867(2)</ref>  – sind nicht überliefert. – <persName key="ed_m5m_fhj_nz">Sawyer</persName>, der ehemalige Hausbesitzer.
+                            Siehe <ref target="B00181">Marx an Engels, 3.10.1866.</ref>
+                        </note></seg><?oxy_comment_start author="lindenberg" timestamp="20180404T145959+0200" comment="Siehe Marx an Engels, 3. Oktober 1866 (Br. 176.3–20)"?>
+                    <?oxy_comment_end?>So in a
+                    fix.<?oxy_comment_start author="lindenberg" timestamp="20180404T134822+0200" comment="Übersetzungen für in a fix : 
+Adjektiv
+aufgeschmissen
+in a fix"?></p>
+                <?oxy_comment_end?>
+                <p><seg type="comment"><orig>Was das Körperliche betrifft,
+                            so seit einigen Wochen besser, ein paar kleine Karbunkel an linker
+                            Lende, aber unbedeutend.</orig><note xml:id="bc016ffc-82ca-4fb0-bf63-28d935c331dc">Siehe <ref target="B00191">Marx an Engels, 10.11.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20180405T102612+0200" comment="Siehe Marx an Engels, 10. November 1866 (Br. 185.16–18)"?></note><?oxy_comment_end?></seg>
+                    Nur schreckliche Schlaflosigkeit, die mich sehr restless macht, aber
+                        <add>wohl</add> mehr psychische Gründe hat.</p>
+                <p><seg type="comment"><orig>Thanks für den <persName key="pdrPo.001.004.000004052">Rogers</persName>. Sehr viel Material
+                            darin.</orig><note xml:id="a42f68cb-34d5-484f-be72-e46c3c6f8efb"><bibl sameAs="zotero-604880-477AUCWJ">James Edwin Thorald
+                                Rogers: A history of agriculture and prices in England from the year
+                                after the Oxford Parliament … Vol. 1.2. Oxford
+                                1866.</bibl> – Siehe <ref target="B00208">Marx an Engels,
+                                17.12.1866</ref> und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180405T102834+0200" comment="Siehe Marx an Engels, 17. Dezember 1866 (Br. 201.38–42 und Erl.)"?></note><?oxy_comment_end?></seg>
+                    <seg type="comment"><orig>Was die strike frage oder wenigstens dispute <expan>d<ex>er</ex></expan> weavers
+                            in Manchester angeht, so wäre es mir lieb, wenn Du den state of affairs
+                            mir präcis schriebst, da ich es noch aufnehmen kann.</orig><note xml:id="f92648a6-0f8f-41e8-aaa2-dda269fb1cf8">Siehe <ref target="B00219">Engels an Marx, 29.1.1867</ref> („Mit den Working men ...“ ) und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180405T103130+0200" comment="Siehe Engels an Marx, 29. Januar 1867 (Br. 211.11–24 und Erl.)"?></note><?oxy_comment_end?></seg></p>
+                <p>Politik eingefroren u. selbst für den russischen Bär zu
+                    kalt. Die Preussen <seg type="comment"><orig>mit ihrer schwarzweißrothen
+                            Fahne</orig><note xml:id="fcc3215e-bc1f-465b-9a06-5901f4383907">Schwarzweißrot – die Fahne des Norddeutschen Bundes, der 1866
+                            unter der preußischen Vorherrschaft gebildet wurde und 22 Mittel-
+                            und Kleinstaaten nördlich der Mainlinie umfaßte. Siehe auch <ref target="B00146">Erl. zu Marx an Engels, 27.7.1866</ref> („der
+                            Friede, wenn auch Morgen geschlossen“). <?oxy_comment_start author="lindenberg" timestamp="20180405T110546+0200" comment=" siehe Erl. 142k."?>
+                            <?oxy_comment_end?>
+                        </note></seg> gut!</p>
+                <p>Besten Gruß an Mrs. <persName key="pdrPo.001.004.000000698">Lizzy</persName>.</p>
+                <p><seg type="comment"><orig>Was sagt <persName key="pdrPo.001.004.000001969">Gumpert</persName> von <persName key="pdrPo.001.004.000003253">Moilin</persName>?</orig><note xml:id="ce7aba79-476d-43f3-9fd9-5584873eb771"><bibl sameAs="zotero-604880-VFYL79J7">Jules Antoine Moilin:
+                                Leçons de médecine physiologique. Paris 1866.</bibl> Siehe <ref target="B00155">Marx an Engels, 13.8.1866</ref> und Erl. sowie <ref target="B00182">Engels an Marx, 5.10.1866.</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20180405T103724+0200" comment="Siehe Marx an Engels, 13. August (Br. 151.23–24 und Erl.) sowie Engels an Marx, 5. Oktober 1866 (Br. 177.74–76)."?></note><?oxy_comment_end?></seg></p>
+                <closer>D<lb/>KM </closer>
+            </div></body></text></TEI>

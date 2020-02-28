@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00507" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>497</idno>Isaac Hall an Friedrich Engels in Manchester. Manchester,
+                    1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 2146/L IV 146
+                            Fotosign. 9003.</idno></idno>                        
+                        
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127 × 204 mm. Wasserzeichen: „[Pirie] &amp; Sons [186]6“. Die erste
+                            Seite hat Hall zur Hälfte beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des SPD-Archivs: „II 21 F 11“.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002011">Hall, Isaac</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1867-12-31" calendar="#Gregorian"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+                <note>Zur Datierung: Die Datierung des Briefs mit „1867“ ist unsicher, basiert auf
+                    der Lage des Briefes im Konvolut nach einem anderen Brief an Engels (siehe <ref target="B00228">I. Hall an Engels, 21.2.1867</ref>) und der Adresse Halls
+                    „Essex S<hi rendition="#sup">t</hi> Manches.“</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:34Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:06+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Essex S<hi rendition="#sup">t</hi><lb/>Manches.</dateline>
+                    <salute>Dear Engels,</salute>
+                </opener>
+                <p>To day is preeminently one for a walk. What do you say
+                    to starting at 4 &amp; dining with me at 6.</p>
+                <closer>Your <expan>faith<ex>fully</ex></expan><lb/>Isaac Hall </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

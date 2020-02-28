@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00389" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>379</idno>Friedrich Engels an Louis Kugelmann in Hannover. Manchester, Samstag, 12. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 2095</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt dünnem, weißem Papier im Format 214 × 131 mm. Die erste Seite
+                            hat Engels vollständig beschrieben, die zweite Seite ist leer. Die
+                            letzte Passage („Marx wünscht <expan>ausdrückl<ex>ich</ex></expan> daß Sie alle
+                            Artikel ja gleich dort einrücken lassen &amp; erst <hi rendition="#u">nach</hi> dem Erscheinen an ihn schicken.“) hat Engels quer
+                            geschrieben. Schreibmaterial: schwarze Tinte.</p><p/></physDesc></msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                            (1934).<?oxy_custom_end?> S. 498/499.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW 31
+                            (1965).<?oxy_custom_end?> S. 563.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-10-12"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00380"/>
+                </correspContext>
+                <note>Engels beantwortet den Brief Kugelmanns an Marx vom 8. Oktober (siehe <ref target="B00380"><?oxy_comment_start author="lindenberg" timestamp="20190220T151442+0100" comment="Br. 370"?>L.
+                        Kugelmann an Marx, 8.10.1867</ref><?oxy_comment_end?>), den Marx ihm am
+                    10. Oktober 1867 übersandt hatte (siehe <ref target="B00386"><?oxy_comment_start author="lindenberg" timestamp="20190220T151508+0100" comment="Br. 376.3–8"?>Marx
+                        an Engels, 10.10.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage („in zwei fertigen Artikeln“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:13Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 12. Octbr 1867.</dateline>
+                    <salute>Lieber Kugelmann</salute>
+                </opener>
+                <p>Marx schickt mir Ihren <seg type="comment"><orig>Brief</orig><note xml:id="a84f3c94-2766-49cc-ae8f-e5ae5d9e0b4c">Siehe <ref target="B00380"><?oxy_comment_start author="reichhoff" timestamp="20180604T125350+0200" comment="(Br. 370)"?>L.
+                                Kugelmann an Marx, 8.10.1867<?oxy_comment_end?></ref>. Marx legte
+                            den Brief Kugelmanns seinem Brief an Engels vom 10. Oktober (<ref target="B00386">Marx an
+                                <?oxy_comment_start author="reichhoff" timestamp="20180604T125447+0200" comment="(siehe Br. 376.3)"?>Engels,
+                                10.10.1867<?oxy_comment_end?></ref>) bei.</note></seg> vom 8., <seg type="comment"><orig>er meint, ich würde Ihnen besser die gewünschten
+                            Gesichtspunkte zu einer Kritik seines Buchs geben können als er
+                            selbst.</orig><note xml:id="fa288a62-5dcb-4d4f-9c27-85f217c36def">Siehe
+                                <ref target="B00386"><?oxy_comment_start author="reichhoff" timestamp="20180604T125620+0200" comment="(Br. 376.4–8)"?>Marx
+                                an Engels, 10.10.1867<?oxy_comment_end?></ref>. – <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg> Um nun Arbeit zu sparen
+                    habe ich die, meiner Ansicht nach, für <seg type="comment"><orig>den
+                            populus</orig><note xml:id="f17c0ee8-8cb2-42a2-9a7b-49f1ebafa86c">die
+                            breite Öffentlichkeit</note></seg> passendsten Gesichtspunkte gleich
+                        <seg type="comment"><orig>in zwei fertigen Artikeln dargelegt</orig><note xml:id="ec548f78-b25e-4709-966b-369d46b25871">Engels schickte Kugelmann
+                            zwei Rezensionen über den ersten Band des „Kapital“. Nachdem Kugelmann
+                            und seine Frau die beiden Artikel von Engels abgeschrieben hatten,
+                            übergab Louis Kugelmann sie dem Hannoverschen Rechtsanwalt <persName key="ed_ajj_jzj_bdb">Ernst Warnebold</persName> zur Veröffentlichung
+                            im „<bibl sameAs="ed_wxv_qrj_tgb" type="periodika">Hannoverschen
+                                Courier</bibl>“, in der „<bibl sameAs="ed_zyd_ttw_1cb" type="periodika">Zeitung für Norddeutschland</bibl>“ und in der
+                            Bremer „<bibl sameAs="ed_hct_p5j_tgb" type="periodika">Weser-Zeitung</bibl>“. Siehe <ref target="B00380"><?oxy_comment_start author="reichhoff" timestamp="20180604T125850+0200" comment="(Br. 370.20–21)"?>L.
+                                Kugelmann an Marx, 8.<?oxy_comment_end?>10.1867</ref>  und <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180604T134217+0200" comment="(Br. 409.8–10)"?>6.11.1867<?oxy_comment_end?></ref>.
+                            Da dies nicht gelang (siehe <ref target="B00419">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180619T115331+0200" comment="Br. 409.6–8, 10–15),"?>Kugelmann
+                                an Marx, 6.11.1867<?oxy_comment_end?></ref>, sandte Kugelmann eine
+                            der beiden Besprechungen an <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>, der ihre Veröffentlichung in der
+                            Berliner „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“
+                            erreichte. Siehe [Friedrich Engels:] <hi rendition="#u">Karl Marx,</hi>
+                            Das Kapital. Erster Band. Hamburg. Meißner. 1867. 784 Seiten. 8°. In:
+                            Die Zukunft. Berlin. Nr. 254, 30. Oktober 1867. Beil. S. 5. Sp. 1/2.
+                            Rubrik: Bücher-Anzeigen. (MEGA<hi rendition="#sup">2</hi> I/21. S. 3–5
+                            und 1229–1231.) Eine andere von Engels verfaßte Rezension, die Kugelmann
+                            am 21. Oktober 1867 an <persName key="pdrPo.001.004.000000664">Heinrich
+                                Bürgers</persName> zur Veröffentlichung in der „<bibl sameAs="ed_p2v_klh_hfb" type="periodika">Rheinischen Zeitung</bibl>“
+                            gesandt hatte, ist nur als Manuskript überliefert. Bürgers lehnte die
+                            Veröffentlichung ab (siehe <ref target="B00419">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180604T134409+0200" comment="Br. 409.22–36"?>Kugelmann
+                                an Marx, 6.11.1867<?oxy_comment_end?></ref> „... Bürgers hält den
+                            Artikeln nicht geeignet ...“). Siehe [Friedrich Engels:] <hi rendition="#u">Karl Marx, Das Kapital.</hi> Kritik der politischen
+                            Oekonomie. I. Band: Der Produktionsprozeß des Kapitals. Hamburg,
+                            O. Meißner, 1867. (RGASPI. Sign. f. 1, op. 1, d. 2094; MEGA<hi rendition="#sup">2</hi> I/21. S. 6–9 und 1234–1237). Siehe auch die
+                            Briefe Kugelmanns an Marx und Engels (<ref target="B00441">L. u. F.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180604T135800+0200" comment="(Br. 431.29–31)"?>Kugelmann
+                                an Marx ,23.<?oxy_comment_end?>11.1867</ref> „Von Bürgers weiter
+                            noch keine Nachricht ...“, <ref target="B00446">L. Kugelmann
+                                <?oxy_comment_start author="reichhoff" timestamp="20180604T140520+0200" comment="(Br. 436.24–28)"?>an
+                                Engels, 25.<?oxy_comment_end?>11.1867</ref> „Von Bürgers-Cöln keine
+                            Nachricht“ und <ref target="B00488">L. Kugelmann an Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180604T142850+0200" comment="(Br. 479.51–52)"?>16.12.1867<?oxy_comment_end?></ref>
+                            „Hat Bürgers Ihnen geantwortet?“.</note></seg> welche wohl so ziemlich
+                    für jede bürgerliche Zeitung passen, Ihnen aber vielleicht nützlich sind, bis
+                    Sie selbst die 50 Bogen verarbeitet haben, anderweitige Artikel &amp;
+                    Artikelchen zu verfassen. Die Hauptsache ist nicht, <hi rendition="#u">was
+                        </hi>&amp;<hi rendition="#u"> wie</hi>, sondern <hi rendition="#u">daß</hi>
+                    das Buch besprochen &amp; die<persName key="pdrPo.001.004.000001474">
+                        Faucher</persName>s, <persName key="ed_qbw_plf_scb">Michaelis</persName>,
+                        <persName key="pdrPo.001.004.000004074">Roscher</persName>s &amp; <persName key="pdrPo.001.004.000003889">Rau</persName>s <hi rendition="#u">gezwungen
+                    </hi>werden sich darüber zu äußern. In so vielen Zeitungen wie möglich,
+                    politischen &amp; andern, wo es irgend geht. Lange &amp; kurze Notizen, nur
+                    häufige. Die Politik des Todschweigens, die diese Herren gewiß gern zu spielen
+                    suchen werden, muß ihnen unmöglich gemacht werden, &amp; zwar <hi rendition="#u">sobald wie möglich</hi>. Schicken Sie von den Abdrücken immer einen an
+                    Marx, damit wir &amp; auch <persName key="pdrPo.001.004.000003135">Meißner</persName> erfahren was vor sich geht.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002822">Liebknecht</persName> macht sich recht gut im Berliner Viehstall.
+                            Er stimmt consequent <hi rendition="#u">gegen Alles</hi>, &amp; hat auch
+                            eine gute Jungfernrede gehalten – gleich von Zeus Kronion <persName key="pdrPo.001.004.000004465">Simson</persName> unterbrochen. Dabei
+                            war sein Antrag der einzig vernünftige.</orig><note xml:id="e989176b-f605-4e23-8e9c-2832c6fca956">Engels bezieht sich auf
+                            die Rolle <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknechts</persName> als Abgeordneter des Norddeutschen Reichstags
+                            und sein erstes Auftreten während der Debatten zum Paßgesetz am
+                            30. September 1867. Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180604T143119+0200" comment="(Br. 360.24–25)"?>Marx
+                                an Engels, 4.<?oxy_comment_end?>10.1867</ref> „Aus den einliegenden
+                            Zeilen Liebknechts ...“  und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190731T153852+0200" comment="Erl.{360h}"?>Erl.<?oxy_comment_end?>
+                            sowie <ref target="B00390"><?oxy_comment_start author="reichhoff" timestamp="20180604T143208+0200" comment="(Br. 380.10–13)"?>Engels
+                                an Marx, 13.10.1867<?oxy_comment_end?></ref> „Liebknecht macht sich
+                            recht gut ...“.</note></seg></p>
+                <p>Ich hoffe es hat Ihnen <seg type="comment"><orig>seit meiner Abreise</orig><note xml:id="d86c6075-778d-4b40-a5fe-348daab148bd">Engels besuchte die
+                            Kugelmanns während seiner Reise nach dem Kontinent im Juli–August 1867.
+                            Siehe <ref target="B00284"><?oxy_comment_start author="reichhoff" timestamp="20180604T143258+0200" comment="(Br. 275.30–31)"?>Engels
+                                an Marx, 26. Juni 1867 <?oxy_comment_end?></ref>„Ich denke nämlich
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190731T154134+0200" comment="275c"?>Erl.<?oxy_comment_end?> </note></seg>
+                    gut gegangen. Ich sitze hier wieder seit 2 Monaten auf dem Comptoirstuhl &amp;
+                    verliere viel Zeit mit dem lausigen Commerce. Von unserm <seg type="comment"><orig>kleinen fenischen coup de main</orig><note xml:id="nnlm_bnh_1gb">Siehe <ref target="B00358"><?oxy_comment_start author="reichhoff" timestamp="20180604T143504+0200" comment="(Br. 349.8–10)"?>Engels
+                                an Marx, 23.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190731T155752+0200" comment="349.9–10 {349f}"?>Erl.<?oxy_comment_end?> und <?oxy_comment_start author="lindenberg" timestamp="20190731T155847+0200" comment="403s"?>
+                            <ref target="B00413">Erl. zu Marx an Engels,
+                                2.11.1867<?oxy_comment_end?></ref>. </note></seg> hier werden Sie
+                    gehört haben. Das Ding wurde vortrefflich angelegt &amp; ausgeführt; <seg type="comment"><orig>die Hauptleute</orig><note xml:id="nikd_2nh_1gb"><persName key="ed_hsb_ddz_rcb">Thomas Maguire</persName>, <persName key="ed_bwz_2gm_dhb">Edward O’Meagher Condon</persName>, <persName key="ed_nsv_bxm_qcb">Michael Larkin</persName>, <persName key="ed_ux5_lv5_2cb">William Allen</persName> und <persName key="ed_krb_jlb_wcb">Michael O’Brien</persName>.</note></seg> aber
+                    leider gefangen.</p>
+                <p>Mit besten Grüßen</p>
+                <closer>Ihr<lb/>F. Engels.</closer>
+                <postscript>
+                    <p><persName key="ed_ats_ysj_wx">Marx</persName> wünscht
+                                <expan>ausdrückl<ex>ich</ex></expan> daß Sie alle Artikel ja gleich
+                        dort einrücken lassen &amp; erst <hi rendition="#u">nach</hi> dem Erscheinen
+                        an ihn schicken. </p>
+                </postscript>
+            </div></body></text></TEI>

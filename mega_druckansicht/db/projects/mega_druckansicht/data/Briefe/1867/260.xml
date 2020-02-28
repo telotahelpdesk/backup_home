@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00269" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>260</idno>Alphonse Vandenhouten an Karl Marx in London. Bruxelles, Dienstag, 21. Mai 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1701</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 267 × 210 mm. Vandenhouten hat die ersten drei Seiten vollständig beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Das Papier ist an den Rändern und im Falz leicht beschädigt und mit Seidenpapier restauriert. Keine Textverluste.</p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj 15&lt;a–c&gt;“.</p><p/></physDesc></msDesc><listWit><witness><?oxy_comment_start author="lindenberg" timestamp="20190117T175322+0100" comment="mit Druck verglichen - ok"?><bibl sameAs="zotero-604880-2VAJ2EHU">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Kuypers:
+                                                  Alphonse Vandenhouten (1965).<?oxy_custom_end?>
+                                                  S. 93/94.</bibl><?oxy_comment_end?></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000004883">Vandenhouten,
+                                                Alphonse (1842-1894)</persName>
+                                        <placeName key="ed_jtx_hgv_cbb">Bruxelles</placeName><date when="1867-05-21"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                                <note>Vandenhouten beantwortet einen nicht überlieferten Brief von
+                                        Marx an <persName key="pdrPo.001.004.000001133">César De
+                                                Paepe</persName>, geschrieben vor dem 21. Mai 1867
+                                        (siehe „Le Citoyen De Paepe ...“: Marx an C. De Paepe, vor
+                                        21.5.1867).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:31Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Bruxelles
+                                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_comment_start author="lindenberg" timestamp="20190115T134330+0100" comment="vorher: de" mid="3"?>le<?oxy_custom_end?><?oxy_comment_end mid="3"?>
+                                                21 mai 1867</dateline>
+                                        <salute>Citoyen.</salute>
+                                </opener>
+                                <p>Le Citoyen <persName key="pdrPo.001.004.000001133">De Paepe</persName>
+                                        est à l’heure qu’il est tellement occupé qu’il se trouve
+                                        dans l’impossibilité de répondre à <seg type="comment"><orig>votre lettre</orig><note xml:id="f851f274-fbd7-44ea-a268-550841adf806">Marx’ Brief an César De Paepe, geschrieben vor
+                                                  dem 21. Mai 1867, ist nicht
+                                                überliefert.</note></seg> il entretien dans ce
+                                        moment pour l’association une correspondance très laborieuse
+                                        avec la France et la Suisse il me prie de l’excuser auprès
+                                        de vous et de repondre a sa place.</p>
+                                <p>Voi-ci citoyen en quelques mots les
+                                        causes des troubles du bassin de Charleroi, Un Stock
+                                        considérable de charbon dû, d’une part à la crise <choice>
+                                                <sic>metalurgique</sic>
+                                                <corr cert="high">métallurgique</corr>
+                                        </choice>, dautre part à la <choice>
+                                                <sic>concurence</sic>
+                                                <corr cert="high">concurrence</corr>
+                                        </choice> que font aux charbons belges les charbons <pb/>
+                                        prussiens avait déterminé les patrons, gérants ou directeurs
+                                        de fosse a réduire a quatre jours la semaine <choice>
+                                                <sic>des</sic>
+                                                <corr cert="high">de</corr>
+                                        </choice> travailleurs le stock augmentant encore ils se
+                                        decidèrent enfin à abaisser le prix de la houille mais ils
+                                        crurent, pour ne pas trop devoir diminuer les dividendes des
+                                        actionnaires, devoir diminuer le salaire des mineurs la
+                                        diminution <choice>
+                                                <sic>quils</sic>
+                                                <corr cert="high">qu'ils</corr>
+                                        </choice> imposerent était de 10% les ouvriers voyant leurs
+                                        moyens de <choice>
+                                                <sic>subsistances</sic>
+                                                <corr cert="high">subsistance</corr>
+                                        </choice> se restreindre de jour en jour alors que les
+                                        denrées alimentaires augmentent sanscesse de valeur
+                                        refusèrent de souscrirent a des conditions qui ne leur
+                                        permettaient plus de vivre et se mirent en grève; vous
+                                        trouverez les détails relatif a ces grèves dans les <pb/>
+                                        journaux que je vous envoie je pense que le citoyen de Paepe
+                                        vous enverra d’autres journaux encore qui completeront les
+                                        détails que vous trouverez dans ceux-ci</p>
+                                <p>Excusez mon griffonnage Citoyen – le
+                                        temps me manque</p>
+                                <closer>Salut fraternel.<lb/>Alph.
+                                        Vandenhouten<lb/>Quai aux Semences 7</closer>
+                                <postscript>
+                                        <p>P.S. Le Salaire de <choice>
+                                                  <sic>louvrier</sic>
+                                                  <corr cert="high">l’ouvrier</corr>
+                                                </choice> mineur est de 3 fr. par jour dont on
+                                                prelève 10 c<hi rendition="#sup">es</hi> pour la
+                                                caisse de prévoyance; caisse de prévoyance gérée par
+                                                les directeurs de fosse eux-mêmes. <pb/></p>
+                                </postscript>
+                        </div></body></text></TEI>

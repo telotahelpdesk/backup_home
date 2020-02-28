@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00456" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>446</idno>Karl Marx an Friedrich Engels in Manchester. London, Freitag, 29. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4506/L VI 638</idno></idno></msIdentifier><physDesc>
+                        <p><?oxy_comment_start author="lindenberg" timestamp="20181218T141444+0100" comment="ZB unvollständig!"?>Der
+                            Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            112 × 180 mm. Prägung: Schild mit einer Krone. Die erste Seite hat Marx
+                            zu zwei Dritteln beschrieben, die zweite Seite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes: „61“.<?oxy_comment_end?></p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2124</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913)<?oxy_custom_end?>. S. 432.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930)<?oxy_custom_end?>. S. 454.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-11-29"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00454"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Brief vom 28. November 1867 (<ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20190221T122850+0100" comment="Br. 444"?>Engels
+                        an Marx, 28.11.1867<?oxy_comment_end?></ref>).</note>
+                <note>Zur Beilage („Einliegend Brief v. Kugelmann zurück.“) zum Brief
+                    siehe<?oxy_comment_start author="lindenberg" timestamp="20190316T142148+0100" comment="446.4."?>
+                    Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:03Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 29 Nov. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Best thanks for the £. 30.</orig><note xml:id="ea6c7a45-5983-48bf-8dc0-f59c91296f53">Siehe <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180612T152632+0200" comment="(Br. 444.1)."?>Engels
+                                an Marx, 28. 11.1867 <?oxy_comment_end?></ref>.</note></seg></p>
+                <p><seg type="comment"><orig>Einliegend Brief v. <persName key="pdrPo.001.004.000002616">Kugelmann</persName>
+                            zurück.</orig><note xml:id="a1a195c6-e1a6-4608-ac4e-bbf15c65c267"><ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180612T152705+0200" comment="(Br. 436)"?>L.
+                                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref>. Engels
+                            übersandte diesen Brief an Marx am 28. November 1867 (siehe <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180612T152753+0200" comment="Br. 444.4–6)"?>Engels
+                                an Marx, 28.11.1867<?oxy_comment_end?></ref>).</note></seg> Man muß
+                    aufpassen, daß er in seinem Eifer keine Dummheiten macht. <seg type="comment"><orig>So z.B. mit <persName key="pdrPo.001.004.000003226">Miquel</persName>.</orig><note xml:id="d6c5cca6-c885-4caf-9f22-e5f2a6d89b6d">Siehe <ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180612T152823+0200" comment="(Br. 436.29–33)."?>L.
+                                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref> „Soll ich
+                            mal an Miquèl schreiben ...“.</note></seg></p>
+                <p>Was <seg type="comment"><orig>das Blatt der <hi rendition="#u"><bibl sameAs="ed_qcy_mlj_tgb" type="periodika">Ver. St. v.
+                                    Europa</bibl></hi></orig><note xml:id="ae3c977e-3cbd-4860-8865-5905b689a4e9"><bibl sameAs="ed_qcy_mlj_tgb" type="periodika">Die Vereinigten Staaten von
+                                Europa bzw. Les États-Unis d’Europe</bibl>. Siehe <ref target="B00446">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180612T152857+0200" comment="(Br. 436.35–42)"?>Kugelmann
+                                an Engels, 25.11.1867<?oxy_comment_end?></ref> „Einliegend das
+                            Programm ...“ und <ref target="B00434"><?oxy_comment_start author="lindenberg" timestamp="20191204T165205+0100" comment="424.16–17{g}"?>Erl. zu
+                                S. L. Borkheim an Marx,
+                        15.11.1867<?oxy_comment_end?></ref>.</note></seg> angeht – u. zur Mitarbeit
+                    woran man mich von Genf aufgefordert –, so reiner Unsinn. Herr <persName key="pdrPo.001.004.000001948">K. Grün</persName> wahrscheinlich der
+                    Redacteur. Und <expan>d<ex>ie</ex></expan> Sache an sich failure.</p>
+                <p>Salut</p>
+                <closer>D<lb/>KM</closer>
+            </div>
+            <div type="writingSession">
+                <p/>
+                <closer>Ich soll trotz Kälte u. Verdrießlichkeit ein paar
+                    Tage auf dem <seg type="comment"><orig>Heath</orig><note xml:id="ba330fde-99e1-4a2b-b143-b44715064b3e">Hampstead
+                        Heath.</note></seg> etc herumlaufen. </closer>
+            </div></body></text></TEI>

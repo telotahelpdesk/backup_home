@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00366" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>357</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Montag, 30. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 456/D I 125 Fotosign. 9680.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 258 × 204 mm.
+                            Wasserzeichen: „Extra Superfine A C &amp; S“. Aufdruck der Firma<orgName key="pdrPo.001.015.000090279"> „Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi>“</orgName> (siehe Borkheim an Marx,
+                            8. Januar 1866) auf der ersten Seite oben links. Borkheim hat die erste
+                            und die zweite Seite vollständig beschrieben, die übrigen zwei Seiten
+                            sind leer. Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1738</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-09-30"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Die Beilagen zum Brief („N. Z. Zeitung und Unabhängige“) sind nicht
+                    überliefert. Siehe <ref target="B00365"><?oxy_comment_start author="lindenberg" timestamp="20190219T152634+0100" comment="356.15–17"?>Erl.
+                        zu W. Liebknecht an Marx, vor 30.12.1867<?oxy_comment_end?></ref>.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:56Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London,</hi> 30 Sept
+                            <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>„Keine Ruh’ u.s.w.“ <seg type="comment"><orig>Herr <persName key="pdrPo.001.004.000002648">Lafargue</persName> wird wohl an dem
+                            franz. Manuscript gehörig zu operiren haben.</orig><note xml:id="b2cf4b41-df78-4357-8b70-e83f07af7e1e">Offensichtlich meinte
+                            Borkheim das Manuskript seiner Schrift „<bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Ma Perle Devant le
+                                Congrès de Genève …</bibl>“ Siehe <ref target="B00360">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180529T163749+0200" comment="(Br. 351.4–5)"?>Borkheim
+                                an Marx, 24.9.1867 <?oxy_comment_end?></ref> und
+                    Erl.</note></seg></p>
+                <p><seg type="comment"><orig>Meine Vorrede ist fertig</orig><note xml:id="ed21c76c-4ea8-4a9a-b510-e8b4e111e5db"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867.</bibl> Préface. S. 6–12. </note></seg>;
+                    es erscheinen darin <hi rendition="#u"><persName key="ed_fjl_qbb_jhb">Abbé St.
+                            Pierre</persName></hi>, <persName key="pdrPo.001.004.000003227"><hi rendition="#u">Mirabeau</hi></persName>, <hi rendition="#u"><persName key="ed_v1c_qmn_zgb">Desmoulins</persName></hi>, <hi rendition="#u"><persName key="pdrPo.001.004.000002436">Kant</persName></hi>, <hi rendition="#u"><persName key="pdrPo.001.004.000001522">Fichte</persName></hi>, <hi rendition="#u"><persName key="pdrPo.001.004.000002103">Hegel</persName></hi>, <hi rendition="#u"><persName key="pdrPo.001.004.000001775">Gibbon</persName></hi> – <hi rendition="#u">Huh!!</hi></p>
+                <p><seg type="comment"><orig>Nur eine Stelle aus dieser Vorrede:</orig><note xml:id="ndtp_fmy_yfb">Zum Folgenden siehe ebenda. S. 11:
+                            „<?oxy_comment_start author="lindenberg" timestamp="20190710T155031+0200" comment="Welche Klasse neigt dazu, die gesamte Wissenschaft für ihr privates Interesse zu beschlagnahmen, und hat mit ihrem Siegel alle neuen Erfindungen gekennzeichnet? Diejenigen, die die Wissenschaft demokratisieren wollen, werden alle wie kriminelle Deserteure behandelt, die sich zurückgezogen und öffentliches Eigentum erworben haben."?>Quelle
+                            est la classe qui tend à confisquer pour son intérêt privé toute la
+                            science, et a marqué de son sceau toutes les inventions nouvelles? Ceux
+                            qui veulent démocratiser la science, on les traite tous comme des
+                            déserteurs criminels, qui se sont esquivés emportant de la propriété
+                            publique<?oxy_comment_end?>.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190710T155605+0200" comment="Solch ein Freihandel -  also! Solche Ausbeuter, die &quot;ehrliche Menschen&quot;-Welt Europas, zeigt ihnen je nach Umständen den klaffenden Mund, schikaniert sie, verwirrt sie oder erschießt sie sogar...."?>Un
+                            tel libre commerce – fi donc! De tels <hi rendition="#u">exploiteurs</hi>, le monde ‚honnêtes gens‘ de l’Europe, selon les
+                            circonstances, leur montre la bouche béante, les rudoie, les emboue, ou
+                            même les fusille<?oxy_comment_end?>“. Vgl. auch die deutsche Ausgabe:
+                            [Borkheim, Sigismund Ludwig:] Meine Perle vor dem Genfer Congress. Von
+                            einem proletarischen Diplomaten. Zürich 1868. S. IX.</note></seg></p>
+                <p>„Welche ‚Klasse‘ ist es, die alles Lernen, von <seg type="comment"><orig>τύπτϖ</orig><note xml:id="nzts_jmy_yfb">τύπτϖ (griech.) schlagen,
+                            stechen (durchaus auch erschlagen)</note></seg> bis <persName key="pdrPo.001.004.000011370">Plato</persName>, von <seg type="comment"><orig>amo</orig><note xml:id="nq1s_lmy_yfb">amo (lat.)
+                        lieben</note></seg> bis <persName key="ed_xbj_r3j_kcb">Cicero</persName>,
+                    von dem Witz der <seg type="comment"><orig>lunulae <persName key="ed_cb1_sfh_jhb">Hippocratis</persName></orig><note xml:id="ng3h_rmy_yfb">Mit den dem griechischen Mathematiker <persName key="ed_cb1_sfh_jhb">Hippokrates von Chios</persName> (um 450 v.
+                            Chr.) zugeschriebenen geometrischen Figuren, den „Möndchen des
+                            Hippokrates“, gelang es bereits im antiken Griechenland von Kreisbogen
+                            begrenzte Flächen mathematisch zu berechnen.</note></seg> bis zum
+                    hirnansengenden Differential- und Integral-Kalculus zur Privatdomäne erklärt,
+                    <pb/> die Behufs möglichst vollkommener Objektivität <hi rendition="#u">nicht</hi> verwerthet werden darf? Geschieht dies dennoch, so wird ein <hi rendition="#u">solcher</hi> ‚Ausbeuter‘ von der ‚Anständigkeit‘ Europas
+                    viehisch angekothet.“</p>
+                <p>Ich schicke Ihnen <seg type="comment"><orig><bibl sameAs="ed_ohr_rkj_tgb" type="periodika">N. Z. Zeitung</bibl> und <bibl sameAs="ed_wcg_1mj_tgb" type="periodika">Unabhängige</bibl></orig><note xml:id="f3791bd5-6d6d-4eba-abb2-46e2e8f37bf6">„<bibl sameAs="ed_ohr_rkj_tgb" type="periodika">Neue Zürcher
+                            Zeitung</bibl>“ und „<bibl sameAs="ed_wcg_1mj_tgb" type="periodika">Der
+                                Unabhängige</bibl>“ (Bern). – Vermutlich schickte Borkheim Marx die
+                            „Neue Zürcher-Zeitung“ vom 13. September 1867, in der eine Notiz über
+                            die Rede Borkheims auf dem Friedenskongreß in Genf veröffentlicht worden
+                            war. Zu Borkheims Auftritt in Genf siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190710T163534+0200" comment="Erl. 304h"?>S.
+                                L. Borkheim an Marx, 5.8.1867</ref><?oxy_comment_end?> und <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180913T122751+0200" comment="331b"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> sowie ferner <ref target="B00388"><?oxy_comment_start author="reichhoff" timestamp="20180529T163904+0200" comment="(Br. 378.26–28"?>Marx
+                                an L. Kugelmann, 11.10.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190710T170025+0200" comment="378f"?>Erl.<?oxy_comment_end?>
+                        </note></seg>. – <seg type="comment"><orig>Da wird Ihnen der „Prinz“
+                                <persName key="ed_xsz_rwn_zgb">Dolgoruckuff</persName> aufstoßen,
+                            der dem <persName key="pdrPo.001.004.000000231">Bakunin</persName> in
+                            den Schopf fühlt.</orig><note xml:id="a7829f2d-6a3a-46a7-9cd8-aba681d09d98"> Borkheim bezieht
+                            wahrscheinlich auf „Une lettre des prince Dolgoroukow“, in dem der
+                            letztere sich zu seinem Austritt aus der Friedens- und Freiheitsliga
+                            (siehe  <ref target="B00313">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180913T123155+0200" comment=" 304g"?>S.
+                                L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>) wegen seiner
+                            Uneinigkeit mit Michail Bakunin erklärte. Dolgorukovs Brief ist in
+                            vielen Zeitungen veröffentlicht worden. (Siehe z.B. Une lettre des
+                            prince Dolgoroukow. In: La Suisse Radicale. Genève. Nr. 219, 28.
+                            September 1867. S. 2–3.) – „Prinz“ Dolgoruckuff, d. i. <persName key="ed_xsz_rwn_zgb">Fürst Petr Vladimirovič
+                            Dolgorukov</persName>.</note></seg></p>
+                <p>Auch ist die <seg type="comment"><orig>Direktion des „ewigen
+                            Friedens“</orig><note xml:id="nb5y_ymy_yfb"><?oxy_comment_start author="lindenberg" timestamp="20190711T113007+0200" comment="vorher: Offensichtlich die Zeitung „Die Vereinigten Staaten Europas“ bzw. „Les États-Unis d’Europe“  -- diese erschien aber erst ab 1868"?>Anspielung<?oxy_comment_end?>
+                            auf die „Ligue Internationale de la Paix et de la Liberté“, die
+                            „Internationale Liga für Frieden und Freiheit“, die nach Ende des vom 9.
+                            bis 12. September 1867 in Genf abgehaltenen internationalen
+                            Friedenskongresses ein permanentes Zentralkomitee wählte, dessen
+                            Präsident <persName key="pdrPo.001.004.000004962">Gustav Vogt</persName>
+                            wurde. „Amand Goegg vertrat die Deutschen als Vizepräsident und Theodor
+                            Beck als Sekretär. Die anderen deutschen Mitglieder im permanenten
+                            Zentralkomitee waren Johann Jacoby, Julius Haussmann, Karl Grün,
+                            Friedrich Beust, August Ladendorf, und Friedrich Albert Lange.“ (siehe
+                                <bibl sameAs="zotero-604880-FN26NLQM" type="secondary">Volkmer:
+                                Kriegsverhütung und Friedenssicherung durch Internationale
+                                Organisation.</bibl> S. 252; <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190712T161652+0200" comment="304"?>Erl.
+                                zu S. L. Borkheim an Marx,
+                            5.8.1867<?oxy_comment_end?></ref>.).</note></seg> in die Hände eines
+                        <seg type="comment"><orig><persName key="pdrPo.001.004.000004962">G. Vogt</persName></orig><note xml:id="nu5w_zmy_yfb"><persName key="pdrPo.001.004.000004962">Gustav Vogt</persName>, der „im
+                            Zusammenhange mit dem Genfer Friedenskongresse und der Gründung einer
+                            internationalen Friedens- und Freiheitsliga“ eine neue, mit einem
+                            Vorwort versehene Ausgabe von <bibl sameAs="zotero-604880-FPLHZ9Y8" type="primary">Immanuels Kants „Zum ewigen Frieden“ (Bern 1867. S.
+                                III)</bibl> herausgab.</note></seg> gesunken. So geht das Lämpchen
+                    aus! Good bye! – Noch eins! <persName key="pdrPo.001.004.000004818">Trübner</persName> hat verweigert, <seg type="comment"><orig>meine
+                            Broschüre</orig><note xml:id="b57906c2-ebd0-48ee-9d10-67cf7c79f255"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund
+                                Ludwig Borkheim:] Ma Perle Devant le Congrès de Genève. Par un
+                                Diplomate Prolétaire. Bruxelles 1867.</bibl> Siehe <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20190712T142017+0200" comment="331b."?>Erl.
+                                zu Marx an Engels, 4.9.1867.<?oxy_comment_end?></ref> </note></seg>
+                    zu verlegen, trotz meiner finanz. Garantie, weil er „überhaupt entschlossen,
+                    keine politischen Broschüren mehr zu verlegen“. – Ich armer Waisenknabe!</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

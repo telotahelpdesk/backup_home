@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00481" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>472</idno>Adolph Davisson an Friedrich Engels in Manchester. Donnerstag, 12. Dezember 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 1082/L III 25</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            205 × 130 mm. Geschäftspapieraufdruck (siehe Text).</p>
+                        <p/>
+                        <p>Die erste Seite hat Davisson zur Hälfte beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte. </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-ZIIK6QPM">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Friedrich Engels 1820–1895 (1970).<?oxy_custom_end?>
+                        S. 72.</bibl></witness>
+                </listWit>
+            </sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001107">Davisson, Adolph N.</persName><placeName>Donnerstag</placeName><date when="1867-12-12"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:17Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession"><opener><dateline><pb/>
+                    </dateline>
+                    <salute>
+                        <table rows="3" cols="2">
+                            <row>
+                                <cell><hi rendition="#mPrint">Memorandum</hi></cell>
+                                <cell><hi rendition="#mPrint">36, Cooper Street, Manchester,</hi> 12
+                                    Dec <hi rendition="#mPrint">186</hi>7</cell>
+                            </row>
+                            <row>
+                                <cell><hi rendition="#mPrint"><del rendition="#s">From</del> A.
+                                        Davisson.</hi>
+                                </cell>
+                                <cell><subst>
+                                        <del rendition="#ow"><hi rendition="#mPrint">To</hi></del>
+                                        <add place="across">An</add>
+                                    </subst> das Ehrenmitglied Engels.</cell>
+                            </row>
+                            <row>
+                                <cell>Fuchsmajor</cell>
+                                <cell/>
+                            </row>
+                        </table>
+                    </salute><salute/></opener><p>Auf Anordnung des hochlöbl. <seg type="comment"><orig>Praesidiums</orig><note xml:id="ntzg_k1w_jgb">Das Direktorium der Schiller-Anstalt in
+                            Manchester. Siehe <ref target="mega_jkb_hgx_vfb"><?oxy_comment_start author="lindenberg" timestamp="20200106T141943+0100" comment="Br. 267"?>A.
+                                Davisson an Engels, 4.6.1867<?oxy_comment_end?></ref>  und
+                            Erl.</note></seg> wird heute <expan>Ab<ex>end</ex></expan> 10 Uhr Kneipe
+                    im Thatched House zu Ehren des Freundes <persName key="ed_qzx_rrh_2hb">Laneau</persName> stattfinden. <pb/></p></div></body></text></TEI>

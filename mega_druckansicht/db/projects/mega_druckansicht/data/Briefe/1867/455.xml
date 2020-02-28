@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00464" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>455</idno>Louis Kugelmann an Karl Marx in London. Hannover, Sonntag, 1.
+                    Dezember 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1778
+                            Fotosign. 35&lt;a–c&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            268 × 205 mm. Prägung: „Dr. L. Kglm.“ Louis Kugelmann hat die erste
+                            Seite vollständig beschrieben, die übrigen drei Seiten sind leer. Das
+                            zweite Blatt ist unten abgerissen. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Kugelmanns Hand: Randanstreichung („Wenn mir Engels Etwas dafür
+                            schicken will, so werde ich’s versuchen.“) mit drei Ausrufezeichen
+                            versehen<?oxy_comment_start author="lindenberg" timestamp="20190319T100559+0100" comment="vorher: (Z. 10, 12–13) und drei Ausrufezeichen (Z. 11–12)"?>.<?oxy_comment_end?>
+                        </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-JGYK6A2M">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Dlubek,
+                            Skambraks: „Das Kapital“ von Karl Marx in der deutschen Arbeiterbewegung
+                            (1967)<?oxy_custom_end?>. S. 129.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                    <placeName>Hannover</placeName>
+                    <date when="1867-12-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00474"/>
+                </correspContext>
+                <note>Marx antwortete Kugelmann am 7. Dezember 1867 (siehe <ref target="B00474"><?oxy_comment_start author="lindenberg" timestamp="20190318T111139+0100" comment="Br. 465"?>Marx
+                        an L. Kugelmann, 7.12.1867</ref><?oxy_comment_end?>). Marx übersandte den
+                    Brief an Engels und erhielt ihn mit dessem Brief vom 12. Dezember 1867 zurück.
+                    <?oxy_comment_start author="lindenberg" timestamp="20190318T111805+0100" comment="siehe Z. 12–13"?>Siehe <?oxy_comment_end?>
+                    <ref target="B00483"><?oxy_comment_start author="lindenberg" timestamp="20190318T111517+0100" comment="Br. 474.21, 24"?>Engels
+                        an Marx, 12.12.1867<?oxy_comment_end?></ref>.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:07Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Hannover, i Dcbr. 1867</dateline>
+                    <salute>Mein hochverehrter, lieber Freund!</salute>
+                </opener>
+                <p>In a hurry! Gestern Abend <seg type="comment"><orig>schrieb ich an <persName key="ed_eyg_crj_sx">Engels</persName> u. konnte ihm mehrere
+                            süddeutsch. Blätter nennen</orig><note xml:id="nav4_pdh_2gb">Siehe <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T122139+0200" comment="(Br. 450)."?>L.
+                                Kugelmann an Engels,
+                        30.11.1867<?oxy_comment_end?></ref>.</note></seg>, die uns wahrscheinlich
+                    offen stehen. Sie werden es ja vom ihm erfahren. Auch legte ich ihm <seg type="comment"><orig>die 3 weiteren Recipissen <expan>d<ex>er</ex></expan>
+                            Herren „Vulgären“</orig><note xml:id="nczf_5dh_2gb">Siehe<ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180613T122303+0200" comment=" (Br. 436.13)"?>
+                                L. Kugelmann an Engels, 25.11.1867 <?oxy_comment_end?></ref> „3
+                            Recipissen einliegend ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191209T160328+0100" comment="436i."?>Erl<?oxy_comment_end?>. 
+                                <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T122349+0200" comment="Br. 450.76"?>30.11.1867
+                                <?oxy_comment_end?></ref> „Einliegend ...“. – die „Herren
+                            'Vulgären'“ sind <persName key="pdrPo.001.004.000002172"> Bruno
+                                Hildebrant</persName>, <persName key="pdrPo.001.004.000003889">Heinrich Rau</persName> und <persName key="pdrPo.001.004.000004342"> Hermann Schulze-Delitzsch</persName>.</note></seg> bei. So eben
+                    höre ich, daß ein naher <seg type="comment"><orig>Verwandter</orig><note xml:id="nvs2_12h_2gb"><persName key="ed_rmn_fct_zcb">Adolf Friedrich
+                                Seubert</persName>.</note></seg> von <seg type="comment"><orig>einer
+                            meiner Patientinnen</orig><note xml:id="ng12_d2h_2gb"><persName key="ed_xvz_tdd_fhb">Anna Seubert</persName>. Siehe <ref target="B00460">L.<?oxy_comment_start author="reichhoff" timestamp="20180613T122431+0200" comment="(Br. 450.5–14)."?>
+                                Kugelmann an Engels,
+                        30.11.1867<?oxy_comment_end?></ref>.</note></seg> Verleger einer großen
+                    Bremer Ztg sei, welcher? wußte sie nicht genau, wahrscheinlich der „<bibl sameAs="ed_hct_p5j_tgb" type="periodika">Weser Ztg</bibl>“. – <seg type="comment"><orig>Ich erbat mir natürlich sofort Fürsprache für
+                            „Besprechung einer wissenschaftl. Sache“, die freudig u. bereitwillig
+                            zugesagt wurde.</orig><note xml:id="ngrp_g2h_2gb">Siehe Louis Kugelmann
+                            an Adolf Friedrich Seubert, 27. November und Adolf Friedrich Seubert an
+                            Louis Kugelmann, 28. November 1867 (Beilagen zu <ref target="B00460"><?oxy_comment_start author="lindenberg" timestamp="20191209T162008+0100" comment="S. 000–000 {Br. 450.ZB, Beilage zum Br. 450}"?>L.
+                                Kugelmann an Engels
+                        30.11.1867<?oxy_comment_end?></ref>).</note></seg> – Wenn mir Engels Etwas
+                    dafür schicken will, so werde ich’s versuchen. <seg type="comment"><orig>Kann
+                                <persName key="pdrPo.001.004.000000542">Borkheim</persName> uns
+                            nicht durch seinen Freund <persName key="pdrPo.001.004.000000648">Bucher</persName> die Pforten der „<bibl sameAs="ed_vmm_z52_xbb" type="periodika">Nordd. Allg. Ztg</bibl>“ erschließen?</orig><note xml:id="nfm5_j2h_2gb">Siehe <ref target="B00474"><?oxy_comment_start author="reichhoff" timestamp="20180613T122551+0200" comment=" (Br. 465.21–24)"?>Marx
+                                an L. Kugelmann, 7.<?oxy_comment_end?>12.1867</ref> „Bucher hat ...“
+                            und Erl.,<ref target="B00479"><?oxy_comment_start author="reichhoff" timestamp="20180613T122626+0200" comment="(Br. 470.19–22)"?>
+                                L. Kugelmann an Marx, 9.<?oxy_comment_end?>12.1867</ref> „Daß Borkh.
+                            ...“  sowie <ref target="B00483"><?oxy_comment_start author="reichhoff" timestamp="20180613T122657+0200" comment="(Br. 474.21)."?>Engels
+                                an Marx, 12.12.1867<?oxy_comment_end?></ref> „Kugelmann wird täglich
+                            ...“.</note></seg> Sein Wahlspruch ist ja: <hi rendition="#u">„Immer
+                        druff!“</hi> Mit Kühnheit kömmt man zum Ziel, wie Sie aus meinem gestrigen
+                    Briefe an Engels ersehen werden. – <seg type="comment"><orig>In letzterem habe
+                            ich mich schon melodramatisirt, daß ich selbst nichts für Sie schreiben
+                            kann.</orig><note xml:id="nlhf_m2h_2gb">Siehe <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T122739+0200" comment="(Br. 450.60–70)"?>L.
+                                Kugelmann an Engels, 30.11.1867<?oxy_comment_end?></ref> „Nun,
+                            lieber Engels ...“.</note></seg> – Wenn ich nun auch weder für die
+                    Infanterie, Cavallerie noch Artillerie tauge, so mache ich mich doch vielleicht
+                    als Ingenieur für Anlage von Wegen, Brücken, Parallelen etc nützlich, deren
+                    Benutzung ich Anderen überlassen muß. – Jeder auf seinem Posten.</p>
+                <p>Wie immer</p>
+                <closer>Der Ihrige<lb/>LKugelmann<lb/>Dr <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

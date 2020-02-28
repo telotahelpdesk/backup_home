@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00380" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>370</idno>Louis Kugelmann an Karl Marx in London. Hannover, Dienstag, 8. Oktober 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+          <msIdentifier>
+            <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 5 d.
+                1733.<?oxy_comment_start author="lindenberg" timestamp="20190219T171237+0100" comment="vorher noch: Fotosign. 30&lt;a–c&gt;. aber in Zb generell falsche Signatur angegeben, darum des erstmal herausgenommen" mid="1"?><?oxy_custom_end?><?oxy_comment_end mid="1"?></idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              285 × 215 mm. Prägung: „Dr. L. Kglm.“ Kugelmann hat die ersten zwei Seiten
+              vollständig, die dritte zur Hälfte beschrieben, die vierte Seite ist leer.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p/>
+          </physDesc>
+        </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+          <placeName key="ed_evx_hkv_cbb">Hannover</placeName><date when="1867-10-08"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+        <correspContext>
+          <ref type="next" target="B00388"/>
+        </correspContext>
+        <note>Der Brief wurde von Kugelmann irrtümlich mit 8. September 1867 datiert. Die Datierung
+          des Briefes auf den 8. Oktober 1867 ergibt sich aus dem Zusammenhang des vorliegenden
+          Briefes mit dem Brief von Marx an Engels vom 10. Oktober 1867 (siehe <ref target="B00386"><?oxy_comment_start author="lindenberg" timestamp="20190219T165457+0100" comment="Br. 376"?>Marx
+            an Engels, 10.10.1867</ref><?oxy_comment_end?>) und dem Brief von Engels an Marx vom
+          11. Oktober 1867 (siehe <ref target="B00387"><?oxy_comment_start author="lindenberg" timestamp="20190219T165626+0100" comment="377"?>Engels
+            an Marx, 11.10.1867<?oxy_comment_end?></ref>). Marx erhielt den Brief offensichtlich am
+          10. Oktober und schickte ihn am selben Tag an <persName key="ed_eyg_crj_sx">Engels</persName> weiter (siehe <ref target="B00386"><?oxy_comment_start author="lindenberg" timestamp="20190219T165531+0100" comment="Br. 376.3"?>Marx
+            an Engels, 10.10.1867</ref><?oxy_comment_end?>). Am nächsten Tag, dem 11. Oktober 1867,
+          reagierte Engels auf den Brief Kugelmanns (siehe <ref target="B00387"><?oxy_comment_start author="lindenberg" timestamp="20190219T165626+0100" comment="377
+Br. 377.15–17"?>Engels
+            an Marx, 11.10.1867<?oxy_comment_end?></ref>). Der Brief kann daher nur mit dem
+          8. Oktober 1867 datiert werden.</note>
+        <note>Marx antwortete Kugelmanns am 11. Oktober 1867 (siehe <ref target="B00388"><?oxy_comment_start author="lindenberg" timestamp="20190219T151824+0100" comment="Br. 378"?>Marx
+            an L. Kugelmann, 11.10.1867<?oxy_comment_end?></ref>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:06Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> Hannover, 8. <choice>
+              <sic>Septbr.</sic>
+              <corr cert="high">Oktober</corr>
+            </choice> 1867</dateline>
+          <salute>Mein lieber Freund!</salute>
+        </opener>
+        <p><seg type="comment"><orig>Schon wieder ein Brief!</orig><note xml:id="na4k_r4n_n3b">Der
+              vorangehende Brief siehe <ref target="B00363"><?oxy_comment_start author="lindenberg" timestamp="20190726T163043+0200" comment="354"?>L.
+                u. G. Kugelmann an Marx, 29.9.1867<?oxy_comment_end?></ref>.</note></seg> Aber sein
+          Sie nicht ängstlich, nur wenig. – <seg type="comment"><orig>Vorgestern Abend</orig><note xml:id="dd0e3a55-efcc-411d-b1a1-aea9cf0dd2e7">6. Oktober 1867.</note></seg> war
+            <persName key="ed_ajj_jzj_bdb">Warnebold</persName> bei mir u. erzählte mir von einer
+          Unterredung, die er kürzlich mit <persName key="pdrPo.001.004.000003226">Miquèl</persName>
+          gehabt u. deren Hauptgegenstand <hi rendition="#u">Sie</hi> waren. – <persName key="ed_ajj_jzj_bdb">Warnebold</persName>, der entzückt von Ihnen ist, schilderte
+            <persName key="pdrPo.001.004.000003226">Miquèl</persName>, was er an Ihrer Bekanntschaft
+          verloren habe etc. Der Inhalt dieses Gespräches ist irrelevant, ich hätte aber dabei sein
+          mögen, um zu sehen wie Miquèl <seg type="comment"><orig>in der Wüste der
+              National-Liberalität der Mund nach den Fleischtöpfen Aegyptens wässerte</orig><note xml:id="nijt_443_43b">Anspielung auf: Die Bibel. Altes Testament 2. Mose 16.3 und die
+              daraus abgeleitete Redensart von den „Fleischtöpfen Ägyptens“, übertragen für
+              „Wohlleben in Knechtschaft“. – Zur Nationalliberalen Partei siehe<seg type="comment"><note xml:id="e2197d6e-7820-472f-93a8-cf6034ffc9ce"><ref target="B00265"><?oxy_comment_start author="reichhoff" timestamp="20180618T142657+0200" comment="Br. 256"?>Marx
+                    an Engels, 7.5.1867<?oxy_comment_end?></ref> „die National-Liberalen“ und
+                  <?oxy_comment_start author="lindenberg" timestamp="20190618T123126+0200" comment="256j."?>Erl.<?oxy_comment_end?></note></seg></note></seg>.
+          – Geben Sie acht, wenn, was wohl noch etwas währen kann, die Erwartung eines preußischen
+          Ministerportefeuille’s, oder abschlagsweise Regierungspräsidiums das Maaß seiner Geduld
+          erschöpfen sollte, wenn etwaige revolutionäre Ereignisse seine alten Instincte wieder
+          inzitiren sollten, dann werden Sie sehen, ob ich Unrecht hatte, wenn ich Ihnen früher
+          sagte, er sei der Revirements sehr fähig. –</p>
+        <p>Entschuldigen Sie, wenn ich <hi rendition="#u">Sie</hi> mit dieser Betrachtung behellige,
+          die eigentlich nur für mich von persönlichem Interesse, wegen unseres früheren
+          Parteiverhältnisses. Eigentlich wollte ich Sie fragen, ob Sie eine kurze Besprechung <seg type="comment"><orig>Ihres Buches</orig><note xml:id="e7fc9818-bde8-46d8-aa51-6f3f711e6cd8"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl></note></seg> in einer
+          polit. Zeitung wünschen. <persName key="ed_ajj_jzj_bdb">Warnebold</persName> erbot sich es
+          in den hiesigen <seg type="comment"><orig>„<bibl sameAs="ed_wxv_qrj_tgb" type="periodika">Courier</bibl>“</orig><note xml:id="nalj_5mb_1gb"><bibl sameAs="ed_wxv_qrj_tgb" type="periodika">Hannoverscher Courier</bibl>.</note></seg> „<bibl sameAs="ed_zyd_ttw_1cb" type="periodika">Z<ex>ei</ex>t<ex>un</ex>g
+              <expan>f<ex>ür</ex></expan>
+            <expan>Nordd<ex>eu</ex>tschl</expan><ex>and</ex></bibl>“ u. „<bibl sameAs="ed_hct_p5j_tgb" type="periodika">Weserz<ex>ei</ex>t<ex>un</ex>g</bibl>“ zu
+          bringen. – Wenn ja? dann bitte ich um einige <pb/> leitende Gesichtspuncte, um danach
+          einen passenden Artikel für <hi rendition="#u">bürgerliche</hi> Gemüther zu verfassen. –
+          Wir haben das Buch noch nicht durchgearbeitet beherrschen den Gegenstand auch zu
+          ungenügend, setzen Sie deshalb möglichst wenig voraus. – Vor dem Druck kann Ihnen das
+          Scriptum dann erst vorgelegt werden. – Daß <persName key="pdrPo.001.004.000002822">Liebknecht</persName>
+          <seg type="comment"><orig><?oxy_comment_start author="lindenberg" timestamp="20190726T172121+0200" comment="Reichsboten , s. v. w. Reichstagsabgeordnete, im Gegensatz zu den &quot;Landboten&quot;, den Mitgliedern des preußischen Abgeordnetenhaus und der Landtage der sonstigen Bundesstaaten"?>Reichsbote<?oxy_comment_end?></orig><note xml:id="nbwx_kzn_n3b">Siehe <bibl sameAs="zotero-604880-QTGUHIZW" type="secondary">DWB</bibl> (Bd. 14, 1893. Sp. 579): „in neuester zeit nennt man bisweilen die
+              mitglieder des deutschen reichstages reichsboten“. </note></seg>, werden Sie wissen,
+          durch ihn könnte ich es dann in die „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ besorgen lassen. –</p>
+        <p>Ich bin jetzt bis ins <seg type="comment"><orig>dritte
+              Kapitel</orig><note xml:id="c0f73255-f27c-4b9e-997c-b727b86a5319"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                Buch 1. Hamburg 1867.</bibl> S. 141–291. Kapitel 3: Die Produktion des absoluten
+              Mehrwerths. (MEGA<hi rendition="#sup">2</hi> II/5. S. 129–251.)</note></seg> gekommen.
+          Ich kann Ihnen nicht sagen, wie sehr das Buch mich fesselt. – Der Schluß von <seg type="comment"><orig>Kapitel II</orig><note xml:id="b05e9041-9f49-429b-a18d-177623e0397c"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.
+              S. 106–141. Kapitel 2: Die Verwandlung von Geld in Kapital. (Ebenda.
+              S. 102–128.)</note></seg> ist himmlisch. – Die Darstellung ist so plastisch, daß mir
+          nichts als das Talent eines <persName key="ed_qmz_mzd_dhb">Hogarth</persName> fehlt um ein
+          entzückendes Bild danach zu malen, welches mich unsterblich machen würde: Hintergrund eine
+          rußige, kahle Mauer, von Dächern u. Schornsteinen überragt, in der Mitte der Mauer eine
+          Pforte mit Überschrift „No admittance except on business“. – Der „schmunzelnde,
+          geschäftseifrige“ Kapitalist, gefolgt von einem die „Gerberei“ erwartenden Arbeiter
+          (letzterer trägt in der rechten Hand einen Hammer, auf dem linken Arm einen Geldsack, NB.
+          es geht wahrscheinlich zur Löhnung) ist im Begriff die halbgeöffnete Pforte zu
+          durchschreiten u. sieht sich nur flüchtig nach einem Manne um, der ein Buch mit dem Titel
+          „das Kapital“ unter dem Arme haltend, im Vorbeigehen einen Blick auf diese Gruppe wirft u.
+          vom Arbeiter ehrerbietig gegrüßt wird. – </p>
+        <p><pb/> Gute Nacht, mein lieber Freund! Bitte um Antwort auf diesen und <seg type="comment"><orig>den vorigen Brief</orig><note xml:id="b2aa710c-a621-4f8e-b67b-f929afa67c0b">Siehe <ref target="B00363"><?oxy_comment_start author="reichhoff" timestamp="20180530T103615+0200" comment="(Br. 354).. –"?>L.
+                u. G. Kugelmann an Marx, 29.9.1867<?oxy_comment_end?></ref>.</note></seg>. –</p>
+        <closer>Herzlichst, wie immer,<lb/>Der
+          Ihrige<lb/>LKugelmann<lb/>Dr</closer>
+        <postscript>
+          <p><seg type="comment"><orig>Was ist Peonage?</orig><note xml:id="c62f1827-2ac5-4b10-a86c-973dab903cb9">Siehe <ref target="B00388"><?oxy_comment_start author="reichhoff" timestamp="20180531T122003+0200" comment="(Br. 378.61–65)"?>Marx
+                  an L. Kugelmann, 11.10.1867<?oxy_comment_end?></ref> und Erl.</note></seg>
+            <pb/></p>
+        </postscript>
+      </div></body></text></TEI>

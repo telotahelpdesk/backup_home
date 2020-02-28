@@ -1,0 +1,29 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00353" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>344</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 12. September 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4492/L VI 625</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 115 × 180 mm. Prägung: Wappenschild mit Lilie und Aufschrift „Satin vergee“ Die erste Seite hat Marx fast vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes mit Bleistift auf der ersten Seite: „34“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2079</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3 (1913).<?oxy_custom_end?>
+                            S. 410.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-09-12"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <note>Zur Beilage zum Brief („2. Brief“) siehe Erl.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:49Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 12 Sept. ’67.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p>Ich schicke diesen 2. Brief, weil eben <seg type="comment"><orig><persName key="pdrPo.001.004.000001296">Eccarius</persName>’s letter
+                            ankömmt.</orig><note xml:id="a6829f86-b735-4018-a5bc-a3a39459a1a2">Siehe
+                                <ref target="B00345"><?oxy_comment_start author="reichhoff" timestamp="20180529T123019+0200" comment="(Br. 336)"?>J.
+                                G. Eccarius an Marx,
+                    9.9.186<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>À Propos. Was Eccarius nicht wissen konnte: <persName key="pdrPo.001.004.000000447">L. Blanc</persName> hat sich gedrückt vom <seg type="comment"><orig>Genfer Congress</orig><note xml:id="b7a8aafa-7b1f-418c-b951-1f83d872a100">Zum Kongreß der Friedens-
+                            und Freiheitsliga in Genf im September 1867 siehe Erl zu <ref target="B00313"><?oxy_comment_start author="reichhoff" timestamp="20180913T103902+0200" comment=" 304h"?>S.
+                                L. Borkheim an Marx,
+                    5.8.1867<?oxy_comment_end?></ref>.</note></seg>, weil „<hi rendition="#u">meine</hi>“ Leute dort Ulk machen würden; <persName key="pdrPo.001.004.000001479">Jules Favre</persName>, weil die <seg type="comment"><orig>„Klassenfrage“</orig><note xml:id="nyg5_zbr_yfb">Siehe
+                                <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180529T123114+0200" comment="(Br. 331.25–49)"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref>
+                        (Br. 331.25–49).</note></seg> (er, <seg type="comment"><orig>der Supporter
+                                <persName key="pdrPo.001.004.000000838">Cavaignac</persName>’s in
+                            den Junitagen</orig><note xml:id="e644d1dd-35b9-4246-a111-8f0eb400d511">Marx erinnert sich an die Unterdrückung des Aufstandes vom 23.–26. Juni
+                            1848 in Paris.</note></seg>, hat natürlich die conscience nicht clean)
+                    vom <bibl sameAs="ed_qkf_ghf_lbb" type="periodika"><hi rendition="#u">Courrier
+                            Fr.</hi></bibl> , nach <expan>d<ex>em</ex></expan> Londoner Vorgang,
+                    adoptirt.</p>
+                <closer>D<lb/>KM. </closer>
+            </div></body></text></TEI>

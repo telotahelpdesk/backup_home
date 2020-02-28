@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00455" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>445</idno>Karl Marx an Friedrich Engels in Manchester. London, Donnerstag, 28. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4504/L VI 637</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            180 × 115 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin
+                            vergee“. Marx hat die erste, die dritte und die vierte Seite vollständig
+                            beschrieben, die zweite Seite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „60,1“ bis
+                            „60,3“.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2121</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913)<?oxy_custom_end?>. S. 430/431.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-11-28"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00459"/>
+                </correspContext>
+                <note>Engels antwortete Marx am 30. November 1867 (<ref target="B00459"><?oxy_comment_start author="lindenberg" timestamp="20190315T183359+0100" comment="Br. 449"?>Engels
+                        an Marx, 30.11.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zu den Beilagen („Einliegend wichtiger Brief v. Schily.“; „Den dem Borkheim
+                    gehörigen Gentz“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190315T183734+0100" comment="445.13 und 445.20–22."?>Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:02Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#u">Lond</hi>. 28 Nov. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p>Ich sehe, daß ich Dir <seg type="comment"><orig>die 2 Briefe v. <persName key="pdrPo.001.004.000000542">Borkheim</persName></orig><note xml:id="a5f61b95-91f7-4137-a9c1-d6ccd2490051"><ref target="B00447">S. L.
+                                Borkheim an Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180612T151648+0200" comment="(Br. 437"?>26.<?oxy_comment_end?>11.1867</ref>
+                            und <ref target="B00450"><?oxy_comment_start author="reichhoff" timestamp="20180612T151735+0200" comment=" 440)"?>27.11.1867<?oxy_comment_end?></ref>.
+                            Siehe auch <ref target="B00454"><?oxy_comment_start author="reichhoff" timestamp="20180612T151814+0200" comment="(Br. 444.4)"?>Engels
+                                an Marx, 28.11.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191204T124234+0100" comment="Erl.{444a.}"?>Erl<?oxy_comment_end?>.</note></seg>
+                    nicht eingelegt habe. Es ist aber auch nicht nöthig. <seg type="comment"><orig>Gestern hatte ich die von ihm gewünschte „Besprechung“ mit
+                            ihm.</orig><note xml:id="f2194209-4cbf-4aa6-992c-79478e580c64">Siehe
+                                <ref target="B00447"><?oxy_comment_start author="reichhoff" timestamp="20180612T151904+0200" comment="(Br. 437.7–8)"?>S.
+                                L. Borkheim an Marx,
+                        26.11.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Er ist zurückgekommen (das schlug ich ihm vor
+                            2 Monaten vor) auf Anleihe bei <expan>d<ex>er</ex></expan>
+                            Lebensversicherungsgesellschaft „<orgName key="ed_jsl_nsv_zjb">Atlas</orgName>“</orig><note xml:id="a9ac03bd-5267-4768-943b-4f74b29034b0">Zur Geschichte dieser
+                            Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180612T151956+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867 <?oxy_comment_end?></ref> „Private Affairs:
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191204T124927+0100" comment="360dd."?>Erl.<?oxy_comment_end?> </note></seg>,
+                        <seg type="comment"><orig>deren Secretair</orig><note xml:id="e4ec5a58-2f86-49e8-803b-016a64f2f5f9">Der Person konnte nicht
+                            identifiziert werden.</note></seg> sein Freund. Ich füllte gestern bei
+                    ihm <expan>d<ex>ie</ex></expan> Papiere aus. Du figurirst dabei nur als
+                    Reference. 150 £ (wovon Borkheim 45 £ erhalten würde) für 1 Sept.
+                    rückzahlbar.</p>
+                <p>Ich glaube nicht mehr an Erfolg der <persName key="pdrPo.001.004.000000542">B</persName>.schen <pb/> Operationen. <hi rendition="#u">Ich zweifle nicht
+                        an seinem guten Willen</hi>.</p>
+                <p><seg type="comment"><orig>Hast Du seine <hi rendition="#u"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">Perle</bibl></hi>
+                            erhalten? (fzs. u. dtsch bis jezt.)</orig><note xml:id="c1f55549-e6fa-466e-8301-fffa29d14a6e"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig
+                                Borkheim:] Ma Perle Devant le Congrès de Genève. Par un Diplomate
+                                Prolétaire. Bruxelles 1867.</bibl> – <bibl sameAs="zotero-604880-WG8WKQRN" type="primary">[derselbe:] Meine
+                                Perle vor dem Genfer Congress. Zürich 1868</bibl>. Siehe <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20191210T143908+0100" comment="331b"?>Erl. zu
+                                Marx an Engels, 4.9.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p><seg type="comment"><orig>Einliegend wichtiger Brief v. <persName key="pdrPo.001.004.000004249">Schily</persName>.</orig><note xml:id="ba70f64e-77ca-42f4-9a7e-f3128e7d38db"><ref target="B00452"><?oxy_comment_start author="reichhoff" timestamp="20180612T152116+0200" comment="(Br. 442)"?>
+                                V. Schily an Marx, 27.11.1867<?oxy_comment_end?></ref>.</note></seg>
+                    Du mußt ihn <hi rendition="#u">umgehend</hi> zurückschicken; zugleich Deine
+                    Meinung constatiren. <seg type="comment"><orig>Jedenfalls erlaube ich dem
+                                <persName key="ed_ygm_hhs_ncb">Moses</persName> nicht „Gewinn“ aus
+                            meiner Arbeit zu ziehn, ohne daß ich auch dabei etwas
+                            gewinne.</orig><note xml:id="ae1a2350-f97e-427c-8769-a7aee38765fb"><persName key="ed_ygm_hhs_ncb">Moses Heß</persName>. – <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> – Siehe <ref target="B00452"><?oxy_comment_start author="reichhoff" timestamp="20180612T152208+0200" comment="(Br. 442.43–55)"?>V.
+                                Schily an Marx, 27.11.1867<?oxy_comment_end?></ref> „Die Hauptsache
+                            ist ...“.</note></seg></p>
+                <p>Mit dem Fenianism muß ich diplomatisiren. Ich kann nicht
+                    ganz schweigen, aber ich will auch in keiner Weise, daß die Kerls die Kritik
+                    meines Buchs darin zusammenfassen, <pb/> daß ich ein Demagog bin.</p>
+                <p><seg type="comment"><orig>Den dem <persName key="pdrPo.001.004.000000542">Borkheim</persName> gehörigen <hi rendition="#u"><persName key="pdrPo.001.004.000001753">Gentz</persName></hi> (wichtig
+                            wegen <expan>d<ex>es</ex></expan> Artikels über Rßld)</orig><note xml:id="a2181c32-848f-4ba2-9287-76c877ee55b1">Friedrich von Gentz: Essai
+                            historique et politique sur les rapports entre la Porte Ottomane et les
+                            principales puissances de l’Europe. In: <bibl sameAs="zotero-604880-6C2DPMLE" type="primary">[Friedrich von
+                                Gentz:] Aus dem Nachlasse Friedrichs von Gentz. Bd. 2. Wien
+                                1868</bibl> [vielm. 1867]. S. 159–232. Siehe <ref target="B00438"><?oxy_comment_start author="reichhoff" timestamp="20180612T152321+0200" comment="(Br. 428.24–26)"?>S.
+                                L. Borkheim an Marx, 20.11.1867<?oxy_comment_end?></ref> „Der so
+                            eben erschienene ...“ und Erl.</note></seg>
+                    <hi rendition="#u">schicke</hi> ich Dir ohne <expan>s<ex>ein</ex></expan>
+                    Wissen. Du retournirst ihn mir, sobald Du fertig.</p>
+                <p>Ich habe jezt ziemlich allgemeinen Ausschlag v.
+                    furuncles u. das ist mir lieb. Es bricht die Carbunkelkrankheit.</p>
+                <p>Salut</p>
+                <closer>D.<lb/>Moro</closer>
+                <postscript>
+                    <p>My compliments to <persName key="pdrPo.001.004.000000698">Mrs. Burns.</persName>
+                        <seg type="comment"><orig><persName key="pdrPo.001.004.000003074">Jenny</persName> goes in black since the
+                                        <expan>Manch<ex>ester</ex></expan> execution, and wears her
+                                Polish cross on a <hi rendition="#u">green</hi> ribbon.</orig><note xml:id="c117ffe5-5a88-473f-a6f3-d74a264ea50d">Nach der Hinrichtung
+                                der Fenier <persName key="ed_nsv_bxm_qcb">Michael Larkin</persName>,
+                                    <persName key="ed_gd4_4n4_qgb">William Allen</persName> und
+                                    <persName key="ed_krb_jlb_wcb">Michael O'Brien</persName> am
+                                23. November 1867 (siehe <ref target="B00413"><?oxy_comment_start author="lindenberg" timestamp="20191204T155438+0100" comment=" 403s"?>Erl.
+                                    zu Marx an Engels, 2.11.1867<?oxy_comment_end?></ref>) trug
+                                Marx’ Tochter <persName key="pdrPo.001.004.000003074">Jenny</persName> zum Zeichen der Trauer das polnische Kreuz,
+                                das sie zum Geburtstag geschenkt bekommen hatte, an einem grünen
+                                Band. (Grün ist die Nationalfarbe Irlands.) Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180612T152458+0200" comment="(Br. 246.38–45)"?>Jenny
+                                    Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref> „A
+                                few days ago ...“ und <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180612T152533+0200" comment="(Br. 255.27)"?>Marx
+                                    an Jenny Marx (Tochter), 5. 5.1867 <?oxy_comment_end?></ref> „I
+                                was very glad ...“.</note></seg>
+                    </p>
+                </postscript>
+            </div></body></text></TEI>

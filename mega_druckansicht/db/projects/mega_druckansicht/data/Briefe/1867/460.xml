@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_gym_mzh_2gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>460</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Donnerstag, 5.
+                    Dezember 1867</title>
+            </titleStmt> <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">Sign. D 470/D I 139 Fotosign. 9693</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Der
+                            Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            134 × 210 mm. Aufdruck der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx, 8. Januar 1866) auf der
+                            ersten Seite oben links. Die Adresse „65, Fenchurch Street“ hat Borkheim
+                            gestrichen und mit der neuen Adresse in Handschrift ersetzt. Die erste
+                            Seite hat Borkheim fast vollständig beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze
+                            Tinte.<?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20181219T183424+0100" comment="stand mit bei ZB zu 459"?></p><?oxy_comment_end?>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000542">Borkheim, Sigismund Ludwig
+                        (1826-1885)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-12-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings, <lb/>93, Bishopsgate St. <hi rendition="#mPrint">E. C.</hi><lb/><hi rendition="#mPrint">London,</hi>
+                        5 Dec <hi rendition="#mPrint">18</hi>67 <lb/>12. a.m.</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>So eben erhalte ich die Anzeige, daß <seg type="comment"><orig>Ihr Vorschlag re
+                            Pump</orig><note xml:id="nskq_dc3_2gb">Siehe <ref target="B00455"><?oxy_comment_start author="lindenberg" timestamp="20191210T150031+0100" comment=" (Br. 445.4–9)"?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref> und <ref target="B00458"><?oxy_comment_start author="lindenberg" timestamp="20191210T150345+0100" comment="(Br. 448.6–9)"?>S.
+                                L. Borkheim an Marx, 30.11.1867<?oxy_comment_end?></ref>. Zur
+                            Geschichte dieser Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20191210T150513+0100" comment="(Br. 360.127–130) und Erl. 360dd"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T150622+0100" comment="(Br. 360.127–130) und Erl. 360dd"?>Erl.<?oxy_comment_end?>
+                        </note></seg>
+                    <hi rendition="#u">genehmigt</hi> ist. Nur möchten Sie noch morgen, Freitag um
+                    12 Uhr auf das Office der <orgName key="ed_jsl_nsv_zjb">Gesellschaft</orgName>
+                    kommen, 34 King Street Cheapside, um sich vom Arzt untersuchen zu lassen. Kommen
+                    Sie also 11.30 zu mir; wir können dann zusammen hingehen.</p>
+                <closer>
+                    <salute>Freundlichst grüßt</salute>
+                    <signed>Borkheim.</signed>
+                </closer>
+            </div>
+            <div type="writingSession">
+                <p>Gestern sandte ich Ihnen p. Stadtpost <seg type="comment"><orig>einen Brief von
+                                <persName key="pdrPo.001.004.000002616">Kugelmann</persName></orig><note xml:id="nhb2_hc3_2gb">Siehe <ref target="B00464"><?oxy_comment_start author="lindenberg" timestamp="20191210T154337+0100" comment="455"?>L.
+                                Kugelmann an Marx, 1.12.1867<?oxy_comment_end?></ref> und <ref target="B00467"><?oxy_comment_start author="lindenberg" timestamp="20191210T154406+0100" comment="(Br. 458.12–13)"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> „Vorgestern
+                            legte ich ...“.</note></seg>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_eyh_jsl_52b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antwort von Mathew Lawrence an die Pariser Schneider vom 31. März oder
+                    1. April 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <?oxy_comment_start author="lindenberg" timestamp="20180813T145216+0200" comment="Erscheint nicht in der Webansicht"?>
+                    <p><?oxy_comment_end?>Die Notiz ist eine Beilage zum Brief von <ref target="B00242">M. Lawrence an Marx, 1.4.1867.</ref></p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 21, op. 1
+                            d. 77/1.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 21,
+                            op. 1, d. 77/1.</p>
+                        <p>Vorder- und Rückseite sind beschrieben.</p>
+                        <p>Aufdruck: „London Tailors Central“.</p>
+                        <p>Archivsignatur des ИМЭ auf beiden Seiten: „RJ 686a&lt;–&gt;b“.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_rr5_4hk_wy">Lawrence, Mathew (etwa 1835-1869)</persName>
+                <?oxy_comment_start author="lindenberg" timestamp="20180813T153130+0200" comment="Erscheint nicht in der Webansicht"?>
+                <date notBefore="1867-03-31" notAfter="1867-04-01" cert="high"/>
+                <?oxy_comment_end?>
+            </creation>
+            <textClass>
+                <keywords>
+                    <term key="ed_jtl_xrw_ww">Internationale Arbeiter-Assoziation (IAA, A.I.T.,
+                        I.W.M.A.)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p><seg type="comment"><orig><?oxy_comment_start author="lindenberg" timestamp="20190923T143754+0200" comment="Wir bestätigen den Erhalt Ihres Telegramms mit vollem Vertrauen auf Ihren Erfolg und versprechen Ihnen alle unsere Unterstützung, Material und Moral."?>Nous
+                            accusons reception de votre telegramme ayant pleine confiance dans votre
+                            succès nous vous promettons tout notre concours, matériel et
+                            moral.<?oxy_comment_end?></orig><note xml:id="nk3f_bqg_v2b">Siehe <ref target="B00242">Erl. zu M. Lawrence an Marx,
+                        1.4.1867.</ref></note></seg>
+                    <pb n=""/></p>
+                <p>Dr. Marx <lb/>1 Modena Villas <lb/>Maitland Park <lb/>Haverstock Hill</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00362" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>353</idno>Adolph Davisson an Friedrich Engels in Manchester. Manchester, Freitag, 27. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 1081/L III 24–4 Fotosign. 8145.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, blauem Papier im Format 255 × 203 mm. Aufdruck
+                            auf der ersten Seite: „A. Davisson.“ (links) sowie „36, Cooper Street,
+                            Manchester“ (mittig) und anschließend das Datum (rechts). (siehe
+                            Davisson an Engels, 2. Februar 1867). Die erste Seite hat Davisson
+                            vollständig beschrieben, die übrigen drei Seiten sind leer.
+                            Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des SPD-Archivs auf der ersten Seite oben: „II 21 K 128“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 6634</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001107">Davisson, Adolph N.</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-09-27"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:53Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">A. Davisson.</hi>
+                        <lb/>
+                        <hi rendition="#mPrint">36, Cooper Street,</hi>
+                        <lb/><hi rendition="#mPrint"> Manchester</hi> 27<hi rendition="#sup">t</hi>
+                        Sept. <hi rendition="#mPrint">186</hi>7</dateline>
+                    <salute>Lieber H. Engels,</salute>
+                </opener>
+                <p>Ich muß sehr um Entschuldigung bitten <seg type="comment"><orig>meinem Versprechen betreffs Rückzahlung der mir von
+                            Ihnen freundlichst geliehenen Summe</orig><note xml:id="f2a1d824-5349-4195-b5fd-411f0bf4c175">Siehe <ref target="B00349"><?oxy_comment_start author="reichhoff" timestamp="20180529T160216+0200" comment="(Br. 340.3–7)"?>A.
+                                N. Davisson an Engels,
+                        12.9.1867<?oxy_comment_end?></ref>.</note></seg> nicht nachgekommen zu sein
+                    &amp; kann Sie versichern daß nur ganz unvorhergesehene Verzögerungen mich daran
+                    abgehalten haben. Ich hoffe nun aber sicherlich in der nächsten Woche meine
+                    Schuld abzutragen &amp; bitte Sie Sich bis dahin freundlichst gedulden zu
+                    wollen.</p>
+                <closer>Mit bestem Gruße<lb/>Ihr A. Davisson <pb/></closer>
+            </div></body></text></TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00377" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>367</idno>Carl Siebel an Karl Marx in London. Honnef am Rhein, vor
+                    Dienstag, 8. Oktober 1867</title>
+            </titleStmt><editionStmt>
+            <edition ana="#firstEdition">Dieser Brief wird hier erstmals
+                veröffentlicht.</edition></editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 4075/D VII 75 Fotosign. 12380.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            282 × 220 mm. Prägung: „Siebel“. Die erste Seite hat Siebel vollständig
+                            beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial:
+                            schwarze Tinte. „Comissionär“ ist über „Spediteur“  geschrieben.  </p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 16 N<hi rendition="#sup">o</hi> 33&lt;a&gt;“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1744</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000004424">Siebel, Carl (1836-1868)</persName>
+                    <placeName key="ed_qh1_ydh_4db">Bad Honnef</placeName>
+                    <date when="1867-10-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der Brief ist den Bemühungen Siebels, den ersten Band des
+                    „Kapitals“ in der deutschen Presse zu annoncieren, gewidmet. Das Buch wurde in
+                    Leipzig gedruckt, von hier aus wurde der erste Band des „Kapitals“ ausgeliefert
+                    . Die dem Brief beigelegte „Notiz der Kölner.“ erwähnte Marx in seinem Brief an
+                    Engels vom 8. Oktober 1867 (siehe <ref target="B00378"><?oxy_comment_start author="lindenberg" timestamp="20190219T155331+0100" comment="Br. 368.8–9"?>Engels
+                        an Marx, 8.10.1867<?oxy_comment_end?></ref>). Daraus folgt, daß Siebel
+                    seinen Brief an Marx kurz vor dem 8. Oktober 1867 geschrieben hatte.</note>
+                <note>Die Beilage zum Brief („eine Notiz der Kölner.“) ist nicht überliefert. Siehe
+                    dazu Erl. </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:04Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute><pb/> Lieber Freund!</salute>
+                </opener>
+                <p>Schreib erst heute, weil Sendung nach Cöln, da Leipzig Auslieferungsort, ohne
+                    Zweck. War vorgestern in Cöln. <seg type="comment"><orig>Hier eine Notiz der
+                                <bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Kölner</bibl>.</orig><note xml:id="c4cd363a-6397-4c15-a805-bfa5c8c0c863">Bei Otto Meißner in
+                            Hamburg ist eben erschien … In: Kölnische Zeitung. Nr. 280, 9. Oktober
+                            1867. 1. Blatt. S. 1, Sp. 1. Der vollständige Text der Anzeige hieß:
+                            „Bei Otto Meißner in Hamburg ist eben erschienen: Das Kapital. Kritik
+                            der politischen Oekonomie. Von Karl Marx. Erster Band.
+                            Productionsprozess des Kapitals. 50 Bogen gr. 8. Preis 3⅓ Thlr.
+                            vorräthig in der M. Du Mont-Schauberg’schen Buchhandlung in Köln.“ – Zu
+                            anderen Anzeigen über den ersten Band des „Kapital“ siehe auch <ref target="B00264"><?oxy_comment_start author="lindenberg" timestamp="20190725T170802+0200" comment="255i"?>Marx
+                                an J. Marx (Tochter), 5.5.1867<?oxy_comment_end?></ref> „Preliminary
+                            notices …“ und Erl. sowie <ref target="B00378"><?oxy_comment_start author="lindenberg" timestamp="20190725T170718+0200" comment="368e.."?>Engels
+                                an Marx, 8.10.1867<?oxy_comment_end?></ref> „die Annonce“ und Erl.
+                        </note></seg> Die Buchhändleranzeige geht morgen ab. Geh gleich zu <orgName key="ed_xmv_zf3_hfb">Stenger</orgName>, damit die Auslieferungen, die die
+                    Annonce provocirt, nicht zu lange hinausgeschoben werden. <orgName key="ed_i45_fn3_jhb">Immanuel Müller</orgName> ist der
+                    Spediteur \ Comissionär der <orgName key="ed_pxz_qn3_jhb">Schmitz’schen
+                        Buchhandlung</orgName> in Leipzig. Grüß Deine liebe <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">Frau</persName></orig><note xml:id="b4f4f67d-b825-4ce8-a8fe-52ce0efa6f96"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>.</note></seg> –
+                    auch die <seg type="comment"><orig>Fräuleins</orig><note xml:id="cdd8e6d3-932b-497f-b041-8bdc1f3ec767">Marx’ Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName>.</note></seg>, wenn
+                    Sie noch Ahnung von meinem Dasein haben.</p>
+                <closer>Herzlichst<lb/>Sbl <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

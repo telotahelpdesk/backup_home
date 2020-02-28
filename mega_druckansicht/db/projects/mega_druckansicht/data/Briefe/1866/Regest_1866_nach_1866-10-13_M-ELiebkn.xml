@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_zfc_mlf_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Ernestine Liebknecht. Nach Samstag, 13. Oktober
+                    <?oxy_comment_start author="lindenberg" timestamp="20170616T203803+0200" comment="Wie ist die Datierung entstanden?"?>1866<?oxy_comment_end?></title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date when="1866-10-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002819">Liebknecht, Ernestine
+                        (1832-1867)</persName>
+                </correspAction>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Marx an Ernestine Liebknecht, geschrieben nach dem
+                    13. Oktober 1866; siehe Wilhelm Liebknecht an Karl Marx in Hannover Leipzig,
+                    Donnerstag, 25. April 1867 u. <ref target="B00176">Wilhelm Liebknecht an
+                        Friedrich Engels in Manchester. Berlin, Montag, 1. Oktober 1866.</ref></p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

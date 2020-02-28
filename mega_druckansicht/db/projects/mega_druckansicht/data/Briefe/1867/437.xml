@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00447" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>437</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Dienstag, 26. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 466/D I
+                                <?oxy_comment_start author="lindenberg" timestamp="20181218T142928+0100" comment="Fotosignatur fehlt"?>135<?oxy_comment_end?></idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            271 × 210 mm. Aufdruck der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx, 8. Januar 1866) auf der
+                            ersten Seite oben links. Die erste Seite hat Borkheim zu zwei Dritteln
+                            beschrieben, die übrigen drei Seiten sind leer. Die Adresse „65,
+                            Fenchurch Street“ hat Borkheim gestrichen und mit der neuen Adresse in
+                            Handschrift ersetzt. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1773</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-11-26"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:57Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings<lb/>93 Bishopsgate
+                        St. <hi rendition="#mPrint">E.C.</hi><lb/><hi rendition="#mPrint">London,</hi> 26 Nov <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Die mir versprochene Hülfe</orig><note xml:id="e899d66a-b230-4c6e-8d2e-9de427582474">Siehe <ref target="B00443"><?oxy_comment_start author="reichhoff" timestamp="20180612T101835+0200" comment="(Br. 433.115)"?>S.
+                                L. Borkheim an Marx, 24.11.1867<?oxy_comment_end?></ref>
+                            „<?oxy_comment_start author="lindenberg" timestamp="20191202T112207+0100" comment="unsicher, denn die Z. 115 bezieht sich nicht auf die Geldangelegenheiten, paßt aber nicht so recht in die Aussage"?>Es
+                            ist Hoffnung da ...<?oxy_comment_end?>“ und Erl.</note></seg> besteht in
+                    dem Beistande einer Kompagnie. Können Sie morgen Nachmittag drei Uhr bei mir auf
+                    dem office sein, um Rath zu schlagen, denn das Ding liegt nicht so ganz
+                    einfach.</p>
+                <closer>Ihr<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

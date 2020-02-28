@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_y2y_by2_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Inserat über den ersten Band des „Kapitals“.</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. L 4909/L VII 28.
+                        Fotosign. 8880&lt;c&gt;. Archivsignatur des SPD-Archivs: II 10
+                        N°48&lt;c&gt;.</p>
+                    <p>Das Inserat ist eine Beilage zu: <ref target="B00437">Otto Meißner an Karl
+                            Marx in London. Hamburg, Dienstag, 19. November 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Sign. L 4909/L VII 28. Fotosign. 8880(c)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p/>
+                <p><hi rendition="#c"><hi rendition="#mPrint">Bei <hi rendition="#b">Otto
+                                Meißner</hi>, in <hi rendition="#b">Hamburg</hi> ist eben
+                            erschien:</hi></hi></p>
+                <p><hi rendition="#c"><hi rendition="#b"><hi rendition="#mPrint">Das
+                            Kapital.</hi></hi></hi></p>
+                <p><hi rendition="#c"><hi rendition="#mPrint">Kritik der politischen
+                        Oekonomie.</hi></hi></p>
+                <p><hi rendition="#c"><hi rendition="#mPrint">Von</hi></hi></p>
+                <p><hi rendition="#b"><hi rendition="#c"><hi rendition="#mPrint">Carl
+                            Marx.</hi></hi></hi></p>
+                <p><hi rendition="#c"><hi rendition="#mPrint">Erster Band. 50 Bogen gr. 8. Preis 3⅓
+                            Thaler.</hi></hi></p>
+                <p><?oxy_comment_start author="lindenberg" timestamp="20191009T123521+0200" comment="Blocksatz?"?><hi rendition="#mPrint">Inhalt: <hi rendition="#b">Productionsprocess des
+                            Kapitals.</hi> – Waare und Geld. – Verwandlung von Geld in Kapital. –
+                        Die Production des absoluten Mehrwerths. – Die Production des relativen
+                        Mehrwerths. – Weitere Untersuchungen über die Production des absoluten und
+                        relativen Mehrwerths. – Der Accumulationsprocess des
+                    Kapitals.</hi><?oxy_comment_end?></p>
+            </div>
+        </body>
+    </text>
+</TEI>

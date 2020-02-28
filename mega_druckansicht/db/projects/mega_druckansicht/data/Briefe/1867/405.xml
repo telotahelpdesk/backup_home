@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00415" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>405</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester. London, Dienstag, 5. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 693/L II 98 Fotosign. 9861.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 270 × 210 mm. Aufdruck
+                            der Firma<orgName key="pdrPo.001.015.000090279"> „Schröder &amp; Schÿler
+                                &amp; C<hi rendition="#sup">o</hi>“</orgName> (siehe Borkheim an
+                            Marx, 8. Januar 1866) auf der ersten Seite oben links. Die Adresse „65,
+                            Fenchurch Street E.C.“ hat Borkheim gestrichen und durch die neue
+                            Adresse handschriftlich ersetzt. Die erste Seite hat Borkheim zu drei
+                            Vierteln beschrieben, die übrigen drei Seiten sind leer.
+                            Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: auf der ersten Seite oben: Nummerierung des Briefes mit Bleistift: „44“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1761</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-11-05"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:30Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <seg type="comment"><orig>Palmerston Bldgs</orig><note xml:id="nubf_r53_mjb">Palmerston Buildings, Gebäudekomplex entlang der Bishopsgate und
+                                Broad Street.</note></seg><lb/>Bishopsgate Street.<lb/><hi rendition="#mPrint">London,</hi> 5 Nov <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Engels,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Hier bin ich wieder, einige Tage später zurückgekehrt
+                            <?oxy_comment_start author="lindenberg" timestamp="20181207T115227+0100" comment="auf der Fotokopie sieht es nach Textverlust aus a[ls] - am Digitalsiat prüfen!"?>als<?oxy_comment_end?>
+                            ich dachte.</orig><note xml:id="b19d98cf-2838-47d5-8014-4e6a887eebcb">Borkheim reiste nach Bordeaux. Siehe <ref target="B00398">S. L.
+                                Borkheim<?oxy_comment_start author="reichhoff" timestamp="20180606T105228+0200" comment="(Br. 388.13–14)"?>
+                                an Engels, 16.10.1867<?oxy_comment_end?></ref> und <ref target="B00393">S. L. Borkheim an Engels,
+                        14.10.1867</ref>.</note></seg></p>
+                <p>Was haben Sie
+                    <?oxy_comment_start author="lindenberg" timestamp="20181207T115329+0100" comment="{ausgetüftelt ? Ms. Beschädigt, „d“ deutlich}"?>ausgedüftelt<?oxy_comment_end?>
+                    re <seg type="comment"><orig>Marx – Geld?</orig><note xml:id="fe99ee60-a933-4848-9b45-8be9a346b84f">Siehe <ref target="B00398"><?oxy_comment_start author="reichhoff" timestamp="20180606T105329+0200" comment="(Br. 388.6–13)"?>S.
+                                L. Borkheim an Engels vom 16.<?oxy_comment_end?>10.1867</ref> und
+                                <ref target="B00400">S. L. Borkheim
+                                <?oxy_comment_start author="reichhoff" timestamp="20180606T105409+0200" comment="(Br. 390.3–5)"?>an
+                                Marx, 17.<?oxy_comment_end?>10.1867</ref> sowie <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T105447+0200" comment="(Br. 395.3–8)"?>Marx
+                                an Engels, 19.10.1867<?oxy_comment_end?></ref>. Zur Geschichte
+                            dieser Geldanleihe siehe auch <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180606T105530+0200" comment="(Br. 360.127–130) "?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und Erl.</note></seg></p>
+                <p>Nächstens besucht Sie der <seg type="comment"><orig>junge <persName key="ed_blf_k1t_gz">Schyler</persName></orig><note xml:id="a107e634-c35a-46ed-ad0a-dab005e957bf">vermutlich der Sohn des
+                            Miteigentümers der Weinhandlung „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schyler &amp; C°</orgName>“. Sein Vorname konnte
+                            nicht ermittelt werden.</note></seg> wahrscheinlich, aber <hi rendition="#u">nicht</hi> um zu drängeln.</p>
+                <closer>Freundlich grüßt<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

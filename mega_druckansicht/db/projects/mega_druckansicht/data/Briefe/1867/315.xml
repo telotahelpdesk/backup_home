@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00324" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>315</idno>Otto Meißner an Karl Marx in London. Hamburg, Samstag, 17.
+                    August 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3350/ D VI 36 Fotosign. 8875.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            230 × 142 mm. Die erste Seite hat Meißner zur Hälfte beschrieben, die
+                            übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1728</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003135">Otto Meißner</persName>
+                    <placeName key="ed_swt_wjv_cbb">Hamburg</placeName>
+                    <date when="1867-08-17"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <note>Meißner beantwortet einen nicht überlieferten Brief von Marx, geschrieben
+                    zwischen 13. und 17. August 1867 (siehe <ref target="B00317"><?oxy_comment_start author="lindenberg" timestamp="20190219T143723+0100" comment="Br. 308"?>O.
+                        Meißner an Marx, 13.8.1867</ref><?oxy_comment_end?> und <ref target="B00330"><?oxy_comment_start author="lindenberg" timestamp="20190219T143755+0100" comment="321.9"?>Marx
+                        an Engels, 24.8.1867<?oxy_comment_end?></ref>).</note>
+                <note>Zur Beilage („der Schluß“) zum Brief siehe Erl. </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:46:26Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Hamburg 17/8 67</dateline>
+                    <salute>Beifolgend lieber Herr Doctor, <seg type="comment"><orig>der Schluß</orig><note xml:id="a633ef5a-c68e-42d7-ae59-b06df9b31dfa">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</note></seg>, den ich
+                        ebenfalls mir zurück zu senden bitte.</salute>
+                </opener>
+                <p><seg type="comment"><orig>Abdrücke aus dem Vorwort sende
+                            Ihnen baldigst.</orig><note xml:id="edaa27e8-83aa-45a0-966a-4047a98a8b12">Siehe <ref target="B00317"><?oxy_comment_start author="reichhoff" timestamp="20180523T130441+0200" comment="(Br. 308.9–10)"?>O.
+                                Meißner an Marx, 13.8.1867<?oxy_comment_end?></ref> „Separatabdruck
+                            für die Zeitungen“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190606T114357+0200" comment="308d"?>Erl.<?oxy_comment_end?> Siehe
+                            auch <ref target="B00437">O.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180523T130611+0200" comment="(Br. 427.15–18)"?>Meißner
+                                an Marx, 19.11.1867<?oxy_comment_end?></ref> und Beilage
+                        2.</note></seg></p>
+                <closer>Ihr<lb/>Otto Meissner <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

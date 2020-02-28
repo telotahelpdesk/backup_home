@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00420" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>410</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen, Donnerstag, 7. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1 d. 11/24 Fotosign. 588.</idno></idno></msIdentifier><physDesc><p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 9, op. 1, d. 11/24. Fotosign. 588.</p><p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem Blatt. Die erste Seite hat
+                            Hermann Engels fast vollständig beschrieben.</p><p/></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001375">Hermann Engels</persName><placeName>Barmen</placeName><date when="1867-11-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00453"/>
+                </correspContext>
+                <note>Engels antwortete seinem Bruder am 28. November 1867 (siehe <ref target="B00453">Engels an H. Engels,
+                    28.11.1867</ref><?oxy_comment_start author="reichhoff" timestamp="20190221T120436+0100" comment="Br. 443
+"?>)<?oxy_comment_end?>.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:33Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <salute><pb/> Lieber Friedrich!</salute>
+                </opener>
+                <p>Wärst Du wohl so gut mir recht bald ein paar Zeilen Antwort <seg type="comment"><orig>auf mein Letztes vom 25. Octobr</orig><note xml:id="d2db2bdd-f3cf-4484-babe-666846b29308">Siehe <ref target="B00408"><?oxy_comment_start author="reichhoff" timestamp="20180606T123005+0200" comment="(Br. 398)"?>H.
+                                Engels an Engels, 25.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    wegen feinern N<hi rendition="#sup">ros</hi> Sewings Preise zukommen zu lassen;
+                    ich warte sehnlichst darauf! Was hälst Du von dem Gang der Preise für die
+                    nächsten Monate?</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000001367">Mutter</persName></orig><note xml:id="nijd_1rs_dhb"><persName key="pdrPo.001.004.000001367">Elisabeth
+                        Engels</persName>.</note></seg> ist wieder auf einige Tage nach
+                    Engelskirchen, wo die Kirche eingeweiht werden soll. –</p>
+                <p>Noch hiermit die Anzeige, daß unsere <seg type="comment"><orig><persName key="pdrPo.001.004.000001910">Elise</persName></orig><note xml:id="a7b9514c-c34d-4aa3-bfff-e5159a4f46a0"><persName key="pdrPo.001.004.000001910">Elise von
+                        Griesheim</persName>.</note></seg> vor einigen Tagen ein <seg type="comment"><orig><persName key="ed_yp4_1yt_zgb">Söhnchen</persName></orig><note xml:id="c2c5c24d-3434-4e3d-b3d7-ac4d30b2c363"><persName key="ed_yp4_1yt_zgb">Maximilian von
+                        Griesheim</persName>.</note></seg> geboren hat, Mutter &amp; Kind sollen
+                    wohl sein.</p>
+                <p>Also gieb mir betr. Nachricht ehe mir sonst die Preise
+                    wieder in die Höhe gehen.</p>
+                <closer>Herzlichen Gruß von Deinem<lb/>Herm. Engels</closer>
+</div><div type="writingSession"><p><expan>B<ex>armen</ex></expan> 7/11/67. <pb/></p>
+            </div></body></text></TEI>

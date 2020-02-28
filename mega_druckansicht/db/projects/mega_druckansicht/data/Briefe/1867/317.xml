@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00326" xml:lang="de"><teiHeader><fileDesc><titleStmt>
+                <title><idno>317</idno>W. H. Claus an Friedrich Engels in Manchester. Manchester,
+                    Freitag, 21. August 1867</title>
+            </titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 942/L III 10–1 Fotosign. 8265&lt;a–b&gt;.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 197 × 155 mm.
+                            Wasserzeichen: „[J]oynson 1865“. Prägung:
+                            <?oxy_comment_start author="lindenberg" timestamp="20190201T123745+0100" comment="vorher: Gürtel"?>Oval<?oxy_comment_end?>
+                            mit der Aufschrift „<orgName key="ed_ztq_htn_zhb">Albert Club
+                                Manchester</orgName>“. Claus hat die erste Seite vollständig, die
+                            dritte zur Hälfte beschrieben, die zweite und die dritte Seite sind
+                            leer. Schreibmaterial: schwarze Tinte.</p><p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 E 19“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1730</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000916">Claus, W. H.</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-08-21"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:28Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Aug 21<hi rendition="#sup">st
+                        </hi>1867</dateline>
+                    <salute>Dear Engels</salute>
+                </opener>
+                <p><seg type="comment"><orig>I should be glad to see
+                            you.</orig><note xml:id="d9ae230f-7ffe-486a-8155-9a7f82d32f5f">Siehe
+                            auch <ref target="B00328"><?oxy_comment_start author="reichhoff" timestamp="20180523T132214+0200" comment="(Br. 319)"?>W.
+                                H. Claus an Engels, 22.8.1867<?oxy_comment_end?></ref>
+                            (Br. 319).</note></seg> Just returned from Africa. <seg type="comment"><orig>Called upon <persName key="pdrPo.001.004.000001969">Gumpert</persName> but find him absent.</orig><note xml:id="e1ae6782-3591-4c12-a28f-c0b27d22f0ad"><persName key="pdrPo.001.004.000001969">Eduard Gumpert</persName> kam etwa
+                            Ende August – Anfang September 1867 nach Manchester zurück (siehe <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180523T132321+0200" comment="(Br. 330.22))."?>Engels
+                                an Marx, 2.9.1867 <?oxy_comment_end?></ref>).</note></seg> Leaving
+                    Manchester to-morrow again for Paris &amp; Germany. </p>
+                <p><pb/> Will see you again after my return &amp; settle old
+                    scores.</p>
+                <closer>Yours very sincerely<lb/>W.H. Claus.</closer>
+</div>
+    <div type="writingSession">
+        <p>In haste <pb/></p>
+            </div></body></text></TEI>

@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">La Situation en France [MECW]</title>
+                <author>
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-08-30</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Marx, Karl:] Que fait le ministère? In: La Réforme. 19. Januar 1848. S. 3.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Que fait le ministère?</title>
+                        <author>
+                            <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                        </author>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>unknown</publisher>
+                        <pubPlace>Paris</pubPlace>
+                        <date type="publication">1848-01-19</date>
+                        <date type="creation">1848-01-16</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">La Réforme</title>
+                        <biblScope unit="issue">19. Januar 1848</biblScope>
+                        <biblScope unit="page">[3]</biblScope>
+                        <biblScope unit="column">1</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <p>La <hi rendition="#i">Gazette allemande</hi> de Bruxelles dépeint, en ces lignes,
+                    la situation de la France:</p>
+                <p>«Que fait le ministère? — Rien.<lb/>
+                Que fait l’opposition parlementaire, légale? — <choice>
+                        <sic>Rien</sic>
+                        <corr cert="high">Rien.</corr>
+                </choice><lb/>
+                    Que doit attendre la France des chambres actuelles? — Rien.<lb/>
+                    Que veut M. Guizot? — Rester au ministère.<lb/>
+                    Que veulent MM. Thiers, Molé et compagnie? — Rentrer au ministère.<lb/>
+                Que gagne la France avec cet éternel: <hi rendition="#i">ôte-toi de là, afin que
+                    je m’y mette</hi>? — Rien.<lb/>
+                Ministère et opposition sont donc condamnés <hi rendition="#i">à ne rien
+                    faire</hi>.<lb/>
+                Qui accomplira seul la prochaine révolution française? — Le
+                prolétariat.<lb/>
+                Qu’y fera la bourgeoisie? — Rien.»</p>
+                <p><?oxy_comment_start author="pagel" timestamp="20180830T162606+0200" comment="Im ET bringen?"?>—
+                    La dernière assemblée de la <hi rendition="#i">société démocratique</hi> du
+                    Bruxelles a été plus nombreuse qu’elle n’a jamais été. Un grand nombre
+                    d’étrangers y assistaient, et de nouveaux membres ont été admis.</p>
+                <p>Dans cette séance, M. Charles <choice>
+                        <sic>Man</sic>
+                        <corr cert="high">Marx</corr>
+                    </choice> a traité la question de la <hi rendition="#i">liberté du commerce</hi>
+                    (libre échange), dans un discours des plus remarquables qu’il termina par les
+                    conclusions suivantes:</p>
+                <p>«En général, messieurs, pour notre époque, le système <hi rendition="#i">protectionniste</hi> est <hi rendition="#i">conservateur</hi>, tandis que
+                    celui du <hi rendition="#i">libre échange</hi> est <hi rendition="#i">destructeur</hi>. Ce dernier tend à dissoudre les vieilles nationalités et
+                    à mettre en évidence la lutte de la bourgeoisie et du prolétariat. Il hâte la
+                        <hi rendition="#i">révolution sociale</hi>, et sous ce point de vue les
+                    démocrates peuvent voter pour le libre échange.»<?oxy_comment_end?></p>
+            </div>
+        </body>
+    </text>
+</TEI>

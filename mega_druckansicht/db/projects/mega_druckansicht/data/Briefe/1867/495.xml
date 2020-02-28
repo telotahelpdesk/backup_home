@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00505" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>495</idno>Elisabeth Engels an Friedrich Engels in Manchester. Barmen,
+                    Montag, 30. Dezember 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9
+                                op. 1 d. 6/24 Fotosign. 794&lt;a–b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 9,
+                            op. 1, d. 6/24. Fotosign. 794&lt;a–b&gt;.</p>
+                        <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem
+                            Bogen. Der Schluß des Briefes fehlt. Alle vier Seiten hat Elisabeth
+                            Engels vollständig beschrieben.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001367">Engels, Elisabeth (1797-1873)</persName>
+                    <placeName>Barmen</placeName>
+                    <date when="1867-12-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+                <note>Elisabeth Engels beantwortet einen nicht überlieferten Brief von Engels vom
+                    21. Dezember
+                    1867<?oxy_comment_start author="lindenberg" timestamp="20190326T163300+0100" comment="(siehe Z. 3–5)"?>.<?oxy_comment_end?></note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:32Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> Barmen 30 Decbr. 67</dateline><salute>Lieber Friedrich</salute></opener>
+                <p>Deinen Brief vom 21. d.M. habe ich erhalten u. freute mich gleich wie ich ihn
+                    geöffnet hatte über seine Länge, alle Seiten voll geschrieben, einen solchen
+                    langen Brief habe ich lange nicht von Dir erhalten. Daß es mit <seg type="comment"><orig>den Ermens</orig><note xml:id="nesn_j5l_kgb"><persName key="pdrPo.001.004.000001406">Anton</persName> und <persName key="pdrPo.001.004.000001409">Gottfried Ermen</persName>. – Siehe
+                                <ref target="B00240"><?oxy_comment_start author="reichhoff" timestamp="20180618T095935+0200" comment="(Br. 231.26–44)"?>H.
+                                Engels an Engels, 28.<?oxy_comment_end?>3.1867</ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200114T111447+0100" comment="{231b}"?>Erl<?oxy_comment_end?>.
+                            sowie <ref target="B00290">H. Engels an Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180618T100021+0200" comment="(Br. 281.3–15)"?>3.7.1867<?oxy_comment_end?></ref>.</note></seg>
+                    so fort geht, mit lauter kleinen Unannehmlichkeiten kann ich mir wol denken u.
+                    es wird auch so fort gehn so lange ihr zusammen seid, der <seg type="comment"><orig><persName key="pdrPo.001.004.000001372">Vater</persName></orig><note xml:id="nz3q_l5l_kgb"><persName key="pdrPo.001.004.000001372">Friedrich Engels</persName>
+                            (senior).</note></seg> hatte es nicht besser mit ihnen, nur mit dem
+                    Unterschied daß er nur alle Jahr einmal mit ihnen zusammen kam, Du dagegen
+                    täglich den Krakel hast. Du mußt Geduld haben, sie werden nun einmal nicht
+                    anders. Ich denke mir übrigens wenn Du mal mit ihnen nichts mehr <pb/> zu thun
+                    hast werden wir Dich immer die Christtage hier haben, wenn mir der liebe Gott
+                    das Leben noch erhält wäre mir das eine große Freude. Wie am Weihnachts Abend
+                    die Kinder und Enkel alle hier waren habe ich viel daran gedacht, daß Du später
+                    wol unter uns sein würdest. Die Enkel waren sehr vergnügt u. wie immer sehr
+                    lebhaft, besonders stand eine kleine nette Drehorgel die <seg type="comment"><orig><persName key="pdrPo.001.004.000000452">Lili
+                            Blank</persName></orig><note xml:id="nqth_n5l_kgb"><persName key="pdrPo.001.004.000000452">Alice Blank</persName>.</note></seg>
+                    bekam den ganzen Abend nicht still. Ich bin wieder sehr reich beschenkt worden
+                    u. sage Dir hiermit auch noch meinen Dank dafür. Ich bekam 18 schöne Tassen mit
+                    den dazupassenden Tellerchen, ein Paar kleine Tischdecken, einen Kanarienvogel
+                    u. eine
+                    <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?><?oxy_comment_start author="lindenberg" timestamp="20190326T193836+0100" comment="Mantel" mid="5"?>Kapute<?oxy_custom_end?><?oxy_comment_end mid="5"?>,
+                    außerdem aber von den verschiedenen Enkeln Stickereien, eine schöne Fußbank,
+                    Papierkorb, <pb/>
+                    <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>3 Kläulbecher<?oxy_custom_end?>
+                    (weil ich sie so leicht zerbreche) 1 Korb für schmutzige Wäsche, alles gestickt
+                    u. ich werde so reichlich mit schönen Arbeiten versorgt daß ich für
+                            <expan>Engelsk<ex>irchen</ex></expan> mit genug habe. Mit meiner
+                    Gesundheit geht es wie im Winter immer, ich darf nicht viel heraus, ein mal habe
+                    ich das Bett schon ein Paar Tage hüten müssen, ich hatte mich dadurch verdorben
+                    daß ich Einkäufe für Christtag machen wollte, das geht nun einmal nicht mehr.
+                    Ich will Dir nur eben dabei bemerken daß ich Dir Deine Th. 50 für Christtag gut
+                    schreiben lasse.</p>
+                <p>Wie ich von Engelsk. hier her kam war <seg type="comment"><orig><persName key="pdrPo.001.004.000004424">C. Siebel</persName> schon nach Madera
+                            abgereißt</orig><note xml:id="nzlk_q5l_kgb"><persName key="pdrPo.001.004.000004424">Carl Siebel</persName> und seine
+                                <persName key="pdrPo.001.004.000004427">Frau</persName> kamen am
+                            19. November 1867 auf Madeira an. Siehe<ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180618T100119+0200" comment="(Br. 432.5–16)."?>
+                                C. Siebel an Engels, 23.11.1867<?oxy_comment_end?></ref>. – Madera -
+                            richtig: Madeira.</note></seg>, vor einigen Tagen hörte ich von seiner
+                        <persName key="pdrPo.001.004.000004428">Mutter</persName>
+                    <seg type="comment"><orig>daß er sehr krank gewesen sei,</orig><note xml:id="nknf_y5l_kgb">Siehe <ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180618T100149+0200" comment="(Br. 432.9–10)"?>C.
+                                Siebel an Engels, 23.11.1867 <?oxy_comment_end?></ref>„aber wozu
+                            dann ...“ und <ref target="B00495">C.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180618T100227+0200" comment="(Br. 486.17–18)."?>Siebel
+                                an Engels, 20.12.1867 <?oxy_comment_end?></ref> „Ich war recht krank
+                            ...“.</note></seg> sie hätten nehmlich zwei sehr stürmische Tage gehabt
+                    wo sie Alle ganz durchnäßt gewesen wären, in Folge davon sei er sehr krank doch
+                    wieder etwas auf der <pb/> Besserung. In <seg type="comment"><orig>Boellings
+                            Familie</orig><note xml:id="nknv_z5l_kgb">Familie von <persName key="pdrPo.001.004.000000502">Hedwig</persName> und <persName key="pdrPo.001.004.000000501">Friedrich Wilhelm
+                            Boelling</persName>.</note></seg> haben sie auch einen solchen Kranken
+                    in der Fremde, ein<ex>en</ex> jungen <seg type="comment"><orig><persName key="ed_gr2_5cq_jkb">Prinzen</persName></orig><note xml:id="nrc2_dvl_kgb">Nicht ermittelt.</note></seg>, <seg type="comment"><orig>seine Mutter</orig><note xml:id="nbj5_gvl_kgb"><persName key="ed_gvg_4bq_jkb">Friederika
+                            Printzen</persName><?oxy_comment_start author="lindenberg" timestamp="20200114T140244+0100" comment="http://www.heidermanns.net/gen-pers.php?ID=47809-47810"?>
+                            geb. Boelling<?oxy_comment_end?>, Schwester von <persName key="pdrPo.001.004.000000501">Friedrich Boelling</persName>. Zur
+                            Genealogie siehe <ref target="http://www.heidermanns.net/gen-pers.php?ID=47809-47810">Frank Heidermanns</ref>. Siehe Elisabeth Engels an Engels, 15.
+                            September 1853. (MEGA<hi rendition="#sup">2</hi> III/7. S.
+                        273.)</note></seg> war eine Schwester von <persName key="pdrPo.001.004.000000501">Fr. Boelling</persName>, die <seg type="comment"><orig>Eltern</orig><note xml:id="nalf_1zp_jkb"><persName key="ed_ohh_2yp_jkb">Friederika</persName> (geb. Boelling) und
+                                <persName key="ed_nyq_lzp_jkb">Gustav Printzen</persName>; die
+                            Tochter <persName key="ed_cs1_cdq_jkb">Adele Printzen</persName> war
+                            seit 1862 mit <persName key="pdrPo.001.004.000001449">Ernst von
+                                Eynern</persName> verheiratet. Der Name des Sohnes konnte nicht
+                            ermittelt werden. Zur
+                            <?oxy_comment_start author="lindenberg" timestamp="20200114T144606+0100" comment="http://www.heidermanns.net/gen-pers.php?ID=81729-81728"?>Genealogie<?oxy_comment_end?>
+                            siehe <ref target="http://www.heidermanns.net/gen-pers.php?ID=81729-81728">Frank Heidermanns</ref>. </note></seg> sind beide an der
+                    Schwindsucht gestorben, er war vor 3 Winter mit seiner <persName key="ed_tqg_sdq_jkb">Schwester</persName> in Pau u. darauf den Sommer in
+                    Reichenhall, wo er so gesund wieder kam, daß er wieder nach Gladbach in sein
+                    Geschäft ging, den ersten Winter ging es auch gut mit ihm doch im zweiten wurde
+                    er wieder krank u. war den ganzen Sommer theils in Ems theils in Meran, jetzt
+                    ist er wieder mit der Schwester in Mentone nahe bei Nitza, sie haben aber in den
+                    letzten Tagen so traurige Nachricht bekommen, daß der Schwager, ein Herr
+                        <persName key="pdrPo.001.004.000001449">v. Eÿnern</persName> gleich dahin
+                    abgereißt ist. Es ist eine traurige Sache, wenn diese Krankheit in der Familie
+                    ist. <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

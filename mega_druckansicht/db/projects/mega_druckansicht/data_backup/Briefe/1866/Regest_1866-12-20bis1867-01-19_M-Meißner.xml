@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_sq2_4sf_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karl Marx an Otto Meißner. Zwischen Donnerstag, 20. Dezember 1866 und
+                    Dienstag, 19. Januar 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <date from="1866-12-20" to="1867-02-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000003135">Meißner, Otto (1819-1902)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00209"/>
+                </correspContext>
+            </correspDesc>
+            <abstract>
+                <p>Nicht überlieferter Brief von Marx an Otto Meißner, geschrieben zwischen dem 20.
+                    Dezember 1866 und dem 19. Januar 1867; siehe Karl Marx an Friedrich Engels
+                    Manchester London, Samstag, 19. Januar 1867.</p>
+            </abstract>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute/>
+                </opener>
+				<p/>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

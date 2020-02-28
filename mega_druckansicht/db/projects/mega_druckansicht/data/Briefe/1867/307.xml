@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00316" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>307</idno>Louis und Gertrud Kugelmann an Karl Marx in London. Hannover,
+                    Montag, 12. August 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1724
+                                Fotosign. 29&lt;a–b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            285 × 215 mm. Prägung: „Dr. L. Kglm.“ Louis Kugelmann hat die erste
+                            Seite vollständig beschrieben, die letzte Passage („Beifolgende
+                            Broschüre ... Miquèl.“) steht, quer geschrieben, am linken Rand. Gertrud
+                            Kugelmann hat die zweite Seite zu einem Drittel beschrieben, die übrigen
+                            zwei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002616">Kugelmann, Louis (auch Ludwig)
+                        (1828-1902)</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                    <date when="1867-08-12"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <note>Die Beilage zum Brief („Beifolgende Broschüre“) ist nicht überliefert. Siehe
+                    Erl. </note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:46:17Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Hannover, 12. August 1867</dateline>
+                    <?oxy_comment_start author="lindenberg" timestamp="20181123T114910+0100" comment="vorher stand hier noch:
+{times}Hannover, 8. August 1867.
+!Briefdatumszeile aus der Erl. hier gelandet!
+auch in der Anrede war &quot;Mein lieber Freund!&quot; aus dem Brief in der Erl. hier gelandet"?>
+                    <dateline/><?oxy_comment_end?>
+                    <salute>Mein hochverehrter, lieber Freund!</salute>
+                    <salute/>
+                </opener>
+                <p><seg type="comment"><orig>Dank für freundliche Zusendung von <persName key="ed_eyg_crj_sx">Engels</persName> (in natura), an dessen Besuch
+                            ich nur die Kürze (2 Tage) auszusetzen hatte.</orig><note xml:id="afa70a76-8f04-47fb-9ea6-01cde657ea11">Engels besuchte Kugelmann
+                            in Hannover während seiner Reise nach dem Kontinent. Siehe <ref target="B00284">Engels an Marx, 26.6.1867</ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190603T113040+0200" comment="275e"?>Erl.<?oxy_comment_end?> </note></seg>
+                    – Ich habe meine Bemühungen mit den Ihrigen vereint ihn zur Fortsetzung <seg type="comment"><orig>seiner „Lage der arb. Classen“</orig><note xml:id="c83f0160-aff4-4365-a8ba-9536022da690">Friedrich Engels: Die Lage
+                            der arbeitenden Klasse in England. Nach eigner Anschauung und
+                            authentischen Quellen. Leipzig. Druck und Verlag von Otto Wigand, 1845.
+                                (MEGA<hi rendition="#sup">1</hi> I/4. S. 3–286.) Siehe <ref target="B00297"><?oxy_comment_start author="reichhoff" timestamp="20180523T120134+0200" comment="(Br. 288.5–16)."?>Marx
+                                an L. Kugelmann, 13.7.1867<?oxy_comment_end?></ref>.</note></seg> zu
+                    stimuliren, er meinte jedoch, die Hauptsachen brächten Sie bereits u. so lange
+                    er im Commers wäre ginge es überhaupt nicht. – Für den Besuch Ihrer Damen
+                    bleiben Sie unser Schuldner. – <seg type="comment"><orig>Wie gefällt es Ihren
+                            Fräul. Töchtern in Bordeaux?</orig><note xml:id="fae0716f-d371-4392-8b4d-ac385919aa01">
+                            <p>Siehe <ref target="B00300"><?oxy_comment_start author="reichhoff" timestamp="20180523T120223+0200" comment="(Br. 291.4–8)."?>Marx
+                                    an Engels, 20.7.1867<?oxy_comment_end?></ref>. – </p>
+                            <p>
+                                <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName>.</p>
+                        </note></seg> – <seg type="comment"><orig>Dieser Tage klagte mir <persName key="pdrPo.001.004.000000317">Becker</persName>-Genf</orig><note xml:id="nutm_pbz_wfb">Der Brief von Johann Philipp Becker an Louis
+                            Kugelmann ist nicht überliefert.
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Kugelmann
+                                <ref target="mega_h2m_4zy_wfb"><?oxy_comment_start author="lindenberg" timestamp="20181123T122200+0100" comment=" Link zu Briefabdruck in Paratext_zu_307 ...
+vorher hier: 
+Der Brief von Johann Philipp Becker an Louis Kugelmann ist nicht überliefert. Kugelmann beantwortete ihn mit dem folgenden Brief vom 8. August 1867 (Originalhandschrift: IISG, Nachlass Johann Philipp Becker, Sign. D II/71):
+Hannover, 8. August 1867.
+Mein lieber Freund!
+Für Ihre freundlichen Zeilen besten Dank. Ich hoffe sowohl dem Congresse in Lausanne wie in Genf beizuwohnen u. freue mich ebenfalls to shake hands with You. – Ihre Auffassung des Friedenscongresses theile ich vollkommen, die bürgerlichen Schwätzer möchten das Proletariat gern mal wieder als Falir gebrauchen. – Die Beitrittsliste habe ich empfangen, werde mich aber um Unterschriften nicht bemühen, weil ich keine directe Parteigenossen hier habe. –
+Meine Reiseroute ist Frankfurt a/M. Friedrichshafen, Korschach, Chur (Via mala) Andermatt, Furka, Susten, Bad Lenk, Sion, Martigny, (Chamaunix [eigentl.: Chamonix]) Lausanne. – Am 17. d.Mts Morgens reise ich von hier ab. – Etwaige Mittheilungen treffen mich bis zum 16. incl. hier, oder am 19. d.Mts in Chur (Hotel Luxmanier). –
+Das verspätete Erscheinen von Marx’ Buch rührt von dessen unerwarteten Ausdehnung. M. glaubte es würden 20–25 Bogen füllen, u. jetzt werden es ca. 50 Bogen (allein der erste Band), so sehr hat sich unser Freund verrechnet; für die Verspätung werden wir demnach reichlich entschädigt werden. –
+Wollen Sie mir für Lausanne und Genf ein gutes u. nicht zu theures Hotel empfehlen, so wäre mir das lieb. Für Genf ist mir Hotel garni de la Poste empfohlen. Auch bitte ich mir zu sagen ob ich mir in diesen beiden Städten, wegen der wahrscheinlichen Fremden Überfüllung Logis bestellen muss u. wie lange zuvor. –
+Von der Reise aus werde ich Ihnen wohl nochmals schreiben, auch erlauben Sie mir wohl meine Briefe an Sie adressiren zu lassen. –
+Vielleicht haben Sie die Güte mir vor meiner Abreise noch mit zwei Worten zu antworten. –
+Bis mündlich
+freundschaftlichder IhrigeLKugelmannDr
+Ich sehe eben auf der Karte daß das Hotel garni de la Poste ziemlich weit von Pré l’Evêque ist. –{/times}
+"?>beantwortete
+                                ihn am 8. August 1867<?oxy_comment_end?></ref><?oxy_custom_end?>
+                            (Originalhandschrift: IISG, Nachlass Johann Philipp Becker, Sign. D
+                            II/71)</note></seg>, daß immer <seg type="comment"><orig>Ihr
+                            Buch</orig><note xml:id="nrqj_xbz_wfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch
+                                1. Hamburg 1867.</bibl></note></seg> noch nicht erschienen sei u.
+                    daß nach geschehener Anfrage bei <persName key="pdrPo.001.004.000003135">Meissner</persName> es Ende d. Mts das Licht der Welt erblicken werde. –
+                    Ich beruhigte ihn damit, daß er statt 25 jetzt 50 Bogen erwarten dürfe. –</p>
+                <p>Am 17. d. Mts (nächsten Sonnabend) trete ich meine
+                    Erholungsreise an. Über Frankfurt, Friedrichshafen, Rorschach, Chur, Andermatt,
+                    Furka, Sion, Martigny nach Lausanne u. Genf. In den beiden letzten Städten denke
+                    ich <seg type="comment"><orig>die Congresse</orig><note xml:id="d1abe015-7dfd-47eb-9b20-f6a44a67a24d">Der Lausanner Kongreß der
+                            IAA (siehe <ref target="B00337">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180911T110128+0200" comment="Erl. 328d"?>Marx
+                                an Engels, 31.8.1867<?oxy_comment_end?></ref> und der Kongreß der
+                            Friedens- und Freiheitsliga in Genf (siehe <ref target="B00313">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180911T110302+0200" comment="Erl. 304g und 304h"?>S.
+                                L. Borkheim an Marx,
+                        5.8.1867<?oxy_comment_end?></ref>).</note></seg> mitzumachen u. auf der
+                    Rückreise vielleicht <seg type="comment"><orig>die Naturforscher-Versammlung in
+                            Ffrt a/M.</orig><note xml:id="c5973abb-a41c-4e69-9d58-103afefe32e8">41. Versammlung deutscher Naturforscher und Ärzte in Frankfurt am Main
+                            vom 18. bis 24. September 1867. (Siehe <bibl sameAs="zotero-604880-IN2V58XN">Tageblatt der
+                                41. Vesammlung deutscher Naturforscher und Ärzte in Frankfurt am
+                                Main vom 18. bis 24. September 1867. Frankfurt a/M. (1867).</bibl>
+                            Kugelmann nahm an der 41. Versammlung deutscher Naturforscher und Ärzte
+                            nicht teil. Siehe <ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180523T121329+0200" comment="(Br. 436.65–66). – "?>L.
+                                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref>. – Die
+                            Versammlungen deutscher Naturforscher und Ärzte wurden am 18. September
+                            1822 in Leipzig von <persName key="ed_tnh_hq4_lhb">Lorenz
+                                Oken</persName> zur Förderung der Naturwissenschaften und Medizin
+                            begründet.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190226T133114+0100" comment="herausgenommen: Bereits nach wenigen Jahren waren diese jährlichen Geburtstagsfeiern, insbesondere nachdem Alexander von Humboldt und später Rudolf Virchow einen starken Einfluß auf die Versammlungen ausgeübt hatten, zu einer wichtigen Institution geworden, zu einem Sammelpunkt des wissenschaftlichen Lebens im deutschen und deutsch-österreichischen Raum. "?>(<?oxy_comment_end?>Siehe
+                            Schriftenreihe zur Geschichte der Versammlungen deutscher Naturforscher
+                            und Ärzte. Dokumentation und Analyse. Hrsg.: Hans Querner. Bd. 1.
+                            Hildesheim 1972; Wege der Naturforschung 1822–1972 im Spiegel der
+                            Versammlungen Deutscher Naturforscher und Ärzte … Berlin, Heidelberg,
+                            New York 1972.) Siehe auch <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180523T121449+0200" comment=" (Br. 330.31)"?>Engels
+                                an Marx, 2.9.1867 <?oxy_comment_end?></ref> und <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180523T121550+0200" comment="(Br. 458.35–36)"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> sowie
+                            <?oxy_comment_start author="lindenberg" timestamp="20190603T135725+0200" comment="458j"?>Erl.<?oxy_comment_end?></note></seg></p>
+                <p>Die Arbeiter wollen hier den Tischlergesellen <persName key="pdrPo.001.004.000005219">York-Harburg</persName> als
+                    Reichstagscandidaten aufstellen. Ich zweifle, daß er durchkömmt. Er ist <expan>Las<ex>s</ex>alleaner</expan>. –
+                    Haben Sie mir noch Mittheilungen zu machen, so treffen mich dieselben, <hi rendition="#u">umgehend</hi> noch hier, am 19 in Chur (Hôtel Lukmanier),
+                    später, bis zum 9. Sept. incl unter <persName key="pdrPo.001.004.000000317">Beckers</persName> Adresse in Genf. – Auf <persName key="pdrPo.001.004.000000317">Beckers</persName> Bekanntschaft freue ich
+                    mich. –</p>
+                <p>Mit herzlichen Grüßen stets der Ihrige</p>
+                <closer>LKugelmann<lb/>Dr</closer>
+            </div>
+            <div type="writingSession">
+                <p><hi rendition="#u">Verte!</hi></p>
+                <postscript>
+                    <p><seg type="comment"><orig>Beifolgende Broschüre ist von einem Stud. jur. in
+                                Göttingen geschrieben.</orig><note xml:id="dcac0b66-2778-41e0-b2a6-90cab9fb22b2">Der Titel der
+                                Broschüre konnte nicht ermittelt werden.</note></seg> – Die Presse
+                        rieth unter allen Coryphäen umher. – Der Verfasser ist noch nicht bekannt,
+                        man glaubt auch an einen Professor, ich erfuhr ihn zufällig. – <seg type="comment"><orig><persName key="ed_kss_4ct_bhb">Menippos</persName>
+                                = <persName key="pdrPo.001.004.000003226">Miquèl</persName>.</orig><note xml:id="c6f5b17c-6e08-42ca-ad0a-41e1cca2e627">Anspielung auf den
+                                griechischen Philosophen-Kyniker <persName key="ed_kss_4ct_bhb">Menippos</persName>, von dem Berichte über die von ihm
+                                verfaßten Satiren, für die eine freie Kombination von Gedichten und
+                                Prosa bezeichnend war, überliefert
+                                sind.<?oxy_comment_start author="lindenberg" timestamp="20190131T164901+0100" comment="vorher noch: Seine Helden wirken in der eingebildeten Welt. (Siehe Helm: Lucian und Menipp. Leipzig 1967.)"?><?oxy_comment_end?></note></seg>
+                        – </p>
+                </postscript>
+                <postscript>
+                    <p><pb/> Meinen herzlichsten Gruß, geehrter Herr Marx, und verspäteten, aber
+                        nichts desto weniger innigen Dank für Ihre große Freundlichkeit.</p>
+                </postscript>
+            </div>
+            <div type="writingSession">
+                <p><seg type="comment"><orig>Die Makamen</orig><note xml:id="e57b8e4e-9c76-485a-aaa0-fc0279f91d50">Friedrich Rückert: Die
+                            Verwandlungen des Abu Seid von Serug oder die Makamen des Hariri. – Die
+                            erste Ausgabe (Teil 1) erschien in Stuttgart und Tübingen 1826 bei
+                            Cotta, die 2., vervollständigte Auflage in zwei Bänden ebenda 1837.
+                            Gertrud Kugelmann hat das Buch von Marx geschenkt bekommen. Siehe
+                            Franzisca Kugelmann: Kleine Züge zu dem grossen Charakterbild von Karl
+                            Marx. S. 9/10, 48 (RGASPI, Sign. f. 1, op. 3, d. 237. Bl. 9/10 und 48;
+                            Mohr und General. Erinnerungen an Marx und Engels. 4., überarb. Aufl.
+                            Berlin 1982. S. 261 und 284.)
+                            <?oxy_comment_start author="lindenberg" timestamp="20190131T165213+0100" comment="vorher noch: – Makme (arabisch) bedeutete ursprünglich einen Ort, wo man sich aufhält und sich unterhält, dann eine Unterhaltung selbst bzw. Bezeichnung von literarischen Zusammenkünften der alten Araber, bei denen einzelne durch improvisierte Vorträge und Stegreiferzählungen die Zuhörer zu unterhalten pflegten. Für dergleichen Produkte bildete sich später eine besondere eigentümlich künstliche Form in gereimter Prosa mit eingestreuten Gedichten aus, die ebenfalls den Namen Makãme erhielt. In Deutschland ahmte Friedrich Rückert diese Kunstform nach. Siehe Friedrich Rückert: An die Leser. Aus dem Vorwort zur ersten Ausgabe 1826. In: Die Verwandlungen des Abu Seid von Serug oder die Makamen des Hariri. 3. Aufl. Bd. 1. Stuttgart, Tübingen 1844."?></note><?oxy_comment_end?></seg>
+                    waren mit mir in Grund und halfen mir selbst die Regentage dort angenehm
+                    zuzubringen. Auch noch besten Dank, lieber Herr Marx, für <seg type="comment"><orig>das Bild Ihres Fräulein Töchter</orig><note xml:id="b9babf9e-a32c-4e11-9158-7a5e181c36b2">Marx übersandte in seinem
+                                <ref target="B00277"><?oxy_comment_start author="reichhoff" timestamp="20180523T121713+0200" comment="(siehe Br. 268.57–60)."?>Brief
+                                an L. Kugelmann vom 10.6.1867<?oxy_comment_end?></ref> ein Foto von
+                            Laura Marx. Ein Gruppenbild von allen drei Töchtern – <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName> – ist nur ihr Foto
+                            (Daguerreotypie) zusammen mit Marx und Engels überliefert, im Mai 1864
+                            in London angefertigt. Siehe Karl Marks, Fridrich Engel’s. Sobranie
+                            fotografij. Moskva 1976. S. 47 und 119/120; 2. überarb. u. verm. Ausg.
+                            Москва 1983. Foto Nr. 2 und S. 113/114.</note></seg> und Bitte um meine
+                    Empfehlung an dieselbe und Ihre übrige Familie von</p>
+                <closer>Ihrer<lb/>Gertrud Kugelmann. <pb/></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

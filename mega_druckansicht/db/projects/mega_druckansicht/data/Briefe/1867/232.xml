@@ -1,0 +1,49 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00241" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>232</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Montag, 1. April 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 444/D I 114 Fotosign. 9667.</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            129 × 203 mm. Wasserzeichen: „Extra [Superfine] A [C J]“. Aufdruck der
+                            Firma <orgName key="pdrPo.001.015.000090279">„Schröder &amp; Schyler
+                                &amp; C<hi rendition="#sup">o</hi>“</orgName> auf der ersten Seite
+                            oben (siehe S. L. Borkheim an Marx,
+                            8.1.1866).<?oxy_comment_start author="lindenberg" timestamp="20180809T140849+0200" comment="siehe S. 000[Br. 4]"?><?oxy_comment_end?>
+                            Die erste Seite hat Borkheim vollständig beschrieben, die zweite ist
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1695</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-04-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <note><ref target="B00005">S. L. Borkheim an Marx, 8.1.1866.</ref></note>
+                <note>Marx hat Borkheims Brief seinem Brief an Engels vom 2. April 1867  (<ref target="B00243">Marx an Engels, 2.4.1867</ref>) beigelegt („gestern
+                    einliegenden Wisch von
+                    Borkheim“).<?oxy_comment_start author="lindenberg" timestamp="20180814T115212+0200" comment="(Br. 234.13)"?></note>
+                <?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:07Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession"><opener><dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London, </hi>1 April
+                            <hi rendition="#mPrint">18</hi>67</dateline><salute>Lieber Marx,</salute></opener><p>Ein <seg type="comment"><orig><persName key="pdrPo.001.004.000000648">Freund</persName> vom Kontinent</orig><note xml:id="ns1p_l33_t2b"><persName key="pdrPo.001.004.000000648">Lothar Bucher.</persName> –
+                            Siehe <ref target="B00243"><?oxy_comment_start author="reichhoff" timestamp="20180427T100139+0200" comment="(Br. 234.13–18)."?>Marx
+                                an Engels, 2.4.1867<?oxy_comment_end?></ref>.</note></seg>
+                    schreibt:</p><p><seg type="comment"><orig>„Es geht mir die betrübende Nachricht zu, daß
+                            es Marx privat-oekonomisch so schlecht gehe, daß von Unterstützung
+                            Seitens der Parthei die Rede sei! Ich würde die Sache und das Mittel
+                            bedauern. Auch höre ich, national-ökonomisch soll es auch fatal
+                            aussehen, indem sein Buch nicht erscheinen werde.“</orig><note xml:id="nit5_v33_t2b">Siehe hierzu  <ref target="B00243">Marx an Engels,
+                                2.4.1867</ref>  („eine Intrigue“) und Erl.  Zu Marx' angespannter
+                            finanzieller Situation siehe aber auch u. a. <persName key="pdrPo.001.004.000002616">Louis Kugelmanns</persName> Brief an
+                            Marx vom 23. Oktober 1866 (<ref target="B00187"><?oxy_comment_start author="reichhoff" timestamp="20180427T101337+0200" comment="(Br. 182.21–31)."?>L.
+                                Kugelmann an Marx, 23.10.1866<?oxy_comment_end?></ref>). – <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital.</bibl> Siehe <ref target="B00007">Erl. zu Marx an J. Ph.
+                                Becker, zw. 9. u.
+                            15.1.1866.</ref><?oxy_comment_start author="lindenberg" timestamp="20180809T142441+0200" comment="Erl. 6b"?></note><?oxy_comment_end?></seg></p><p>Bitte um Beruhigung!</p><closer>Der Ihrige<lb/>Borkheim. </closer></div></body></text></TEI>

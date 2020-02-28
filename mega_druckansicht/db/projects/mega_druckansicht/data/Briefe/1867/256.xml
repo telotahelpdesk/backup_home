@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00265" xml:lang="de"><teiHeader><fileDesc>
+            <titleStmt>
+                <title><idno>256</idno>Karl Marx an Friedrich Engels in Manchester. Hannover,
+                    Dienstag, 7. Mai 1867</title>
+                <?oxy_comment_start author="lindenberg" timestamp="20181116T185420+0100" comment="STOP mit der inhaltlichen Überarbeitung  -- 2018-11-16 --"?>
+            </titleStmt><?oxy_comment_end?>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4476/L VI 609</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            283 × 218 mm. Prägung: „<persName key="pdrPo.001.004.000002616">Dr. L. Kglm.</persName>“ Alle vier Seiten hat Marx vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „11,1“ bis
+                            „11,4“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2034</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            Bw 3 (1913). S. 375–379.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig: MEGA¹ III/3 (1930).
+                            S. 388–391.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName><date when="1867-05-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+        <correspContext>
+                    <ref type="prev" target="B00256"/>
+        </correspContext>
+                <note>Der Brief ist die Antwort auf Engels’ Brief vom 27. April 1867 (<ref target="B00256"><?oxy_comment_start author="lindenberg" timestamp="20181112T170507+0100" comment="(Br. 245)"?>Engels
+                        an Marx, 27.4.1867<?oxy_comment_end?></ref>).</note></correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_rd3_f3s_zdb">Hannover (Königreich/Preußische Provinz)</term>
+                    <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+                    <term key="ed_otj_cwr_by">Internationale Beziehungen in Europa</term>
+                    <term key="ed_osw_c3z_k2b">Deutsche Fortschrittspartei</term>
+                    <term key="ed_qsz_2yz_w2b">Norddeutscher Bund</term>
+                    <term key="ed_rw2_4vl_qx">Preußen</term>
+                    <term key="ed_www_kkf_h1b">Russland</term>
+                </keywords>
+            </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:28Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Hanover 7 Mai, 1867.</dateline>
+                    <salute>Lieber Fred,</salute>
+                </opener>
+                <p>D’abord meinen besten Dank <seg type="comment"><orig>für Deine Intervention in den dringendsten
+                            <?oxy_comment_start author="lindenberg" timestamp="20181109T102025+0100" comment="vorher Erl. – casus delicti°] schwierigen Fällen
+? doch eher &quot;Fälle der Schuld&quot; ?"?>casus
+                            delicti<?oxy_comment_end?>, dann auch für den ausführlichen Brief
+                            </orig><note xml:id="e522255f-fb23-445c-bbb7-12fe7b34b8b8">Siehe <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180504T093605+0200" comment="245"?>Engels
+                                an Marx, 27.4.1867<?oxy_comment_end?></ref> („Zuerst business
+                            ...“).<?oxy_comment_start author="lindenberg" timestamp="20181109T095158+0100" comment="falsch in Moskauer Erl.: Br. 247"?><?oxy_comment_end?></note></seg>.</p>
+                <p><seg type="comment"><orig>Zunächst business. Der
+                            verdammte <persName key="ed_hbt_ryf_ldb">Wigand</persName> fing erst
+                            29. April an zu drucken, so daß ich den ersten Bogen zur Revision
+                            vorgestern, an meinem Geburtstag, empfing.</orig><note xml:id="dc892f0f-cbc2-4716-bcae-1ada0561a92d"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Hamburg 1867.</bibl> Siehe auch <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180504T093747+0200" comment="(Br. 255.18–20). "?>Marx
+                                an J. Marx (Tochter), 5.5.1867<?oxy_comment_end?></ref>. –
+                            vorgestern = 5. Mai 1867.</note></seg>
+                    <seg type="comment"><orig>Post tot pericula!</orig><note xml:id="eb47a68d-7efb-4080-892e-4df4e0adc7b3"> Nach so vielen Gefahren!
+                            – Abgewandelter Ausspruch nach Publius Vergilius Maro: Aeneis I, 204:
+                            Per varios casus, per tot discrimina rerum – Durch so verschiedne
+                            Geschicke, so viele gefährliche Lagen.</note></seg> Die Druckfehler
+                    waren relativ unbedeutend. Den ganzen Druck hier abzuwarten, unmöglich. In
+                    erster Instanz fürchte ich, daß das Buch viel dicker wird als ich berechnet
+                    hatte. Zweitens erhalte ich kein Mscpt zurück, muß also für manche Citate,
+                    namentlich, wo Zahlen u. Griechisch ins Spiel kommen, das heimische Mscpt zur
+                    Hand haben, u. kann auch dem <persName key="pdrPo.001.004.000002616">Dr. <expan>K<ex>ugelmann</ex></expan></persName> nicht zu lange Einquartirung
+                    aufbürden. <seg type="comment"><orig>Endlich verlangt <persName key="pdrPo.001.004.000003135">Meißner</persName> den 2. Band für
+                            spätestens Ende Herbst. Die Schanzerei muß also sobald als möglich
+                            beginnen, indem namentlich für die Kapitel über Kredit u. Grundeigenthum
+                            viel neues Material seit der Abfassung des Mscrpts geliefert worden ist.
+                            Im Winter soll der dritte Band fertig gemacht werden, so daß bis <subst>
+                                <del rendition="#s">Anfang<sic ana="#break-off"/></del>
+                                <add place="intralinear">nächstes Frühjahr</add>
+                            </subst> das ganze opus abgeschüttelt.</orig><note xml:id="d9184fba-604d-45b9-8cbf-7cf955fe59fe">Siehe <ref target="B00007"><?oxy_comment_start author="lindenberg" timestamp="20181109T104035+0100" comment="6b"?>Erl.
+                                zu Marx an J. Ph. Becker, zw. 9. u.
+                            15.1.1866</ref><?oxy_comment_end?> u. <ref target="B00260"><?oxy_comment_start author="lindenberg" timestamp="20181109T162149+0100" comment="Erl. zu 251 Kapital 2. u. 3. Band"?>Erl.
+                                zu Marx an L. Büchner 1.5.1867<?oxy_comment_end?></ref> – Die
+                            Manuskripte für eine Fortsetzung des „Kapital“ in einem zweiten und
+                            dritten Band, an denen Marx bis zum Ende seines Lebens weiterarbeitete,
+                            wurden erst nach seinem Tod von Engels veröffentlicht.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+                            zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523;
+                            II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926.</note></seg>
+                    Es schreibt sich natürlich ganz anders, sobald die Druckbogen des bereits
+                    Abgeschüttelten
+                    <?oxy_comment_start author="lindenberg" timestamp="20181109T164204+0100" comment="à fur et mesure = nach der Maßgabe, je nach dem ...
+?au fur et à mesure - frz. nach und nach"?>à
+                    fur et mesure<?oxy_comment_end?> eintreffen, u. unter der Pressure des
+                    Buchhändlers.</p>
+                <p>Unterdeß ist die Zeit hier nicht unbenuzt
+                    vorübergegangen. Briefe wurden nach allen Ecken geschrieben u. <seg type="comment"><orig>vorläufige Notizen sind in den meisten deutschen
+                            Blättern erschienen</orig><note xml:id="ba652a23-074f-42a6-b578-f2a9c8a3cf61">Siehe <ref target="B00264"><?oxy_comment_start author="reichhoff" timestamp="20180504T094159+0200" comment="(Br. 255.22)"?>Marx
+                                an J. Marx (Tochter),<?oxy_comment_end?> 5.5.1867</ref>
+                            („Preliminary notices ...“) und Erl.</note></seg>.</p>
+                <p>Ich hoffe u. glaube zuversichtlich nach Jahresfrist so weit ein gemachter Mann zu
+                    sein, daß ich von Grund aus meine ökonomischen Verhältnisse reformiren und
+                    endlich wieder auf eignen Füssen stehn kann. Ohne Dich hätte ich das Werk nie zu
+                    Ende bringen können, u. ich versichre Dir, es hat mir immer wie ein Alp auf dem
+                    Gewissen gelastet, daß Du Deine famose Kraft hauptsächlich meinetwenig
+                    commerciell vergeuden u. verrosten liessest und, into the bargain, noch alle
+                    meine petites misères mitdurchleben mußtest. Ich kann mir andrerseits nicht
+                    verheimlichen, daß ich noch ein Jahr of trial vor mir habe. Ich habe einen
+                    Schritt gethan, von dem viel abhängt, wovon es nämlich abhängt, ob mir <pb/> von
+                    der einzigen Seite, wovon es möglich ist, einige 100 £ zur Disposition <subst>
+                        <del rendition="#s">gestellt erhalte<sic ana="#break-off"/></del>
+                        <add place="superlinear">gestellt werden</add>
+                    </subst>.<?oxy_comment_start author="lindenberg" timestamp="20181109T105042+0100" comment=" Disposition °&lt;erhalte.°&gt;/
+ {k} gestellt°] H gestellt gestelltVersehentlich zweimal wiederholt.
+ "?><?oxy_comment_end?>Es
+                    ist erträgliche Aussicht auf positives Resultat vorhanden, doch bleibe ich für
+                    about 6 Wochen in der Schwebe. Früher erhalte ich nicht definitiven Bescheid.
+                    Wovor ich mich – abgesehn von der Unsicherheit – am meisten fürchte, ist die
+                    Rückkehr nach London, die in 6–8 Tagen doch nothwendig wird. Die Schulden dort
+                    sind bedeutend u. die <seg type="comment"><orig>Manichäer</orig><note xml:id="cd7273fe-f815-4ec5-8e5c-985a31a3dd20">In Anspielung auf die
+                            Anhänger der spätantiken und frühmittelalterlichen Offenbahrungslehre
+                            des Manichäismus, die nach <persName key="pdrPo.001.004.000010105">Augustinus von Hippo</persName> sehr auf das Geld bedacht gewesen
+                            seien, spöttische studentische Bezeichnung für Gläubiger, die mit dem
+                            deutschen Wort „mahnen“ in Verbindung gebracht wurde.</note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20181109T134952+0100" comment="vorher: Studentische Bezeichnung für lästigen Gläubiger (wahrscheinlich in Anspielung auf „mahnen“). – Als Manichäer sind auch die Anhänger einer Mani (Manes, Manichäus) gestifteten, im 4. und 5. Jahrhundert besonders im Orient verbreiteten und den Gnostikern verwandten Erlösungslehre genannt, die Askese und Ehelosigkeit geprädigt hatte. Siehe Geyler: Das System des Manichäismus. Jena 1875; Flügel: Mani, seine Lehre und seine Schriften. Leipzig 1862; Keßler: Mânî oder Beiträge zur Kenntnis der Religionsmischung im Semitismus. Leipzig 1882."?><?oxy_comment_end?>warten
+                    „dringend“ auf meine Rückkehr. Dann wieder der Familienjammer, die inneren
+                    Collisionen, die Hetzjagd, statt frisch u. ungenirt an die Arbeit zu gehn.</p>
+                <p>Dr. <persName key="pdrPo.001.004.000002616">K.</persName> u. <seg type="comment"><orig>seine Frau</orig><note xml:id="f7bc818e-20e6-4b88-ac02-94d065b09e60"><persName key="pdrPo.001.004.000002615">Gertrud
+                        Kugelmann</persName>.</note></seg> behandeln mich aufs allerliebenswürdigste
+                    u. thun alles, was sie mir nur an den Augen absehn können. Es sind vortreffliche
+                    Menschen. Sie lassen mir in der That keine Zeit
+                    <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>„den
+                    düstren Wegen des eignen Ich“<?oxy_custom_end?> nachzuspähen. À Propos. Die <seg type="comment"><orig><persName key="pdrPo.001.004.000000441">Bismarcksche</persName> Affaire</orig><note xml:id="db3ca575-ad56-4588-9a5c-6a72582f5f80">Siehe hierzu <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180504T095024+0200" comment="(Br. 242.61–65)"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref> („Bismarck schickte
+                            mir gestern einen seiner Satrapen ...“) und <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180504T095537+0200" comment="(Br. 245.79–96)."?>Engels
+                                an Marx, 27.4.1867 <?oxy_comment_end?></ref>(„Daß Bismark bei Dir
+                            anklopfen würde ...“).</note></seg> mußt Du ganz geheim halten. Ich
+                    versprach Niemandem, auch <persName key="pdrPo.001.004.000002616">K.</persName>
+                    nicht, davon zu sprechen. Letztres hielt ich. Ich hatte jedoch natürlich die
+                        <seg type="comment"><orig>reservatio mentalis</orig><note xml:id="ddc890ac-8fd0-495c-a7b0-2651675719bf">(lat.) den
+                            stillschweigenden Vorbehalt</note></seg> gemacht, <subst>
+                        <del rendition="#ow">vor Dir kein<sic ana="#break-off"/></del>
+                        <add place="intralinear">Dich</add>
+                    </subst> auszunehmen.</p>
+                <p>Du wunderst Dich, daß, bei dem Preussenhaß hier, <seg type="comment"><orig>die
+                            National-Liberalen</orig><note xml:id="c23be19f-f853-43e2-962d-58a3248b8702">Im Herbst 1866 spaltete
+                            sich der rechte Flügel der Deutschen Fortschrittspartei (1861–1884) ab
+                            und bildete die Nationalliberale Partei, die die Politik Bismarcks
+                            unterstützte. Die Nationalliberalen betrachteten als ihr Hauptziel die
+                            Einigung Deutschlands unter preußischer Führung – siehe auch <ref target="B00092"><?oxy_comment_start author="lindenberg" timestamp="20190513T111155+0200" comment="{{{89.73 (89k}}}"?>Erl.
+                                zu Liebknecht an Marx, 14.04.1866</ref><?oxy_comment_end?> („You
+                            will have perceived ...“) ,  <ref target="B00132"><?oxy_comment_start author="reichhoff" timestamp="20180504T101725+0200" comment="(Br. 128), "?>L. Kugelmann
+                                an Marx, 6.7.1866<?oxy_comment_end?></ref>), <ref target="B00238"><?oxy_comment_start author="reichhoff" timestamp="20180504T101845+0200" comment="(Br. 229)"?>C.
+                                Siebel an Engels, 20.3.1867 <?oxy_comment_end?></ref> (Siehe <bibl sameAs="zotero-604880-RB8MVJET">Winkler: Preußischer Liberalismus
+                                und deutscher Nationalstaat (1964)</bibl>.)</note></seg> (oder, wie
+                        <persName key="pdrPo.001.004.000002616">Kugelmann</persName> sie nennt, <seg type="comment"><orig><hi rendition="#u">die Europäer</hi></orig><note xml:id="nccb_5lr_yjb">Siehe <ref target="B00253"><?oxy_comment_start author="lindenberg" timestamp="20191206T105510+0100" comment="242"?>Marx
+                                an Engels 27.4.1867<?oxy_comment_end?></ref> „Ich war auch
+                            eingeladen ...“ und  <ref target="B00460"><?oxy_comment_start author="lindenberg" timestamp="20191206T110123+0100" comment="450"?>L.
+                                Kugelmann an Engels, 30.11.1867<?oxy_comment_end?></ref>„Die
+                            Europäer“ sowie Erläuterungen.</note></seg>) <seg type="comment"><orig>bei den Wahlen so gut davon gekommen sind.</orig><note xml:id="njrp_4yb_tfb"><?oxy_comment_start author="lindenberg" timestamp="20181116T162607+0100" comment="(Br. 245.98) und Erl. (245u)."?>Siehe
+                                <ref target="B00256">Engels an Marx,
+                                27.4.1867<?oxy_comment_end?></ref> („Resultat der
+                        Wahlen“).</note></seg> Die Sache ist sehr einfach. In allen grösseren
+                    Städten fielen sie durch, an kleineren Orten siegten sie durch ihre
+                    Organisation, die seit der <seg type="comment"><orig>Gothaer Zeit</orig><note xml:id="ef496ab8-29a4-4be9-9947-55aca555a747">Anspielung auf den
+                            Zusammenschluß des „Gothaer Nachparlaments“ 1849, einer Vereinigung
+                            ehemaliger linker und rechter liberaler Abgeordneter der Frankfurter
+                            Nationalversammlung. <?oxy_comment_start author="lindenberg" timestamp="20181116T170558+0100" comment="vorher: Als Gothaer Zeit bezeichneten Marx und Engels die Gründung der Gothaer Partei. Ihr gehörten jene deutsche Liberale, die die Vereinigung Deutschlands unter preußischer Führung anstrebten und damit in die Fußstapfen jener Abgeordneten traten, die nach ihrem Austritt aus der Frankfurter Nationalversammlung im Juni 1849 in Gotha die Gothaer Partei gegründet hatten."?>Siehe<?oxy_comment_end?>
+                            <bibl sameAs="zotero-604880-CVLIGQFR">Weber: Von Frankfurt nach Olmütz
+                                (1977)</bibl> und <ref target="B00116">Erl. zu W. Liebknecht an
+                                Marx, 25.5.1866</ref>. </note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20181109T152910+0100" comment="Gothaer Partei“ Jahresangaben/Zeitraum ?? = „Gothaer Nachparlament“ ? – Gothaer „Partei“ ? https://de.wikipedia.org/wiki/Gothaer_Nachparlament"?><?oxy_comment_end?>existirt.
+                    Diese Kerls zeigen überhaupt, wie wichtig Parteiorganisation ist. Das bisher
+                    Gesagte gilt für Hanover. In <subst>
+                        <del rendition="#s">W<sic ana="#break-off"/></del>
+                        <add place="intralinear">Kurhessen</add>
+                    </subst> hat pr. Einschüchterung, unterstüzt vom Geschrei der <seg type="comment"><orig>Nationalvereinler</orig><note xml:id="fb9dac03-eac9-4a2b-9770-e2df2124a3d1"><?oxy_comment_start author="lindenberg" timestamp="20181116T165409+0100" comment="vorher: Siehe Erl. 88.20{d}. {E–M, 13.04.1866, fehlt im Jahrgang 1866} -- eigentl. frühere Erl. 45e, die weggefallen ist."?>Der
+                            Deutsche Nationalverein (1859–1867)<?oxy_comment_end?></note></seg>,
+                    unbeschränkten Einfluß ausgeübt. Die Preussen wirthschaften hier unterdessen
+                    ganz persisch. Sie können zwar die Bevölkerung nicht transplantiren nach ihren
+                    Ostprovinzen, aber sie thun es mit den Beamten, bis auf Railway Conducteure
+                    hinab, u. für die Officiere. Sogar die armen Teufel von Briefträgern müssen nach
+                    Pommern. Unterdeß kannst Du jeden Tag Züge v. Hessen, Hannoveranern u.s.w. auf
+                    der Eisenbahn nach Bremen beobachten, zur Auswanderung nach den U<ex>nited</ex>
+                        St<ex>ates</ex> So lange das biedre Deutschland steht, hat es aus allen
+                    Theilen kein solches Menschengewirr über den Atlantic geschickt. Der Eine will
+                    den Steuern entrinnen, der andre der Militairpflicht, der dritte den politischen
+                    Zuständen, alle dem Säbelregiment u. dem gedrohten Kriegssturm.</p>
+                <p>Ich habe grosses Gaudium hier mit den (pr. gesinnten)
+                    Bourgeois. Sie wollen Krieg, aber <hi rendition="#u">immédiatement</hi>. Das
+                    Geschäft, sagen sie, kann die Unsicherheit nicht länger ertragen, u. wo Teufel
+                    sollen die Steuern herkommen <pb/> bei verlängerter Geschäftsstockung? Uebrigens
+                    machst Du Dir schwerlich eine Vorstellung von dem Druck, den der letz<ex>t</ex>e
+                    Krieg u. die Steuern auf das Landvolk in Preussen ausgeübt haben. Es herrscht
+                    hier <seg type="comment"><orig>in der pr. westphälischen Nachbarschaft z. B.
+                            wahrhaft irischer Zustand</orig><note xml:id="nwd5_gty_rhb">Vermutlich
+                            Anspielung auf die „Hollandgänger“, d. h. vorwiegend besitzlose
+                            Landarbeiter, die in großer Zahl im 19. Jahrhundert aus Westfalen in die
+                            Niederlande gingen, um Arbeit zu finden. Zum Vergleich siehe z. B. „
+                            [...] Andrerseits ist es nicht minder gewiß, daß das Aufblühen der
+                            mechanischen Wollfabrik mit der progressiven Verwandlung von Ackerland
+                            in Schafweide die massenhafte Verjagung und „Ueberzähligmachung“ der
+                            Landarbeiter hervorrief. Irland untergeht noch in diesem Augenblick den
+                            Prozeß, seine seit 20 Jahren beinahe um die Hälfte verkürzte Bevölkerung
+                            noch weiter auf das dem Bedürfniß seiner Landlords und der englischen
+                            Herrn Wollfabrikanten exakt entsprechende Maß zu reduciren.“(<bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Hamburg 1867.</bibl> S. 434. (<bibl sameAs="zotero-604880-25ETZ5BH">MEGA² II/5.</bibl>
+                            <ref target="http://telota.bbaw.de/mega/#%3Fdoc=MEGA_A2_B005-00_ETX.xml%26book=5%26part=0%26pageNr=363%26startPage=363%26endPage=363%26startLine=1%26endLine=6%26startTerm=%26endTerm=">S. 362-363.</ref>). </note></seg>.</p>
+                <p>By the by, hat mich vor ein paar Tagen <seg type="comment"><orig>der <persName key="ed_knv_wpb_vfb">Director</persName></orig><note xml:id="f1cce060-00c5-4fc5-9425-f901ac2d914d"><persName key="ed_knv_wpb_vfb">Georg Egestorff.</persName></note></seg> der
+                    hiesigen Actiengiesserei (hauptsächlich <add place="superlinear">für</add>
+                    Wasser- u. Gasröhrenfabrication) in dem Werk herumgeführt. Es ist im Ganzen sehr
+                    gut organisirt u. mit Benutzung vieler ganz moderner Apparate. Jedoch wird
+                    andrerseits noch vielfach <add place="superlinear">(in Details)</add> mit der
+                    Hand gedreht, wo die Engländer u. Schotten automatische Maschinerie anwenden.
+                    Mit demselben Director ging ich in d<seg type="comment"><orig>ie <persName key="pdrPo.001.004.000010092">Herrmann</persName>s-Säule
+                            Werkstatt.</orig><note xml:id="nkcp_ncc_tfb">Offensichtlich Bezug auf
+                            einen Besuch in der Werkstatt des Bildhauers <persName key="ed_k5w_ncr_rgb">Ernst von Bandel</persName> in Hannover. Die
+                            Arbeiten am Unterbau des als Mahnmal für die deutsche Einheit
+                            konzipierten Hermannsdenkmals (Gesamthöhe 56 m), in Erinnerung an den
+                            siegreichen Cheruskerfürsten <persName key="pdrPo.001.004.000010092">Arminius</persName> (Hermann) in der Schlacht im Teutoburger Wald
+                            im Jahre 9 n. Chr., begannen im Jahre
+                            1838.<?oxy_comment_start author="lindenberg" timestamp="20181116T171714+0100" comment="vorher: Das gewaltige Hermannsdenkmal (Gesamthöhe 56 m) wurde 1838 (nach anderen Angaben 1835) von Ernst von Bandel zur Erinnerung an die Schlacht in Teutoburger Wald im Jahre 9 n. Chr. errichtet.
+vorher noch: als der Cheruskerfürst Hermann (Arminius) das römische Heer vernichtend schlug"?><?oxy_comment_end?>Die
+                            Einweihung auf der 386 m hohen „Grotenburg“ genannten Bergkuppe bei
+                            Detmold fand
+                            <?oxy_comment_start author="lindenberg" timestamp="20181116T172150+0100" comment="am 16. August"?><?oxy_comment_end?>1875
+                            statt.</note></seg> Das Zeug wird ebenso langsam fertig wie Deutschland.
+                    Der Herrmannskopf, so kolossal, daß Du daneben ein Kind, sieht herzlich <subst>
+                        <del rendition="#ow">dumm</del>
+                        <add place="superlinear">dumm-ehrlich</add>
+                    </subst> aus u. Herr <persName key="pdrPo.001.004.000010092">Arminius</persName>
+                    war vor allem Diplomat. Die westphälische Biederkeit diente ihm nur zur Maske
+                    eines sehr raffinirten Kopfes. Ich hatte zufällig, in der <seg type="comment"><orig>Grimmschen Ausgabe der Geschichtsquellen</orig><note xml:id="ngcd_scc_tfb">Wahrscheinlich: <bibl sameAs="zotero-604880-H7L87S8I">Die
+                                Geschichtsschreiber der deutschen Vorzeit … Hrsg. v. G.H. Pertz, J.
+                                Grimm, K. Lachmann, L. Ranke, K. Ritter. Mitgliedern der Königlichen
+                                Akademie der Wissenschaften. Die Urzeit. Bd. 1. Die Römerkriege aus
+                                Plutarch, Cäsar, Vellejus, Svetonius, Tacitus. Tacitus Germania.
+                                Übersetzt v. J. Horkel. Berlin
+                            1849.</bibl><?oxy_comment_start author="lindenberg" timestamp="20181116T183400+0100" comment="vorher: Die Geschichtsschreiber der deutschen Vorzeit … Hrsg. v. G.H. Pertz, J. Grimm, K. Lachmann, L. Ranke, K. Ritter, Mitgliedern der Königlichen Akademie der Wissenschaften. Bd. 1. Die Urzeit. Hlft. 2. Die Römerkriege aus Plutarch, Cäsar, Vellejus, Svetonius, Tacitus, Tacitus Germania. Übersetzt v. D.J. Horkel. Berlin 1849. S. 467–471"?></note><?oxy_comment_end?></seg>,
+                    die Du kennst, Herrn Arminium <seg type="comment"><orig>kurz vor meiner
+                            Abreise</orig><note xml:id="nfx5_3cc_tfb">Marx verließ London am 10.
+                            April 1867. Siehe <ref target="B00247"><?oxy_comment_start author="lindenberg" timestamp="20190510T124543+0200" comment="(Br. 237.3–4)"?>Marx
+                                an Engels, 13.4.1867</ref><?oxy_comment_end?> und <ref target="B00249"><?oxy_comment_start author="lindenberg" timestamp="20190510T124612+0200" comment="(Br. 239.3)"?>Marx
+                                an J. Ph. Becker, 17.4.1867</ref><?oxy_comment_end?> sowie <ref target="B00248"><?oxy_comment_start author="lindenberg" timestamp="20190510T124652+0200" comment="238.5 und 6b."?>Marx
+                                an L. Kugelmann, 16.4.1867</ref><?oxy_comment_end?> und Erl.
+                        </note></seg> von London wieder kennen
+                    gelernt.<?oxy_comment_start author="lindenberg" timestamp="20181116T184836+0100" comment="STOP"?></p><?oxy_comment_end?>
+                <p>Du erinnerst Dich doch des <seg type="comment"><orig>
+                            <persName key="ed_hns_2xx_w2b">J. Mayer</persName></orig><note xml:id="nh2l_vvl_bhb"><seg type="comment"><note xml:id="f2f554b5-30c6-49d3-a8a3-450aab6ee313"><persName key="ed_hns_2xx_w2b">Julius Meyer</persName>. </note></seg><subst>
+                                <del rendition="#s"/>
+                            </subst></note></seg><subst>
+                        <del rendition="#s">, der</del>
+                        <add place="intralinear">(bei Bielefeld)</add>
+                    </subst> , <seg type="comment"><orig>der unser Mscpt über <persName key="pdrPo.001.004.000004600">Stirner</persName> u.s.w. nicht
+                            gedruckt und uns den Jüngling <persName key="ed_zdw_kwl_bhb">Kriege</persName> auf den Hals gesandt hat</orig><note xml:id="b45e45d2-d38c-49db-8ad8-1fd35086b227"> Anspielung auf das
+                            gemeinsam mit Engels verfaßte Manuskript „Sankt Max“ über <persName key="pdrPo.001.004.000004600">Max Stirners</persName> „Der Einzige
+                            und sein Eigenthum“ (Leipzig 1845). Marx und Engels hatten die
+                            Veröffentlichung im Rahmen eines 1845/46 begonnenen
+                            Zeitschriftenprojektes geplant, das unter dem Titel „Deutsche Ideologie“
+                            posthum in die Editionsgeschichte einging. <persName key="ed_hns_2xx_w2b">Julius Meyer</persName>, einer der erhofften
+                            Geldgeber der Zeitschrift, zog sich 1846 aus der Finanzierung zurück.
+                            Die Veröffentlichung kam nicht zu Stande. (Ausführlich dazu siehe in der
+                            Einführung zu MEGA<hi rendition="#sup">2</hi> I/5, S. 740-783.) – Zu
+                            vorherigen Veröffentlichungen über die Entstehungs- und
+                            Überlieferungsgeschichte der „Deutschen Ideologie“ siehe u. a. MEGA¹
+                            I/5. S. 75–432; Golovina: Das Projekt der Vierteljahrsschrift von
+                            1845/46. Zu den ursprünglichen Publikationsplänen der Manuskripte der
+                            „Deutschen Ideologie“. In: Marx-Engels-Jahrbuch. Berlin. Bd. 3. 1980.
+                            S. 260–274; Taubert: Wie entstand die Deutsche Ideologie von Karl Marx
+                            und Friedrich Engels? Neue Ansichten, Probleme und Streitpunkte. In:
+                            Schriften aus dem Karl-Marx-Haus. Nr. 43. Trier 1990. S. 10–50; Taubert,
+                            Pelger, Grandjonc: Die Konstitution von MEGA<hi rendition="#sup">2</hi>
+                            I/5 „Karl Marx, Friedrich Engels, Moses Heß: Die deutsche Ideologie.
+                            Manuskripte und Drucke (November 1845 bis Juni 1846).“ In: MEGA-Studien.
+                            Amsterdam. 1997/2. S. 49–102; Karl Marx, Friedrich Engels, Joseph
+                            Weydemeyer: Die deutsche Ideologie. Manuskripte und Drucke (November
+                            1845 bis Juni 1846). Vorabpublikation aus Band 5 der Ersten Abteilung
+                            der MEGA<hi rendition="#sup">2</hi>. In: Marx-Engels-Jahrbuch 2003.
+                            Berlin 2004.) . – Hermann Kriege, 1845 Mitarbeiter am „Westphälischen
+                            Dampfboot“, gehörte zum Bekanntenkreis von Julius Meyer und hatte Anfang
+                            1845, mit einer Empfehlung von diesem versehen, Westfalen verlassen und
+                            sich zu Engels nach Barmen begeben; etwa im Februar emigrierte er nach
+                            Belgien und suchte Marx in Brüssel auf. Siehe Engels an Marx,
+                            22. Februar–7. März 1845, und Hermann Kriege an Marx, 9. Juni 1845
+                                (MEGA<hi rendition="#sup">2</hi> III/1. S. 266.38 und
+                            471.38.)</note></seg><?oxy_comment_start author="lindenberg" timestamp="20181109T110358+0100" comment="{Zu Zeilen: 88–90}Du erinnerst Dich {bis} uns den Jüngling Kriege auf den Hals gesandt hat°]   -- vorherige Erläuterung: Marx bezieht sich auf die Verhandlungen über die Herausgabe der zwei Bände einer Vierteljahrsschrift, die 1845/1846 mit den westfälischen Sozialisten Julius Meyer und Rudolph Rempel geführt wurden. Im Herbst 1845 wurde ein gemeinsames Auftreten von Marx, Engels und ihren Anhängern mit einer Kritik an den junghegelianischen Philosophen und den „wahren“ Sozialisten geplant. Die Auseinandersetzung sollte unter Marx’ Redaktion veröffentlicht werden. Im November 1845 führte Moses Heß Verhandlungen mit den Verlegern. Meyer und Rempel sicherten die finanzielle Unterstützung der Herausgabe von zwei Bänden der Vierteljahrsschrift zu. Die weiteren Verhandlungen führte Joseph Weydemeyer. Im Juli 1846, nachdem er die Manuskripte von Marx und Engels, die den Hauptteil der geplanten Publikation bilden sollten, nach Westfalen mitgebracht hatte, zogen Meyer und Rempel ihre zugesagte Unterstützung sogar für den ersten Band unter dem Vorwand, es sei kein Geld vorhanden, zurück. Die eigentliche Ursache lag jedoch in den ideologischen Gegensätzen zwischen den Anschauungen von Marx und Engels und denen des „wahren“ Sozialismus, der gerade in Westfalen stark verbreitet war. Nach der endgültigen Absage Meyers und Rempels unternahmen Marx und Engels wiederholte Versuche, ihre Manuskripte zu veröffentlichen. Jedoch blieben alle Bemühungen ohne Erfolg. Diese Manuskripte wurden erst im Jahre 1932 in vollem Umfang als gemeinsames Werk von Marx und Engels unter dem Titel „Die deutsche Ideologie“ veröffentlicht.  (Siehe MEGA¹ I/5. S. 75–432.) Zur Entstehungs- und Überlieferungsgeschichte der „Deutschen Ideologie“ siehe"?>?<?oxy_comment_end?>
+                    <persName key="ed_hns_2xx_w2b">Er</persName> hat sich vor einigen Monaten in
+                    Warschau, wo er Geschäfts halber war, aus dem Fenster gestürzt u. <seg type="comment"><orig>gefälligst seinen Hals gebrochen</orig><note xml:id="newz_xjs_rhb"><persName key="ed_hns_2xx_w2b">Meyer</persName>
+                            starb am 14. März 1863 in Krakow</note></seg>.</p>
+                <p>Unser Freund <persName key="pdrPo.001.004.000003226">Miquel</persName>, der die
+                    Freiheit der Einheit so bereitwillig zu opfern sich geneigt erklärte, soll auf
+                    grosse Posten speculiren. Le brave homme verrechnet sich nach meiner Ansicht.
+                    Hätte er sich nicht so bedingungslos fanatisch dem<persName key="pdrPo.001.004.000000441"> Bismarck</persName> hingeworfen, so konnte er
+                    ein gutes Trinkgeld erstehn. Aber jezt? Wozu? Er ist so verhaßt durch <seg type="comment"><orig>sein Auftreten im <expan>Nordd<ex>eutschen</ex></expan>
+                            Parlament</orig><note xml:id="abbd92fb-30b2-471e-afc9-738f2ef97da5">Am
+                            9. März 1867 war <persName key="pdrPo.001.004.000003226">Johannes
+                                Miquel</persName> im konstituierenden Norddeutschen Reichstag für
+                            die Gründung des Norddeutschen Bundes als einheitlichen Zentralstaat
+                            unter der Vorherrschaft Preußens eingetreten. (Siehe [Johannes] Miquel:
+                            [Rede im Reichstag des Norddeutschen Bundes am 9. März 1867.] In: <bibl sameAs="zotero-604880-2S3P6M22" type="primary">Stenographische
+                                Berichte über die Verhandlungen des Reichstages des Norddeutschen
+                                Bundes im Jahre 1867. Bd. 1. (24.2.-17.4.).</bibl> S. 111, Sp. 2,
+                            bis S. 115, Sp. 1.</note></seg>, daß er an die Preussen geschmiedet, wie
+                    ein Bagnosträfling an den andern. Und die Preussen lieben bekanntlich keine
+                    „nutzlosen“ u. überflüssigen Dépenses. <seg type="comment"><orig>Kürzlich
+                            brachte die Bismarcksche Zeitung, die <bibl sameAs="ed_vmm_z52_xbb"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Nd. Allg.<?oxy_custom_end?></bibl>
+                            <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>des
+                            Schweinhunds <?oxy_custom_end?><persName key="pdrPo.001.004.000000586">Braß</persName>, einen sehr witzigen Artikel über diese
+                            Nationalvereinler</orig><note xml:id="e1d8e355-70b5-4604-86a0-b7ebbbc79738">„Der Nationalverein ist
+                            den Leiden …“ [Leitart.:] Rubrik: Politischer Tagesbericht. Berlin, den
+                            25. April 1867. In: Norddeutsche Allgemeine Zeitung. Berlin. Nr. 97,
+                            26. April 1867. S. 1, Sp. 4. </note></seg>, worin sie sagt, selbst <subst>
+                        <del rendition="#ow">das</del>
+                        <add place="superlinear">dem</add>
+                    </subst>
+                    <seg type="comment"><orig>de mortuis nil nisi bene</orig><note xml:id="bcffacef-6a6b-4e93-afeb-69a2ffdd9b85">über die Toten [sprich]
+                            nur gut. – <persName key="pdrPo.001.004.000010419">Diogenes
+                                Laertius</persName>: De vitis philosophorum, I, 3, 70.</note></seg>
+                    nicht nachleben zu können. Sie entließ die norddeutschbündlichen
+                    nationalvereinlichen Knechte Bismarcks mit <pb/> künstlerisch con amore
+                    applicirten Fußtritten.</p>
+                <p>Was den Krieg angeht, so bin ich ganz Deiner Meinung.
+                        <hi rendition="#u">Jezt </hi>kann er nur schädlich wirken. Eine Vertagung
+                    desselben, wenn auch nur für ein Jahr, wäre für uns Gold werth. Einerseits
+                    blamiren sich dabei nothwendig <persName key="pdrPo.001.004.000000523">Bonaparte</persName> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000005131">Wilhelm der
+                            Eroberer</persName></orig><note xml:id="fe459a53-500e-453b-b7cb-1e0ef7669a6e">hier: <persName key="pdrPo.001.004.000005131">Wilhelm I.</persName> Anspielung auf
+                                <persName key="pdrPo.001.004.000011754">William I, the
+                                Conqueror</persName>.</note></seg>. Die Opposition in Preussen
+                    erwacht wieder (ihr einziges Organ jezt: „<bibl sameAs="ed_lpm_jxn_q2b">Die Zukunft</bibl>“ in Berlin, von<seg type="comment"><orig>
+                            <persName key="pdrPo.001.004.000002341">Jacoby</persName></orig><note xml:id="ne2s_4xl_bhb"><persName key="pdrPo.001.004.000002341">Johann
+                                Jacoby</persName>.</note></seg> gestiftet) u. in Frankreich kanns zu
+                    Ereignissen kommen. Das Geschäft wird fauler u. fauler u. die Noth auf dem
+                    Continent kann dann weder mit teutonischen, noch gallischen Phrasen überschrien
+                    werden.</p>
+                <p>Nach meiner Ansicht verdanken wir den Kriegsaufschub <hi rendition="#u">ausschließlich</hi> dem Ministerium<persName key="pdrPo.001.004.000004560"> Derby</persName>. Es ist antirussisch, u.
+                    Rußland wagt nicht das Signal zu geben, bevor es Englands sicher ist. <persName key="pdrPo.001.004.000001797">Gladstone</persName>, the phrasemonger (ganz
+                    unter <expan>d<ex>em</ex></expan>
+                    Einfluß der Lady <persName key="ed_jcm_n1b_1hb">Palmerston</persName>,<persName key="pdrPo.001.004.000000170"> Shaftesbury’s</persName>, <persName key="ed_gpd_rht_zgb">Lord Cowper</persName>’s) u. <persName key="pdrPo.001.004.000000612">Bright</persName>, <persName key="pdrPo.001.004.000004124">Russel</persName> nicht zu vergessen, würden
+                    ihm die Garantien der nöthigen englischen Stimmung bieten. Derby mußte auch 1859
+                    entfernt werden, um <seg type="comment"><orig>das Spectakelstück in
+                            Italien</orig><note xml:id="a79be5c9-0dbd-46fc-b910-7279d6c5c867">Anspielung auf den Sardinischen Krieg (auch Zweiter Italienischer
+                            Unabhängigkeitskrieg genannt); siehe <ref target="B00219"><?oxy_comment_start author="lindenberg" timestamp="20190509T171603+0200" comment="211"?>Erl.
+                                zu Engels an Marx,
+                            29.1.1867<?oxy_comment_end?></ref><?oxy_comment_start author="lindenberg" timestamp="20190509T171628+0200" comment="vorher: Marx erwähnt den Krieg zwischen Frankreich und Sardinien-Piemont einerseits und Österreich anderseits (29. April–8. Juni 1859). Napoléon III verfolgte in ihm das Ziel, unter der Losung der Befreiung Italiens italienische Territorien an sich zu reißen und sein Regime zu festigen. Die herrschenden Kreise Sardiniens hofften, mit französischer Unterstützung Italien unter der Führung der Dynastie Savoyen zu vereinigen. Der Krieg wurde nach mehreren verlustreichen Schlachten, in denen die österreichischen Truppen schwere Niederlagen erlitten, auf Betreiben Napoléons III vor Erreichen seiner Ziele durch den Vorfrieden von Villafranca (siehe Erl. 26.12–13) beendet. Siehe Baumgart: Europäisches Konzert und nationale Bewegung. S. 352–357; Fiedler: Kriegswesen und Kriegführung im Zeitalter der Einigungskriege. S. 166–178."?>.<?oxy_comment_end?>
+                        </note></seg> in Scene zu setzen. <seg type="comment"><orig><persName key="pdrPo.001.004.000000441">Bismarck</persName>, im norddeutschen
+                            Parlament, wurde gezwungen den Polen den Fehdehandschuh aufs Brutalste
+                            hinzuwerfen</orig><note xml:id="d08b61f6-74b6-4ab3-8973-31377a0bb587">Siehe <ref target="B00243"><?oxy_comment_start author="reichhoff" timestamp="20180504T102623+0200" comment="(Br. 234.41)"?>Marx
+                                an Engels, 2.4.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190111T112950+0100" comment="Erl. 234l"?>Erl.<?oxy_comment_end?></note></seg>
+                    u. sich damit <seg type="comment"><orig><persName key="pdrPo.001.004.000000062">dem Czaren</persName></orig><note xml:id="ngy1_tyl_bhb"><persName key="pdrPo.001.004.000000062">Aleksandr II</persName>.</note></seg>
+                    mit Leib u. Seele zu verschreiben.</p>
+                <p>In der pr. Armee herrscht unter den besseren Officieren
+                    grosses Mißtrauen wider die Russen, wie ich persönlich hier bei <persName key="ed_qsc_wbb_1hb">Hauptmann v. Bölzig</persName> (Garderegiment, im
+                    Cadettencorps erzogen, kgl. pr., aber netter Kerl) erfahren. „Ich begreife
+                        <persName key="pdrPo.001.004.000000441">Bism</persName>’s Benehmen in
+                    Nordschleswig nicht. Nur die Russen<ex>“</ex>, dieß sagte er aus sich selbst,
+                        <ex>„</ex>haben ein Interesse uns länger mit Dänemark gespannt zu halten.“
+                    Auch nannte er <persName key="pdrPo.001.004.000001669"><expan>F<ex>riedrich</ex></expan>
+                        <expan>W<ex>ilhelm</ex></expan> IV</persName>. einen „dunkeln Ehrenmann“, der
+                    Deutschland für ½ Jahrhundert zum Bedienten Rußlands gemacht. Die russischen
+                    Officiere seien „Scheißkerls“, die Armee, ausser den Garderegimentern, nichts
+                    werth, Oestreich allein fähig es mit der russ. Armee aufzunehmen u.s.w. Ich
+                    setzte ihm noch viele Flöhe über die Moscowiter ins Ohr.</p>
+                <p>Und nun Adio. Herzlichsten Gruß an <seg type="comment"><orig><persName key="pdrPo.001.004.000000698">Mrs.
+                            Lizzy</persName></orig><note xml:id="nlmc_fzl_bhb"><persName key="pdrPo.001.004.000000697">Elizabeth (Lydia)
+                            Burns</persName>.</note></seg>.</p>
+                <postscript>
+                    <p>Tout à vous<lb/>Dein<lb/>Mohr. </p>
+                </postscript>
+            </div></body></text></TEI>

@@ -1,0 +1,78 @@
+<schemadokumentation type="briefe" version="0.1" build="1">
+    <div name="Allgemeine Dateistruktur" id="1">
+        <schema id="2">
+            <name>Allgemeine Dateistruktur</name>
+            <beschreibung/>
+            <beispiel/>
+            <definition>
+                <xpath/>
+                <rng>&lt;define name="TEI"&gt; 
+    &lt;element name="TEI"&gt; 
+        &lt;ref name="dokumenttyp"/&gt;
+        &lt;ref name="datei_id"/&gt;
+        &lt;ref name="metadaten"/&gt;
+        &lt;ref name="textstruktur"/&gt;
+    &lt;/element&gt;
+&lt;/define&gt;</rng>
+            </definition>
+            <web_darstellung/>
+            <druck_darstellung/>
+        </schema>
+        <schema id="3">
+            <name>Dokumenttyp</name>
+            <beschreibung>Es gibt zwei verschiedene Dokumenttypen, hier: Briefe.</beschreibung>
+            <beispiel>&lt;TEI telota:doctype="[Dokumenttyp]"/&gt;</beispiel>
+            <definition>
+                <xpath>/TEI (s. Allgemeine Dateistruktur)</xpath>
+                <rng>&lt;define name="dokumenttyp"&gt;
+    &lt;attribute name="telota:doctype"&gt;
+        &lt;choice&gt;
+            &lt;value&gt;gotthelf_drucktext&lt;/value&gt;
+            &lt;value&gt;gotthelf_manuskript&lt;/value&gt;
+        &lt;/choice&gt;
+    &lt;/attribute&gt;
+&lt;/define&gt;</rng>
+            </definition>
+            <web_darstellung>bestimmt die CSS-Auswahl</web_darstellung>
+            <druck_darstellung>bestimmt das Druckformat</druck_darstellung>
+        </schema>
+    </div>
+    <div name="Metadaten" id="4">
+        <schema id="5">
+            <name>Metadaten</name>
+            <tag>(&lt;teiHeader&gt;)</tag>
+            <beschreibung>Die Metadaten beschreiben das konkrete Dokument und die Beziehungen des Dokumentes zu anderen Dokumenten. Die Metadaten sind folgendermaßen aufgebaut:</beschreibung>
+            <beispiel>&lt;teiHeader&gt;
+    &lt;fileDesc&gt;
+        &lt;titleStmt&gt;<ref id="21000">Titelangaben der Gotthelfausgabe (&lt;titleStmt&gt;)</ref>&lt;/titleStmt&gt;
+        &lt;editionStmt&gt;<ref id="22000">Angaben zur Edition (&lt;editionStmt&gt;)</ref>&lt;/editionStmt&gt;
+        &lt;publicationStmt&gt;<ref id="23000">Angaben zur Veröffentlichung (&lt;publicationStmt&gt;)</ref>&lt;/publicationStmt&gt;
+        &lt;seriesStmt&gt;<ref id="24000">Angaben zur Reihe (&lt;seriesStmt&gt;)</ref>&lt;/seriesStmt&gt;
+        &lt;notesStmt&gt;<ref id="25000">Dateianmerkungen (&lt;notesStmt&gt;)</ref>&lt;/notesStmt&gt;
+        &lt;sourceDesc&gt;<ref id="26000">Angabe zu den Quellen (&lt;sourceDesc&gt;)</ref>&lt;/sourceDesc&gt;
+    &lt;/fileDesc&gt;
+    &lt;encodingDesc&gt;<ref id="27000">Angaben zur Dateierstellung</ref>&lt;/encodingDesc&gt;
+    &lt;revisionDesc&gt;<ref id="28000">Angaben zur Bearbeitung der Datei</ref>&lt;/revisionDesc&gt;
+&lt;/teiHeader&gt;</beispiel>
+            <definition>
+                <xpath>/TEI (s. Allgemeine Dateistruktur) </xpath>
+                <rng>&lt;define name="metadaten"&gt;
+    &lt;element name="teiHeader"&gt;
+        &lt;element name="fileDesc"&gt;
+            &lt;ref name="titelangaben"/&gt;
+            &lt;ref name="editionsangaben"/&gt;
+            &lt;ref name="veroeffentlichungsangaben"/&gt;
+            &lt;ref name="reihenangaben"/&gt;
+            &lt;ref name="dateianmerkungen"/&gt;
+            &lt;ref name="quellenangaben"/&gt;
+        &lt;/element&gt;
+        &lt;ref name="dateierstellung"/&gt;
+        &lt;ref name="revisionDesc"/&gt;
+    &lt;/element&gt;
+&lt;/define&gt;</rng>
+            </definition>
+            <web_darstellung/>
+            <druck_darstellung/>
+        </schema>
+    </div>
+</schemadokumentation>

@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00443" xml:lang="de"><teiHeader><fileDesc>
+            <titleStmt>
+                <title><idno>433</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London,
+                    Sonntag, 24. November 1867</title>
+                <?oxy_comment_start author="lindenberg" timestamp="20181116T102833+0100" comment="!!!rote Literaturstellen mit LV&apos;s Ergänzungen abgleichen -- was wird mit den russischen Erl.-Stellen???"?>
+            </titleStmt><?oxy_comment_end?>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 465/D I 134
+                            Fotosign. 9688&lt;a–f&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen und einem Blatt mittelstarkem,
+                            graublauem Papier im Format 426 × 272 mm bzw. 212 × 272 mm. Borkheim hat
+                            die ersten fünf Seiten vollständig, die sechste Seite fast vollständig
+                            beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1772</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-11-24"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:51Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 10 Brunswick Gardens<lb/>Kensington<lb/>24 Nov. 1867</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Nachstehend werde ich Ihnen kurz den Inhalt <seg type="comment"><orig>der in
+                            Berlin in russischer Sprache erschienenen Broschüre von <persName key="pdrPo.001.004.000004398">Serno-Solowiewitsch</persName></orig><note xml:id="db49dfbd-1402-4364-b061-95cc6826b6af"><bibl sameAs="zotero-604880-XX783AXB" type="primary">A[leksandr
+                                Aleksandrovič] Serno-Solov’evič: Naši domašnija dela. Otvet g.
+                                Gercenu na stat’ju „Porjadok toržestvuet“ (III. Kolokol Nr. 233).
+                                {А[лександр Александрович] Серно-Соловьевичъ: Наши домашнія дѣла …}…
+                                Vevey 1867.</bibl> Obwohl als Erscheinungsort auf dem Titelblatt
+                            „Vevey: B. Benda (Librairis Richard Lesser)“ (Schweiz) stand, bestätigte
+                            Serno-Solov’evič, daß die Broschüre in Berlin erschien. Siehe Serno-
+                            Solov’evič: Naši domašnija dela. {Серно-Соловьевич: Наши домашнія дѣла
+                            …} S. 41: „P.P.P.S. Отвѣтъ мой г. Герцену замедлился, вслѣдствiе
+                            необходимости печатать его въ Берлинѣ. Что же касается такъ называемой
+                            вольной русской типографiи, то вѣдь она вольная по одному названiю:
+                            принадлежа г. Герцену и Долгорукову, она и печатаетъ только то, что
+                            разрѣшается цензурою этихъ господъ.“Ausführlicher über die Schrift von
+                            Serno-Solov’evič siehe <ref target="B00393"><?oxy_comment_start author="reichhoff" timestamp="20180611T170232+0200" comment="(Br. 383.21–23)"?>S.
+                                L. Borkheim an Engels, 14.10.1867<?oxy_comment_end?></ref> „Heute
+                            schicke ich ihnen ...“ und Erl.</note></seg> angeben. Durch sie ist es
+                    erklärlich, warum <seg type="comment"><orig><persName key="pdrPo.001.004.000001761">Herzen</persName> seinen „<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“ jetzt auf
+                            einmal französisch fortsetzen</orig><note xml:id="c49bc6e8-54ac-4093-bcff-c7520c6069c3">„<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“ erschien
+                            anfangs bis zum 1. Juli 1867 auf Russisch. Das Blatt wurde mangels
+                            Nachfrage mit Beginn des Jahres 1868 eingestellt . Das Sinken des
+                            Interesses der Leser an „Kolokol“ wurde nicht zuletzt durch die
+                            Verminderung der Kontakte der Redaktion mit Rußland verursacht, die
+                            einerseits mit der Abschwächung der Pressezensur nach der Reform von
+                            1861, die die Leibeigenschaft in Rußland aufhob, andererseits mit der
+                            Verstärkung der politischen Reaktion nach dem Attentat <persName key="ed_vwb_k4f_2z">Dmitrij Vladimirovič Karakozovs</persName> auf
+                                <persName key="pdrPo.001.004.000000062">Aleksandr II</persName>
+                            (siehe
+                            <?oxy_comment_start author="lindenberg" timestamp="20191126T174217+0100" comment="433k"?>Erl. unten<?oxy_comment_end?>)
+                            und der Abschwächung der russischen revolutionären Bewegung verbunden
+                            war. Einen negativen Einfluß auf die Popularität der Zeitung hatte das
+                            schlechte Verhältnis zwischen der Redaktion des „Kolokols“ und der
+                            „jungen Emigration“ (siehe <ref target="B00392"><?oxy_comment_start author="lindenberg" timestamp="20190314T104950+0100" comment="382e"?>Erl.
+                                zu S. L. Borkheim an Marx, 14.10.1867<?oxy_comment_end?></ref>). Die
+                            Redaktion bemühte sich, die kommerzielle Lage der Zeitung zu verbessern
+                            und annoncierte die Bestellung der Veröffentlichungen der Freien
+                            russischen Druckerei (Vol’naja russkaja tipografija /Вольная русская
+                            типография) nicht nur in russischer, sondern auch in polnischer,
+                            serbischer, französischer und englischer Sprache. Auch diese Maßnahme
+                            blieb erfolglos und die Herausgabe der Zeitung auf Russisch wurde
+                            eingestellt. Der Plan, „Kolokol“ in französischer Sprache mit einer
+                            russischsprachigen Beilage herauszugeben, entstand bei <persName key="pdrPo.001.004.000001761">Gercen</persName> etwa im August 1867.
+                            Die Einzelblätter mit der Annonce der neuen Ausgabe „Kolokols“ wurden im
+                            November 1867 aus Genf an die Redaktionen verschiedener Zeitungen sowie
+                            an Journalisten, Schriftsteller und bekannte Persönlichkeiten
+                            verschickt. (Siehe <bibl sameAs="zotero-604880-TUJ2ZVKN" type="secondary">Rudnickaja: Predislovie k faksimil’nomu izdaniju
+                                „Kolokol“</bibl>. S. V–XXIII.)</note></seg>
+                    <?oxy_comment_start author="lindenberg" timestamp="20190314T104339+0100" comment="vorher: „Kolokol“ erschien auf Russisch bis zum 1. Juli 1867, nachdem die Herausgabe wegen des sich Ende 1866 bis Anfang 1867 abgezeichneten Nachfragerückgangs bis zum 1. Januar 1868 eingestellt wurde. Das Sinken des Interesses der Leser an „Kolokol“ wurde nicht zuletzt durch die Verminderung der Kontakte der Redaktion mit Rußland verursacht, die einerseits mit der Abschwächung der Pressezensur nach der Reform von 1861, die die Leibeigenschaft in Rußland aufhob, andererseits mit der Verstärkung der politischen Reaktion nach dem Attentat Dmitrij Vladimirovič Karakozovs auf Alexandr II (siehe Erl. 433k) und der Abschwächung der russischen revolutionären Bewegung verbunden war. Einen negativen Einfluß auf die Popularität der Zeitung hatte das schlechte Verhältniss zwischen der Redaktion des „Kolokols“ und der „jungen Emigration“ (siehe Erl. 382e). Die Redaktion bemühte sich die kommerzielle Lage der Zeitung zu verbessern und annoncierte die Bestellung der Veröffentlichungen von der Freien russischen Druckerei (Vol’naja russkaja tipografija /Вольная русская типография) nicht nur in russischer, sondern auch in polnischer, serbischer, französischer und englischer Sprache. Diese Maßnahme war aber erfolglos und die Herausgabe der Zeitung auf Russisch wurde eingestellt. Etwa im August 1867 entstand bei Gercen der Plan, den „Kolokol“ in französischer Sprache mit einer russischsprachigen Beilage herauszugeben. Die Einzelblätter mit der Annonce der neuen Ausgabe „Kolokols“ wurden im November 1867 aus Genf an die Redaktionen der Zeitungen sowie an die bekannten Journalisten, Schriftsteller und anderen Persönlichkeiten verschickt. (Siehe Rudnickaja: Predislovie k faksimil’nomu izdaniju „Kolokol“. S. V–XXIII.) "?><?oxy_comment_end?>und
+                    warum er sich französischen und belgischen radikalen Zeitungen aufdrängeln will.
+                    In Deutschland hat man ihn wohl aus Instinkt nicht recht aufkommen lassen, denn
+                    hätte man lesen und gehörig verstehen können, wie er Deutschland und die
+                    Deutschen in russischer Sprache behandelt, so hätte es vor Jahren, selbst
+                    gewissen deutschen Schwachköpfen in Genf und London nicht einfallen können,
+                    seine slavischen Beßjäden (Schwatz- und Trinkgelage) zu besuchen. –</p>
+                <p><persName key="pdrPo.001.004.000004398">SS.</persName>
+                    sagt:</p>
+                <p><seg type="comment"><orig>Seitdem das jüngere Geschlecht angefangen, <persName key="pdrPo.001.004.000001761">Herzen</persName> zu verstehen, hätte
+                            es sich mit Ekel von ihm abgewandt. Er kritisirt den „<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“ von Anfang
+                            bis zu Ende und konstatirt seine Plattheit und Gemeinheit. Herzen möge
+                            auch erklären, was er mit seiner stets wiederkehrenden Redensart von der
+                            „Fäulniß“ Westeuropas meint und worin denn seine „Frische“
+                            bestehe.</orig><note xml:id="ae2b32d0-55ca-4819-92a1-8cdad9b7a9dc">Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 3/4.</note></seg> – <seg type="comment"><orig>Die wirklichen Führer der scharfen Opposition seien <hi rendition="#u">in</hi> Rußland <pb/>
+                            <persName key="pdrPo.001.004.000000853">Tschernischewski</persName> und
+                                <persName key="pdrPo.001.004.000001172">Dobroljuboff</persName>
+                            gewesen, von denen dieser im Alter von 26 Jahren gestorben, jener in den
+                            sibirischen Minen auf Lebenszeit vergraben ist.</orig><note xml:id="e5aedd3d-deab-4c75-bede-ef6f7e307511">Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 4, 9 und 28/29. – <persName key="pdrPo.001.004.000001172">Nikolaj Aleksandrovič
+                                Dobroljubov</persName> war am 17. (29.) November 1861 in Sankt
+                            Petersburg an Tuberkulose gestorben. – Der kritische Journalist und
+                            Schriftsteller <persName key="pdrPo.001.004.000000853">Nikolaj
+                                Gavrilovič Černyševskij</persName>, seit 1853 in Sankt Petersburg
+                            lebend,<?oxy_comment_start author="lindenberg" timestamp="20190314T110457+0100" comment="vorher:  Nikolaj Gavrilovič Černyševskij wirkte seit 1853 führend in der revolutionär-demokratischen Bewegung in Rußland. In seinen Schriften kämfte er gegen Selbstherrschaft und Leibeigenschaft und rief zum Zusammenschluß der fortschrittlichen Kräfte auf. Er hatte wesentlichen Anteil an der Vereinigung der in Sankt Petersburg und anderen Städten existierenden revolutionären Organisationen „Zemlja i Volja“ (Земля и Воля)."?><?oxy_comment_end?>wurde
+                            am 7. Juli 1862 verhaftet und bis 1864 in der Peter-Pauls-Festung in
+                            Sankt Petersburg eingekerkert. Das im Mai 1864 gefällte Urteil lautete
+                            auf sieben Jahre Zwangsarbeit in Ostsibirien und lebenslängliche
+                            Verbannung nach Sibirien.</note></seg>
+                    <seg type="comment"><orig>Diese haben vor Jahren das russische Publikum vor
+                                <persName key="pdrPo.001.004.000001761">Herzen</persName> gewarnt
+                            und haben ihn stets mit Ironie und Verachtung behandelt, wogegen er sie
+                            in seinem Kolokol als „Trommler, Possenreißer und Spione“ hinstellte,
+                            die nur darauf ausgingen, eine Anstellung und Orden zu
+                            erhalten.</orig><note xml:id="e967b7f0-b747-493d-951d-00deef923877"> Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 28/29: „Еще въ 59 г., … вы
+                            предсказывали тогда Чернышевскому и Добролюбову, что они ,досвищутся … и
+                            до Станислава на шею‘… А ослиные бубенчики и балаганчики - забыли?
+                            Посмотрите, Чернышевскiй и Добролюбовъ досвистались, только не до
+                            третьяго отдѣленiя и Станислава, а до каторги и могилы, - и
+                            балаганщиками и политическими гаерями оказались не они, а другiе.
+                            Чернышевскiй и Добролюбовъ - балаганщики! … Чернышевскiй и Добролюбовъ -
+                            шпiоны и царскiе слуги! …“ – <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht sich auf [Aleksandr Ivanovič
+                            Gercen:] Very Dangerous!!! [Gez.:] I—r. In: Kolokol. London. Nr. 44,
+                            1. Juni 1859, S. 5/6. Bei Gercen, S. 5, Sp. 1: „Журналы, сдѣлавшiе себѣ
+                            пьедесталъ изъ благородныхъ негодованiй и чуть не ремесло изъ мрачныхъ
+                            сочуствiй со страждущими - катаются со смѣху надъ <hi rendition="#u">обличительной</hi> литературой, надъ неудачными опытами <hi rendition="#u">гласности</hi>. И это не то, чтобъ случайно, но при
+                            большемъ театрѣ ставятъ особые балаганчики для освистыванiя первыхъ
+                            опытовъ свободного слова литературы …“. Ebenda, S. 6, Sp. 2: „… Истощая
+                            свой смѣхъ на обличительную литературу, милые паяццы наши забываютъ, что
+                            по этой скользной дорогѣ можно <hi rendition="#u">досвистаться</hi> не
+                            только до Булгарина и Греча, но (чего боже сохрани) и до <hi rendition="#u">Станислава на шею!</hi>“ (Siehe <bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>. Vyp.
+                            2. 1859. London, Moskva 1962. S. 363/364.) – Der Orden des Heiligen
+                            Stanislavs (Орден Св. Станислава), der am 1. Dezember 1815 in Rußland
+                            bestätigt wurde, war die verbreiteste Auszeichnung in Rußland, mit dem
+                            Staatsbeamte und Offiziere ausgezeichnet wurden. (Siehe P. S. Kadancev:
+                            Ordena Rossii. Rjazan’ 1993. S. 101–109.)</note></seg>
+                    <seg type="comment"><orig>Als <persName key="pdrPo.001.004.000001761">Herzen</persName> aber inne wurde, daß er <hi rendition="#u">in</hi> Rußland zur Null sank, machte er ihnen Versöhnungsanträge,
+                            die aufs Entschiedenste zurückgewiesen wurden, und jetzt, da der eine
+                            körperlich, der andere bürgerlich todt, erzählt Herzen der Welt, er und
+                                <persName key="pdrPo.001.004.000000853">Tschernischewski</persName>
+                            hätten „sich gegenseitig ergänzt“.</orig><note xml:id="d434a21d-37f5-47bc-863f-ab6fb4488708"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 24/25: „Но въ вашей статьѣ ,Порядокъ
+                            торжествуетъ‘ … высказана мысль, которая не можетъ, не должна остаться
+                            безъ возраженiя … Для спасенiя себя, вы вдругъ уцѣпились за
+                            Чернышевскаго, и стали утверждать, что шли съ нимъ рука об руку. Вы
+                            пишете: ,мы не только не представляли антагонизма, но напротивъ служили
+                            взаимнымъ дополненiемъ другъ другу‘ (233).“ – Serno-Solov’evič bezieht
+                            sich auf [Aleksandr Ivanovič Gercen:] Porjadok toržestvuet! III. [Gez.:]
+                            I—r. In: Kolokol. Genf. Nr. 233 &amp; 234, 1. Februar 1867. S. 1, Sp. 1
+                            bis S. 5, Sp. 1. Bei Gerzen, S. 3, Sp. 1: „… рядомъ съ нашимъ ученiемъ
+                            развивались, съ огромнымъ талантомъ и пониманьемъ, теорiи чисто
+                            западнаго соцiализма и именно въ Петербургѣ. Это раздвоенiе, совершенно
+                            естественное, лежащее въ самомъ понятiи, вовсе не представляло
+                            антагонизма. Мы служили взаимнымъ дополненiемъ другъ друга.“ (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>. Vyp.
+                            9. 1866–1867. Ženeva. Moskva 1964. S. 1903.)</note></seg>
+                    <seg type="comment"><orig><persName key="pdrPo.001.004.000004398">SS</persName>.
+                            erklärt, daß <persName key="pdrPo.001.004.000000853">Tsch.</persName>
+                            allerdings eine „Schule“ in Rußland gegründet und viele Anhänger habe;
+                            er belacht die Ansprüche <persName key="pdrPo.001.004.000001761">Herzen</persName>s auf Gründung einer Schule und fordert ihn auf,
+                            auch nur einen einzigen Schüler zu nennen.</orig><note xml:id="be8eaa60-755e-4c16-b1dd-874c27ff0b45">Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 27/28: „…Чернышевскiй основалъ
+                            дѣйствительную школу, онъ воспитывалъ людей, онъ образовалъ цѣлую
+                            фалангу людей - гдѣ ваши послѣдователи, не знаю. … и съ своей стороны
+                            готовъ простить вамъ многое, если вы укажите мнѣ хотя на одного,
+                            единственнаго изъ своихъ учениковъ.“</note></seg>
+                    <seg type="comment"><orig>Herzen hätte stets
+                            <?oxy_comment_start author="lindenberg" timestamp="20190313T170724+0100" comment="Rheinisches Wörterbuch: klängeln I s. bei Klang; klängeln II, klängern = in der Nachbarschaft plaudern s. kländern; klängen = klingen II (s. d.).
+http://woerterbuchnetz.de/RhWB/call_wbgui_py_from_form?sigle=RhWB&amp;mode=Volltextsuche&amp;hitlist=&amp;patternlist=&amp;lemid=RK06421"?>geklängelt<?oxy_comment_end?>,
+                            daß <persName key="pdrPo.001.004.000000853">Tsch.</persName> und
+                                <persName key="pdrPo.001.004.000001172">D.</persName> nur Nachbeter
+                            der Vertreter des westlichen „städtischen“ Socialismus sein, und zum
+                            Gegensatze auf seine eigene Erfindung des „Bodenszaren“
+                            hingewiesen.</orig><note xml:id="b62c4944-520b-48f5-856b-45b814794031">
+                            <p> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 22/23: „Я промолчалъ бы даже на
+                                ваши усилiя выставить себя основателемъ какой-то школы (??)
+                                основателемъ русскаго соцiализма, на ваши усилiя заставить повѣрить
+                                … будто Чернышевскiй развивалъ только теорiи чисто западнаго,
+                                городскaго соцiализма …“. Siehe auch [Aleksandr Ivanovič Gercen:]
+                                Porjadok toržestvuet! III. [Gez.:] I—r. In: Kolokol. Genf. Nr. 233
+                                &amp; 234, 1. Februar 1867, S. 2, Sp. 2 bis S. 3, Sp. 1: „… Мы …
+                                продолжали на первомъ планѣ разборъ и обсуживанiе экономическаго и
+                                административнаго переворота, въ одномъ и томъ-же духѣ и направленiи
+                                    <hi rendition="#u">русскаго соцiализма</hi>. …“. – Мы <hi rendition="#u">русскимъ соцiализмомъ </hi>называемъ тотъ
+                                соцiализмъ, который идетъ отъ земли и крестьянскаго быта, отъ
+                                фактическаго надѣла и существующаго передѣла полей, отъ отъ
+                                общиннаго владѣнья и общиннаго управленiя - и идетъ вмѣстѣ съ
+                                работничьей артелью на встрѣчу той экономической <hi rendition="#u">справедливости,</hi> къ которой стремится соцiализмъ вообще, и
+                                которую подтверждаетъ наука. {#Absatz} Названiе это тѣмъ
+                                необходимѣе, что рядомъ съ нашимъ ученiемъ развивались, съ огромнымъ
+                                талантомъ и пониманьемъ, теорiи чисто западнаго соцiализма и именно
+                                въ Петербургѣ. Это
+                                раздвоен<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>i<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>е,<?oxy_custom_end?>
+                                совершенно естественное, лежащее въ самомъ
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>понят<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>i<?oxy_custom_end?>и,
+                                вовсе не представляло антагонизма. Мы служили взаимнымъ
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>дополнен<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>iе<?oxy_custom_end?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>мъ<?oxy_custom_end?>
+                                другъ друга. {Absatz} Первые представители соцiальныхъ идей въ
+                                Петербу<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>ргѣ<?oxy_custom_end?>,
+                                были <seg rend="italic">П</seg><seg rend="italic">е</seg><seg rend="italic">т</seg><seg rend="italic">р</seg><seg rend="italic">а</seg><seg rend="italic">ш</seg><seg rend="italic">е</seg><seg rend="italic">в</seg><seg rend="italic">ц</seg><seg rend="italic">ы</seg>. Ихъ даже судили
+                                какъ ,Фурьеристовъ‘… За ними является сильная личность <seg rend="italic">Ч</seg><seg rend="italic">е</seg><seg rend="italic">р</seg><seg rend="italic">н</seg><seg rend="italic">ы</seg><seg rend="italic">ш</seg><seg rend="italic">е</seg><seg rend="italic">в</seg><seg rend="italic">с</seg><seg rend="italic">к</seg><seg rend="italic">а</seg><seg rend="italic">г</seg><seg rend="italic">о</seg>. Онъ не принадлежалъ исключительно ни къ
+                                одной соцiальной доктринѣ, но имѣлъ глубокiй соцiальный смыслъ и
+                                глубокую критику современно существующихъ порядковъ. …“ (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>.
+                                Vyp. 9. 1866–1867. Ženeva. Moskva 1964. S. 1902/1903.)</p>
+                        </note></seg> S.S. zieht hierbei den <seg type="comment"><orig>elenden Brief
+                                <persName key="pdrPo.001.004.000001761">Herzens</persName> an den
+                                <persName key="pdrPo.001.004.000000062">Kaiser</persName></orig><note xml:id="e63b3882-46b7-47fe-b437-780557487dcc"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 7: „… плаксивое письмо къ царю, въ то
+                            время какъ онъ ставилъ висѣлицы и отдавалъ Россiю на бойню Муравьеву
+                            (Маццини-де писалъ письма Виктору Эммануилу, слѣдовательно это такъ
+                            надо), письмо, переведенное Европѣ и не напечатанное ни одной
+                            европейской газетой (у гнилой-то Европы видно побольше такта) …“ –
+                                <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName>
+                            erinnerte an die in „<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“ veröffentlichten Briefe <persName key="pdrPo.001.004.000001761">Gercens</persName> an den russischen
+                            Kaiser <persName key="pdrPo.001.004.000000062">Aleksandr II</persName>.
+                            Die „junge Emigration“ (siehe <ref target="B00393"><?oxy_comment_start author="lindenberg" timestamp="20191127T181339+0100" comment=" 383e"?>Erl.
+                                zu S. L. Borkheim an Engels, 14.10.1867<?oxy_comment_end?></ref>)
+                            verurteilte besonders den Brief Gercens an Aleksandr II vom 2. Mai 1865,
+                            in dem Gercen an den Kaiser appellierte, die Verfolgungen wegen
+                            politischer Überzeugungen zu beenden, und die Hoffnung auf seinen
+                            Beschluß über die Einberufung der Ständeversammlung (Zemskij sobor)
+                            aussprach. (Siehe [Aleksandr Ivanovič Gercen:] Pis’mo k imperatoru
+                            Aleksandru II. [Gez.:] Iskander. Ženeva, Boissére, 2 Maja 1865.
+                            In: Kolokol. Genf. Nr. 197, 25. Mai 1865, S. 1/2. (Kolokol. Vyp. 8.
+                            1865. London–Ženeva. Moskva 1963. S. 1613/1614.) Der letzte Brief
+                            Gercens an Aleksandr II vom 31. Mai 1866 wurde wegen der
+                            Repressivmaßnahmen in Rußland nach dem von Dmitrij Vladimirovič
+                            Karakozov verübten Attentat auf Aleksandr II im Juni 1866
+                            veröffentlicht. (Siehe [Aleksandr Ivanovič Gercen:] Pis’mo k imperatoru
+                            Aleksandru II. [Gez.:] Iskander. Ženeva 31 Majy 1866. In: Ebenda. Genf.
+                            Nr. 221, 1. Juni 1866. S. 1. (Kolokol. Vyp. 9. 1866–1867. Ženeva. Moskva
+                            1964. S. 1805.) Gercens Briefe an Aleksandr II waren mit seiner Hoffnung
+                            auf eine unblutige Umwälzung verbunden und schadeten dem Ansehen des
+                            „Kolokols“.(Z[inaida] P. Bazileva: „Kolokol“ Gercena &lt;1857–1867 gg.&gt;.
+                            Moskva 1949. S. 277.)</note></seg> an, der eine Nachahmung des <persName key="pdrPo.001.004.000003114">Mazzini</persName>schen an<persName key="pdrPo.001.004.000004955"> Viktor Emanuel</persName> und führt aus, daß
+                        <persName key="pdrPo.001.004.000000853">Tsch.</persName> und <persName key="pdrPo.001.004.000001172">D.</persName> die <hi rendition="#u">ganze</hi> ökonomische Frage wissenschaftlich behandelt hätten. <seg type="comment"><orig>Er frägt auch den <persName key="pdrPo.001.004.000001761">Herzen</persName>, warum er die sehr
+                            verständig geschriebene Broschüre des <persName key="ed_yyc_gpz_dhb">Nikiphor G.</persName> über die Landangelegenheit mit <pb/>
+                            Stillschweigen übergangen.</orig><note xml:id="bcf00a30-5df0-4aac-8f44-606151abef96"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 9: „… вы ни слова не сказали о такой
+                            умной брошюрѣ, какъ брошюра Никифора Г,*** написанная по поводу выстрѣла
+                            4-го апрѣля. Вы умолчали о ней, потому что и она говоритъ, что молодое
+                            поколѣнiе пошло за Чернышевскимъ и Добролюбовымъ.“
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Siehe
+                            [Nikolaj Jakovlevič Nikoladze:] Pravitel’stvo i molodoe pokolenie. Po
+                            povodu vystrela 4 aprelja 1866. Nikifora G. Ženeva
+                            1866.<?oxy_custom_end?> – <persName key="ed_yyc_gpz_dhb">Nikolaj
+                                Jakovlevič Nikoladze</persName>.</note></seg>
+                    <seg type="comment"><orig>Der Schuß des <persName key="ed_vwb_k4f_2z">Karakosoff</persName></orig><note xml:id="b879382e-348d-41d8-bb16-870ebfd818fc"><persName key="ed_vwb_k4f_2z">Dmitrij Vladimirovič Karakozov</persName>
+                            verübte am 4. April 1866 in Sankt Petersburg ein Attentat auf
+                            Aleksandr II. Siehe <ref target="B00120"><?oxy_comment_start author="reichhoff" timestamp="20180611T171224+0200" comment="(Br. 116.32–33)"?>Marx
+                                an Engels, 7.6.1866<?oxy_comment_end?></ref> „wegen des
+                            Attentats“).</note></seg> war ein Ausdruck der Verzweiflung der
+                    zertretenen Opposition und diesen <persName key="ed_vwb_k4f_2z">Karakosoff</persName> hätte <persName key="pdrPo.001.004.000001761">Herzen</persName> mit Schmutz beworfen, so <seg type="comment"><orig>daß
+                                <persName key="ed_mx4_hcr_4gb">Akßakoff</persName>, der Redakteur
+                            der in Moskau erscheinenden erzrussischen, panslavistischen „<bibl sameAs="ed_gvd_1mk_tgb" type="periodika">Moskwa</bibl>“ ihn als
+                            alten Freund begrüßte, von dem noch das Beste zu hoffen, da er in seiner
+                            Behandlung des <persName key="ed_vwb_k4f_2z">Karakosoff</persName>
+                            offenbar Reue weine über vergangene Irrthümer</orig><note xml:id="e91b70d2-2f63-4cf1-86a9-d178d2917d85"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 41: „… г-н Аксаковъ въ своей Москве
+                            надѣется, что для г. Герцена возможенъ еще нравственный возвратъ.“ –
+                            Verweis auf das Nachwort der Redaktion zur Veröffentlichung des Briefes
+                            von <persName key="pdrPo.001.004.000001761">Aleksandr Gercen</persName>
+                            aus Florenz vom 10. März 1867 in der von I<persName key="ed_mx4_hcr_4gb">van Sergeevič Aksakov</persName> redigierten Zeitung „<bibl sameAs="ed_gvd_1mk_tgb" type="periodika">Moskva</bibl>“, in dem
+                            Gercen gegen die Verleumdung in Nr. 46 der St. Petersburger Zeitung
+                                „<bibl sameAs="ed_a1k_5yp_tgb" type="periodika">Golos</bibl>“ („Die
+                            Stimme“) protestierte. (Siehe Aleksandr Gercen: M.G. My s vami
+                            soveršennejšie protivniki … In: Moskva. Nr. 58 vom 14. März 1867, S. 4,
+                            Sp. 3; [Ivan Sergeevič Aksakov: Nachwort der Redaktion …] In: Ebenda, S.
+                            4, Sp. 3/4.) Im Vorfeld war in „Golos“ eine Veröffentlichung aus der
+                            Tageszeitung „Warschavskij dnevnik“ nachgedruckt worden, in der Gercen
+                            und <persName key="pdrPo.001.004.000000231">Bakunin</persName>
+                            Teilnehmer einer Brandstiftergesellschaft genannt wurden. (Siehe V
+                            oproverženie zajavlennago v zagraničnoj pečati … In: Golos.
+                            St. Petersburg, Nr. 46 vom 15. (27.) Februar 1867, S. 2, Sp. 3/4.) –
+                            Gercens Brief aus Florenz vom 8. März 1867 btr. der Publikation der
+                            „Golos“ erschien auch in „Kolokol“. Siehe Aleksandr Gercen: V 46 №
+                            Golosa …, Florencija, 8 Marta 1867. In: Kolokol. Genf. Nr. 237, 15. März
+                            1867. S. 1, Sp. 1. (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>. Vyp. 9.1866–1867. Ženeva. Moskva 1964. S. 1933.
+                            Sp. 1.)</note></seg>. Auch ist <seg type="comment"><orig>die russische
+                                <bibl sameAs="ed_c32_ycz_tgb" type="periodika">Petersburger
+                                Zeitung</bibl>, indem sie die Reue des <persName key="pdrPo.001.004.000002473">Kelsieff-Geludkoff</persName>
+                            beleuchtete</orig><note xml:id="dde44e25-30f3-41e0-b9de-a34d61d0383d">Borkheim entnahm die Angaben des Briefes von <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> an
+                                <persName key="pdrPo.001.004.000002473">Vasilij Ivanovič
+                                Kel’siev-Šeludkov</persName>, den Serno-Solov’evič seinem Brief an
+                            Borkheim vom 18. Oktober 1867 beigelegt hatte (siehe <ref target="B00393"><?oxy_comment_start author="lindenberg" timestamp="20191127T162617+0100" comment="383e"?>Erl.<?oxy_comment_end?>
+                                zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T171430+0200" comment="Br. 383 "?>Borkheim
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref>). Serno-Solov’evič
+                            bezog sich in seinem Brief an Kel’siev-Šeludkov auf die Zeitung „<bibl sameAs="ed_c32_ycz_tgb" type="periodika">Peterburgskaja
+                                gazeta</bibl><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>“
+                            („Peterburger Zeitung“), die sich in der August-Nummer über seine
+                            Broschüre „Naši domašnija dela“ <?oxy_custom_end?>(siehe <ref target="B00393"><?oxy_comment_start author="reichhoff" timestamp="20180611T171430+0200" comment="Br. 383 "?>Borkheim
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191127T163306+0100" comment="383d"?>Erl.<?oxy_comment_end?>)
+                            geäußert und ihn dabei beleidigt hatte. Serno-Solov’evič betrachtete
+                            diese Beleidigung als Folge der s.g. Reue Kel’sievs. (Siehe A[leksandr]
+                            Serno-Solowiewitsch: Brief an Herrn Kel’sieff-Geludkoff. Genf, September
+                            1867. In: <bibl sameAs="zotero-604880-IBV2MP3S" type="primary">Borkheim:
+                                Einleitung</bibl> [zu]: <bibl sameAs="zotero-604880-WIHUL78I" type="primary">A[leksandr] Serno-Solowiewitsch: Unsere Russischen
+                                Angelegenheiten … Leipzig 1871. S. 6–8.</bibl>) – Kel’siev befand
+                            sich seit 1859 als politischer Emigrant im Ausland und betrieb
+                            politische Agitation gegen die russischen Regierung. Mit der Zeit
+                            wandelte sich seine Haltung bis hin zu einer Abkehr von revolutionären
+                            Ansichten.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190314T112110+0100" comment="vorher: Neben der literarischen Tätigkeit führte er die revolutionäre Agitation gegen die russischen Regierung unter den Kirchenspaltern (Raskol’niki). Mit der Zeit fühlte er sich aber von seiner revolutionären Ansichten enttäuscht. "?>1866<?oxy_comment_end?>–1867
+                            veröffentlichte Kel’siev in der Zeitung
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>„Golos“
+                            <?oxy_custom_end?>(St.-Petersburg) unter den Pseudonymen I.-Ž., V.
+                            Ivanov-Želudkov, bzw. Ivanov-Želudkov („И.-Ж.“, „Ивановъ-Желудковъ“ bzw.
+                            „В. Ивановъ-Желудковъ“) eine Reihe der ethnographischen Notizen über
+                            seine Reisen nach Galizien und Moldau, in denen sich Kel’sievs
+                            Hinwendung zum Slavophilentum (siehe Erl.
+                            <?oxy_comment_start author="lindenberg" timestamp="20191127T170154+0100" comment="433y"?>unten<?oxy_comment_end?>)
+                            widerspiegelte. – Am 20. Mai 1867 kam Kel’siev am Zollpunkt Skuljany an
+                            der russischen Grenze in Bessarabien an und stellte sich den Behörden.
+                            Während der Verhaftung in St. Petersburg verfaßte Kel’siev ab 13. Juni
+                            bis 11. Juli 1867 eine „Beichte“ („Исповедь“ / „Ispoved’“), in der er
+                            ausführlich die Ursachen seiner geistigen Krise und seine Abkehr von
+                            revolutionären Ideen darlegte und sich von seiner früheren revolutionäre
+                            Tätigkeit distanzierte. <persName key="pdrPo.001.004.000000062">Alexsandr II</persName>, der Kel’sievs „Ispoved’“ („Die Beichte“)
+                            gelesen hatte, verzieh diesem seine oppositionelle Vergangenheit.
+                            Kel’siev erhielt sogar die Erlaubnis, in den Staatsdienst zu treten und
+                            sowohl in St. Petersburg als auch in Moskau zu leben. Am 11. September
+                            1867 wurde Kel’siev aus dem Gefängnis entlassen und ließ sich in St.
+                            Petersburg
+                            nieder.<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20190314T113411+0100" comment="vorher noch: Ungewöhnlich milde Einstellung der Mächte zu dem ehemaligen Staatsverbrecher machte den negativen Eindruck auf die radikale Opposition in Russland, die das Verhalten Kel’sievs als Renegatentum wahrgenommen hatte."?>Die<?oxy_comment_end?>
+                            verkürzte Fassung von Kel’sievs „Ispoved’“ erschien 1868. (Siehe Vasilij
+                            Kel’siev: Perežitoe i peredumannoe. Vospominanija. C. Peterburg 1868;
+                            V[asilij] I[vanovič] Kel’siev: Ispoved’. In: Literaturnoe nasledstvo. T.
+                            41/42. Moskva 1941. S. 265–442. Siehe zu Kel’siev auch M. Klevenskij:
+                            „Ispoved’“ V.I. Kel’sieva. Podgotovka k pečati E. Kingisepp.
+                            Vstupitel’naja stat’ja i kommentarii. In: Literaturnoe nasledstvo. T.
+                            41/42. Moskva 1941. S. 253–261; Gercen: Byloe i dumy. 1852–1868. Th. 7.
+                            [Kapitel 2:] V.I. Kel’siev. In: <bibl sameAs="zotero-604880-ZIS3N549" type="primary">Gercen: Sobranije sočinenij</bibl>. T. 11. Moskva
+                            1957. S. 329–340; V. Ja. Grosul: Rossijskie revolucionery v
+                            Jugo-Vostočnoj Evrope (1859–1874). Kischinev 1973. S. 155–171, 184–219;
+                            K. A. Solov’ev: Obščestvenno-političeskie vzgljady V.I. Kel’sieva
+                            (1835–1872). Diss. … kand. ist. nauk. Moskva 2010. S. 209–280; derselbe:
+                            Meždu narodničestvom i slavjanofil’stvom: V.I. Kel’siev v obščestvennoj
+                            žizni Rossii 1860-ch. Saarbrücken 2014.) – Von Kel’siev
+                            zusammengestellter Sammelband „Sbornik pravitel’stvennyx svedenij o
+                            raskol’nikax.“ Sost. V. Kel’sievym [Kel’siev]. Vyp. 3. O skopcax.
+                            London: Trübner 1862 / {rus}„Сборникъ правительственныхъ свѣденiй о
+                            раскольникахъ.“ Сост. В. Кельсiевымъ. Вып. 3. О скопцахъ. Лондонъ{/rus}:
+                            Trübner 1862, befand sich wahrscheinlich in der Bibliothek von Marx
+                                (MEGA<hi rendition="#sup">2</hi> IV/32. Nr. 1179).</note></seg>, der
+                    auch Flüchtling von der <seg type="comment"><orig>Studentenbewegung</orig><note xml:id="f07fc8f0-1d97-41f0-9c15-c762adf5d729">Borkheim verwechselt
+                                <persName key="pdrPo.001.004.000002473">Vasilij Ivanovič
+                                Kel’siev</persName> mit dessen Bruder <persName key="ed_a42_kxr_fhb">Ivan Ivanovič Kel’siev</persName>, der als Gasthörer an der
+                            Moskauer Universität 1861 für seine Teinahme an den Studentenunruhen am
+                            12. November 1861 verhaftet und im Februar 1862 nach Perm’ ausgewiesen
+                            wurde. – Die Protestaktionen der Studenten in Sankt Petersburg, Moskau
+                            und Kasan’ im Sommer und Herbst 1861 richteten sich gegen die seit dem
+                            31. Mai 1861 gültigen neuen Verfügungen über die Universitäten, die u.a.
+                            das Verbot von Zusammenkünften der Studenten, die Übernahme der
+                            studentischen Kassen zur gegenseitigen Hilfe durch die
+                            Universitätsverwaltungen und das Verbot der Befreiung mittelloser
+                            Studenten von Studentengebühren – was zwei Drittel der Studenten betraf
+                            – festlegten. Auf die Protestbewegung der Studenten reagierte die
+                            Regierung mit Verhaftungen, Gefängnisstrafen, Relegierungen und der
+                            Schließung von Universitäten. Am 9. Oktober 1861 wies die Regierung die
+                            Schließung der Sankt Petersburger Universität an. Bei ihrer
+                            Wiedereröffnung am 25. Oktober 1861 führten die Studenten wieder
+                            Protestaktionen durch. Am 3. Januar 1862 erfolgte die erneute Schließung
+                            der Universität.</note></seg> her war und sich freiwillig – ganz
+                    neuerdings – der Russischen Regierung gestellt, über <persName key="pdrPo.001.004.000004398">S.S.</persName> wegen seiner Berliner
+                    Broschüre hergefallen, aber keineswegs über <persName key="pdrPo.001.004.000001761">Herzen</persName>. <persName key="pdrPo.001.004.000002473">Kelsieff</persName> ist vom <seg type="comment"><orig><persName key="pdrPo.001.004.000000062">Kaiser</persName></orig><note xml:id="f0dc559d-bac3-4956-8f03-d7211f221bda"><persName key="pdrPo.001.004.000000062">Aleksandr II</persName>.</note></seg>
+                    begnadigt und gleichzeitig für anstellungsberechtigt erklärt worden. – <seg type="comment"><orig>Von <persName key="ed_xsz_rwn_zgb">Dolgorukoff</persName> erzählt <persName key="pdrPo.001.004.000004398">S.S.</persName>, daß dieser fürstliche
+                            Freund Herzens der schweizer Polizei davon Anzeige gemacht hat, daß
+                            einige russische Flüchtlinge – unerlaubter Weise, da sie die gesetzliche
+                            Kaution nicht geleistet, eine Druckerei zu Genf besäßen.</orig><note xml:id="d543e24f-fb83-4308-a486-aad6502a183a">Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 14: „… эти ваши увлеченiя мы давно
+                            знали: они высказались … и въ дружбѣ съ княземъ Долгорукимъ, донесшимъ
+                            женевской полицiи на существованiе у одного изъ русскихъ эмигрантовъ въ
+                            Женевѣ типографскаго станка.“</note></seg> Diese Druckerei war nemlich
+                    der privilegirten Herzenschen ein Dorn. <seg type="comment"><orig>Da <persName key="pdrPo.001.004.000001761">Herzen</persName> sah, daß die
+                            neuesten russischen Flüchtlinge zu Genf ihn nicht „vergöttern“ wollten,
+                            erklärte er dem <persName key="pdrPo.001.004.000004398">S.S.</persName>
+                            als Antwort auf eine Frage um Rath für die hungrigen Kerle: „Was ist das
+                            für eine Emigration“! „Ich erkenne keine Emigration an! Wir brauchen
+                            keine Emigration!“ So, sagt S.S. spricht <pb/> dieser „freiwillige“
+                            Flüchtling, dieser Millionär, dieser „unverbesserliche
+                            Sozialist“</orig><note xml:id="b6c24dda-2245-4b02-b41d-9bf013d2254f">
+                            Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 19: „Но когда эти юноши съ святыми
+                            ранами, о которыхъ вы проливали слезы, сдѣлались вдругъ эмигрантами, и,
+                            спасаясь въ Швейцарiи отъ каторги и висѣлицы, ободранные и голодные,
+                            обратились къ вамъ - вождю, миллiонеру и неисправимому соцiалисту -
+                            обратились не съ просьбою о насущномъ хлѣбѣ, а съ предложенiемъ общей
+                            работы, вы отвернулись и съ гордымъ презрѣнiемъ отвѣчали: ,Что это за
+                            эмиграцiя? Я не признаю эмиграцiи! Не надо эмиграцiи!‘“</note></seg>,
+                    nachdem <seg type="comment"><orig>er die Studenten im Kolokol aufgehetzt hatte,
+                            um seinen Einfluß nicht zu verlieren</orig><note xml:id="f86354a2-6ffa-4245-a8ac-b39e8b719701"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, ebenda: „А молодая эмиграцiя и ваши
+                            отношенiя къ ней? … Увлеченные въ 61 г. прокламацiями и студентскими
+                            исторiями, вы вдругъ сдѣлались пророкомъ и апостоломъ революцiи,
+                            измѣнили тонъ, и, говоря, что царъ обманулъ народъ, стали требовать отъ
+                            молодежи, чтобы она бросала науку, состоянiе, семейство, будущность,
+                            заводила типографiи (105), и шла въ народъ!“ <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht
+                            sich auf folgende Artikel
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Gercens:
+                            [Aleksandr Ivanovič Gercen:] Zavodite tipografii! Zavodite tipografii!
+                            [Gez.:] I—r. In: Kolokol. London. Nr. 105, 15. August 1861. S. 1, Sp. 1;
+                            [derselbe:] Ispolin prosypaetsja! [Gez.:] Iskander. Ebenda. Nr. 110,
+                            1. November 1861. S. 1, Sp. 1 bis S. 2, Sp. 1; [derselbe:] Tret’ja
+                            krov’! [Gez.:] I—r. Ebenda. Nr. 112, 15. November 1861. S. 1, Sp. 1/2.
+                            (Kolokol 4. 1861. London. Moskva 1962. S. 877, 917/918 und
+                        933.)</note></seg>.<?oxy_custom_end?>
+                    <seg type="comment"><orig>Zur Zeit des polnischen Aufstandes</orig><note xml:id="f37124d3-62b4-4d9a-920c-f401f432c146"> Im Januar 1863 brach im
+                            Königreich Polen, das seit dem Wiener Kongreß 1815 zu Rußland gehörte,
+                            ein Aufstand aus. Das nationale Zentralkomitee (Komitet Centralny
+                            Narodowy),<?oxy_comment_start author="lindenberg" timestamp="20190314T115932+0100" comment="zuvor noch:  in dem zunächst entschiedene Kräfte der Bewegung dominierten,"?><?oxy_comment_end?>forderte
+                            in seinem Manifest vom 22. Januar 1863 die nationale Unabhängigkeit
+                            Polens sowie die Befreiung der Bauern von feudalen Lasten. Als
+                            provisorische Regierung trat es an die Spitze des Kampfes gegen die
+                            zarische Fremdherrschaft und für demokratische Umgestaltungen. Nach
+                            Anfangserfolgen und neuen Anläufen im Juni und September 1863 geriet der
+                            Aufstand jedoch ins Stocken. Entscheidenden Einfluß in der
+                            provisorischen Regierung erlangten gemäßigte Kräfte, die nicht auf die
+                            Ausweitung der Bauernbewegung, sondern auf Hilfe der regierenden Kreise
+                            in Frankreich und Großbritannien setzten. Die Mehrheit der Bauern schloß
+                            sich dem Aufstand nicht an und wurde zudem politisch dadurch
+                            neutralisiert, daß die russische Regierung am 2. März 1864 eine
+                            Agrarreform beschloß. Bis Mai 1864 schlugen russische Truppen den
+                            Aufstand nieder. (Siehe <bibl sameAs="zotero-604880-AMRIKL4U" type="secondary">R[obert] F[rank] Leslie: Reform and Insurrection in
+                                Russian Poland 1856–1865</bibl>. S. 203–231.)</note></seg> gab es
+                        <seg type="comment"><orig>eine Vereinigung von russischen Offizieren, die
+                            ihm eine Diversion durch einen russischen Aufstand machen wollten. Sie
+                            waren stets mit <persName key="pdrPo.001.004.000001761">Herzen</persName> in Verbindung gewesen und von ihm aufgewiegelt
+                            worden. Als die Polen losschlugen, wandten sich die russischen Offiziere
+                            an <persName key="pdrPo.001.004.000001761">Herzen</persName>, in dem
+                            Glauben, er handle in Übereinstimmung mit den Polen. Sie wollten wissen,
+                                <hi rendition="#u">wann</hi> und <hi rendition="#u">wie</hi> sie
+                            handeln sollten. Wochenlang ließ er sie ohne Antwort. Gedrängt endlich
+                            sagte er: „<hi rendition="#u">Seid vorsichtig</hi>.“</orig><note xml:id="d8077d97-912b-4540-8504-61c459874e07"> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 13: „А ваше отношенiе къ русскимъ
+                            офицерамъ и офицерскому комитету въ Польшѣ? … Вы благословляете
+                            архипастырскимъ благословенiемъ на смерть идущихъ, вы въ
+                            ,<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Колоколѣ‘
+                            братски<?oxy_custom_end?> пожимаете имъ руки, вы требуете, чтобы всѣ
+                            честные русскiе офицеры и солдаты шли въ арестантскiя роты, казематы, на
+                            висѣлицы - только не убивали бы поляковъ (94), а потомъ, когда поляки
+                            начинаютъ возстанiе, а русскiе офицеры спрашиваютъ у васъ: что же намъ
+                            дѣлать? - вы, … медлите недѣли
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>отвѣтомъ<?oxy_custom_end?>
+                            и, наконецъ, отвѣчаете громкимъ ,присматривайтесь,‘ …“. <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht
+                            sich auf Nr. 94 des „<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“.
+                            –<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>
+                            Siehe [Aleksandr Ivanovič Gercen:] Vivat Polonia! [Gez.:] I—r. In:
+                            Kolokol. London. Nr. 94, 15. März 1861. S. 1–3, insbesondere S. 1, Sp. 2
+                            bis S. 2, Sp. 1:<?oxy_custom_end?> „И да здравствуетъ русскiй воинъ,
+                            который отказался стрѣлять въ безоружныхъ, … не смотря на приказъ …
+                            Гибнущiе братья-искупители! тяжела ваша участь; но идите въ арестантскiя
+                            роты, въ крѣпости, казематы, на смерть - только не убивайте ни поляка,
+                            который хочетъ быть самимъ собой, ни крестьянина требующего свободы.“ –
+                            Das Komitee der russischen Offiziere in Polen war eine einige hundert
+                            Mann starke Untergrundorganisation innerhalb verschiedener Truppenteilen
+                            der russischen Armee auf dem Territorium Kongreßpolens 1861–1863.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190314T101236+0100" comment="zuvor: Das Komitee der russischen Offiziere in Polen war eine revolutionäre Organisation, die in den Truppenteilen der russischen Armee auf dem Territorium des Zarenreichs Polen 1861–1863 wirkte. Das Komitee, einige Hunderte Menschen stark, darunter u.a. Polen, Russen, Ukrainer, Litauer, Weisrussen, war eine Vereinigung der Brigaden-, Regiments- und Bataillonsorganisationen. Durch organisatorische, persönliche und briefliche Kontakte stand es in enger Verbindung mit den revolutionären Zentren in London, nämlich mit dem Gercens „Kolokol“, und in Petersburg. Ende 1862 hatte das Komitee sich dem „Zemlja und Volja“ angeschlossen. Es hatte auch enge Verbindungen mit den polnischen Revolutionären und 1861 über 16 000 Proklamationen als Agitations- und Propagandamittel für die Unterstützung des polnischen Aufstandes gedruckt und verbreitet. Mitte 1863/1864 war die Tätigkeit des Komitees wegen der Repressalien gegen die Teilnehmer des Aufstandes (Verhaftungen, Veränderung des Dienstortes der Offiziere u.s.w.) sowie der Veränderung der politischen Situation in Rußland, eingestellt. Die ehemaligen Mitglieder des Komitees unterstützten die Teilnehmer des polnischen Aufstandes von 1863/1864. Sie kämpften in ihren Reihen mit, unterstützten die verhafteten Aufständischen u.s.w"?>(<?oxy_comment_end?>Siehe
+                            V. A. D’jakov: Gercen, Ogarev i komitet russkich oficerov v Pol’še. In:
+                            Revolucionnaja situacija v Rossii v 1859–1861 gg. Moskva 1963. S. 3–82;
+                            V. P. Lejkina-Svirskaja: Andrej Potebnja. In: Ebenda. S. 83–114; V. A.
+                            D’jakov: Revolucionnaja organizacija russkich oficerov v Pol’še. In: V.
+                            A. D’jakov, I. S. Miller: Revolucionnoe dviženie v russkoj armii i
+                            vosstanie 1863 g. Moskva 1964. S. 5–201; <bibl sameAs="zotero-604880-9BFA36M8" type="secondary">V. P.
+                                Lejkina-Svirskaja, V. S. Šidlovskaja: Pol’skaja voennaja
+                                revolucionnaja organizacija v Peterburge (1858–1864)</bibl>. In:
+                            Russko-pol’skie revolucionnye svjazi 60-ch godov i vosstanie 1863 goda …
+                            Moskva 1962. S. 7–48.)</note></seg>
+                    <seg type="comment"><orig>Und dabei hatte er einen Emissär nach Gallizien
+                            gesandt, der die Polen aufhetzte, Kolonnen ins Innere Rußlands zu
+                            schicken, wo sie auf den Aufstand der Russen gegen die Regierung zählen
+                            könnten.</orig><note xml:id="a14b6e1b-4628-4024-b7a0-36bce87ab68a"> Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 12: „Напрасно также называете вы
+                            ,враньемъ‘ (233) упреки поляковъ въ томъ, что вы говорили имъ о
+                            готовности Россiи къ возстанiю. Письменно вы
+                            этого<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            дѣйствительно<?oxy_custom_end?> не говорили, но за то извѣстное вамъ
+                            лице, ѣздившее, во время возстанiя, по вашимъ дѣламъ въ Галицiю, не
+                            только увѣряло отъ вашего имени, что Россiя готова къ возстанiю, но и
+                            формально убѣждало, показывая печать ,Земли и Воли,‘ отправить
+                            вооруженные отряды во внутреннiя губернiи. … Отвѣтственность за дѣйствiя
+                            вашихъ посланныхъ падаетъ все-таки на васъ.“ <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht
+                            sich auf:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>[Aleksandr
+                            Ivanovič Gercen:] Porjadok toržestvuet! III. [Gez.:] I—r. In: Kolokol.
+                            Genf. Nr. 233 &amp; 234, 1. Februar 1867, S. 2, Sp. 1:
+                            <?oxy_custom_end?>„Мысль о переворотѣ безъ кровавыхъ средствъ намъ
+                            дорога, все что было говорено противоположного объ насъ, такое-же
+                            вранье, какъ то, что <hi rendition="#u">мы</hi> увѣряли поляковъ, что
+                            Россiя была готова къ возстанiю въ 1862.“ (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>.Vyp. 9. 1866–1867. Ženeva. Moskva 1964.
+                        S. 1902.)</note></seg> Nach der Unterdrückung des letzten polnischen
+                    Aufstands <seg type="comment"><orig>schrieb <persName key="pdrPo.001.004.000001761">Herzen</persName>: „Wenn das
+                            katholische Polen nicht russisch sein will, so soll es in Gottes Namen
+                            gehen.“</orig><note xml:id="e1151bea-da3f-4e76-95d1-879350f1d655">Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 11: „… что если Польша не хочетъ идти
+                            путемъ соединенiя съ Россiей, то да будетъ на то ея святая воля …“.
+                                <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName>
+                            bezieht sich auf:
+                            [<?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Aleksandr
+                            Ivanovič Gercen:] Rossija i Pol’ša. Otvet avtoru stat’i o russkoj
+                            tipografii v Londone. (Pis’mo vtoroe.) [Gez.:] Iskander. In: Kolokol.
+                            London. Nr. 34, 15. Januar 1859. S. 1–4, insbesondere S. 1,
+                            Sp. 2:<?oxy_custom_end?> „Польша, какъ Италiя, какъ Венгрiя имѣетъ
+                            неотъемлемое, полное право на государственное существованiе независимое
+                            отъ Россiи. … и если Польша не хочетъ этого союза, мы можемъ объ этомъ
+                            скорбѣть, можемъ не соглашаться съ ней, но не предоставить ей воли, мы
+                            не можемъ, не отрѣкаясь отъ всѣхъ основныхъ убѣжденiй нашихъ.“ (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>. Vyp.
+                            2. 1859. London. Moskva 1962. S. 275.)</note></seg> Also was nicht
+                    katholisch, muß bleiben. Und gleichzeitig befürwortete er die russische
+                    Regierungsmaßregel, Polen – das gewaltsam entvölkerte, mit orthodoxen Bauern aus
+                    Altrußland zu kolonisiren. Nun hätte er auch natürlich keine Freunde unter den
+                    Polen außer einigen <pb/> erzreaktionären Czartoriskianern. – Auch <seg type="comment"><orig><persName key="pdrPo.001.004.000001354">Engelssohn</persName> und <persName key="pdrPo.001.004.000004215">Sassonoff</persName> hatte er, nach ihrem Tode mit Schmutz
+                            beworfen.</orig><note xml:id="e1f07522-9fd5-4920-9ae3-b97acc046bc8"> Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 17: „И какое право имѣете вы касаться
+                            публично такими неумытыми, грязными руками, какъ это сдѣлали съ
+                            Энгельсономъ и Сазоновымъ, частной жизни людей, …“. – Serno-Solov’evič
+                            bezieht sich auf das Kapitel „Russkie teni. [Abschnitt] I. N.I. Sazonov.
+                            [Abschnitt] II. Engel’sony“ des Gercens Werkes „Byloe i dumy“. (Siehe
+                                <bibl sameAs="zotero-604880-ZIS3N549" type="primary">Gercen:
+                                Sobranie sočinenij …</bibl> T. 10. Moskva 1956.
+                        S. 315–369.)</note></seg>Daß er <hi rendition="#u">jetzt</hi>
+                    <seg type="comment"><orig>die Dezembristen 1825 (<persName key="ed_q5m_5rz_dhb">Pestel</persName>, <persName key="ed_fcd_nsz_dhb">Ryläjeff</persName> etc)</orig><note xml:id="fd8fe924-b453-4b9c-bd7c-b652a4f98f1f">Der Aufstand der
+                            Dekabristen (diese Bezeichnung geht auf den Monat Dezember zurück, in
+                            dem die revolutionären Aktionen begannen) im Dezember 1825 in Sankt
+                            Petersburg und in der Ukraine waren das Ergebnis einer bereits seit 1816
+                            in Geheimgesellschaften organisierten antifeudalen Bewegung adliger
+                            Revolutionäre.<?oxy_comment_start author="lindenberg" timestamp="20190313T181935+0100" comment="{kommentar-lb}nach Lenin s. Wikipedia: https://de.wikipedia.org/wiki/Dekabristen{/kommentar-lb}"?><?oxy_comment_end?>Während
+                            des Interregnums nach dem Tod von <persName key="pdrPo.001.004.000000061">Aleksandr I</persName> im November
+                            1825 entschied sich die Nördliche Gesellschaft (Severnoje obščestvo
+                            dekabristov) für den bewaffneten Aufstand in Sankt Petersburg, dessen
+                            Beginn für den 14. Dezember festgelegt wurde, den Tag der Vereidigung
+                            auf den neuen Zaren <persName key="pdrPo.001.004.000003454">Nikolaj I</persName>. Die Durchführung des Aufstandes sollte durch
+                            von den Führern der Nördlichen Gesellschaft kommandierten Truppen
+                            erfolgen. Es war geplant, Senatoren und Staatsrat zu zwingen, ein
+                            Manifest an das russische Volk zu veröffentlichen und darin u.a. den
+                            Sturz der Zarenregierung und die Aufhebung der Leibeigenschaft zu
+                            verkünden. Der Aufstand wurde am gleichen Tag niedergeschlagen. – Die
+                            Führer der Dekabristen wurden hingerichtet und oder nach Sibirien
+                            verbannt. –  <persName key="ed_fcd_nsz_dhb">Kondratij Fjodorovič
+                                Ryleev</persName>.</note></seg> „vergöttere“ sei kostenlose,
+                    ungefährliche, unnöthige Arbeit. – Die Devise: „Land (Boden) und Freiheit“ mit
+                    der er stets sein Maul füllt, sei nicht von ihm erfunden. <persName key="pdrPo.001.004.000001761">Herzen</persName> sagt <seg type="comment"><orig>„Die Slavophilen hätten das Verständniß dieser Redensart
+                            angebahnt“.</orig><note xml:id="d0b8accd-c712-46b3-97b5-702f498a7a1b">
+                            <p> Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 23: „Вы приписываете теперь себѣ
+                                поднятiе знамени ,Земля и Воля,‘ хотя нѣкогда сами же писали по
+                                этому поводу, что ,труды слафянофиловъ приготовили матерiал для
+                                пониманiя, что имъ принадлежитъ честь и слава почина‘ (107) …“.
+                                    <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht sich auf: [Alexandr
+                                Ivanovič Gerzen:] Repetitio est mater studiorum. [Gez.:] Iskander.
+                                In: Kolokol. London. Nr. 107, 15. September 1861. S. 1–5,
+                                insbesondere S. 2, Sp. 2: „Труды славянофиловъ приготовили матерьялъ
+                                для пониманiя - имъ принадлежитъ честь и слава почина. {Absatz} Они
+                                первые поняли, что въ подавленныхъ и дремлющихъ силахъ народа
+                                русскаго, въ разъединенiи народа съ государствомъ, въ тѣсныхъ
+                                формахъ, сдѣланныхъ не по мѣркѣ, въ которыя попалась русская жизнь,
+                                больше чѣмъ tabula rasa - <hi rendition="#u">задатокъ</hi>
+                                самобытнаго будущаго развитiя. #Absatz) Что же тутъ удивительнаго,
+                                что видя народъ общинный, артельный, съ <hi rendition="#u">своимъ</hi> понятiемъ о правѣ на землю и о круговой порукѣ,
+                                живущiй въ какомъ то чужестранномъ государственномъ неустройствѣ,
+                                которое ничему не удовлетворяетъ, ни наконецъ даже защитѣ границъ,
+                                нашлись люди, которые предположили, что этотъ народъ ближе къ
+                                осуществленiю экономическаго, т. е. соцiальнаго переворота, чѣмъ
+                                римско-феодальная, мѣщански-индустрiальная Европа? … То, что на
+                                Западѣ можетъ только совершиться рядомъ катастрофъ, потрясенiй, то
+                                можетъ развиться въ Россiи на основанiи существующаго. Одинъ фактъ
+                                    <hi rendition="#u">общиннаго владѣнiя землей</hi> …“ (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>.
+                                Vyp. 4. 1861. Moskva 1962. S. 894.) – ° Als Slavophilen werden
+                                Vertreter einer politisch-publizistischen Richtung im russischen
+                                gesellschaftlichen und geistigen Leben der 1840er und 1850er Jahre
+                                bezeichnet, die die Idee vom eigenständigen historischen
+                                Entwicklungsweg Rußlands, der sich vom westeuropäischen
+                                grundsätzlich unterscheide, verteidigten. Rußlands eigenständige
+                                Besonderheit sahen die Slavophilen in der russischen Landgemeinde
+                                und in den Artels sowie im orthodoxen Glauben, den sie für das
+                                einzig wahre Christentum hielten, verkörpert. Die Slavophilen
+                                setzten sich für die Abschaffung der Leibeigenschaft „von oben“ mit
+                                Bereitstellung von Landanteilen ein, die von den Bauern aufgekauft
+                                werden sollten. Im Prozeß der Vorbereitung der Bauernreform von 1861
+                                in Rußland kam es zu einer Annäherung an die Richtung der „Westler“
+                                (russisch Западник, zapadnik) und zur Bildung eines einheitlichen
+                                liberalen Lagers. (Siehe <bibl sameAs="zotero-604880-62T5EQGH" type="secondary">Ju(rij) Z(inovevič) Jankovskij: Iz istorii
+                                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>russkoj
+                                    <?oxy_custom_end?>obščestvenno-literaturnoj mysli 40–50-ch godov
+                                    XIX stoletija. Kiev 1972</bibl>; <bibl sameAs="zotero-604880-4B7ERCEK" type="secondary">N[ikolaj] I.
+                                    Cimbaev: Slavjanofil’stvo: Iz istorii russkoj
+                                    obščestvenno-političeskoj mysli XIX veka. Moskva 1986</bibl>;
+                                    <bibl sameAs="zotero-604880-EM56UVNQ" type="secondary">B[oris]
+                                    S[amuilovič] Itenberg: Rossijskaja intelligencija i Zapad. Vek
+                                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>XIX<?oxy_custom_end?>.
+                                    Moskva 1999</bibl>. S. 27–51; <bibl sameAs="zotero-604880-Z4BKBNPM" type="secondary">Peter K.
+                                    Christoff: An introduction to nineteenth century Russian
+                                    slavophilism. Vol. 1. A.S. Xomjakov. 's-Gravenhage
+                                1961</bibl>.</p>
+                        </note></seg> Aber Pestel und die Slavophilen, <seg type="comment"><orig>die
+                            Redaktionskommission</orig><note xml:id="dea850e3-293f-4ed1-9ba5-bbedf68e8487">Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 24. Im März 1859 wurden beim
+                            Hauptkomitee für die Bauernfragen Redaktionskommissionen gegründet, die
+                            die von den Gouvernementskomitees für diese Angelegenheiten
+                            vorbereiteten Projekte zu prüfen und das Projekt für die Bauernreform in
+                            Rußland zu erarbeiten hatten. Praktisch stellten die Kommissionen eine
+                            einzige Kommission dar, behielten jedoch die Bezeichnung
+                            „Redaktionskommissionen“ bei. Sie umfaßten 31 Mitglieder und setzten
+                            sich aus Beamten verschiedener Institutionen und Experten, Vertretern
+                            des Gutsbesitzeradels, zusammen. Zu ihrem Vortsitzenden wurde <persName key="pdrPo.001.004.000004086">Jakov Ivanovič Rostovcev</persName>,
+                            Generaladjutant, Mitglied des Hauptkomitees, berufen. Nach seinem Tod
+                            1860 bekleidete diesen Posten der Justizminister, <persName key="ed_if1_w54_lhb">Graf Viktor Nikitič Panin</persName>. – Im
+                            Januar 1861 wurde der von den Redaktionskommissionen verfaßte Entwurf
+                            des Reformprojekts dem Hauptkomitee und im Anschluß daran auch dem
+                            Staatsrat vorgelegt. Seine Endfassung enthielt substantielle Änderungen:
+                            die Normen für die Größe der Bauernparzellen wurden reduziert und die
+                            Höhe der Abgaben hinaufgesetzt. Am 19. Fabruar 1861 wurden das Manifest
+                            und die Entwürfe der Verordnungen von <persName key="pdrPo.001.004.000000062">Aleksandr II</persName>
+                            unterzeichnet.</note></seg>, <seg type="comment"><orig><persName key="ed_ard_btz_dhb">Wanka Kain</persName></orig><note xml:id="d37e6ad4-d505-4c6c-9817-1385a9d615df">Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 24. – Van’ka Kain (Ванька-Каин, eigtl.
+                            Иван Осипов [Каин]) – russischer Räuber, Gauner und Geheimagent der
+                            Polizei in Moskau in 1740er Jahren; sein Name wurde zum Inbegriff eines
+                            geschickten Spitzbuben. Van’ka Kain war die Gestalt von vielen
+                            russischen Volksliedern (sogenannten „Kainovy pesni“ {Каиновы песни}),
+                            Erzählungen „O Van’ke Kaine, slavnom vore i mošennike“{О Ваньке Каине,
+                            славном ворѣ и мошенникѣ} und einer Reihe der in unterschiedlichen
+                            Versionen verbreiteten Lebensläufe. Im 19. Jahrhundert hatte man Van’ka
+                            Kain mit dem französischen Spitzbuben Louis Dominique Cartouch sowie mit
+                            François Eugène Vidocq verglichen. In der russischen Folklore des 18.
+                            und 19. Jahrhunderts verkörperte diese Gestalt die Vorstellungen über
+                            die Freiheit. (Siehe <bibl sameAs="zotero-604880-T8MHX3ML" type="secondary">Istorija slavnago vora, razbojnika i byvšago
+                                Moskovskago syščika Van’ki Kaina so vsemi ego obstojatel’stvami,
+                                raznymi ljubimymi pesnjami i portretom</bibl>. {Исторiя славнаго
+                            вора, разбойника и бывшаго Московскаго сыщика Ваньки Каина со всеми его
+                            обстоятельствами, разными любимыми пѣснями и портретомъ.} [2. Aufl.
+                            Moskva] 1788; Mordovcev: Van’ka-Kain. (Istoričeskij očerk.) In:
+                            Drevnjaja i Novaja Rossja. [Sankt-Peterburg.] 1876. Jg. 2. T. 3. Nr. 9,
+                            S. 19–37; Nr. 10, S. 119–136; Nr. 11, S. 233–245.</note></seg>, Graf
+                        <persName key="pdrPo.001.004.000004086">Rostowzeff</persName>, <persName key="pdrPo.001.004.000000853">Tschernischeffski</persName>, der <persName key="pdrPo.001.004.000000062">Kaiser</persName>, <persName key="ed_xsz_rwn_zgb">Dolgorukoff</persName> – Alle haben diese Redensart
+                    gebraucht – und mancher von ihnen mißbraucht. – <seg type="comment"><orig>Auch
+                            war <persName key="pdrPo.001.004.000001761">Herzen</persName> einst von
+                                <persName key="ed_rwt_lwt_zgb">Granowski</persName> angegangen
+                            worden, einiges Kapital gegen die Garantie von G. und einiger andrer
+                            Freunde vorzustrecken, zur Verbreitung volksthümlicher Broschüren in
+                            Rußland, als welche Handlung er selbst gepredigt hatte. Er wollte wohl
+                            die Verbreitung seiner Schreibereien; da jene Broschüren aber nicht
+                            unter seiner Redaktion erscheinen sollten, versagte er seinen
+                            Beistand.</orig><note xml:id="b41b5897-ccb7-4ed8-89ed-31392e128236">Bei
+                                <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 34/35: „… поройтесь въ Полярныхъ
+                            Звѣздaхъ: перечтите переписку г. Герцена съ Грановскимъ. … Грановскiй,
+                            видете ли, просилъ у г. Герцена, тоже во имя этой горячей любви къ
+                            Россiи, одолжить денегъ на изданiе въ Россiи книгъ, ручаясь именемъ
+                            своимъ и своихъ друзей, что капиталъ будетъ возвращенъ. Но г. Герценъ не
+                            понялъ, что это значитъ; …“ <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName> bezieht sich auf den im vom <persName key="pdrPo.001.004.000001761">Gercen</persName> herausgegebenen
+                            Jahrbuch „<bibl sameAs="ed_nmx_qng_x2b" type="periodika">Poljarnaja
+                                zvezda</bibl>“ veröffentlichten Briefwechsel <persName key="pdrPo.001.004.000001761">Gercens</persName> mit <persName key="ed_rwt_lwt_zgb">Timofej Nikolaevič
+                            Granovskij</persName>.</note></seg> – <seg type="comment"><orig>Auch
+                            weist <persName key="pdrPo.001.004.000004398">S.S.</persName> dem
+                                <persName key="pdrPo.001.004.000001761">Herzen</persName> aus dessen
+                            eigenen Schriften nach, daß er in seinen Predigten der Vergewaltigung
+                            der Türkei durch Rußland das Wort
+                            redet.</orig><?oxy_comment_start author="lindenberg" timestamp="20181116T104210+0100" comment="ganze Textpassage fehlt: Die Broschüre S.S. ist im März 1867 erschienen. Herzen hat geschwiegen, auch sonst Niemand geantwortet, außer etwa in Rußland erscheinende ||[6]| Zeitungen, deren Beistand Herzen ohne Protest annimmt. Herzens Wirksamkeit ist endlich den Russen in scharfem Lichte vorgeführt worden, so daß er aufhört, russisch zu schreiben und sich nun französisch ausleiern wird.  S.S. wird eine ausführliche Schilderung der ganzen Herzenschen Thätigkeit von Anfang bis zu Ende liefern, die ich, wenn russisch erscheinend, deutsch zu geben beabsichtige. – Es ist nun in der That geboten, wie Sie sehr richtig bemerkten, die französischen Zeitungen zu warnen und hoffe ich, daß diese flüchtige, lose Zusammenfassung der SSschen Broschüre Ihnen die Sache erleichtern wird. –
+Was wissen Sie über die Türken, die hier ihren Mukhbir herausgeben? 
+Ich habe Ihnen meine französische Perle geschickt, werde auch die deutsche senden, deren Ausstattung besser und die sich, wie mir scheint, besser liest. 
+"?><note xml:id="a74679cf-79e8-4a06-99aa-db57f1452b9a"><?oxy_comment_end?>
+                            Borkheim resümierte den Inhalt der Darlegungen auf den S. 38–40 der
+                            Broschüre von <persName key="pdrPo.001.004.000004398">Serno-Solov’evič</persName>. –
+                            <?oxy_comment_start author="lindenberg" timestamp="20181116T102907+0100" comment="fehlte hier im Ms."?>
+                            Bei <bibl sameAs="zotero-604880-XX783AXB" type="primary">Serno-Solov’evič</bibl>, S. 37/38. Siehe [Aleksandr Ivanovič
+                            Gercen:] Na ploščadi sv. Marka. [Gez.:] I—r. In: Kolokol. Genf. Nr. 238,
+                            1. April 1867, S. 1, Sp. 1/2. (<bibl sameAs="zotero-604880-JR9VYAW2" type="primary">Kolokol</bibl>. Vyp. 9. 1866–1867. Ženeva. Moskva
+                            1964. S. 1941.) <?oxy_comment_end?>–</note></seg></p>
+                <p>Die Broschüre <persName key="pdrPo.001.004.000004398">S.S.</persName> ist im März
+                    1867 erschienen. <persName key="pdrPo.001.004.000001761">Herzen</persName> hat
+                    geschwiegen, auch sonst Niemand geantwortet, außer etwa in Rußland erscheinende
+                    | Zeitungen, deren Beistand Herzen ohne Protest annimmt. <seg type="comment"><orig><persName key="pdrPo.001.004.000001761">Herzen</persName>s
+                            Wirksamkeit ist endlich den Russen in scharfem Lichte vorgeführt worden,
+                            so daß er aufhört, russisch zu schreiben und sich nun französisch
+                            ausleiern wird.</orig><note xml:id="nemh_ls5_bhb">Zur
+                            Herausgabegeschichte des „<bibl sameAs="ed_zgh_kpg_x2b" type="periodika">Kolokol</bibl>“ siehe Erl.
+                            <?oxy_comment_start author="lindenberg" timestamp="20191126T192957+0100" comment="433b"?>oben<?oxy_comment_end?>.</note></seg>
+                    <persName key="pdrPo.001.004.000004398">S.S.</persName> wird eine ausführliche
+                    Schilderung der ganzen <persName key="pdrPo.001.004.000001761">Herzen</persName>schen Thätigkeit von Anfang bis zu Ende liefern, die ich, wenn
+                    russisch erscheinend, deutsch zu geben beabsichtige. – Es ist nun in der That
+                    geboten, wie Sie sehr richtig bemerkten, die französischen Zeitungen zu warnen
+                    und hoffe ich, daß diese flüchtige, lose Zusammenfassung der <persName key="pdrPo.001.004.000004398">SS</persName>schen Broschüre Ihnen die Sache
+                    erleichtern wird. –</p>
+                <p>Was wissen Sie über die Türken, die hier ihren <seg type="comment"><orig><bibl sameAs="ed_lp2_fmk_tgb" type="periodika">Mukhbir</bibl></orig><note xml:id="nqnf_qs5_bhb"><bibl sameAs="ed_lp2_fmk_tgb" type="periodika">Le
+                                Muk-hbir</bibl>. (Turkish Weekly.)</note></seg> herausgeben?</p>
+                <p>Ich habe Ihnen <seg type="comment"><orig>meine französische Perle</orig><note xml:id="nazn_5s5_bhb"><bibl sameAs="zotero-604880-WG8WKQRN" type="primary">[Sigismund Ludwig Borkheim:] Meine Perle vor dem
+                                Genfer Congress. Zürich 1868</bibl>. – Zu Borkheims Rede auf dem
+                            Friedenskongreß in Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190313T181012+0100" comment="Erl. 304h"?>Erl. zu
+                                S. L. Borkheim an Marx, 5.8.1867</ref><?oxy_comment_end?>) am 11.
+                            September 1867 und zum Manuskript dieser Rede siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180611T172924+0200" comment="(Br. 331.4–6)"?>Marx
+                                an Engels, 4.9.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191126T191830+0100" comment="331b."?>Erl.<?oxy_comment_end?>
+                        </note></seg> geschickt, werde auch die deutsche senden, deren Ausstattung
+                    besser und die sich, wie mir scheint, besser liest.</p>
+                <closer>Der Ihrige<lb/>Borkheim.</closer>
+                <postscript>
+                    <p>Es ist Hoffnung da für <seg type="comment"><orig>die
+                                Geldangelegenheit</orig><note xml:id="fa85abb4-6feb-46bd-b446-fb5e16074f7f">Zur Geschichte dieser
+                                Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180611T173009+0200" comment="(Br. 360.127–130)"?>Marx
+                                    an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs:
+                                ...“ und
+                                <?oxy_comment_start author="lindenberg" timestamp="20191126T192905+0100" comment="360dd"?>Erl.<?oxy_comment_end?> 
+                                Siehe auch <ref target="B00447">S. L.
+                                    <?oxy_comment_start author="reichhoff" timestamp="20180611T173055+0200" comment="(Br. 437)"?>Borkheim
+                                    an Marx, 26.11.1867<?oxy_comment_end?></ref>.</note></seg>,
+                        morgen mehr. <pb/></p>
+                </postscript>
+            </div></body></text></TEI>

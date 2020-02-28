@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00275" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>266</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag,
+                    3. Juni 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4478/L VI 611</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            224 × 183 mm. Die erste Seite hat Marx vollständig, die
+                            dritte fast vollständig beschrieben, die zweite und die vierte Seite
+                            sind leer. Schreibmaterial: schwarze Tinte. </p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „12,1“ bzw.
+                            „12,2“.</p>
+                        <p/>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2038</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 379/380.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930).<?oxy_custom_end?> S. 392/393.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-06-03"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00278"/>
+                </correspContext>
+                <note>Engels beantwortete den Brief am 16. Juni 1867 (<ref target="B00278"><?oxy_comment_start author="lindenberg" timestamp="20190128T164632+0100" comment="(Br. 269)"?>Engels
+                        an Marx, 16.6.1867</ref><?oxy_comment_end?>).</note>
+                <note>Die Beilage zum Brief („einliegendem Zettel Wigands“) ist nicht
+                    überliefert.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:36Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 3 <subst>
+                            <del rendition="#ow">Mai</del>
+                            <add place="across">June</add>
+                        </subst> 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p>Warum <seg type="comment"><orig>Bogen 10 u. 11 Dir
+                            nicht zugehn, überhaupt nicht mehr die Revisionen,</orig><note xml:id="nh35_ykn_l2b">Marx bezieht sich auf die Korrekturbogen des
+                            ersten Bandes des <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl>.</note></seg> ersiehst Du aus einliegendem Zettel
+                        <persName key="ed_hbt_ryf_ldb">Wigands</persName>. Dagegen erhälst Du die 5
+                    ersten Abziehbogen, die mir zugegangen sind. Du kannst sie about 8–10 Tage
+                    halten, mußt mir dann aber auch Deine Ansicht genau mittheilen, <hi rendition="#u">welche Punkte</hi> in der Darstellung der <hi rendition="#u">Werthform</hi> speziell für den Philister im Nachtrag zu popularisiren
+                    sind.</p>
+                <p><seg type="comment"><orig>Fenians</orig><note xml:id="nktd_rkn_l2b">Report of commissioners on the treatment of the
+                            treason-felony convicts in the English convict prisons. London 1867.
+                            (Parliamentary Papers. Session 1867. Reports from Commissioners.
+                            Vol. 35. 3880.) – Nachdem 1865/1866 Klagen über die Behandlung der
+                            inhaftierten Fenier laut geworden waren und der Dubliner „Irishman“ im
+                            März und April 1867 weitere Enthüllungen über die schlechte Situation
+                            der Gefangenen veröffentlicht hatte, vor allem einen aus dem Gefängnis
+                            geschmuggelten Brief von <persName key="ed_p1r_bpr_ycb">Jeremiah
+                                O’Donovan Rossa</persName>, waren der Polizeirichter <persName key="ed_uzs_j4s_gz">Alexander Andrew Knox</persName> und der Arzt
+                                <persName key="ed_pfy_xfv_ngb">George David Pollock</persName> mit
+                            der Untersuchung aller entsprechenden Haftanstalten beauftragt worden.
+                            Auf Anordnung des Parlaments wurde ihr Bericht über die Behandlung der
+                            <?oxy_comment_start author="lindenberg" timestamp="20190515T165021+0200" comment="ausgesondert: (insbesondere der Fenier, siehe Erl. 36m)"?>Gefangenen<?oxy_comment_end?>
+                            in englischen Gefängnissen gedruckt. Siehe dazu auch Jenny Marx
+                            (Tochter): Articles sur la question irlandaise. (MEGA<hi rendition="#sup">2</hi> I/21. S.
+                            1031.34–1032.9.<?oxy_comment_start author="lindenberg" timestamp="20190515T164538+0200" comment="vorher noch: {MEW 31 Anm. 342, S. 662 grobe Fehler: Militärärzt. Medical officer=d.h. Armenarzt! (Sunders); CW 42. Note 439, p. 650: NI: Pollock – British army doctor.} "?>)<?oxy_comment_end?>
+                        </note></seg> bestellt. Andre Aufträge werden by and by ausgeführt
+                    werden.</p>
+                <p><seg type="comment"><orig>Sieh den <bibl sameAs="ed_s51_tmw_1cb"><hi rendition="#u">Herrmann</hi></bibl> letzter Woche. Er ist jezt der
+                            Special-Moniteur des Herrn <persName key="pdrPo.001.004.000001631">Freiligrath</persName>, der <add place="superlinear">über</add> den
+                            Progress of the Subscription hier wöchentlich rapportirt via <persName key="pdrPo.001.004.000002413"><?oxy_comment_start author="lindenberg" timestamp="20181204T134043+0100" comment="siehe Ernst Juch -- Brief 369"?>Juch<?oxy_comment_end?></persName>.</orig><note xml:id="ns4y_hln_l2b">Marx bezieht sich wahrscheinlich auf: Ferdinand
+                            Freiligrath. In: Hermann. London. Nr. 438, 25. Mai 1867. S. 3508,
+                            Sp. 1–3; Nr. 439, 1. Juni 1867. S. 3516, Sp. 1–3. Auch in den folgenden
+                            Ausgaben berichtete die Zeitung in den Korrespondenzen unter demselben
+                            Titel über die Erfolge des Londoner Spendenaufrufs zur Unterstützung
+                            Freiligraths (siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180907T095711+0200" comment="Erl. 242u"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref> („Freiligrath blamirt
+                            sich ...“) und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190516T100624+0200" comment=" 242u"?>Erl.<?oxy_comment_end?>),
+                            die in Paris und vielen deutschen Städten Widerhall gefunden hat. Der
+                            Schluß-Aufruf „Für Ferdinand Freiligrath“ vom 16. Oktober 1867 erschien
+                            in „Hermann“, Nr. 459, 19. Oktober 1867. S. 1, Sp. 1. Siehe <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180907T095922+0200" comment="Erl. 395j"?>Marx
+                                an Engels, 19.10.1867<?oxy_comment_end?></ref> („Einliegend 2
+                            Freiligrathausschnitte.“) und Erl. </note></seg>
+                    <seg type="comment"><orig><persName key="pdrPo.001.004.000003074">Jennychen</persName></orig><note xml:id="nj2h_54l_5fb"><persName key="pdrPo.001.004.000003074">Jenny Marx
+                            (Tochter)</persName>.</note></seg> sagt, daß wenn ihr Vater je so was
+                    machte, sie ihn öffentlich für ihren Nicht-Vater erklären würde. Darauf frug sie
+                        <persName key="pdrPo.001.004.000002648">Lafargue</persName>: Mais qu’est ce
+                    que votre <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">mère</persName></orig><note xml:id="ngxl_cmn_l2b"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>.</note></seg>
+                    dirait là-dessus?
+                        <?oxy_comment_start author="lindenberg" timestamp="20190117T160502+0100" comment="= Aber was würde Ihre Mutter dazu sagen?"?><?oxy_comment_end?><seg type="comment"><orig><persName key="pdrPo.001.004.000001631">Der edle
+                                Dichter</persName></orig><note xml:id="nlnr_vln_l2b"><persName key="pdrPo.001.004.000001631">Ferdinand
+                            Freiligrath</persName>.</note></seg> ist übrigens so pfiffig, schon jezt
+                    zu erklären, daß er in London bleiben <pb/>
+                    <hi rendition="#u">muß</hi> wegen seines resp. Antheils an der <persName key="pdrPo.001.004.000011533"><?oxy_comment_start author="lindenberg" timestamp="20190117T150107+0100" comment="noch bibliographieren!"?>Shakespeare</persName>-Uebersetzung<?oxy_comment_end?>.
+                        <persName key="pdrPo.001.004.000001631">Ferdinand</persName> und <seg type="comment"><orig><persName key="pdrPo.001.004.000001633">Ida</persName>,</orig><note xml:id="natz_yln_l2b"><persName key="pdrPo.001.004.000001631">Ida
+                        Freiligrath</persName>.</note></seg> Ida und Ferdinand, a well assorted
+                    couple, those two!</p>
+                <p>À Propos. Auf <persName key="pdrPo.001.004.000001969">Gumpert’s</persName> Frage hatte ich ihm gesagt, <persName key="pdrPo.001.004.000002648">Lafargue</persName> sei im St. Thomas
+                    Hospital. Jedoch irrthümlich. Er ist im <hi rendition="#u">Bartholomeus</hi>
+                    Hosp. u. verlangt, daß der error corrigirt wird.</p>
+                <p><seg type="comment"><orig>Vergiß nur nicht Photogramm v.
+                            Dir u. <persName key="pdrPo.001.004.000005180">Lupus</persName> zu
+                            besorgen.</orig><note xml:id="ni2p_nmn_l2b">Es handelt sich um ein
+                            vermutlich Ende Mai/Anfang Juni 1864 entstandenes Foto von Engels und
+                            ein Foto von <persName key="pdrPo.001.004.000005180">Wilhelm
+                                Wolff</persName> in den letzten Lebensjahren. (RGASPI, Sign. f. 389,
+                            op. 1, d. 99.) Von Wolffs Foto ließ Engels 1864 nach dessen Tod bei dem
+                            Fotografen <persName key="ed_p1p_syw_42b">Silas Eastham</persName> in
+                            Manchester 24 Abzüge anfertigen; vier davon hatte er zusammen mit einem
+                            eigenen, bei dieser Gelegenheit angefertigten Foto an Marx geschickt.
+                            Dadurch gerieten beide Fotos ins Fotoalbum von <persName key="pdrPo.001.004.000002647">Laura Lafargue</persName>. (Siehe
+                            Familie Marx privat (2005). S. 63. Abb. 8 und S. 72/73. Abb. 13.)
+                            <?oxy_comment_start author="lindenberg" timestamp="20190117T143409+0100" comment="vorher: Die anderen Abzüge sollten zur Erinnerung an die alten Kampfgefährten übersandt werden."?>Zu
+                            den Fotoabzügen<?oxy_comment_end?> siehe Engels an Marx, 3. Juni 1864
+                                (MEGA<hi rendition="#sup">2</hi> III/12. Br. 355.22–27. Wiedergabe
+                            der Fotos siehe ebenda, S. 543 und 1303) und Engels an Joseph
+                            Weydermeyer, 10. März 1865, in: MEGA<hi rendition="#sup">2</hi> III/13.
+                            Br. 176.164–165.) Engels veröffentlichte ein Holzschnitt-Porträt Wilhelm
+                            Wolffs mit der Unterschrift “Wilhelm Wolff. (Originalzeichnung)” 1876
+                            mit dem ersten Artikel seiner Arbeit “Wilhelm Wolff” (MEGA<hi rendition="#sup">2</hi> I/25, S. 46–82 und 581) in der Leipziger
+                            “Neuen Welt”. (Siehe Friedrich Engels: Wilhelm Wolff. In: Die Neue Welt.
+                            Illustriertes Unterhaltungsblatt für das Volk. Bd. 1. Nr. 27 (1. Juli).
+                            Leipzig 1876. S. 244.)
+                            <?oxy_comment_start author="lindenberg" timestamp="20190516T142720+0200" comment="vorher noch: Siehe auch Marx an L. Kugelmann, 10. Juni 1867 (Br. 268.60–61)"?>.<?oxy_comment_end?>
+                            – Lupus ist der Spitzname für Wilhelm Wolff.</note></seg></p>
+                <p>My best compliments to <persName key="pdrPo.001.004.000000698">Mrs Lizzy</persName>, <persName key="pdrPo.001.004.000003296">Moore</persName> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000004311">Chlormayer</persName></orig><note xml:id="npxm_bbx_vfb"><persName key="pdrPo.001.004.000004311">Carl
+                        Schorlemmer</persName>.</note></seg></p>
+                <closer>Salut<lb/>D<lb/>KM</closer>
+                <postscript>
+                    <p>Mit wahrem Vergnügen aus <expan>d<ex>er</ex></expan> Pariser Correspondenz <expan>d<ex>er</ex></expan>
+                        <hi rendition="#u">„Times“</hi> die <seg type="comment"><orig>Polenfreundlichen Exclamationen <expan>d<ex>er</ex></expan> Pariser <hi rendition="#u">wider</hi>
+                                <persName key="pdrPo.001.004.000000062"><expan>Alex<ex>ander</ex></expan></persName> etc ersehn.</orig><note xml:id="nhcz_jbx_vfb">The Parisians do not seem transported with
+                                joy …  (From our own correspondent.) [Korrespondenz:] Paris,
+                                Saturday, June 1, 6 p.m. In: The Times. London. Nr. 25 827, 3. Juni
+                                1867, S. 6, Sp. 1–2. Rubrik: Foreign Intelligence. – Während des
+                                Besuches des russischen Kaisers Aleksandr II auf der Weltausstellung
+                                in Paris in der ersten Junihälfte
+                                <?oxy_comment_start author="lindenberg" timestamp="20190516T114841+0200" comment="gelöscht: (siehe K. Kaub an Marx, 1.5.1866 Erl. 97k)
+vorher:  Während des Besuches des russischen Kaisers Aleksandr II auf der Weltausstellung in Paris in der ersten Junihälfte 1867 organisierten Pariser Arbeiter und blanquistische Studenten, unterstützt von oppositionellen Anwälten, mehrere politische Sympathiekundgebungen für das polnische Volk. Am 4. Juni empfingen Demonstranten im Quartier Latin den Zaren mit Hochrufen auf Polen. Wegen der großen Menschenmenge mußte Alexandr II seine Absicht, das Justizpalais zu besuchen, aufgeben. Auf einer Demonstration am Abend desselben Tages nahm die Polizei Verhaftungen vor. Am 18. Juni nahm der Generalrat der IAA (siehe Erl. 6d) eine Resolution an, die den Demonstranten Dank und Anerkennung für ihre Solidarität mit dem polnischen Volk aussprach. (Siehe Minutes 1866/1867. In: MEGA2 I/20. S. 564.28–565.11.)"?>1867<?oxy_comment_end?>
+                                kam es zu Sympathiekundgebungen für Polen, über die  die „Times“ in
+                                o. g. Artikel berichtete.  Am 18. Juni sprach der Generalrat der IAA
+                                (zu „Gereralrat“ siehe  <ref target="B00007"><?oxy_comment_start author="lindenberg" timestamp="20190516T141018+0200" comment="6d
+"?>Erl. zu
+                                    Marx an J. Ph. Becker, zw. 9. u.
+                                    15.1.1866<?oxy_comment_end?></ref>) den Demonstranten seinen
+                                Dank und Anerkennung aus. (Siehe Minutes 1866/1867. In: MEGA<hi rendition="#sup">2</hi> I/20. S. 564.28–565.11.)</note></seg>
+                        Herr <persName key="pdrPo.001.004.000003833">Proudhon</persName> u. seine
+                        kleine doctrinaire Clique sind nicht das French People. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

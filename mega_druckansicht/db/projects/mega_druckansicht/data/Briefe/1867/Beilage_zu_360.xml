@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_uzy_yrf_pgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brief von Collet Dobson Collet an Jenny Marx vom 22. September 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. D 803 / D II 4–32.
+                        Fotosign. 9348&lt;a–b&gt;.</p>
+                    <p>Der Brief ist eine Beilage zu: <ref target="B00369">Karl Marx an Friedrich
+                            Engels in Manchester. London, Freitag, 4. Oktober 1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">D803 / D II 4-32,. Fotosign. 9348 &lt;a–b&gt;</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div><opener>
+                <dateline><pb/> Sunny Bank. Hirnsey Lane <lb/>22 September 1867</dateline>
+                <salute>My dear Madam</salute>
+            </opener>
+                
+                <p>I cannot tell you how
+                    <?oxy_comment_start author="lindenberg" timestamp="20190930T132212+0200" comment="verärgert"?>vexed<?oxy_comment_end?>
+                    I am to hear of Wilfred's
+                    <?oxy_comment_start author="lindenberg" timestamp="20190930T131215+0200"?>conduct<?oxy_comment_end?>
+                    in your house. I hope You and M. Lafargue will be so kind as to accept his
+                    apology for his impertinence. I have let it go just as he wrote it <pb n=""/>rather than dictate any alteration in his style which, though not very
+                    gracious, is I hope not
+                    <?oxy_comment_start author="lindenberg" timestamp="20190930T132936+0200" comment="eingefügt von mir, da nicht transkribiert: unaufrichtig"?>insincere<?oxy_comment_end?></p>
+                <p>I remain</p>
+                <p>My dear Madam</p>
+                <p>Yours very truly</p>
+                <p>C. D. Collet.</p>
+                <p/>
+                <p/>
+                <p>Dr. Marx.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

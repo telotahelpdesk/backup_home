@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00484" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>475</idno>Friedrich Engels an Louis Kugelmann in Hannover. Manchester, Freitag, 13. Dezember 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 1 d. 2141</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt dünnem, weißem Papier im Format 218 × 137 mm. Engels hat die erste Seite zu vier Fünfteln beschrieben, die zweite Seite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand: Nummerierung des Briefes: „143“.</p><p/></physDesc></msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                            (1934)<?oxy_custom_end?>. S. 510.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW 31
+                            (1965)<?oxy_custom_end?>. S. 580.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1867-12-13"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00487"/>
+                </correspContext>
+                <note>Kugelmann antwortete Engels am 16. Dezember 1867 (<ref target="B00487"><?oxy_comment_start author="lindenberg" timestamp="20190322T154411+0100" comment="(Br. 478)"?>L.
+                        Kugelmann an Engels, 16.12.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zu den zwei Beilagen („inl. 2 Artikel“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190322T154520+0100" comment="475.4–5 und 475.6–7."?>Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:19Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 13 Dezbr 1867.</dateline>
+                    <salute>Lieber Kugelmann</salute>
+                </opener>
+                <p><seg type="comment"><orig>„Im Verfolg meines ergebnen Gestrigen“</orig><note xml:id="nnbp_fcx_jgb"><ref target="B00482"><?oxy_comment_start author="reichhoff" timestamp="20180614T165643+0200" comment=" (Br. 473)."?>Engels
+                                an Louis Kugelmann,
+                        12.12.1867<?oxy_comment_end?></ref>.</note></seg> – damit Sie doch auch
+                    nicht allen commerziellen Styl verschwitzen – finden Sie inl.
+                    2 Art<ex>ikel</ex>. – <seg type="comment"><orig>den Einen</orig><note xml:id="ngkb_jdx_jgb">[Friedrich Engels:] Karl Marx, Das Kapital. Kritik
+                            der politischen Oekonomie. Erster Band. Hamburg, Meißner, 1867. In: Der
+                            Beobachter. Stuttgart. Nr. 303, 27. Dezember 1867. S. 2, Sp. 1, bis
+                            S. 3, Sp. 2. (MEGA<hi rendition="#sup">2</hi> I/21. S. 38–40 und
+                            1277–1279.) Siehe <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180614T165736+0200" comment="(Br. 450.18–19)"?>L.
+                                Kugelmann an Engels, 30.11.1867 <?oxy_comment_end?></ref>
+                            „Wahrscheinlich entscheiden Sie sich ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200108T093603+0100" comment="450g"?>Erl<?oxy_comment_end?>.</note></seg>,
+                    auf den <hi rendition="#u">Inhalt</hi> des Buchs eingehenden, für den <hi rendition="#u">Beobachter</hi>, <seg type="comment"><orig>den
+                            andern</orig><note xml:id="nth1_ndx_jgb">[Friedrich Engels:] Karl Marx,
+                            Das Kapital. Kritik der politischen Oekonomie. Erster Band. Hamburg,
+                            Meißner, 1867. In: Staats-Anzeiger für Württemberg. Stuttgart. Nr. 306,
+                            27. Dezember 1867. S. 3272, Sp. 1–2. (MEGA<hi rendition="#sup">2</hi>
+                            I/21. S. 41–43 und 1281/1282.) Siehe<ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180614T165814+0200" comment="(Br. 450.19–20)"?>
+                                L. Kugelmann an Engels, 30.11.1867 <?oxy_comment_end?></ref>
+                            „Wahrscheinlich entscheiden Sie sich ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200108T094542+0100" comment="450g."?>Erl<?oxy_comment_end?>. 
+                        </note></seg>, bloß das Thatsächliche besprechenden, für das <seg type="comment"><orig><hi rendition="#u"><bibl sameAs="ed_dpw_f5k_tgb" type="periodika">Gewerbeblatt</bibl></hi></orig><note xml:id="nsgv_ydx_jgb"><bibl sameAs="ed_dpw_f5k_tgb" type="periodika">Gewerbeblatt aus Württemberg</bibl> (Stuttgart).</note></seg> oder
+                    den <hi rendition="#u"><bibl sameAs="ed_alc_hvk_tgb" type="periodika">Staatsanzeiger</bibl></hi>.</p>
+                <p>Die Schwierigkeiten die bei dem Ersteren zu überwinden waren, sehen Sie ein wenn
+                    Sie bedenken daß der Red. des Beobachters <seg type="comment"><orig>der
+                            schwatzschweifige Schwabe <hi rendition="#u"><persName key="pdrPo.001.004.000003109">Karl Mayer</persName></hi> aus dem
+                                „<bibl sameAs="zotero-604880-XK4TJ26A" type="primary">Herr
+                                Vogt</bibl>“</orig><note xml:id="nbmb_tdx_jgb">Siehe <bibl sameAs="zotero-604880-XK4TJ26A" type="primary">Karl Marx: Herr
+                                Vogt</bibl>. (<bibl sameAs="zotero-604880-9I7QN4XM" type="primary">MEGA<hi rendition="#sup">2</hi> I/18</bibl>. <bibl sameAs="zotero-604880-4G3K6GFY" type="primary">S. 144/145 und
+                                218–220</bibl>.)</note></seg> ist, der sicher uns nie willentlich
+                    etwas zu Gefallen thut. Daß diese Art. nur in Abschrift gehen dürfen, wissen Sie
+                    selbst, doch möchte ich Sie bitten, die Originale sämmtlich aufzuheben, da man
+                    nicht wissen kann wozu das gut ist.</p>
+                <p>Für den <seg type="comment"><orig><bibl sameAs="ed_x4y_mtk_tgb" type="periodika">Merkur</bibl></orig><note xml:id="nhyf_vdx_jgb"><bibl sameAs="ed_x4y_mtk_tgb" type="periodika">Schwäbischer Merkur</bibl>
+                            (Stuttgart).</note></seg> schicke ich auch noch was, ich kann aber jetzt
+                    noch nicht so viel Abends arbeiten, da es mich zu sehr aufregt &amp; ich z.B.
+                    wieder vorige Nacht auf die Artikel fast gar nicht schlafen konnte. Wetter,
+                    Geschäfte, &amp; <seg type="comment"><orig>Rest von
+                            <?oxy_comment_start author="lindenberg" timestamp="20200108T110130+0100" comment="= Sodbrennen"?>tic
+                            douloureux<?oxy_comment_end?> von vorigem Sonntag</orig><note xml:id="nacq_j2x_jgb">Siehe <ref target="B00483"><?oxy_comment_start author="reichhoff" timestamp="20180625T103217+0200" comment=" (Br. 474.3–4)"?>Engels
+                                an Marx, 12.12.1867<?oxy_comment_end?></ref> und <ref target="B00482"><?oxy_comment_start author="reichhoff" timestamp="20180614T165945+0200" comment="(Br. 473.6–8)"?>Engels
+                                an L. Kugelmann, 12.12.1867<?oxy_comment_end?></ref>.</note></seg>
+                    verhindern mich am Reiten &amp; da komme ich nicht wieder zu meiner normalen
+                    Lage.</p>
+                <p><seg type="comment"><orig>Die <expan>Affaire</expan>
+                            <orgName key="ed_sh3_gdz_khb">Siebenmark</orgName> in der Zukft habe ich
+                            nicht gelesen</orig><note xml:id="nx4y_c2x_jgb">[Prozeß der Firma
+                            Schulze &amp; Siebenmark.] In: Die Zukunft. Berlin. Nr. 276,
+                            24. November 1867. Beil. S. 5, Sp. 2/3; Nr. 280, 29. November 1867.
+                            S. 3, Sp. 1; Nr. 281, 30. November 1867. Beil. S. 5, Sp. 1. Rubrik:
+                            Local-Nachrichten. Siehe <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180614T170017+0200" comment="(Br. 450.46–47)"?>L.
+                                Kugelmann an Engels, 30.11.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200108T110026+0100" comment="{450o.}"?>Erl<?oxy_comment_end?>. </note></seg>,
+                    ich kriege das Blatt nur selten zu sehn.</p>
+                <p>Für heute leben Sie wohl. Es ist 6 Uhr Abends,
+                    Schließenszeit, &amp; ich bin müde &amp; hungrig.</p>
+                <closer>Ihr<lb/>F. E. </closer>
+            </div></body></text></TEI>

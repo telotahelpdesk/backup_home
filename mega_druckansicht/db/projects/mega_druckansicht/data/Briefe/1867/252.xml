@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00261" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>252</idno>Carl Siebel an Karl Marx in London. London, Mittwoch, 1. Mai 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4074/D VII 74</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 254 × 200 mm. Siebel hat die erste und die zweite Seite vollständig beschrieben, die dritte und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte. Aufdruck auf der ersten Seite oben links: „Royal Hotel. Chatham Place. Blackfriars Bridge. London. P. De Keyser.“</p><p>Von unbekannter Hand: auf der ersten Seite oben mit Bleistift die Jahresangabe: „67“.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 6002</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+          <persName key="pdrPo.001.004.000004424">Siebel, Carl (1836-1868)</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-05-01"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName></correspAction></correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten, Veröffentlichung)</term>
+          <term key="ed_osw_c3z_k2b">Deutsche Fortschrittspartei</term>
+          <term key="ed_mts_42y_g1b">Journalismus/Publizistik</term>
+        </keywords>
+      </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:25Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <salute><pb/> Lieber Freund!</salute>
+        </opener>
+        <p><seg type="comment"><orig>Sehr gerne hätte ich Dich persönlich
+              gesehn. Meine herzlichsten Grüße wird Dir Deine verehrte Frau bestellt
+              haben.</orig><note xml:id="e1ebfbb3-8920-4f95-90f7-44bb6f045bc2">Siehe <ref target="B00238">C.
+                <?oxy_comment_start author="reichhoff" timestamp="20180503T142521+0200" comment="(Br. 229)"?>Siebel
+                an Engels, 20.<?oxy_comment_end?>3.1867</ref> und <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180503T142559+0200" comment="(Br. 245.30–31)."?>Engels
+                an Marx, 27.4.1867 <?oxy_comment_end?></ref>. – <persName key="pdrPo.001.004.000003075">Jenny Marx.</persName></note></seg></p>
+        <p>Ich bin sehr gespannt <seg type="comment"><orig>Dein lang
+              erwartetes <bibl sameAs="zotero-604880-PT9GISVC">Buch</bibl>
+            </orig><note xml:id="e4f15f7f-8902-4b9e-a863-de85b0d1054a"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Erster
+                Band.</bibl></note></seg> nun endlich zu erhalten. Es ist aber nöthig selbst dem
+          Diamanten Licht zuzuschicken, wenn ihn das dumme Volk beachten soll. Daß ich, wo ich in
+          der Presse kann, ehrlich mein Theil thun werde, brauche ich Dir wohl nicht zu
+          versprechen.</p>
+        <p><seg type="comment"><orig>Schreibe einige freundliche Worte an
+              den Schriftsteller <persName key="ed_i5k_f4p_ycb">Emil Rittershaus</persName> Kleine
+              Flurstraße 12 <choice>
+                <sic>Barmen.</sic>
+                <corr cert="high">Barmen</corr>
+              </choice> und lasse ihm mit diesem Schreiben durch <persName key="pdrPo.001.004.000003135">Meißner</persName> ein Ex. Deines Buches zugehn. Er
+              kann sehr nützlich wirken</orig><note xml:id="a97a5790-b826-4e71-8282-d0591f922adc">Ein Brief von Marx an <persName key="ed_i5k_f4p_ycb">Rittershaus</persName> ist nicht
+              bekannt. Siehe auch <ref target="B00352"><?oxy_comment_start author="reichhoff" timestamp="20180503T142901+0200" comment="(Br. 343.9–10 "?>Marx
+                an Engels, 12.<?oxy_comment_end?>9.1867</ref> und <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180503T143040+0200" comment="und 360.29–30)"?>4.<?oxy_comment_end?>10.1867</ref>
+              und <ref target="B00387"><?oxy_comment_start author="reichhoff" timestamp="20180503T143127+0200" comment="(Br. 377.17–19)."?>Engels
+                an Marx, 11.10.1867<?oxy_comment_end?></ref>.</note></seg> und ich werde sorgen, daß
+          er <choice>
+            <sic>thatig</sic>
+            <corr cert="high">thätig</corr>
+          </choice> ist. Er steht jetzt fast mit allen Blättern in steter <pb/> Verbindung und ich
+          bin überzeugt, daß er, der heute allerdings noch poetischer Kleidermacher der
+          Fortschrittler ist, sehr bald aufrichtig zu Deiner Fahne schwören wird.</p>
+        <p>Ueber Deine und Engels Stellung zu dem Arbeiterleben im
+          Wupperthal Düsseldorf Solingen u. Remscheid hätte ich mich gerne mit Dir gesprochen. Es
+          scheint mir, daß nach der <seg type="comment"><orig>v. Schweitzer’schen
+              Wahlaffaire</orig><note xml:id="a1083527-ec6c-4117-8987-13db1072a8af">Siehe <ref target="B00235"><?oxy_comment_start author="reichhoff" timestamp="20180503T143237+0200" comment="(Br. 226.32–33)."?>Engels
+                an Marx, 13.3.1867 <?oxy_comment_end?></ref>(„Bei der Wahl hat Schuft <persName key="pdrPo.001.004.000004357">Schweizer</persName> ...“).</note></seg> dort der
+          Boden arbeitsfähig geworden ist und ich möchte fast glauben daß Du oder ein Engels dort
+          einen Wahlsieg erlangen könntet, der der entschieden lebhaften Bewegung die rechte
+          Richtung gäbe. Doch darüber später mehr. Schreibe mir: Kleine Flurstraße 10 Barmen. – Gruß
+          und Handschlag</p>
+        <p>In Treue</p>
+        <closer>Dein<lb/>Siebel</closer>
+      </div><div type="writingSession"><p>London<lb/>1<hi rendition="#sup">e</hi>/5 67 <pb/></p>
+      </div></body></text></TEI>

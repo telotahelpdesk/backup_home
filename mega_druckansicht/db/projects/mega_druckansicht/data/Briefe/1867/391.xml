@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00401" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>391</idno>Friedrich Engels an Karl Marx in London. Manchester, Freitag, 18. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1646/D III 417</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 126 × 202 mm. Die erste Seite hat Engels vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes auf der ersten Seite: „46“ und „341“; auf derselben Seite oben
+                            der Vermerk: „fällt aus“. Redaktionelle Vermerke. Streichungen.</p></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2100</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-MYHFKSKB">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930).<?oxy_custom_end?> S. 435.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-10-18"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00395"/>
+                    <ref type="next" target="B00405"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 14. Oktober 1867 (<ref target="B00395">Marx
+                        an Engels,
+                    14.10.1867</ref>)<?oxy_comment_start author="reichhoff" timestamp="20190221T115114+0100" comment="Br. 385"?>.<?oxy_comment_end?>
+                    Marx antwortete am 19. Oktober 1867 (<ref target="B00405">Marx an Engels,
+                        19.10.1867</ref>)<?oxy_comment_start author="reichhoff" timestamp="20190221T115156+0100" comment="(Br. 395)"?>.<?oxy_comment_end?></note>
+                <note>Zur Beilage („Inl. die Briefe zurück.“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190225T102204+0100" comment="391.6."?>Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:20Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 18 Oct. 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ich habe <persName key="pdrPo.001.004.000000542"><expan>Borkh<ex>eim</ex></expan></persName> geschrieben daß
+                            ich unter keinen Umständen acceptiren kann, &amp; daß es, nachdem ich
+                            ihm den Betrag garantirt, auf <hi rendition="#u">seine</hi> Creditmittel
+                            ankommt, da meine gelähmt sind.</orig><note xml:id="ad653123-e8f6-4140-b123-12fedaac93a0">Engels’ Brief an Sigismund
+                            Ludwig Borkheim, geschrieben zwischen 16. und 18. Oktober 1867 (siehe
+                                <ref target="B00398">S. L
+                                <?oxy_comment_start author="reichhoff" timestamp="20180605T131622+0200" comment="Br. 388.4–18)"?>Borkheim
+                                an Engels, 16.10.1867<?oxy_comment_end?></ref>), ist nicht
+                            überliefert. Siehe auch <ref target="B00393">S. L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180605T131727+0200" comment="(Br. 383.3–19)"?>Borkheim
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref>. Zur Geldanleihe
+                            siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180605T131849+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und Erl.</note></seg></p>
+                <p><seg type="comment"><orig>Inl. die Briefe zurück.</orig><note xml:id="c276ddee-d682-4a54-b33e-2f19267728fd"><ref target="B00357"><?oxy_comment_start author="reichhoff" timestamp="20180605T143538+0200" comment="(Br. 348)"?>Ad. Nahmer
+                                an Marx, 20.<?oxy_comment_end?>9.1867</ref>, und <ref target="B00379"><?oxy_comment_start author="reichhoff" timestamp="20180605T143623+0200" comment="(Br. 369)"?>E.
+                                Juch an Marx, 8.<?oxy_comment_end?>10.1867</ref>, die Marx seinem
+                            Brief an Engels vom 14. Oktober 1867 <ref target="B00395">(Marx
+                                <?oxy_comment_start author="reichhoff" timestamp="20180605T143752+0200" comment="Br. 385.3 und 8"?>an
+                                Engels ,14.10.1867<?oxy_comment_end?></ref>) beigelegt
+                            <?oxy_comment_start author="lindenberg" timestamp="20190813T144849+0200" comment="getilgt: (siehe Br. 385.3 und 8)"?>hatte<?oxy_comment_end?>.
+                            Vermutlich schickte Engels Marx auch den <ref target="B00382"><?oxy_comment_start author="reichhoff" timestamp="20180605T143847+0200" comment="(Br. 372)"?>Brief
+                                von W. Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref>
+                            zurück, in dem <persName key="pdrPo.001.004.000002822">Liebknecht</persName> seine Krankheit („Reichstagsschnupfen“)
+                            erwähnte. Siehe auch <ref target="B00390"><?oxy_comment_start author="reichhoff" timestamp="20180605T143933+0200" comment="(Br. 380.10–23)"?>Engels
+                                an Marx, 13.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig><persName key="pdrPo.001.004.000002822"><expan>Liebkn<ex>echt</ex></expan></persName> scheint krank
+                            gewesen zu sein,</orig><note xml:id="ntmn_vdp_1gb">Siehe <ref target="B00382"><?oxy_comment_start author="reichhoff" timestamp="20180605T144051+0200" comment="(Br. 372.4–11)"?>W.
+                                Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190813T145108+0200" comment="372c."?>Erl.<?oxy_comment_end?>
+                            – <persName key="pdrPo.001.004.000004342">Hermann
+                                Schulze-Delitzsch</persName> brachte am 14. Oktober 1867 im
+                            Norddeutschen Reichstag einen Gesetzentwurf über die Aufhebung der
+                            Koalitionsverbote („Gesetz-Entwurf, betreffend die Coalition von
+                            Arbeitern und Arbeitgebern“) ein. (Siehe <ref target="B00019">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180914T122600+0200" comment="18e"?>W.
+                                Liebknecht an Marx, 21.1.1866<?oxy_comment_end?></ref>, <ref target="B00092">W. Liebknecht an Marx,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180914T122724+0200" comment="89f"?>14.4.1866
+                                <?oxy_comment_end?></ref> und <ref target="B00382"><?oxy_comment_start author="reichhoff" timestamp="20180605T144051+0200" comment="(Br. 372.4–11)"?>W.
+                                Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref> „Schweitzer,
+                            dem ich hier ...“ und Erl.)</note></seg> sonst hätte er bei der
+                    Coalitionsgeschichte doch was sagen können. Perhaps it is better so. <seg type="comment"><orig><persName key="pdrPo.001.004.000004357">Schweitzer</persName> hat sich als kompletten eitlen Esel &amp;
+                            Phrasendreher hingestellt.</orig><note xml:id="c3f775f4-0bcd-4a17-ad07-be72170272ed"> Während der Debatte
+                            darüber hielt <persName key="pdrPo.001.004.000004357">Johann Baptist von
+                                Schweitzer</persName> eine Rede, in der er den Gesetzentwurf
+                            unterstützte, gleichzeitig aber die Bedeutung von Streiks und
+                            Gewerkschaften negierte. (Siehe <bibl sameAs="zotero-604880-Q6Z5X3TX" type="primary">Stenographische Berichte über die Verhandlungen des
+                                Reichstages des Norddeutschen Bundes. I. Legislatur-Periode. –
+                                Session 1867. Bd. 1.</bibl> S. 389–420.)</note></seg> Der ist schon
+                    kaput.</p>
+                <p><seg type="comment"><orig>Die <expan><persName key="pdrPo.001.004.000000408">Beta</persName>corresp<ex>ondenz</ex></expan></orig><note xml:id="eb34c6dc-4b86-41d2-afb2-44a33242edd4">Siehe <ref target="B00379"><?oxy_comment_start author="reichhoff" timestamp="20180605T144243+0200" comment="(Br. 369.3–7)"?>E.
+                                Juch an Marx, 8.<?oxy_comment_end?>10.1867</ref> und <ref target="B00395"><?oxy_comment_start author="reichhoff" timestamp="20180605T144351+0200" comment="(385.3–11)"?>Marx
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190813T151611+0200" comment="(385.3–11) sowie Erl. 369.3–7 {369a}, 385d, 385e und 385h"?>Erläuterungen<?oxy_comment_end?>.</note></seg>
+                    hat mich sehr amüsirt.</p>
+                <p><seg type="comment"><orig><bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier
+                                fr.</bibl> ist eingetroffen, zum Beurtheilen habe ich heute aber
+                            platterdings keine Zeit</orig><note xml:id="d1ebe009-9f43-4882-8a2b-5c856e51b9cd">Siehe <ref target="B00395"><?oxy_comment_start author="reichhoff" timestamp="20180605T144507+0200" comment="(Br. 385.29–31)"?>Marx
+                                an Engels, 14.10.1867<?oxy_comment_end?></ref> und Erl. Siehe auch
+                                <ref target="B00392"><?oxy_comment_start author="reichhoff" timestamp="20180605T144557+0200" comment="(Br. 382.3)"?>S.
+                                L. Borkheim an Marx, 14.10.1867<?oxy_comment_end?></ref>. – Karl
+                            Marx: [Aus dem Vorwort. u. d. T.] Le socialisme en Europe. In: Le
+                            Courrier français. Paris. Nr. 106, 1. Oktober 1867. S. 3,
+                            Sp. 2/3.</note></seg>.</p>
+                <p>Ich kann noch 4 à 5 Artikel über <seg type="comment"><orig>Dein Buch</orig><note xml:id="b721bd4a-364b-4c37-b5e4-8b3ac102be72"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg> von verschiednen
+                    Standpunkten schreiben, weiß aber nicht wohin damit. Wer weiß wo <persName key="pdrPo.001.004.000004424">Siebel</persName> ist! vielleicht in Algier
+                    oder Palermo! Doch hoffe ich bald <seg type="comment"><orig>Antwort von
+                            ihm</orig><note xml:id="ab4ffb2e-c39d-40c1-840d-8e0f211c9405">Engels’
+                            Brief an Carl Siebel, geschrieben am 14. Oktober 1867, ist nicht
+                            überliefert. Siehe  <ref target="B00387"><?oxy_comment_start author="lindenberg" timestamp="20190813T152528+0200" comment=" (Br. 377.17 und 380.7)"?>Engels
+                                an Marx, 11.10.1867</ref> und <ref target="B00390">Engels an Marx,
+                                13.10.1867</ref>.<?oxy_comment_end?> Siebel antwortete Engels am 19.
+                            Oktober 1867 (<ref target="B00406">C. Siebel an Engels,
+                                <?oxy_comment_start author="reichhoff" timestamp="20180605T144843+0200" comment="(Br. 396)"?>19.10.1867<?oxy_comment_end?></ref>).</note></seg>
+                    zu haben. Könntest Du sie in London abschreiben lassen, daß meine Handschrift
+                    nicht zu erkennen, so wäre es vielleicht doch am Gerathensten sie an <persName key="pdrPo.001.004.000003135">Meißner</persName> zu schicken.</p>
+                <p>Beste Grüße an Alle.</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div></body></text></TEI>

@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/mega_druckansicht/data/Register" owner="admin" group="mega_druckansicht-nutzer" mode="770" created="2020-02-19T17:38:06+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="Themenregister_Vorschl%C3%A4ge.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:40+01:00" modified="2020-02-19T17:38:40+01:00" filename="Themenregister_Vorschläge.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Orte.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:38+01:00" modified="2020-02-25T14:43:14+01:00" filename="Orte.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Periodika.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:40+01:00" modified="2020-02-19T17:38:40+01:00" filename="Periodika.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sachregister_I.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:40+01:00" modified="2020-02-19T17:38:40+01:00" filename="Sachregister_I.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sachregister_III.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:38+01:00" modified="2020-02-19T17:38:38+01:00" filename="Sachregister_III.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Firmen_Institutionen.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:40+01:00" modified="2020-02-19T17:38:40+01:00" filename="Firmen_Institutionen.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="Sachregister_IV.xml" owner="admin" group="dba" mode="644" created="2020-02-19T17:38:38+01:00" modified="2020-02-19T17:38:38+01:00" filename="Sachregister_IV.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="Personen" filename="Personen"/>
+</collection>

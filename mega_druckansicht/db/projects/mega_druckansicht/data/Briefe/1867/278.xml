@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00287" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>278</idno>Sigismund Ludwig Borkheim an Friedrich Engels in Manchester.
+                    London, Samstag, 29. Juni 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 689/L II 94
+                            Fotosign. 9857&lt;a–b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            257 × 204 mm. Wasserzeichen: „A Cowan &amp; Sons“. Aufdruck der Firma
+                                <orgName key="pdrPo.001.015.000090279">„Schröder &amp; Schÿler &amp;
+                                    C<hi rendition="#sup">o</hi>“</orgName> (siehe  S. L. Borkheim
+                            an Marx, 8. Januar 1866) auf der ersten Seite. Borkheim hat die ersten
+                            drei Seiten vollständig, die vierte zur Hälfte beschrieben.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben mit Bleistift die
+                            Nummerierung des Briefes: „40“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1707</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-06-29"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Borkheim beantwortet zwei nicht überlieferte Briefe von Engels, geschrieben
+                    aller Wahrscheinlichkeit nach zwischen 3. und 27. Juni 1867 (siehe hier „Ihre Bemerkungen“<?oxy_comment_start author="lindenberg" timestamp="20190123T173336+0100" comment="Z. 6"?>,<?oxy_comment_end?>
+                    <ref target="B00273">S. L. Borkheim an, 30.5.1867</ref> und <ref target="B00274">S. L. Borkheim an, 3.6.1867</ref>)
+                    <?oxy_comment_start author="lindenberg" timestamp="20190123T173614+0100" comment="Br. 264 und 265"?><?oxy_comment_end?>und
+                    zwischen 27. und 29. Juni 1867 (siehe <ref target="B00285">Marx an Engels,
+                        27.6.1867</ref>, <ref target="B00286">Marx an Engels, 27.6.1867</ref> und
+                        <ref target="B00288">S. L. Borkheim an Marx,
+                    29.6.1867</ref>).<?oxy_comment_start author="lindenberg" timestamp="20190123T173834+0100" comment="iehe Z. 3–5, Br. 276.80, 277.3–4 und 279.6"?></note><?oxy_comment_end?>
+                <note>Zum Briefkopf siehe <ref target="B00005">S. L. Borkheim an Marx,
+                        8.1.1866</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:45Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi>
+                        <lb/><hi rendition="#mPrint">London,</hi> 29 Juni <hi rendition="#mPrint"><hi rendition="#mPrint">18</hi></hi>67</dateline>
+                    <salute>Lieber Engels,</salute>
+                </opener>
+                <p>Da Sie Zeit haben, <seg type="comment"><orig>nach
+                            Skandinavien zu gehen,</orig><note xml:id="nixt_ddl_wfb">Siehe <ref target="B00284"><?oxy_comment_start author="lindenberg" timestamp="20190521T143124+0200" comment="(Br. 275.23–25, 279.6–8) sowie Erl. 275c"?>Engels
+                                an Marx, 26.6.1867</ref> und Erl., sowie <ref target="B00288">S. L.
+                                Borkheim an Marx, 29.6.1867</ref><?oxy_comment_end?>.</note></seg>
+                    dürften Sie auch einmal bei mir vorsprechen. Wir wollen einmal mit <persName key="ed_ats_ysj_wx">Marx</persName> bei mir zu Abend essen und kneipen,
+                    wobei ich Ihnen <seg type="comment"><orig><persName key="pdrPo.001.004.000010218">meinen Erben</persName></orig><note xml:id="nhbm_5tf_bhb"><persName key="pdrPo.001.004.000010218">Frederick
+                                Borkheim</persName>.</note></seg> vorstelle.</p>
+                <p>Dank für Ihre Bemerkungen über slavische
+                    Schreibmethoden. Sie haben präcisirt, was ich nur fühlen konnte. – <seg type="comment"><orig>Mit vergleichender Sprachlehre</orig><note xml:id="njxx_fgl_wfb">Anfang der 1850er Jahre – nach seiner Übersiedlung
+                            nach Manchester – hatte sich Engels intensiv mit den slawischen
+                            Sprachen, besonders mit der russischen, sowie mit der Geschichte und
+                            Kultur der slawischen Völker beschäftigt. Die umfangreichen
+                            Sprachkenntnisse, die er in seiner Jugendzeit erwarb (siehe seinen, vor
+                            dem 29.–30. April 1839 geschriebenen Brief an Wilhelm Graeber sowie den
+                            Brief an seiner Schwester Marie vom 28. September 1839, in: MEGA<hi rendition="#sup">2</hi> III/1. S. 132–135 und 159), ermöglichten es
+                            ihm, sich auch erfolgreich mit der allgemeinen und vergleichenden
+                            Sprachwissenschaft beschäftigen. Zu seinen wissenschaftlichen Plänen
+                            Anfang der 1850er Jahre gehörte auch die Ausarbeitung einer
+                            vergleichenden Grammatik der slawischen Sprachen. Siehe dazu seine
+                            Briefe an Marx vom 29. Januar 1851 und vom 18. März und 20. April 1852,
+                            seine Briefe an Joseph Weydemeyer vom 12. April 1853 und an Ferdinand
+                            Lassalle vom 14. März 1859 (MEGA<hi rendition="#sup">2</hi> III/4.
+                            S. 18.11; III/5. S. 78.29–79.7 und 92.16–17; III/6. S. 148.23–26; III/9.
+                            Br. 201.35–37) sowie die diesbezüglichen Materialien (RGASPI, Sign.
+                            f. 1, op. 1, d. 505, 528, 529, 530 und 896; IISG, Marx-Engels-Nachlass,
+                            Sign. J 62; MEGA<hi rendition="#sup">2</hi> IV/10).</note></seg> lasse
+                    ich mich vorläufig nicht ein, sonst verwirre ich mich fürs Rußische, in dem ich
+                    doch bereits bewandert genug, um Ihnen diesen ganzen Kram gegenüber darin
+                    ausdrücken zu können. – <seg type="comment"><orig>Vom Ministerium noch keine
+                            Antwort</orig><note xml:id="njdp_3gl_wfb">Siehe <ref target="B00273"><?oxy_comment_start author="lindenberg" timestamp="20190521T143601+0200" comment="(Br. 264.34–35)"?>S.
+                                L. Borkheim an Engels,
+                        30.5.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+                <closer>Der Ihrige<lb/>Borkheim. </closer>
+            </div>
+            <div type="writingSession">
+                <p/>
+            </div>
+            <div type="writingSession">
+                <salute><pb/><seg type="comment"><orig>Любезной
+                            Енгелсъ!</orig><note xml:id="nrl5_s4l_wfb">„Любезной Енгелсъ! ... отвѣта
+                            нѣтъ.“  ist Borkheims Übersetzung seines Briefes bis „Antwort“. Die
+                            weiteren Erläuterungen zur russischen Übersetzung sind von
+                            Borkheim.</note></seg><?oxy_comment_start author="lindenberg" timestamp="20181121T160053+0100" comment="Любезной Енгелсъ! ... отвѣта нѣтъ. {Z. 14–25} enthalten die Borkheims Übersetzung der Z. 2–11. („... Antwort“)."?><?oxy_comment_end?></salute>
+                <p>Такъ какъ вамъ dовольно поры<hi rendition="#sup">1)</hi>
+                    погуливаться въ Сканdинавіи, вы должны были посѣтить меня. Да ужинаемъ разъ въ
+                    моемъ домѣ съ Марксомъ, и вѣдь <hi rendition="#uu">кнейпуем</hi><hi rendition="#sup">2)</hi>, причемъ представлю вамъ моего наслѣдника.</p>
+                <p>Вамъ благодарю за примѣчаніи про<hi rendition="#sup">3)</hi> различные славянскіе почерки алфавитовъ<hi rendition="#sup">4</hi>.
+                    Вы твердо намѣтили<hi rendition="#sup">5)</hi> на то что я только могъ
+                    чувствовать. Теперь еще не пущусь<hi rendition="#sup">6)</hi> въ подробности
+                    сравнительной науки, потому | что боясь смѣсь въ моей головѣ опасную для
+                    пріобрѣтенія русскаго языка, которомъ<hi rendition="#sup">7)</hi> однакоже
+                    овладѣлся до такой степени, чтобы въ немъ выразить етій мой вздоръ. - Отъ
+                    министерства еще отвѣта нѣтъ. </p>
+                <p>Ich habe nicht ein einziges Hülfsmittel auf dem office,
+                    hatte auch nicht dran gedacht die Rußische Übersetzung zu machen, ehe der Brief
+                    beendigt war.</p>
+                <p>Zeit 25 Minuten.</p>
+                <p>1, пора, временъ, досугаs??</p>
+                <p>2, Meine leichte Erfindung: кнейповать.</p>
+                <p>3, Ich bin unsicher, ob про richtig gebraucht, u. wenn
+                    richtig gebraucht <pb/> ob es den Akkusativ regiert.</p>
+                <p>4, алфавитъ oder алфавита, im letzten Fall genitiv plur.
+                    алфавитъ.</p>
+                <p>5, Bitte um Bewunderung der Übersetzung des präcisiren mit
+                    твердо намѣтить.</p>
+                <p>6, пущусь von пуститься.</p>
+                <p>7, овладѣться sich bemeistern regiert <hi rendition="#u">glaube</hi> ich den Localis; vielleicht aber den instrumentalis; dann
+                    которымъ. <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

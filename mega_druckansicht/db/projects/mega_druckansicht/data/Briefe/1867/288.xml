@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00297" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>288</idno>Karl Marx an Louis Kugelmann in Hannover. London, Samstag, 13. Juli
+          1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">C 339/C 98</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 223 × 183 mm. Die
+              ersten zwei Seiten hat Marx vollständig beschrieben, die dritte und die vierte Seite
+              sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Louis Kugelmanns Hand: auf der vierten Seite oben mit schwarzer Tinte der
+              Vermerk: „A. 12/8 cop.“</p>
+            <p>Von unbekannter Hand: Die Passagen „Thanks“ bis „ist“, „Sie“ bis „Madämchen“, „Ich“
+              bis „schicken“ und „Besten“ bis „später“ mit Rotstift in Klammern gesetzt.</p>
+            <p/>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 2051</bibl>
+            </listBibl>
+          </additional>
+        </msDesc> <listWit>
+          <witness><bibl sameAs="zotero-604880-8HKY7X9Q">Erstveröffentlichung eines Auszugs:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Briefe von Karl
+              Marx an Dr. L. Kugelmann (1902).<?oxy_custom_end?> S. 93.</bibl></witness>
+          <witness>
+            <bibl type="print" sameAs="zotero-604880-4L3Y4S89">vollständig: in russischer
+              Übersetzung: <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Письма
+              Маркса к Кугельману (1928).<?oxy_custom_end?> S. 22–24.</bibl></witness>
+          <witness>
+            <bibl type="print" sameAs="zotero-604880-3HYLPUNG">in der Sprache des Originals:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Marx: Briefe an
+              Kugelmann (1940)<?oxy_custom_end?>. S. 37/38.</bibl>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-07-13"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+          <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+        </correspAction>
+        <note>Marx antwortete auf einen nicht überlieferten Brief Kugelmanns vom 10. bzw. 11. Juli
+          1867. Siehe <ref target="B00277">Marx an L. Kugelmann,10.6.1867</ref>.
+          <?oxy_comment_start author="lindenberg" timestamp="20190125T170511+0100" comment="ZbBr. 268."?><?oxy_comment_end?>(Kugelmanns
+          Vermerk auf der vierten Seite); Kugelmann antwortete Marx am 12. August 1867 (<ref target="B00316"><?oxy_comment_start author="lindenberg" timestamp="20190128T174936+0100" comment="(Br. 307)"?>L.
+            u. G. Kugelmann an Marx, 12.8.1867<?oxy_comment_end?></ref>).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:45:53Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> London. <subst>
+              <del rendition="#ow">14</del>
+              <add place="across">13</add>
+            </subst> Juli. 1867.</dateline>
+          <salute>Lieber Freund,</salute>
+        </opener>
+        <p>Thanks for <seg type="comment"><orig><persName key="pdrPo.001.004.000002103">Hegel</persName></orig><note xml:id="nuqf_wgf_bhb">Zum
+              Foto von <persName key="pdrPo.001.004.000002103">Georg Wilhelm Friedrich
+                Hegel</persName> siehe <ref target="B00257"><?oxy_comment_start author="lindenberg" timestamp="20190523T172137+0200" comment="246"?>J.
+                Marx (Tochter) an Marx , 28.4.1867<?oxy_comment_end?></ref>,  <ref target="B00264">Marx an L. Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180516T100620+0200" comment="Br. 255.39,"?>5.5.1867
+                <?oxy_comment_end?></ref>und <ref target="B00268"><?oxy_comment_start author="reichhoff" timestamp="20180516T100709+0200" comment="259.55"?>13.5.1867<?oxy_comment_end?></ref>,
+              Beilage und
+              <?oxy_comment_start author="lindenberg" timestamp="20190523T170145+0200" comment="259l sowie Abbildung 000"?>Erl.<?oxy_comment_end?> </note></seg>
+          and <seg type="comment"><orig><persName key="pdrPo.001.004.000002614">Madämchen</persName></orig><note xml:id="natg_bjf_bhb">Franzisca Kugelmann. Das Foto
+              von Franzisca Kugelmann (RGASPI, Sign. f. 184, op. 1, d. 27 bzw. 28. Positiv-Kopie;
+              siehe Abbildung) hatte Marx offensichtlich aus Hannover (siehe <ref target="B00264">Erl. zu
+                <?oxy_comment_start author="reichhoff" timestamp="20180910T141609+0200" comment="Erl. 255b)"?>Marx
+                an J. Marx (Tochter), 5.5.1867 <?oxy_comment_end?></ref>) mitgebracht. Zur
+              Indentifikation des Fotos von Franzisca Kugelmann siehe Boris Rudjak: Oschibku
+              neobchodimo ispravit’
+              <?oxy_comment_start author="lindenberg" timestamp="20181114T122539+0100" comment="Ошибку необходимо исправить"?>…<?oxy_comment_end?>
+              S. 26–29; derselbe: Ein Irrtum ist zu korrigieren … S. 320–328.)</note></seg>!</p>
+        <p>Ich werde Ihnen nun kurz auf alle Punkte antworten.</p>
+        <p><seg type="comment"><orig><hi rendition="#u"><persName key="ed_eyg_crj_sx">Engels</persName></hi> ist augenblicklich in Dänemark u. wird
+              Sie für einen Tag besuchen kommen im Lauf dieses Monats.</orig><note xml:id="fb2af802-3d48-47d6-94ef-23b34e7bce84">Zur <persName key="ed_eyg_crj_sx">Engels</persName>’ Reise siehe <ref target="B00284"><?oxy_comment_start author="reichhoff" timestamp="20180910T141836+0200" comment="Erl. 275e"?>Engels
+                an Marx, 26. Juni 1867 <?oxy_comment_end?></ref>Erl. 275e.</note></seg>
+          <seg type="comment"><orig><hi rendition="#u"><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Ad
+                vocem<?oxy_custom_end?></hi></orig><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?><note xml:id="eee61a6d-269c-46e7-bff0-eab3ed1cf6b1">Bezüglich</note></seg><hi rendition="#u"><?oxy_custom_end?> desselben:</hi>
+          <seg type="comment"><orig>Sie erinnern sich, daß Sie mir sagten,<persName key="pdrPo.001.004.000011173"> Menke</persName>, oder wie immer der Mann an Ihrem
+                <hi rendition="#u">statistischen</hi> Bureau <add place="superlinear">zu <expan>Han<ex>nover</ex></expan></add>
+              heißt,</orig><note xml:id="d6847868-8413-4b89-adfd-d076fb780284">Siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180516T103827+0200" comment="(Br. 242.67–71)."?>Marx
+                an Engels 24.4.1867<?oxy_comment_end?></ref>. Marx verwechselte den Namen des
+              Angestellten beim Preußischen Statistischen Büro in Hannover <persName key="ed_ydt_vqk_bdb">Georg  Merkel</persName> bzw. Merckel mit dem Namen von
+                <persName key="pdrPo.001.004.000011173"><?oxy_comment_start author="lindenberg" timestamp="20190404T123920+0200" comment="siehe zu diesem Marx an Engels, 10.12.1868 --  Exemplar des Kapitals mit Annotationen"?>Theodor
+                Heinrich Menke<?oxy_comment_end?></persName>. Siehe <ref target="B00079"><?oxy_comment_start author="reichhoff" timestamp="20180516T113247+0200" comment="(Br. 76.6–16)."?>L.
+                Kugelmann an Marx, 30.3.1866<?oxy_comment_end?></ref>.</note></seg> habe sich sehr
+          anerkennend über <seg type="comment"><orig>meine bei <persName key="pdrPo.001.004.000001261">Duncker</persName> erschienene Schrift</orig><note xml:id="c3ee14f2-ea11-422a-8d41-7331ddd1d521">Karl Marx: Zur Kritik der Politischen
+              Oekonomie. Erstes Heft. Berlin 1859. (MEGA<hi rendition="#sup">2</hi> II/2.
+              S. 95–245.)</note></seg> geäussert. <seg type="comment"><orig>Ich habe, Engels
+              gegenüber, die Sache dahin <hi rendition="#u">verdreht</hi>, daß M. sich <hi rendition="#u">mir</hi>
+              <hi rendition="#u">gegenüber</hi>, sehr anerkennend über E’s „Lage der Arb. Kl.“
+              geäussert. </orig><note xml:id="ng2p_w1n_5fb">Siehe <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180516T113432+0200" comment="(Br. 242.61–66)"?>Marx
+                an Engels 24.4.1867 <?oxy_comment_end?></ref>(Br. 242.61–66).</note></seg>
+          <hi rendition="#u">Grund dieser</hi>
+          <seg type="comment"><orig><hi rendition="#u">pia fraus</hi></orig><note xml:id="e264c537-c8b3-442b-814b-9aec0682eaf1">frommer Betrug – Publius Ovidius Naso:
+              Methamorphoses IX, 711.
+              <?oxy_comment_start author="lindenberg" timestamp="20181114T170644+0100" comment="{Büchmann, S. 430}"?></note><?oxy_comment_end?></seg>
+          (u. ich<del>war°<sic ana="#break-off"/></del> habe zu <hi rendition="#u">demselben
+            Zweck</hi> verschiedene fraudes verübt): Den Engels zur Bearbeitung u. Herausgabe des
+          II. Bands, über die Zeit von 1845 bis jezt, zu<hi rendition="#u"> treiben</hi>. Es ist mir
+          dieß endlich so weit <hi rendition="#u">gelungen</hi>, daß er versprochen hat, sich dran
+          zu setzen. Also, wenn <hi rendition="#u">zufällig</hi> die Rede auf den Statistiker kommen
+          sollte, <hi rendition="#u">so verschnappen Sie sich nicht</hi>.</p>
+        <p><seg type="comment"><orig><hi rendition="#u">Die Reise meiner
+                  <persName key="pdrPo.001.004.000003075">Frau</persName></hi> ist total unbestimmt
+              u. unbestimmbar,</orig><note xml:id="e694ac99-dc88-4b7f-aad5-ab2eda61db52">Marx’ Frau
+                <persName key="pdrPo.001.004.000003075">Jenny</persName> beabsichtigte, eine
+              Kurreise in ein Seebad zu unternehmen. Siehe <ref target="B00311"><?oxy_comment_start author="reichhoff" timestamp="20180516T153813+0200" comment="(Br. 302.59)"?>J.
+                Marx (Tochter) an Marx, Ende Juli 1867<?oxy_comment_end?></ref> („Möhmchen has ...“)
+              und Erl. </note></seg> weil dazwischen ein Ereigniß gekommen, <seg type="comment"><orig>die bezweckte Abreise meiner 3 Töchter nach Bordeaux,</orig><note xml:id="a366021d-d42b-4884-8019-bee29ac77f07"> Marx’ Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName> besuchten die Familie Lafargues in
+              Bordeaux vom 21. Juli bis 10. September 1867. Siehe auch  <ref target="B00300">Marx an
+                Engels,
+                <?oxy_comment_start author="reichhoff" timestamp="20180516T154848+0200" comment="(Br. 291.4–13)"?>20. Juli<?oxy_comment_end?></ref>
+              und <ref target="B00348"><?oxy_comment_start author="reichhoff" timestamp="20180516T154937+0200" comment="(Br. 339.33–34)"?>11.9.1867<?oxy_comment_end?></ref>.</note></seg>
+          zu <seg type="comment"><orig><persName key="ed_z11_fcw_wx">Lafargue
+              Senior</persName></orig><note xml:id="nbbc_blf_bhb"><persName key="ed_z11_fcw_wx">François Lafargue</persName>.</note></seg>. </p>
+        <p><pb/> Nach <hi rendition="#u">Paris</hi> rate ich Ihnen <hi rendition="#u">nicht </hi>zu gehn. Es ist unmöglich unter diesem Babylon von Dingen u.
+          innerhalb dieses Menschenknäuels irgend etwas zu studieren, wenn man nicht wenigstens
+          6 Wochen dableibt, was <hi rendition="#u">sehr theuer</hi> ist.</p>
+        <p><seg type="comment"><orig>Mein Werk</orig><note xml:id="a12e7c94-8209-4ef8-b624-4b36e18f2d9c"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+            1867.</bibl></note></seg> ist about 50 Bogen stark. Sie sehn, wie ich mich verrechnet
+          hatte as to its extent. Ich habe vor ein paar Tagen <seg type="comment"><orig>den <hi rendition="#u">Anhang</hi> unter <expan>d<ex>em</ex></expan> Titel: <hi rendition="#u">Die Werthform, Anhang zu <expan>Kapit<ex>el</ex></expan> I, 1</hi></orig><note xml:id="d7fe6cd0-b7d9-4342-8343-c7aa6beb0683">Karl Marx: Anhang zu Kapitel I, 1. Die
+              Werthform. In: <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl> S. 764–784. (MEGA² II/5. S. 626–649.)
+              Siehe auch <ref target="B00281"><?oxy_comment_start author="reichhoff" timestamp="20180516T155137+0200" comment="(Br. 272.36–55,"?>Marx
+                an Engels, 22.6.1867,<?oxy_comment_end?></ref>
+              <ref target="B00285"><?oxy_comment_start author="reichhoff" timestamp="20180516T155309+0200" comment="276.18–76),"?>Marx
+                an Engels, 27.6.1867<?oxy_comment_end?></ref>, und
+              <?oxy_comment_start author="lindenberg" timestamp="20190523T183530+0200" comment=" 272n und 276e"?>Erläuterungen<?oxy_comment_end?>.</note></seg>,
+          nach Leipzig geschickt. Sie kennen den <seg type="comment"><orig><hi rendition="#u">Autor</hi><hi rendition="#u"> dieses Plans</hi></orig><note xml:id="d404c39e-65c8-45a5-873f-b523bd911568">
+              <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>. Siehe Karl Marx:
+              Nachwort. In: Das Kapital. Bd. 1. Buch 1. 2. verb. Aufl. Hamburg 1872. S. 813. (MEGA²
+              II/6. S. 700.13–18.)</note></seg>, dem ich hiermit meinen Dank für seine Suggestion
+          abstatte.</p>
+        <p>Sie entschuldigen, wenn ich hier diese Zeilen abbreche. Eben
+          kommt neuer Correkturbogen.</p>
+        <p>Mit meinen besten Grüssen an <seg type="comment"><orig>Ihre<persName key="pdrPo.001.004.000002615"> Frau</persName></orig><note xml:id="c63c35dd-27d8-4a05-9e44-bdcd98b8f96a"><persName key="pdrPo.001.004.000002615">Gertrud Kugelmann</persName>.</note></seg> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000002614">Madämchen</persName></orig><note xml:id="nejc_dwq_vhb"><persName key="pdrPo.001.004.000002614">Franzisca Kugelmann</persName>.
+            </note></seg></p>
+        <closer>Ihr<lb/>K. Marx</closer>
+        <postscript>
+          <p>Ich werde in meinem nächsten Brief <seg type="comment"><orig><hi rendition="#u">Mitgliederkarten</hi></orig><note xml:id="f7bf9e14-1353-4190-9c17-abaf8eecad90">
+                International Working Men’s Association. Member’s Annual Subscription Card. Siehe
+                  <?oxy_comment_start author="lindenberg" timestamp="20190523T175942+0200" comment="Erl. 10c{Jg 1866,"?><ref target="B00011">Marx an Liebknecht, 15.01.1866<?oxy_comment_end?></ref> und
+                Erl.</note></seg> für <persName key="pdrPo.001.004.000002615">Mrs. <expan>Kug<ex>elmann</ex></expan></persName> u.
+              <persName key="ed_fsr_4mg_sfb">Mrs. Tenge</persName> schicken. <seg type="comment"><orig>Eine Dame, <persName key="pdrPo.001.004.000002739">Mrs. Law</persName>, ist
+                zum Mitglied unsres Centralraths avancirt worden.</orig><note xml:id="b7ffcfa0-9fb2-4163-a226-6693c9d9a564">Siehe <ref target="B00291"><?oxy_comment_start author="reichhoff" timestamp="20180910T143107+0200" comment="Erl. 282e"?>P.
+                  Fox André an Marx, 3.7.1867<?oxy_comment_end?></ref> und Erl. </note></seg></p>
+        </postscript>
+      </div>
+      <div type="writingSession">
+        <p>Besten Dank v. <persName key="pdrPo.001.004.000003068">Eleanor</persName> für <expan>d<ex>ie</ex></expan> Stamps. Die Photogramme später. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

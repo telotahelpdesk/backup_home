@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00359" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>350</idno>Edward Spencer Beesly an Karl Marx in London. London,
+                    Dienstag, 24. September 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1736</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format
+                            225–228 × 178 mm. Prägung: vermutlich „Ivory“. Alle vier Seiten hat
+                            Beesly vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts
+                                (IMĖ): „Rj 1405&lt;a–d&gt;“.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-C3ITJW5J">Erstveröffentlichung
+                            eines Auszugs:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Harrison:
+                            E. S. Beesly and Karl Marx (1959).<?oxy_custom_end?> S. 41.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl>vollständig wird der Brief hier erstmals veröffentlicht.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000000329">Beesly, Edward Spencer
+                        (1831-1915)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-09-24"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:46:52Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Seaton<lb/>Axminster<lb/>24 Sept.
+                        1867</dateline>
+                    <salute>Dear Sir</salute>
+                </opener>
+                <p>I am much obliged to you for <seg type="comment"><orig>your book</orig><note xml:id="af3b3795-fceb-4f2b-a0a7-566bb1319f88"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867</bibl>. – Die Widmung im Exemplar des ersten
+                            Bandes des „Kapital“, das Marx an Beesly schickte, lautete: „To
+                            Professor E. S. Beesly Lond. 18 Sept. 1867. Karl Marx“ (siehe auch <ref target="B00358">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180913T110610+0200" comment="349c"?>Engels
+                                an Laura Marx, 23.9.1867<?oxy_comment_end?></ref>). Das Buch
+                            befindet befindet sich z. Z. in
+                            Privatbesitz.<?oxy_comment_start author="lindenberg" timestamp="20190214T164948+0100" comment="Es wurde auf der Bloomsbury Auktion im Juni 2010 für £ 140 300 verkauft"?><?oxy_comment_end?></note></seg>
+                    which has been forwarded to me here. I am sorry &amp; ashamed to be obliged to
+                    confess that I do not <pb/> know German. I have long been intending to learn it
+                    &amp; your book I hope will supply the final stimulus needed, for I perceive by
+                    the notes that it <pb/> is full of interesting matter &amp; I gather that the
+                    diseases of Society appear to you in the same light as they do to me. Whether we
+                    should agree on <pb/> the remedy I do not know &amp; probably it is too much to
+                    expect. But when the world generally so persistently ignores the disease there
+                    must be a wide field for our cooperation.</p>
+                <closer>Believe me<lb/>yours truly<lb/>ESBeesly</closer>
+            </div>
+            <div type="writingSession">
+                <p/>
+                <p>D<hi rendition="#sup">r</hi> Marx <pb/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

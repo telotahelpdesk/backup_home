@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00356" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>347</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Dienstag, 17. September 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 454/D I 123 Fotosign. 9678.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 258 × 204 mm.
+                            Wasserzeichen: „Extra Superfine A C &amp; S“. Aufdruck der Firma
+                                „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler &amp;
+                                    C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an Marx,
+                            8. Januar 1866) auf der ersten Seite oben links. Borkheim hat die erste
+                            Seite zu vier Fünfteln beschrieben, die übrigen drei Seiten sind leer.
+                            Schreibmaterial: schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1734</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-09-17"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Wahrscheinlich beantwortet Borkheim einen nicht überlieferten Brief von Marx,
+                    geschrieben etwa zwischen 4. und 17. September 1867 (siehe  <ref target="B00340"><?oxy_comment_start author="lindenberg" timestamp="20190219T151213+0100" comment=" Br. 331.1–7 "?>Marx
+                        an Engels, 4.9.1867</ref><?oxy_comment_end?> und <ref target="B00397"><?oxy_comment_start author="lindenberg" timestamp="20190219T151302+0100" comment="387.15"?>Marx
+                        an L. Kugelmann, 15.10.1867</ref><?oxy_comment_end?>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:50Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">65, Fenchurch Street, E.C.</hi></dateline>
+                    <dateline><hi rendition="#mPrint">London, </hi>17/9 <hi rendition="#mPrint">18</hi>67</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Ich bitte Sie recht sehr, sich <hi rendition="#u"><expan>schleun<ex>i</ex>gst</expan></hi> bei mir in Kensington für einen Abend
+                    anzuhäufen. Ich muß mit Ihnen mich etwas auslachen und brauche Ihren Rath. Die
+                    Kerle fallen überall über mich her, wie die Besessenen.</p>
+                <p>Grüßen Sie alle die guten <seg type="comment"><orig>Damen</orig><note xml:id="be53366d-b037-4651-9bd0-f6eb8d4b2117">Frau <persName key="pdrPo.001.004.000003075">Jenny Marx</persName> und
+                            Marx’ Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>,
+                                <persName key="pdrPo.001.004.000003076">Laura</persName> und
+                                <persName key="pdrPo.001.004.000003068">Eleanor</persName>.</note></seg>.</p>
+                <closer>Ihr<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

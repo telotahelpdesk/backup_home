@@ -1,0 +1,30 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00303" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>294</idno>Otto Wigand an Karl Marx in London. Leipzig, Montag, 22. Juli 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 4573/D VIII 153 Fotosign. 11631.</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, graublauem, kariertem Papier im Format 452 × 287 mm. Vom zweiten Blatt ist unten ein Stück Papier abgerissen worden. Die erste Seite hat Wigand vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von Engels’ Hand: auf der vierten Seite in der Mitte kopfstehend mit Bleistift der Vermerk: „22 Juli 67 O. Wigands Buchdr.“</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1714</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="pdrPo.001.004.000005126">Wigand, Otto (1795-1870)</persName>
+                    <placeName key="ed_rdd_5jt_qx">Leipzig</placeName><date when="1867-07-22"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Der Brief wurde dem Schreiben Otto Meißners, an Marx vom 23. Juli 1867
+                    beigelegt (siehe <ref target="B00305">O. Meißner an Marx,
+                    23.7.1867</ref>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:00Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <salute><pb/> Sehr geehrter Herr,</salute>
+                </opener>
+                <p>In der Voraussetzung, daß Ihnen <seg type="comment"><orig>meine Zuschrift</orig><note xml:id="f5303b62-d064-4956-9be7-67dcaa14704a">Siehe <ref target="B00296"><?oxy_comment_start author="reichhoff" timestamp="20180618T131542+0200" comment="(Br. 287)"?>O.
+                                Wigand an Marx, 10.7.1867<?oxy_comment_end?></ref>.</note></seg>,
+                    welche auf unseren Correcturen-Verkehr Bezug nehm, richtig zugegangen ist, nehme
+                    ich an, daß Sie jetzt mit Allem einverstanden sind.</p>
+                <p>Heute erlaube ich mir die Anfrage, ob ich Ihnen nach
+                    Beendigung <seg type="comment"><orig>des I. Bd’s</orig><note xml:id="a3d5b98a-3a13-456c-8940-e8d8e3a9073c"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl></note></seg> die nun
+                    völlig eingearbeiteten Setzer zur sofortigen Fortsetzung <seg type="comment"><orig>des II. Bd’s in Bereitschaft halten soll, oder ob Sie eine Pause
+                            in der Arbeit eintreten lassen wollen?</orig><note xml:id="e5db420b-8202-4ca6-b922-a0d8888cf1ea"> Siehe <ref target="B00007">Marx an J. Ph. Becker, zw. 9 u. 15.1.1866</ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190221T180629+0100" comment="{Erl. zu „Kapital“} 6b"?>Erl<?oxy_comment_end?>. </note></seg>
+                    Es würde mir <expan>bezügl<ex>ich</ex></expan> meiner geschäftlichen Dispositionen sehr
+                    erwünscht sein, wenn ich hierüber schon jetzt Zuverlässiges erfahren könnte. In
+                    ça 14 Tagen beende ich den Satz <expan>d<ex>es</ex></expan> I. Bd’s.</p>
+                <p>Der Gefälligkeit einer recht baldigen Antwort mit Dank
+                    entgegensehend, zeichnet</p>
+                <closer>hochachtungsvoll<lb/>Otto Wigands Buchdr</closer>
+                            </div>
+                                <div type="writingSession">
+                                    <p>L. d. 22/VII.67. <pb/></p>
+            </div></body></text></TEI>

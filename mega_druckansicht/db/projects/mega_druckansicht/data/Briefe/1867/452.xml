@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00462" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>452</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag,
+                    30. November 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 468/D I 137</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief befindet sich im unteren Teil der ersten Seite des Briefes von
+                            Sigismund Ludwig Borkheim an Marx vom 30. November 1867 (siehe
+                            „Anmerkungen zum Brief“). Zur Zeugenbeschreibung siehe
+                            ebenda.<?oxy_comment_start author="lindenberg" timestamp="20190126T170139+0100" comment="S. 000 {Br. 448. ZB}"?><?oxy_comment_end?>Schreibmaterial:
+                            schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2130</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1867-11-30"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00466"/>
+                </correspContext>
+                <note>Die Datierung stützt sich auf den Zusammenhang des vorliegenden Briefes mit
+                    dem Brief von Borkheim an Marx vom 30. November 1867 (<ref target="B00458"><?oxy_comment_start author="lindenberg" timestamp="20190316T163124+0100" comment="Br. 448"?>S.
+                        L. Borkheim an Marx, 30.11.1867</ref><?oxy_comment_end?>).</note>
+                <note>Engels antwortete Marx am 2. Dezember 1867 (siehe <ref target="B00466"><?oxy_comment_start author="lindenberg" timestamp="20190316T163005+0100" comment=" Br. 457"?>Engels
+                        an Marx, 2.12.1867<?oxy_comment_end?></ref>).</note>
+                <note>Die Beilage zum Brief (siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190316T163203+0100" comment="Z. 1 "?>„einliegenden
+                    Zettel“<?oxy_comment_end?> und <ref target="B00458"><?oxy_comment_start author="lindenberg" timestamp="20190316T163124+0100" comment="Br. 448.6"?>S.
+                        L. Borkheim an Marx, 30.11.1867</ref><?oxy_comment_end?>) ist nicht
+                    überliefert.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:06Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><salute>/ <seg type="comment"><orig>Dieß mit <expan>d<ex>em</ex></expan> einliegenden Zettel erhalte
+                                ich so eben 30 N. (Samstag Abend 9 Uhr) v. <persName key="pdrPo.001.004.000000542">Bkheim</persName>.</orig><note xml:id="d1b39d69-02c3-4a86-a88b-b89604af7789">Siehe <ref target="B00458"><?oxy_comment_start author="reichhoff" timestamp="20180613T115556+0200" comment="(Br. 448)."?>S.
+                                    L. Borkheim an Marx,
+                            30.11.1867<?oxy_comment_end?></ref>.</note></seg> /</salute></opener>
+            </div>
+        </body>
+    </text>
+</TEI>

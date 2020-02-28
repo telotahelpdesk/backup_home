@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00214" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>207</idno>S. Nördlinger an Friedrich Engels in Manchester. Manchester,
+                    Dienstag, 8. Januar 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 5137/L VII 177
+                            Fotosign. 8161.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            127 × 203 mm. Wasserzeichen: „A Pirie [&amp; Sons]
+                            186[5]“. Aufdruck auf der ersten Seite: „Jacob Behrens.“ (links), „41,
+                            Portland S<hi rendition="#sup">t</hi> Manchester“ und die Datumszeile
+                            (rechts). Die erste Seite hat Nördlinger vollständig beschrieben, die
+                            zweite ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Archivsignatur des SPD-Archivs auf der ersten Seite: „II 21 E 20“, fast
+                            ausradiert. </p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_q1x_tqj_sx">S. Nördlinger</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-01-08"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_ht1_n3z_g1b">Exilantenleben in London u. Manchester
+                        (Schiller-Anstalt, Arbeiter-Bildungsverein, Albert-Club, Versammlungsabende
+                        u. ä.)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:44:38Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:55+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        <hi rendition="#mPrint">41, Portland S<hi rendition="#sup">t</hi></hi>
+                        <lb/><hi rendition="#mPrint">Manchester</hi> 8 Jan
+                        <?oxy_comment_start author="lindenberg" timestamp="20180403T121405+0200" comment="vorgedruckter Text in Datumszeile in Kapitälchen, aber nicht kursiv wie 1866.  Nicht in der Redaktionsansicht umgesetzt"?>1867<?oxy_comment_end?></dateline>
+                    <salute>Werther Herr Engels.</salute>
+                </opener>
+                <p>Da ich Sie an der Börse nicht sah – verabredete ich mit
+                        H<hi rendition="#sup">n</hi> <seg type="comment"><orig><persName key="pdrPo.001.004.000001123">Delius</persName>
+                        </orig><note xml:id="nifz_jjn_jdb">Vermutlich <persName key="pdrPo.001.004.000001123">Ernst Delius</persName>.
+                    </note></seg><?oxy_comment_start author="lindenberg" timestamp="20180403T130800+0200" comment="Emil Theodor Delius auch mögliche"?>daß<?oxy_comment_end?>
+                    wir am Donnerstag um 2½ p.m. <seg type="comment"><orig>in der <orgName key="ed_zbn_cdn_jdb">Schiller-Anstalt</orgName> uns als Local
+                                Comm<hi rendition="#sup">on</hi> versammeln wollten.</orig><note xml:id="df40baa4-9493-4374-bc5f-09cef85c86b9">Siehe <ref target="B00023">S. Nördlinger an Engels,
+                    26.1.1866.</ref></note></seg><?oxy_comment_start author="lindenberg" timestamp="20180403T132221+0200" comment="26. Januar 1866 (Br. 22 und Erl.)"?><?oxy_comment_end?>Wollen
+                    Sie H<hi rendition="#sup">n</hi> <persName key="ed_z3b_v4n_hz">Wehner</persName>
+                    &amp; H<hi rendition="#sup">n</hi> <persName key="ed_kgj_mkm_qz">Simon</persName> offiz. dazu einladen?</p>
+                <closer>Besten Gruß<lb/>SNördlinger </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

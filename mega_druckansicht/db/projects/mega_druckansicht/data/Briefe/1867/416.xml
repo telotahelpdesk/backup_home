@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00426" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>416</idno>Friedrich Engels an Louis Kugelmann in Hannover. Manchester, Freitag, 8., und Mittwoch, 20. November 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 1 d. 2110
+                                Fotosign. 141&lt;a–c&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format
+                            215 × 263 mm. Engels hat die erste Seite vollständig, die zweite Seite
+                            zu zwei Dritteln quer, die dritte Seite vollständig und die vierte Seite
+                            vollständig quer beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Kugelmanns Hand: auf der vierten Seite oben rechts mit schwarzer
+                            Tinte die Notiz: „empf. u. a. 25/11 67 cop.“</p>
+                        <p>Von unbekannter Hand: zwei Passagen („Indeß daran liegt nichts ...
+                            können“; „Wenn das Buch ... die ganze Bande von selbst
+                            nach“<?oxy_comment_start author="lindenberg" timestamp="20190304T134106+0100" comment="Z. 13–19 und 23–27"?>)<?oxy_comment_end?>
+                            auf der ersten Seite und eine Passage auf der dritten Seite ( „Die
+                            Irländer sind ... antienglische
+                            Bewegung.“<?oxy_comment_start author="lindenberg" timestamp="20190304T134613+0100" comment="Z. 35–37"?>)<?oxy_comment_end?>
+                            sind mit Bleistift angestrichen.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc><listWit><witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                            (1934).<?oxy_custom_end?> S. 501–504.</bibl></witness><witness><bibl sameAs="zotero-604880-38I66UYF">in der Sprache des Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW 31
+                            (1965)<?oxy_custom_end?>. S. 567–569.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName><date when="1867-11-20"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName><placeName>Hannover</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00446"/>
+                </correspContext>
+                <note>Kugelmann antwortete Engels am 25. November 1867
+                        (<?oxy_comment_start author="lindenberg" timestamp="20190301T145153+0100" comment="Br. 436"?><ref target="B00446">L. Kugelmann an Engels,
+                    25.11.1867<?oxy_comment_end?></ref>).</note>
+                <note>Die Beilage zum Brief
+                    (<?oxy_comment_start author="lindenberg" timestamp="20190301T145325+0100" comment="Z. 7–8"?>„einen
+                    Brief an Liebknecht ...“<?oxy_comment_end?>) ist nicht überliefert. Siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190301T145209+0100" comment=" 416.5–8."?>Erl.<?oxy_comment_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:36Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 8 Novbr 1867.</dateline>
+                    <salute>Lieber Kugelmann</salute>
+                </opener>
+                <p><seg type="comment"><orig>Seit meinem letzten Brief</orig><note xml:id="dc648be8-7565-45d8-ab3b-a384c7ef5ff9">Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180611T101909+0200" comment="(Br. 379)"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    hat weder <persName key="ed_ats_ysj_wx"><expan>M<ex>arx</ex></expan></persName>
+                    noch ich was von Ihnen gehört, &amp; ich kann doch kaum glauben daß Sie so tief
+                    in irgend einer <seg type="comment"><orig>anteflexio uteri</orig><note xml:id="nz1w_1q1_sjb">Natürliche Beugung der Gebärmutter. </note></seg>
+                    stecken <subst>
+                        <del rendition="#s">als daß<sic ana="#break-off"/></del>
+                        <add place="intralinear">um</add>
+                    </subst> ganz unzugänglich zu sein. <seg type="comment"><orig>Auch habe ich
+                            einen Brief an <persName key="pdrPo.001.004.000002822">Liebknecht</persName> zu schicken &amp; <persName key="ed_ats_ysj_wx">M.</persName> räth mir ihn Ihnen zu zusenden da
+                            wir keine genaue Adresse haben &amp; nicht wissen ob er in Berlin oder
+                            Leipzig ist, ich lege ihn daher bei.</orig><note xml:id="daeecebf-3c96-4063-a4e4-a94062866759">Engels' Brief an <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>,
+                            geschrieben am 8. oder 20. November 1867, ist nicht überliefert. Siehe
+                            auch <ref target="B00418"><?oxy_comment_start author="reichhoff" timestamp="20180611T102011+0200" comment="(Br. 408.13–20)"?>Engels
+                                an Marx, 5.<?oxy_comment_end?>11.1867</ref> und <ref target="B00422"><?oxy_comment_start author="reichhoff" timestamp="20180611T102047+0200" comment="(Br. 412.4–6)"?>Marx
+                                an Engels, 7.11.1867 <?oxy_comment_end?></ref> sowie <ref target="B00446">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T102123+0200" comment="(Br. 436.42–43)."?>Kugelmann
+                                an Engels, 25.11.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>Die deutsche Presse ist noch immer stumm über das „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ &amp; es ist
+                    doch von der höchsten Wichtigkeit daß was geschieht. <seg type="comment"><orig>Den einen der Ihnen gesandten Artikel habe ich in der <hi rendition="#u"><bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl></hi> gefunden</orig><note xml:id="e363e5a2-f6be-44bc-b9b0-9420fcc29333">[Friedrich Engels:] <hi rendition="#u">Karl Marx,</hi> Das Kapital. Erster Band. Hamburg.
+                            Meißner. 1867. 784 Seiten. 8°. In: Die Zukunft. Berlin. Nr. 254,
+                            30. Oktober 1867. Beil. S. 5. Sp. 1/2. Rubrik: Bücher-Anzeigen. (MEGA<hi rendition="#sup">2</hi> I/21. S. 3–5 und 1229–1231.)  Siehe auch
+                                <ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180611T102228+0200" comment="(Br. 379.5–7)"?>Engels
+                                an L. Kugelmann, 12. Oktober 1867<?oxy_comment_end?></ref> „Um nun
+                            Arbeit zu sparen ...“ und Erl.</note></seg> es thut mir leid nicht
+                    gewußt zu haben daß er eventuell für dies Blatt bestimmt war, dort hätte man
+                    wohl frecher auftreten können. Indeß daran liegt nichts. Die Hauptsache ist daß
+                        <seg type="comment"><orig>das Buch</orig><note xml:id="d0b9575a-261f-44e4-9b0c-268ceb14f5cd"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl></note></seg> überhaupt wieder &amp;
+                    immer wieder besprochen wird. Und da M. sich in der Sache nicht frei bewegen
+                    kann &amp; sich auch genirt wie eine Jungfer, so müssen wir Andern es eben thun.
+                    Sein Sie also so freundlich &amp; lassen Sie mich wissen welchen Erfolg Sie in
+                    dieser Sache bisher gefunden haben &amp; welche Blätter Sie glauben noch
+                    benutzen zu können. Wir müssen hier, um mit unserm alten Freunde <persName key="pdrPo.001.004.000010839">Jesus Christus</persName> zu sprechen, <seg type="comment"><orig>unschuldig thun wie die Tauben &amp; klug sein wie die
+                            Schlangen</orig><note xml:id="f278041c-5893-475a-9b25-fced518a1895">Die
+                            Bibel. Das Neue Testament. Evangelium des Matthäus 10, 16.</note></seg>.
+                    Die braven Vulgärökonomen haben immer soviel Verstand daß sie sich vor diesem
+                    Buch in Acht nehmen &amp; bei Leibe nicht davon sprechen wenn sie nicht müssen.
+                    Und dazu müssen wir sie <hi rendition="#u">zwingen</hi>. Wenn das Buch
+                    gleichzeitig in 15–20 Zeitungen besprochen wird – gleichgültig ob günstig oder
+                    ungünstig, ob in Artikeln, Correspondenzen oder hinter dem Strich in
+                    Eingesandtes – bloß als eine bedeutende Erscheinung die Beachtung verdient, so
+                    heult nachher die ganze Bande von selbst nach, &amp; die <persName key="pdrPo.001.004.000001474">Fauchers</persName>, <persName key="ed_qbw_plf_scb">Michaelis</persName>, <persName key="pdrPo.001.004.000004074">Roschers</persName> &amp; <persName key="pdrPo.001.004.000005161">Max Wirths</persName> werden dann eben <hi rendition="#u">müssen</hi>. <pb/> Es ist unsre verdammte Schuldigkeit diese
+                    Artikel &amp; zwar <hi rendition="#u">möglichst gleichzeitig</hi> in die Blätter
+                    zu bringen, namentlich in die europäischen &amp; auch in die reactionären. In
+                    letzteren könnte man darauf aufmerksam machen daß die <choice>
+                        <sic>herren</sic>
+                        <corr cert="high">Herren</corr>
+                    </choice> Vulgären in Parlamenten &amp; volkswirthschaftl<ex>ichen</ex>
+                    Versammlungen das Maul sehr voll nehmen, hier aber wo <hi rendition="#u">die
+                        Consequenzen</hi> ihrer eignen Wissenschaft heraus gekehrt werden,
+                    gefälligst das Maul halten. Und so weiter. <subst>
+                        <del rendition="#ow">Haben</del>
+                        <add place="across">Halten</add>
+                    </subst> Sie meine Beihülfe für wünschenswerth so lassen Sie mich wissen für
+                    welches Blatt Sie etwas wünschen – ich bin wie immer im Dienst der Partei <del rendition="#s">xxxxxxxxxxxxxxxxxx</del> bei der Hand. In dem Brief an
+                        <persName key="pdrPo.001.004.000002822">L.</persName> handelt es sich um
+                    dieselbe Geschichte &amp; Sie werden mich durch <hi rendition="#u">sichre</hi>
+                    Beförderung daher ganz ungemein verbinden.</p>
+                <p><seg type="comment"><orig>Die römische Geschichte</orig><note xml:id="f3be9481-dd95-4583-9f5d-c92d26702ce6">Siehe <ref target="B00407"><?oxy_comment_start author="reichhoff" timestamp="20180611T102706+0200" comment="(Br. 397.33–36)"?>Engels
+                                an Marx, 22.<?oxy_comment_end?>10.1867</ref> „Victor Emanuel scheint
+                            ...“, <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T102752+0200" comment="(Br. 403.40–60)"?>Marx
+                                an Engels, 2.11.1867<?oxy_comment_end?></ref> „Herr Bonaparte hatte
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T143418+0100" comment="Erl. 397k und 403l"?>Erläuterungen<?oxy_comment_end?>.</note></seg>
+                    hat uns wieder famos weiter geholfen. Der edle <persName key="pdrPo.001.004.000003392">Bonaparte</persName> scheint mir stark auf dem
+                    letzten Loche zu schleimrasseln, und wenn diese Episode in Frankreich zu Ende
+                    kommt, mit England in einer Lage die täglich revolutionärer wird, mit Italien in
+                    der Nothwendigkeit eine Revolution zu machen – dann wird auch wohl in
+                    Deutschland das Reich der <seg type="comment"><orig>„Europäer“</orig><note xml:id="de170c19-ae5e-4760-ad36-b93ca17147e7">Siehe <ref target="B00253"><?oxy_comment_start author="lindenberg" timestamp="20191206T105510+0100" comment="242"?>Marx
+                                an Engels 27.4.1867<?oxy_comment_end?></ref> „Ich war auch
+                            eingeladen ...“ und  <ref target="B00460"><?oxy_comment_start author="lindenberg" timestamp="20191206T110123+0100" comment="450"?>L.
+                                Kugelmann an Engels, 30.11.1867<?oxy_comment_end?></ref>„Die
+                            Europäer“ sowie Erläuterungen.</note></seg> am Ende sein. Hier in
+                    England geht die Bildung einer wirklich revolutionären Partei rasch voran &amp;
+                    gleichzeitig mit ihr die Entwicklung revolutionärer Verhältnisse. Durch die
+                    Reformbill hat <persName key="pdrPo.001.004.000001166">Disraeli</persName> die
+                    Tories aufgelöst &amp; die Whigs caput gemacht, ohne <add place="superlinear">dabei</add> mehr gethan zu haben als das Beibehalten des alten Schlendrians
+                    unmöglich zu machen. Diese <seg type="comment"><orig>Reformbill</orig><note xml:id="db348026-ade0-4c92-9e26-fc617d99d912">Siehe <ref target="B00025"><?oxy_comment_start author="lindenberg" timestamp="20191112T144251+0100" comment="24d"?>Erl. zu
+                                J. Marx an J. Ph. Becker,
+                            29.1.1866<?oxy_comment_end?></ref>.<?oxy_comment_start author="lindenberg" timestamp="20190304T134832+0100" comment="{Jg. 1866}"?></note><?oxy_comment_end?></seg>
+                    ist entweder Nichts (&amp; das ist jetzt unmöglich, die Bewegung ist zu stark)
+                    oder sie muß noch ganz andre Bills sofort nach sich ziehn, die viel weiter gehn.
+                    Vertheilung der Repräsentation nach der Bevölkerung &amp; Geheime Abstimmung
+                    sind die nächsten Consequenzen, die sofort gezogen werden müssen, &amp; damit
+                    ist hier der alte Kram am Ende. Das ist das große Verdienst des <persName key="pdrPo.001.004.000001166">Disraeli</persName> daß er aus Haß gegen die
+                    country gentlemen seiner eignen Partei &amp; aus Haß gegen die Whigs die
+                    Entwicklung hier in einen Fluß gebracht hat der <pb/> nicht mehr aufzuhalten
+                    ist. Sie werden sich wundern &amp; noch mehr werden die deutschen Philister sich
+                    wundern die England für begraben halten, über das was hier geschieht sobald die
+                    Reformbill einmal in Kraft ist. Die Irländer sind auch ein sehr wesentliches
+                    Ferment in der Sache, &amp; <seg type="comment"><orig>die londoner Proletarier
+                            erklären sich mit jedem Tag offener für die Fenier</orig><note xml:id="d35411ec-efc3-4b2b-a270-7bc33cfa653a">Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180611T103640+0200" comment="(Br. 379.24–26)"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> „Von unserm
+                            kleinen fenischen Coup ...“ und <ref target="B00358"><?oxy_comment_start author="lindenberg" timestamp="20191112T144720+0100" comment="349.9–10 {349f}"?>Erl. zu
+                                Engels an L. Marx, 23.9.1867<?oxy_comment_end?></ref> „Es wird Dich
+                            interessieren ...“ sowie <ref target="B00413"><?oxy_comment_start author="reichhoff" timestamp="20180611T103712+0200" comment="(Br. 403.67–70)"?>Marx
+                                an Engels, 2.11.1867<?oxy_comment_end?></ref> „Der Fenian Prozeß
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T144823+0100" comment="Erl. 403s und 403t"?>Erläuterungen<?oxy_comment_end?>.</note></seg>,
+                    also, was hier unerhört &amp; wirklich großartig ist, für eine erstens
+                    gewaltsame &amp; zweitens antienglische Bewegung.</p>
+                <p><seg type="comment"><orig>Haben Sie meinem ärztlichen Rath gefolgt &amp; sich
+                            aufs Pferd gesetzt?</orig><note xml:id="e4954e62-93a5-4839-a84e-0287c7bab588">Siehe <ref target="B00446"><?oxy_comment_start author="reichhoff" timestamp="20180611T103828+0200" comment="(Br. 436.64–65)"?>L.
+                                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref> „Im
+                            Frühjahr ...“.</note></seg> Ich habe <seg type="comment"><orig>seit
+                            meiner Rückkehr</orig><note xml:id="af027037-c9a3-4f9e-ae0f-61edb2918631">Zur Engels’ Reise nach dem
+                            Kontinent und zu seinem Besuch Kugelmanns siehe <ref target="B00284"><?oxy_comment_start author="reichhoff" timestamp="20180611T103915+0200" comment="(Br. 275 "?>Engels
+                                an Marx, 26. Juni 1867 <?oxy_comment_end?></ref> „Ich denke nämlich
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T150147+0100" comment="(Br. 275 und Erl. 275e)"?>Erl<?oxy_comment_end?>.</note></seg>
+                    wieder die Gnadenwirkungen des Reitens sehr bewährt gefunden, &amp; Sie werden
+                    sehen wie rasch alle Ihre Beschwerden &amp; Bedenklichkeiten gegenüber dem
+                    Getränk verschwinden vor einer Stunde täglichen Reitens. Sie sind dies als
+                    Gynäkolog der Wissenschaft schuldig, denn die Gynäkologie hängt ja aufs Engste
+                    mit dem Reiten od. Gerittenwerden zusammen, &amp; ein Gynäkolog muß also in
+                    jeder Beziehung sattelfest sein.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004311">Schorlemmer</persName> hat sich in Frankfurt auf dem
+                            Naturforschercongreß nach Ihnen umgesehn, behauptet aber Sie wären nicht
+                            da gewesen.</orig><note xml:id="a6fa0d65-6e9f-4625-ba6c-05f6ab7d9aec">Siehe <ref target="B00316"><?oxy_comment_start author="reichhoff" timestamp="20180611T104034+0200" comment="(Br. 307.15–17)"?>L.
+                                u. G. Kugelmann an Marx, 12.<?oxy_comment_end?>8.1867</ref> „Am 17.
+                            d. Mts ... die Naturforscher-Versammlung ...“ und Erl., <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180611T104112+0200" comment="(Br. 330.29–31)"?>Engels
+                                an Marx, 2.<?oxy_comment_end?>9.1867</ref> und <ref target="B00446">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T104146+0200" comment="(Br. 436.65–66)"?>Kugelmann
+                                an Engels, 25.11.1867<?oxy_comment_end?></ref>. </note></seg></p>
+                <p>Also lieber Freund lassen Sie bald von sich hören. <seg type="comment"><orig>Die
+                            Photographie von <persName key="pdrPo.001.004.000005180">Lupus</persName> ist bestellt</orig><note xml:id="bb639d64-b768-442a-a276-b0ff7e3788c5">Siehe <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180611T104401+0200" comment="(Br. 409.87)"?>L.
+                                Kugelmann an Marx, 6.11.1867 <?oxy_comment_end?></ref> „Bitte,
+                            bitte, bewegen Sie ihn doch ...“ und Erl. – <persName key="pdrPo.001.004.000005180">Wilhelm
+                    Wolff</persName>.</note></seg>, &amp; wird fertig sobald schönes Wetter da ist,
+                    wir haben hier im Winter leider selten Tageslicht. Empfehlen Sie mich <seg type="comment"><orig>Ihrer <persName key="pdrPo.001.004.000002615">Frau</persName></orig><note xml:id="ed30b939-748e-4a04-999d-e98c4daa3fe3"><persName key="pdrPo.001.004.000002615">Gertrud
+                        Kugelmann</persName>.</note></seg> unbekannter Weise bestens &amp;</p>
+                <p>beste Grüße von Ihrem</p>
+                <closer>F. E.</closer>
+</div><div type="writingSession"><p>Adresse: <orgName key="ed_mtd_tkh_1z">Ermen &amp; Engels, Manch<hi rendition="#sup">r</hi></orgName>, for F. E. </p>
+                <postscript>
+                    <p><pb/> Den 20. Novbr. Seit ich Obiges schrieb hat <seg type="comment"><orig>Marx mir Ihren Brief an ihn</orig><note xml:id="ef027e87-f993-4b89-8c46-e0e9b9738069">Siehe <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180611T104517+0200" comment="(Br. 409)"?>L.
+                                    Kugelmann an Marx, 6.<?oxy_comment_end?>11.1867</ref> sowie <ref target="B00427"><?oxy_comment_start author="reichhoff" timestamp="20180611T104630+0200" comment="(Br. 417) "?>Karl
+                                    und Laura Marx an Engels, 9.<?oxy_comment_end?>11.1867</ref>
+                                „Einliegendes von Kugelmann.“ und <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180611T104708+0200" comment="(Br. 418.3–9)"?>Engels
+                                    an Marx, 10.11.1867<?oxy_comment_end?></ref> „Brief des guten
+                                Kugelmann“.</note></seg> mitgetheilt &amp; ich ersehe daraus leider
+                        daß in Ihrer Gegend wohl schwerlich auf weitere Preßnotizen zu rechnen ist.
+                        Wäre es nicht möglich, durch Dritte etwa, <hi rendition="#u">Angriffe</hi>
+                        auf das Buch sei es von bürgerlichem, sei es vom reactionären Standpunkt in
+                        Blätter zu bringen? Dies scheint mir ein Auskunftsmittel &amp; die Artikel
+                        wären schon zu beschaffen. Ferner: Wie ist es mit wissenschaftlichen resp.
+                        ganz oder halb belletristischen Zeitschriften?</p>
+                </postscript>
+</div><div type="writingSession"><p><seg type="comment"><orig>Wegen der <bibl sameAs="ed_p2v_klh_hfb" type="periodika">Rhein.
+                                Ztg</bibl></orig><note xml:id="d6662661-1da7-4a37-8d47-3daf836055aa"> Zu den Versuchen, Engels’ Rezension über den ersten Band des „Kapital“
+                            in der „<bibl sameAs="ed_p2v_klh_hfb" type="periodika">Rheinischen
+                                Zeitung</bibl>“ zu veröffentlichen siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180611T104857+0200" comment="(Br. 379"?>Engels
+                                an L. Kugelmann, 12.10.1867 <?oxy_comment_end?></ref> „Um nun Arbeit
+                            zu sparen ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T162842+0100" comment="379d"?>Erl.<?oxy_comment_end?> Siehe
+                            auch <ref target="B00419">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T104936+0200" comment=" (Br. 409.22–36)"?>Kugelmann
+                                an Marx, 6.11.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T162941+0100" comment="409d, 409e, 409f"?>Erläuterungen<?oxy_comment_end?>.</note></seg>
+                    schreibe ich nach Köln für den Fall daß noch immer nichts geschehen sein
+                    sollte.</p>
+                <p><persName key="pdrPo.001.004.000000656">Büchner</persName>
+                    sollte auch Sachen in Blätter bringen können, wegen der Artikel können Sie ihn
+                    im Nothfall an mich verweisen. Lassen Sie ihm keine Ruhe.</p>
+                <p><seg type="comment"><orig>Die
+                            <?oxy_comment_start author="lindenberg" timestamp="20181214T145839+0100" comment="{so im Ms}"?>Photographieen</orig><?oxy_comment_end?><note xml:id="f70545e4-a7ab-4190-8331-7ec4e7659f58">Siehe <ref target="B00419">L.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T105022+0200" comment="(Br. 409.87)"?>Kugelmann
+                                an Marx, 6.11.1867 <?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191112T163132+0100" comment="Z. 74–76"?>oben<?oxy_comment_end?>.</note></seg>
+                    habe ich noch nicht erhalten, sie folgen aber dieser Tage sicher.</p>
+                <p>Nochmals freundschaftlichst</p>
+                <closer>Ihr<lb/>F. E. </closer>
+            </div></body></text></TEI>

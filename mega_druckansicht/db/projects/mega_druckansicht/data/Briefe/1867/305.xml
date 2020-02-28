@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00314" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>305</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 10. August 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4483/L VI 616</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 136 × 211 mm. Die erste Seite hat Marx zu drei Vierteln beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                            Briefes auf der ersten Seite oben rechts mit Bleistift: „19“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2057</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 390.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-08-10"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="next" target="B00315"/>
+                </correspContext>
+                <note>Engels antwortete Marx am 11. August 1867 (siehe <ref target="B00315"><?oxy_comment_start author="lindenberg" timestamp="20190219T142650+0100" comment="306"?>Engels
+                        an Marx, 11.8.1867<?oxy_comment_end?></ref>).</note>
+                <note>Die Beilage zum Brief („Brief von Dronke“) ist nicht überliefert. Siehe
+                    Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:14Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 10 August, 1867.</dateline>
+                    <salute>Lieber Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Einliegenden schönen Brief
+                            von <persName key="pdrPo.001.004.000001214">Dronke</persName></orig><note xml:id="e79bc6fb-9fe3-42e5-be76-b6937292d7c9">Der nicht überlieferte
+                            Brief von Ernst Dronke an Marx, geschrieben zwischen 26. Juli (siehe
+                                <ref target="B00308"><?oxy_comment_start author="reichhoff" timestamp="20180523T114615+0200" comment="Br. 299)"?>E.
+                                Dronke an Marx, 26.7.1867<?oxy_comment_end?></ref>) und 10. August
+                            1867, könnte die Antwort auf einen nicht überlieferten Brief von Marx an
+                            Dronke, geschrieben nach dem 26. Juli 1867, sein. Siehe auch <ref target="B00315"><?oxy_comment_start author="reichhoff" timestamp="20180523T114708+0200" comment="(Br. 306.4–11)"?>Engels
+                                an Marx, 11.8.1867<?oxy_comment_end?></ref>.</note></seg> heut aus
+                    Manchester <subst>
+                        <del rendition="#ow">gehalten</del>
+                        <add place="across">erhalten</add>
+                    </subst>. Er hat ungefähr 14 Tage gebraucht, um mir den guten Rath zu geben,
+                    Wein u. Kaffee zu „verkaufen“, um die Speditionskosten zu decken!</p>
+                <p>Uebrigens war <seg type="comment"><orig>der kleine
+                            Franzose</orig><note xml:id="e000eda7-8573-439d-bdf2-3887bcd8d2c6">Der
+                            Person konnte nicht identifiziert werden.</note></seg> heute wieder hier
+                    u. hat mir gedroht an <seg type="comment"><orig><persName key="ed_z11_fcw_wx">Old Lafargue</persName></orig><note xml:id="ceeb3b42-aafa-4387-8df1-c208dd3ebd84"><persName key="ed_z11_fcw_wx">François Lafargue</persName>.</note></seg> zu
+                    schreiben. Alles, was ich thun konnte, war ihn durch das Versprechen zu
+                    beschwichtigen, daß er <seg type="comment"><orig>Dienstag Morgen</orig><note xml:id="b2685209-23d9-4f9a-b4ce-f28d8f00f377">Dienstag, der 3. August
+                            1867.</note></seg> sein Geld haben solle.</p>
+                <p>Packen <hi rendition="#u">„<bibl sameAs="ed_qkf_ghf_lbb">Courrier
+                        Français</bibl>“</hi> nebst fälligen 2 <seg type="comment"><orig><bibl sameAs="ed_vyj_nhf_lbb">Dipl. Rev.</bibl></orig><note xml:id="f0f28ed6-3aef-483b-91c3-cb37516b552e"><bibl sameAs="ed_vyj_nhf_lbb" type="periodika">The Diplomatic Review (Free
+                                Press)</bibl>. Journal of the Foreign Affairs Committees. Vol. 15.
+                            Nr. 7, 3. Juli und Nr. 8, 7. August 1867. Siehe <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180523T115157+0200" comment="(Br. 330.4–5)"?>Engels
+                                an Marx, 2.9.1867<?oxy_comment_end?></ref> („die versprochnen Free
+                            presses ...“).</note></seg> geht Montag von hier ab.</p>
+                <closer>Salut<lb/>D<lb/>KM </closer>
+            </div></body></text></TEI>

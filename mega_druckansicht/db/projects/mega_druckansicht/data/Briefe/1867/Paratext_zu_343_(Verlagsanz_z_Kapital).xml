@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_ivz_fgq_yfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verlagsanzeige zum „Kapital“</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Die Anzeige gehört zu einer Erläuterung in: <ref target="B00352">Karl Marx an
+                            Friedrich Engels in Manchester. London, Donnerstag, 12. September
+                            1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Nicht vorhanden</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">Druck siehe Zeugenbeschreibung und Textgeschichte</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Börsenblatt für den Deutschen Buchhandel. Leipzig.
+                            Nr. 230, 3. Oktober 1867. S. 2482, Sp. 3.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                    <p><hi rendition="#mPrint">[23 289.] Verkauft wurde an alle Handlungen, die
+                        verlangt haben,</hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c"><hi rendition="#b">Das Kapital.</hi></hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c">Kritik der politischen
+                        Oekonomie.</hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c">Von</hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c"><hi rendition="#b">Karl Marx.</hi></hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c">Erster Band.</hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c"><hi rendition="#b">Productionsprozess des
+                        Kapitals.</hi></hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c">50 Bogen gr. 8. Preis 3⅓ rth.
+                        ord.</hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#c">A cond.-Bestellungen bedauere
+                        ich nicht mehr ausführen zu können.</hi></hi></p>
+                    <p><hi rendition="#mPrint"><hi rendition="#b">Otto Meißner in Hamburg.</hi></hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

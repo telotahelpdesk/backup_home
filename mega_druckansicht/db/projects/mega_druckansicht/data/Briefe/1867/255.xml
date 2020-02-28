@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00264" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>255</idno>Karl Marx an Jenny Marx (Tochter) in London. Hannover, Sonntag, 5.
+          Mai 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>RGASPI</institution>
+            <idno><idno type="shelfmark">f. 1 op. 1 d. 2033</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              140 × 215 mm. Prägung: „Dr. L. Kglm.“ Marx hat beide Seiten vollständig beschrieben.
+              Schreibmaterial: schwarze Tinte.</p>
+            <p>Von unbekannter Hand: auf der ersten Seite oben links mit Bleistift der Vermerk:
+              „3)“.</p>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-WQ9D9IM4">Erstveröffentlichung: in russischer
+              Übersetzung: Из семейной переписки Карла Маркса (1925). S. 164–166. </bibl></witness>
+          <witness><bibl sameAs="zotero-604880-82NZG54F">in der Sprache des Originals: Private
+              letters of Karl Marx. (1929). S. 46/47.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+          <date when="1867-05-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000003074">Jenny Marx (Tochter)</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="B00257"/>
+          <ref type="next" target="B00266"/>
+        </correspContext>
+        <note>Der Brief ist die Antwort auf den Brief von <ref target="B00257"><?oxy_comment_start author="lindenberg" timestamp="20181025T171147+0200" comment="(Br. 246)"?>J.
+            Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref>. Jenny Marx beantwortet den
+          Brief am 8. Mai 1867
+            (<?oxy_comment_start author="lindenberg" timestamp="20181025T171402+0200" comment="(Br. 257)"?><ref target="B00266">J. Marx (Tochter) an Marx, 8.5.1867</ref><?oxy_comment_end?>).</note>
+        <note>Zur überlieferten Beilage zum Brief
+          <?oxy_comment_start author="lindenberg" timestamp="20181106T105002+0100" comment="Z. 5–6, ein Foto von Marx"?>(„The
+          inclosed photogramm“<?oxy_comment_end?>) siehe die Beschreibung (unten) und die Abbildung
+            (<ref target="mega_d2f_ddg_sfb">Link zum Foto</ref>); die weiteren zwei Beilagen zum
+          Brief („the photogram of Madame Tenge“ ,
+          <?oxy_comment_start author="lindenberg" timestamp="20181106T133138+0100" comment="siehe Z. 6–7 und 49"?>„a
+          few lines for Tussy“<?oxy_comment_end?>) sind nicht überliefert.</note>
+        <note>Beschreibung des beigelegten Fotos:</note>
+        <note>Foto von Karl Marx. Hannover, Ende April 1867.</note>
+        <note>RGASPI, Sign. f. 389, op. 1, d. 6. Bl. 3. Positiv-Original. 6,2 × 10 cm. Das Foto hat
+          auf der Rückseite den Firmenaufdruck: „<persName key="ed_ysf_g4r_bdb">Friedr.
+            Wunder</persName> Photograph Hannover Neuerweg, N° 3“.</note>
+        <note>Von unbekannter Hand: oben links mit schwarzer Tinte der Vermerk: „K. M.“</note>
+        <note>Zur Fotobeilage siehe <bibl sameAs="zotero-604880-VZVXHSED">Карл Маркс, Фридрих
+            Энгельс. Собрание фотографий. Москва 1976.</bibl> S. [59] und 125–131. Siehe auch <bibl sameAs="zotero-604880-KRT2P8LR">Familie Marx privat (2005).</bibl> Nr. 3 und S.
+          57/58.</note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten, Veröffentlichung)</term>
+          <term key="ed_rd3_f3s_zdb">Hannover (Königreich/Preußische Provinz)</term>
+          <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:45:27Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> Hannover, 5 Mai 1867.</dateline>
+          <salute>My dear child,</salute>
+        </opener>
+        <p><seg type="comment"><orig>Your letter</orig><note xml:id="d42626cc-4f00-4db3-8c61-3cfdbad0b864">Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180504T085216+0200" comment="246"?>J.
+                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref>.</note></seg> gave me the
+          greatest pleasure. It is written in the true <seg type="comment"><orig>Imperial
+              style</orig><note xml:id="e42472ce-e090-4f4a-b5f2-30ece79eb33b">Anspielung auf einen
+              der Kosenamen Jennys „Kaiser“.</note></seg>. I hope to find you plumb and fresh like a
+          Mayrose.</p>
+        <p>The <seg type="comment"><orig>inclosed photogramm</orig><note xml:id="eb2babb1-9f96-4a31-a3c2-a494c95a9811">Gemeint ist Marx' Foto, das Ende April
+              1867 während des seines Aufenthalts vom 12. April bis 16. April in Hamburg und vom
+              17. April bis etwa 14. Mai 1867 in Hannover bei der Familie Kugelmann (siehe <ref target="B00247"><?oxy_comment_start author="lindenberg" timestamp="20181106T153634+0100" comment="vorher: Erl. zu 234a und 241aa; jetzt: Erl. zu 237"?>Erl.
+                zu Marx an Engels, 13.4.1867</ref><?oxy_comment_end?>) aufgenommen wurde. Siehe <ref target="mega_d2f_ddg_sfb">Foto von Marx</ref>).</note></seg> was to be sent to you
+          for <seg type="comment"><orig>your birthday</orig><note xml:id="d664361e-d0e6-4011-921f-14630a92d3a7">Jenny Marx wurde am 1. Mai 1844 geboren.
+              Siehe auch <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180504T090433+0200" comment="(Br. 242.80–81)., "?>Marx
+                an Engels, 24.4.1867<?oxy_comment_end?></ref>.</note></seg>, but was not ready. It
+          is backed by the photogram of <seg type="comment"><orig>Madame Tenge</orig><note xml:id="e912a3c3-97ef-4d2e-a583-2b3560e55273">Zu <persName key="ed_fsr_4mg_sfb">Therese Tenge</persName> siehe <bibl sameAs="zotero-604880-CVEVDTHA">Franzisca
+                Kugelmann: Kleine Züge zu dem grossen Charakterbild von Karl Marx.</bibl> (RGASPI,
+              Sign. f. 1, op. 3, d. 237. Bl. 9 (Gedruckt in: <bibl sameAs="zotero-604880-B2Y3T2EF">Mohr und General. Erinnerungen an Marx und Engels.</bibl> 4., überarb. Aufl. Berlin
+              1982. <bibl sameAs="zotero-604880-6LD3SMRW">S. 260–263.</bibl>) Auf die Anfrage des
+              Marx-Engels-Instituts betr. u.a. Familie Tenge-Rietberg „noch näheres mitzuteilen“,
+              dabei – schrieb <persName key="pdrPo.001.004.000001065">Ernst Czóbel</persName> –
+              „speziell interessiert uns, ob Nachkommen jener Frau <hi rendition="#u">Tenge</hi> [im
+              Ms. irrtümlich „Denge“], die Marx persönlich gekannt hat, leben“, teilte <persName key="pdrPo.001.004.000002614">Franzisca Kugelmann</persName> mit: „… Die
+              Bekanntschaft mit Marx entstand dadurch, daß meine Mutter ihre Freundin Frau Tenge
+              einlud zu uns zu kommen als Marx zum ersten Mal bei uns war. Sie war von diesem
+              bedeutenden, außergewöhnlichen Mann sehr entzückt, und auch Marx gefiel die
+              interessante, musikalisch hervorragend begabte Frau sehr gut. Sie blieb damals acht
+              Tage in Hannover. Aber sie war eine von Vielen, die Marx in dem großen Freundeskreis
+              meiner Eltern kennen lernte, und auch bei ihr, die in einem sehr großen Familien- und
+              Bekanntenkreis lebte, schien der Eindruck kein nachhaltiger gewesen zu sein, sonst
+              wäre sie gewiß zwei Jahre später als Marx und Jenny bei uns waren einmal
+              herübergekommen um ihn wiederzusehen und auch die Tochter kennen zu lernen, oder hätte
+              sie in ihr sehr gastfreies Haus eingeladen. Der politische Standpunkt der Familie
+              Tenge war dem von Marx absolut entgegengesetzt. Frau Tenge starb früh an einem
+              Lungenleiden, auch Herr Tenge ist schon über 30 Jahre tot. Ihre Kinder waren damals
+              noch klein, sie haben sicher nie von Marx etwas gewußt, und infolge dessen auch
+              keinesfalls die Enkel, wenn solche noch leben sollten, was ich nicht weis.“ Siehe
+                <bibl sameAs="zotero-604880-BHDYW2S5">Marx-Engels-Institut an Marx-Engels-Verlag,
+                18. Juni 1930 [unterschrieben von Czóbel]</bibl> (RGASPI, Sign. f. 71, op. 50, d.
+              99. Bl. 64) und den <bibl sameAs="zotero-604880-M6T6RSIL">Brief von Franzisсa
+                Kugelmann</bibl> an Marx-Engels-Verlag, 30. Juni 1930. S. [5/6] (RGASPI, Sign. f.
+              184, op. 1, d. 21. Bl. 3; Abschrift f. 71, op. 50, d. 99. Bl. 110). Bekannt ist, daß
+              Marx <persName key="ed_fsr_4mg_sfb">Therese Tenge</persName> im Haus der Familie
+              Kugelmann am 7. Mai traf, zeitlich belegt durch ein vierzeiliges Gedicht, das Marx bei
+              dieser Gelegenheit in ihr „Fremdenbuch“ schrieb. Siehe dazu: <bibl sameAs="zotero-604880-CVDAVWDS">Mönke: Die heilige Familie. Zur ersten
+                Gemeinschaftsarbeit von Karl Marx und Friedrich Engels (1972).</bibl> S. 205 u.
+                <bibl sameAs="zotero-604880-2YUZS56Y">Andréas/Mönke: Neue Daten zur "Deutschen
+                Ideologie" (1968).</bibl> S. 10 (Anm. 6). </note></seg> (by-the-by, the aunt of the
+            <seg type="comment"><persName key="ed_akp_k5l_sfb"><orig>Baer’s
+              girls</orig></persName><note xml:id="a3d1171e-844c-49e1-a995-7106a9da3eb1">Die Namen
+              der <persName key="ed_akp_k5l_sfb">Nichten von Therese Tenge</persName> konnten nicht
+              ermittelt werden.</note></seg>, of whom <seg type="comment"><orig>Edgar </orig><note xml:id="cc619df3-54fc-4863-bd1d-69c441c70ebd"><persName key="pdrPo.001.004.000005086">Edgar von Westphalen</persName>.</note></seg> told us so much) who, however, is not
+          so <subst>
+            <del rendition="#s">fair</del>
+            <add place="superlinear">beautiful</add>
+          </subst> in reality, as her shadow indicates. But she is a really noble nature, of a
+          peculiar suavity, frankness, and simplicity of character. Nothing of “falsche Bildung”.
+          She speaks English, French and Italian (she is of Italian descent) perfectly. Although a
+          great musician, she does not kill one with Kunstgeschwätz which, on the contrary, she
+          abhors. She is an atheist and inclines to Socialism, although rather little informed on
+          that point. What distinguishes her above all, is a spontaneous kindness and the absence of
+          all pretentions. I feel <del rendition="#s">it<sic ana="#break-off"/></del> sure, you
+          would in no time become very intimate friends. Mrs Kugelmann is also a nice little
+          woman.</p>
+        <p>To-day, on <seg type="comment"><orig>my birthday</orig><note xml:id="d26018d2-f943-49cf-814f-d1e5db1b4362">Karl Marx wurde am 5. Mai 1818
+              geboren.</note></seg>, I received the first “Bogen”<seg type="comment"><note xml:id="bed6aa59-6ceb-4c65-a0c4-a9c3d8fc1ae5"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Erster Band.</bibl></note></seg> for revision. I fear the
+          book will become rather a little too big. In consequence of the Easter week business, the
+          printing did not commence before 29<hi rendition="#sup">th </hi>April, <persName key="pdrPo.001.004.000003135">Meissner</persName> growing very wild at this suspense.
+          Meanwhile, time has not been lost. <del rendition="#s">her<ex>e</ex>.</del>
+          <seg type="comment"><orig><ref target="mega_g5j_tyf_sfb"><?oxy_comment_start author="lindenberg" timestamp="20181106T142213+0100" comment="Hier stand als Erl. der Abdruck einer Verlagsanzeige vom Kapital, jezt in der Datei:
+Paratext_Verlagsanzeige_z_Kapital_(Dokument)_z_255
+Das Ganze ist noch unbearbeitet!"?>Preliminary
+                notices have been published<?oxy_comment_end?></ref> almost in all German
+              papers.</orig><note xml:id="nklg_lcg_sfb">Welche Zeitungsveröffentlichung zum
+              Erscheinen des ersten Bandes vom „Kapital“ Marx hier meint, konnte nicht ermittelt
+              werden. In seinem Handexemplar der ersten Auflage des ersten Bandes (IISG,
+              Marx-Engels-Nachlaß, Sign. D 1182/1 OK) ist ein von Otto Meißner am 1. Juni 1867
+              veröffentlichter Prospekt überliefert, in dem das Erscheinen des „Kapital“ angekündigt
+              wurde. Siehe <ref target="mega_g5j_tyf_sfb">Verlagsanzeige</ref> und <ref target="B00254">Erl. zu W. Liebknecht an Marx, 25.4.1867.</ref> Diese Anzeige wurde
+              jedoch in der Form weder am 1. Juni noch am 1. Juli 1867 im Leipziger „Börsenblatt für
+              den Deutschen Buchhandel“ gedruckt. Erst am 1. und 9. August 1867 erschien im
+              „Börsenblatt für den Deutschen Buchhandel“ eine <ref target="mega_jdv_ghx_jjb">Anzeige</ref> Meißners im Börsenblatt für den Deutschen Buchhandel. Leipzig. Nr.
+              176, 1. August 1867. S. 1901, Sp. 3, bis S. 1902, Sp. 1; Ebenda. Nr. 183, 9. August
+              1867. S. 1968, Sp. 3.</note>
+          </seg>
+          <persName key="pdrPo.001.004.000002616">Kugelmann</persName> has very many connexions <subst>
+            <del rendition="#ow">who</del>
+            <add place="intralinear">which </add>
+          </subst>were all put into motion.</p>
+        <p>Your birthday was solemnly celebrated here. </p>
+        <p><pb/> Except part of the bourgeoisie, lawyers and such ones, there reigns
+          <?oxy_comment_start author="lindenberg" timestamp="20181025T180512+0200" comment=" at °&gt;&gt; in"?>here <subst>
+            <del rendition="#ow">at</del>
+            <add place="across">in</add>
+          </subst> Hanover<?oxy_comment_end?> a fanatical hatred of the Prussians which much amuses
+          me.</p>
+        <p>I was very glad to hear of your <seg type="comment"><orig>Polish surprise</orig><note xml:id="b2617e53-ac4e-4e8c-a1e7-ad8d2fe88d78">Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180504T091752+0200" comment="(Br. 246.38–45).."?>J.
+                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref> („A few days ago
+              ...“).</note></seg>. If the things have no mercantile value, they have a historical
+          one.</p>
+        <p><seg type="comment"><orig>The delay of war is <del rendition="#s">ob<ex>vious</ex></del>
+              exclusively due to the <persName key="pdrPo.001.004.000004560">Derby</persName>
+              cabinet. As long as it remains at the head of England, Russia will not sound the war
+              signal</orig><note xml:id="edc16b62-a0f6-4fde-89d4-07bff78e7c48"> Siehe <ref target="B00265"><?oxy_comment_start author="reichhoff" timestamp="20180504T091947+0200" comment="(Br. 256.114–123)."?>Marx
+                an Engels, 7.5.1867<?oxy_comment_end?></ref> („Nach meiner Ansicht
+            ...“).</note></seg>—a phrase, by the by, which is conceived in the true <seg type="comment"><orig>Colletian style</orig><note xml:id="c106d83f-2cdc-4c4a-a37a-a0f999561776">Anspielung auf <persName key="pdrPo.001.004.000000956">Collet Dobson Collet</persName>.</note></seg>.</p>
+        <p><seg type="comment"><orig>I cannot exactly state the day of my return. I have still to
+              receive letters from different <subst>
+                <del rendition="#s">part<ex>s</ex></del>
+                <add place="intralinear">sides</add>
+              </subst>. I shall return directly from here via Hamburg (there to have an other
+              interview with my publisher) to London.</orig><note xml:id="d5c2aae2-f327-45a0-b474-fa001c4469e6">Marx kam am 19. Mai 1867 nach London
+              zurück. Siehe <ref target="B00271"><?oxy_comment_start author="reichhoff" timestamp="20180504T092152+0200" comment="(Br. 262.4)."?>Marx
+                an Engels, um den 22.5.1867<?oxy_comment_end?></ref>. Vom etwa 14. bis 18. Mai hielt
+              sich Marx wieder in Hamburg auf, wo er weitere Verhandlungen mit dem Verleger des
+                <bibl sameAs="zotero-604880-PT9GISVC">„Kapital“</bibl>
+              <persName key="pdrPo.001.004.000003135">Otto Meißner</persName>
+          führte.</note></seg></p>
+        <p>I had <del rendition="#s">wr<ex>itten</ex><sic ana="#break-off"/></del>, very soon after
+          my arrival here, <seg type="comment"><orig>written to <persName key="pdrPo.001.004.000002822">Liebknecht</persName></orig><note xml:id="c24894b3-50b8-47f2-86a7-d0316d3a60a1"><ref target="mega_k4k_ppt_gfb">Marx’
+                Brief an Wilhelm Liebknecht, geschrieben zwischen 16. und 25. April 1867</ref>, ist
+              nicht überliefert.</note></seg>. <seg type="comment"><orig>He has answered</orig><note xml:id="ce67b24d-b79a-4a8f-aa10-17abeb143b6e">Siehe <ref target="B00254"><?oxy_comment_start author="reichhoff" timestamp="20180504T092317+0200" comment="(Br. 243).."?>W.
+                Liebknecht an Marx, 25.4.1867<?oxy_comment_end?></ref>.</note></seg>. <seg type="comment"><orig>His <persName key="pdrPo.001.004.000002819">wife</persName></orig><note xml:id="cb0b268d-a014-498d-8cec-a7d9bd34c56e"><persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>.</note></seg> cannot
+          be saved. She is approaching the catastrophe. She sends her compliments to you all and was
+            <del rendition="#s">much<sic ana="#break-off"> </sic></del> cheered up by your
+          letters.</p>
+        <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002103">Hegel’s</persName>
+              photogramm will be looked after. It is not to be had at Hanover.</orig><note xml:id="aab84375-1b4f-48b0-acf6-5accc0f05a49">Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180504T092456+0200" comment="(Br. 246.55–57)"?>J.
+                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref> („If you fall in with a
+              likeness of Hegel's ...“) und Erl. sowie <ref target="B00268"><?oxy_comment_start author="lindenberg" timestamp="20190523T172300+0200" comment="259"?>Marx
+                an L. Marx, 13.5.1867<?oxy_comment_end?></ref> („<orig>Enclosed Hegel</orig> ...“)
+              und Beilage.
+              <?oxy_comment_start author="lindenberg" timestamp="20181107T123919+0100" comment="vorher: S. 000{App_ZBBr.259} und Abbildung S. 000."?><?oxy_comment_end?>Siehe
+              auch <bibl sameAs="zotero-604880-KRT2P8LR">Familie Marx privat (2005).</bibl> S.
+              110.</note></seg> As to <seg type="comment"><orig>his “Philos. of Hist.”</orig><note xml:id="dfdde6a2-4fc4-4dd1-91e4-febbd13117ae">Siehe <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180618T112647+0200" comment="Br. 246.68–69"?>J.
+                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref> („Laura would like to
+              read …“) und Erl. – <bibl sameAs="zotero-604880-K5V8TJKB">Georg Wilhelm Friedrich
+                Hegel: Vorlesungen über die Philosophie der Geschichte. ... Berlin 1837. </bibl> Zum
+              Handexemplar von Marx siehe <bibl sameAs="zotero-604880-WAZZ3DEJ">MEGA<hi rendition="#sup">2</hi> IV/32.</bibl> Nr. 552.</note></seg>, I shall try to find
+          it at London. I consider <seg type="comment"><orig><persName key="pdrPo.001.004.000003076">Cacadou</persName></orig><note xml:id="f3a82569-75d4-4d59-a47a-6d9037505da6">Spitzname von <persName key="pdrPo.001.004.000003076">Laura Marx</persName>. Laura
+              schrieb an ihren Vater am 8. Mai 1867. (<ref target="B00267"><?oxy_comment_start author="reichhoff" timestamp="20180504T092725+0200" comment="(Br. 258)."?>L.
+                Marx an Marx, 8.5.1867<?oxy_comment_end?></ref>).</note></seg> might have written
+          some lines long since, but excuse her with her equestrian studies.</p>
+        <p>And now, with my best wishes to all, Adio, my dear <seg type="comment"><orig>“Joe”</orig><note xml:id="e2261eae-e1d8-4bc1-8df1-2de27b300534">Spitzname<?oxy_comment_start author="lindenberg" timestamp="20181107T122053+0100" comment="vorher: Kosename von Jenny Marx’ (Tochter). Vermutlich „Joe“ entweder als „Vorgesetzter“ (Provinzialismus des Nordens Englands) oder als „Liebchen bzw. Schatz“ (schottisch) gemeint. (Siehe Muret–Sanders: Enzyklopädisches englisch-deutsches und deutsch-englisches Wörterbuch. Grosse Ausgabe. Tl. 1. Englisch-Deutsch. Berlin-Schöneberg. o.D. S. 1194.) Siehe auch J. Marx (Tochter) an Marx, 28.4.1867 (Br. 246.45)
+MEW meint: nach der Gestalt &quot;Jo&quot; aus Louisa May Alcotts Roman &quot;Little Women&quot;"?>
+              von Jenny Marx (Tochter)<?oxy_comment_end?>. Siehe auch <ref target="B00257"><?oxy_comment_start author="reichhoff" timestamp="20180504T092846+0200" comment="(Br. 246.45).."?>J.
+                Marx (Tochter) an Marx, 28.4.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+        <closer>Your <hi rendition="#u">Old One</hi>.</closer>
+        <postscript>
+          <p>I add a few lines for Tussy. <pb/></p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00436" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>426</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Dienstag, 19. November 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 1 d. 2120</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            139 × 296 mm. Liebknecht hat die ersten drei Seiten vollständig
+                            beschrieben, die vierte Seite ist leer. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von Marx’ Hand: Einfügung auf der ersten Seite:
+                            „<?oxy_comment_start author="lindenberg" timestamp="20190307T155048+0100" comment="(Z. 10–11)"?>(He
+                            means you!)<?oxy_comment_end?>“ . Marx hatte diese Notiz gemacht, als er
+                            den Brief an Engels am 27. November 1867
+                            <?oxy_comment_start author="lindenberg" timestamp="20190307T163607+0100" comment=" (siehe Br. 441.44)"?>übersandte<?oxy_comment_end?>.</p>
+                        <p>Von unbekannter Hand (vermutlich von <persName key="pdrPo.001.004.000004017">David Borisovič Rjazanov</persName>):
+                            auf der ersten Seite oben links mit Blaustift die Jahresangabe: „1867“. </p>
+                        <p/>
+                    </physDesc>
+                </msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName><placeName>Leipzig</placeName><date when="1867-11-19"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Zur Datierung: die Jahresangabe stützt sich auf den Zusammenhang des
+                    Liebknechts Briefes mit seinem Brief an Marx vom 12. November 1867 (siehe <ref target="B00431"><?oxy_comment_start author="lindenberg" timestamp="20190307T154238+0100" comment="Br. 421.8–9, 16 und 19–20"?>W.
+                        Liebknecht an  Marx, 12.11.1867<?oxy_comment_end?></ref>) und mit Marx’
+                    Briefen an Engels vom 27. November (siehe <ref target="B00451"><?oxy_comment_start author="lindenberg" timestamp="20190307T154551+0100" comment="Br. 441.31–36, 40–41"?>Marx
+                        an Engels, 27.11.1867<?oxy_comment_end?></ref>) sowie an Louis Kugelmann vom
+                    30. November 1867 (siehe <ref target="B00463"><?oxy_comment_start author="lindenberg" timestamp="20190307T154911+0100" comment="Br. 453.16–19"?>Karl
+                        und E. Marx an L. und Fr. Kugelmann,
+                    30.11.1867</ref><?oxy_comment_end?>).</note>
+                <note>Liebknecht beantwortet einen nicht überlieferten Brief von Marx, geschrieben
+                    zwischen 12. und 19. November 1867  (siehe <ref target="B00431"><?oxy_comment_start author="lindenberg" timestamp="20190307T154238+0100" comment="Br. 421.8–9, 16 und 19–20"?><?oxy_comment_start author="lindenberg" timestamp="20190307T154659+0100" comment="(siehe Br. 421 sowie Z. 3, 12 und 20)" mid="6"?>W.
+                        Liebknecht an  Marx,
+                    12.11.1867<?oxy_comment_end?></ref><?oxy_comment_end mid="6"?>).</note>
+                <note>Die Beilage zum Brief („the enclosed letter“) ist nicht überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:47Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Nov. 19.</dateline>
+                    <salute>Dear Williams!</salute>
+                </opener>
+                <p>I hope you will come next spring, as you promised.</p>
+                <p>Please, to forward the enclosed letter. They sent me an
+                    “address”. <hi rendition="#u">There</hi>, I think, the pamphlets may be
+                    sold.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000001296"><expan>Ecc<ex>arius</ex></expan></persName> shall send a
+                            nice letter, pol. and social, in about 3 weeks,</orig><note xml:id="ca4a917e-a065-4e5a-9dec-a4f320fd9e04">Siehe <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180611T123612+0200" comment="(Br. 421.8–10)"?>W.
+                                Liebknecht an Marx, 12.11.1867<?oxy_comment_end?></ref> „Tell
+                            Eccarius ...“.</note></seg>
+                    <hi rendition="#u">unless countermanded</hi>. It is for the proof-number, the
+                    day for the appearance of which is not yet fixed. You can tell him, <hi rendition="#u">for the beginning</hi> he will get 5 sh. a letter. <hi rendition="#uu">That I warrant.</hi> Afterwards more. If E-s was to write a
+                    Review of the “<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Capital</bibl>” it would serve two ends—the paper and the work. <add place="superlinear"><?oxy_comment_start author="lindenberg" timestamp="20190307T155348+0100" comment="{Marx’ Text: times-10}(He means you!){/Marx’ Text: times-10}"?>(He
+                        means you!)<?oxy_comment_end?></add></p>
+                <p><seg type="comment"><orig>The freaks of the <persName key="pdrPo.001.004.000001631">Poeta laureatus</persName> have rather
+                            <pb/> astonished me.</orig><note xml:id="b616806e-30e4-4792-ae9b-9ef3e6a84c0d"><persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath</persName>, als
+                            „lorbeergekrönter Dichter“; vielleicht in Anspielung auf die Schlußverse
+                            von <persName key="pdrPo.001.004.000002158">Georg Herweghs</persName>
+                            Gedicht aus dem Jahr 1842 „Die Partei. An Ferdinand Freiligrath“ („<hi rendition="#u">Ich</hi> hab' gewählt, <hi rendition="#u">ich</hi>
+                            habe mich entschieden, / und <hi rendition="#u">meinen</hi> Lorbeer
+                            flechte die <hi rendition="#u">Partei</hi>! ). Freiligrath kam in den
+                            Genuß einer hohen Geldsumme aus einer Spendensammlung, initiert im April
+                            1867 von einer Gruppe seiner Barmener Freunde (<persName key="ed_vm2_mqs_tjb">Friedrich August Boelling</persName>, <persName key="ed_q24_jss_tjb">Ludwig Elbers</persName>, <persName key="pdrPo.001.004.000001449">Ernst von Eynern</persName>, <persName key="pdrPo.001.004.000003428">Reinhard Neuhaus</persName>, <persName key="ed_i5k_f4p_ycb">Emil Rittershaus</persName>, <persName key="ed_nyy_lrs_tjb">Eduard Schink</persName> und <persName key="pdrPo.001.004.000004424">Carl Siebel</persName>) –
+                            Offensichtlich teilte Marx die durch <persName key="ed_eyg_crj_sx">Engels</persName> erhaltene Information über Freiligrath (siehe
+                                <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180611T124218+0200" comment="Br. 418.45–59)"?>Engels
+                                an Marx, 10.11.1867<?oxy_comment_end?></ref> „Ad vocem Freiligrath:
+                            ...“) in seinem nicht überlieferten Brief an Wilhelm Liebknecht mit.
+                            Siehe auch <ref target="B00253"><?oxy_comment_start author="reichhoff" timestamp="20180611T124315+0200" comment="(Br. 242)"?>Marx
+                                an Engels, 24.4.1867<?oxy_comment_end?></ref>  „Freiligrath blamirt
+                            sich ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191120T162138+0100" comment="242u."?>Erl.<?oxy_comment_end?>
+                        </note></seg> Did you not put a 0 too much? 6000 instead of 600? Indeed, how
+                        <hi rendition="#u">could</hi> he spend such a sum? If it is true, he <hi rendition="#u">must have</hi> tried his hands at the <hi rendition="#u">Bourse</hi>—like other modern poets. <hi rendition="#u">At all events send
+                        me </hi><seg type="comment"><orig><hi rendition="#u">his effusion about
+                                    <persName key="pdrPo.001.004.000002500">Kinkel</persName>’s</hi>
+                            American begging journey</orig><note xml:id="f139190b-8e7e-4b49-b6a9-bf3b32c75330">Offensichtlich Ferdinand
+                            Freiligrath: An Joseph Weydemeyer. In: Die Revolution. Eine Zeitschrift
+                            in zwanglosen Heften. New York 1852. H. 2. Das Gedicht <persName key="pdrPo.001.004.000001631">Freiligraths</persName> war gegen die
+                            von <persName key="pdrPo.001.004.000002500">Gottfried Kinkel</persName>
+                            in den USA 1851/1852 betriebene deutsche Anleihe gerichtet. Siehe dazu
+                            Karl Marx: Freiligrath gegen Kinkel. (MEGA<hi rendition="#sup">2</hi>
+                            I/11. S. 215/216, 618/619 und 781–783.) Der Text des Gedichts „An Joseph
+                            Weydemeyer“ siehe ebenda. S. 784–790. – Zu Kinkels
+                            <?oxy_comment_start author="lindenberg" timestamp="20190311T133700+0100" comment="urspr. Agitationsreise"?>Reise<?oxy_comment_end?>
+                            in die USA siehe <ref target="B00273"><?oxy_comment_start author="reichhoff" timestamp="20180611T124413+0200" comment="(Br. 264)"?>S. L.
+                                Borkheim an Engels, 30.5.1867<?oxy_comment_end?></ref> „Nächste
+                            Woche ...“  und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191120T162531+0100" comment="264.81–83{y}"?>Erl.<?oxy_comment_end?> </note></seg>,
+                    I want to publish it, for the mutual satisfaction of both
+                    “<?oxy_comment_start author="lindenberg" timestamp="20190307T164936+0100" comment="Anspielung auf ..."?>schöne
+                    Seelen<?oxy_comment_end?>”. Don’t forget it.—</p>
+                <p>Is <expan><persName key="pdrPo.001.004.000003114">Mazz<ex>ini</ex></persName></expan> for the Prussian Alliance? It half seem
+                    so to me.</p>
+                <p><seg type="comment"><orig>As soon, as the book comes, I shall bring it myself to
+                                <persName key="pdrPo.001.004.000000981">Contzen</persName>.</orig><note xml:id="baabe472-e14b-4885-9923-9b9e86d72fe5"> Siehe <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180611T124452+0200" comment="(Br. 421.20–22). – "?>W.
+                                Liebknecht an Marx, 12.11.1867<?oxy_comment_end?></ref> „If you
+                            could prevail ...“. bezüglich: <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+                        1867.</bibl></note></seg></p>
+                <p>The <persName key="pdrPo.001.004.000000470">Blindianum</persName> you mention, I had not heard of yet; I shall try to
+                    get it. Poor <hi rendition="#u"><orgName key="pdrPo.001.015.000090331"><persName key="pdrPo.001.004.000004635">Struve</persName></orgName></hi>, he
+                    lives in great want, I pity him; he is an harmless and <hi rendition="#u">honest</hi> fool; but this <persName key="pdrPo.001.004.000003884">Rasch</persName> is the most abominable Humbug, that <pb/> ever was born.
+                    As to <persName key="pdrPo.001.004.000000470">Blind</persName>, he is not
+                    dangerous; nobody knows him—not even in Baden.</p>
+                <p>Ask <seg type="comment"><orig><persName key="pdrPo.001.004.000001296">E-s</persName></orig><note xml:id="f1dd0fa2-bfd5-4b63-ad1d-d8353e3681ef"><persName key="pdrPo.001.004.000001296">Johann Georg
+                            Eccarius</persName>.</note></seg>, whether he could not take a few
+                    shares of <seg type="comment"><orig><bibl sameAs="ed_umz_dxj_tgb" type="periodika">our paper</bibl></orig><note xml:id="fea3ca86-fc50-4a93-9ca3-fecf8a940350"><bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches
+                                Wochenblatt.</bibl> Siehe <ref target="B00404">W.
+                                <?oxy_comment_start author="reichhoff" timestamp="20180611T124544+0200" comment="(Br. 394.50–55)"?>Liebknecht
+                                an Marx, 19.10.1867<?oxy_comment_end?></ref> „Apropos.  ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191120T165948+0100" comment="394.50."?>Erl.<?oxy_comment_end?> </note></seg>
+                    (they are of three classes 1) à
+                        5 r<ex><?oxy_comment_start author="lindenberg" timestamp="20190311T113846+0100" comment="@rt{ZS_Taler} 2)"?>eichstaler<?oxy_comment_end?></ex>
+                    2) à 1 r<ex>eichstaler</ex> 3) à ½ r<ex>eichstaler</ex>). We have very little
+                    money, and in order to make the thing possible, we must now work either for
+                    nothing or for starvation wages. (I take
+                        20 <?oxy_comment_start author="lindenberg" timestamp="20190311T114155+0100" comment="@rt{SZ_Taler}"?>r<ex>eichstaler</ex><?oxy_comment_end?>
+                    à month as Ed. in chief) But our <hi rendition="#u">prospects</hi> are most
+                    excellent.—</p>
+                <p><hi rendition="#u">If</hi> you can get <seg type="comment"><orig><persName key="pdrPo.001.004.000002862">Loch</persName><?oxy_comment_start author="lindenberg" timestamp="20190311T133036+0100" comment="{so im Ms.}"?>.s<?oxy_comment_end?>
+                            adress</orig><note xml:id="d24e1645-d4d0-435b-a1da-edf7b5be883f">Siehe
+                                <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180611T124612+0200" comment="(Br. 421.25)"?>W.
+                                Liebknecht an Marx, 12.11.1867 <?oxy_comment_end?></ref> „Is Lochner
+                            still well? ...“ und Erl.</note></seg>, send it.</p>
+                <p><seg type="comment"><orig>My children</orig><note xml:id="ecfda496-6147-4f99-a29e-2f7d791c318a"><persName key="pdrPo.001.004.000002818">Alice</persName> und <persName key="pdrPo.001.004.000002820">Gertrud
+                        Liebknecht</persName>.</note></seg> are well, except a little cold.
+                        <persName key="pdrPo.001.004.000002818">Alice</persName> sends her love to
+                        <persName key="pdrPo.001.004.000003068">Tussy</persName>, whom she has not
+                    forgotten.</p>
+                <p><hi rendition="#u">My love to all of you</hi></p>
+                <closer>Your old<lb/>Miller. <pb/></closer>
+            </div></body></text></TEI>

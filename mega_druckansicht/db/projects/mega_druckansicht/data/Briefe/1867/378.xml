@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00388" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>378</idno>Karl Marx an Louis Kugelmann in Hannover. London, Freitag, 11. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">C 340/C 99</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 230 × 179 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin vergee“. Alle vier Seiten hat Marx vollständig beschrieben. Schreibmaterial: schwarze Tinte.</p><p>Von Louis Kugelmanns Hand: auf der ersten Seite oben in der Mitte mit schwarzer Tinte der Vermerk: „<hi rendition="#u">a. 13/10 cop</hi>“.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2091</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-8HKY7X9Q">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+              Briefe von Karl Marx an Dr. L. Kugelmann (1902)<?oxy_custom_end?>.
+            S. 93–96.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName><date when="1867-10-11"/></correspAction><correspAction type="received"><persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+          <placeName key="ed_evx_hkv_cbb">Hannover</placeName></correspAction>
+        <correspContext>
+          <ref type="prev" target="B00363"/>
+          <ref type="prev" target="B00380"/>
+          <ref type="next" target="B00391"/>
+        </correspContext>
+        <note>Marx beantwortet Kugelmanns Briefe vom 29. September und 8. Oktober 1867 (siehe <ref target="B00363"><?oxy_comment_start author="lindenberg" timestamp="20190220T151259+0100" comment="Br. 354"?>L.
+            Kugelmann an Marx, 29.9.1867</ref><?oxy_comment_end?> und <ref target="B00380"><?oxy_comment_start author="lindenberg" timestamp="20190220T151323+0100" comment="370"?>L.
+            Kugelmann an Marx, 8.10.1867</ref><?oxy_comment_end?>).</note>
+        <note>Kugelmann antwortete Marx am 13. Oktober 1867
+          <?oxy_comment_start author="lindenberg" timestamp="20190220T151342+0100" comment=" Br. 381"?>(siehe
+            <ref target="B00391">L. Kugelmann an Marx, 13.10.1867</ref><?oxy_comment_end?>).</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:11Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/> 11 Octob. 1867.</dateline>
+          <salute>Lieber Kugelmann,</salute>
+        </opener>
+        <p>D’abord besten Dank <seg type="comment"><orig>für Ihre zwei Briefe</orig><note xml:id="ed988088-5d7b-4852-a2ec-286a4a2af131">Siehe <ref target="B00363"><?oxy_comment_start author="reichhoff" timestamp="20180604T115156+0200" comment="(Br. 354"?>L.
+                u. G. Kugelmann an Marx, 29.<?oxy_comment_end?>9.1867</ref> und <ref target="B00380">L.Kugelmann an Marx,
+                <?oxy_comment_start author="reichhoff" timestamp="20180604T115248+0200" comment="und 370"?>8.10.1867<?oxy_comment_end?></ref>.</note></seg>.
+          Sie machen mir grosses Vergnügen, wenn <hi rendition="#u">Sie so oft schreiben als Ihre
+            Zeit erlaubt</hi>. Nur müssen Sie nicht auf <hi rendition="#u">strenge
+            Gegenleistung</hi> rechnen, weil meine Zeit schon ohnehin <subst>
+            <del rendition="#s">durch</del>
+            <add place="superlinear">für die</add>
+          </subst> vielseitige Correspondenz, die ich nach verschiednen Seiten hin leisten muß, kaum
+          hinreicht.</p>
+        <p>Zunächst, ehe ich auf <seg type="comment"><orig>mein Buch</orig><note xml:id="a275a1c4-6ed9-40fc-a10a-155427648164"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg> zu
+          sprechen komme, etwas Vorläufiges oder ein vorläufiges Etwas. Ich fürchte, daß <persName key="pdrPo.001.004.000000542"><hi rendition="#u">Borkheim</hi></persName><hi rendition="#u"> malgré lui</hi> auf dem Punkt steht, mir einen sehr üblen Streich zu
+          spielen. <seg type="comment"><orig>Er läßt seine „Rede zu Genf“ in 4 Sprachen drucken,
+              französisch, deutsch, englisch u. russisch.</orig><note xml:id="b27c257d-6325-46fd-8369-ac785b692151"><bibl sameAs="zotero-604880-BJZTG8Y6" type="primary">[Sigismund Ludwig Borkheim:] Ma Perle Devant le Congrès de Genève.
+                Par un Diplomate Prolétaire. Bruxelles 1867.</bibl> – Siehe <ref target="B00369">Marx an Engels,
+                <?oxy_comment_start author="reichhoff" timestamp="20180604T115435+0200" comment="(Br. 360.104–105"?>4.<?oxy_comment_end?>10.1867</ref>
+              und <ref target="B00384"><?oxy_comment_start author="reichhoff" timestamp="20180604T120519+0200" comment="374.5–6"?>9.10.1867<?oxy_comment_end?></ref>
+              sowie <ref target="B00340">Erl. zu
+                <?oxy_comment_start author="reichhoff" timestamp="20180914T105258+0200" comment=" 331b"?>Marx
+                an Engels, 4.9.1867<?oxy_comment_end?></ref>.</note></seg> Er hat sie ausserdem mit
+          einer barocken u. geschmacklos mit Citaten überhäuften Vorrede ausgestattet. Unter uns –
+          und im Parteiinteresse – muß ich Ihnen nun reinen Wein einschenken. Borkheim ist ein
+          tüchtiger Mann u. sogar homme d’esprit. Aber, wenn er die Feder in die Hand nimmt, Wehe!
+          Aller Takt u. Geschmack fehlen ihm. Zudem alle erforderliche Vorbildung. Er gleicht den
+          Wilden, die sich das Gesicht zu verschönern glauben, wenn sie es mit allen möglichen
+          schreienden Farben tättowiren. Banalität und Kladderadatsch springen ihm immer zwischen
+          die Beine. Fast jede Phrase setzt sich bei ihm instinktiv die Schellenkappe auf. Wäre er
+          <pb/> nicht so grundeitel, so hätte ich die Publikation verhindern u. ihm klar machen
+          können, wie es sein Glück war, daß man ihn <seg type="comment"><orig>zu Genf <hi rendition="#u">nicht verstand,</hi></orig><note xml:id="cfb50a22-1422-49cf-a63b-724c6918c44a"> Zur Sigismund Ludwig Borkheims Rede auf
+              dem Friedenskongreß in Genf (siehe <ref target="B00313">Erl. zu S. L. Borkheim an
+                Marx, 5.8.1867</ref>) siehe <ref target="B00340"><?oxy_comment_start author="reichhoff" timestamp="20180604T120749+0200" comment="(Br. 331.4–6"?>Marx
+                an Engels, 4.<?oxy_comment_end?>9.1867</ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190730T165538+0200" comment="331b"?>Erl.<?oxy_comment_end?>
+              und <ref target="B00355">S. L.
+                <?oxy_comment_start author="reichhoff" timestamp="20180604T120839+0200" comment="(Br. 346.8–18"?>Borkheim
+                an Engels, 17.9.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20190730T165630+0200" comment="346h"?>Erl.<?oxy_comment_end?></note></seg>
+          sondern nur einige gute Points seines speech. <seg type="comment"><orig>Andrerseits bin
+              ich ihm zum Dank verpflichtet wegen seines Auftretens in der <persName key="pdrPo.001.004.000004961">Vogtschen</persName> Affäre</orig><note xml:id="a9239d0c-d7cf-4886-a29c-9525912ef7b0">Als Marx die Arbeit an seinem Pamphlet
+              „Herr Vogt“ (MEGA<hi rendition="#sup">2</hi> Bd. I/18. S. 55–339) begann, wandte er
+              sich im Februar 1860 an den ihm damals unbekannten Sigismund Ludwig <persName key="pdrPo.001.004.000000542">Borkheim</persName> und bat, ihm mitzuteilen, was er
+              über eine unter dem Namen „Schwefelbande“ (siehe <ref target="B00206">Marx an Engels,
+                8.12.1866</ref>) bekannte Flüchtlingsgesellschaft wisse, die 1849/1850 in Genf
+              existierte. Am 9. und 12. Februar 1860 antwortete Borkheim mit zwei ausführlichen
+              Briefen. Siehe MEGA<hi rendition="#sup">2</hi> III/10. Br. 131 und 140.
+              <?oxy_comment_start author="lindenberg" timestamp="20190221T151826+0100" comment="{kommentar-lb}“Schwefelbande-Erl. schon in 1866 ?“{/kommentar-lb}"?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="14"?></note><?oxy_comment_end?></seg><?oxy_custom_end mid="14"?>
+          u. ist er mein persönlicher Freund. Es sind in seiner Rede etc einige Phrasen, <subst>
+            <del rendition="#s">die er<sic ana="#break-off"/></del>
+            <add place="intralinear">worin</add>
+          </subst> er mir angehörige Ansichten <hi rendition="#u">verkladderadatscht</hi>. Nun wird
+          es für meine Feinde (<seg type="comment"><orig><persName key="pdrPo.001.004.000004961">Vogt</persName> hat schon in der <bibl sameAs="ed_ohr_rkj_tgb" type="periodika">N.
+                Zürcher Z.</bibl>
+              <hi rendition="#u">mich</hi> als den Geheimverfasser der Rede angedeutet)</orig><note xml:id="a53b6bbe-4796-46e5-9286-5fb83d84f108">Marx bezieht sich auf die Notiz „Zweite
+              Sitzung des Friedenskongresses &lt;Korrespondenz&gt;“ über den Kongreß der Friedens-
+              und Freiheitsliga (siehe <ref target="B00313">Erl. zu
+                <?oxy_comment_start author="lindenberg" timestamp="20190731T133355+0200" comment="304g und 304h"?>S.
+                L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>), die am 13. September 1867
+              in der „<bibl sameAs="ed_ohr_rkj_tgb" type="periodika">Neuen Zürcher-Zeitung</bibl>“,
+              Nr. 254, S. 1213/1214, veröffentlicht worden war und in der die Rede <persName key="pdrPo.001.004.000000542">Borkheims</persName> als sein „<hi rendition="#u">von
+                Kennern Herrn Marx selbst zugeschriebnes Exercitium</hi>“ genannt wurde. In dieser
+              Notiz ist auch <persName key="pdrPo.001.004.000004961">Carl Vogts</persName> Protest
+              gegen Borkheims Angriffe gegen <persName key="pdrPo.001.004.000004342">Schulze-Delitzsch</persName> erwähnt. Marx notierte auszugsweise Borkheims Rede
+              nach dieser Nummer der Zeitung in seinem Notizbuch von 1866–1868, S. [9] (IISG,
+              Marx-Engels-Nachlass, Sign. B 100; MEGA<hi rendition="#sup">2</hi> IV/18. S. 357).
+              Siehe auch <ref target="B00366"><?oxy_comment_start author="lindenberg" timestamp="20190731T141601+0200" comment="(Br. 356.17 und Erl.) -- ist Brief 357"?>S. L. Borkheim
+                an Marx, 30.9.1867<?oxy_comment_end?></ref>.</note></seg> ein sehr schönes Spiel
+          sein, statt <subst>
+            <del rendition="#s">von meinem Buch</del>
+            <add place="intralinear">mein <hi rendition="#u">Buch</hi></add>
+          </subst> anzugreifen, mich für den Herrn <hi rendition="#u"><persName key="pdrPo.001.004.000000542">Borkheim</persName></hi>, seine Narrheiten u.
+          Persönlichkeiten, verantwortlich zu machen. Sollte etwas der Art geschehn, so müssen Sie
+          durch <persName key="ed_ajj_jzj_bdb">Warnebold</persName> etc in die Zeitungen, die Ihnen
+          zur Verfügung stehn, kurze Artikelchen einrücken, worin Sie diese Taktik aufdecken u.,
+          ohne irgend den Borkheim zu beleidigen, doch gradezu heraussagen, wie nur <del rendition="#s">die</del> schlechte Absicht oder äusserste Unkritik <subst>
+            <del rendition="#s">zwei S<sic ana="#break-off"/></del>
+            <add place="intralinear">so Disparates</add>
+          </subst> identificiren können. Die barocke und confuse Manier, worin sich in Borkheims
+          Kopf unsre Ansichten wiederspiegeln, (sobald er nicht spricht, sondern schreibt) <del rendition="#s">er</del> bietet natürlich dem gemeinen Preßgang die willkommenste
+          Handhabe zur Offensive u. kann sogar ein Mittel für ihn werden meinem Buch indirekt zu
+          schaden.</p>
+        <p>Sollte jedoch, was ich kaum hoffen darf, da <persName key="pdrPo.001.004.000000542">Borkheim</persName> sein Kind <add place="superlinear">wohlverpackt</add> allen
+          Zeitungen zuschickt, die Presse darüber schweigen, so unterbrechen Sie nur <hi rendition="#u">in keiner Weise </hi>dieß <hi rendition="#u">feierliche
+            Stillschweigen</hi>.</p>
+        <p>Wäre <persName key="pdrPo.001.004.000000542">B.</persName> nicht
+          persönlicher Freund, so würde ich ihn öffentlich desavouiren. Sie begreifen meine <hi rendition="#u">fausse position</hi> u. zugleich <pb/> meinen Aerger. Wenn man ein mühsam
+          ausgearbeitetes Werk (u. es ist vielleicht nie ein Werk der Art unter schwierigeren
+          Verhältnissen geschrieben worden) dem Publicum vorlegt, um die Partei so hoch als möglich
+          zu heben u. durch die Art der Darstellung selbst die Gemeinheit zu entwaffnen, wenn dann
+          im selben Augenblick ein Parteimitglied in der bunten Jacke u. mit der Schellenkappe sich
+          dicht neben einen auf den Markt drängt u. faule Aepfel u. Eier provocirt, die einem selbst
+          u. der Partei an den Kopf fliegen können!</p>
+        <p><seg type="comment"><orig>Ihre Manöver gegen <persName key="pdrPo.001.004.000004961">Vogt</persName> zu Genf haben mich sehr satisfait</orig><note xml:id="c11e1bb1-1d0d-4d3f-bf99-95a3cb05a5a6">Siehe <ref target="B00363"><?oxy_comment_start author="reichhoff" timestamp="20180604T122206+0200" comment="(Br. 354.39–49"?>L.
+                Kugelmann an Marx, 29.<?oxy_comment_end?>9.1867</ref>, und <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180604T122403+0200" comment="360.31–43"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref>.</note></seg>. Es freut mich, daß mein
+          Buch Ihnen gefällt.</p>
+        <p>Was Ihre Frage betrifft:</p>
+        <p><persName key="pdrPo.001.004.000002387">Ernest Jones</persName> hatte in Irland <subst>
+            <del rendition="#s">vom</del>
+            <add place="superlinear">als</add>
+          </subst> Parteimann zu <hi rendition="#u">Irländern</hi> zu sprechen, also, da das grosse
+          Grundeigenthum dort identisch mit dem <hi rendition="#u">Eigenthum Englands an Irland
+          </hi>ist, <hi rendition="#u">gegen</hi> das grosse Grundeigenthum. Sie müssen in Hustings
+          speeches engl. Politiker nie etwas Prinzipielles suchen, sondern nur das zum <hi rendition="#u">nächsten</hi> Zweck Brauchbare.</p>
+        <p><seg type="comment"><orig><hi rendition="#u">Peonage</hi> ist Vorschuß von Geld auf
+              künftige Arbeit. Es geht dann mit diesen Vorschüssen, wie beim gewöhnlichen Wucher.
+              Der Arbeiter bleibt nicht nur sein ganzes Leben der Schuldner, also Zwangsarbeiter des
+              Gläubigers, sondern dieß Verhältniß vererbt sich auf die Familie u. spätere
+              Generation, die also thatsächlich dem Gläubiger <hi rendition="#u">gehört</hi>.</orig><note xml:id="cdffb1d3-2ac8-4f6d-a5e6-24119d9648fa">Siehe <ref target="B00380"><?oxy_comment_start author="reichhoff" timestamp="20180604T122603+0200" comment="(Br. 370.49)"?>L.
+                Kugelmann an Marx, 8.10.1867<?oxy_comment_end?></ref>. Über die Peonage siehe <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+                1867</bibl>. S. 131. Fußnote 41. (MEGA<hi rendition="#sup">2</hi> II/5.
+              S. 121.28–44.)</note></seg></p>
+        <p><seg type="comment"><orig>Das Fertigmachen meines zweiten Bandes</orig><note xml:id="be0c99e6-1ca6-46dd-9a5f-1c1303560432">Siehe
+                <?oxy_comment_start author="lindenberg" timestamp="20181018T173909+0200" comment="Erl. 6b."?><ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+              15.1.1866.</ref><?oxy_comment_end?> – Die Manuskripte für eine Fortsetzung des
+              „Kapital“ in einem zweiten und dritten Band, an denen Marx bis zum Ende seines Lebens
+              weiterarbeitete, wurden erst nach seinem Tod von Engels veröffentlicht.
+              <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+              zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3.
+              S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431
+              und II/15. S. 917–926. Siehe auch <ref target="B00185"><?oxy_comment_start author="reichhoff" timestamp="20180531T091816+0200" comment="(Br. 180.33–42"?>Marx
+                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref>. und <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190725T135522+0200" comment="360dd"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ich kann weder Bd. II fertig machen
+              …“ und
+              Erl<?oxy_comment_start author="lindenberg" timestamp="20190730T170522+0200" comment="vorher: Karl Marx. Das Kapital. Buch 2. Siehe Erl. 6b {Jg. 1866, „Das Kapital“, Buch 2} und Marx an Engels, 4.10.1867 (Br. 360.129–134) und Erl. 360ee"?>.<?oxy_comment_end?></note></seg>
+          hängt grossentheils ab von dem Erfolg des ersten. Dieser ist mir nöthig, um einen
+          Buchhändler in England zu finden u. <hi rendition="#u">ohne letzteren</hi> bleiben meine
+            <add place="superlinear">materiellen</add> Verhältnisse so schwierig u. störend, daß ich
+          weder Zeit noch Ruhe zum raschen Fertigmachen finden kann. <pb/> Dieß sind natürlich
+          Dinge, die ich Herrn <persName key="pdrPo.001.004.000003135">Meißner</persName>
+          <hi rendition="#u">nicht</hi> zu wissen wünsche. Es hängt also jezt von dem Geschick u.
+          der Thätigkeit meiner Parteifreunde in Deutschland ab, ob der II. Band lange oder kurze
+          Zeit zum Erscheinen braucht. Gediegene Kritik – sei es von Freund oder Feind – kann nur
+          nach u. nach erwartet werden, da ein so umfangreiches u. theilweis schwieriges Werk Zeit
+          zum Durchlesen u. Verdauen fordert. Aber der nächste Erfolg ist nicht durch gediegene
+          Kritik bedingt, sondern, um es platt herauszusagen, durch Lärmschlagen, durch Rühren der
+          Trommel, welches die Feinde auch zwingt zu sprechen. Es ist <del rendition="#s">noch</del>
+          zunächst nicht so wichtig <hi rendition="#u">was</hi> gesagt wird als <hi rendition="#u">daß</hi> gesagt wird. <hi rendition="#u">Vor allem keine Zeit verlieren!</hi></p>
+        <p><seg type="comment"><orig>Ihren lezten Brief habe ich an Engels geschickt</orig><note xml:id="dc5b4e22-b968-4d5a-9b41-04196e05d5bf">Den Brief von <ref target="B00380">L.<?oxy_comment_start author="reichhoff" timestamp="20180604T122922+0200" comment="(Br. 370)"?>
+                Kugelmann an Marx, 8.<?oxy_comment_end?>10.1867</ref> übersandte Marx an Engels am
+              10. Oktober  (<ref target="B00386"><?oxy_comment_start author="reichhoff" timestamp="20180604T123031+0200" comment="(siehe Br. 376.3–8)"?>Marx
+                an Engels, 10.10.1867<?oxy_comment_end?></ref>).</note></seg>, damit er Ihnen die
+          nöthigen Winke zukommen lasse. Er kann besser über mein Buch schreiben als ich selbst.</p>
+        <p>Ihrer lieben <seg type="comment"><orig><persName key="pdrPo.001.004.000002615">Frau</persName></orig><note xml:id="nimf_jkk_dhb"><persName key="pdrPo.001.004.000002615">Gertrud Kugelmann</persName>.</note></seg> meine
+          herzlichsten Grüsse. <seg type="comment"><orig>Ich werde ihr einen dieser Tage ein Recept
+              zum Lesen des Buchs schicken</orig><note xml:id="b9f4d0e8-62b7-4b17-aaca-f59acc597edf">Siehe <ref target="B00363">L. u.
+                <?oxy_comment_start author="reichhoff" timestamp="20180604T123204+0200" comment="(Br. 354.76–83)"?>G.
+                Kugelmann an Marx, 29.9.<?oxy_comment_end?>1867</ref> und <ref target="B00463"><?oxy_comment_start author="reichhoff" timestamp="20180604T123509+0200" comment="(Br. 453.26–30)"?>Marx
+                u. E. Marx an L. u. Fr. Kugelmann,
+          30.11.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+        <closer>Ihr<lb/>K. M.</closer>
+        <postscript>
+          <p>Halten Sie mich au fait von allem, was in Dtschld mit Bezug auf Bd. I vorfällt.</p>
+        </postscript>
+</div><div type="writingSession"><p><seg type="comment"><orig>Da <persName key="pdrPo.001.004.000004646"><add place="superlinear">Paul</add>
+                <hi rendition="#u">Stumpf</hi></persName><hi rendition="#u"> (Mainz)</hi> mir einen
+              Brief geschrieben, worin er <persName key="pdrPo.001.004.000000542">Borkheims</persName> Rede „<hi rendition="#u">meine</hi>“ Rede nennt</orig><note xml:id="f2b69f72-7025-4912-9306-bd48571f02e2">Siehe <ref target="B00364"><?oxy_comment_start author="reichhoff" timestamp="20180604T123959+0200" comment="(Br. 355.2–5)"?>P.
+                Stumpf an Marx, 29.9.1867<?oxy_comment_end?></ref>.</note></seg>, u. da ich in
+          diesem Augenblick <hi rendition="#u">keine Zeit</hi> habe, an St. zu schreiben, so
+          schreiben Sie ihm doch gefälligst, klären ihn auf, empfehlen ihm <hi rendition="#u">Stillschweigen</hi> beim Erscheinen der B.schen Brochüre. Stumpf selbst wird fatal,
+          wenn er die Feder in die Hand nimmt – entre nous! </p>
+      </div></body></text></TEI>

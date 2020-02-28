@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00437" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>427</idno>Otto Meißner an Karl Marx in London. Hamburg, Dienstag, 19. November
+          1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 3352/D VI 43 Fotosign. 8880&lt;c&gt;. Archivsignatur des
+                SPD-Archivs: II 10 N°48&lt;c&gt;.</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+              287 × 232 mm. Die ersten zwei Seiten hat Meißner vollständig beschrieben, die dritte
+              und die vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von Engels’ Hand: auf der vierten Seite unten kopfstehend mit Bleistift der Vermerk:
+              „19 Nov. 67 M. arbeitet am II Bd“.</p>
+            <p/>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 5 d. 1768</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-JGYK6A2M">Erstveröffentlichung: Dlubek, Skambraks:
+              „Das Kapital“ von Karl Marx in der deutschen Arbeiterbewegung (1967).
+            S. 120.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000003135">Otto Meißner</persName>
+          <placeName>Hamburg</placeName>
+          <date when="1867-11-19"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+        <note>Wiedergabe von
+          <?oxy_comment_start author="lindenberg" timestamp="20190311T135223+0100" comment=" (Z. 4, 15–16, 17–18)"?>drei
+          Beilagen zum Brief<?oxy_comment_end?> siehe unten. Zur Beilage 2 siehe auch
+          <?oxy_comment_start author="lindenberg" timestamp="20190311T135255+0100" comment="427.15–16."?>Erl.<?oxy_comment_end?>
+          Zu den anderen Beilagen („Recensionen“) siehe
+          <?oxy_comment_start author="lindenberg" timestamp="20190311T140204+0100" comment="siehe Z. 12–13 und Erl. {427e}"?>Erl.<?oxy_comment_end?>
+        </note>
+        <note>Meißner beantwortet einen nicht überlieferten Brief von Marx
+          (<?oxy_comment_start author="lindenberg" timestamp="20190311T140312+0100" comment="Z. 3–8"?>„Den
+          Hieb laß ich nicht sitzen“<?oxy_comment_end?>), geschrieben zwischen 10. und 19. November
+          1867. Siehe <ref target="B00428"><?oxy_comment_start author="lindenberg" timestamp="20190311T140749+0100" comment="Br.  418.24–27"?>Engels
+            an Marx, 10.11.1867<?oxy_comment_end?></ref> („ein paar Zeilen von Dir“).</note>
+        <note>Vermutlich übersandte Marx den Brief und die Beilagen mit einem nicht überlieferten
+          Brief an Engels, geschrieben zwischen 19. und 23. November 1867 (siehe <ref target="B00448"><?oxy_comment_start author="lindenberg" timestamp="20190311T141040+0100" comment="Br. 438.4–7"?>Engels
+            an Marx, 26.11.1867<?oxy_comment_end?></ref> und Erl.).</note>
+        <note>Wiedergabe der Beilagen: </note>
+        <note>1. <ref target="mega_ajf_gx2_pgb">Carl Siebel an Otto Meißner, 26. August 1867.</ref>
+        </note>
+        <note>Originalhandschrift: IISG, Kollektion Kleine Korrespondenz (Siebel).</note>
+        <note>2. <ref target="mega_i22_4x2_pgb">Inserat über den ersten Band des „Kapitals“</ref>
+          mit dem Auszug aus der am 30. Oktober 1867 veröffentlichten Rezension von Friedrich
+          Engels: Karl Marx. Das Kapital. Erster Band. Hamburg, Meissner, 1867, 784 Seiten. In: Die
+          Zukunft. Berlin. Nr. 254 vom 30. Oktober 1867. Beilage. S. 5. Sp. 1/2.</note>
+        <note>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. L 4909/L VII 28. Fotosign.
+          8880&lt;d&gt;. Archivsignatur des SPD-Archivs: II 10 N°48&lt;b&gt;.</note>
+        <note>Erstveröffentlichung: <bibl sameAs="zotero-604880-59JL5TBZ">Eike Kopf:
+            Wie sahen die deutschen Ausgaben des Marxschen „Kapitals“ tatsächlich aus
+            (1867–1894).</bibl> S. 965/966.</note>
+        <note>3. <ref target="mega_y2y_by2_pgb">Inserat über den ersten Band des
+          „Kapitals“.</ref></note>
+        <note>Originalhandschrift: IISG, Marx-Engels-Nachlass, Sign. L 4909/L VII 28. Fotosign.
+          8880&lt;c&gt;. Archivsignatur des SPD-Archivs: II 10 N°48&lt;c&gt;.</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:48Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> Hamburg 19/11 67</dateline>
+          <salute>Mein lieber Herr Doctor!</salute>
+        </opener>
+        <p>Den Hieb laß ich nicht sitzen, <persName key="pdrPo.001.004.000004424">Siebel</persName>
+          schickte mir einige Wochen <seg type="comment"><orig>vor dem Erscheinen</orig><note xml:id="bbcf9070-1ec7-4ce1-840c-a5b6216050be">
+              <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1. Buch 1. Hamburg
+                1867.</bibl> Zum Erscheinen des ersten Bandes des „Kapital“ siehe <ref target="B00352"><?oxy_comment_start author="reichhoff" timestamp="20180611T130203+0200" comment="(Br. 343)"?>Marx
+                an Engels, 12.9.1867 <?oxy_comment_end?></ref> „... die letzte Correctur nach
+              Leipzig geschickt!“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191121T162257+0100" comment=" 343d."?>Erl<?oxy_comment_end?>.
+              – Siehe auch: Siehe
+                <?oxy_comment_start author="lindenberg" timestamp="20181018T173909+0200" comment="Erl. 6b."?><ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+              15.1.1866.</ref><?oxy_comment_end?></note></seg>
+          <seg type="comment"><orig>einliegenden Brief</orig><note xml:id="nmsq_5bs_dgb">Siehe ZB,
+              Beilage 1. Zu Siebels Brief an Otto Meißner vom 26. August 1867 siehe auch <ref target="B00476">C.
+                <?oxy_comment_start author="reichhoff" timestamp="20180611T132703+0200" comment="(Br. 467.17–18)"?>Siebel
+                an Marx, 8.12.1867<?oxy_comment_end?></ref> „Daß ich von Meißner ...“.</note></seg>.
+          Da war ich doch gezwungen, <seg type="comment"><orig>sein Ex.</orig><note xml:id="b6402775-386a-4691-98b7-6367c16c8cca">Zum Widmungsexemplar des ersten Bandes
+              des „Kapital“ für Carl Siebel siehe <ref target="B00429"><?oxy_comment_start author="reichhoff" timestamp="20180611T132833+0200" comment="(Br. 419.2–3)"?>Marx
+                an C. Siebel, 10.11.1867<?oxy_comment_end?></ref> und Erl.</note></seg> einstweilen
+          anzuhalten.</p>
+        <p>Die Exemplare an <persName key="ed_vtr_13k_bdb">Dr.
+            Weiss</persName> u. <persName key="pdrPo.001.004.000002822">Liebknecht</persName> sind
+          ebenso pünktlich besorgt wie die übrigen, das für letzteren hatte in seiner Abwesenheit
+          vorläufig <seg type="comment"><orig>ein Freund</orig><note xml:id="fe3f0e31-400f-4c6d-9969-f5ebc926e47d">Die Person konnte nicht identifiziert
+              werden.</note></seg> in Beschlag genommen.</p>
+        <p>Von <persName key="pdrPo.001.004.000005086">E. von
+            Westphalen</persName> wurde mir das betr. Packet uneröffnet zurückgesandt, d.h. wegen
+          falscher Adresse. Ich habs nun nach Derwitz gesandt.</p>
+        <p>Nächstens schicke ich Ihnen <seg type="comment"><orig>Recensionen der <hi rendition="#u"><bibl sameAs="ed_ytz_mpg_sjb" type="periodika">Frankfurter Bank u.
+                  Handelszeitung</bibl></hi><hi rendition="#u">,</hi> der <hi rendition="#u"><bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Hannov. Volkszeitung</bibl></hi><hi rendition="#u">,</hi> u. der <hi rendition="#u"><bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl></hi>,</orig><note xml:id="c0b19036-a7fd-481d-be34-beab93a458ca">Die <bibl sameAs="ed_ytz_mpg_sjb" type="periodika">„Frankfurter Bank- und Handelszeitung“</bibl> konnte nicht
+              ermittelt werden.  Zu Engels’ Rezensionen über den ersten Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ in der „<bibl sameAs="ed_gn5_3hf_lbb" type="periodika">Frankfurter Zeitung und
+              Handelsblatt</bibl>“ und in der „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ siehe <ref target="B00428">Erl. zu Engels an Marx, 10.11.1867</ref>
+              „<?oxy_comment_start author="lindenberg" timestamp="20191113T123444+0100" comment="418i"?>Frankfurter
+              Börsenzeitung<?oxy_comment_end?>“ und zu <ref target="B00389">Engels an L. Kugelmann,
+                12.10.1867</ref>
+              „<?oxy_comment_start author="lindenberg" timestamp="20191113T123627+0100" comment="379d"?>Um
+              nun Arbeit zu sparen ...<?oxy_comment_end?>“. – Zu Louis Kugelmanns Notiz über den
+              ersten Band des „Kapital“ in der hannoverischen „Deutschen Volkszeitung“ vom
+              10. November 1867 siehe <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180611T133012+0200" comment="(Br. 409.38–40)"?>L.
+                Kugelmann an Marx, 6.<?oxy_comment_end?>11.1867</ref> „Ich selbst wagte ...“, <ref target="B00432"><?oxy_comment_start author="reichhoff" timestamp="20180611T133109+0200" comment="(Br. 422.6–7)"?>Marx
+                an Engels, 14.11.1867<?oxy_comment_end?></ref> „Kugelmann hat mir ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191121T104914+0100" comment="409h."?>Erl.<?oxy_comment_end?> 
+              Siehe auch <bibl sameAs="zotero-604880-HFV3ZMC4" type="secondary">Czóbel: Friedrich
+                Engels. Sieben Rezensionen ...</bibl> In: Marx-Engels-Archiv. Frankfurt am Main.
+              Bd. 2. 1927. S. 436.</note></seg> alle sehr gut. <seg type="comment"><orig>Ich habe
+              sie einem Mitredacteur der <bibl sameAs="ed_hgx_bhk_tgb" type="periodika">Hamburger
+                Börsenhalle</bibl> zur Benutzung übergeben.</orig><note xml:id="d98b77f2-5102-41b0-95c7-714ac327910c">Die oben genannten drei Rezensionen des
+              ersten Bandes des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ als Quelle benutzend, veröffentlichte die Hamburger „<bibl sameAs="ed_hgx_bhk_tgb" type="periodika">Börsen-Halle</bibl>“ am 14. Februar 1868
+              eine eigene Besprechung des „Kapital“. (Siehe Börsen-Halle. Hamburgische Abendzeitung
+              für Handel, Schiffahrt und Politik. Nr. 17 348, 14. Februar 1868. Abendausgabe.
+              S. 2.<?oxy_comment_start author="lindenberg" timestamp="20191121T112522+0100" comment="Für das Jahr 1868 läßt sich die „Börsen-Halle“ in keiner deutschen Bibliothek nachweisen"?>).<?oxy_comment_end?>
+              – Siehe <bibl sameAs="zotero-604880-HFV3ZMC4" type="secondary">Czóbel: Friedrich
+                Engels. Sieben Rezensionen ...</bibl> S. 436; <bibl sameAs="zotero-604880-JGYK6A2M" type="secondary">Dlubek, Skambraks: „Das Kapital“  von Karl Marx in der deutschen
+                Arbeiterbewegung (1967)</bibl>. S. 128/129; <bibl sameAs="zotero-604880-QU5F3MZV" type="secondary">Kopf: Die Wirkungsgeschichte von Karl Marx’ „Kapital“ …</bibl>
+              S. 307. – Der „Mitredacteur“ konnte nicht ermittelt werden.</note></seg>
+          <seg type="comment"><orig>Aus der Redaction der Zukunft habe die Einlage abgedruckt, die
+              ich zu weiteren <pb/> Inseraten zu benutzen gedenke.</orig><note xml:id="e2e39ab6-331c-4c7b-94fb-bdbfbd4e4f54">Siehe ZB, Beilage 2. – Da dieser
+              Inseratsentwurf mit dem Auszug aus der in der „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ veröffentlichten Rezension Engels’ über den ersten
+              Band des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ (siehe
+                <ref target="B00389"><?oxy_comment_start author="lindenberg" timestamp="20191121T114718+0100" comment="379d"?>Erl. zu
+                Engels an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref>) auch in Meißners Brief
+              an Engels vom 25. Februar 1868 (IISG, Marx-Engels-Nachlass, Sign. L 4909 / L VII 28)
+              besprochen wurde, ordnete man ihn im Archiv diesem Brief zu und bewahrte ihn zusammen
+              mit diesem auf. Aus dem selben Grund erhielt er beim Fotografieren des
+              Marx-Engels-Nachlasses im SPD-Archiv 1923/1924 die Fotosignatur des Meißnerschen
+              Briefs vom 25. Februar 1868, nämlich 8880&lt;d&gt;. Diese Zuordnung der Beilage zum
+              vorliegenden Brief wurde entsprechend der Forschungsliteratur übernommen. Siehe <bibl sameAs="zotero-604880-JGYK6A2M" type="secondary">Dlubek, Skambraks: „Das Kapital“
+                von Karl Marx in der deutschen Arbeiterbewegung (1967).</bibl>
+            S. 120/121.</note></seg> Ich möchte jedoch vorher Ihre Meinung darüber hören. <seg type="comment"><orig>Circa 50 andere Inserate mit bloßer Titelangabe habe bereits im
+              September u. October erlassen.</orig><note xml:id="c07944de-e5cc-4120-a27b-4813c1dcb1be">Siehe ZB, Beilage 3 und die vorstehende
+              Erl. sowie  <ref target="B00377"><?oxy_comment_start author="lindenberg" timestamp="20191121T151550+0100" comment="367c"?>Erl.
+                zu C. Siebel an Marx, vor dem 8.10.1867<?oxy_comment_end?></ref> und zu <ref target="B00378"><?oxy_comment_start author="lindenberg" timestamp="20191121T151645+0100" comment="368e"?>Erl.
+                zu Engels an Marx, 8.10.1867<?oxy_comment_end?>
+              </ref>.</note></seg></p>
+        <p>Haben Sie die Güte mir wo möglich umgehend zu sagen, ob Sie mit
+          solcher Anzeige einverstanden sind oder lieber nur den Titel angezeigt wünschen.</p>
+        <p><seg type="comment"><orig>An <persName key="pdrPo.001.004.000000981">Dr.
+                Contzen</persName> habe ein Ex. gesandt.</orig><note xml:id="e4840567-78a5-49c2-b0ba-0822466ec0b8">Siehe W. Liebknecht an Marx, <ref target="B00431"><?oxy_comment_start author="reichhoff" timestamp="20180611T133445+0200" comment="(Br. 421.20–22"?>12.<?oxy_comment_end?>11.1867</ref>
+              und <ref target="B00436"><?oxy_comment_start author="reichhoff" timestamp="20180611T133543+0200" comment="426.19)."?>19.11.1867.<?oxy_comment_end?></ref>.</note></seg>
+          Mir wurde von einem <seg type="comment"><orig>Stuttgarter</orig><note xml:id="c1c5c0f0-0845-42d7-976f-0b1c7ef7831e">Die Person konnte nicht identifiziert
+              werden.</note></seg> eine Übersetzung von <seg type="comment"><orig><persName key="pdrPo.001.004.000004455">Simon</persName> travail pp</orig><note xml:id="c6132a3f-99fe-4672-8ba3-c9c030e3e7b7"><bibl sameAs="zotero-604880-ZU7FFYAE" type="primary">Jules Simon: Le travail. Paris 1866</bibl>.</note></seg> angeboten.
+          Sie werden die Sachen gelesen haben u. mir am besten rathen können. Besondere Lust dazu
+          habe ich nicht.</p>
+        <p>Sehr erfreulich war mirs zu hören, daß Sie <seg type="comment"><orig>am zweiten
+              Bande</orig><note xml:id="be33e541-6c8b-45f9-93a3-a20d24fddf29">Siehe
+                <?oxy_comment_start author="lindenberg" timestamp="20181018T173909+0200" comment="Erl. 6b."?><ref target="B00007">Erl. zu Marx an J. Ph. Becker, zw. 9. u.
+              15.1.1866.</ref><?oxy_comment_end?> – Die Manuskripte für eine Fortsetzung des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ in einem zweiten und
+              dritten Band, an denen Marx bis zum Ende seines Lebens weiterarbeitete, wurden erst
+              nach seinem Tod von Engels veröffentlicht.
+              <?oxy_comment_start author="lindenberg" timestamp="20190509T175923+0200" comment="{Erl. über „Das Kapital“ in: Marx an J. Ph. Becker, zw. 9. u. 15.1.1866, Jahrgang 1866, 6.5–6. = Passagen zum 2. u. 3. Band:}
+Die Bücher bzw. Bände 2 und 3 des „Kapitals“, an denen Marx noch bis zum Ende seines Lebens weiter arbeitete, wurden erst nach seinem Tod von Engels veröffentlicht. Siehe auch Vorarbeiten dazu: Karl Marx: Zweites Buch. Der Zirkulationsprozeß des Kapitals. Anfang des ersten Kapitels; derselbe: Thematisch ausgewählte Quellenauszüge für Buch 2 des „Kapitals“; derselbe: Der Zirkulationsprozeß des Kapitals (Manuskript IV) (MEGA2 II/4.3. S. 32–43, 44–56, 285–363), und Karl Marx: Manuskripte zum zweiten Buch des „Kapitals“ 1868 bis 1881 (MEGA2 II/11. S. 1–828); derselbe: Das Kapital. Kritik der politischen Ökonomie. Zweites Buch. Redaktionsmanuskript von Friedrich Engels 1884/1885 (MEGA² II/12. S. 1–483); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 2. Hamburg 1885 (MEGA2 II/13. S. 1–486). – Manuskripte zum dritten Buch: Karl Marx: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit. Die Profitrate (Erster Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Zweiter Entwurf); derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Dritter Entwurf); derselbe: Gesetze der Profitrate; derselbe: Differentialrente. Auszüge aus Exzerptheften; derselbe: Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Drittes Buch. Erstes Kapitel. Verwandlung des Mehrwerts in Profit und der Rate des Mehrwerts in Profitrate (Vierter Entwurf) (MEGA2 II/4.3. S. 7–9, 10–13, 14–31, 57–77, 235–243, 244–280, 383–396) sowie Manuskripte zum zweiten und dritten Buch: Karl Marx: Über Mehrwert- und Profitrate, Gesetze der Profitrate, Kostpreis und Umschlag des Kapitals; derselbe: Kommentierte Auszüge aus Adam Smith: An Inquiry into the nature and causes of wealth of nations … Book 1 (ebenda. S. 78–234, 364–382), und Karl Marx: Manuskripte zum dritten Buch des „Kapitals“ 1871 bis 1882 (MEGA2 II/14. S. 3–162); Druckfassung: Karl Marx: Das Kapital. Kritik der politischen Ökonomie. Bd. 3. Hamburg 1894 (MEGA2 II/15. S. 1–859). Ausführlicher zur Entstehungsgeschichte des zweiten und dritten Buches bzw. Bandes siehe MEGA2 II/4.3. S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431 und II/15. S. 917–926. Siehe auch Wolf: Otto Meißner – der erste Verleger des „Kapitals“ von Karl Marx. S. 836–843. – Nach der Herausgabe des zweiten und dritten Bandes beabsichtigte Engels auch, das vierte Buch des „Kapitals“, „Zur Geschichte der Theorie“ bzw. „Geschichte der Politischen Oekonomie seit Mitte des 17. Jahrhunders“ (siehe Marx an Kugelmann, 13. Oktober 1866, Br. 180.39–41, und Marx an Sigfrid Meyer, 30. April 1867, Br. 247.34–35) herauszugeben, das nach den ursprünglichen Marx’ Plänen den dritten Band des „Kapital“ bilden sollte. Als viertes Buch des „Kapital“ betrachtete Marx den theoriegeschichtlichen Teil des ökonomischen Manuskripts 1861–1863, der unter dem Titel „Theorien über den Mehrwert“ erst von Karl Kautsky in drei Bänden 1905–1910 veröffentlicht wurde. Siehe Karl Marx: Zur Kritik der politischen Ökonomie &lt;Manuskript 1861–1863&gt;. (MEGA2 II/3.1–6). Zur Engels’ redaktionellen Arbeit daran siehe Friedrich Engels. Inhaltsverzeichnis zu Marx’ Manuskript 1861–1863 (MEGA2 II/14. S. 345/346 und 1022–1024); derselbe: Zum Inhalt von Buch 4 des „Kapitals“ (ebenda. S. 348 und 1033–1036)"?>Ausführlich<?oxy_comment_end?>
+              zur Entstehungsgeschichte dieser Bände siehe MEGA<hi rendition="#sup">2</hi> II/4.3.
+              S. 421–469; II/11. S. 846–851; II/12. S. 497–523; II/13. S. 497–545; II/14. S. 381–431
+              und II/15. S. 917–926. Siehe auch <ref target="B00185"><?oxy_comment_start author="reichhoff" timestamp="20180531T091816+0200" comment="(Br. 180.33–42"?>Marx
+                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref>. und <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190725T135522+0200" comment="360dd"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Ich kann weder Bd. II fertig machen
+              …“
+              <?oxy_comment_start author="lindenberg" timestamp="20191121T161041+0100" comment="vorher: Karl Marx. Das Kapital. Buch 2. – Zum zweiten Buch bzw. Band des „Kapital“ siehe Erl. zu Marx an J. Ph. Becker, zwischen 9. un 15.1.1866 6b.{Das Kapital}"?>und
+              Erl<?oxy_comment_end?>. </note></seg> arbeiten.</p>
+        <closer>Mit herzlichem Gruß<lb/>Ihr Otto Meissner <pb/></closer>
+      </div>
+    </body>
+  </text>
+</TEI>

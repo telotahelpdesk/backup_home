@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_xd2_bqw_vfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">France</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-11-19</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich?:] France. In: Northern Star. Vol. X. Nr. 518, 25. September 1847. S. 7.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">France.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1847-09-25</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X</biblScope>
+                        <biblScope unit="issue">518</biblScope>
+                        <biblScope unit="page">7</biblScope>
+                        <biblScope unit="column">2</biblScope>
+                    </seriesStmt>                    
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels?</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel?</placeName>
+                <date notBefore="1847-09-17" notAfter="1847-09-23">?</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">France.</hi></hi></head>
+                <p>Louis-Philippe has appointed his son, the Duke d’Aumale, Governor-General of
+                    Algeria, in the room of Marshal Bugeaud. An official visit, paid by the Marquis
+                    of Normandby to M. Guizot, has excited considerable discussion. Lord Normanby is
+                    said to have formally communicated to M. Guizot a despatch of Lord Parlmerston
+                    to Lord Ponsonby, your Ambassador at Vienna, declaring (as my letter of Thursday
+                    stated), the resolve of Great Britain to suffer no attack on the independence of
+                    any of the Italian states by Austria. The <hi rendition="#i">Union
+                        Monarchique</hi> states, that Ministers have resolved to form a camp of
+                    40.000 men at the foot of the Pyrenees. At a patriotic dinner given at Cernay,
+                    in the Upper Rhine, M. Rissler, the Mayor of the town, proposed the health of
+                    the King in these words: — “To the King of the French, to whom France confided
+                    seventeen years ago the guardianship of her destinies and glory! May he soon
+                    respond to our long expectation!” “That toast”, says the <hi rendition="#i">Courrier d’Alsace</hi>, “was received with cries
+                    of <hi rendition="#i">La Marseillaise</hi>!” The councils-general of the
+                    eighty-six departments are holding their customary session. The agitation for
+                    parliamentary reforms has in many instances found expression in these bodies.
+                    This has excited the wrath of the government, and the <hi rendition="#i">Journal
+                        des Débats</hi> attacks them for exceeding in this their proper and
+                    legitimate functions. The <hi rendition="#i">National</hi> expresses its
+                    approbation of the movement which is taking place throughout the provinces, in
+                    the shape of reform dinners, after the example of the great demonstration at the
+                    Château Rouge, in Paris. “At the very moment we are writing”, says the <hi rendition="#i">National</hi>, —</p>
+                <p>“A numerous and patriotic reunion is taking place at Saint Quentin. It
+                    follows after that of Soissons, of which we have already spoken. M. Odillon
+                    Barrot, who is present at that banquet, delivered at the preceeding dinner a
+                    remarkable speech, which, we regret, reached us too late for publication. We
+                    congratulate the chief of the ‘the Left’ upon his activity during
+                    the interval of the Parliamentary sessions. He fulfils a duty, and gives an
+                    excellent example. While we applaud the language of M. Odillon Barrot, with
+                    respect to the duties imposed on us by our position as public men, we wish to
+                    make some observations on the concluding sentence of his speech. ‘Our
+                    greatest and our most alarming trials’, said M. Odillon Barrot, ‘are
+                    not to be found in our past history, but are to be apprehended from our
+                    future.’ If it be as a friend of the dynasty that he dreads coming events,
+                    he is, perhaps, right. The social movement in Europe is not in favour of
+                    dynasties, but we do not consider that fact to be a serious cause of uneasiness
+                    for men devoted to the greatness and prosperity of a country. Why, then, should
+                    France experience any alarm at a renovation become necessary? * * * * We hear
+                    the reply; and we have already heard it so frequently from timid men, that we
+                    repeat it without fearing to be mistaken — the public is afraid of
+                    communism. This spectre has replaced that of 1793. It has grown large in the
+                    shade, and report has given to it the most alarming proportions. It is a torrent
+                    which is dragging the entire operative class into an abyss. On the first change
+                    in our political organisation, this torrent will overflow, and overthrow in its
+                    passage property, family, and country. We should wish to show how many
+                    operatives could be found to <choice><sic>sacrifice,</sic><corr cert="high">sacrifice</corr></choice> family, and country!”</p>
+                <p>The <hi rendition="#i">National</hi> concludes by stating that, —</p>
+                <p>“The communists are not to be feared”; that “all that is
+                    required is the general amelioration of the social condition of France, the
+                    repression and punishment of iniquity, and the re-establishment of
+                    justice”; that “the distinction of classes should be effaced, and
+                    the labourer be placed in possession of his rights. Such is the object of the
+                    renovation announced and promised by the present aspect of public affairs.”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

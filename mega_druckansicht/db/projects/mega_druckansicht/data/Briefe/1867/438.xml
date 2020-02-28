@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00448" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>438</idno>Friedrich Engels an Karl Marx in London. Manchester, Dienstag, 26.
+          November 1867</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 1653/D III 424</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+              126 × 202 mm. Engels hat die erste Seite vollständig, die zweite zur Hälfte
+              beschrieben. Schreibmaterial: schwarze Tinte.</p>
+            <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand:
+              Nummerierung des Briefes bzw. der beschriebenen Seiten: <hi rendition="#u">„</hi>59,1<hi rendition="#u">“ </hi>bzw. „58,2“ (gestrichen), „348,1<hi rendition="#u">“ </hi>bzw. „348,2“. Redaktionelle Vermerke. Eine Streichung.</p>
+            <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand:
+              Nummerierung des Briefes: „930“.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 1 d. 2118</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+              Bw 3 (1913).<?oxy_custom_end?> S. 428/429.</bibl></witness>
+        </listWit></sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName>Manchester</placeName>
+          <date when="1867-11-26"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName>London</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="next" target="B00451"/>
+        </correspContext>
+        <note>Vermutlich beantwortet Engels einen nicht überlieferten Brief von Marx, geschrieben
+          zwischen 19. und 23. November 1867. Siehe <ref target="B00437"><?oxy_comment_start author="lindenberg" timestamp="20190306T153211+0100" comment="Br. 427, Erl. 438a"?>O.
+            Meißner an Marx, 19.11.1867<?oxy_comment_end?></ref>  sowie <ref target="B00451"><?oxy_comment_start author="lindenberg" timestamp="20190306T153022+0100" comment="Br. 441.3"?>Marx
+            an Engels, 27.11.1867</ref><?oxy_comment_end?>.</note>
+        <note>Marx antwortete Engels am 27. November 1867 (<ref target="B00451"><?oxy_comment_start author="lindenberg" timestamp="20190306T153348+0100" comment=" (Br. 441)"?>Marx
+            an Engels 27.11.1867</ref><?oxy_comment_end?>).</note>
+        <note>Zur Beilage („Inl. den Lohgerber zurück“) zum Brief siehe
+          <?oxy_comment_start author="lindenberg" timestamp="20190306T155731+0100" comment="438.20"?>Erl.<?oxy_comment_end?>
+        </note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:58Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:35:02+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener>
+          <dateline><pb/> Mchr 26 Nov 67.</dateline>
+          <salute>Lieber Mohr</salute>
+        </opener>
+        <p><seg type="comment"><orig>Den versprochenen Brief in quo tua res agebatur, habe ich nicht
+              erhalten.</orig><note xml:id="f8dec08b-4e4f-435f-8e8d-c4085ce1f348">Siehe <ref target="B00451"><?oxy_comment_start author="reichhoff" timestamp="20180612T101939+0200" comment="(Br. 441.3–5)"?>Marx
+                an Engels, 27.11.1867<?oxy_comment_end?></ref> „Was die Privatangelegenheiten angeht
+              ...“  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Vermutlich
+              ist der von Engels erwähnte, nicht überlieferte Brief von Marx, geschrieben vor dem
+              26. November 1867<?oxy_custom_end?> (zw. 19. und 23. November 1867) gemeint. – quo tua
+              res agebatur (lat.) in dem Deine Sache behandelt wurde</note></seg></p>
+        <p><seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Meißner</persName>s
+              Vorschlag, neu zu annonciren mit Auszügen aus den Kritiken,</orig><note xml:id="e6b841d5-b9b5-4631-9813-36fa1ce1722b">Siehe <ref target="B00437"><?oxy_comment_start author="reichhoff" timestamp="20180612T102038+0200" comment="(Br. 427.15–17)"?>O.
+                Meißner an Marx, 19.11.1867 <?oxy_comment_end?></ref> und Wiedergabe der dortigen
+              Beilagen 2 und 3 (ZB).</note></seg> war der den ich Dir machen wollte sobald <seg type="comment"><orig>die <expan><persName key="pdrPo.001.004.000004424">Siebel</persName>schen</expan> Artikel (d.h. die ihm von mir gegebnen)
+              erschienen.</orig><note xml:id="b597ed39-fc50-43b4-953f-468d88fabffe">Zu Engels’
+              Rezensionen über den ersten Band des „Kapital“ in der „<bibl sameAs="ed_gn5_3hf_lbb" type="periodika">Frankfurter Zeitung und Handelsblatt</bibl>“ und „<bibl sameAs="ed_htk_ddk_tgb" type="periodika">Düsseldorfer Zeitung</bibl>“ siehe <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180612T102126+0200" comment="(Br. 418.32–33)"?>Engels
+                an Marx, 10.11.1867<?oxy_comment_end?></ref> „Von den 3 Artikeln ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191202T143039+0100" comment="418i, 418j."?>Erläuterungen<?oxy_comment_end?>. </note></seg>
+          <seg type="comment"><orig>Der Auszug aus der <bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukft</bibl></orig><note xml:id="a290aba5-90a5-47f8-968f-57005a2dd30b">[Friedrich Engels:] Das Kapital. Kritik
+              der politischen Oekonomie. Von Karl Marx. <hi rendition="#u">Erster Band.</hi>
+              Productionsprozess des Kapital. 50 Bogen. gr. 8. Preis 3½ Thlr. – Siehe <ref target="B00437"><?oxy_comment_start author="reichhoff" timestamp="20180612T102202+0200" comment="(Br. 427.15–16)"?>O.
+                Meißner an Marx, 19.11.1867<?oxy_comment_end?></ref> „Nächstens schicke ich Ihnen
+              ...“ und Wiedergabe der dortigen Beilage 2
+              <?oxy_comment_start author="lindenberg" timestamp="20191202T143352+0100" comment="S. 000[ZB_Br. 427]"?>(ZB)<?oxy_comment_end?>.
+              Zur Engels’ Rezension über den ersten Band des „Kapital“ in der „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ siehe  <ref target="B00389"><?oxy_comment_start author="lindenberg" timestamp="20191202T143540+0100" comment=" 379d"?>Erl. zu
+                Engels an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> und <ref target="B00446"><?oxy_comment_start author="lindenberg" timestamp="20191202T143909+0100" comment="436f"?>L.
+                Kugelmann an Engels, 25.11.1867<?oxy_comment_end?></ref>.</note></seg> ist ganz gut,
+          aber ein paar dazu wären noch besser, er sollte Dir den ganzen Kram zuschicken &amp; Du
+          dann daraus eine Annonce machen. Oder willst Du nicht, dann kann ers <hi rendition="#u">mir</hi> zuschicken &amp; ich will sie machen. Es frappirte mich sehr daß <seg type="comment"><orig>die erste Annonce <hi rendition="#u">genau den Raum einnahm</hi>
+              wie damals die meiner kleinen Brochüre &amp; nicht ein Wort der Begleitung bei sich
+              hatte.</orig><note xml:id="da302980-50bc-47fb-93b4-388fad36a507">Die erste Annonce
+                <persName key="pdrPo.001.004.000003135">Meißners</persName> über das Erscheinen des
+              ersten Bandes des „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ erschien im „Börsenblatt für den Deutschen Buchhandel und die mit ihm
+              verwandten Geschäftszweige“, Leipzig, Nr. 214, 14. September 1867. S. 2293, Sp. 2.
+              Siehe <ref target="B00352"><?oxy_comment_start author="lindenberg" timestamp="20191202T150335+0100" comment="343.6–7"?>Erl. zu
+                Marx an Engels, 12.9.1867<?oxy_comment_end?></ref>. – Engels’ Broschüre „<bibl sameAs="zotero-604880-QLSEZJ2C" type="primary">Die preußische Militärfrage und die
+                deutsche Arbeiterpartei</bibl>“ (MEGA<hi rendition="#sup">2</hi> Bd. I/20,
+              S. 71–108) wurde Anfang März 1865 im „Börsenblatt für den Deutschen Buchhandel“,
+              <?oxy_comment_start author="lindenberg" timestamp="20191202T152041+0100" comment="überprüft: Nr 27! https://sachsen.digital/werkansicht/dlf/259997/2/0/
+
+
+vorher: {Nr. prüfen! I/20, S. 1026: Nr. 127} 
+{MEW 31. Anm. 439, S. 675. CW 42, note 536 (Nr. 27!?) + I/20, S. 1026 (Nr. 127!?)}"?>Nr. 27<?oxy_comment_end?>
+              vom 3. März 1865, S. 498, angekündigt. </note></seg></p>
+        <p>Wenn die Sache nicht bald anders wird so muß <hi rendition="#u">ich</hi> – mit Deiner Zustimmung of course – an <persName key="pdrPo.001.004.000003135">M.</persName> schreiben &amp; ihm Artikel von <hi rendition="#u">mir</hi> für von ihm
+          zu benennende Ztgen anbieten. Das kann Dich doch nicht compromittiren.</p>
+        <p>An <persName key="pdrPo.001.004.000004424">Siebel</persName> habe ich noch grade vor
+          Postschluß <seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Meißners</persName> Entschuldigungsgründe mittheilen können.</orig><note xml:id="e05d73c5-75cd-4027-9c2f-a61ab0f1b4ad">Engels’ Brief an Carl Siebel,
+              geschrieben kurz vor dem 24. November 1867 (siehe <ref target="B00475">C.
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T102539+0200" comment="Br. 466.2–3 "?>Siebel
+                an Engels, 8.12.1867<?oxy_comment_end?></ref> und <ref target="B00476"><?oxy_comment_start author="reichhoff" timestamp="20180612T102701+0200" comment="467.40"?>Siebel
+                an Marx, 8.12.1867 <?oxy_comment_end?></ref>467.40), ist nicht überliefert. Siehe
+              auch <ref target="B00437"><?oxy_comment_start author="reichhoff" timestamp="20180612T102841+0200" comment=" Br. 427.3–5 "?>O.
+                Meißner an Marx, 19.11.1867 <?oxy_comment_end?></ref> und <ref target="B00476">C.
+                <?oxy_comment_start author="reichhoff" timestamp="20180612T103054+0200" comment="(Br. 467.16–20)"?>Siebel
+                an Marx, 8.12.1867<?oxy_comment_end?></ref>.</note></seg> Sie sind allerdings stark,
+          S. war damals at a very low ebb &amp; hat sich erst in Honnef wieder erholt.</p>
+        <p><seg type="comment"><orig>Meinen Brief vom Sonntag mit den Retourbriefen wirst Du
+              erhalten haben.</orig><note xml:id="be6e3e8d-8876-4ab7-9504-f5c51e807007"><ref target="B00444"><?oxy_comment_start author="reichhoff" timestamp="20180612T103211+0200" comment="(Br. 434)"?>Engels
+                an Marx, 24.11.1867<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>Inl. den Lohgerber zurück</orig><note xml:id="ce967189-c7e1-46e8-88d2-89bc7c8e9cbc">Engels übersandte den Brief von <ref target="B00417"><?oxy_comment_start author="reichhoff" timestamp="20180612T103305+0200" comment="(Br. 407)"?>J.
+                Dietzgen an Marx , 5.11.1867<?oxy_comment_end?></ref>. Siehe auch <ref target="B00432"><?oxy_comment_start author="reichhoff" timestamp="20180612T103341+0200" comment="(Br. 422.3) "?>Marx
+                an Engels, 14.11.1867<?oxy_comment_end?></ref> und
+              <?oxy_comment_start author="lindenberg" timestamp="20191202T163827+0100" comment="{422a.}"?>Erl<?oxy_comment_end?>.</note></seg>,
+            <seg type="comment"><orig>autodidactum integrum</orig><note xml:id="e6947c56-af36-4651-9f79-951c99731f38">völliger Autodidakt.</note></seg>, was
+          aber nicht verhindert daß andre Nationen doch nicht im Stande sind einen solchen <persName key="pdrPo.001.004.000001158">Lohgerber</persName> zu produziren. Die Philosophie, zur
+          <pb/> Zeit <persName key="ed_xhl_3q5_xgb">Jacob Böhmes</persName> noch reiner Schuster,
+          macht einen Fortschritt wenn sie die Gestalt des Lohgerbers annimmt.</p>
+        <p><seg type="comment"><orig>Wie ists mit dem Karbunkel?</orig><note xml:id="eb83e06d-01af-41f5-bd20-48831b82db90">Siehe <ref target="B00432"><?oxy_comment_start author="reichhoff" timestamp="20180612T103439+0200" comment="(Br. 422.21)"?>Marx
+                an Engels, 14.11.1867<?oxy_comment_end?></ref>.</note></seg> Die Position gefällt
+          mir nicht, hoffentlich hat <persName key="pdrPo.001.004.000002648">Lafargue</persName> Dir
+          ihn geschnitten. Dieser Geschichte muß nun doch ein Ende gemacht werden.</p>
+        <p><seg type="comment"><orig>Hat <expan><persName key="pdrPo.001.004.000000542">Borkh<ex>eim</ex></persName></expan> Dir das Geld bezahlt? Mir schreibt er
+              nichts, obwohl ich Garant bin.</orig><note xml:id="fee4695e-910a-4e94-a19a-98a96ae33ab9">Zur Geschichte dieser Geldanleihe
+                siehe<ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180612T103554+0200" comment="(Br. 360.127–130)"?>
+                Marx an Engels, 4.10.1867 <?oxy_comment_end?></ref> „Private Affairs: ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20191202T164214+0100" comment="360dd"?>Erl<?oxy_comment_end?>.</note></seg></p>
+        <closer>Dein<lb/>F. E. </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

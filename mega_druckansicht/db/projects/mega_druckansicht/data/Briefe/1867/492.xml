@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00502" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>492</idno>Peter Fox André an Karl Marx in London. Wien, Dienstag, 24. Dezember 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1799</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            142 × 220 mm. Fox André hat die erste Seite vollständig, die zweite
+                            Seite zur Hälfte beschrieben.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190326T162331+0100" comment="(Z. 22–26)"?>Marx’
+                            Adresse<?oxy_comment_end?> ist unten kopfstehend geschrieben.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p/>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj
+                            18&lt;a–b&gt;“.</p>
+                    </physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000001603">Peter Fox André</persName><placeName>Wien</placeName><date when="1867-12-24"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Die Beilage („a copy of the new Constitutional laws“) zum Brief ist nicht
+                    überliefert.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:29Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:05+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/>
+                        Leopoldstadt<lb/>Vienna<lb/>24/12/67.</dateline>
+                    <salute>Dear D<hi rendition="#sup">r</hi> Marx.</salute>
+                </opener>
+                <p>I have several times passed <hi rendition="#u">the palace</hi> (everything in <hi rendition="#u">New</hi> Vienna is palatial) at the top of which is perched
+                    the office of the <seg type="comment"><orig><bibl sameAs="ed_gmp_1hf_lbb" type="periodika">International Revue</bibl></orig><note xml:id="necw_trl_kgb"><bibl sameAs="ed_gmp_1hf_lbb" type="periodika">Internationale Revue</bibl>.</note></seg> of which you have spoken
+                    to me more than once.</p>
+                <p>I should like to strengthen my relations in Vienna.</p>
+                <p>Can you give me a letter of introduction to the <seg type="comment"><orig><persName key="ed_ts3_qm2_sy">Editor</persName></orig><note xml:id="nrhz_vrl_kgb"><persName key="ed_ts3_qm2_sy">Arnold Hilberg</persName>.</note></seg> or
+                    Manager? I think I could write an article for it <hi rendition="#u">once a year
+                        say</hi>.</p>
+                <p>Will you make out the letter in the name of P. Fox
+                    André.</p>
+                <p><?oxy_comment_start author="lindenberg" timestamp="20190110T173328+0100" comment="Anmerkung war: the new Constitutional laws°] {?nichts gefunden}"?>I
+                    send you a copy of the new Constitutional laws.<?oxy_comment_end?>
+                    <seg type="comment"><orig>The papers here are <pb/>
+                            <hi rendition="#u">sorry</hi> for the exposure of the weakness of “proud
+                            England”, as made by the Fenians</orig><note xml:id="nh5n_bsl_kgb">Siehe
+                                <ref target="B00486"><?oxy_comment_start author="reichhoff" timestamp="20180615T155943+0200" comment="(Br. 477)"?>Marx
+                                an Engels, 14.12.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20200114T101317+0100" comment="477a"?>Erl<?oxy_comment_end?>.</note></seg>.</p>
+                <p>I find myself at home here &amp; I wish I could stay.
+                    The people are in good humour &amp; everything is going ahead.</p>
+                <closer>Yours much obliged<lb/>P. Fox.</closer>
+                <postscript>
+                    <p>P.S. Send to me P. Fox André</p>
+                </postscript>
+                <postscript>
+                    <p><hi rendition="#u">poste restante</hi></p>
+                </postscript>
+                <postscript>
+                    <p><hi rendition="#u">Vienna</hi>.</p>
+                </postscript>
+            </div><div type="writingSession"><p>D<hi rendition="#sup">r</hi> Marx<lb/>1 Modena
+                    Villas.<?oxy_comment_start author="lindenberg" timestamp="20190326T175115+0100" comment="darunter eine nicht entzifferte Stelle"?><lb/>Haverstock Hill<?oxy_comment_end?>
+                    <lb/><unclear reason="illegible" cert="low"><seg type="comment"><orig>st.</orig><note xml:id="nmhw_4v4_jkb">Unsichere Lesung;
+                                möglicherweise für „street“.</note></seg></unclear><lb/>London</p>
+                <p>N.W. </p>
+            </div></body></text></TEI>

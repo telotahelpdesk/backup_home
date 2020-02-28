@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00223" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>215</idno>Benjamin St. John Baptist Joule an Friedrich
+                                        Engels in Manchester. Manchester, Montag, 11. Februar
+                                        1867</title>
+                        </titleStmt>
+                        <editionStmt>
+                                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 5507/L VIII 154
+                                                  Fotosign. 14809a&lt;–&gt;b.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen festem, weißem
+                                                  Papier im Format 230 × 181 mm. Wasserzeichen: „A
+                                                  Pirie &amp; Sons 1866“. Prägung: „Palatine Hotel
+                                                  Manchester“. Die ersten drei Seiten hat Joule
+                                                  vollständig beschrieben, die vierte ist leer.
+                                                  Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Archivsignatur des SPD-Archivs auf der ersten
+                                                  Seite: „II 21 C 15“.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 3 d. 45</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_mkm_xqc_pdb">Joule, Benjamin St. John B.
+                                                (1817-ca. 1895)</persName>
+                                        <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                                        <date when="1867-02-11"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_ht1_n3z_g1b">Exilantenleben in London u.
+                                                Manchester (Schiller-Anstalt,
+                                                Arbeiter-Bildungsverein, Albert-Club,
+                                                Versammlungsabende u. ä.)</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:44:52Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Febry 11<hi rendition="#sup">th</hi> /
+                                                67</dateline>
+                                        <salute>Dear Sir</salute>
+                                </opener>
+                                <p>On certain terms <seg type="comment"><orig>I should desire to
+                                                  keep the Books of the Manchester Subscription
+                                                  Library together</orig><note xml:id="bf7e07ae-b48f-4cbb-8f48-d87ec123c991">Zur
+                                                  Manchester Subscription Library siehe <ref target="B00218">Erl. zu S. Nördlinger an Engels,
+                                                  26.1.1867</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180504T172529+0200" comment="210a"?></note><?oxy_comment_end?></seg>—If,
+                                        for instance, I could retain my right to use them <hi rendition="#u">in comfort</hi> I should like it. But
+                                        then your proposal is very badly placed before <pb/> me
+                                        &amp; I presume before others also. I don’t know whether the
+                                                <seg type="comment"><orig>
+                                                  <orgName key="ed_zbn_cdn_jdb">Schiller-Anstalt</orgName>
+                                                </orig><note xml:id="f5de4edd-5575-4185-b580-e5194651fd4b">Zur
+                                                  <orgName key="ed_zbn_cdn_jdb">Schiller-Anstalt</orgName> siehe <ref target="B00023">Erl. zu S. Nördlinger Engels,
+                                                  26.1.1866</ref>.<?oxy_comment_start author="lindenberg" timestamp="20180504T173924+0200" comment="22a"?></note><?oxy_comment_end?></seg>
+                                        takes in either papers or Magazines—I don’t know if it has a
+                                        desirable reading room or whether its members take the Books
+                                        to their Homes. All these things should have been explained
+                                        &amp; I should still be glad <pb/> to learn something about
+                                        them. It sounds rather
+                                        <?oxy_comment_start author="lindenberg" timestamp="20180420T143554+0200" comment="urspr. discourading"?>discouraging<?oxy_comment_end?>
+                                        to hear that there exists the need for a new Building.
+                                        Should you think it worth your while to see me I shall be
+                                        happy to consider the matter further.</p>
+                                <closer>Yours faithfully <lb/>John B<unclear reason="illegible" cert="low">erry</unclear> Joule</closer>
+                                <postscript>
+                                        <p>Hon Sec<lb/>Manchester Schiller-Anstalt. </p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

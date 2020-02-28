@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00342" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>333</idno>Friedrich Leßner an Karl Marx in London. Lausanne, Donnerstag, 5. bis Samstag, 7. September 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 3024/D V 184. Fotosign. 9496(a–b)</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem kariertem Papier
+                            im Format 273 × 207 mm. Leßner hat die ersten zwei Seiten vollständig,
+                            die dritte zu drei Vierteln beschrieben, die vierte Seite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben mit Bleistift die
+                            Nummerierung des Briefes: „11“.</p>
+                        <p/>
+                        <p>Die Schreibweise wurde im wesentlichen nicht berichtigt. Nur an einigen
+                            Stellen wurde zum besseren Textverständnis die Schreibung korrigiert.
+                            Die Eingriffe sind ausgewiesen.</p>
+                        <p>Datierung in der Erstveröffentlichung: 7. September 1867.</p>
+                    </physDesc>
+                </msDesc><listWit><witness><bibl sameAs="zotero-604880-WCHRHTXJ">Erstveröffentlichung: in russischer
+                            Übersetzung:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Письма Фридриха Лесснера Карлу Марксу (1935).<?oxy_custom_end?>
+                            S. 153/154.</bibl></witness><witness><bibl>in der Sprache des Originals wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent">
+                    <persName key="ed_l54_cks_xy">Leßner, Friedrich (1825-1910)</persName>
+                    <placeName key="ed_cgw_bfh_4db">Lausanne</placeName><date when="1867-09-07"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Zur Datierung: Der Brief steht im Zusammenhang mit Leßners Brief vom 4. und 5.
+                    September 1867 (siehe <ref target="B00341"><?oxy_comment_start author="lindenberg" timestamp="20190219T145859+0100" comment="Br. 332"?>F.
+                        Leßner an Marx, 4. u. 5.9.1867</ref><?oxy_comment_end?> und ZB) und enthält
+                    auch die Information über den Lausanner Kongreß der IAA, der am 2.–8. September
+                    1867 stattfand. Leßner begann den vorliegenden Brief am
+                    <?oxy_comment_start author="lindenberg" timestamp="20190405T172718+0200" comment="„5 August“"?>5.
+                    September<?oxy_comment_end?>, setzte ihn am 6. September, („Freitag Heute“) fort
+                    und beendete den Brief mit dem Datum „7/9 67“. Deshalb ist der vorliegende Brief
+                    mit dem 5. bis 7. September 1867 datiert worden.</note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:40Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:58+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 5 <choice>
+                            <sic>August</sic>
+                            <corr cert="high">September</corr>
+                        </choice></dateline>
+                    <salute>Lieber Marx!</salute>
+                </opener>
+                <p><seg type="comment"><orig>Gestern hat man den ganzen
+                            Tag verloren über die dritte Frage,</orig><note xml:id="b03443dc-7568-43f2-a196-a7ccf425a889">In der Nachmittagssitzung
+                            am 5. September 1867 stellte der Leiter der belgischen Delegation
+                                <persName key="pdrPo.001.004.000001133">César De Paepe</persName>
+                            den Bericht der Kommission zum dritten Punkt der Tagesordnung vor, in
+                            dem es u. a. hieß: „Les efforts tentés aujourd’hui par les associations
+                            pour l’émancipation du <hi rendition="#u">quatrième état</hi> (classe
+                            ouvrière) ne peuvent-ils pas avoir pour résultat la création d’un <hi rendition="#u">cinquième état</hi> dont la situation serait beaucoup
+                            plus misérable encore? La neutralité [vielm. mutualite] ou réciprocite
+                            considerée comme base des rapports sociaux. Equivalence des fonctions. –
+                            Solidarité. – Sociétés ouvrières.“
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T140923+0200" comment="ist neu von mir und soll die entfernte Erl. ersetzen"?>Ebenfalls
+                            wurde die Frage des gesellschaftlichen Eigentums an Grund und Boden diskutiert.<?oxy_comment_end?>
+                            <?oxy_comment_start author="lindenberg" timestamp="20190207T155727+0100" comment="entfernt: Der Bericht schließt mit dem Entwurf einer Resolution, in der es hieß, das Proletariat müsse sich die Erkenntnis aneignen, daß die Gesellschaft durch Maßnahmen umgestaltet werden könne, deren eine die Überführung des Bodens in das kollektive Eigentum der Gesellschaft sei. Die Pariser Proudhonisten protestierten sogleich dagegen. Félix-Eugène Chemalé erklärte, er halte „entrée du sol dans la propriété collective lui paraît une chose injuste et inapplicable“. Henri-Louis Tolainführte in seiner Rede aus, es gäbe ein Eigentum, das „par leur nature, doivent rester individuelles“. Während der Diskussion hielt De Paepe eine ausführliche Rede, in der er leidenschaftlich das Prinzip des gesellschaftlichen Eigentums am Boden verfocht, zugleich aber erklärte, er verharre auf den Position des Mutualismus. Diese zwei Prinzipien, meinte er, seien durchaus vereinbar. Die Diskussion endete mit einem Sieg der Proudhonisten, die auf Antrag Tolains mit einer Stimmenmehrheit von 27 gegen 11 den Satz über den Übergang des Bodens in Kollektiveigentum aus dem Bericht der Kommission entfernten. "?>(<?oxy_comment_end?>Siehe
+                            Procès-Verbaux du Congrès de l’Association Internationale des
+                            Travailleurs réuni à Lausanne ... S. 27–32; La Première Internationale.
+                            Recueil de documents ... T. 1. S. 126–130. Siehe auch (Reymond:) Rapport
+                            du Congrès Internationale de Lausanne. o.O. 1867. S. 2; [Johann Philipp
+                            Becker:] Kongreß der Internationalen Arbeiterassociation in Lausanne.
+                            In: Der Vorbote. Genf. Nr. 12. Dezember 1867. S. 185–189; Die Erste
+                            Internationale. 1864–1870. Tl. 1. Moskau 1981. S. 156/157) sowie Bach:
+                            Marks i agrarnyj vopros v I Internacionale. Nr. 5. S. 66–68; Koroteeva:
+                            Sezar De Pap i Karl Marks (1865–1875). S. 288; Die Erste Internationale.
+                            Tl. 1864–1870. Moskau 1981.
+                            S. 156–159.<?oxy_comment_start author="lindenberg" timestamp="20181128T122904+0100" comment="Lemma eigentlich: Gestern hat man den ganzen Tag verloren über die dritte Frage {bis} sie selbst geschaffen.°]"?></note><?oxy_comment_end?></seg>
+                    wobei sich wieder massenhafter unsin breit gemacht hat, dadurch das die
+                    Franzosen durchgesetzt haben, daß alle Fragen für eine Komision kommen, ihren
+                    unsin zuerst zur Diskussion gebracht.</p>
+                <p>Die Deutschen haben auf daß meiste waß dieselben
+                        geschwätz<ex>t</ex> haben ganz verzichtet, es übersetzt zu haben, oder die
+                    Zeit wäre noch mehr todt geschlagen worden.</p>
+                <p>ich habe denselben gesagt das daß Geschwätz von 4 u.
+                        5 <unclear reason="illegible" cert="low">Stand</unclear> u.s.w. ein reiner
+                    unsin sei, den sie selbst geschaffen.</p>
+                <p><seg type="comment"><orig>Als am fünften Tage das
+                            schwatzen wieder anfing habe ich einen Antrag gestellt, daß nur
+                            Resolutionen vorgeschlagen, und die Gründe dafür angegeben werden. Dies
+                            hielf auch nicht viel, bis wir gezwungen wurden Einen erneurten Antrag
+                            von der deutschen seide einbrachten, daß die erste Frage vor allen
+                            Andern diskutirt werde, sowie die Bestimmung des Ortes für den General
+                            Counsel u.s.w. Diesen Antrag haben wir durchgesetzt.</orig><note xml:id="a46247c3-22a6-4f5e-991c-08757f41194f">Auf der Morgensitzung am
+                            6. September 1867 formulierte der Vizepräsident des Kongresses <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName> den
+                            ersten Punkt der Tagesordnung (siehe auch <ref target="B00280">Erl. zu
+                                <?oxy_comment_start author="reichhoff" timestamp="20180912T123548+0200" comment="Erl. 271a"?>R.
+                                Shaw an Marx, 19.6.1867<?oxy_comment_end?></ref>): „quels sont les
+                            moyens pratiques de rendre l’Association internationale un centre commun
+                            d’action pour la classe ouvrière dans la lutte qu’elle soutient contre
+                            le
+                            capital“<?oxy_comment_start author="lindenberg" timestamp="20190207T160437+0100" comment="Was sind die praktischen Möglichkeiten, um die Internationale Vereinigung zu einem gemeinsamen Aktionszentrum für die Arbeiterklasse im Kampf gegen das Kapital zu machen?"?>,<?oxy_comment_end?>
+                            und schlug der Versammlung die Wahl des Generalrats und des nächsten
+                            Kongreßortes vor. Dieser Antrag fand einstimmige Annahme. (Siehe
+                            Procès-verbaux du Congrès de l’Association Internationale des
+                            Travailleurs réuni à Lausanne ... S. 11 und 36/37; La Première
+                            Internationale. Recueil de documents ... T. 1. S. 116 und 132; [Johann
+                            Philipp Becker:] Kongreß der Internationalen Arbeiterassociation in
+                            Lausanne. In: Der Vorbote. Genf. Nr. 1. Januar 1868.
+                    S. 9.)</note></seg></p>
+                <p>Dadurch werden wir wohl <seg type="comment"><orig>daß
+                            ziehl</orig><note xml:id="nrrr_fmj_yfb">Soll heißen: das
+                        Ziel.</note></seg> erreicht haben. Daß keine zeit mehr übrig bleibt, für den
+                    französischen unsinn.</p>
+                <p><seg type="comment"><orig>Ueber den Beitrag hat es
+                            heftigen Kampf gegeben. Dieselben hätten gerne wieder die Frage im
+                            Dunkeln gelassen, aber wir haben es durchgesetzt. Daß wenn sie nicht
+                            bezahlen, ausgeschlossen werden. bei dieser Frage haben wir sie Beschämt
+                            gemacht.</orig><note xml:id="efdaca5b-9a75-4c60-ab0a-b3035c9e1bea">Die
+                            lange Erörterung des von <persName key="pdrPo.001.004.000001296">Johann
+                                Georg Eccarius</persName> vorgelegten Kommissionsberichts über den
+                            ersten Punkt der Tagesordnung (siehe
+                            Erl. <?oxy_comment_start author="lindenberg" timestamp="20190620T152537+0200" comment="333b"?>oben<?oxy_comment_end?>)
+                            endete mit der Annahme von Resolutionen, die die Sektionen
+                            verpflichteten, u. a. Initiativen zur Bildung von
+                            Produktionsgenossenschaften anzuregen und zu unterstützen. Der
+                            Generalrat, hieß es weiter in der Resolution, müsse den Zentralkomittees
+                            der jeweiligen Länder alle drei Monate anstelle eines
+                            Informationsbulletins, dessen Druck erschwert sei, briefliche Berichte
+                            zusenden. Die Höhe des Jahresmitgliedsbeitrags wurde auf 10 Centimes für
+                            alle Mitglieder der Internationale bzw. der ihr angeschlossenen
+                            Gesellschaften festgesetzt. Delegierte der Abteilungen und Sektionen,
+                            die ihre Jahresbeiträge nicht im voraus entrichtet haben, dürften an den
+                            Kongressen nicht teilnehmen. (Siehe Procès-verbaux du Congrès de
+                            l’Association Internationale des Travailleurs réuni à Lausanne ...
+                            S. 36/37; La Première Internationale. Recueil de documents ... T. 1.
+                            S. 132; [Johann Philipp Becker:] Kongreß der Internationalen
+                            Arbeiterassociation in Lausanne. In: Der Vorbote. Genf. Nr. 1. Januar
+                            1868. S. 9/10; Die Erste Internationale. 1864–1870. Tl. 1. Moskau 1981.
+                            S. 154.)</note></seg>
+                    <seg type="comment"><orig>Der nächste Kongreß wird in Brüssel abgehalten. Der
+                            General Counsel in London.</orig><note xml:id="ba21b05e-5ca9-4c3a-ac08-a3def4a971bf">In der Nachmittagssitzung
+                            am 6. September 1867 wurde als Ort für den nächsten Kongreß Brüssel
+                            bestimmt. Er sollte am ersten Montag im September 1868 beginnen. London
+                            blieb weiterhin Sitz des Generalrats. (Siehe Procès-verbaux du Congrès
+                            de l’Association Internationale des Travallieurs réuni à Lausanne ...
+                            S. 37–40; La Première Internationale. Recueil de documents ... T. 1.
+                            S. 133/134; [Johann Philipp Becker:] Kongreß der Internationalen
+                            Arbeiterassociation in Lausanne. In: Der Vorbote. Genf. Nr. 11. November
+                            1867. S. 171; Nr. 2. Februar 1868. S. 17/18.) – Der dritte Kongreß der
+                            IAA fand in Brüssel vom 6. bis 13. September 1868 statt.</note></seg>
+                </p>
+                <p><pb/> Nun die Herrschaften haben sich doch etwas ruhiger
+                    verhalten, aber wahrscheinlich nur um ihren unsinn, noch breit zu machen. Es
+                    fehlt uns ein guter Deutscher der der französischen sprache mächtig ist, <choice>
+                        <sic>und</sic>
+                        <corr cert="high">um</corr>
+                    </choice> diesen Leuten sogleich richtig zu antworten.</p>
+                <p><seg type="comment"><orig>Freitag Heute</orig><note xml:id="b159728f-b0a5-4f91-97d6-536397a02e73">6. September
+                        1867.</note></seg> ist <persName key="pdrPo.001.004.000004646">Stumpf</persName> aus Mainz angekommen. Wir wollen sehen ob derselbe uns
+                    helfen wird. Auch ein politischer Oekonom namens <persName key="pdrPo.001.004.000002686">Lange</persName> aus <seg type="comment"><orig>wintertur;</orig><note xml:id="nafy_4mj_yfb">Winterthur.</note></seg> auch <seg type="comment"><orig><persName key="pdrPo.001.004.000002644">Ladentorf</persName></orig><note xml:id="na3g_rmj_yfb"><persName key="pdrPo.001.004.000002644">August
+                                Ladendorf</persName>.</note></seg> ist angekommen. es sind jetzt
+                    66 Delegierte, natürlich einige davon sind schon wieder fort, und leiter von
+                    unser seide, wir haben viele nachtheile dieses Jahr.</p>
+                <p>Endlich ist die sache zu Ende, und ich und viele sind
+                    froh daß es so weit ist.</p>
+                <p>Der ganze Freitag nachmittag und <seg type="comment"><orig>Sonabent</orig><note xml:id="b659cc2b-2394-4f0f-b388-b4ae0ba85479">Sonnabend, 7. September
+                            1867.</note></seg> ist folgend todt geschlagen, und sogar noch Sonabent
+                    Abent eine Sitzung gehalten, damit dieselben ja genuch bekommen. dieselben
+                    wolden <seg type="comment"><orig>das Program für den nächsten
+                            Kongreß</orig><note xml:id="ebb34f88-1342-4c3b-afd1-488f2583fbd8">Einige
+                            Fragen, die man dem Generalrat für die Tagesordnung des nächsten
+                            Kongresses empfehlen wollte, wurden in der Nachmittagssitzung am
+                            7. September 1867 besprochen. <persName key="ed_k5z_mm3_kcb">Félix
+                                Eugène Chemalé</persName> empfahl die Aufnahme folgender sechs
+                            Fragen: „1. Organisation du crédit. – Comptoirs d’échange. –
+                            Papier-monnaie. (A traiter au point de vue pratique, en formulant des
+                            statuts.) 2. Les machines et leurs effets. 3. Enseignement professionnel
+                            intégral. – Programme d’éducation rationnelle. 4. Statistique ouvrière.
+                            5. L’égalité civile, politique et sociale. 6. Livrets ouvriers.“
+                                <persName key="pdrPo.001.004.000001133">César De Paepe</persName>
+                            schlug vor, noch zwei Fragen beizufügen, die dem Generalrat zu
+                            zweckmässiger Verwendung empfohlen wurden: „1. Le sol, les canaux, les
+                            routes, chemins de fer, etc. …, doivent-ils être propriété sociale ou
+                            propriété individuelle? – Et comment devraient-ils être exploités pour
+                            le plus grand avantage de l’individu et de la collectivité? 2. Des
+                            grèves, de la fédération des sociétés de résistance (ou <hi rendition="#u">Trade’s Unions</hi>) dans le sein de l’Association
+                            internationale, et de la constitution d’un Conseil d’arbitrage pour les
+                            grèves.“ Zwei weitere Vorschläge kamen von Chemalé: „1. Toute section
+                            qui voudra présenter à la discussion du prochain Congrès une question en
+                            dehors de celles qui viennent d’être proposées pour le programme, devra
+                            le faire savoir au Congrès général avant le 31 mars prochain. 2. Tous
+                            les mémoires ou documents relatifs aux questions mises à l’ordre du jour
+                            devront être adressés à la section spécialement chargée d’organiser le
+                            Congrès, jusqu’au 25 août au plus tard.“ Auch diese Vorschläge wurden
+                            angenommen. (Siehe Procès-verbaux du Congrès de l’Association
+                            Internationale des Travallieurs réuni à Lausanne ... S. 73/74; La
+                            Première Internationale. Recueil de documents ... T. 1. S. 155; [Johann
+                            Philipp Becker:] Kongreß der Internationalen Arbeiterassociation in
+                            Lausanne. In: Der Vorbote. Genf. Nr. 5. Mai 1868.
+                        S. 73/74.)</note></seg> festsetzen, aber es ist ihnen doch nicht
+                    gelungen.</p>
+                <p><seg type="comment"><orig>über Erziehung der Kinder, und
+                            die Stellung der Frauen, wurden noch eine Masse Pfrassen gemacht, sowie
+                            über die Landfrage, Maschienen und ihr Einfluß.</orig><note xml:id="feac6d5a-8e6b-41eb-bef6-be9a8fbdde36">Leßner bezieht sich auf
+                            die Besprechung des vierten, fünften und sechsten Punktes der
+                            Tagesordnung vom 6. und 7. September 1867, die lauteten: „<hi rendition="#u">Quatrème question.</hi> Travail et capital. –
+                            Chômage. – Les machines et leurs effets. – Réduction des heures de
+                            travail. – Division du travail. – Transformation et exinction du
+                            salariat. – Répartition des produits“; „<hi rendition="#u">Cinquième
+                                question.</hi> Fonctions sociales. – Rôle de l’homme et de la femme
+                            dans la société. – Education des enfants. – Enseignement intégral. –
+                            Liberté d’enseignement“; „S<hi rendition="#u">ixième question.</hi>
+                            Définition et rôle de l’Etat. – Services publics, transport et
+                            circulation. – Intérêts collectifs et individuels. – L’Etat considéré
+                            comme justicier et gardien des contrats. – Droit de punir“. Siehe
+                            Procès-verbaux du Congrès de l’Association Internationale des
+                            Travallieurs réuni à Lausanne ... S. 12/13, 34/35, 53–59 und 61–73; La
+                            Première Internationale. Recueil de documents ... T. 1. S. 116/117,
+                            130/131, 143–146 und 147–155; [Johann Philipp Becker:] Kongreß der
+                            Internationalen Arbeiterassociation in Lausanne. In: Der Vorbote. Genf.
+                            12. Dezember 1867. S. 184; Nr. 1. Januar 1868. S. 7–9; Nr. 3. März 1868.
+                            S. 38–43; Nr. 4. April 1868. S. 54–61. – Über die Erörterung der
+                            Bodenfrage auf dem Lausanner Kongreß siehe
+                            <?oxy_comment_start author="lindenberg" timestamp="20190621T135413+0200" comment="333a"?>Erl. oben<?oxy_comment_end?>
+                            und <ref target="B00361"><?oxy_comment_start author="lindenberg" timestamp="20190621T135741+0200" comment="352n"?>V.
+                                Schily an Marx, 25.9.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <hi rendition="#u"><persName key="pdrPo.001.004.000004646">Stumpf</persName></hi> hat uns gut geholfen. man kann gleich heraus finden,
+                    wer ein Schüler von unserm Moor ist.</p>
+                <p>Es thut mir so leit, das ich nicht das Vergnügen haben
+                    konde, <seg type="comment"><orig><bibl sameAs="zotero-604880-PT9GISVC">Dein Buch</bibl></orig><note xml:id="d17d18e7-8074-49f3-85f8-49e2ab489a95"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867</bibl>.</note></seg>
+                    vorzulegen, es ist jedoch davon gesprochen wurden, als eine <pb/> Masse
+                    politische Oekonomische Fragen vorgeschlagen wurden für den nächsten
+                    Kongress.</p>
+                <p><seg type="comment"><orig>Morgen</orig><note xml:id="d7b33478-2758-45ec-85ed-27f63a76367c">8. September
+                        1867.</note></seg> werden wir in Genf eintreffen und <seg type="comment"><orig>am Montag die Friedens Heulerei mit anhören</orig><note xml:id="b5ec527c-446a-4580-8866-17f00b116ac0">Am 9. September 1867
+                            sollte der Kongreß der Friedens- und Freiheitsliga in Genf (siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190620T154746+0200" comment="Erl. 304h"?>Erl.<?oxy_comment_end?>
+                                zu S. L. Borkheim an Marx, 5.8.1867</ref>) eröffnen.</note></seg>,
+                    und Dienstag nach Paris abreisen, dort einen Tag bleiben, und auf diese weise
+                    werden wir wohl bis <seg type="comment"><orig>Freitag</orig><note xml:id="b6343e2b-7ce5-4596-b4d0-5320765e8ee0">13. September
+                        1867.</note></seg> in London sein.</p>
+                <p>Ich werde sofort zu Dir kommen.</p>
+                <p>Wir werden morgen früh auf den Genfer See eine
+                    Vergnügungspartie machen. Daß soll den Schluß des Kongreßes vorstellen. Also
+                    nochmals, eine Masse <seg type="comment"><orig>Frahßen</orig><note xml:id="nlgs_hck_yfb">Soll heissen: Phrasen.</note></seg> mit anhören zu
+                    müssen denen man nicht ausweichen kann.</p>
+                <p>Also bis auf wiedersehen</p>
+                <closer>Dein Freund Fried. Lessner</closer>
+</div>
+    <div type="writingSession">
+        <p><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_comment_start author="lindenberg" timestamp="20190227T173631+0100" comment="so in der Hs." mid="9"?>L<ex>a</ex>usanne<?oxy_custom_end?><?oxy_comment_end mid="9"?>
+                    7/9 67.</p>
+                <postscript>
+                    <p>P.S. <persName key="pdrPo.001.004.000001296">Eccarius</persName> ist ganz
+                        heiser, und unwohl. <pb/></p>
+                </postscript>
+            </div></body></text></TEI>

@@ -1,0 +1,703 @@
+<?xml-model href="file:/home/gordon/MEGA/framework/ediarum.MEGA.edit/schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:m="http://www.w3.org/1998/Math/MathML" telota:doctype="letter mega" xml:id="mega_base">
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <idno>1</idno>Beispieltext,
+                    für die MEGA Druckansicht: 2020</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">D 2433/D V 15.
+                            Fotosign. 2965</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt festem, weißem
+                            Papier im Format 114 × 181 mm.
+                            Wasserzeichen: „[Joy]nson [1]866“. Die erste Seite
+                            hat Imandt vollständig beschrieben, die zweite ist
+                            leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Die Datierung ergibt sich aus der Jahreszahl im
+                            Wasserzeichen.</p>
+                        <p>Die Beilage („einliegende Correspondenz“) ist
+                            nicht überliefert.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 5 d. 1063</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002303">Peter Imandt</persName>
+                    <placeName key="ed_q3j_djv_cbb">Dundee</placeName>
+                    <date when="1866-01-01"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_rw2_4vl_qx">Preußen</term>
+                    <term key="ed_vgk_5cg_fy">Verfassungskonflikt in
+                        Preußen</term>
+                    <term key="ed_u5f_cpw_ww">Naturwissenschaften</term>
+                    <term key="ed_fv1_snz_g1b">Lektüre</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change>
+                    <date>2016-10-31T13:37:59Z</date> | <name>Regina Roth</name>
+                    | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                    2.15.0</change>
+                <change>
+                    <date>2016-10-31T14:57:08+01:00</date> | <name>Sascha
+                    Grabsch</name> | <orgName>Telota</orgName> |
+                    convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    
+   
+    
+    <text>
+        <body>
+            
+            
+           <p>A: Hier werden die Titel über die 'DIV' Elemente aufgelöst:</p>
+            
+            <!--Anpassen-->
+            <div n="1">
+                <head>Titel Kapitel 1</head><!-- sofern vorhanden -->
+                <p>Text zu H1</p>
+                <div n="2">
+                    <head>Titel Unterkapitel 1.1</head>
+                    <p>Text zu H2</p>
+                        <div n="3">
+                        <head>Titel Unterkapitel 1.1.1</head>
+                      <p>Text zu H3</p>
+                         <div n="4">
+                        <head>Titel Unterkapitel 1.1.1.1</head>
+                       <p>Text zu H4</p>
+                            <div n="5">
+                                <head>Titel Unterkapitel 1.1.1.1.1</head>
+                                   <p>Text zu H5</p>
+                            <div n="6">
+                            <head>Titel Unterkapitel 1.1.1.1.1.1</head>
+                      <p>Text zu H6</p>
+                                  <div n="7">
+                            <head>Titel Unterkapitel 1.1.1.1.1.1.1</head>
+                      <p>Text zu H7</p>
+                                        <div n="8">
+                            <head>Titel Unterkapitel 1.1.1.1.1.1.1.1</head>
+                      <p>Text zu H8</p>
+                                          <div n="9">
+                            <head>Titel Unterkapitel 1.1.1.1.1.1.1.1.1</head>
+                      <p>Text zu H9</p>
+                        </div>    
+                        </div>
+                        </div>
+                                
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                    </div>
+            </div>
+            
+            <p>B: Hier werden die Titel direkt über 'head' aufgelöst:</p>
+            
+            <head n="1" type="leftMargin"> Header H1 </head>
+            <head n="2" type="leftMargin"> Header H2 </head>
+            <head n="3" type="leftMargin"> Header H3 </head>
+            <head n="4" type="leftMargin"> Header H4 </head>
+            <head n="5" type="leftMargin"> Header H5 </head>
+            <head n="6" type="leftMargin"> Header H6 </head>
+            <head n="7" type="leftMargin"> Header H7 </head>
+            <head n="8" type="leftMargin"> Header H8 </head>
+            <head n="9" type="leftMargin"> Header H9 </head>
+            <head n="10" type="leftMargin"> Header H10 </head>
+            <p>2) <hi rendition="#u">einfach unterstrichen</hi>
+            </p>
+            <p>3) <hi rendition="#uu">doppelt unterstrichen</hi>
+            </p>
+            <p>4) <hi rendition="#mMM">Am Rand angestrichen</hi>
+            </p>
+            <?oxy_comment_start author="gordon" timestamp="20200204T150742+0100" comment="Ein Kommentar eingefügt"?>
+            <p>5) Kommentar einfügen</p><?oxy_comment_end?>
+            <p>
+                <lb/>
+            </p>
+            <p>6) Zeilenumbruch <lb/>hier geht es weiter</p>
+            <p>7) Zeilen<lb break="no"/>umbruch im Wort <lb/>
+                <lb break="no"/>8) Zeilen<g ref="#typoHyphen"/>
+                <lb break="no"/>umbruch mit Trennzeichen</p>
+            <p>9) List: <list>
+                    <item>Element 1</item>
+                    <item>Element 2</item>
+                    <item>....</item>
+                    <item>Element N</item>
+                </list>
+            </p>
+            <p>10) Anmerkung (Fußnote im Script) <note place="right" hand="#author"> Anmerkung am
+                    rechten Rand vom Autor dieses Textes</note>
+            </p>
+            <p>11) Füge eine Zeichnung des Autors ein:</p>
+            <p>
+                <figure facs="https://www.chip.de/ii/5/6/7/6/2/8/4/8/43dff6dc96b32060.jpeg" hand="#author">
+                    <p>Testbild</p>
+                    <figDesc>Testbild um die Aktion zu überprüfen</figDesc>
+                </figure>
+            </p>
+            <p>12) Foliowechsel: <pb n="1"/>
+            </p>
+            <p>13) Foliowechsel mit Link: <pb n="1" facs="https://media.gettyimages.com/photos/johannes-brahms-0705183303041897komponist-dhandschrift-mit-den-noten-picture-id541784443"/>
+            </p>
+            <p>14) Foliowechsel (weitere Seiten oder Blattzählung) <fw type="folNum">1</fw>
+            </p>
+            <p>15) Wort<hi rendition="#sup"> hochgestellt</hi>
+            </p>
+            <p>16) <del rendition="#ow">Tilgung durch Überschreibung des ursprünglichen
+                Textes</del>
+            </p>
+            <p>17) <del rendition="#s">Tilgung durch Streichnung</del>
+            </p>
+            <p>17) <del rendition="#s">Tilgung durch Streichnung</del>
+            </p>
+            <p>17) <del rendition="#s">Tilgung durch Streichnung</del>
+            </p>
+            <p>18) <del rendition="#erased">Tilgung durch Radieren</del>
+            </p>
+            <p>19) Hinzufügen im Text durch den Autor (siehe kritischer Apparat):</p>
+            <p>
+                <add place="superlinear">Text</add>
+            </p>
+            <p>
+                <add place="sublinear">Text</add>
+            </p>
+            <p>
+                <add place="intralinear">Text</add>
+            </p>
+            <p>- Zerstörung/Verlust, ein Zeichen → before gap <gap reason="lost" unit="lines" quantity="5"/>
+            </p>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="lost" unit="chars" quantity="5"/>
+            </p>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="lost" unit="chars" quantity="5"/>
+            </p>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="lost" unit="chars" quantity="5"/>
+            </p>
+            <p>
+                <add place="across">Text</add>
+            </p>
+            <p>
+                <add place="left">Text</add>
+            </p>
+            <p>
+                <add place="right">Text</add>
+            </p>
+            <p>
+                <add place="mTop">Text</add>
+            </p>
+            <p>
+                <add place="mBottom">Text</add>
+            </p>
+            <p>20) Unsichere Lesart von Buchstaben oder Wörtern im Manuskript</p>
+            <p>- <unclear reason="illegible" cert="high">Grund: unleserlich, hohe Sicherheit der
+                    Lesart</unclear>
+            </p>
+            <p>- <unclear reason="illegible" cert="low">Grund: unleserlich, geringe Sicherheit der
+                    Lesart</unclear>
+            </p>
+            <p>
+                <unclear reason="covered" cert="high">- Grund: durch Überschreibung, hohe Sicherheit
+                    der Lesart</unclear>
+            </p>
+            <p>- <unclear reason="covered" cert="low">Grund: durch Überschreibung, geringe
+                    Sicherheit der Lesart</unclear>
+            </p>
+            <p>21) Nicht entzifferbarer Text (Auswahl):</p>
+            <p/>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="lost"/>
+            </p>
+            <p>
+                <add place="mTop">Text</add>
+            </p>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="empty"/>
+            </p>
+            <p>- Zerstörung/Verlust, ein Zeichen → before gap <gap reason="lost" unit="lines" quantity="5"/>
+            </p>
+            <p>- Zerstörung/Verlust, 5 Zeichen → before gap <gap reason="lost" unit="chars" quantity="5"/>
+            </p>
+            <p>- Zerstörung/Verlust, eine Zeile → before gap <gap reason="lost" unit="lines" quantity="1"/> after gap</p>
+            <p>- Zerstörung/Verlust, eine Seite → before gap <gap reason="lost" unit="pages" quantity="1"/> after gap</p>
+            <p>- Leerraum, ein Zeichen → before gap<gap reason="empty" unit="chars" quantity="1"/>
+                after gap </p>
+            <p>- unleserlich, eine Zeile → before gap <gap reason="illegible" unit="chars" quantity="1"/> after gap</p>
+            <p>neues gap<gap reason="lost" unit="pages" quantity="2"/>
+            </p>
+            <p>
+                <add place="mBottom">Text</add>
+            </p>
+        </body>
+    </text>
+    <text>
+        <body>
+            <p>- durch Überschreibung, ein Zeichen → before gap <gap reason="covered" unit="chars" quantity="1"/>    after gap</p>
+            <p>- fremdsprachlicher Text, eine Zeile → before gap <gap reason="fm" unit="lines" quantity="1"/>   after gap </p>
+            <p>- für den Korpus unwichtiger Text, eine Zeile → before gap  <gap reason="insignificant" unit="lines" quantity="1"/>  after gap</p>
+            <p>22) Nicht entzifferbarer Text, durchgestrichen</p>
+            <p>- Anzahl der nicht-lesbaren Wörter: 1<del rendition="#s">
+                    <gap reason="illegible" quantity="1" unit="words"/>
+                </del>
+            </p>
+            <p>- Anzahl der nicht-lesbaren Wörter: 10 <del rendition="#s">
+                    <gap reason="illegible" quantity="10" unit="words"/>
+                </del>
+            </p>
+            <p>23) <ex>ergänzter Worteil</ex>
+            </p>
+            <p>24) Fehlendes Wort oder Satzzeichen durch den Herausgeber ergänzt</p>
+            <p>- <supplied cert="high">fehlendes Wort</supplied>  hohe
+                Übereinstimmumgswahrscheinlichkeit</p>
+            <p>- <supplied cert="low">fehlendes Wort</supplied>  geringe
+                Übereinstimmungswahrscheinlichkeit</p>
+            <p>25) Streichung eines <choice>
+                    <sic>überflüssigen</sic>
+                    <corr type="deleted"/>
+                </choice> Wortes durch den Bearbeiter</p>
+            <p>26) Korrekturen:</p>
+            <p>- Korrektur durch den Herausgeber: </p>
+            <p>–-- hohe Wahrscheinlichkeit, dass Korrektur richtig ist: <choice>
+                    <sic>korrigiertes Wort</sic>
+                    <corr cert="high"/>
+                </choice>
+            </p>
+            <p>–-- mittlere Wahrscheinlichkeit, dass die Korrektur richtig ist: <choice>
+                    <sic>korrigiertes Wort</sic>
+                    <corr cert="medium"/>
+                </choice>
+            </p>
+            <p>–-- geringe Wahrscheinlichkeit, dass die Korrektur richtig ist: <choice>
+                    <sic>korrigiertes Wort </sic>
+                    <corr cert="low"/>
+                </choice>
+            </p>
+            <p>- Normalisierte Schreibung:</p>
+            <p>––<choice>
+                    <orig>
+                        <choice>
+                            <orig>Original</orig>
+                        </choice>
+                    </orig>
+                    <reg>frfrffrf</reg>
+                </choice>
+            </p>
+            <p>27) Sachanmerkung einfügen<seg type="comment">
+                    <orig/>
+                    <note xml:id="nnbg_mrn_pkb">alles Mist</note>
+                </seg>
+            </p>
+            <p>28) Verweise</p>
+            <p>- Verweisziel <anchor type="target" xml:id="start_wc5_prn_pkb"/>markieren<anchor type="target" xml:id="stop_wc5_prn_pkb"/>
+            </p>
+            <p>- Verweis auf  Brief oder Textstelle ??</p>
+            <p>29) Schriftartwechsel:</p>
+            <p>- <hi rendition="#aq">Antiqua bzw. latainische Schrift</hi>
+            </p>
+            <p>- <hi rendition="#fr">Fraktur bzw. Kurrent</hi>
+            </p>
+            <p>30) Symbole</p>
+            <p>- Buchstaben: ã æ Æ ç Ç ȩ ë
+                ï</p>
+            <p>- Bruchzahlen: ⅘</p>
+            <p>- Einheitenzeichen: £ ′ ″ ‴</p>
+            <p>- Symbole: ☉ ☾ ☽ □</p>
+            <p>- Kürzungsstrich̅</p>
+            <p>- Halbgeviertstrich–</p>
+            <p>- Geviertstrich—</p>
+            <p>- Auslassungspunkte…</p>
+           
+            <div type="writingSession">
+                <opener>
+                    <dateline>
+                        <pb/> Mittwoch</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Sei so gut und lies die einliegende Correspondenz. <seg type="comment">
+                        <orig>
+                            <persName key="ed_g2n_lk5_2z">Mr. Matthew</persName> ist ein berühmter Schotte,
+                    der im Rufe steht <persName key="pdrPo.001.004.000001091">Darwins</persName>
+                    Theorie Jahre lang vor Darwin erfunden und
+                    publicirt zu haben.</orig>
+                        <note xml:id="e4770e77-2f21-401d-b04a-0365f0cf64b0">
+                            <bibl sameAs="zotero-604880-V5IIEGQQ">Patrick
+                        Matthew: On Naval Timber and Arboriculture.
+                        Edinburgh, London 1831. </bibl> In einem Anhang
+                        zum Buch behandelte er die Idee der künstliche
+                        Zuchtwahl der Bäume zur Verbesserung der
+                        Baumholzqualität.<!--(((lMatthew: On Naval Timber
+                                                  and Arboriculture. Edinburgh, London 1831)))-->
+                    </note>
+                    </seg> Schicke mir einige Facta aus
+                    Preußenland in Bezug auf Censur, Gerichtsverwaltung u.s.w.
+                    ich habe nämlich <choice>
+                        <sic>Allees</sic>
+                        <corr cert="high">Alles</corr>
+                    </choice> vergessen.</p>
+                <p>Hilf mir ein wenig gegen <choice>
+                    <sic>die</sic>
+                    <corr cert="high">den</corr>
+                </choice> Grobian <persName key="ed_dtm_gb5_lz">Rüdiger</persName> ein reicher Kaufmann in Gera.
+                    Schicke mir die <choice>
+                        <sic>Wiche</sic>
+                        <corr cert="high">Wische</corr>
+                    </choice> zurück und antworte</p>
+                <closer> bald<lb/>Deinem<lb/>Imandt </closer>
+            </div>
+           
+           
+            <head n="1" type="leftMargin">Beispieltexte aus Exzerpte</head>
+            
+            <div>
+            <head>2) <hi rendition="#u">Wasserstoff od<ex>er</ex> Hydrogen.</hi>
+                </head>
+            <p>
+                    <hi rendition="#u">H = 1. Dichte = 1.</hi>
+            </p>
+            <p>Wasser = H<hi rendition="#sub">2</hi>O.</p>
+            <p>Wirkt Kalium auf Wasser ein, so wird aus: O + K = = Kaliumhydroid + Wasserstoff.
+                <supplied cert="high">(p.
+                    16-17)</supplied><?oxy_comment_start author="grassmann" timestamp="20190716T161542+0200" comment="Hier Formel eintragen"?>
+                </p><?oxy_comment_end?>
+            <p>Schwefelsäure= H<hi rendition="#sub">2</hi>SO<hi rendition="#sub">4</hi>. Sezt
+                man Zink hinzu, so wird aus H<hi rendition="#sub">2</hi>SO<hi rendition="#sub">4</hi> + Zn = ZnSO<hi rendition="#sub">4</hi> + H<hi rendition="#sub">2</hi>; d. h. Zinksulfat + Wasserstoff.</p>
+            <p>
+                <table rows="3" cols="6">
+                    <row>
+                        <cell rows="4">Schwefelsäure =</cell>
+                        <cell>Schwefel, S</cell>
+                        <cell>= 32</cell>
+                        <cell rows="4">u<ex>nd</ex> Zinksulfat =</cell>
+                        <cell>S</cell>
+                        <cell>= 32</cell>
+                    </row>
+                    <row>
+                        <cell>Sauerstoff, O<hi rendition="#sub">4 </hi>
+                            </cell>
+                        <cell>= 64</cell>
+                        <cell>O<hi rendition="#sub">4</hi>
+                        </cell>
+                        <cell>= 64</cell>
+                    </row>
+                    <row>
+                        <cell>Wasserstoff, H<hi rendition="#sub">2</hi>
+                        </cell>
+                        <cell>= 2 <!-- Summenstrich (2 Spalten) --></cell>
+                        <cell>Zn</cell>
+                        <cell>= 65,2<!-- Summenstrich (2 Spalten) --></cell>
+                    </row>
+                    <row>
+                        <cell>H<hi rendition="#sub">2</hi>SO<hi rendition="#sub">4 </hi>
+                            </cell>
+                        <cell>= 98</cell>
+                        <cell>ZnSO<hi rendition="#sub">4 </hi>
+                            </cell>
+                        <cell>= 161,2.</cell>
+                    </row>
+                </table>
+            </p>
+            <p>Also 65,2 Gewichtstheile Zink erheischen 98 Gewichtstheile Schwefelsäure,
+                u<ex>nd</ex> geben 2 Gewichtstheile Wasserstoff u<ex>nd</ex> 161,2
+                Gewichtstheile Zinksulfat. <supplied cert="high">(p. 19-20)</supplied>
+                </p>
+            <pb n="2"/>
+            <p>
+                    <hi rendition="#u">Gase</hi> fast stets, nicht nach Gewicht, sondern Volum
+                bestimmt. </p>
+            <p>Gase dehnen sich am stärksten bei Wärme aus u<ex>nd</ex> ganz gleichmäßig. Bei
+                jedem Gas d<ex>ie</ex> Zunahme d<ex>es</ex> Volumens bei Temperaturerhöhung
+                v<ex>on</ex> 1<hi rendition="#sup">o</hi> d<ex>es</ex> 100theiligen
+                Thermometers = <hi rendition="#sup">1</hi>/<hi rendition="#sub">273</hi>
+                d<ex>es</ex> Rauminhaltes bei 0<hi rendition="#sup">o</hi>.</p>
+            <p>
+                <table rows="5" cols="3">
+                    <row>
+                        <cell>Nimmt also ein Gas</cell>
+                        <cell>bei 0<hi rendition="#sup">o </hi>
+                            </cell>
+                        <cell>273 Raumtheile ein,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>so bei 1<hi rendition="#sup">o </hi>
+                            </cell>
+                        <cell>274 (da <hi rendition="#sup">273</hi>/<hi rendition="#sub">273</hi> = 1)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>bei 2<hi rendition="#sup">o </hi>
+                            </cell>
+                        <cell>275</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>bei t<hi rendition="#sup">o </hi>
+                            </cell>
+                        <cell>273 + t</cell>
+                    </row>
+                    <row>
+                        <cell cols="3">Oder ein Raumtheil bei 0<hi rendition="#sup">o</hi> wird
+                            zu 1<hi rendition="#sup">1</hi>/<hi rendition="#sub">273</hi> bei
+                            1<hi rendition="#sup">o</hi>, <hi rendition="#sup">1</hi>/<hi rendition="#sub">273</hi> = 0,003665 heißt d<ex>er</ex>
+                            <hi rendition="#u">Ausdehnungscoefficient</hi> d<ex>er</ex>
+                            Gase.</cell>
+                    </row>
+                </table>
+            </p>
+            <p>Welchen Raum nehmen 1000 CC. Wasserstoff gemessen bei 0<hi rendition="#sup">o</hi> ein, wenn d<ex>ie</ex> Temperatur auf 20<hi rendition="#sup">o</hi>
+                steigt? 273 Raumtheile bei 0<hi rendition="#sup">o</hi> werden zu 273 + 20 = 293
+                Raumtheilen bei 20<hi rendition="#sup">o</hi>. Also – da <hi rendition="#sup">273</hi>/<hi rendition="#sub">273</hi> = 1 – 1000 CC bei 0<hi rendition="#sup">o</hi> werden bei 20<hi rendition="#sup">o</hi> zu = <hi rendition="#u">1000</hi> × <hi rendition="#sup">273 + 20</hi>/<hi rendition="#sub">273</hi> = <hi rendition="#sup">1000 × 293</hi>/<hi rendition="#sub">273</hi> = 1073,2. <supplied cert="high">(p.
+                    21)</supplied>
+                </p>
+            <p>
+                    <hi rendition="#u">Mariottesche Gesetz: Volum der Gase verhält sich umgekehrt wie
+                d<ex>er</ex> Druck, dem sie ausgesetzt sind.</hi>
+            </p>
+            <p>Z. B. hat man 1 Vol. eines Gases u<ex>nd</ex> vermindert d<ex>en</ex> Druck um
+                <hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi>, so nimmt es 2 vol.
+                ein; ist d<ex>er</ex> Druck nur <hi rendition="#sup">1</hi>/<hi rendition="#sub">3</hi>, so 3. Wird dagegen Druck verdoppelt, so vol. reduzirt auf <hi rendition="#sup">1</hi>/<hi rendition="#sub">2</hi>, wenn verdreifacht, auf
+                <hi rendition="#sup">1</hi>/<hi rendition="#sub">3</hi> etc. <hi rendition="#u">Mittlerer</hi> Druck d<ex>er</ex> Atmosphäre durch Barometer
+                gemessen = 760 Millimeter Höhe. Luftdruck schwankt aber beständig. Wenn
+                vergrössert, steigt Quecksilber im Barometer, wenn verkleinert, fällt es. Alle
+                Gase an d<ex>er</ex>
+                <?oxy_comment_start author="grassmann" timestamp="20191104T135554+0100" comment="In der 3. Aufl. diese Stellle anders"?>Erdoberfläche<?oxy_comment_end?>
+                diesem Druck unterworfen u<ex>nd</ex> ihr volumen in umgekehrt<ex>em</ex> Maß
+                dazu. Will man also z. B. berechnen, welches vol. Wasserstoff eine bestimmte
+                Menge v<ex>on</ex> Zink liefern kann, so muß man d<ex>ie</ex> Temperatur kennen,
+                wobei d<ex>as</ex> Gas aufgefangen wird u<ex>nd</ex> d<ex>en</ex> Luftdruck, bei
+                dem es gemessen wird. Zur Vergleichung d<ex>er</ex> volumina verschiedner Gase,
+                sind sie zu berechnen f<ex>ür</ex> d<ex>en</ex>selben Druck u<ex>nd</ex>
+                dieselbe Temperatur. Man nimmt 0<hi rendition="#sup">o</hi> als Normaltemperatur
+                an u<ex>nd</ex> als Normaldruck d<ex>en</ex> Druck einer<pb n="3"/>
+                Quecksilbersäule v<ex>on</ex> 760 Millimeter. <supplied cert="high">(p.
+                    21-2)</supplied>
+            </p>
+    
+                <head type="editor">
+                    <supplied reason="editorialOutline">Auszüge aus The Money Market
+                    Review, 19. Mai 1866 bis 28. Dezember 1867</supplied>
+                </head>
+                <pb n="1a"/>
+               
+                    <p>
+                    <hi rendition="#u">Savings Banks Deposits</hi> also in the <hi rendition="#u">Public Deposits</hi>.</p>
+                    <head>
+                    <hi rendition="#u">Money Market. 1866. V<ex>on</ex> 16 May an.</hi>
+                        <hi rendition="#u">(Bank of England)</hi>
+                </head>
+                    <table rend="drawn">
+                        <head>
+                        <hi rendition="#u">State <choice>
+                            <sic>14</sic>
+                            <corr cert="high">16</corr>
+                        </choice> May</hi>.</head>
+                        <row role="label">
+                            <cell cols="2">
+                            <hi rendition="#u">Circulation Issue</hi>
+                        </cell>
+                            <cell cols="2">
+                            <hi rendition="#u">Verglichen mit letzter Woche</hi>
+                        </cell>
+                        </row>
+                        <row>
+                            <cell role="label">Notes Issued:</cell>
+                            <cell>£.26,851,825</cell>
+                            <cell>Decrease:</cell>
+                            <cell>£442,895</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Active Circulation</cell>
+                            <cell>£.26,120,995</cell>
+                            <cell>Increase:</cell>
+                            <cell>£3,776,600</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Reserve in Notes u<ex>nd</ex> Coin</cell>
+                            <cell>£.1,202,810</cell>
+                            <cell>Decrease</cell>
+                            <cell>£4,608,935</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Public Deposits:</cell>
+                            <cell>£5,936,219</cell>
+                            <cell>Increase:</cell>
+                            <cell>£.154,392</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Other Deposits:</cell>
+                            <cell>£18,620,672</cell>
+                            <cell>Increase:</cell>
+                            <cell>£.5,105,135</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Gvt. Securities in Bank<ex>ing</ex> Dept.</cell>
+                            <cell>£.10,837,056</cell>
+                            <cell>Decrease:</cell>
+                            <cell>£57,198</cell>
+                        </row>
+                        <row>
+                            <cell role="label"><?oxy_comment_start author="grassmann" timestamp="20190715T154921+0200" comment="Marginalie x"?>Private<?oxy_comment_end?>
+                                Secur<ex>ities</ex> in Bank<ex>ing</ex> D<ex>epartment</ex>
+                            </cell>
+                            <cell>£.30,943,259</cell>
+                            <cell>Increase:</cell>
+                            <cell>10,099,042.</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Coin and Bullion (Issue departm<ex>ent</ex>) (no
+                                silver)</cell>
+                            <cell>£11,851,825</cell>
+                            <cell>Decrease (with coin in Bank<ex>ing</ex> departm<ex>ent</ex>)</cell>
+                            <cell>832,335</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Coin and Bullion In both departments.</cell>
+                            <cell>£12,323,805</cell>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                    <p>As a great deal of the borrowing (£.10,099,042 increase on Priv<ex>ate</ex>
+                        Sec<ex>urities</ex>) was merely precautionary, £.5,105,135 has been added to
+                        the private deposits. The notes withdrawn mostly hoarded by Country Bankers etc.
+                        The £832,335 of coin and bullion withdrawn must have been taken away chiefly by
+                        <hi rendition="#u">provincial</hi>, <hi rendition="#u">Scotch</hi>, and <hi rendition="#u">Irish bankers</hi>, as a measure of precaution.</p>
+                    <p>
+                    <hi rendition="#u">Bk. o. E. minimum rate of Disc<ex>ount</ex>
+                    </hi>: 10%. <hi rendition="#u">B. o. F.</hi> 4%.</p>
+                    <p>Bankrotte in Liverpool unter cotton merchants u<ex>nd</ex> shipowners.</p>
+                    <milestone unit="section" rendition="#hr"/>
+                    <lb/>
+                
+                    <table rend="drawn">
+                        <head>
+                        <hi rendition="#u">B. o. E. Return. 23 May</hi> (<hi rendition="#u">Wednesday</hi>)</head>
+                         <row>
+                            <cell cols="2" role="label">Circulation Issue</cell>
+                            <cell>£.26,300,435</cell>
+                            <cell>Decrease:</cell>
+                            <cell>£557,390</cell>
+                        </row>
+                        <row>
+                            <cell cols="2" role="label">Circulation Active</cell>
+                            <cell>25,469,570</cell>
+                            <cell>Decrease:</cell>
+                            <cell>651,425</cell>
+                        </row>
+                        <row>
+                            <cell rows="2" role="label">Reserve.</cell>
+                            <cell role="label">Notes.</cell>
+                            <cell>830,865</cell>
+                            <cell>Increase</cell>
+                            <cell>100,035</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Gold and Silver coin.</cell>
+                            <cell>557,351</cell>
+                            <cell>Increase.</cell>
+                            <cell>85,371</cell>
+                        </row>
+                        <row>
+                            <cell cols="2" role="label">Coin and Bullion in Both Dpts.</cell>
+                            <cell>11,857,786</cell>
+                            <cell>Decrease:</cell>
+                            <cell>466,019</cell>
+                        </row>
+                        <row>
+                            <cell role="label" cols="2">Public Deposits</cell>
+                            <cell>5,994,761</cell>
+                            <cell>Increase</cell>
+                            <cell>58,542</cell>
+                        </row>
+                        <row>
+                            <cell role="label" cols="2">Other Deposits</cell>
+                            <cell>18,790,917</cell>
+                            <cell>Increase</cell>
+                            <cell>170,245</cell>
+                        </row>
+                        <row>
+                            <cell cols="2" role="label">Gvt. securities in Banking Dpt.</cell>
+                            <cell>10,837,056</cell>
+                            <cell cols="2">No change</cell>
+                        </row>
+                        <row>
+                            <cell cols="2" role="label">Private Securities</cell>
+                            <cell>31,050,406</cell>
+                            <cell>Increase:</cell>
+                            <cell>107,147.</cell>
+                        </row>
+                    </table>
+                    <table rend="drawn">
+                        <row role="label">
+                            <cell/>
+                            <cell>
+                            <choice>
+                                <sic>B. o. E. Bk o E.</sic>
+                                <corr cert="high">B. o. E.</corr>
+                            </choice>
+                        </cell>
+                            <cell>B. o. F.</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Active Circulation</cell>
+                            <cell>£.25,469,570</cell>
+                            <cell>£.35,187,000</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Loans</cell>
+                            <cell>31,050,406</cell>
+                            <cell>28,481,000</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Coin and Bullion</cell>
+                            <cell>11,857,786</cell>
+                            <cell>21,465,500</cell>
+                        </row>
+                        <row>
+                            <cell role="label">Minimum Rate of Discount.</cell>
+                            <cell>10%</cell>
+                            <cell>4%.</cell>
+                        </row>
+                    </table>
+            
+            
+            
+            
+            </div>
+            
+            
+        </body>
+    </text>
+    
+</TEI>

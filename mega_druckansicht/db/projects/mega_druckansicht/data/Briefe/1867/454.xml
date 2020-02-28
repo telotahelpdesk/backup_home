@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_xyg_mkh_2gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>454</idno>Karl Marx an Victor Schily in Paris. London, Samstag, 30.
+                    November 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 702/C 185 Fotosign. 3026&lt;a&gt;,
+                                3022&lt;b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen dünnem, weißem Papier im Format 275 ´
+                            212 bzw. 180 mm. Die linke untere Ecke des Bogens ist abgerissen;
+                            dadurch entstandene Textverluste konnten dank den Schilys Einfügungen
+                            (siehe unten) rekonstruiert werden. Marx hat die erste Seite
+                            vollständig, die dritte zu drei Vierteln beschrieben, die zweite und die
+                            vierte Seite sind leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von Schilys Hand: Einfügungen der Wörter aus der abgerissenen Ecke des
+                            <?oxy_comment_start author="lindenberg" timestamp="20190318T111044+0100" comment="(siehe die Abbildung S. 000.)"?>Bogens
+                            (Ergänzung des Textverlust: „Profits“, „Ohne Einsicht“, „Arbeitstag“,
+                            „Worte“).<?oxy_comment_end?></p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung in
+                            russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹
+                            25 (1934)<?oxy_custom_end?>.</bibl></witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-38I66UYF">in der Sprache des
+                            Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW
+                            31 (1965).<?oxy_custom_end?> S. 573/574.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Marx, Karl (1818-1883)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-11-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000004249">Schily , Victor (1810-1875)</persName>
+                    <placeName key="ed_cn4_12j_wx">Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00452"/>
+                </correspContext>
+                <note/>
+                <note>Marx beantwortet Schilys Brief vom 27. November 1867 (siehe <ref target="B00452"><?oxy_comment_start author="reichhoff" timestamp="20190221T123437+0100" comment="Br. 442"?>V.
+                        Schily an Marx, 27.11.1867<?oxy_comment_end?></ref> ).</note>
+                <note>Zur Beilage („1 copy Liebknechts“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190318T111021+0100" comment="Erl. 454.29"?>Erl.<?oxy_comment_end?></note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> London. 30 Nov. 1867.</dateline>
+                    <salute>Lieber Schily,</salute>
+                </opener>
+                <p>Ich habe gleich nach Empfang Deines Briefs <seg type="comment"><orig>an <persName key="pdrPo.001.004.000003135">Meißner</persName>
+                            geschrieben</orig><note xml:id="nh1m_zrh_2gb">Marx’ Brief an Otto
+                            Meißner, geschrieben zwischen 27. und 30. November 1867, ist nicht
+                            überliefert.</note></seg>, daß <seg type="comment"><orig>er Dir für
+                                <persName key="pdrPo.001.004.000003905">Reclus</persName> eine copy
+                            des Buches zuschickt. R. scheint mir der richtige Mann als französischer
+                            Uebersetzer unter deutscher Cooperation. Bei einer Uebersetzung würde
+                            ich gewisse Aenderungen einzelner Theile angeben u. mir zugleich die
+                            letzte Revision vorbehalten.</orig><note xml:id="nimk_dsh_2gb">Siehe
+                                <ref target="B00452"><?oxy_comment_start author="lindenberg" timestamp="20191209T131648+0100" comment="(Br. 442.47–55).{über Reclus}"?>V.
+                                Schily an Marx, 27.11.1867<?oxy_comment_end?></ref> „Wie wär es nun
+                            ...“. – <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital.
+                                Bd. 1. Buch 1. Hamburg 1867.</bibl> Zur Übersetzung des ersten
+                            Bandes des „Kapital“ ins Französische siehe <ref target="B00260"><?oxy_comment_start author="lindenberg" timestamp="20191209T131845+0100" comment="(Br. 251) und Erl. 251c"?>Marx
+                                an L. Büchner, 1.5.1867<?oxy_comment_end?></ref> „Weßhalb ich mich
+                            …“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191209T134307+0100" comment=" 251c."?>Erl<?oxy_comment_end?>.</note></seg>
+                </p>
+                <p>Was zunächst geschehn müßte, u. sobald als möglich, wäre Sachen aus dem <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buch</bibl> in den <hi rendition="#u"><bibl sameAs="ed_qkf_ghf_lbb" type="periodika">Courrier
+                            Français</bibl></hi> zu bringen. Ich sehe nicht, warum <persName key="ed_ygm_hhs_ncb">Heß</persName> hierzu irgend eine dritte Person zu
+                    aggregiren hätte. Er macht das am besten allein. Auch scheint mir <subst>
+                        <del rendition="#s">die</del>
+                        <add place="superlinear">das</add>
+                    </subst> von ihm ins Auge gefaßte Thema über die engl. Fabrikgesetzgebung das
+                    passendste zur Einführung. Jedoch kann selbst das nicht geschehn, ohne ein paar
+                    einleitende Worte über die <hi rendition="#u">Werththeorie</hi>, da <persName key="pdrPo.001.004.000003833">Proudhon</persName> hierüber die Köpfe ganz
+                    verwirrt hat. Sie glauben eine Waare werde zu ihrem Werth verkauft, wenn sie zu
+                    ihrem <hi rendition="#u">prix de revient</hi> = Preis der Productionsmittel, die
+                    in ihr verzehrt sind, + Arbeitslohn (resp. <hi rendition="#u">Preis</hi> der den
+                    Productionsmitteln zugefügten Arbeit) verkauft werde. Sie sehn nicht, daß die
+                        <hi rendition="#u">unbezahlte Arbeit</hi>, die in d<ex>er</ex> Waare steckt,
+                    ein eben so wesentliches Werthbildendes Element ist, wie die bezahlte, u. daß
+                    dieß Werthelement jezt die <hi rendition="#u">Form des [Pro]fits</hi> etc
+                    annimmt. Sie wissen überhaupt nicht, <hi rendition="#u">was</hi> Arbeitslohn
+                    ist. [Ohne E]insicht in d<ex>ie</ex> Natur d<ex>es</ex> Werths haben
+                        d<ex>ie</ex> Entwicklungen über [Arbeit]stag etc, kurz d<ex>ie</ex>
+                    Fabrikgesetze, keine Basis. <hi rendition="#u">Ein paa[r Worte]</hi> hierüber
+                    müßten also einleitend gesagt werden. |</p>
+                <p>| <seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Mein
+                                Buchhändler</persName></orig><note xml:id="nu31_3sh_2gb"><persName key="pdrPo.001.004.000003135">Otto Meißner</persName>.</note></seg>
+                    ist mit dem Vertrieb <del rendition="#s">des <ex>Buchs</ex></del> in Dtschland
+                    zufrieden. Das Pack der Liberalen u. Vulgärökonomen sucht natürlich so viel
+                    thubar durch conspiration de silence, ihr altes probates Mittel, zu <subst>
+                        <del rendition="#s">wirken<sic ana="#break-off"/></del>
+                        <add place="intralinear">schaden</add>
+                    </subst>. Doch wird ihnen’s dießmal nicht gelingen.</p>
+                <p><seg type="comment"><orig>Ich lege Dir hier 1 copy <persName key="pdrPo.001.004.000002822">Liebknechts</persName>
+                            bei.</orig><note xml:id="nvsz_lsh_2gb"><bibl sameAs="zotero-604880-4XKDE42Q" type="primary">W[ilhelm] Liebknecht:
+                                Was ich im Berliner ,Reichstag‘ sagte … Leipzig [1867]</bibl>. Siehe
+                                <ref target="B00431"><?oxy_comment_start author="lindenberg" timestamp="20191209T141644+0100" comment=" 421.4–5{a}"?>Erl.
+                                zu W. Liebknecht an Marx,
+                            12.11.1867<?oxy_comment_end?></ref>.</note></seg> Du ersiehst aus
+                        d<ex>er</ex> Rückseite, daß er in diesen Wochen <seg type="comment"><orig>ein eignes <bibl sameAs="ed_umz_dxj_tgb" type="periodika">Wochenblättchen</bibl></orig><note xml:id="nqh1_4sh_2gb"><bibl sameAs="ed_umz_dxj_tgb" type="periodika">Demokratisches
+                                Wochenblatt</bibl>. Siehe <ref target="B00404"><?oxy_comment_start author="lindenberg" timestamp="20191209T141904+0100" comment="394l"?>Erl.
+                                zu W. Liebknecht an Marx, 19.10.1867<?oxy_comment_end?></ref>.
+                        </note></seg> herausgeben wird. Ich bin beauftragt Dich aufzufordern von
+                    Paris aus mitzuwirken. <del rendition="#s">Ich<sic ana="#break-off"/></del>
+                    (Seine Adresse: 11, Braustrasse, <seg type="comment"><orig><hi rendition="#u"><persName key="pdrPo.001.004.000002822">Mr.
+                                Miller</persName></hi></orig><note xml:id="ngyt_rsh_2gb">Deckname
+                            von <persName key="pdrPo.001.004.000002822">Wilhelm
+                                Liebknecht</persName>.</note></seg> ) Ich habe ihm den Kopf
+                    gewaschen wegen <seg type="comment"><orig>der Phrase über die „sociale Frage“
+                            (im Nachtrag)</orig><note xml:id="nb4f_vsh_2gb">Siehe <ref target="B00451"><?oxy_comment_start author="lindenberg" timestamp="20191209T143325+0100" comment="(Br. 441.38–39) und Erl. 441o"?>Marx
+                                an Engels, 27.11.1867<?oxy_comment_end?></ref> „Der Auszug ...“ und
+                            Erl.</note></seg> u. ditto seine Aufmerksamkeit darauf gelenkt, daß er
+                    in d<ex>er</ex> Polemik gegen <persName key="pdrPo.001.004.000000441">Bismarck</persName> das <subst>
+                        <del rendition="#s">süddeutsche</del>
+                        <add place="intralinear">süddeutsch</add>
+                    </subst> Unkritische vermeiden muß. Was ihn selbst schon stutzig hätte machen
+                    sollen, ist der Umstand, daß <persName key="pdrPo.001.004.000004901">Jacobus
+                        Venedey</persName> sein Bewundrer geworden ist.</p>
+                <p>Mit alle dem hat <persName key="pdrPo.001.004.000002822">L</persName>. durch sein
+                    kühnes Auftreten im Reichstag wohlthätig gewirkt.</p>
+                <p>Die ganze Familie grüßt Dich aufs Herzlichste.</p>
+                <closer>
+                    <signed>Dein <lb/>
+                        <seg type="comment"><orig><hi rendition="#u">A. Williams.</hi></orig><note xml:id="nnlt_wsh_2gb">
+                                <p>Deckname von Marx.</p>
+                            </note></seg></signed>
+                </closer>
+            </div><div type="writingSession">
+                <p>Die Bewegung marschirt hier! |</p>
+            </div>
+        </body>
+    </text>
+</TEI>

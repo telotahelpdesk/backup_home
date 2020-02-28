@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00005" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Violation of the Prussian Constitution</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-09-04</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich:] Violation of the Prussian Constitution. In: Northern Star. Vol. X. Nr. 446, 30. Mai 1846. S. 5.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Violation of the Prussian Constitution.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication" when="1846-05-30"/>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">X [IX?]</biblScope>
+                        <biblScope unit="issue">446</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                        <biblScope unit="column">4</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <date notBefore="1846-05-01" notAfter="1846-05-29">Mai 1846</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <p><hi rendition="#smaller">Last, not least, financial difficulties add to the embarrassments of the
+                    Government, and have given rise to a measure involving a further departure from
+                    the solemn pledges given by the Crown to the people. On this subject we have
+                    been favoured with the following communication from our German Correspondent:
+                    —</hi></p>
+            </div>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">Violation of the Prussian Constitution.</hi></hi></head>
+                <p>There exists a law in Prussia dated 22nd of June, 1820, forbidding the King to
+                    contract any State Debts without the sanction of the States General, an assembly
+                    which it is very well known, does not yet exist in Prussia. This law is the only
+                    guarantee the Prussians have for ever getting the constitution which, since
+                    1815, has been promised to them. The fact of the existence of such a law not
+                    being generally known out of Prussia, the government succeeded in 1823 in
+                    borrowing <hi rendition="#i">three millions of pounds</hi> in England —
+                    first violation. After the French revolution of 1830, the Prussian government
+                    being obliged to make extensive preparations for a war which was then likely to
+                    break out, they not having any money, made the “interests for transatlantic
+                    trade”, a government concern, borrow twelve millions of dollars (£ 1.700.000),
+                    which, of course, were under the guarantee of the government, and spent by the
+                    government — second violation. Not to speak of the small violations, such
+                    as loans of a few hundred thousands of pounds by the same concern, the King of
+                    Prussia has, at this moment, committed a third great violation. The credit of
+                    this concern being as it seems exhausted, the Bank of Prussia, being just in the
+                    same way, exclusively, a government concern, has been empowered by the King to
+                    issue bank notes to the amount of ten millions of dollars (£ 1.350.000). This
+                    deducting 3⅓ millions as deposit and ⅔ millions for the increased expences of
+                    the establishment, amounts in reality to an “indirect loan” of six millions of
+                    dollares or nearly one million of pounds, which the government will be
+                    responsible for, as up to this time no private capitalists are partners to the
+                    Bank of Prussia. It is to be hoped that the Prussians, particularly the middle
+                    classes, who are most interested in the constitution, will not let this pass
+                    without an energetic protest.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

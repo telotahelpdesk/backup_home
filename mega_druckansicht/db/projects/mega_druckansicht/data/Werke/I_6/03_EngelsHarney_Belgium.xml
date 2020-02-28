@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_ihn_dv2_nfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Belgium</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <persName>George Julian Harney</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-19</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich, George Julian Harney:] Belgium. In: Northern Star. Vol. X. Nr. 451,
+                    4. Juli 1846. S. 5.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Belgium</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1846-07-04</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’
+                            Journal</title>
+                        <biblScope unit="volume">X [IX?]</biblScope>
+                        <biblScope unit="issue">451</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                        <biblScope unit="column">2</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <persName>George Julian Harney</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <placeName key="ed_wz2_shs_qx">London</placeName>
+                <date notBefore="1846-06-21" notAfter="1846-06-30">Ende Juni 1846</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <p><hi rendition="#smaller">There has been lately holden in</hi></p>
+            </div>
+            <div>
+                <head><hi rendition="#smaller"><hi rendition="#c"><hi rendition="#k">Belgium,</hi></hi></hi></head>
+                <p><hi rendition="#smaller">in the Town Hall of Brussels, a “Liberal Congress”, consisting of
+                    three hundred and sixty deputies, under the presidency of M. Defacqz, a
+                    councillor of the Court of Cassation, one of the Chiefs of the Liberal party.
+                    The object of this movement, according to the programme of the Congress is
+                    “to obtain electoral reform by the adjunction of the Jury lists, and by a
+                    certain reduction of the present assessment of the towns; to establish the real
+                    independence of the civil power; to organise by authority a system of public
+                    instruction for every class under the exclusive direction of the civil power,
+                    and rejecting the intervention of the clergy; to increase the number of Deputies
+                    and Senators, in the proportion of one Deputy to 40.000 souls, and one Senator
+                    to 80.000 souls; to abrogate certain laws; and to ameliorate the condition of
+                    the poorer classes”. A central committee will direct the efforts of the
+                    local societies to influence public opinion and the elections. From a friend at
+                    Brussels we have been put in possession of the following communication
+                    explaining the distinction and differences between the “Liberal” and
+                    the “Catholic” party: —</hi></p>
+                <p>The resolutions of the <hi rendition="#i">Congrés Libérals</hi> are on the whole
+                    a victory of what is called here the <hi rendition="#i">young</hi> liberals over
+                    the <hi rendition="#i">old</hi> ones; but rather a slight victory. The proposed
+                    extension of the suffrage, if carried out even to the utmost limits allowed
+                    (reducing the qualification of voters to 20 guilders or 33s. paid annually in
+                    taxes) would give the right of voting to the <hi rendition="#i">petite <choice>
+                            <sic>bourgeoise</sic>
+                            <corr cert="high">bourgeoisie</corr>
+                        </choice></hi>, or shopkeeping class, and to some smaller landed
+                    proprietors. The mass of the people would remain entirely excluded from
+                    representation. The admittance of the <hi rendition="#i">capacities</hi>, <hi rendition="#i">i. e.</hi> lawyers, physicians, schoolmasters, and others who
+                    have to undergo public examinations and attend the universities, at the above
+                    qualification a measure, which the Congress asked for as an immediate necessity,
+                    would introduce into the Parliament not supporters of popular measures but
+                    advocates of the shopkeeping interests. As to the demanded “real
+                    independence of the civil power
+                    <?oxy_comment_start author="pagel" timestamp="20181022T120851+0200" comment="Fehlt in 1. Ausgabe, korrigiert in 2. Ausgabe."?>of<?oxy_comment_end?>
+                    the clergy”, this is futile as long as the other <choice>
+                        <sic>measures,</sic>
+                        <corr cert="high">measures</corr>
+                    </choice> are not carried, and then it will follow as a matter of course. The
+                    clergy are the chief advocates of the landed interest, the nobility in
+                    particular; the liberals consist of the trading capitalists in the towns. The
+                    struggle between Catholics and Liberals is the same as in England, between
+                    landlords and money-lords, Protectionists and Freetraders, it is the struggle of
+                    the <hi rendition="#i">town</hi> against the <hi rendition="#i">country</hi>. If
+                    the <hi rendition="#i">towns</hi>, that is the liberals, pass their measures,
+                    which, however, they are yet far from, the civil power <hi rendition="#i">will</hi> naturally be independent of the clergy, because the clergy are
+                    merely the interested advocates of the landlords, and their power will be broke
+                    as soon as that of the landlords is overturned. The <hi rendition="#i">people</hi> have taken very little interest in the whole Congress
+                    affair.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00432" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>422</idno>Karl Marx an Friedrich Engels in Manchester. London,
+                    Donnerstag, 14. November 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4502/L VI 635</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            135 × 180 mm. Prägung: Wappenschild mit Lilie mit der Aufschrift „Satin
+                            vergee“. Die erste Seite hat Marx vollständig beschrieben, die zweite
+                            ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes auf der ersten Seite oben rechts:
+                            „55“.</p>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2113</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913)<?oxy_custom_end?>. S. 427/428.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                    <date when="1867-11-14"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                </correspAction>
+                <note>Zu den zwei Beilagen („Einliegend ein Brief aus Rußland u. einer aus
+                    Solingen“) zum Brief siehe Erl.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:40Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 14 Nov. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Einliegend ein Brief aus Rußland u. einer aus
+                            Solingen</orig><note xml:id="c63cd073-c816-43a5-91fa-7d2849390c0d"><ref target="B00417"><?oxy_comment_start author="reichhoff" timestamp="20180611T120021+0200" comment="(Br. 407)"?>J.
+                                Dietzgen an Marx, 5.<?oxy_comment_end?>11.1867</ref> und <ref target="B00424"><?oxy_comment_start author="reichhoff" timestamp="20180611T120054+0200" comment="(Br. 414)"?>C.
+                                Klein an Marx, 8.11.1867 <?oxy_comment_end?></ref>.</note></seg>.
+                        <seg type="comment"><orig>Der <persName key="pdrPo.001.004.000001158">Deutschrusse</persName></orig><note xml:id="f73e1011-0b2a-4ffd-9fa4-336ecfd9fce1"><persName key="pdrPo.001.004.000001158">Joseph Dietzgen</persName>. 1859–1861
+                            lebte er in den USA.</note></seg> scheint mir derselbe Mann zu sein,
+                    wovon <seg type="comment"><orig><persName key="pdrPo.001.004.000003182">Meyer</persName></orig><note xml:id="c441751c-75ad-49c8-9450-a5f9c054f53a">Offensichtlich <persName key="pdrPo.001.004.000003182">Hermann Meyer</persName>. Er besuchte
+                            Marx und Engels im Mai 1867. Siehe <ref target="B00271"><?oxy_comment_start author="reichhoff" timestamp="20180611T120159+0200" comment="(Br. 262)"?>Marx
+                                an Engels, um den 22.5.1867<?oxy_comment_end?></ref>. Auf dem
+                            Rückweg von Deutschland nach den USA im Oktober 1867 besuchte er Marx
+                            wieder. Siehe <ref target="B00391"><?oxy_comment_start author="reichhoff" timestamp="20180611T120301+0200" comment="(Br. 381.83)"?>L.
+                                Kugelmann an Marx, 13.<?oxy_comment_end?>10.1867</ref> „In diesen
+                            Tagen ...“, <ref target="B00402"><?oxy_comment_start author="reichhoff" timestamp="20180611T120335+0200" comment="(Br. 392)"?>Engels
+                                an H. Meyer, 18.<?oxy_comment_end?>10.1867</ref> und <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180611T120420+0200" comment=" (Br. 395.65–66)"?>Marx
+                                an Engels, 19.10.1867<?oxy_comment_end?></ref> „H. Meyer war
+                            vorgestern hier ...“.</note></seg> uns erzählt hat.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000002616">Kugelmann</persName> hat mir eine Nummer der „<bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutschen
+                                Volkszeitung</bibl>" (Hannover) geschickt, worin von ihm verfaßte
+                            kurze Notiz meines Buchs</orig><note xml:id="b855e1c7-e6eb-4faf-82a7-3e937410c06e">Zu Kugelmanns Rezension
+                            über den ersten Band des „Kapital“ in der hannoverischen „<bibl sameAs="ed_ddn_rzj_tgb" type="periodika">Deutschen
+                                Volkszeitung</bibl>“ vom 10. November 1867 siehe <ref target="B00419"><?oxy_comment_start author="reichhoff" timestamp="20180611T120514+0200" comment="(Br. 409.38–40)"?>L.
+                                Kugelmann an Marx, 6.11.1867<?oxy_comment_end?></ref> „Ich selbst
+                            wagte ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191115T131436+0100" comment="409h."?>Erl.<?oxy_comment_end?> </note></seg>.
+                    K. imitirt darin, u. keineswegs glücklich, <seg type="comment"><orig>einen
+                            Deiner Artikel</orig><note xml:id="b8071ca6-6d25-47a5-b05f-1d8c45969a48">Siehe <ref target="B00389"><?oxy_comment_start author="reichhoff" timestamp="20180611T120610+0200" comment="(Br. 379.3–7)"?>Engels
+                                an L. Kugelmann, 12.10.1867<?oxy_comment_end?></ref> „Um nun Arbeit
+                            zu sparen ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191115T132020+0100" comment="379d."?>Erl.<?oxy_comment_end?> </note></seg>.
+                    Da dieß Blatt demokratisch ist, hätte er mehr auf den Inhalt eingehn können. Er
+                    läßt mich u.a. „zu der“ allerdings „erstaunlichen Schlußfolgerung“ ankommen,
+                    „daß alles Kapital <hi rendition="#u">durch unbezahlte Arbeits</hi><hi rendition="#uu">kraft</hi> entstanden sei“. Unter den „deutschen Koryphäen
+                    der politischen Oekonomie“, deren „Urtheil“ er haben will, figurirt Herr
+                        „<persName key="pdrPo.001.004.000001474">Faucher</persName>“ (glücklicher
+                    Weise „Taucher“ gedruckt) an der <hi rendition="#u">Spitze</hi> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000004074">Roscher</persName> am Ende</orig><note xml:id="nyss_xxp_hkb">Von
+                                <persName key="pdrPo.001.004.000004074">Wilhelm Roscher</persName>
+                            ist eine spätere Anmerkung zum „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“  in seiner „<bibl sameAs="zotero-604880-W83LDSD4" type="primary">Geschichte der
+                                Nationalökonomik</bibl>“  (1874 . S. 1021/1022 [u. ö.])
+                            überliefert</note></seg>.</p>
+                <p><seg type="comment"><orig>Die <add place="superlinear">von Dir</add> über
+                                <persName key="pdrPo.001.004.000001631">Freiligrath</persName>
+                            mitgetheilten „Enthüllungen“</orig><note xml:id="e919f409-b807-4bbf-8cf3-f4791d452e5d">Siehe <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180611T120801+0200" comment="(Br. 418.44–58)"?>Engels
+                                an Marx, 10.11.1867 <?oxy_comment_end?></ref> „Ad vocem Freiligrath
+                            ...“.</note></seg> haben hier im Hause grosse Sensation gemacht.</p>
+                <p><persName key="pdrPo.001.004.000003392">Bonaparte</persName> braucht in diesem
+                    Augenblick, um aus <expan>d<ex>er</ex></expan> Patsche zu kommen,
+                    <?oxy_comment_start author="lindenberg" timestamp="20191115T133929+0100" comment="Aufruhr"?>Émeute<?oxy_comment_end?>
+                    oder geheime Gesellschaft in Paris. Einstweilen behandelt er <seg type="comment"><orig><expan>d<ex>ie</ex></expan> Ligue de la Paix</orig><note xml:id="d141171f-74fd-4a4b-9d0b-aaaed5e99339">Ligue internationale de la
+                            paix et de la liberté (die Friedens- und Freiheitsliga). Siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20191115T133759+0100" comment="304g"?>Erl. zu
+                                S. L. Borkheim an Marx,
+                        5.8.1867<?oxy_comment_end?></ref>.</note></seg> als solche. Esel <persName key="pdrPo.001.004.000003851">Pyat</persName> bereitet ihm <add place="superlinear">von</add> hier aber just now das nöthige corpus delicti
+                    vor.</p>
+                <p>Ich habe einen lästigen carbunculum auf <expan>d<ex>er</ex></expan> rechten Seite
+                        <expan>d<ex>es</ex></expan>
+                    Rückens.</p>
+                <p>Salut</p>
+                <closer>Dein<lb/>K. M. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

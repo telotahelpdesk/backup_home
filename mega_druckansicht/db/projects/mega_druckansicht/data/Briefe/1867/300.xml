@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00309" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>300</idno>Otto Meißner an Karl Marx in London. Hamburg,
+                                        Mittwoch, 31. Juli 1867</title>
+                        </titleStmt><editionStmt>
+                                <edition>Dieser Brief wird hier erstmals
+                                        veröffentlicht.</edition>
+                        </editionStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">D 3348/D VI 39
+                                                  Fotosign. 8873.</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Blatt mittelstarkem,
+                                                  weißem Papier im Format 134 × 165 mm. Die erste
+                                                  Seite hat Meißner fast vollständig beschrieben,
+                                                  die zweite ist leer. Schreibmaterial: schwarze
+                                                  Tinte.</p>
+                                                <p>Von Engels’ Hand: auf der zweiten Seite am
+                                                  rechten Rand quer geschrieben mit Bleistift der
+                                                  Vermerk: „<hi rendition="#u">31 Aug 67</hi>“.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 5 d. 1720</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000003135">Otto
+                                                Meißner</persName>
+                                        <placeName key="ed_swt_wjv_cbb">Hamburg</placeName>
+                                        <date when="1867-07-31"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                </correspAction>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:46:08Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Hamburg 31/7
+                                                67</dateline>
+                                        <salute>Lieber Herr Doctor!</salute>
+                                </opener>
+                                <p><seg type="comment"><orig>Die
+                                                  Vorrede</orig><note xml:id="c372c5ae-752e-48f1-a17c-3f7bbc400342">Ebenda. Vorwort. S. VII–XII (MEGA² II/5.
+                                                  S. 11–15). Marx unterschrieb das Vorwort am
+                                                  25. Juli 1867.</note></seg> habe eben erhalten.
+                                        Wie steht’s mit dem Doppeltitel? Sie haben mir noch nicht
+                                        gesagt, wie <seg type="comment"><orig>der zweite
+                                                  Titel</orig><note xml:id="cfe7da4e-136a-4bd4-8824-ee430161610d"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Kritik der
+                                                  politischen Oekonomie. Bd. 1. Buch. 1.</bibl> –
+                                                  Marx nannte den endgültigen Titel – „Das Kapital“
+                                                  – und den Untertitel – „Zur Kritik der politischen
+                                                  Ökonomie“ – zuerst in seinem Brief an Louis
+                                                  Kugelmann vom 28. Dezember 1862. (Siehe MEGA<hi rendition="#sup">2</hi> III/12.
+                                                  Br. 191.9–23.)</note></seg> lauten soll.</p>
+                                <p>Mit <seg type="comment"><orig>Engels,
+                                                  der mir sehr gefallen, war ich bei seiner
+                                                  Durchreise</orig><note xml:id="ed56ebd7-5972-49de-86b5-ef6412ff0347">Siehe <ref target="B00284">Engels an Marx, 26.
+                                                  Juni 1867</ref> und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190527T151238+0200" comment=" 275e"?>Erl.<?oxy_comment_end?>).<?oxy_comment_start author="lindenberg" timestamp="20190129T173905+0100" comment="{Engels’ Reise nach dem Kontinent}"?><?oxy_comment_end?></note></seg>
+                                        einen ganzen Tag zusammen.</p>
+                                <closer>Herzlichen Gruß<lb/>von Ihrem Otto
+                                        Meissner</closer>
+                                <postscript>
+                                        <p>Aushängebogen sandte ich bis 32 <pb/></p>
+                                </postscript>
+                        </div>
+                </body>
+        </text>
+</TEI>

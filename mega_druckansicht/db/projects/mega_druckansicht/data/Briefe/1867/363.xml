@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="mega_gns_c55_zfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>363</idno> Jenny Marx an Johann Philipp Becker in Genf. London, nicht
+                    später als Samstag, 5. Oktober 1867 </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 1 op. 1 d. 2087</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 1, op.
+                            1, d. 2087.</p>
+                        <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem
+                            Blatt. Die erste Seite hat Jenny Marx vollständig, die zweite Seite zu
+                            zwei Dritteln beschrieben. Beim Fotokopieren wurde die rechte Ecke der
+                            Seite umgebogen; dadurch entstandene Textverluste („Her[zen]“, „ g[ern
+                            sein]“) konnten rekonstruiert werden. Schreibmaterial: schwarze
+                            Tinte.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben rechts mit Bleistift das
+                            Datum „5/10. 67.“ und die Nummerierung des Briefes und der beschriebenen
+                            Seiten „5,1&lt;a&gt;“ bzw. „5,1&lt;b&gt;“.</p>
+                        <p>Datierung in der Erstveröffentlichung: 5. Oktober 1867.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in
+                            russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹
+                            25 (1934).<?oxy_custom_end?> S. 495.</bibl></witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-38I66UYF">in der Sprache des
+                            Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEW
+                            31 (1965).<?oxy_custom_end?> S. 594.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000003075">Marx, Jenny (1814-1881)</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-10-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000000317">Becker, Johann Philipp
+                        (1809-1886)</persName>
+                    <placeName key="ed_p3t_jpj_wx">Genf</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00375"/>
+                </correspContext>
+                <note>Zur Datierung: Becker beantwortet den Brief am 7. Oktober 1867 (<ref target="B00375"><?oxy_comment_start author="lindenberg" timestamp="20190219T154128+0100" comment="Br. 364"?>J.
+                        Ph. Becker an J. Marx, 7.10.1867<?oxy_comment_end?></ref>). Davon ausgehend,
+                    daß ein Brief von London nach Genf ca. zwei Tage unterwegs war, dürfte Jenny
+                    Marx ihren Brief nicht später als am 5. Oktober 1867 geschrieben haben.</note>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute>
+                        <pb/> Mein lieber Herr Becker,</salute>
+                </opener>
+                
+                <p>Ich hoffe Sie haben <seg type="comment"><orig>meinen Brief</orig><note xml:id="nwx5_wy5_zfb">Jenny Marx’ Brief an Johann Philipp Becker,
+                            geschrieben vor dem 5. Oktober 1867, ist nicht im Original überliefert.
+                            Den Auszug aus diesem Brief siehe <ref target="B00371"><?oxy_comment_start author="lindenberg" timestamp="20190722T164028+0200" comment="(Br. 361a)"?>J.
+                                Marx an J. Ph. Becker, vor
+                            5.10.1867<?oxy_comment_end?></ref>.</note></seg> erhalten. Sie sind
+                    sicher erstaunt einen zweiten so schnell dem ersten auf dem Fuß nachfolgen zu
+                    sehn. Mein Mann hätte gern <seg type="comment"><orig><persName key="pdrPo.001.004.000000231">Bakounine</persName>’s
+                            Adresse</orig><note xml:id="nrhf_zy5_zfb">Siehe <ref target="B00375"><?oxy_comment_start author="lindenberg" timestamp="20190722T164130+0200" comment="(Br. 364.5–6)"?>J.
+                                Ph. Becker an Marx,
+                    7.10.1867<?oxy_comment_end?></ref>.</note></seg>, u. ich bin überzeugt, daß Sie
+                    sie leicht in Genf vielleicht via <persName key="pdrPo.001.004.000001761">Her[zen]</persName> auftreiben können. Er will ihm g[ern sein] <seg type="comment"><orig>Buch</orig><note xml:id="nmk3_bz5_zfb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch
+                                1. Hamburg 1867.</bibl> Ein Widmungsexemplar des ersten Bandes des
+                            „Kapital“ bzw. ein entsprechender Brief von Marx an <persName key="pdrPo.001.004.000000231">Bakunin</persName> sind nicht
+                            überliefert.</note></seg> schicken u. über andre Sachen zu schreiben.
+                    Sein Sie von uns Allen herzlich gegrüßt u. besonders von</p>
+				<closer> Ihrer<salute/> Jenny Marx </closer>
+            </div>
+            <div type="writingSession">
+                <p>1 Modena Villas  <lb/>Maitland Park  <lb/>London.<pb/></p></div>
+        </body>
+    </text>
+</TEI>

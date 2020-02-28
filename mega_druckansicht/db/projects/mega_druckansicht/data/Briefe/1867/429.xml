@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00439" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>429</idno>Elisabeth Engels an Friedrich Engels in
+                                        Manchester. Barmen, Samstag, 23. November 1867</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <?oxy_comment_start author="lindenberg" timestamp="20190311T163407+0100" comment="urspr. an dieser Stelle:
+&lt;institution&gt;RGASPI&lt;/institution&gt;
+                                                &lt;idno&gt;&lt;idno type=&quot;shelfmark&quot;
+                                                  &gt;&lt;?oxy_comment_start author=&quot;lindenberg&quot; timestamp=&quot;20190311T160303+0100&quot; comment=&quot;lt ZB: Privatbesitz [FEH, Wuppertal], Wuppertal&quot;?&gt;&lt;?oxy_custom_start type=&quot;oxy_content_highlight&quot; color=&quot;153,255,255&quot; mid=&quot;1&quot;?&gt;Standort
+                                                  Orig. nicht
+                                                  bekannt&lt;?oxy_comment_end?&gt;&lt;?oxy_custom_end mid=&quot;1&quot;?&gt;;
+                                                  Kopie: f. 9 op. 1 d. 53&lt;/idno&gt;&lt;/idno&gt;"?>
+                                                <institution>STAW (Stadtarchiv
+                                                  Wuppertal)</institution>
+                                                <collection>ND 3 (Dokumentation Friedrich
+                                                  Engels)</collection>
+                                                <idno><idno type="shelfmark">Nr. 202/8</idno></idno>
+                                        </msIdentifier><?oxy_comment_end?>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format 284 x 220 mm sowie einem
+                                                  Umschlag aus blauem Papier im Format 147 x 60 mm
+                                                  mit der Prägung „EE“.
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190311T165650+0100" comment="vorher: Der Brief besteht aus zwei Blättern und einem Umschlag."?><?oxy_comment_end?>
+                                                  Alle vier Seiten hat Elisabeth Engels vollständig
+                                                  beschrieben. Die Passage von „Deinem neuen Pferd“
+                                                  bis „E.“
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20190311T163733+0100" comment="(Z. 47–50)"?>steht<?oxy_comment_end?>
+                                                  quer geschrieben am linken Rand. Schreibmaterial:
+                                                  schwarze
+                                                  Tinte.<?oxy_comment_start author="lindenberg" timestamp="20190311T163445+0100" comment="urspr. an dieser Stelle: Soweit aus der Fotokopie zu ersehen ist, besteht der Brief ..."?></p><?oxy_comment_end?>
+                                                <p>Auf dem Umschlag befinden sich vier Poststempel:
+                                                  zweimal „Barmen 23 11 67 5–6 N.“, „P.D.“ und „N
+                                                  Manchester 25 No 67 17“ sowie eine
+                                                  Zwei-Silbergroschen-Briefmarke.</p>
+                                                <p>Von unbekannter Hand: oben in der Mitte die
+                                                  Datierung: „<hi rendition="#u">23.11.67.</hi>“</p>
+                                                <p>Fotokopie: RGASPI, Sign. f. 9, op. 1, d. 53.</p>
+                                        </physDesc>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-WXILZ7M7">Erstveröffentlichung:
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Die
+                                                  Herkunft des Friedrich Engels
+                                                  (1991)<?oxy_custom_end?>.
+                                                S. 650/651.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="pdrPo.001.004.000001367">Engels, Elisabeth
+                                                (1797-1873)</persName>
+                                        <placeName>Barmen</placeName>
+                                        <date when="1867-11-23"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName>Manchester</placeName>
+                                </correspAction>
+                                <note>Elisabeth Engels beantwortet einen nicht überlieferten Brief
+                                        von Engels, geschrieben vor dem 23. Oktober 1867 (siehe
+                                        <?oxy_comment_start author="lindenberg" timestamp="20190311T155920+0100" comment="Z. 3 "?>„Deinen
+                                        Brief vom vorigen Monat“<?oxy_comment_end?> und
+                                        Erl.).</note>
+                        </correspDesc>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2018-03-14T09:47:49Z</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        OxGarage DOCX to TEI | 2.15.0</change>
+                                <change><date>2018-03-14T15:35:01+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener>
+                                        <dateline><pb/> Barmen 23 Novbr. 67</dateline>
+                                        <salute>Lieber Friedrich</salute>
+                                </opener>
+                                <p>Erst heute komme ich dazu <seg type="comment"><orig>Deinen Brief
+                                                  vom vorigen Monat</orig><note xml:id="e0aef932-8662-48b1-b6aa-61b9fde13171">Zum
+                                                  Engels Brief an seine Mutter siehe <ref target="B00408"><?oxy_comment_start author="reichhoff" timestamp="20180611T140250+0200" comment="(Br. 398.3)"?>H.
+                                                  Engels an Engels,
+                                                  25.10.1867<?oxy_comment_end?></ref> und
+                                                  Erl.</note></seg> zu beantworten, wie er an kam
+                                        war ich grade auf ein Paar Tage mit <seg type="comment"><orig><persName key="pdrPo.001.004.000001915">Hepchen</persName></orig><note xml:id="a05ee52a-65f4-4093-9f5a-8526449d2847">Warscheinlich <persName key="pdrPo.001.004.000001915">Hedwig von
+                                                  Griesheim</persName>.</note></seg> in Barmen um da
+                                        allerlei Besorgungen zu machen u. auch nebenbei ein Conzert
+                                        zu hören. Ich reißte wieder nach Engelsk. zurück um <seg type="comment"><persName key="pdrPo.001.004.000001365"><orig>Lottchen</orig></persName><note xml:id="bbcdd328-31e6-43a6-9de7-65a26a562023"><persName key="pdrPo.001.004.000001365">Charlotte
+                                                  Engels</persName>.</note></seg> bei der Unruhe der
+                                                <seg type="comment"><orig>Kircheneinweihung</orig><note xml:id="e30cb5a2-6604-4b88-81ae-1d6e0d288b57"> Die
+                                                  Bevölkerung Engelskirchens war überwiegend
+                                                  katholisch. Für die angeworbenen Facharbeiter
+                                                  evangelischer Konfession wurde zunächst im
+                                                  Speisesaal der Fabrik der sonntägliche
+                                                  Gottesdienst abgehalten. 1867 wurden die
+                                                  evangelische Kirche nebst Pfarrhaus und Schule
+                                                  eingeweiht. (Siehe <bibl sameAs="zotero-604880-WXILZ7M7" type="secondary">Die Herkunft des Friedrich Engels (1991)</bibl>.
+                                                  S. 650.)</note></seg> etwas zu unterstützen, denn
+                                                <seg type="comment"><orig><persName key="pdrPo.001.004.000001910">Elise</persName></orig><note xml:id="e58ba271-48b5-42c0-9581-b72ba84da838"><persName key="pdrPo.001.004.000001910">Elise von
+                                                  Griesheim</persName>.</note></seg> war in einem so
+                                        unbeholfenen Zustand, daß auf sie gar nicht zu rechnen war.
+                                        Am 13<hi rendition="#sup">t</hi> ist sie
+                                                  <expan>den<ex>n</ex></expan> eingeweiht, es war
+                                        ein recht schönes Fest u. vom schönsten Wetter begünstigt u.
+                                        ich freute mich daß ich es mit machen konnte. Wir hatten das
+                                        Consistorium von Coblenz bei uns im Hause, wozu auch
+                                                <persName key="pdrPo.001.004.000004502">Carl
+                                                Snethlage</persName>
+                                        <pb/> gehört, <seg type="comment"><orig>der <persName key="ed_gwc_vnr_rgb">President von
+                                                  Cöln</persName></orig><note xml:id="a1b149f4-112a-43c9-9455-88aa3be3cd42"><persName key="ed_gwc_vnr_rgb"><?oxy_comment_start author="lindenberg" timestamp="20190205T132249+0100" comment="vorher: Otto Friedrich Karl von Bernuth"?>Otto
+                                                  von
+                                                Bernuth<?oxy_comment_end?></persName>.</note></seg>
+                                        war auch da, verschiedene Landräthe u. wenigstes 20 bis
+                                        30 Pastöre, die aber alle denselben Abend wieder abreißten.
+                                        Es war eine rechte Unruhe aber nicht unangenehm, es waren
+                                        bei den Herrn aus Coblenz recht angenehme u. interessante
+                                        Leute u. da sie 2 Tage bei mir u. Lottchen wohnten lernte
+                                        man sie auch etwas näher kennen. Elise lag in der Zeit in
+                                        aller Ruhe in ihrem Bette, sie hatte uns 8 Tage vorher sehr
+                                        rasch mit <seg type="comment"><orig><persName key="ed_yp4_1yt_zgb">einem
+                                                  Söhnchen</persName></orig><note xml:id="cf254659-349f-4415-b8b4-bf2ecb9c37fb"><persName key="ed_yp4_1yt_zgb">Maximilian von
+                                                  Griesheim</persName> wurde am 8. November 1867 in
+                                                  Engelskirchen geboren. (Siehe <bibl sameAs="zotero-604880-WXILZ7M7" type="secondary">Die Herkunft des Friedrich Engels (1991)</bibl>.
+                                                  S. 651.)</note></seg> überrascht, das Kind ist
+                                        zwar einige Wochen zu früh geboren aber doch recht gesund,
+                                        wenn gleich es klein u. mager war, es schläft u. trinkt
+                                        vortrefflich u. hatte auch schon zugenommen wie ich abreißte
+                                        was vor 3 Tagen war.</p>
+                                <p><seg type="comment"><orig>Wie ich aus Deinem Brief sehe haben die
+                                                  Ermens wieder
+                                                  <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>un<ex>heil</ex>volle<?oxy_custom_end?>
+                                                  u. theils dumme Streiche gemacht.</orig><note xml:id="a75929e8-dbda-41d7-893c-a81f1bef7796">Siehe <ref target="B00279"><?oxy_comment_start author="reichhoff" timestamp="20180611T140357+0200" comment="(Br. 270)"?>E.
+                                                  Engels an Engels, 17.6.1867
+                                                  <?oxy_comment_end?></ref> und
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20191122T112523+0100" comment="270e."?>Erl.<?oxy_comment_end?> </note></seg>
+                                        Ich hoffe du <pb/> ärgerst Dich nicht so sehr darüber, es
+                                        ist nun einmal nicht anders mit ihnen, <seg type="comment"><persName key="ed_eyg_crj_sx"><orig>der
+                                                  Vater</orig></persName><note xml:id="fbfef87c-10cf-47c6-aa4f-0cc29b46d1d3"><persName key="pdrPo.001.004.000001372">Friedrich
+                                                  Engels (senior)</persName>.</note></seg> hat ja
+                                        dieselben Erfahrungen gemacht. Es ist in diesem Fall
+                                        allerdings gut daß Du bald mit ihnen nichts mehr zu thun
+                                        hast u. wünsche ich nur daß bis dahin daß Geschäft noch gut
+                                        bleibt. Hier kann man nicht viel
+                                                <expan>rü<ex>h</ex>men</expan>, die Bestellungen
+                                        kommen schwach, die Preise müssen ermäßigt werden u. dabei
+                                        haben sie im Sommer theure Baumwolle gekauft. Das ist nicht
+                                        angenehm.</p>
+                                <p>Ich bin in diesem Jahr 6 Monate in Engelsk. gewesen u. wie wir am
+                                        letzten Morgen wie ich abreisen wollte davon sprachen meinte
+                                                <seg type="comment"><orig><persName key="pdrPo.001.004.000001904">Adolf</persName></orig><note xml:id="b3468e27-6338-421c-81c1-a31aaad86364"><persName key="pdrPo.001.004.000001904">Adolf von
+                                                  Griesheim</persName>.</note></seg>, wenn ich noch
+                                        einige Tage länger blieb, dann würde Engelskirchen sich
+                                        melden u. mich zu den Steuern heran ziehen, hierdurch würden
+                                        wir veranlaßt überhaupt darüber zu sprechen was ich für
+                                        Nutzen haben würde wenn <pb/> ich mein Domicil dahin
+                                        verlegte u. <persName key="pdrPo.001.004.000001904">Adolf</persName> u. <seg type="comment"><orig><persName key="pdrPo.001.004.000001368">Emil</persName></orig><note xml:id="f41efcf1-da27-4a53-92fa-38ddcf658e7f"><persName key="pdrPo.001.004.000001368">Emil
+                                                  Engels</persName>.</note></seg> meinten ich würde
+                                        wol 300 Thl. damit ersparen. Diese Unterhaltung veranlaßte
+                                        mich wie ich ankam mal genaue Erkundigungen über die Steuern
+                                        anzustellen die ich hier bezahle, u. da fand ich daß ich in
+                                        diesem Jahr schon über 1300 Thl. bezahlt habe wo bei über
+                                        600 Thl. <expan>Kom<ex>m</ex>unalst</expan><ex>eue</ex>r
+                                        sind u. hier von muß ich noch 25% Zuschlag bezahlen für die
+                                        Bedürfnisse der Cholera Kranken. Der Zweck ist allerdings
+                                        gut u. ich habe nicht’s dagegen aber da ich doch beinah
+                                        6 Monate in Engelsk. bleibe kann ich auch leicht noch
+                                        14 Tage länger bleiben u. spare damit wahrscheinlich
+                                        600 Thl., ich habe mich deshalb entschlossen eine Anzeige zu
+                                        machen daß ich von <expan>Jan<ex>uar</ex></expan> an mein
+                                        Domicil nach Engelskirchen verlege. Nun leb wohl für heute,
+                                        wir sind Gott sei Dank gesund u. ich hoffe daß Du es auch
+                                        geblieben bist. Sei nur vorsichtig mit Deinem neuen Pferd
+                                        besonders auf der Jagd. Die Geschwister lassen Dich alle
+                                        grüßen.</p>
+                                <closer>Mit treuer Liebe<lb/>Deine Mutter E. </closer>
+                        </div>
+                        <div type="writingSession">
+                                <p/>
+                        </div>
+                        <div type="writingSession">
+                                <p><pb/> Herrn Friedr. Engels<lb/>adr. <orgName key="ed_mtd_tkh_1z">Ermen &amp; Engels</orgName><lb/><hi rendition="#u">Manchester</hi>
+                                        <pb/></p>
+                        </div>
+                </body>
+        </text>
+</TEI>

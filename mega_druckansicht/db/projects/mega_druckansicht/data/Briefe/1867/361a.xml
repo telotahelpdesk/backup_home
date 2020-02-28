@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00371" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>361a</idno>Jenny Marx an Johann Philipp Becker in Genf. London, vor Samstag, 5.
+          Oktober 1867</title>
+        <title> (Auszug)</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>Nicht überliefert</institution>
+            <idno/>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die Veröffentlichung
+              erfolgt nach der Wiedergabe des Auszugs des Briefes in: Der Vorbote. Genf. Nr. 10,
+              Oktober 1867. S.
+              155/156.</p>
+          </physDesc>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-QYMK3846">Erstveröffentlichung (Auszug):
+              <?oxy_comment_start author="lindenberg" timestamp="20190725T103105+0200" comment="Text mit Druck verglichen und korr."?>Der
+              Vorbote. Genf. Nr. 10, Oktober 1867. S.155/156<?oxy_comment_end?>.</bibl></witness>
+          
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000003075">Jenny Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+          <date when="1867-10-05"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="pdrPo.001.004.000000317">Johann Philipp Becker</persName>
+          <placeName key="ed_p3t_jpj_wx">Genf</placeName>
+        </correspAction>
+        <note>Zur Datierung: Jenny Marx erwähnt den vorliegenden Brief in ihrem Brief an Becker,
+          geschrieben nicht später als am 5. Oktober 1867 (<ref target="mega_gns_c55_zfb"><?oxy_comment_start author="lindenberg" timestamp="20190409T153847+0200" comment="Br. 363"?>J.
+            Marx an J. Ph. Becker, 5.10.1867</ref><?oxy_comment_end?>). Becker beantwortet beide
+          Briefe am 7. Oktober 1867  (<ref target="B00375"><?oxy_comment_start author="lindenberg" timestamp="20190409T154200+0200" comment="(Br. 364"?>J.
+            Ph. Becker an J. Marx, 7.10.1867<?oxy_comment_end?></ref>).</note>
+        <note>Der Veröffentlichung des Auszugs aus dem Brief von Jenny Marx an Johann Philipp
+          Becker, geschrieben vor dem 5. Oktober 1867, war eine Präambel von Becker einleitend
+          vorangestellt: „Wir schließen hier den Auszug des Briefes einer Freundin in London an,
+          worin unter Anderm Bezug auf den Arbeiterkongreß in Lausanne und Friedenskongreß in Genf,
+          und das neueste Werk von Marx, genommen ist:“ (Der Vorbote. Genf. Nr. 10, Oktober 1867. S.
+          155).</note>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2018-03-14T09:47:00Z</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener><salute>Sie glauben nicht, welch’ großes Aufsehen <seg type="comment"><orig>der
+                Lausanner-Kongreß</orig><note xml:id="e3aa6096-4c76-4b05-a18c-656aeae7f5e1">Zum
+                Lausanner Kongreß der IAA siehe Erl. zu <ref target="B00337"><?oxy_comment_start author="reichhoff" timestamp="20180913T140839+0200" comment=" 328d"?>Marx
+                  an Engels, 31.8.1867<?oxy_comment_end?></ref>.</note></seg> hier in der ganzen
+            Presse gemacht hat. Nachdem die „<bibl sameAs="ed_cct_4hf_lbb" type="periodika">Times</bibl>“ den Ton angegeben, täglich Korrespondenzen gebracht hatte, hielten es
+            auch die andern Blätter nicht mehr unter ihrer Würde, der Arbeiterfrage nicht nur
+            Notizen, sondern sogar lange Leitartikel zu widmen. Nicht nur in allen täglichen,
+            sondern auch in sämmtlichen Wochenblättern, war der Kongreß besprochen. Daß darunter ihn
+            viele vornehm und ironisch behandelten, ist ganz natürlich. Hat nicht jede Sache neben
+            der erhabenen auch ihre komische Seite, und warum sollte
+            <?oxy_custom_start type="oxy_content_highlight" color="153,255,255"?>unser<?oxy_custom_end?>
+            guter Arbeiterkongreß neben seinen plaudersüchtigen Franzosen ganz frei davon sein? Aber
+              <seg type="comment"><orig>trotz alledem und alledem</orig><note xml:id="cbb87519-67ac-49d7-a89b-86b316302b76"> Vermutlich Anspielung auf das nach
+                einer Vorlage von Robert Burns entstandene Gedicht von <persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath</persName> „Trotz alledem!“
+                (in: <bibl sameAs="zotero-604880-M9HBMRFJ" type="primary">Ferdinand Freiligrath: Ein
+                  Glaubensbekenntniß. Zeitgedichte. Mainz 1844.</bibl> S.
+                95–99).<?oxy_comment_start author="lindenberg" timestamp="20181130T173918+0100" comment="{kommentar-lb}Nochmal die Gedichtversionen genauer prüfen s. https://de.wikipedia.org/wiki/Trotz_alledem{/kommentar-lb}"?></note><?oxy_comment_end?></seg>
+            wurde er im Ganzen sehr anständig behandelt an au sérieux genommen. Selbst der <seg type="comment"><orig>„<bibl sameAs="ed_cjb_nnl_r3b" type="periodika">Manchester
+                  Examiner</bibl>“</orig><note xml:id="ncns_pfl_r3b">Es konnte nur ein Artikel mit
+                neutraler Berichterstattung in der „<bibl sameAs="ed_hxd_2nj_tgb" type="periodika">Manchester Weekly Times</bibl>“ vom 14. September 1867, Nr 510, S. 7, Sp. 2 unter
+                dem Titel „The Working Men's Congress at Lausanne“ ermittelt werden.</note></seg>,
+            das eigentliche Organ <persName key="pdrPo.001.004.000000612">John Bright</persName>’s
+            und der <seg type="comment"><orig>Manchesterschule</orig><note xml:id="dccc836e-7e75-44ed-97ee-29438c6700f2">„<?oxy_comment_start author="lindenberg" timestamp="20190718T161000+0200" comment="vorherige Erl.: Mit der Manchersterschule ist die Freihandelsdoktrin gemeint, die in der Stadt Manchester ihren Ausgang nahm. Die Anhänger dieser Richtung bildeten die sog. Manchesterpartei. Sie verteidigten die Freiheit des Handels und die Nichteinmischung des Staates in das wirtschaftliche Leben des Landes und der Stadt. An der Spitze der Bewegung standen die beiden Textilfabrikanten Richard Cobden und John Bright, die 1838 die Anti-Corn-Law League gegründet hatten. In den 1860er Jahren bildeten sie den linken Flügel der liberalen Partei"?>Manchester
+                School<?oxy_comment_end?>“ ist ein Begriff für eine von Manchester ausgehende
+                politische Strömung um <persName key="pdrPo.001.004.000000612">John
+                  Bright</persName> und <persName key="pdrPo.001.004.000000939">Richard
+                  Cobden</persName>, eine Freihandelsbewegung, die mit dem Widerstand gegen die
+                Getreidezölle in England Ende der 1830er/Anfang der 1840er Jahre ihren Anfang
+                genommen hatte. Zur Terminologie bei <persName key="ed_ats_ysj_wx">Marx</persName>
+                und <persName key="ed_eyg_crj_sx">Engels</persName> siehe <bibl sameAs="zotero-604880-GEYU4HAF" type="secondary">Geschichtliche Grundbegriffe. Bd.
+                  3.</bibl> S.
+                805/806.<?oxy_comment_start author="lindenberg" timestamp="20181130T174004+0100" comment="{kommentar-lb}Nochmal die Begriffe prüfen (Manchester school) s. https://de.wikipedia.org/wiki/Manchesterliberalismus{/kommentar-lb}"?><?oxy_comment_end?></note></seg>,
+            hat ihn in einem sehr guten
+                <expan><?oxy_comment_start author="lindenberg" timestamp="20190409T153807+0200" comment="[„Vorbote“: Leitartikel]"?>Leitart<ex>i</ex>kel</expan><?oxy_comment_end?>
+            als wichtig und epochemachend hingestellt. Wurde er mit seinem Stiefbruder, <seg type="comment"><orig>dem Friedenskongreß</orig><note xml:id="ea59b9f2-1c9b-4882-ac77-3dd88bbb5755">Zum Friedenskongreß in Genf siehe <ref target="B00313"><?oxy_comment_start author="lindenberg" timestamp="20190722T103703+0200" comment="304h."?>Erl. zu
+                  S. L. Borkheim an Marx, 5.8.1867<?oxy_comment_end?></ref>.</note></seg>,
+            verglichen, so fiel der Vergleich stets zum Vortheil des ältern Bruders aus und man sah
+            in dem einen drohende Schicksalstragödie und in dem andern nichts als Farce und
+            Burleske.</salute></opener>
+        <p>Wenn Sie schon in den Besitz <seg type="comment"><orig><bibl sameAs="zotero-604880-PT9GISVC" type="primary">des Buches</bibl> von <persName key="ed_ats_ysj_wx">Karl Marx</persName></orig><note xml:id="ae07c52d-c3b4-4db8-aba8-afef008e251b"><bibl sameAs="zotero-604880-PT9GISVC" type="primary">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+            1867</bibl>.</note></seg> gekommen sind, so rathe ich Ihnen, sofern Sie sich nicht
+          schon, wie ich, durch die dialektischen Spitzfindigkeiten der ersten Abschnitte
+          durchgearbeitet haben, jene über ursprüngliche
+          <?oxy_comment_start author="lindenberg" timestamp="20190409T153737+0200" comment="[so in „Vorbote“]"?>Accümülation<?oxy_comment_end?>
+          des Kapitals und moderne Colonisationstheorie zuerst zu lesen. Ich bin überzeugt, daß Sie
+          diesen Theil, wie ich selbst, mit größter Befriedigung aufnehmen werden. Natürlich hat
+          Marx keine spezifischen Heilmittel, wonach die Bourgeoiswelt, die sich jetzt auch
+          sozialistisch nennt, so gewaltig schreit, parat, keine Pillen, keine Salben, keine <seg type="comment"><orig>Charpie</orig><note xml:id="nqqd_sqj_m3b">Scharpie,
+              Verbandsmaterial aus zerzupften Baumwoll- oder Leinenstoffen. </note></seg>, um die
+          klaffenden, blutenden Wunden unserer Gesellschaft zu heilen; aber es scheint mir, daß er,
+          nach der naturhistorischen Entwickelung des Entstehungsprozesses moderner Gesellschaft,
+          die praktischen Resultate und Nutzanwendungen bis zu den kühnsten Konsequenzen gezogen hat
+          und daß es keine Kleinigkeit war, den erstaunten Philister durch statistische Thatsachen
+          und dialektische Manöver auf die schwindelnde Höhe folgender Sätze zu bringen: <seg type="comment"><orig>„Die Gewalt ist der Geburtshelfer jeder alten Gesellschaft, die mit
+              einer neuen schwanger geht. Sie ist selbst eine ökonomische Potenz …. Manch’ Kapital,
+              das heute in den Vereinigten Staaten ohne Geburtsschein auftritt, ist gestern in
+              England kapitalisirtes Kinderblut …. Wenn das Geld mit natürlichen Blutflecken auf
+              einer Backe zur Welt kommt, so das Kapital von Kopf bis Zeh’ aus allen Poren blut- und
+              schmutztriefend.“</orig><note xml:id="e9faa4ce-fa88-41ba-9848-0829e89171a1"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Hamburg 1867.</bibl>
+                (MEGA<hi rendition="#sup">2</hi> II/5. S. 601.28–30, 604.28–30 und
+              607.21–23.)</note></seg> Oder der ganze Passus von: <seg type="comment"><orig>„Die
+              Stunde des kapitalistischen Eigenthums schlägt“ u.s.w., bis zum Schluß.</orig><note xml:id="e08639dc-ac06-4cac-9d39-3281b49de852">Ebenda. (MEGA<hi rendition="#sup">2</hi>
+              II/5. S. 609.32–610.12.) – Im „Kapital“: „<hi rendition="#u">Privateigenthums</hi>“
+              (ebenda. S. 609.32)</note></seg></p>
+        <p>Ich muß aufrichtig gestehen, daß mich dieser einfache Pathos der Sache ergriffen und daß
+          mir die Geschichte klar wie Sonnenschein. <pb/></p>
+      </div>
+    </body>
+  </text>
+</TEI>

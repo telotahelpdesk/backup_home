@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00378" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>368</idno>Friedrich Engels an Karl Marx in London. Manchester, Dienstag, 8. Oktober 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 1642/D III 413 K. RGASPI 1.1.2088</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format 122 × 193 mm. Aufdruck
+              auf der ersten Seite oben in der Mitte: „Manchester, 7, Southgate, 186… Memorandum
+              from ERMEN &amp; ENGELS to M<hi rendition="#sup">r</hi>“, teilweise von Engels
+              gestrichen (Geschäftsbriefbogen der Firma). Die erste Seite hat Engels fast
+              vollständig beschrieben, die zweite ist leer. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+              Briefes: „337“ und „39“.</p><p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName> Hand: Nummerierung des
+              Briefes: „914“.</p><p>Vermutlich auch von Dietz’ Hand: „J“.</p><p>Von unbekannter Hand: oben links mit Bleistift der Vermerk „Sch.“</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2088</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+              <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+              (1913).<?oxy_custom_end?> S. 413.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+          <placeName key="ed_ubz_2cl_3y">Manchester</placeName><date when="1867-10-08"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+        <correspContext>
+          <ref type="prev" target="B00369"/>
+          <ref type="next" target="B00384"/>
+        </correspContext>
+        <note>Engels beantwortet Marx’ Brief vom 4. Oktober 1867 (siehe
+            <?oxy_comment_start author="lindenberg" timestamp="20190219T140200+0100" comment="360"?><ref target="B00369">Marx an Engels, 4.10.1867<?oxy_comment_end?></ref>). Marx antwortete am
+          9. Oktober 1867 (siehe <ref target="B00384"><?oxy_comment_start author="lindenberg" timestamp="20190219T140054+0100" comment="Br. 374"?>Marx
+            an Engels, 9.10.1867<?oxy_comment_end?></ref>).</note>
+        <note>Zu den  Beilagen („Inl. nur die Briefe zurück“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:47:05Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+        <opener>
+          <dateline><pb/>
+            <hi rendition="#mPrint">Manchester, 7, Southgate,</hi> 8 Octb. <hi rendition="#mPrint">186</hi>7.</dateline>
+          <salute>Lieber Mohr</salute>
+        </opener>
+        <p><seg type="comment"><orig>Morgen ausführlich.</orig><note xml:id="c7b2f7ba-0cba-4059-85b9-1243f28bab76">Den nächsten Brief schrieb <ref target="B00387"><?oxy_comment_start author="reichhoff" timestamp="20180530T101549+0200" comment="(Br. 377)"?>Engels
+                an Marx am 11.10.1867<?oxy_comment_end?></ref>.</note></seg>
+          <seg type="comment"><orig>Inl. nur die Briefe zurück</orig><note xml:id="d0b122ed-529d-487e-ad3c-54ab8b4f78ad">Engels schickte die Briefe an Marx von
+                <ref target="B00365"><?oxy_comment_start author="lindenberg" timestamp="20190726T102914+0200" comment="356 - nicht (Br. 357)"?>W.
+                Liebknecht an Marx, vor 30.9.1867<?oxy_comment_end?></ref>, <ref target="B00363"><?oxy_comment_start author="reichhoff" timestamp="20180530T101812+0200" comment="(Br. 354)"?>L.
+                u. G. Kugelmann, 29.9.1867 <?oxy_comment_end?></ref> und <ref target="B00364"><?oxy_comment_start author="reichhoff" timestamp="20180530T101903+0200" comment="(Br. 355)"?>P.
+                Stumpf an Marx, 29. 9.1867<?oxy_comment_end?></ref> zurück, die dem Marx’ Brief an
+              Engels vom 4. Oktober 1867 (siehe <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20190726T103451+0200" comment="Br. 360.22–23, 360.31 und 360.56"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref>) beigelegt wurden.</note></seg> &amp;
+          die Eine Frage: Wird mir <seg type="comment"><orig><expan><persName key="pdrPo.001.004.000000542">Borkh<ex>eim</ex></persName></expan> wegen des
+              loans</orig><note xml:id="b3f1065c-2b4b-4fbc-9f7e-7d6df47283a1">Siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180530T102224+0200" comment=" Br. 360.126–130"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Privat Affairs: ...“ und
+              <?oxy_comment_start author="lindenberg" timestamp="20190726T103631+0200" comment="{360dd}"?>Erl<?oxy_comment_end?>.</note></seg>
+          schreiben oder erwartet er daß <hi rendition="#u">ich</hi> ihm schreibe? Die Zeitungen
+          schicke ich Dir morgen zurück.</p>
+        <p>Der <persName key="pdrPo.001.004.000003135">Meißner</persName> wird <seg type="comment"><orig>die Ex.</orig><note xml:id="ad9ee07d-e754-48c5-8304-dc8424b81ff6">Exemplare von
+                <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital. Bd. 1. Buch 1. Hamburg
+                1867.</bibl> Siehe <ref target="B00365">W. Liebknecht an Marx,
+                <?oxy_comment_start author="lindenberg" timestamp="20190220T145725+0100" comment="nicht (Br. 357.3–6 sondern 356"?>vor
+                30.9.1867<?oxy_comment_end?></ref> und <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180530T102310+0200" comment="(Br. 360.22–27)"?>Marx
+                an Engels, 4.10.1867<?oxy_comment_end?></ref> sowie <ref target="mega_rq3_km1_1gb"><?oxy_comment_start author="lindenberg" timestamp="20190726T105112+0200" comment="365"?>O.
+                Meißner an Marx, 7.10.1867<?oxy_comment_end?></ref>.</note></seg> wohl an <persName key="ed_vtr_13k_bdb">Weiß</persName> &amp; <persName key="pdrPo.001.004.000002822">Liebkn.</persName> per <expan>Buchh<ex>an</ex>d</expan><ex>e</ex>l gesandt haben, wo
+          sie erst <hi rendition="#u">gegen 1 Octb</hi> in Berlin ankommen würden, um die Zeit wo
+          die andern Ex. dort an &amp; in den <expan>Buchh<ex>an</ex>d</expan><ex>e</ex>l kamen.
+            <seg type="comment"><orig>Die <bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Köln.</bibl> &amp; <bibl sameAs="ed_pkc_tgf_lbb" type="periodika">Augsb. Ztg</bibl>
+              hatten erst vor ein paar Tagen die Annonce.</orig><note xml:id="c81f516d-d1d0-4009-bcdf-29aa66eed6d0">
+              <p> Zur Anzeige über den ersten Band des „Kapital“ in der „<bibl sameAs="ed_tdy_dhf_lbb" type="periodika">Kölnischen Zeitung</bibl>“ siehe <ref target="B00377"><?oxy_comment_start author="reichhoff" timestamp="20180530T102451+0200" comment="(Br. 367.3)"?>C.
+                  Siebel an Marx, vor 8.10.1867<?oxy_comment_end?></ref> und
+                <?oxy_comment_start author="lindenberg" timestamp="20190726T110914+0200" comment="367b."?>Erl.<?oxy_comment_end?>
+                Die in der „<bibl sameAs="ed_pkc_tgf_lbb" type="periodika">Allgemeinen
+                  Zeitung</bibl>“, Augsburg, Nr. 273, 30. September 1867, S. 4375, Sp. 3,
+                veröffentlichte Anzeige lautete: „(7716) Bei
+                  <?oxy_comment_start author="lindenberg" timestamp="20190221T111607+0100" comment="{gesperrt},"?><hi rendition="#g">Otto Meißner<?oxy_comment_end?></hi> in Hamburg ist eben
+                erschienen:<?oxy_comment_start author="lindenberg" timestamp="20190221T111529+0100" comment="{gesperrt}"?>
+                Das <hi rendition="#g">Capital</hi><?oxy_comment_end?>. Kritik der politischen
+                Oekonomie. Von Karl Marx. Erster Band. Productionsprocess des Capitals. 50 Bogen gr.
+                8. Preis 3⅓ Thlr.“ – Auch die Berliner „<bibl sameAs="ed_lkx_cgw_f2b" type="periodika">Volks-Zeitung</bibl>“ veröffentlichte eine Anzeige über den
+                ersten Band des „Kapital“. (Siehe „Bei Otto Meißner in Hamburg erschien …“ In:
+                Volks-Zeitung. Berlin. Nr. 224, 25. September 1867. Beil. S. 7, Sp. 1.)</p>
+            </note></seg></p>
+        <closer>Dein<lb/>F. E. </closer>
+      </div></body></text></TEI>

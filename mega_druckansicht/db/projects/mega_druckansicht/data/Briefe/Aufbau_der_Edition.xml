@@ -1,0 +1,462 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="aufbau_edition">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Editorische Hinweise</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2017-05-03</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+        </fileDesc>
+        <revisionDesc>
+            <listChange>
+                <change/>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="ME001">
+                <p>Die historisch-kritische Ausgabe der MEGA dokumentiert Werk und Nachlass
+                    vollständig und in authentischer Form. Die Textwiedergabe erfolgt auf Grundlage
+                    der Handschriften und autorisierten Drucke. Unvollendete Manuskripte werden in
+                    jenem Bearbeitungsstadium dargeboten, in dem die Autoren sie hinterlassen haben.
+                    Die MEGA dokumentiert die Werkentwicklung von der ersten Gedankenskizze bis zur
+                    Fassung letzter Hand mit Hilfe moderner Editionsmethoden. Die Texte werden,
+                    ebenso wie Briefe und Exzerpte, nach den seit 1993 geltenden, revidierten
+                    Editionsrichtlinien der MEGA bearbeitet. Der Edierte Text folgt der
+                    Textgrundlage. Eine Vereinheitlichung oder Modernisierung der Orthographie und
+                    Interpunktion erfolgt nicht.</p>
+            </div>
+            <div>
+                <head type="h2" xml:id="ME002">Briefwechsel</head>
+                <p>In der Briefedition der MEGA werden erstmals auch sämtliche an Marx und Engels
+                    gerichteten Briefe veröffentlicht. Es konnten in vielen Fällen Neudatierungen
+                    bzw. Präzisierungen von Datierungen früherer Editionen vorgenommen werden.
+                    Sämtliche Briefe wurden neu entziffert; Grundlage dieser Entzifferung bildeten,
+                    soweit sie überliefert sind, stets die Original-Handschriften, ansonsten
+                    Abschriften, Fotokopien oder die jeweiligen Erstveröffentlichungen.
+                    Textgrundlage und Ort der Erstveröffentlichung werden jeweils im
+                    Informationsfeld „Zeugenbeschreibung und Textgeschichte“ mitgeteilt.</p>
+                <p>Korrigiert werden eindeutige Schreibfehler (ausgewiesen in der Ansicht
+                    „Kritischer Text“), mit zwei Ausnahmen: stillschweigend ergänzt werden fehlende
+                    Abkürzungspunkte bei „u.“, stillschweigend korrigiert nötigenfalls die Akzente
+                    in französischen Texten. Auf sachliche Fehler wird in den Erläuterungen
+                    hingewiesen. Übliche und häufig vorkommende autorspezifische Abkürzungen werden
+                    beibehalten und im Verzeichnis der „Abkürzungen“ entschlüsselt (<ref target="#ME004">siehe unten</ref>), andere abgekürzte Wörter sowie die
+                    abgekürzten deutschen Artikel („d.“) werden unterpunktet ausgeschrieben,
+                    Buchstabenverschleifungen stillschweigend aufgelöst. Hervorhebungen im Text
+                    (einfache und doppelte Unterstreichung, Anstreichungen am Rand; <ref target="#ME003">siehe unten</ref>) stammen von den Autoren. Anstreichungen
+                    und Unterstreichungen von Marx oder Engels in Briefen Dritter werden
+                    gekennzeichnet. Textverluste durch Beschädigung oder Verschmutzung des Papiers
+                    werden im Edierten Text, wo dies mit Sicherheit möglich ist, rekonstruiert und
+                    in eckigen Klammern eingefügt bzw. durch drei in eckigen Klammern
+                    eingeschlossene Punkte kenntlich gemacht. Die verwendeten diakritischen Zeichen
+                    sind im Verzeichnis der „Diakritische Zeichen und Siglen“ entschlüsselt (<ref target="#ME003">siehe unten</ref>).
+                    <?oxy_comment_start author="roth" timestamp="20170621T094500+0200" comment="Ergänzung RR, 21.6.2017"?>Gedruckte
+                    Texte<?oxy_comment_end?> in Formularen, Zeitungsausschnitten und auf Einladungen
+                    werden in Kapitälchen dargestellt, ebenso gedruckte Schreiben.</p>
+                <p>Der wissenschaftliche Apparat zu jedem Brief wird von einer Darstellung der
+                    Entstehung und Überlieferung eingeleitet (Informationsfeld „Zeugenbeschreibung
+                    und Textgeschichte“). In den dabei gegebenen Zeugenbeschreibungen der Briefe,
+                    die Marx und Engels untereinander wechselten, wird auf die Spuren der
+                    Vorbereitung ihrer erstmaligen Veröffentlichung in der von August Bebel und
+                    Eduard Bernstein 1913 vorgelegten vierbändigen Ausgabe hingewiesen (Siehe Der
+                    Briefwechsel zwischen Friedrich Engels und Karl Marx 1844 bis 1883. Hrsg. von
+                    A[ugust] Bebel und Ed[uard] Bernstein. Bd. 1–4. Stuttgart 1913. Die
+                    <?oxy_comment_start author="roth" timestamp="20170607T154049+0200" comment="gilt für 1866; ändern, wenn weitere Briefjahrgänge dazu kommen"?>hier
+                    edierten Briefe <?oxy_comment_end?>sind in Band 3 wiedergegeben (Allgemeines
+                    darüber siehe in MEGA<hi rendition="#sup">2</hi> III/9. S. 657–666). Mit dem
+                    Begriff Fotosignatur werden die abfotografierten Inventarnummern des
+                    sozialdemokratischen Parteiarchivs bezeichnet. Für Briefe, die von den
+                    Verfassern nicht oder irrtümlich falsch datiert wurden, wird die Datierung
+                    begründet, wobei auf andere Datierungen früherer Ausgaben hingewiesen wird. Den
+                    Zeugenbeschreibungen folgen Materialien, die dem entsprechenden Brief beigelegt
+                    waren (Dokumente, bibliographische Beschreibungen der Fotos, Briefe,
+                    Zeitungsberichte und anderes), sofern sie überliefert und wissenschaftlich
+                    relevant sind. </p>
+                <p>Die textkritische Darstellung zu den einzelnen Briefen erfolgt über die Ansicht
+                    „Kritischer Text“ (siehe unten). Das betrifft sowohl die redaktionellen
+                    Eingriffe in den Text als auch bei den Briefen von Marx und Engels die
+                    Darstellung der Varianten.</p>
+                <p>Nicht überlieferte Briefe, deren Existenz als sicher gelten kann, werden in der
+                    Chronologie dokumentiert; Briefe, die möglicherweise oder wahrscheinlich
+                    geschrieben wurden, werden nur in Textgeschichten und Erläuterungen erwähnt.</p>
+                <p>Anführungszeichen werden in der für die einzelnen Sprachen üblichen Form
+                    wiedergegeben.</p>
+                <p>Briefbeilagen können über einen gesonderten Link aus den Erläuterungen heraus
+                    bzw. im Informationsfeld „Zeugenbeschreibung und Textgeschichte“ aufgerufen
+                    werden.</p>
+                <p>Separate Adress- und Postvermerke u. ä. sind im Informationsfeld
+                    „Zeugenbeschreibung und Textgeschichte“ beschrieben.</p>
+                <p>Innerhalb des Briefwechsels sind Bezugsstellen aus dem Text und den Erläuterungen
+                    durch Links miteinander verbunden; per Mausklick gelangt man auf den
+                    entsprechenden Brief.</p>
+                <p>Über ein gesondertes Suchmenü kann in den Brieftexten, Titeln, Erläuterungen,
+                    Zeugenbeschreibungen, Korrespondentenlisten und Registern recherchiert
+                    werden.</p>
+                <p>Der Zugang zu den Texten ist auch über mehrere Register möglich: ein Register der
+                    Namen, ein Register der Orte (in Erarbeitung), ein Register der Organisationen
+                    und Firmen, ein Register der Themen (wird fortlaufend erweitert) und ein
+                    Literaturregister
+                    <?oxy_comment_start author="lindenberg" timestamp="20170609T160945+0200" comment="{Werkregister/Primär-Sekundärliteratur/via zotero}"?>(<?oxy_comment_end?>in
+                    Erarbeitung). Das Namenregister verzeichnet alle im Text vorkommenden Namen von
+                    Personen, mythologischen und literarischen Gestalten. </p>
+                <p>Im Namenregister sind abweichende Schreibungen in den Brieftexten, Pseudonyme,
+                    Kosenamen u.s.w. entweder in einem gesonderten Textfeld oder in runden Klammern
+                    hinter der korrekten Schreibweise notiert. Eine einheitliche Verzeichnung der
+                    Namen ist noch nicht in jedem Fall gegeben, da der Grundbestand an importierten
+                    Personendaten (etwa 9300 Datensätze) aus bereits gedruckten Bänden noch nicht
+                    vollständig redigiert werden konnte. Die Personendaten basieren auf deren
+                    Erfassung im DFG-Projekt Personen-Daten-Repositorium (PDR). Sie sind mit
+                    biographischen Notizen und Lebensdaten versehen und enthalten ggf. Verweise auf
+                    bereits erschienene, gedruckte Bände. Das Register der Firmen und Organsiationen
+                    umfaßt zur Zeit etwa 400 Einträge. </p>
+            </div>
+            <div>
+                <head type="h2" xml:id="ME003">Diakritische Zeichen und Siglen</head>
+                <table rows="-5" cols="2">
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>|</cell>
+                        <cell>Beginn einer unpaginierten Seite einer Seite der Textgrundlage</cell>
+                    </row>
+                    <row>
+                        <cell>|1|</cell>
+                        <cell>Beginn einer paginierten Seite der Textgrundlage</cell>
+                    </row>
+                    <row>
+                        <cell>\</cell>
+                        <cell>Kennzeichnung für in der Handschrift übereinanderstehende
+                            Wörter</cell>
+                    </row>
+                    <row>
+                        <cell>[[ ]]</cell>
+                        <cell>Eckige Klammern in der Textgrundlage</cell>
+                    </row>
+                    <row>
+                        <cell>[ ], Bsp.: <supplied cert="high">Ach!</supplied>
+                        </cell>
+                        <cell>Redaktionelle Ergänzung eines fehlenden Wortes oder Satzzeichens durch
+                            die Bearbeiter/die Bearbeiterinnen</cell>
+                    </row>
+                    <row>
+                        <cell>xxx</cell>
+                        <cell>Unleserliche Buchstaben</cell>
+                    </row>
+                    <row>
+                        <cell>[...]</cell>
+                        <cell>Fehlende Textstelle</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <del rendition="#s">Seestadt</del>
+                        </cell>
+                        <cell>Streichung/Textreduzierung (Tilgung) durch den Autor</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <subst>
+                                <del rendition="#s">Seestadt</del>
+                                <add place="superlinear">Seeküste</add>
+                            </subst>
+                        </cell>
+                        <cell>Streichung durch den Autor mit gleichzeitiger
+                            Hinzufügung/Textersetzung (verändert in; wurde zu)</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <add place="superlinear">Seeküste</add>
+                        </cell>
+                        <cell>Hinzufügung/Textergänzung (Einfügung, Zusatz) durch den Autor</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <del rendition="#s">an Stelle<sic ana="#break-off"/>
+                            </del>
+                        </cell>
+                        <cell>Textabbruch durch den Autor</cell>
+                    </row>
+                    <row>
+                        <cell>Karb<ex>unkel</ex>
+                        </cell>
+                        <cell>Redaktionelle Ergänzung von fehlenden Wortteilen durch die
+                            Bearbeiter/die Bearbeiterinnen</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <choice>
+                                <sic>zwißen</sic>
+                                <corr cert="high">zwischen</corr>
+                            </choice>
+                        </cell>
+                        <cell>Redaktionelle Textkorrektur durch die Bearbeiter/die Bearbeiterinnen
+                            (serifenlose Schrifttypen)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <choice>
+                                <sic>Ach!</sic>
+                                <corr type="deleted"/>
+                            </choice>
+                        </cell>
+                        <cell>Streichung eines überflüssigen Wortes durch die Bearbeiter/die
+                            Bearbeiterinnen</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <unclear reason="illegible" cert="high">Ach!</unclear>
+                        </cell>
+                        <cell>Unsichere Lesart von Buchstaben oder Wörtern im Manuskript</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <hi rendition="#u">Ach!</hi>
+                            <hi rendition="#uu">Ach!</hi>
+                        </cell>
+                        <cell>Einfache und doppelte Unterstreichung durch den Autor</cell>
+                    </row>
+                    <row>
+                        <cell><pb n=""/>Ach!</cell>
+                        <cell>Anstreichung am Rand durch den Autor</cell>
+                    </row>
+                </table>
+            </div>
+            <div>
+                <head>
+                    <table rows="1" cols="1">
+                        <row>
+                            <cell><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?><?oxy_comment_start author="lindenberg" timestamp="20191015T112339+0200" comment="Ergänzung von TL 2019-10-15" mid="4"?>In
+                                gedruckten Texten werden hervorgehobene Textstellen (kursiv,
+                                gesprerrt, unterstrichen) adäquat
+                                wiedergegeben.<?oxy_custom_end?><?oxy_comment_end mid="4"?></cell>
+                        </row>
+                    </table>
+                </head>
+                <head type="h2" xml:id="ME004">Verzeichnis der Abkürzungen und Siglen</head>
+                <div>
+                    <head type="h3">a) Abkürzungen im Edierten
+                        <?oxy_comment_start author="lindenberg" timestamp="20170529T135753+0200" comment="
+A. A. Z.	Allgemeine Zeitung. Augsburg"?>Text<?oxy_comment_end?></head>
+                    <table rows="-13" cols="2">
+                        <row role="label">
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        <row>
+                            <cell>d. d.</cell>
+                            <cell>de dato</cell>
+                        </row>
+                        <row>
+                            <cell>dss., ds</cell>
+                            <cell>dieses [Monats]</cell>
+                        </row>
+                        <row>
+                            <cell>d. M.</cell>
+                            <cell>dieses Monats</cell>
+                        </row>
+                        <row>
+                            <cell>Ex.</cell>
+                            <cell>Exemplar</cell>
+                        </row>
+                        <row>
+                            <cell>f.i.</cell>
+                            <cell>for instance</cell>
+                        </row>
+                        <row>
+                            <cell>fr.</cell>
+                            <cell>franco</cell>
+                        </row>
+                        <row>
+                            <cell>fdschaftlich</cell>
+                            <cell>freundschaftlich</cell>
+                        </row>
+                        <row>
+                            <cell>Dtschd</cell>
+                            <cell>Deutschland</cell>
+                        </row>
+                        <row>
+                            <cell>Fkch</cell>
+                            <cell>Frankreich</cell>
+                        </row>
+                        <row>
+                            <cell>fzsisch, fzs</cell>
+                            <cell>französisch</cell>
+                        </row>
+                        <row>
+                            <cell>I. A., I. A. A., Int. A., Intern. Assoc., I. Ar. Asso., I. W. A.,
+                                Internat., International W. Ass. </cell>
+                            <cell>International Working Men's Association </cell>
+                        </row>
+                        <row>
+                            <cell>inl.</cell>
+                            <cell>inliegend</cell>
+                        </row>
+                        <row>
+                            <cell>inst </cell>
+                            <cell>instant (abbr.; engl. = dieses Monats)</cell>
+                        </row>
+                        <row>
+                            <cell>N.Rh.Z.</cell>
+                            <cell>Neue Rheinische Zeitung</cell>
+                        </row>
+                        <row>
+                            <cell>N.Y. Tribune</cell>
+                            <cell>New-York Tribune</cell>
+                        </row>
+                        <row>
+                            <cell>S. D., Soc. Dem.</cell>
+                            <cell>Social Democrat</cell>
+                        </row><?oxy_custom_end?>
+                        <row>
+                            <cell>U. St., U. States</cell>
+                            <cell>United States of America</cell>
+                        </row>
+                        <row>
+                            <cell>Ver. St.</cell>
+                            <cell>Vereinigte Staaten von Amerika</cell>
+                        </row>
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        <row>
+                            <cell>Workm. advoc.</cell>
+                            <cell>The Workman's Advocate</cell>
+                        </row><?oxy_custom_end?>
+                    </table>
+                </div>
+                <div>
+                    <head type="h3" xml:id="ME005">b) Münzen und
+                        <?oxy_comment_start author="lindenberg" timestamp="20170609T162217+0200" comment="
+{Sonderzeichen: Reichstalerzeichen}	Reichstaler scheint es gar nicht im 1866er Jahr zu geben --&gt; noch mit Hrn. Grabsch klären, woher das Zeichen nehmen."?>Gewichte<?oxy_comment_end?></head>
+                    <table>
+                        <row role="label">
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>d., d</cell>
+                            <cell>Pennys/pence</cell>
+                        </row>
+                        <row>
+                            <cell>fcs, fr., Fr., frcs.,
+                                <?oxy_comment_start author="lindenberg" timestamp="20170529T144102+0200" comment="Brief 049 - "?>fs<?oxy_comment_end?>
+                            </cell>
+                            <cell>Franc(s)</cell>
+                        </row>
+                        <row>
+                            <cell>L., l., l. St.,
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Pfd.<?oxy_custom_end?>,
+                                Pf. St.</cell>
+                            <cell>Pfund Sterling/pound sterling</cell>
+                        </row>
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                        <row>
+                            <cell>f, f.</cell>
+                            <cell>florin
+                                (Gulden)<?oxy_comment_start author="lindenberg" timestamp="20170529T140827+0200" comment="1a - Hilberg-Briefe"?>
+                            </cell><?oxy_comment_end?>
+                        </row><?oxy_custom_end?>
+                        <row>
+                            <cell>£, £<hi rendition="#sup">st</hi>
+                            </cell>
+                            <cell>Pfund Sterling/pound sterling</cell>
+                        </row>
+                        <row>
+                            <cell>Sh., sh.,
+                                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>S.<?oxy_custom_end?>/–</cell>
+                            <cell>Schilling/shilling</cell>
+                        </row>
+                        <row>
+                            <cell>Th., Thl., Thlr., Thr., </cell>
+                            <cell>Taler; das Reichstalerzeichen wurde als Abkürzung (rth.)
+                                dargestellt</cell>
+                        </row>
+                        <row>
+                            <cell><?oxy_comment_start author="roth" timestamp="20170607T170440+0200" comment=" {Sonderzeichen: Pfund-Gewicht}"?>℔<?oxy_comment_end?></cell>
+                            <cell>Pfund (Gewichtsmaß)</cell>
+                        </row>
+                        <row>
+                            <cell><?oxy_comment_start author="roth" timestamp="20170607T170456+0200" comment=" {Sonderzeichen}"?>₰<?oxy_comment_end?></cell>
+                            <cell>denarius (Pfennig)</cell>
+                        </row>
+                    </table>
+                </div>
+                <div>
+                    <head type="h3" xml:id="ME006">c) Abkürzungen im Apparat</head>
+                    <table rows="-11" cols="2">
+                        <row role="label">
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell>ADAV</cell>
+                            <cell>Allgemeiner Deutscher Arbeiterverein.</cell>
+                        </row>
+                        <row>
+                            <cell>BdK</cell>
+                            <cell>Bund der Kommunisten</cell>
+                        </row>
+                        <row>
+                            <cell>Erl.</cell>
+                            <cell>Erläuterung</cell>
+                        </row>
+                        <row>
+                            <cell>IAA</cell>
+                            <cell>Internationale Arbeiterassoziation.</cell>
+                        </row>
+                        <row>
+                            <cell>IISG</cell>
+                            <cell>Internationaal Instituut voor Sociale Geschiedenis.
+                                Amsterdam.</cell>
+                        </row>
+                        <row>
+                            <cell>NRhZ</cell>
+                            <cell>Neue Rheinische Zeitung. Organ der Demokratie. Köln.</cell>
+                        </row>
+                        <row>
+                            <cell>NRhZ. Revue</cell>
+                            <cell>Neue Rheinische Zeitung. Politisch-ökonomische Revue.</cell>
+                        </row>
+                        <row>
+                            <?oxy_comment_start author="lindenberg" timestamp="20170531T142217+0200" comment="
+NYDT	New-York Daily Tribune."?>
+                            <cell><?oxy_comment_end?>NYT</cell>
+                            <cell>New-York Tribune.</cell>
+                        </row>
+                        <row>
+                            <cell>RGASPI</cell>
+                            <cell>Российский государственный архив социально- политической истории
+                                (ehem. ZPA Moskau).</cell>
+                        </row>
+                        <row>
+                            <cell>SAPMO</cell>
+                            <cell>Stiftung Archiv der Parteien und Massenorganisationen der DDR im
+                                Bundesarchiv (darin ehem. IML und ZPA Berlin).</cell>
+                        </row>
+                        <row>
+                            <cell>VDAV</cell>
+                            <cell>Vereinstag Deutscher Arbeiter-Vereine</cell>
+                        </row>
+                        <row>
+                            <cell>ZB</cell>
+                            <cell>Zeugenbeschreibung</cell>
+                        </row>
+                    </table>
+                    <p/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

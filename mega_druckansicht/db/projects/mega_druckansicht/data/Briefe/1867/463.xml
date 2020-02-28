@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00472" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>463</idno>Karl Marx an Friedrich Engels in Manchester. London, Samstag, 7. Dezember 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4508/L VI 640</idno></idno></msIdentifier><physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            224 × 180 mm. Prägung: Schild mit einer Krone. Marx hat die ersten drei
+                            Seiten vollständig, die vierte Seite zu drei Vierteln beschrieben.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „124,1“ bis
+                            „124,4“. Redaktionelle Vermerke. Streichungen.</p>
+                        <p/>
+                    </physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2137</bibl></listBibl></additional></msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913)<?oxy_custom_end?>. S. 437–439.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹
+                            III/3 (1930)<?oxy_custom_end?>. S. 459–461.</bibl>
+                    </witness>
+                </listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName><date when="1867-12-07"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName><placeName>Manchester</placeName></correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00470"/>
+                    <ref type="next" target="B00483"/>
+                </correspContext>
+                <note>Marx beantwortet Engels’ Brief vom 6. Dezember 1867 (<ref target="B00470"><?oxy_comment_start author="lindenberg" timestamp="20191211T151010+0100" comment="461"?>Engels
+                        an Marx, 6.12.1867<?oxy_comment_end?></ref>). Engels antwortete Marx am 12.
+                    Dezember 1867
+                        (<?oxy_comment_start author="lindenberg" timestamp="20191211T151109+0100" comment="474"?><ref target="B00483">Engels an Marx, 12.12.1867<?oxy_comment_end?></ref>
+                    ).</note>
+                <note>Zu den Beilagen  („<expan>Kugelmann</expan> nebst Beilage ...“; „beiliegenden Soc. Dem.“) zum Brief
+                    siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190320T103937+0100" comment="463.12–13, 463.13–14, 463.14 und 463.73–74."?>Erl.<?oxy_comment_end?>
+                </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:12Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:04+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> 7 Dec. 1867.</dateline>
+                    <salute>Dear Fred,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Gestern war ich vor bei <expan>d<ex>er</ex></expan>
+                            Loan Society, um bodily untersucht zu werden.</orig><note xml:id="ndxd_pzm_2gb">Siehe <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180614T104747+0200" comment=" (Br. 445.4–9)"?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref> „Er ist
+                            zurückgekommen ...“, <ref target="mega_gym_mzh_2gb"><?oxy_comment_start author="lindenberg" timestamp="20191212T163709+0100" comment="(Br. 460.7–10)"?>S.
+                                L. Borkheim an Marx, 5.12.1867<?oxy_comment_end?></ref> „Nur möchten
+                            Sie ...“ und <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180614T104831+0200" comment="(Br. 461.28)"?>Engels
+                                an Marx, 6.12.1867 <?oxy_comment_end?></ref> „Heute Anfragen
+                            ...“.</note></seg> Dieß ist keine blosse Formalität, denn stürbe ich <hi rendition="#u">vor</hi> September, so bekäme die Gesellschaft <hi rendition="#u">keinen farthing</hi> zurück. Ich fürchtete, mich ausziehn zu
+                    müssen (ein Schicksal, das ein Engländer hatte, der mit mir da war). Erstens
+                    liebe ich diese Inocularspeculation nicht u. zweitens habe ich grade jezt,
+                    ausser zahlreichen Furunkeln, immer noch auf der linken Lende, nicht weit vom
+                    Propagationscentrum, einen Karbunkel. Glücklicher Weise imponirte mein
+                    Brustkasten dem Kerl so, daß er nichts weiter wissen wollte. <seg type="comment"><orig>Montag</orig><note xml:id="ny2g_rzm_2gb">9. Dezember 1867. Siehe
+                                <ref target="B00471"><?oxy_comment_start author="lindenberg" timestamp="20191212T160709+0100" comment="(Br. 462.12)"?>S.
+                                L. Borkheim an Marx, 7.12.1867<?oxy_comment_end?></ref>  und
+                            Erl.</note></seg> 12 Uhr erhalte ich das Geld.</p>
+                <p><seg type="comment"><orig>Den Brief v. <persName key="pdrPo.001.004.000004424"><hi rendition="#u">Siebel</hi></persName></orig><note xml:id="nsqv_tzm_2gb">
+                            <ref target="B00442"><?oxy_comment_start author="reichhoff" timestamp="20180614T110540+0200" comment="(Br. 432)"?>C.
+                                Siebel an Engels, 23.11.1867<?oxy_comment_end?></ref>. Siehe auch
+                                <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180614T110609+0200" comment=" (Br. 461.3)"?>Engels
+                                an Marx, 6.12.1867<?oxy_comment_end?></ref>. </note></seg> hast Du
+                        <hi rendition="#u">vergessen</hi> einzulegen. <seg type="comment"><orig><hi rendition="#u"><expan><persName key="pdrPo.001.004.000002616">Kugelm<ex>ann</ex></persName></expan></hi> nebst
+                            Beilage erhälst Du zurück</orig><note xml:id="nkr4_s1n_2gb"><ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180614T110659+0200" comment="(Br. 450)"?>L.
+                                Kugelmann an Engels, 30.11.1867<?oxy_comment_end?></ref> und die
+                            Beilagen (siehe ZB: Brief von Kugelmann an Seubert und Brief von Seubert
+                            an Kugelmann) sowie<ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180918T104920+0200" comment=" (Br. 458.13–15)"?>
+                                L. Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> „Vorgestern
+                            legte ich ...“ und <ref target="B00470">Engels an Marx, 6.12.1867
+                            </ref>„Inl. Briefe ...“.</note></seg>. Ausserdem <seg type="comment"><orig>einen v. ihm an mich gesandten Brief nebst Beilagen</orig><note xml:id="nfjn_v1n_2gb">Siehe <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180614T110739+0200" comment="(Br. 458)"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191212T150755+0100" comment="458.51–52"?>Erl<?oxy_comment_end?>.</note></seg>.
+                        <seg type="comment"><orig>Die Schmiere v. <persName key="pdrPo.001.004.000000664">Bürgers</persName> lege zu den <hi rendition="#u">Dokumenten</hi></orig><note xml:id="ndpl_y1n_2gb">Siehe <ref target="B00467"><?oxy_comment_start author="reichhoff" timestamp="20180614T110805+0200" comment="(Br. 458.51–52)"?>L.
+                                Kugelmann an Marx, 3.12.1867<?oxy_comment_end?></ref> „Einliegend
+                            die letzten Briefe ...“ und den Abdruck des Briefes von Heinrich Bürgers
+                            an Kugelmann, 4. November 1867 in der <ref target="B00419"><?oxy_comment_start author="lindenberg" timestamp="20191212T145159+0100" comment="409.27."?>Erl<?oxy_comment_end?>.
+                                zu L. Kugelmann an Marx, 6.11.1867</ref> (“Darauf erhielt ich <hi rendition="#u">gestern</hi> Antwort ...“). </note></seg>. <seg type="comment"><orig>Dieser Esel ist mit Recht von
+                                <expan>d<ex>en</ex></expan> Arbeitern zu Düsseldorf erinnert
+                            worden</orig><note xml:id="newq_bbn_2gb">Anspielung auf die Stimmen
+                            gegen <persName key="pdrPo.001.004.000000664">Heinrich
+                                Bürgers</persName> bei den Wahlen in den Norddeutschen
+                            Reichstag.</note></seg>, daß er 1) zu <persName key="pdrPo.001.004.000002711">Lassalle</persName>’s Zeiten erklärte „den
+                    Verhältnissen Rechnung tragen zu wollen“, 2) die „<hi rendition="#u">Illusionen
+                        über den Klassenkampf</hi> verloren“ u. <seg type="comment"><orig>3) in
+                                <persName key="pdrPo.001.004.000004342">Schulze-<expan>Del<ex>itzsch</ex></expan></persName> die
+                            Lösung aller vergangnen u. zukünftigen socialen Räthsel gefunden zu
+                            haben</orig><note xml:id="npcc_fbn_2gb">Siehe <ref target="B00012"><?oxy_comment_start author="reichhoff" timestamp="20180614T111540+0200" comment="(Br. 11.39–40)"?>Marx
+                                an Kugelmann, 11.1.1866<?oxy_comment_end?></ref> „Was Bürgers angeht
+                            ...“ und Erl. Siehe auch Marx an Engels, 26.12.1865 (MEGA<hi rendition="#sup">2</hi> III/13. S. 51–57).</note></seg>.</p>
+                <p>Was <seg type="comment"><orig>das <bibl sameAs="ed_ujl_xr3_hfb" type="periodika">Schwäbische Blättchen</bibl></orig><note xml:id="nql5_hbn_2gb"><bibl sameAs="ed_ujl_xr3_hfb" type="periodika">Der
+                                Beobachter</bibl>. Siehe <ref target="B00470"><?oxy_comment_start author="reichhoff" timestamp="20180614T111642+0200" comment="(Br. 461.6–7)."?>Engels
+                                an Marx, 6.12.1867 <?oxy_comment_end?></ref> „Was hältst Du ...“. –
+                            Die hier entwickelte Konzeption der Rezension über den ersten Band des
+                                „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ („Was das Schwäbische Blättchen betrifft ...“) benutzte
+                            Engels in seiner Rezension, die durch Vermittlung <persName key="pdrPo.001.004.000002616">Louis Kugelmanns</persName> ohne
+                            Unterschrift im Stuttgarter „Beobachter“ am 27. Dezember 1867 erschien.
+                            Siehe [Friedrich Engels:] Karl Marx. Das Kapital. Kritik der politischen
+                            Oekonomie. Erster Band. Hamburg, Meißner 1867. In: Der Beobachter.
+                            Stuttgart. Nr. 303, 27. Dezember 1867. S. 2, Sp. 1, bis S. 3, Sp. 2.
+                                (MEGA<hi rendition="#sup">2</hi> I/21. S. 38–40 und 1277–1279.) In
+                            der Handschrift sind Name des Autors und Titel des Buches: „<hi rendition="#u">Karl Marx. Das Kapital.</hi>“ unterstrichen (siehe
+                            RGASPI, Sign. f. 1, op. 1, d. 2138), in der Zeitung wurde die
+                            Hervorhebung mittels einer größeren Schriftgröße wiedergeben. (Siehe
+                                MEGA<hi rendition="#sup">2</hi> I/21. S. 38.3.)</note></seg>
+                    betrifft, so wäre es ein amüsanter Coup, <persName key="pdrPo.001.004.000004961">Vogt</persName>’s Freund, den <seg type="comment"><orig><persName key="pdrPo.001.004.000003109">Schwabenmayer</persName></orig><note xml:id="nxfv_jbn_2gb"><persName key="pdrPo.001.004.000003109">Karl
+                                Mayer</persName>.</note></seg> zu prellen. Die <pb/> Sache wäre
+                    einfach so zu bewerkstelligen. D’abord damit anzufangen, daß was man auch v.
+                            <expan>d<ex>er</ex></expan> Tendenz <seg type="comment"><orig><expan>d<ex>es</ex></expan> Buchs</orig><note xml:id="nj31_mbn_2gb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx.
+                                Das Kapital. Bd. 1. Buch 1. Hamburg 1867.</bibl></note></seg> denken
+                    möge, es dem „<hi rendition="#u">deutschen</hi> Geist“ Ehre mache, u. deßwegen
+                    auch v. einem Preussen im Exil u. nicht in Preussen geschrieben sei. Preussen
+                    habe lang aufgehört das Land zu sein, worin irgend eine wissenschaftliche
+                    Initiative, speziell im <subst>
+                        <del rendition="#ow">pol. hist. soc.</del>
+                        <add place="superlinear">pol. od. hist. od. soc.</add>
+                    </subst> Fach möglich sei od. vorkomme. Es repräsentire jezt den russischen,
+                    nicht <expan>d<ex>en</ex></expan> deutschen Geist. Was nun das Buch selbst
+                    betreffe, so müsse man zweierlei unterscheiden, die positiven Entwicklungen
+                    („gediegenen“ lautet <expan>d<ex>as</ex></expan> zweite Adjectiv), die der
+                    Verfasser gebe, u. die tendentiellen Schlußfolgerungen, die er ziehe. Die
+                    ersteren, <subst>
+                        <del rendition="#ow">die<sic ana="#break-off"/> welche<sic ana="#break-off"/></del>
+                        <add place="superlinear">da <expan>d<ex>ie</ex></expan></add>
+                    </subst> thatsächlichen ökonomischen Verhältnisse ganz neu in einer
+                    materialistischen (dieß Stichwort liebt „<persName key="pdrPo.001.004.000003109">Mayer</persName>“ v. wegen <persName key="pdrPo.001.004.000004961">Vogt</persName>’s) Methode behandelt seien, seien direkte Bereicherung der
+                    Wissenschaft. <hi rendition="#u">Beispiel</hi> 1) die Entwicklung
+                            <expan>d<ex>es</ex></expan> Geldes, 2) wie Cooperation, Theilung
+                            <expan>d<ex>er</ex></expan> Arbeit, Maschinensystem u.
+                            <expan>d<ex>ie</ex></expan> entsprechenden gesellschaftlichen
+                    Combinationen <add place="superlinear">u. Verhältnisse</add> sich „naturwüchsig“
+                    entwickeln <del rendition="#s">u. x<sic ana="#break-off"/></del>.</p>
+                <p>Was nun <expan>d<ex>ie</ex></expan>
+                    <hi rendition="#u">Tendenz</hi>
+                    <expan>d<ex>es</ex></expan>
+                    <persName key="pdrPo.001.004.000003109">Verfassers</persName> angehe, so müsse
+                    man wieder unterscheiden. Wenn er nachweist, daß die jetzige Gesellschaft,
+                    ökonomisch betrachtet, mit einer <subst>
+                        <del rendition="#ow">neuen Form</del>
+                        <add place="superlinear">neuen höheren Form</add>
+                    </subst> schwanger gehe, so zeigt er nur social denselben allmählichen
+                    Umwälzungsprozeß nach, den <persName key="pdrPo.001.004.000001091">Darwin</persName> naturgeschichtlich nachgewiesen hat. Die<add place="superlinear"> liberale</add> Lehre des „Fortschritts“ (c’est
+                        <persName key="pdrPo.001.004.000003109">Mayer</persName> tout pur) schließt
+                    dieß ein, u. es ist ein Verdienst v. ihm, daß er selbst da einen verborgnen
+                    Fortschritt <subst>
+                        <del rendition="#s">u wo d. so neuen</del>
+                        <add place="superlinear">zeigt, wo <expan>d<ex>ie</ex></expan> modernen</add>
+                    </subst> ökon. Verhältnisse <add place="superlinear">von</add> abschreckenden
+                    unmittelbaren Folgen begleitet sind. Der <expan>Verf<ex>asser</ex></expan> hat <subst>
+                        <del rendition="#s">durch seine Auffass<ex>ung</ex></del>
+                        <add place="superlinear">durch diese seine kritische Auffassung</add>
+                    </subst> zugleich, vielleicht malgré lui!, allem Socialismus von Fach, <subst>
+                        <del rendition="#s">ein Ende mit gemacht.</del>
+                        <add place="superlinear">d.h. allem Utopismus ein Ende gemacht.</add>
+                    </subst>
+                </p>
+                <p>Die <hi rendition="#u">subjektive</hi> Tendenz des Verf.
+                    dagegen – er <subst>
+                        <del rendition="#s">ist</del>
+                        <add place="superlinear">war</add>
+                    </subst> vielleicht durch seine Parteistellung u. Vergangenheit gebunden u.
+                    verpflichtet dazu – d.h. <subst>
+                        <del rendition="#s">das End<ex>resultat</ex></del>
+                        <add place="across"><sic ana="#break-off"/>die Manier</add>
+                    </subst>, wie er sich <pb/> oder andern das Endresultat der <add place="superlinear">jetzigen</add> Bewegung <del rendition="#s">vor<ex>stellt</ex><sic ana="#break-off"/></del>, des <add place="superlinear">jetzigen</add> gesellschaftlichen Prozesses vorstellt, <subst>
+                        <del rendition="#s">hat <del rendition="#s"><add place="superlinear">dagegen</add></del></del>
+                        <add place="superlinear">hat</add>
+                    </subst>
+                    <?oxy_comment_start author="lindenberg" timestamp="20190320T143024+0100" comment="Darstellung in Word: hat °&lt;|:°dagegen°:|°&gt;/"?>mit<?oxy_comment_end?>
+                    seiner wirklichen Entwicklung gar nichts zu schaffen. Erlaubte <expan>d<ex>er</ex></expan> Raum näher
+                    einzugehn, so könnte vielleicht gezeigt werden, daß seine „objektive“
+                    Entwicklung seine eignen „subjektiven“ Grillen widerlegt.</p>
+                <p>Wenn Herr <persName key="pdrPo.001.004.000002711">Lassalle</persName> die
+                    Kapitalisten ausschimpfte u. dem pr. Krautjunkerthum schmeichelte, so zeigt Herr
+                            <expan>M<ex>arx</ex></expan> dagegen die <hi rendition="#u">historische
+                            „Nothw<ex>en</ex>d<ex>i</ex>gk<ex>ei</ex>t</hi>“ der kap. Produktion
+                    nach u. geisselt den blos consumirenden aristokratischen Grundjunker. Wie wenig
+                    er die Ideen seines <add place="superlinear">abtrünnigen</add> Schülers
+                    Lassalle’s über <persName key="pdrPo.001.004.000000441">Bismark</persName>’s
+                    Beruf zur Einführung eines ökonom. Millenniums theilt, hat er nicht nur früher
+                        <seg type="comment"><orig>in <expan>s<ex>einen</ex></expan> Protesten gegen
+                                    <expan>d<ex>en</ex></expan> „<hi rendition="#u">kgl. pr.
+                                Socialismus</hi>“</orig><note xml:id="nutk_q2n_2gb">Karl Marx,
+                            Friedrich Engels: Erklärung. An die Redaktion des „Social-Demokraten“.
+                                (MEGA<hi rendition="#sup">2</hi> I/20. S. 109.)</note></seg>
+                    gezeigt, sondern <seg type="comment"><orig>spricht er offen wieder aus p. 762,
+                            763</orig><note xml:id="nk42_n2n_2gb"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                Buch 1. Hamburg 1867.</bibl> S. 762/763. (MEGA<hi rendition="#sup">2</hi> II/5. S. 625.) Dieser Nachtrag zur Fußnote 188 des
+                            1. Abschnitts des 6. Kapitels in der ersten Auflage des 1. Bandes des
+                            „Kapital“ (ebenda, S. 573.41) strich Marx bei der Vorbereitung der <bibl sameAs="zotero-604880-9SWM8LS8" type="primary">zweiten Auflage
+                                (1872)</bibl> (siehe MEGA<hi rendition="#sup">2</hi>
+                        II/6).</note></seg>, wo er sagt, daß das in Fkch u. Preussen jezt
+                    herrschende System das régime der russischen Knute über
+                        <expan>d<ex>en</ex></expan> Continent v. Europa verhängen werde, wenn man
+                    ihm nicht zeitig Einhalt thue.</p>
+                <p>Dieß ist meiner Ansicht nach die Manier den <persName key="pdrPo.001.004.000003109">Schwabenmayer</persName>
+                    <seg type="comment"><orig>(der ja auch meine Vorrede gedruckt hat)</orig><note xml:id="nqyf_32n_2gb">[Karl Marx: Aus dem Vorwort.] [u.d.T.:] Das
+                            Kapital. Kritik der politischen Oekonomie. In: Der Beobachter.
+                            Stuttgart. Nr. 210, 7. September 1867. S. 2, Sp. 1–3. Siehe auch <ref target="B00317"><?oxy_comment_start author="lindenberg" timestamp="20191212T135107+0100" comment="308d"?>Erl. zu
+                                O. Meißner an Marx, 13.8.1867<?oxy_comment_end?></ref> und zu <ref target="B00330"><?oxy_comment_start author="lindenberg" timestamp="20191212T134901+0100" comment="321b"?>Erl.
+                                zu Marx an Engels, 24.8.1867<?oxy_comment_end?></ref>.</note></seg>
+                    zu prellen, u. so klein sein Saublättchen, ist es doch das populäre Orakel aller
+                    Föderalisten in Dtschland u. wird auch im Ausland gelesen.</p>
+                <p><seg type="comment"><orig>Was den <persName key="pdrPo.001.004.000002822">Liebknecht</persName> angeht, so ist’s in
+                                <expan>d<ex>er</ex></expan> That eine Schande, daß er mit den vielen
+                            Winkelblättern, die ihm zu Gebot stehn,</orig><note xml:id="nzjk_ddn_2gb">Siehe <ref target="B00449"><?oxy_comment_start author="lindenberg" timestamp="20191212T132750+0100" comment="(Br. 439.10–19)"?>W.
+                                Liebknecht an Engels, 26.11.1867<?oxy_comment_end?></ref> „The
+                            papers ...“.</note></seg> nicht spontanément kurze Notizen einschickte,
+                    wozu kein ihm v. Natur widerstrebendes Studium erheischt war. <seg type="comment"><orig>Da versteht’s Herr <persName key="pdrPo.001.004.000004357">Schwei<ex>t</ex>zer</persName> et Co.
+                            besser, wie Du aus <expan>d<ex>em</ex></expan> beiliegenden <bibl sameAs="ed_dpq_lhf_lbb" type="periodika">Soc. Dem.</bibl>
+                            siehst.</orig><note xml:id="nshv_1dn_2gb">Marx bezieht sich auf den
+                                „<bibl sameAs="ed_dpq_lhf_lbb" type="periodika">Social-Demokrat</bibl>“ vom 29. November 1867. (Siehe
+                            General-Versammlung des Allg[emeinen] deutsch[en] Arbeiter-Vereins. In:
+                            Social-Demokrat. Berlin. Nr. 139, 29. November 1867. 1. Beil. S. [8],
+                            Sp. 1–3, bis 2. Beil. S. [9], Sp. 1.) – Vom 23. bis 25. November 1867
+                            fand in Berlin die sechste Generalversammlung des <orgName key="ed_rkd_rz4_23b">Allgemeinen Deutschen Arbeitervereins</orgName>
+                            <?oxy_comment_start author="lindenberg" timestamp="20191212T134720+0100" comment="(siehe Erl. 16j)"?>(ADAV)<?oxy_comment_end?>
+                            statt. Der „Social-Demokrat“ vom 29. November 1867 hatte ausführlich
+                            über die Reden von <persName key="pdrPo.001.004.000002209">Johann
+                                Baptist von Hofstetten</persName> und <persName key="pdrPo.001.004.000001747">August Geib</persName> zum Thema „Der
+                            gesetzliche Maximalarbeitstag und die englische Fabrikgesetzgebung“ auf
+                            der öffentlichen Versammlung des ADAV am 24. November 1867 berichtet.
+                            Hofstetten hatte in seiner Rede viele Stellen dem „<bibl sameAs="zotero-604880-PT9GISVC" type="primary">Kapital</bibl>“ von
+                            Marx nahezu wörtlich entlehnt, aber weder den Titel des Werkes noch den
+                            Autor genannt. Dabei hatte er den Sinn der von ihm plagiierten Stellen
+                            meistens entstellt. August Geib referierte über die Notwendigkeit der
+                            Abschaffung der Sonntagsarbeit und über den Verlauf der Gesetzgebung in
+                            England. Siehe <ref target="B00441"><?oxy_comment_start author="lindenberg" timestamp="20191212T131624+0100" comment="(Br. 431.24–28)"?>L.
+                                Kugelmann an Marx, 23.11.1867<?oxy_comment_end?></ref> „Daß Ihr Buch
+                            ...“ .</note></seg>
+                    <subst>
+                        <del rendition="#s">Ich</del>
+                        <add place="intralinear"><sic ana="#break-off"/>(<persName key="pdrPo.001.004.000002616">Kug</persName>. hat ihn mir
+                            geschickt.)</add>
+                    </subst> Ich habe (dieß blos <hi rendition="#u">unter uns</hi>) <seg type="comment"><orig>dem <persName key="ed_vtr_13k_bdb">Guido
+                                Weiß</persName> v. <expan>d<ex>er</ex></expan> „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika">Zukunft</bibl>“ gestern
+                            eine Zusammenstellung geschickt, auf der einen <pb/> Seite
+                                    <expan>d<ex>ie</ex></expan> verballhornenden Plagiate
+                                    <expan>d<ex>es</ex></expan> v. <persName key="pdrPo.001.004.000002209">Hofstetten</persName>, auf der andern
+                                    <expan>d<ex>ie</ex></expan> Originalstellen aus meinem
+                            Buch.</orig><note xml:id="nfxg_xcn_2gb">[Karl Marx:] Plagiarismus. In:
+                            Die Zukunft. Berlin. Nr. 291, 12. Dezember 1867. Beil. S. 7, Sp. 2, bis
+                            S. 8, Sp. 1. (MEGA<hi rendition="#sup">2</hi> Bd. I/21. S. 33–37 und
+                            1272–1275.) Siehe auch <ref target="B00483"><?oxy_comment_start author="lindenberg" timestamp="20191212T113725+0100" comment="(Br. 474.18–20)"?>Engels
+                                an Marx, 12.12.1867<?oxy_comment_end?></ref> „Sehr gut ...“, <ref target="B00486"><?oxy_comment_start author="lindenberg" timestamp="20191212T113908+0100" comment="(Br. 477.26–28)"?>Marx
+                                an Engels, 14.12.1867<?oxy_comment_end?></ref> „Von 'Zukunft' noch
+                            nichts ...“, <ref target="B00487"><?oxy_comment_start author="lindenberg" timestamp="20191212T131053+0100" comment="(Br. 478.10–11)"?>Engels
+                                an Marx, 16.12.1867<?oxy_comment_end?></ref> „Die Geschichte steht
+                            ...“  und <ref target="B00490"><?oxy_comment_start author="lindenberg" timestamp="20191212T131156+0100" comment="(Br. 481.18–19)"?>Marx
+                                an Engels, 17.12.1867<?oxy_comment_end?></ref> „Die Zukunft besitzt
+                            Talent ...“.</note></seg>
+                    <seg type="comment"><orig>Ich habe ihm zugleich geschrieben</orig><note xml:id="naxf_5cn_2gb">Marx’ Brief an Guido Weiß vom 6. Dezember 1867 ist
+                            nicht überliefert.</note></seg>, daß dieß <hi rendition="#u">nicht in
+                        meinem Namen</hi>, sondern als v. <expan>d<ex>er</ex></expan> „<bibl sameAs="ed_lpm_jxn_q2b" type="periodika"><hi rendition="#u">Zukunft</hi></bibl>“ ausgehend gedruckt werden muß (oder, wenn
+                            <expan>d<ex>as</ex></expan> unthulich, als v. einem Berliner Leser der
+                        <hi rendition="#u">Zukunft</hi>.) Nimmt <persName key="ed_vtr_13k_bdb">Weiss</persName> dieß (<hi rendition="#u">u. ich glaube es</hi>), so ist
+                    nicht nur <expan>d<ex>er</ex></expan> Berliner Arbeiter auf
+                        <expan>d<ex>as</ex></expan> Buch aufmerksam gemacht durch Citation v.
+                    Stellen, die ihn direkt interessiren, sondern eine höchst nützliche Polemik
+                    eröffnet, u. <expan>d<ex>er</ex></expan> Plan <expan>d<ex>es</ex></expan>
+                    <hi rendition="#u"><persName key="pdrPo.001.004.000004357">Schweitzer</persName></hi>, das Buch zu ignoriren u.
+                        <expan>s<ex>einen</ex></expan> Inhalt zu exploitiren, im Arsch. Gottvoll v.
+                    diesen Kerls, <seg type="comment"><orig>wie sie <hi rendition="#u"><persName key="pdrPo.001.004.000002711">Lassalle</persName>’s</hi> Plan
+                            glauben fortsetzen zu können</orig><note xml:id="nn4x_rcn_2gb">Siehe
+                                <ref target="B00185"><?oxy_comment_start author="lindenberg" timestamp="20191212T112612+0100" comment="(Br. 180.46–54)"?>Marx
+                                an L. Kugelmann, 13.10.1866<?oxy_comment_end?></ref> „Ich habe es
+                            ...“ und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191212T112636+0100" comment="180g."?>Erl<?oxy_comment_end?>.
+                            Siehe auch <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital.
+                                Bd. 1. Buch 1. Hamburg 1867.</bibl> Vorwort. S. VII. (MEGA<hi rendition="#sup">2</hi> II/5. S. 11.22–30.)</note></seg>. Giebt es
+                    etwas naiveres als <expan>d<ex>ie</ex></expan> Art u. Weise, wie v. <persName key="pdrPo.001.004.000002209">Hofstetten</persName> u. Bürger <persName key="pdrPo.001.004.000001747">Geib</persName> sich auf der
+                            <expan>Generalvers<ex>ammlung</ex></expan>
+                    <expan>d<ex>es</ex></expan>
+                    <orgName key="ed_rkd_rz4_23b">Allg. D. Arbeitervereins</orgName> in die
+                    Vermöblung <seg type="comment"><orig>meines Abschnitts über den
+                            „Arbeitstag“</orig><note xml:id="nxjr_pcn_2gb"><bibl sameAs="zotero-604880-PT9GISVC" type="primary">Karl Marx: Das
+                                Kapital. Bd. 1. Buch 1. Hamburg 1867. S. 198–281</bibl>. (MEGA<hi rendition="#sup">2</hi> II/5. S. 177–241.)</note></seg> getheilt
+                    haben!</p>
+                <p>Salut.</p>
+                <closer>D<lb/>K Marx</closer>
+                <postscript>
+                    <p>My compliments to <persName key="pdrPo.001.004.000000698">Mrs Burns</persName>. <seg type="comment"><orig><persName key="pdrPo.001.004.000004311">Schorlemmer</persName>’s
+                                Compendium</orig><note xml:id="nsk3_ncn_2gb"><bibl sameAs="zotero-604880-QYK9AV9R" type="primary">H[enry] E[nfield]
+                                    Roscoe: Kurzes Lehrbuch der Chemie nach den neuesten Ansichten
+                                    der Wissenschaft … Braunschweig 1867</bibl>. Siehe <ref target="B00413"><?oxy_comment_start author="lindenberg" timestamp="20191212T110118+0100" comment="(Br. 403.35) und Erl. 403.35"?>Marx
+                                    an Engels, 2.11.1867<?oxy_comment_end?></ref> „Es wäre
+                                wünschenswerth ...“ und Erl., <ref target="B00451"><?oxy_comment_start author="lindenberg" timestamp="20191212T110248+0100" comment="(Br. 441.48)"?>Marx
+                                    an Engels, 27.11.1867<?oxy_comment_end?></ref> „Wie steht es
+                                ...“ und <ref target="B00461"><?oxy_comment_start author="lindenberg" timestamp="20191212T110336+0100" comment="(Br. 451.7–8)"?>Marx
+                                    an Engels, 30.11.1867<?oxy_comment_end?></ref> „Ich habe heute
+                                ...“  sowie <ref target="B00454"><?oxy_comment_start author="lindenberg" timestamp="20191212T110455+0100" comment="(Br. 444.21–22)"?>Engels
+                                    an Marx, 28.11.1867<?oxy_comment_end?></ref> „Schorlemmers Buch
+                                ...“.</note></seg> gefällt mir ausserordentlich. </p>
+                </postscript>
+            </div></body></text></TEI>

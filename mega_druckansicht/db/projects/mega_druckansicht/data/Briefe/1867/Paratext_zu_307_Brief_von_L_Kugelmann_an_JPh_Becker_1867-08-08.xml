@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_h2m_4zy_wfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Louis Kugelmann an Johann Philipp Becker, 8. August 1867</title>
+                <title> [Brief]</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Louis Kugelmann beantwortet einen nicht überlieferten Brief von Johann
+                        Philipp Becker.</p>
+                    <p>Der Brief gehört zu einer Erläuterung in: <ref target="B00316">Louis und
+                            Gertrud Kugelmann an Karl Marx in London. Hannover, Montag, 12. August
+                            1867</ref>.</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Nachlass Johann Philipp Becker</collection>
+                        <idno>
+                            <idno type="shelfmark">Sign. DII/71</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1867-08-08" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div><opener>
+                <dateline><pb/> Hannover, 8. August 1867.</dateline>
+                <salute>Mein lieber Freund!</salute>
+            </opener>
+                
+                   <p>Für Ihre freundlichen Zeilen besten Dank. Ich hoffe sowohl dem Congresse in
+                    Lausanne wie in Genf beizuwohnen u. freue mich ebenfalls to shake hands with
+                    you. – Ihre Auffassung des Friedenscongresses theile ich vollkommen, die
+                    bürgerlichen Schwätzer möchten das Proletariat gern mal wieder <seg type="comment"><orig>als Folie gebrauchen</orig><note xml:id="nddh_qrl_kjb">figürlich: es dient ihm zur folie, hebt ihn hervor (<bibl sameAs="zotero-604880-QTGUHIZW" type="secondary">DWB</bibl>:
+                            Folie).</note></seg>. – Die Beitrittsliste habe ich empfangen, werde
+                    mich aber um Unterschriften nicht bemühen, weil ich keine directe Parteigenossen
+                    hier habe. –</p>
+                <p>Meine Reiseroute ist Frankfurt a/M. Friedrichshafen,
+                    <?oxy_comment_start author="lindenberg" timestamp="20191016T160058+0200" comment="Gemeinde im schweizer Kanton St. Gallen am Bodensee"?>Rorschach<?oxy_comment_end?>,
+                    Chur (Via mala) Andermatt, Furka, Susten, Bad Lenk,
+                    <?oxy_comment_start author="lindenberg" timestamp="20191016T160812+0200" comment="dt. Sitten, frz. Sion - Gemeinde in der Schweiz"?>Sion<?oxy_comment_end?>,
+                    Martigny, (Chamounix) Lausanne. – Am 17. d. Mts Morgens reise ich von hier ab. –
+                    Etwaige Mittheilungen treffen mich bis zum 16. incl. <hi rendition="#u">hier</hi>, oder am 19. d. Mts in Chur (Hôtel Luxmanier). –</p>
+                <p>Das verspätete Erscheinen von <persName key="ed_ats_ysj_wx">Marx’</persName>
+                    <bibl sameAs="zotero-604880-PT9GISVC" type="primary">Buch</bibl> rührt von
+                    dessen unerwarteten Ausdehnung. M. glaubte es würden 20–25 Bogen füllen, u.
+                    jetzt werden es c<hi rendition="#sup">a</hi> 50 Bogen (allein der <pb n=""/>erste Band), so sehr hat sich unser Freund verrechnet; für die Verspätung
+                    werden wir demnach reichlich entschädigt werden. –</p>
+                <p>Wollen Sie mir für Lausanne und Genf ein gutes u. nicht zu theures Hôtel
+                    empfehlen, so wäre mir das lieb. Für Genf ist mir Hôtel garni de la Poste
+                    empfohlen. Auch bitte ich mir zu sagen ob ich mir in diesen beiden Städten,
+                    wegen der wahrscheinlichen Fremdenüberfüllung Logis bestellen muss u. wie lange
+                    zuvor. –</p>
+                <p>Von der Reise aus werde ich Ihnen wohl nochmals schreiben,
+                    auch erlauben Sie mir wohl meine Briefe an Sie adressiren zu lassen. –</p>
+                <p>Vielleicht haben Sie die Güte mir vor meiner Abreise noch
+                    mit zwei Worten zu antworten. –</p>
+                <p>Bis mündlich</p>
+                <p>freundschaftlich <lb/>der Ihrige <lb/>LKugelmann <lb/>Dr <lb/>Ich sehe eben auf
+                    der Karte daß das Hôtel garni de la Poste ziemlich weit von <seg type="comment"><orig>Pré l’Evêque</orig><note xml:id="nl3q_3zl_kjb">Genf, Place du Pré
+                            l'Evêque.</note></seg> ist. –</p>
+            </div>
+        </body>
+    </text>
+</TEI>

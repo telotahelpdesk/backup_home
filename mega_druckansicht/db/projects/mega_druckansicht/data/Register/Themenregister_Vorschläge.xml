@@ -1,0 +1,36 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_enx_lxs_l1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Themenregister - Vorschläge</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p>Indien <lb/>Jamaika <lb/>{weitere Orte - z. B. aus den noch aufzunehmenden
+                    Exzerptbänden}</p>
+            </div>
+        </body>
+    </text>
+</TEI>

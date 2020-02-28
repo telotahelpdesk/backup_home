@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00407" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>397</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Dienstag, 22. Oktober 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1647/D III 418.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format
+                            226 × 178 mm. Prägung: Blumenstrauß. Engels hat die ersten zwei Seiten
+                            vollständig, die dritte zu einem Viertel beschrieben, die vierte Seite
+                            ist leer. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seiten: „48,1“ bis
+                            „48,3“ (gestrichen), „342,1“ bis „342,3“. Redaktionelle Vermerke.
+                            Streichungen.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „920“.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            gekürzt:<?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>
+                            Bw 3 (1913)<?oxy_custom_end?>. S. 417–419.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>MEGA¹ III/3
+                            (1930)<?oxy_custom_end?>. S. 438/439.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                    <date when="1867-10-22"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="B00405"/>
+                </correspContext>
+                <note>Engels beantwortet Marx’ Brief vom 19. Oktober 1867
+                        (<?oxy_comment_start author="lindenberg" timestamp="20190226T103221+0100" comment="395"?><ref target="B00405">Marx an Engels, 19.10.1867</ref><?oxy_comment_end?>).</note>
+                <note>Zur Beilage („Inl. die Briefe von Becker &amp; Eccarius“) zum Brief siehe
+                    Erl.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:47:24Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:00+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 22 Octbr 1867</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Inl. die <expan>B<ex>rie</ex>fe</expan> von <persName key="pdrPo.001.004.000000317">Becker</persName> &amp; <persName key="pdrPo.001.004.000001296"><expan>Ecc<ex>arius</ex></expan></persName> zurück. Der Geldmangel
+                            ist allerdings ein großes Pech für die Partei &amp; ein größeres für
+                            diese armen Teufel.</orig><note xml:id="adbde928-de21-4b9a-83c2-211d98677a85">Siehe <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T093949+0200" comment="(Br. 395.93–94)"?>Marx
+                                an Engels, 19.10.1867 <?oxy_comment_end?></ref> „Was unsrer Partei
+                            fehlt ...“ und Erl.</note></seg></p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004424">Siebel</persName> schreibt mir aus Honnef am Rhein,</orig><note xml:id="be3c6db1-23a7-45c5-8cd6-5a229e3df796">Siehe <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180606T094041+0200" comment="(Br. 396)"?>C.
+                                Siebel an Engels, 19.10.1867 <?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>er kommt Anfang Novbr her um sich in Lpool wieder nach
+                            Madeira einzuschiffen.</orig><note xml:id="c0875d2e-8761-4060-b715-0c4cb5a7d7e2">Siehe <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180606T094210+0200" comment="Br. 396.6–8"?>C.
+                                Siebel an Engels, 19.10.1867<?oxy_comment_end?></ref>
+                            Br. 396.6–8.</note></seg>
+                    <seg type="comment"><orig>Er sagt ich solle ihm die
+                                <expan>Artik<ex>el</ex></expan>
+                            <hi rendition="#u">umgehend</hi> einsenden,</orig><note xml:id="a61b5e9e-feb2-4c5c-9cf5-48ff92fc073f">Siehe <ref target="B00406"><?oxy_comment_start author="reichhoff" timestamp="20180606T094307+0200" comment="Br. 396.2–3"?>C.
+                                Siebel an Engels, 19.10.1867 <?oxy_comment_end?></ref> und
+                            Erl.</note></seg> ich setze mich heut Abend dran ihm ein paar
+                    zurechtzuschreiben. Was ich für die <hi rendition="#u">deutsche</hi> Presse
+                    schreibe ist natürlich alles <hi rendition="#u">verstellt</hi>, <seg type="comment"><orig>für Amerika müßte wieder anders geschrieben
+                            werden</orig><note xml:id="nvvz_3tf_n3b">Zur Besprechung des ersten
+                            Bandes des „Kapital“ in der amerikanischen Presse siehe auch <ref target="mega_rq3_km1_1gb"><?oxy_comment_start author="lindenberg" timestamp="20190725T143343+0200" comment="(Br. 365.10–11)"?>O.
+                                Meißner an Marx, 7.10.1867<?oxy_comment_end?></ref> „Haben Sie in
+                            New York …“ und <ref target="B00405"><?oxy_comment_start author="lindenberg" timestamp="20190725T142922+0200" comment="Br. 395"?>Marx
+                                an Engels 19.10.1867<?oxy_comment_end?></ref> „da Meyer auch für
+                            jenseits dergleichen …“. </note></seg>, da kann man schon mehr
+                    herausrücken.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000003296">Sam
+                                Moore</persName> hat aus Eisenach geschrieben,</orig><note xml:id="cd9e2a2f-36a3-47c3-b887-4e95e845ea96">Der Brief von <persName key="pdrPo.001.004.000003296">Samuel Moore</persName>, geschrieben
+                            vor dem 22. Oktober 1867, ist nicht überliefert. Zu seiner Reise siehe
+                                <ref target="B00339"><?oxy_comment_start author="reichhoff" timestamp="20180606T094551+0200" comment="(Br. 330.31–33"?>Engels
+                                an Marx, 2.9.1867<?oxy_comment_end?></ref> „Moore geht in ca 3
+                            Wochen nach Thüringen
+                            <?oxy_comment_start author="lindenberg" timestamp="20190829T093007+0200" comment="und Erl.) keine Erl. vorh.!"?>...“<?oxy_comment_end?>.
+                            Siehe auch <ref target="B00282">Engels an Marx, 24.6.1867</ref>
+                            „Gleichzeitig habe ich die Frage gelöst …“ und Erl.</note></seg> er
+                    scheint im Deutschen ziemliche Fortschritte zu machen.</p>
+                <p><persName key="pdrPo.001.004.000002822">Liebknecht</persName> macht mir viel
+                    Spaß. Es ist ein wahres Glück daß er noch ein gut Stück in der
+                    süddeutsch-föderalistischen Sauce befangen ist, sodaß er mit großer Singleness
+                    of purpose &amp; mit ungebrochener <expan>sittl<ex>icher</ex></expan> Entrüstung
+                    gegen die Bismärkerei auftreten kann. Eine etwas kritischere &amp;
+                    dialektischere Ansicht würde in seinem Kopfe nur Konfusion anrichten &amp; ihn
+                    irre machen. <seg type="comment"><orig>Er hat sich offenbar am <persName key="pdrPo.001.004.000005180">Lupus</persName> im
+                                    <expan>Frankf<ex>urter</ex></expan> Parlament ein Vorbild
+                            genommen &amp; hat sich auch seinen Ordnungsruf redlich erworben indem
+                            er den Reichstag das Feigenblatt des nackten Absolutismus genannt
+                            hat.</orig><note xml:id="ae072aaa-96f3-4b77-b37d-754bfaa9145b">Lupus, d.
+                            i. <persName key="pdrPo.001.004.000005180">Wilhelm Wolff.</persName>
+                            Wolff vertrat als Abgeordneter (Donnersberg-Fraktion) der Frankfurter
+                            Nationalversammlung vom 21. Mai bis 18. Juni 1849 den Wahlkreis
+                            Schlesien in Neumarkt – Zum Auftreten Wilhelm Liebknechts im
+                            Norddeutschen Reichstag siehe <ref target="B00404"><?oxy_comment_start author="lindenberg" timestamp="20190828T113927+0200" comment="394e und 394f"?>Erl. zu
+                                W. Liebknecht an Marx,
+                        19.10.1867<?oxy_comment_end?></ref>.</note></seg>
+                    <seg type="comment"><orig>Daß er in das Coalitionsgesetz einen Paragraphen zum
+                            Schutz der Fabrikkinder <pb/> hineingebracht, wirst Du gesehn
+                            haben.</orig><note xml:id="a5112d05-ffe3-4d1c-b9ab-aaa9718bed9d">Am
+                            19. Oktober 1867 hatten <persName key="pdrPo.001.004.000002822">Liebknecht</persName>, <persName key="pdrPo.001.004.000000303">August Bebel</persName>, <persName key="ed_xny_dzr_wcb">Peter Adolf
+                                Reincke</persName> und <persName key="pdrPo.001.004.000004322">Reinhold Schraps</persName> während der Debatten im Norddeutschen
+                            Reichstag über das Gesetz betreffend die Koalitionen von Arbeitern und
+                            Arbeitgebern (siehe <ref target="B00382"><?oxy_comment_start author="reichhoff" timestamp="20180606T094832+0200" comment="Br. 372"?>W.
+                                Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref> und
+                            <?oxy_comment_start author="lindenberg" timestamp="20190828T122859+0200" comment="372.6–11"?>Erl.<?oxy_comment_end?>)
+                            eine Ergänzung zu § 2 des Gesetzentwurfes beantragt. Sie schlugen vor,
+                            daß mit diesem Paragrafen, der den Arbeitgebern das Recht zugestand,
+                            Arbeiter aller Berufe in unbegrenzter Zahl einzustellen, nicht die
+                            bestehenden Gesetze über die Einschränkung und Überwachung der
+                            Kinderarbeit aufgehoben werden: „Jeder Gewerbetreibende und Arbeitgeber
+                            darf hinfort Gesellen, Gehülfen, Lehrlinge und Arbeiter jeder Art und in
+                            beliebiger Anzahl halten. Gesellen sind in der Wahl ihrer Meißter und
+                            Arbeitgeber unbeschränkt. – Hierdurch werden jedoch die wegen
+                            Beschränkung und Ueberwachtung der Beschäftigung von Kindern in den
+                            Fabriken ergangenen Gesetze nicht berührt“. Ihr Antrag wurde angenommen.
+                            (Siehe <bibl sameAs="zotero-604880-Q6Z5X3TX" type="primary">Stenographische Berichte über die Verhandlungen des Reichstages des
+                                Norddeutschen Bundes. I. Legislatur-Periode. – Session 1867.
+                                Bd. 1.</bibl> Berlin 1867. S. 528, Sp. 2, bis S. 529, Sp.
+                        1.)</note></seg></p>
+                <p><seg type="comment"><orig>Die Fortschrittspartei hat die Untersuchungscommission
+                            abgelehnt</orig><note xml:id="f9b2c3ce-03c8-4ad3-a2b0-4fd390241125">Siehe <ref target="B00382"><?oxy_comment_start author="reichhoff" timestamp="20180606T094921+0200" comment="(Br. 372.11–14)"?>W.
+                                Liebknecht an Marx, 8.10.1867<?oxy_comment_end?></ref> „Dr. Reinke
+                            ...“ und Erl. sowie Erl. zu <ref target="B00092"><?oxy_comment_start author="lindenberg" timestamp="20190828T150117+0200" comment="89.73 {89k} {Forschrittspartei}"?>W.
+                                Liebknecht an Marx, 14.4.1866<?oxy_comment_end?></ref>.</note></seg>
+                    als nicht zur Competenz gehörig. Der <hi rendition="#u">Bund ist</hi> aber
+                    kompetent für alle Gewerbeverhältnisse, nur kann der <hi rendition="#u">Reichstag</hi> keine Commission ernennen, wohl aber die Bundesgewalt dazu
+                    auffordern.</p>
+                <p><seg type="comment"><orig>In der Wucherdebatte lehnte <persName key="pdrPo.001.004.000000441">Bismark</persName> es ab, die
+                            Hypothekenbanken durch Staatshülfe zu unterstützen: wenn von
+                            Staatsunterstützung die Rede sei so könne diese bloß den <hi rendition="#u">Arbeiterassociationen allenfalls</hi> bewilligt
+                            werden.</orig><note xml:id="edb6428b-0d58-431a-932d-05f96be60f46">In der
+                            Debatte im Norddeutschen Reichstag vom 22. Oktober 1867 wurde der am
+                            1. Oktober 1867 eingegangene Antrag des Grafen Lehndorff, von Hüllessem
+                            und von Sydewitz „auf Annahme eines Gesetz-Entwurfs betreffend die
+                            Errichtung von Hypotheken-Banken für städtischen und ländlichen
+                            Grundbesitz“ zur Abstimmung gebracht und nachdem er in der Minderheit
+                            geblieben war, wurde dieser Antrag in der Tagesordnung nicht bestätigt.
+                                (<bibl sameAs="zotero-604880-Q6Z5X3TX" type="primary">Stenographische Berichte über die Verhandlungen des Reichstages des
+                                Norddeutschen Bundes. I. Legislatur-Periode. – Session 1867.
+                                Bd. 1.</bibl> Berlin 1867. S. 211, 219/220, 587/589 und
+                            590/591.)</note></seg> Der Schuft glaubt doch noch die Arbeiter prellen
+                    zu können.</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000004955">Victor
+                                Emanuel</persName> scheint ein sehr gewagtes Spiel zu spielen. Indeß
+                            ist der römische Krawall noch nicht am Ende. Die Luft wird täglich
+                            elektrischer, es sollte mich gar nicht wundern wenns gleich im nächsten
+                            Frühjahr losginge.</orig><note xml:id="a3c4e9fd-04ca-4547-94de-37f8af081dfe">1866 war Venetien dem
+                            Königreich Italien angegliedert worden. Um die nationale Einheit des
+                            Landes zu vollenden, bedurfte es noch des Anschlusses des
+                            Kirchenstaates. <persName key="pdrPo.001.004.000001724">Guiseppe
+                                Garibaldi</persName> wurde Initiator des Kampfes für diesen Anschluß
+                            und bereitete mit seinen Freischaren einen Marsch auf Rom vor. Anfangs
+                            hatte die Regierung <persName key="pdrPo.001.004.000004955">Vittorio
+                                Emanueles</persName> über diese Vorbereitungen hinweggesehen, ließ
+                            dann aber Garibaldi verhaften. Seinen Freischaren gelang es, in den
+                            Kirchenstaat einzudringen. In Rom hatten indessen Patrioten einen
+                            Aufstand gegen den Pabst vorbereitet. Am 17. Oktober 1867 unterrichtete
+                                <persName key="pdrPo.001.004.000003745">Pius IX.</persName> in einer
+                            Enzyklika die Bischöfe von der drohenden Gefahr. Napoleon III. sagte
+                            bereits am 18. Oktober dem Papst seine Unterstützung zu und rüstete ein
+                            Expeditionskorps zur Entsendung nach Italien aus. Als der am 14. Oktober
+                            aus der Haft entflohene Garibaldi sich mit seinen Truppen Rom näherte,
+                            schiffte sich das französische Korps nach Italien ein, wo es am
+                            30. Oktober eintraf. Mit Hilfe der französischen Interventen gelang es
+                            den Truppen des Papstes, Garibaldi am 3. November 1867 bei Mentana zu
+                            schlagen. Die römische Frage blieb bis zur Auflösung des Kirchenstaats
+                            1870 in der Schwebe.</note></seg></p>
+                <p>Beste Grüße an <persName key="pdrPo.001.004.000003075">Deine Frau</persName>, die
+                    Mädchen u. den <seg type="comment"><orig><persName key="pdrPo.001.004.000002648">Doctor Eisenbart</persName></orig><note xml:id="a0f9b5fd-817f-466e-8fef-2183868ad505"><persName key="pdrPo.001.004.000002648">Paul Lafargue</persName>. Der
+                            Spitzname ist eine Anspielung auf den deutschen Wundarzt <persName key="ed_bln_bh4_zgb">Johann Andreas Eisenbarth</persName>
+                            (Eysenbarth), der, trotz Übernahme seiner Operationsmethoden durch die
+                            damalige Schulmedizin, wegen seiner marktschreierischen Methoden jedoch
+                            zu Unrecht als Quacksalber und fahrender Kurpfuscher dargestellt wurde.
+                            Vgl. das Trinklied „Ich bin der Doktor Eisenbart“ (um
+                        1800).</note></seg></p>
+                <closer>Dein<lb/>F. E.</closer>
+                <postscript>
+                    <p>Ich bin froh daß <seg type="comment"><orig>die Sache mit <expan><persName key="pdrPo.001.004.000000542">Borkh<ex>eim</ex></persName></expan> in Ordnung.</orig><note xml:id="d0ea7b93-2720-459d-8b22-3f0aaecae862">Siehe <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T095250+0200" comment="(Br. 395.3–7)"?>Marx
+                                    an Engels, 19.10.1867<?oxy_comment_end?></ref>. Zur Geldanleihe
+                                siehe auch <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180606T095335+0200" comment="(Br. 360.127–130)"?>Marx
+                                    an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs
+                                ...“ und
+                                <?oxy_comment_start author="lindenberg" timestamp="20190828T151612+0200" comment="{360dd.}"?>Erl.<?oxy_comment_end?></note></seg>
+                        Ich kann unter keinen Umständen dem <persName key="pdrPo.001.004.000001409"><expan>G<ex>ottfried</ex></expan>
+                            <expan>E<ex>rmen</ex></expan></persName>
+                        <hi rendition="#u">jetzt</hi> einen Vorwand liefern wegen directem
+                        Contraktsbruch den Contract mit mir aufzulösen.
+                            <expan>Hoffentl<ex>ich</ex></expan> vertreibt das Geld Dir die
+                        Karbunkeln, vergiß nicht Dir viel Bewegung in freier Luft zu machen.</p>
+                </postscript>
+                <postscript>
+                    <p>Die Sache für <seg type="comment"><orig>die <expan>Sat<ex>urday</ex></expan>
+                                    14<hi rendition="#sup">ly</hi> Review mach ich gern.</orig><note xml:id="cd4f1238-c512-4021-8484-97ad64ad2c23">Zu Engels’ Rezension
+                                über den ersten Band des „Kapital“ für „Fortnightly Review“ siehe
+                                    <ref target="B00405"><?oxy_comment_start author="reichhoff" timestamp="20180606T095438+0200" comment="(Br. 395.73)"?>Marx
+                                    an Engels, 19.10.1867<?oxy_comment_end?></ref> „eine Kritik für
+                                die Fortnightly Review ...“ und
+                                <?oxy_comment_start author="lindenberg" timestamp="20190828T151903+0200" comment="395q"?>Erl.<?oxy_comment_end?> </note></seg>
+                        Laß mich aber wissen, welchen Raum ich ungefähr beanspruchen darf. Du wirst
+                        wohl vorziehen daß es in Resüméform <pb/> gemacht wird, sodaß die
+                        Hauptpunkte <seg type="comment"><orig>des Buchs</orig><note xml:id="a535ad88-124c-48cf-aada-aac694c8f6b1"><bibl sameAs="zotero-604880-PT9GISVC">Karl Marx. Das Kapital. Bd. 1.
+                                    Buch 1. Hamburg 1867</bibl>.</note></seg> – Entstehung des
+                        Kapitals – Mehrwerth – Arbeitstag – Revision der <persName key="pdrPo.001.004.000003970">Ricardo</persName>schen Gesetze – &amp;sw
+                        &amp;sw in Kurzem mitgetheilt werden, kritisiren kann ich das Ding ja doch
+                        nicht. Auch bis wann ungefähr das Ding da sein muß, wüßte ich gerne. Für die
+                        1 Nov. N<hi rendition="#sup">o</hi> ists zu spät, also für die 1 Decbr N<hi rendition="#sup">o</hi>. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

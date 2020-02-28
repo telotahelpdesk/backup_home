@@ -1,0 +1,41 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00272" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>263</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Mittwoch, 29. Mai 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1702</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 246 × 138 mm. Liebknecht hat die erste Seite vollständig beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial: schwarze Tinte.</p><p>Von unbekannter Hand (vermutlich von <persName key="pdrPo.001.004.000004017">David Borisovič
+                                Rjazanov</persName>): auf der ersten Seite oben in der Mitte mit
+                            Blaustift die Jahresangabe: „1867“.</p></physDesc></msDesc><listWit><witness><bibl sameAs="zotero-604880-2LVTZQ84">Erstveröffentlichung: gekürzt:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Schröder:
+                            Ernestine. (1987)<?oxy_custom_end?>. S. 197/198.</bibl></witness><witness><bibl>vollständig wird der Brief hier erstmals veröffentlicht.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+                    <placeName key="ed_rdd_5jt_qx">Leipzig</placeName><date when="1867-05-29"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:34Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mittwoch, den 29 Mai.<lb/>Braustr. 11,
+                        Leipzig</dateline>
+                    <salute>Lieber Mohr!</salute>
+                </opener>
+                <salute><seg type="comment"><orig>Heute Mittag 12 Uhr ist
+                                <persName key="pdrPo.001.004.000002819">meine Frau</persName>
+                            gestorben.</orig><note xml:id="fe024d63-5bec-4ff4-9b51-bfb15eca4922">
+                            <persName key="pdrPo.001.004.000002819">Ernestine Liebknecht</persName>
+                            starb an einer Lungenkrankheit. Siehe <ref target="B00254"><?oxy_comment_start author="reichhoff" timestamp="20180504T174544+0200" comment="(Br. 243.3–17)"?>W.
+                                Liebknecht an Marx, 25.4.1867<?oxy_comment_end?></ref> sowie Johann
+                            Philipp Becker, 3. August 1867. (RGASPI, Sign. f. 200, op. 1,
+                            d. 349.)</note></seg> Der Todeskampf dauerte über 4 Tage. Bitte,
+                    schreibe es den Deinen, da ich keine Zeit habe; überdieß bin ich vom Nachtwachen
+                    und dem Brodarbeiten am Sterbebett halb todt. Der Tag der Rache wird kommen.
+                    –</salute>
+                <p>Wann erscheint <seg type="comment"><orig>Dein
+                            Buch</orig><note xml:id="d7e624bd-5d9e-445e-8e4c-76f7ec072505">
+                            <bibl sameAs="zotero-604880-25ETZ5BH">Karl Marx: Das
+                                Kapital. Bd. 1.</bibl> Siehe <ref target="B00007"><?oxy_comment_start author="reichhoff" timestamp="20180906T154133+0200" comment="Erl. 6b"?>Marx
+                                an J. Ph. Becker, zw. 9. u.
+                            15.1.1866<?oxy_comment_end?></ref>.</note></seg> ?</p>
+                <closer>Dein<lb/>W. L.</closer>
+                <postscript>
+                    <p>Kannst Du mir eine Empfehlung an <hi rendition="#u"><persName key="pdrPo.001.004.000001075">Dana</persName></hi> in Newyork geben?
+                            <seg type="comment"><orig>Er tritt an die Spitze einer neuen Zeitung,
+                                des Evening Telegraph</orig><note xml:id="a47e058c-15c0-4a10-aef2-e2477610662c">Die Vorhaben Danas
+                                wurde anscheinend nicht umgesetzt. Eine Zeitung mit diesem Titel
+                                konnte nicht ermittelt werden. Siehe Union List of serials in
+                                libraries of the United States and Canada. New York 1927; 2. ed. New
+                                York 1943.</note></seg>, bei der ich gern für eine wöchentliche oder
+                        14tagige Correspondenz ankommen möchte. <pb/></p>
+                </postscript>
+            </div></body></text></TEI>

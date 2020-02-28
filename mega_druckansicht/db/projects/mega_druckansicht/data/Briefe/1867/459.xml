@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00468" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>459</idno>Friedrich Engels an Karl Marx in London. Manchester,
+                    Mittwoch, 4. Dezember 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">D 1656/D III 427</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            118 × 194 mm. Wasserzeichen: „[London Super]fine [186]6“. Auf der
+                            zweiten Seite kopfstehend Aufdruck: „Memorandum from <orgName key="ed_mtd_tkh_1z">ERMEN &amp; ENGELS</orgName> to M“ (siehe
+                            „Anmerkungen zum Brief“ und Engels an Marx, 8. Oktober 1867,
+                            <?oxy_comment_start author="lindenberg" timestamp="20190319T134922+0100" comment="Br. 368."?>ZB<?oxy_comment_end?>).
+                            Die erste Seite hat Engels zu zwei Dritteln beschrieben, die zweite ist
+                            leer. Schreibmaterial: schwarze Tinte.
+                            <?oxy_comment_start author="lindenberg" timestamp="20190319T142610+0100" comment="(Siehe die Abbildung S. 000.)"?><?oxy_comment_end?>
+                        </p>
+                        <p/>
+                        <p/>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes bzw. der beschriebenen Seite: „65“ und
+                            „351,1“. Redaktionelle Vermerke.</p>
+                        <p>Von <persName key="pdrPo.001.004.000001156">Heinrich Dietz’</persName>
+                            Hand: Nummerierung des Briefes: „937“.</p>
+                        <p>Von unbekannter Hand: auf der ersten Seite oben links mit Bleistift der
+                            Vermerk: „Vierling“.</p>
+                        <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>
+                        <p><?oxy_custom_end?><?oxy_comment_start author="lindenberg" timestamp="20181219T181104+0100" comment="hier stand noch mit die ZB von 460"?></p><?oxy_comment_end?>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2132</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Bw 3
+                            (1913).<?oxy_custom_end?> S. 436.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName>Manchester</placeName>
+                    <date when="1867-12-04"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName>London</placeName>
+                </correspAction>
+                <note>Engels benutzte einen Geschäftsbriefbogen, der ursprünglich für einen
+                    Schreiben der Firma „<orgName key="ed_mtd_tkh_1z">Ermen und Engels</orgName>“ an
+                    die Firma „<orgName key="ed_s4b_msz_khb">Wegmann &amp; Arnold</orgName>“ gedacht
+                    war. Der Briefkopf auf der Rückseite des Briefes an Marx gestaltet sich wie
+                    folgt: </note>
+                <note><hi rendition="#mPrint">Manchester, 7, Southgate,</hi> 2 Decbr <hi rendition="#mPrint">186</hi>7.</note>
+                <note><hi rendition="#mPrint">Memorandum from ERMEN &amp; ENGELS to M</hi>ssrs
+                    <?oxy_comment_start author="lindenberg" timestamp="20190319T141729+0100" comment="Firma taucht in einem Verz. f. Kleinarchive des Stadtarchivs Zürich auf.
+https://docplayer.org/24829728-Spezialarchive-vii-1000.html"?>Wegmann
+                    &amp; Arnold<?oxy_comment_end?></note>
+                <note>Zur Beilage („Inl. die <expan>Briefe</expan> von <expan>Borkheim</expan>“) zum Brief siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190319T134706+0100" comment=" 459.6."?>Erl.<?oxy_comment_end?></note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:48:09Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:35:03+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Mchr 4 Dezbr 1867.</dateline>
+                    <salute>Lieber Mohr</salute>
+                </opener>
+                <p><seg type="comment"><orig>Die Reference habe ich der Loan Co gegeben</orig><note xml:id="nyqx_wxh_2gb">Siehe <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180613T134410+0200" comment="(Br. 445.5–9)."?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref>. Zur Geschichte
+                            dieser Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="reichhoff" timestamp="20180613T134455+0200" comment="(Br. 360.127–130)"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und
+                            <?oxy_comment_start author="lindenberg" timestamp="20191210T144112+0100" comment="360dd"?>Erl<?oxy_comment_end?>. </note></seg>,
+                    ich habe gesagt from confidential information I am convinced that
+                            Mr. <expan>M<ex>arx</ex></expan> will be in a position to repay the loan
+                    when due.</p>
+                <p><seg type="comment"><orig>Inl. die <expan>Br<ex>ie</ex>fe</expan> von
+                                    <expan><persName key="pdrPo.001.004.000000542">Borkh<ex>eim</ex></persName></expan> zurück.</orig><note xml:id="nep3_zxh_2gb"> S. L. Borkheim an Marx, <ref target="B00447"><?oxy_comment_start author="reichhoff" timestamp="20180613T134547+0200" comment="(Br. 437"?>26.<?oxy_comment_end?>11.1867</ref>
+                            und <ref target="B00450"><?oxy_comment_start author="reichhoff" timestamp="20180613T134627+0200" comment=" 440)."?>27.11.1867
+                                <?oxy_comment_end?></ref>. Siehe auch <ref target="B00455"><?oxy_comment_start author="reichhoff" timestamp="20180613T134658+0200" comment="(Br. 445.3)."?>Marx
+                                an Engels, 28.11.1867<?oxy_comment_end?></ref> „Ich sehe,
+                            ...“.</note></seg> Ich hoffe die Sache geht gut.</p>
+                <p><seg type="comment"><orig>Von <expan><persName key="pdrPo.001.004.000002616">Kugelm<ex>ann</ex></persName></expan> &amp;
+                                    <expan><persName key="pdrPo.001.004.000002822">Liebkn<ex>echt</ex></persName></expan> schicke ich Dir <add place="superlinear">morgen oder übermorgen</add> Briefe.</orig><note xml:id="nzqd_3yh_2gb">
+                            <ref target="B00449"><?oxy_comment_start author="reichhoff" timestamp="20180613T134749+0200" comment="(Br. 439)"?>W.
+                                Liebknecht an Engels, 26.11.1867<?oxy_comment_end?></ref> und <ref target="B00460"><?oxy_comment_start author="reichhoff" timestamp="20180613T134827+0200" comment="(Br. 450)."?>L.
+                                Kugelmann an Engels,
+                        30.11.1867<?oxy_comment_end?></ref>.</note></seg> Beide haben Aussicht
+                    verschiednes in allerdings kleine Zeitungen zu bringen, ich werde das heute
+                    &amp; morgen <expan>Ab<ex>en</ex>d</expan> besorgen.</p>
+                <p><seg type="comment"><orig>Wegen <persName key="pdrPo.001.004.000003135">Meißners</persName> Annonce ist Eile nicht zu sehr
+                            anzurathen.</orig><note xml:id="ne1n_jyh_2gb">Siehe <ref target="B00448"><?oxy_comment_start author="reichhoff" timestamp="20180613T134925+0200" comment="(Br. 438.4–6)"?>Engels
+                                an Marx, 26.11.1867<?oxy_comment_end?></ref> und <ref target="B00451"><?oxy_comment_start author="reichhoff" timestamp="20180613T135005+0200" comment="(Br. 441.17–30)"?>Marx
+                                an Engels, 27.11.1867<?oxy_comment_end?></ref>.</note></seg> Die
+                    Geschichte darf erst <hi rendition="#u">nach Neujahr</hi> in die Blätter kommen
+                    sonst verschwindet sie in der Weihnachtsbücher-Annoncenfluth.</p>
+                <closer>Dein<lb/>F. E. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

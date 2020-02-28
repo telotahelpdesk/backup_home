@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00370" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>361</idno>Hermann Jung an Karl Marx in London. London, vor Samstag, 5.
+                    Oktober 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals
+                    veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">f. 1 op. 5 d. 1740</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, graublauem Papier im
+                            Format 113–116 × 185 mm. Beide Seiten hat Jung vollständig beschrieben.
+                            Letzter Satz (“Remember ... daughters.“) steht, quer geschrieben, am
+                            linken Rand der zweiten Seite. Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von unbekannter Hand (vermutlich von <persName key="pdrPo.001.004.000004017">David Borisovič Rjazanov</persName>):
+                            auf der ersten Seite oben links mit Bleistift der Vermerk: „Datum“; in
+                            der Mitte quer mit Lilastift die Jahresangabe: „1867“.</p>
+                        <p>Archivsignatur des Moskauer Marx-Engels-Instituts
+                                (IMĖ): „Rj 175&lt;a–b&gt;“.</p>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000002417">Hermann Jung</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-10-05"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <note>Zur Datierung: Da der Brief im Zusammenhang mit dem Brief Jungs an Marx vom 5.
+                    Oktober 1867 (<ref target="B00373"><?oxy_comment_start author="lindenberg" timestamp="20190219T153927+0100" comment="Br. 362"?>H.
+                        Jung an Marx, 5.10.1867</ref><?oxy_comment_end?>) steht, in dem Jung seine
+                    dringliche Bitte um Geldrückzahlung an Marx wiederholte, ist der vorliegende
+                    Brief wahrscheinlich kurz vor dem 5. Oktober 1867 verfaßt worden.</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:46:59Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:59+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 4 Charles Street.<lb/>Northampton
+                        Square.</dateline>
+                    <salute>Dear Marx.</salute>
+                </opener>
+                <p>I have some engagements to meet <seg type="comment"><orig>by monday
+                            next</orig><note xml:id="fcc8318e-b9af-4370-bd53-bfe0e7e46149">14. Oktober 1867. Siehe <ref target="B00373"><?oxy_comment_start author="reichhoff" timestamp="20180531T121140+0200" comment="(Br. 362.4)"?>H.
+                                Jung an Marx, 5.10.1867<?oxy_comment_end?></ref>.</note></seg>,
+                    could you oblige me by returning me the £ 4.– I lent you some time since; if it
+                    should be putting you out too much to give me the whole, half of it will be very
+                    welcome; please to let me know <seg type="comment"><orig>by saturday</orig><note xml:id="d95585c9-d42a-4990-b144-e318e0413cfd">12. Oktober 1867. Siehe
+                            auch <ref target="B00373"><?oxy_comment_start author="reichhoff" timestamp="20180531T121237+0200" comment="(Br. 362.5–6)"?>H.
+                                Jung an Marx, 5.10.1867<?oxy_comment_end?></ref>.</note></seg>.</p>
+                <p><seg type="comment"><orig>I feel quite disgusted with the cowardly behaviour of
+                            the trades unions <hi rendition="#u">“leaders”</hi> concerning <persName key="ed_yqn_lzl_dhb">Broadhead</persName></orig><note xml:id="a763165d-9b98-473c-bb75-8b1cccb70fbc"><persName key="ed_yqn_lzl_dhb">William Broadhead</persName>, einer der
+                            Verantwortlichen für die  sogenannten Sheffield Outrages, dem für seine
+                            Aussagen zu den gewalttätigen Unruhen Immunität zugesichert wurde, und
+                            der – trotz zugegebener Schuld –  Mitglied Gewerkschaft blieb. Siehe
+                                <ref target="B00306"><?oxy_comment_start author="reichhoff" timestamp="20180531T121357+0200" comment="(Br. 297)"?>E.
+                                S. Beesly an Marx, 24.7.1867<?oxy_comment_end?></ref> und Erl.
+                        </note></seg>; I was a good mind to attend their meeting last night &amp; to
+                    move an amendment; but I did not do so, simply on account of our association,
+                    for I thought it would place our council in an awkward position vis-à-vis the
+                    trades unions. </p>
+                <p><pb/> Nevertheless I think something ought to be done to
+                    bring about a reaction in the public opinion; if I had time I would write a
+                    letter to the papers because I believe that if one single voice was bravely
+                    raised in defence of <persName key="ed_yqn_lzl_dhb">Broadhead</persName>, the
+                    common sense would get the better of the working classes &amp; they would be
+                    sure to come round again, but as it is they are staggered &amp; will be some
+                    time before they come to their senses again.</p>
+                <p>Unfortunately to write such a letter would take me a good time &amp; I have none
+                    to spare; I leave it to you, if not to defend at least to extenuate <persName key="ed_yqn_lzl_dhb">B.’s</persName> acts; I’ll only say this: that whatever
+                    you may write I shall not hesitate to sign my name at the bottom.</p>
+                <closer>Fraternally yours<lb/>H<hi rendition="#sup">n</hi>
+                    Jung.</closer>
+                <postscript>
+                    <p>Remember me kindly to <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">Madame Marx</persName></orig><note xml:id="nxt5_3td_dhb"><persName key="pdrPo.001.004.000003075">Jenny
+                                    Marx</persName>.</note></seg> &amp; to the <seg type="comment"><orig>daughters</orig><note xml:id="ce979afd-46c5-4da0-9100-b802828246c9"><persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003076">Laura</persName> und <persName key="pdrPo.001.004.000003068">Eleanor</persName>
+                            Marx.</note></seg>. <pb/></p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

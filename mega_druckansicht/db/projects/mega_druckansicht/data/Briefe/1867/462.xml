@@ -1,0 +1,40 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00471" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>462</idno>Sigismund Ludwig Borkheim an Karl Marx in London. London, Samstag, 7. Dezember 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">D 471/D I 140</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 268 × 210 mm. Aufdruck
+                            der Firma „<orgName key="pdrPo.001.015.000090279">Schröder &amp; Schÿler
+                                &amp; C<hi rendition="#sup">o</hi></orgName>“ (siehe Borkheim an
+                            Marx, 8. Januar 1866) auf der ersten Seite oben links. Die Adresse „65,
+                            Fenchurch Street“ hat Borkheim gestrichen und mit der neuen Adresse in
+                            Handschrift ersetzt. Die erste Seite hat Borkheim fast vollständig
+                            beschrieben, die übrigen drei Seiten sind leer. Schreibmaterial:
+                            schwarze Tinte.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 5 d. 1782</bibl></listBibl></additional></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000000542">Sigismund Ludwig Borkheim</persName><placeName>London</placeName><date when="1867-12-07"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName><placeName>London</placeName></correspAction>
+                <note>Die Beilagen  („Anbei erhalten Sie eine Nummer der „Philosophie positive ...“)
+                    zum Brief sind nicht überliefert. Siehe
+                    <?oxy_comment_start author="lindenberg" timestamp="20190319T144341+0100" comment=" 462.6–7 und 462.8–9."?>Erl.<?oxy_comment_end?></note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:48:11Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:35:04+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Palmerston Buildings,<lb/>93, Bishopsgate
+                        St. <hi rendition="#mPrint">E. C.</hi><lb/><hi rendition="#mPrint">London,</hi> 7 Dez <hi rendition="#mPrint">18</hi>67.</dateline>
+                    <salute>Lieber Marx,</salute>
+                </opener>
+                <p>Anbei erhalten Sie eine Nummer der „Philosophie positive“, deren <seg type="comment"><orig>Aufsätze: „Panslavisme et Pangermanisme“ und „Le
+                            Congrès de la Paix“</orig><note xml:id="nakj_bzm_2gb"><persName key="ed_sch_2nc_dhb">É[mile] Littré</persName>: Pangermanisme et
+                            panslavisme. In: La Philosophie Positive. Revue. Paris. T. 1. Nr. 3,
+                            November–Dezember 1867. S. 468–476. – <persName key="ed_d21_mfp_1db">G[eorgij Nikolaevič] Wyrouboff</persName>: Le Congrès de la paix.
+                            Ebenda. S. 477–488.</note></seg> ich Ihnen zur Durchsicht nicht
+                    empfehle, sondern nur bezeichne. Ferner <seg type="comment"><orig>die <bibl sameAs="zotero-604880-XX783AXB" type="primary">Broschüre</bibl></orig><note xml:id="nltf_fzm_2gb"><bibl sameAs="zotero-604880-XX783AXB" type="primary">A[leksandr
+                                Aleksandrovič] Serno-Solov’evič: Naši domašnija dela … {А[лександр
+                                Александрович] Серно-Соловьевичъ: Наши домашнiя дѣла …} Vevey
+                                1867</bibl>.
+                                <?oxy_comment_start author="lindenberg" timestamp="20191211T144403+0100" comment="383, nicht: (Br. 382.21–23)"?><ref target="B00393">Siehe S. L. Borkheim an Engels,
+                                14.10.1867<?oxy_comment_end?></ref>  und <ref target="B00443"><?oxy_comment_start author="lindenberg" timestamp="20191211T144420+0100" comment="433"?>S.
+                                L. Borkheim an Marx, 24.11.1867<?oxy_comment_end?></ref> und
+                            Erläuterungen.</note></seg>, von der ich Ihnen gestern gesprochen. Nach
+                    dem Satze: „Später wirds schöner“ kam ich erst gestern Abend zu dem Theile des
+                    Slavenwisches, der mir die Bleistiftsejakulationen entriß. –</p>
+                <p><seg type="comment"><orig>Montag</orig><note xml:id="nazy_hzm_2gb">9. Dezember
+                            1867. Siehe <ref target="B00472"><?oxy_comment_start author="lindenberg" timestamp="20191211T145326+0100" comment="(Br. 463.11)"?>Marx
+                                an Engels, 7.10.1867<?oxy_comment_end?></ref> „Montag 12 Uhr ...“.
+                            Zur Geschichte dieser Geldanleihe siehe <ref target="B00369"><?oxy_comment_start author="lindenberg" timestamp="20191211T145211+0100" comment=" (Br. 360.127–130) und Erl. 360dd"?>Marx
+                                an Engels, 4.10.1867<?oxy_comment_end?></ref> „Private Affairs: ...“
+                            und Erl.</note></seg> hoffe ich Sie zu sehen. Bis dahin leben Sie
+                    wohl!</p>
+                <closer>Der Ihrige<lb/>Borkheim. <pb/></closer>
+            </div></body></text></TEI>

@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00213" xml:lang="de">
+        <teiHeader>
+                <fileDesc>
+                        <titleStmt>
+                                <title><idno>206</idno>Karl Marx an Friedrich Engels in Manchester.
+                                        London, Montag, 31. Dezember 1866</title>
+                        </titleStmt>
+                        <publicationStmt>
+                                <p>unknown</p>
+                        </publicationStmt>
+                        <sourceDesc>
+                                <msDesc>
+                                        <msIdentifier>
+                                                <institution>IISG</institution>
+                                                <collection>Marx-Engels-Nachlass</collection>
+                                                <idno><idno type="shelfmark">L 4469/L VI
+                                                  602</idno></idno>
+                                        </msIdentifier>
+                                        <physDesc>
+                                                <p>Der Brief besteht aus einem Bogen mittelstarkem,
+                                                  weißem Papier im Format
+                                                  226 × 178 mm. Prägung: eine Krone
+                                                  auf einem Schild. Marx hat die erste Seite
+                                                  vollständig beschrieben, die übrigen drei sind
+                                                  leer. Schreibmaterial: schwarze Tinte.</p>
+                                                <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung
+                                                  des Briefes bzw. der beschrieben Seite:
+                                                  „63,1“.</p>
+                                        </physDesc>
+                                        <additional>
+                                                <listBibl>
+                                                  <bibl>RGASPI f. 1 op. 1 d. 2010</bibl>
+                                                </listBibl>
+                                        </additional>
+                                </msDesc>
+                                <listWit>
+                                        <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: Bw 3 (1913).
+                                                  S. 359.</bibl></witness>
+                                </listWit>
+                        </sourceDesc>
+                </fileDesc>
+                <profileDesc>
+                        <correspDesc>
+                                <correspAction type="sent">
+                                        <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_wz2_shs_qx">London</placeName>
+                                        <date when="1866-12-31"/>
+                                </correspAction>
+                                <correspAction type="received">
+                                        <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                                </correspAction>
+                        </correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_rw2_4vl_qx">Preußen</term>
+                                        <term key="ed_www_kkf_h1b">Russland</term>
+                                        <term key="ed_ujr_3c2_5z">Frankreich</term>
+                                        <term key="ed_otj_cwr_by">Internationale Beziehungen in
+                                                Europa</term>
+                                        <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+                                        <term key="ed_jtl_xrw_ww">Internationale Arbeiter
+                                                Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                </keywords>
+                        </textClass>
+                </profileDesc>
+                <revisionDesc>
+                        <listChange>
+                                <change><date>2016-10-31T13:40:22Z</date> | <name>Regina Roth</name>
+                                        | <orgName>Telota</orgName> | OxGarage DOCX to TEI |
+                                        2.15.0</change>
+                                <change><date>2016-10-31T14:57:11+01:00</date> | <name>Sascha
+                                                Grabsch</name> | <orgName>Telota</orgName> |
+                                        convert_tei_file.py | 0.85</change>
+                        </listChange>
+                </revisionDesc>
+        </teiHeader>
+        <text>
+                <body>
+                        <div type="writingSession">
+                                <opener><dateline><pb/> 31 Dec.
+                                                1866.</dateline><salute>Dear
+                                                Fred,</salute></opener>
+                                <p>Prost Neujahr! Ditto für <seg type="comment"><orig>Madame Lizzy!</orig><note xml:id="e14b3f2b-ebd2-4b0f-8a12-77529d8d3432"><persName key="pdrPo.001.004.000000698">Lydia
+                                                  Burns</persName>.  </note></seg> Möge der Teufel
+                                        das nächste Jahr Russen, Preussen, <persName key="pdrPo.001.004.000003392">Bonaparte</persName>
+                                        und den British Juryman holen!</p>
+                                <p>À Propos. <seg type="comment"><orig>Die
+                                                  französische Regierung hatte für uns bestimmte
+                                                  Papiere <add>u. Schriften</add>, die nach dem
+                                                  Genfer Congreß von französischen members über die
+                                                  Grenze gebracht wurden, mit Beschlag belegt u. dem
+                                                  Polizeiarchiv annexirt. Wir reclamirten durch
+                                                  <persName key="pdrPo.001.004.000004561">Lord
+                                                  Stanley</persName>, Foreign Minister, die Sachen
+                                                  als „British Property“. Und in der That, poor
+                                                  Bonaparte hat uns via Foreign Office alles
+                                                  ausliefern müssen.</orig><note xml:id="nxkv_xfq_kz">Siehe <ref target="B00195/#nf2j_vq1_kz">Erl. zu J. Ph. Becker
+                                                  an Marx,
+                                                  15.11.<?oxy_comment_start author="reichhoff" timestamp="20170519T140506+0200" comment="{{Erl. 189p}}"?>1866<?oxy_comment_end?>.</ref></note></seg>
+                                        Ist das nicht hübsch! Er ist heruntergesimpelt u. weiß doch
+                                        selber nicht wie.</p>
+                                <p>Ich habe heute <seg type="comment"><orig>eine sehr trübe Nachricht erhalten, den Tod
+                                                  meines <persName key="pdrPo.001.004.000003715">Onkels</persName>,</orig><note xml:id="nymn_fgq_kz"><persName key="pdrPo.001.004.000003715">Lion
+                                                  Philips</persName> war am 28. Dezember 1866
+                                                  gestorben. Die Nachricht an Marx (<ref target="mega_xct_vtf_g1b">Unbekannt an Marx, zw.
+                                                  28. u. 30.12.1866</ref>) ist nicht
+                                                  überliefert.</note></seg> der ein ausgezeichneter
+                                        Mann war. Er starb aber schön, rasch, umgeben von allen
+                                        seinen Kindern, mit vollem Bewußtsein, u. den Pfaffen mit
+                                        feiner <persName key="pdrPo.001.004.000011719">Voltairescher</persName> Ironie begiessend.</p>
+                                <p>Die ganze Familie sendet Dir ihr Prost
+                                        Neujahr.</p>
+                                <p>Salut</p>
+                                <closer>D<lb/>KM </closer>
+                        </div>
+                </body>
+        </text>
+</TEI>

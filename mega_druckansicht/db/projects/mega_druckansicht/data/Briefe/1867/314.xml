@@ -1,0 +1,42 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00323" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>314</idno>Ernest Jones an Karl Marx in London. Liverpool, Samstag, 17. August 1867</title></titleStmt><editionStmt><edition>Dieser Brief wird hier erstmals veröffentlicht.</edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>RGASPI</institution><idno><idno type="shelfmark">f. 1 op. 5 d. 1727</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen festem, weißem Papier im Format 226 × 178 mm. Wasserzeichen:
+                            „J Allen &amp; Sons Super Fine“. Prägung: „Ivory“. Jones hat die ersten
+                            zwei Seiten vollständig, die dritte Seite zur Hälfte beschrieben, auf
+                            der vierten Seite stehen nur zwei quer geschriebene Zeilen („Please <hi rendition="#u">return</hi> the enclosed.“). Schreibmaterial:
+                            schwarze Tinte.</p><p>Archivsignatur des Moskauer Marx-Engels-Instituts (IMĖ): „Rj 1541&lt;a–d&gt;“.</p><p/><p/></physDesc></msDesc></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="pdrPo.001.004.000002387">Ernest Jones</persName>
+                    <placeName key="ed_zvg_2fj_wx">Liverpool</placeName><date when="1867-08-17"/></correspAction><correspAction type="received"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName></correspAction>
+                <note>Marx antwortete Jones mit einem nicht überlieferten Brief, geschrieben
+                    zwischen 17. und 21. August 1867 (siehe <ref target="B00327">E.
+                        <?oxy_comment_start author="lindenberg" timestamp="20190219T143631+0100" comment="Br. 318.4"?>Jones
+                        an Marx, 21.8.1867<?oxy_comment_end?></ref>).</note>
+                <note>Zur Beilage („the enclosed letter“) zum Brief siehe Erl. </note></correspDesc></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:46:25Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession">
+                <opener>
+                    <dateline><pb/> Assises, St. George’s
+                        Hall,<lb/>Liverpool,<lb/>August 17<hi rendition="#sup">th</hi>
+                        1867.</dateline>
+                    <salute>My dear Marx</salute>
+                </opener>
+                <p>I have received <seg type="comment"><orig>the enclosed
+                            letter</orig><note xml:id="a73a3fba-82a4-4945-9dc3-5210875aaba4">Über
+                            die Autoren des beigelegten Briefes siehe <ref target="B00327"><?oxy_comment_start author="reichhoff" timestamp="20180523T125922+0200" comment="(Br. 318.4–6).—"?>E.
+                                Jones an Marx,
+                        21.8.1867<?oxy_comment_end?></ref>.</note></seg>—<?oxy_comment_start author="lindenberg" timestamp="20181123T151006+0100" comment="im Word-Ms: {gesperrt} "?><hi rendition="#uu">presumably<?oxy_comment_end?></hi> from Paris; the <hi rendition="#u">signatures</hi> (excepting one,) I cannot read;—</p>
+                <p>the <hi rendition="#u">address</hi> of <persName key="ed_tl5_chv_xgb">the writer</persName> is not given; and the <hi rendition="#u">objects</hi> to which I am to give my adhesion are not
+                    stated.</p>
+                <p>Now, if you can enlighten me on all these, I shall <pb/>
+                    have much pleasure in answering the letter.</p>
+                <p><hi rendition="#u">Entre nous,</hi> I don’t wonder at
+                        <persName key="pdrPo.001.004.000003392">Napoleon</persName> getting the
+                    better of the French Republicans, if they managed their business in
+                    <?oxy_comment_start author="lindenberg" timestamp="20181123T150828+0100" comment="vorher mit folgender Korrektur:  {k} in a such °] H in such a"?>such
+                    a manner<?oxy_comment_end?>.</p>
+                <p>I write to you, as you know my principles and probably
+                    know <pb/>
+                    <expan>someth<ex>ing</ex></expan> of the
+                    writer.</p>
+                <p>With kind regards to all your circle,</p>
+                <closer>Believe me,<lb/><expan>Sincerely</expan> your’s<lb/>Ernest Jones. </closer>
+                <postscript>
+                    <p><pb/> Please <hi rendition="#uu">return</hi> the enclosed. </p>
+                </postscript>
+            </div></body></text></TEI>

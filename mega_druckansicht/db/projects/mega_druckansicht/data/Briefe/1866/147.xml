@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00151" xml:lang="de">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><idno>147</idno>Wilhelm Liebknecht an Karl Marx in London. Leipzig, Freitag, 10.
+          August 1866</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>IISG</institution>
+            <collection>Marx-Engels-Nachlass</collection>
+            <idno><idno type="shelfmark">D 3134/D V 191</idno></idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Der Brief besteht aus einem Blatt mittelstarkem, rosafarbenem Papier im Format
+              142 × 219 mm. Beide Seiten hat Liebknecht vollständig beschrieben. Eine Passage („and
+              on the importance“ bis „not dwell here.“ ) steht, mit einem „V“-förmigen
+              Zuordnungszeichen versehen, am unteren Rand der ersten Seite. Schreibmaterial:
+              schwarze Tinte und Bleistift. </p>
+            <p>Von unbekannter Hand: Nummerierung der beschriebenen Seiten: „123.“ bzw. „124.“,
+              ausradiert und in „114.“ bzw „115.“ korrigiert; Vermerke mit Bleistift auf der ersten
+              Seite oben: „<hi rendition="#u">Liebknecht an Marx</hi>“ (links) und „(10 August
+              1866)“ (rechts).</p>
+            <p/>
+            <p/>
+            <p/>
+            <p>Die Beilage („I send you the numbers“) ist nicht überliefert.</p>
+          </physDesc>
+          <additional>
+            <listBibl>
+              <bibl>RGASPI f. 1 op. 5 d. 1670</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+        <listWit>
+          <witness><bibl sameAs="zotero-604880-T6GR93DH">Erstveröffentlichung: Liebknecht Bw (1963).
+              S. 75/76.</bibl></witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName key="pdrPo.001.004.000002822">Wilhelm Liebknecht</persName>
+          <placeName key="ed_rdd_5jt_qx">Leipzig</placeName>
+          <date when="1866-08-10"/>
+        </correspAction>
+        <correspAction type="received">
+          <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+          <placeName key="ed_wz2_shs_qx">London</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="prev" target="mega_ywq_1w2_g1b"/>
+        </correspContext>
+        <note>Die Datierung stützt sich auf den oben angeführten Datumsvermerk, der vermutlich dem
+          Poststempel entnommen worden ist. Sie korrespondiert auch mit der Tatsache, dass Marx
+          diesen Brief nebst Beilagen am 13. August 1866 an Engels geschickt hatte (siehe <ref target="B00155">Marx an Engels, 13.8.1866</ref>: „Einliegend ...“). Datierung in der
+          Erstveröffentlichung: 10. August 1866 mit Verweis auf den o. g. Vermerk. Vermutlich
+          beantwortet Liebknecht einen nicht überlieferten Brief (<ref target="mega_ywq_1w2_g1b">Marx an W. Liebknecht, vor 10.8.1866</ref>) von Marx, geschrieben vor dem 10. August
+          1866 („You recollect ...“).</note>
+      </correspDesc>
+      <textClass>
+        <keywords>
+          <term key="ed_hrp_vnf_h1b">Zeitungen der IAA</term>
+          <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+          <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten, Veröffentlichung)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+        <change><date>2016-10-31T13:39:46Z</date> | <name>Regina Roth</name> |
+            <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+        <change><date>2016-10-31T14:57:10+01:00</date> | <name>Sascha Grabsch</name> |
+            <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="writingSession">
+        <opener><salute><pb/> Dear Williams!</salute></opener>
+        <p><seg type="comment"><orig>I am where I was, and escaped with a whole skin so
+              far.</orig><note xml:id="c9044b4c-ab4d-4228-9cd9-96ea34e768cb">Vermutlich bezieht
+                sich<persName key="pdrPo.001.004.000002822"> Liebknecht</persName> hier auf seine
+              Agitationsreise. Siehe auch <ref target="B00119">W. Liebknecht an Marx,
+                5.6.<?oxy_comment_start author="reichhoff" timestamp="20170503T122940+0200" comment="{{Br. 115.19–20}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00119/#f956f6a3-97e2-4290-8bd5-e8c80e1ae041"><?oxy_comment_start author="strauss" timestamp="20170720T103232+0200" comment="Erl. 115f"?>Erl.<?oxy_comment_end?></ref></note></seg></p>
+        <p>You recollect <seg type="comment"><orig>the “Paper-project”.</orig><note xml:id="c44276d9-7a96-4502-8017-b7020da0597e"> Siehe <ref target="B00107">W.
+                Liebknecht an Marx, zw. 8. u.
+                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170503T123103+0200" comment="{{Br._103.12–14}}"?>1866<?oxy_comment_end?></ref>
+              und <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336"><?oxy_comment_start author="strauss" timestamp="20170720T103901+0200" comment="Erl. 103g"?>Erl.<?oxy_comment_end?></ref>
+              sowie <ref target="B00119">W. Liebknecht an Marx,
+                5.6.<?oxy_comment_start author="reichhoff" timestamp="20170503T123211+0200" comment="{{Br._115.14–18}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          Well, through a series of operations and lucky chances that I cannot detail now, <seg type="comment"><orig>I have got into possession of a Paper, until now belonging to our
+              liberal enemies—the <bibl sameAs="ed_mzl_3hf_lbb">“Mitteldeutsche
+                Volkszeitung”.</bibl></orig><note xml:id="e80ba7f7-8048-45ff-9829-37c80da78c56">Zur
+                <bibl sameAs="ed_mzl_3hf_lbb">„Mitteldeutschen Volks-Zeitung“</bibl> (Leipzig) siehe
+                <ref target="B00107/#e33a4f20-560e-4751-bfa6-23082a56d336">Erl. zu W. Liebknecht an
+                Marx, zw. 8. u.
+                15.5.<?oxy_comment_start author="reichhoff" timestamp="20170518T120754+0200" comment="{{Erl. 103g}}"?>1866<?oxy_comment_end?>.</ref>
+              <!--(((zMitteldeutsche Volks-Zeitung)))-->
+            </note></seg>
+          <seg type="comment"><orig>I send you the numbers</orig><note xml:id="c5e3a79a-7d5b-45de-a114-22f1f91e3a5d">Siehe dazu <ref target="B00155">Marx an
+                Engels,
+                13.8.<?oxy_comment_start author="reichhoff" timestamp="20170503T123342+0200" comment="{{Br. 151.19–20}}"?>1866<?oxy_comment_end?></ref>.</note></seg>
+          that have appeared since I have it, and beg you, to get us <hi rendition="#u">some
+            subscribers</hi>, and a good <hi rendition="#u">article now and then</hi>. Of course,
+          the <hi rendition="#u">political</hi> part must be quite “neutral” now, the smallest show
+          of opposition would cause our suppression; but as to the<hi rendition="#u"> social</hi>
+          questions we have full elbowroom, and on the importance of our having an <hi rendition="#u">organ</hi> quite at our disposal as soon as the „foreigners” are gone, I
+          need not dwell here. For the moment I cannot <hi rendition="#u">pay</hi> anything yet, but
+          I have the best prospects, and if <expan><persName key="pdrPo.001.004.000001296">Ecc<ex>arius</ex></persName></expan> would send me a
+            <expan>corr<ex>espondence</ex></expan> now and then, I am sure it would not be to <hi rendition="#u">his</hi> disadvantage. </p>
+        <p><pb/>
+          <seg type="comment"><orig>In a day or two the (old) Manifest of the Intern. will be
+              printed, <hi rendition="#u">perhaps</hi> with the omission of one sentence about
+              Prussia and Poland, that might become dangerous.</orig><note xml:id="nv5k_c4n_hz">Liebknecht veröffentlichte in der <bibl sameAs="ed_mzl_3hf_lbb">„Mitteldeutschen
+                Volks-Zeitung“</bibl> u. a. die Inauguraladresse der IAA (<bibl sameAs="zotero-604880-PFGNP59M">Karl Marx: Manifest an die arbeitende Klasse
+                Europas.</bibl> In: MEGA<hi rendition="#sup">2</hi> I/20. S. 16–25) unter dem Titel
+                <bibl sameAs="zotero-604880-K7VD74KQ">„Ansprache der Internationalen
+                Arbeiterassociation an die Arbeiter Europas“.</bibl> In: Mitteldeutsche
+              Volks-Zeitung. Leipzig. Nr. 183, 9. August 1866. S. 3; Nr. 185, 11. August 1866. S. 3;
+              Nr. 186, 12. August 1866. S. 3; Nr. 187, 14. August 1866. S. 3. In der letzten Nummer
+              war die Passage „Eine andere Ueberzeugung“ bis „die Emancipation der Arbeiterclasse“
+                (<bibl sameAs="zotero-604880-I7CVR5EI">MEGA<hi rendition="#sup">2</hi> I/20.</bibl>
+              S. 25.18–40) ausgelassen worden. Siehe auch ebenda. S. 926.
+              <!--(((lMarx,Karl:
+                                                  Manifest an die arbeitende Klasse Europas. In:
+                                                  MEGA2_I/20. S. 16–25.
+                                                {{Erl._147e}})))--></note></seg></p>
+        <p>How about<seg type="comment"><orig>
+              <hi rendition="#u">the</hi> “work”?</orig><note xml:id="nlwr_f4n_hz">Gemeint ist hier
+                <bibl sameAs="zotero-604880-PT9GISVC">Karl Marx: Das Kapital</bibl>; siehe <ref target="B00007/#a85fd331-e369-4613-bae5-8b4731d7edc3">Erl. zu Marx an J. Ph. Becker,
+                zw. 9. u.
+                15.1.<?oxy_comment_start author="reichhoff" timestamp="20170518T121150+0200" comment="{{Erl. 6b}}"?>1866<?oxy_comment_end?>.</ref>
+              <!--(((lMarx,Karl:DasKapital.Bd.1.Hamburg1867)))--></note></seg></p>
+        <p>Write soon, and <hi rendition="#u">carefully</hi>.</p>
+        <p>We are all well, and send you our love.</p>
+        <closer><signed>Your J. Miller</signed></closer>
+        <postscript>
+          <p>Could you give me the address of a friend in Paris?</p>
+        </postscript>
+      </div>
+      <div type="writingSession">
+        <p>Please, send me the <bibl sameAs="ed_etf_mhf_lbb">“Commonwealth”</bibl> regularly, or in
+          case it should have gone down, <bibl sameAs="ed_ex3_lhf_lbb">Reynolds' Newspaper</bibl>,
+          so that I can bring something about the working class-movement. <hi rendition="#u">But
+            don't forget it!</hi></p>
+        <p>Remember us to <seg type="comment"><orig><persName key="pdrPo.001.004.000003075">Mrs. <expan>W<ex>illiams</ex></expan></persName>,</orig><note xml:id="nrq1_3pn_hz"><persName key="pdrPo.001.004.000003075">Jenny Marx</persName>.
+            </note></seg> and <seg type="comment"><orig>the three Misses W.</orig><note xml:id="nnwv_rqn_hz">Marx’ drei Töchter <persName key="pdrPo.001.004.000003074">Jenny</persName>, <persName key="pdrPo.001.004.000003074">Laura</persName> und
+                <persName key="pdrPo.001.004.000003068">Eleanor</persName>. </note></seg> and <seg type="comment"><orig>Helen</orig><note xml:id="nsvw_xqn_hz"><persName key="pdrPo.001.004.000001129">Helena Demuth</persName>. </note></seg> not to be
+          forgotten. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

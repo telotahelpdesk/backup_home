@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_nzk_ms3_4gb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abschrift des Briefes von Hermann Engels an Anton Ermen vom 3. Juli
+                    1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note type="editorial">
+                    <p>Der Standort der Originalhandschrift ist zur Zeit
+                        <?oxy_comment_start author="lindenberg" timestamp="20190926T134604+0200" comment="vorher danach:  {Knieriem: „Gewinn unter Gottes Segen“. S. 51 verweist auf Firmenarchiv „Ermen &amp; Engels“ (FAEE), Brief ohne Nummer.}"?>nicht
+                        bekannt.<?oxy_comment_end?> Die Veröffentlichung erfolgt nach einer
+                        Fotokopie: RGASPI, Sign. f. 9, op. 1, d. 11/22. Fotosign. 653. Der im Brief
+                        wortgetreu zitierte Vertrag ist irrtümlich mit 20. März 1852 datiert worden;
+                        es geht um den § 5 des Kontrakts, der am 21. Mai 1852 zwischen <persName key="pdrPo.001.004.000001372">Friedrich Engels</persName> (senior) und
+                            <persName key="pdrPo.001.004.000001413">Peter Ermen</persName>
+                        unterzeichnet wurde (siehe <bibl sameAs="zotero-604880-CH872CUU" type="secondary">Knieriem: „Gewinn unter Gottes Segen“.</bibl> S.
+                        51).</p>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection>RGASPI</collection>
+                        <idno>
+                            <idno type="shelfmark">Sign. f. 9, op. 1, d. 11/22. Fotosign. 653</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <opener>
+                    <dateline><pb/> Barmen 3. Juli 1867.</dateline>
+                    <salute>Herrn <persName key="pdrPo.001.004.000001406">Gotf. Ant.
+                            Ermen</persName>, Manchester</salute>
+                </opener>
+                <p>Nach dem übereinstimmenden Gutachten dreier hervorragender Juristen in Elberfeld,
+                    Barmen und Cöln ist unsere Berechtigung die Firma <orgName key="ed_byw_vjh_1z">Ermen &amp; Engels in Barmen</orgName> zu führen, juristisch
+                    unumstößlich.</p>
+                <p>Wir möchten Ihnen aber auch die sittliche Berechtigung zur Führung der Firma
+                    darthun, und verweisen Sie somit auf den § 5 des Vertrags vom 20. März [18]52
+                    zwischen <persName key="pdrPo.001.004.000001372">Fried. Engels</persName> und
+                        <persName key="pdrPo.001.004.000001413">Peter Ermen</persName>, in welchem
+                    es wörtlich heißt:</p>
+                <p>„Herr <persName key="pdrPo.001.004.000001413">Peter Ermen</persName> ist damit
+                    einverstanden, daß die bisherige Firma <orgName key="ed_byw_vjh_1z">Ermen &amp;
+                        Engels in Barmen</orgName> fernerhin fortgeführt werde.“</p>
+                <p>Mit Achtung</p>
+                <p>Ermen &amp; Engels</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_wf3_ppd_yfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bericht über ein Fest der Deutschen Arbeiter-Gesellschaft</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels?</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-11-27</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich?:] Bericht über ein Fest der Deutschen Arbeiter-Gesellschaft. In: Northern Star. Vol. XI. Nr. 535, 22. Januar 1848. S. 7.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">Brussels. A few days ago ...</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1848-01-22</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’ Journal</title>
+                        <biblScope unit="volume">XI</biblScope>
+                        <biblScope unit="issue">535</biblScope>
+                        <biblScope unit="page">7</biblScope>
+                        <biblScope unit="column">2</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels?</persName>
+                <placeName key="ed_cn4_12j_wx">Paris</placeName>
+                <date notBefore="1848-01-11" notAfter="1848-01-20">Mitte Januar 1848</date>                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="document">
+        <body>
+            <div>
+                <p><hi rendition="#k">Brussels.</hi> — A few days ago the German Working
+                    Men’s Society celebrated a festival. The foreign democracies were
+                    represented by M.M. Lelewell, Imbert, General Mellinet, Picard, Meskens, and
+                    others. The following toasts were drunk: — To the “<hi rendition="#i">Association Democratique</hi> of Brussels”, by Dr Marx.
+                    To the “German Working Men’s Society”, by M. Picard,
+                    (Belgian). To “the Polish patriot Lelewel”, by M. Bornstedt, editor
+                    of the <hi rendition="#k">German Brussels Gazette</hi>. To “the union of
+                    freed Germany and freed Poland”, by Lelewel. To “the <hi rendition="#k">Brussels German Gazette</hi>”, by M. Wolff. To
+                    “the two foreign Democratic papers, the <hi rendition="#k">Northern
+                        Star</hi> and the <hi rendition="#k">Reforme</hi>”, by M. Gigot. Other
+                    Speeches were delivered by M.M. Born, Junge, &amp;c. A democratic play was
+                    performed, and the banquet ended by dancing, which was continued to an <hi rendition="#i">early</hi> hour.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

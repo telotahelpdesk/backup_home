@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00301" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>292</idno>Karl Marx an Ferdinand Freiligrath in London. London,
+                    Samstag, 20. Juli 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">Sign. B107/B 100
+                                Fotosign. AK 5&lt;b&gt;.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einer Seite festem, weißem, liniertem Papier im
+                            Format 108 × 180 mm. Er ist als Abschrift von Marx' Hand auf Seite 8
+                            seines Exzerptheftes von 1867/1868 überliefert. Wasserzeichen:
+                            „[Ham]mond [Manufa]ctoring [Stati]oner“. Marx hat die Seite zu drei
+                            Vierteln beschrieben. Schreibmaterial: schwarze Tinte.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2055</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-NLYXHEPM">Erstveröffentlichung: in
+                            russischer Übersetzung:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>МЭС¹ 25
+                            (1934)<?oxy_custom_end?>. S. 493.</bibl></witness>
+                    <witness><bibl sameAs="zotero-604880-8D5GFYUL">vollständig in der Sprache des
+                            Originals:
+                            <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Marx
+                            K., Engels F.: Über Kunst und Literatur (1948).<?oxy_custom_end?>
+                            S. 406.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-07-20"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000001631">Ferdinand Freiligrath</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="B00302"/>
+                </correspContext>
+                <note>Freiligrath antwortet Marx noch am selben Tag (<ref target="B00302"><?oxy_comment_start author="lindenberg" timestamp="20190129T133549+0100" comment="293"?>F.
+                        Freiligrath an Marx, 20.7.1867<?oxy_comment_end?></ref>).</note>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:58Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:57+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> 20 Juli. 1867.</dateline>
+                    <salute>Lieber Freiligrath,</salute>
+                </opener>
+                <p>Ich lese deutschen belletristischen Schund nicht, kann
+                    aber nicht vermeiden, daß hier u. <seg type="comment"><orig>da Freunde aus
+                            Dtschd mir Personalia enthaltende Auszüge zuschicken. So erhielt ich
+                            gestern alle auf mich bezüglichen Passus aus <expan>d<ex>er</ex></expan> Schrift eines
+                            gewissen <persName key="pdrPo.001.004.000003884">Rasch</persName>,
+                            benamset: „Zwölf Streiter der Revolution“.</orig><note xml:id="df28f03f-a618-463c-a4e5-601f13e1ded3">Siehe <ref target="B00299"><?oxy_comment_start author="reichhoff" timestamp="20180517T121149+0200" comment="(Br. 290.17–48)"?>S.
+                                Borkheim an Marx, 19.7.1867<?oxy_comment_end?></ref>.</note></seg>
+                    Ich ersuche Dich mir über folgende Stelle Aufschluß zu geben:</p>
+                <p><seg type="comment"><orig>„F’s Beziehungen zu Marx
+                            hatten etc gänzlich <choice>
+                                <sic>aufgehört</sic>
+                                <corr cert="high">aufgehört;</corr>
+                            </choice>
+                            <hi rendition="#u">eine gar nicht zu entschuldigende Handlung
+                                Marxens,</hi> welche ich hier verschweigen will hatte ihnen den
+                            lezten Stoß gegeben. Sie ist nur aus der Gehässigkeit eines Charakters
+                            wie Marx zu erklären. Als ich eines Tages, empört über dieselbe, F. nach
+                            den <hi rendition="#u">Details</hi> derselben fragte, überging er sie
+                            schonend.“</orig><note xml:id="f6db9004-885e-47b7-8a72-f05f87004f50">Siehe <ref target="B00299"><?oxy_comment_start author="reichhoff" timestamp="20180517T121225+0200" comment="(Br. 290.30–37)."?>ebenda
+                                <?oxy_comment_end?></ref>.</note></seg></p>
+                <closer>D</closer>
+                <closer>KM. </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

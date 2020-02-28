@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00253" xml:lang="de"><teiHeader><fileDesc><titleStmt><title><idno>242</idno>Karl Marx an Friedrich Engels in Manchester. Hannover, Mittwoch, 24. April 1867</title></titleStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><msDesc><msIdentifier><institution>IISG</institution><collection>Marx-Engels-Nachlass</collection><idno><idno type="shelfmark">L 4475/L VI 608</idno></idno></msIdentifier><physDesc><p>Der Brief besteht aus einem Bogen mittelstarkem, weißem Papier im Format 284 × 217 mm. Prägung: „Dr. L. Kglm.“ Die ersten drei Seiten hat Marx vollständig beschrieben, auf der vierten befinden sich drei Zeilen. Schreibmaterial: schwarze Tinte.</p><p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName> Hand: Nummerierung des
+                                                  Briefes bzw. der beschriebenen Seiten: „9,1“ bis.
+                                                  „9,4“.</p><p>Von unbekannter Hand: der Vermerk „×“ mit Bleistift auf allen beschriebenen Seiten oben rechts bzw. links.</p><p/></physDesc><additional><listBibl><bibl>RGASPI f. 1 op. 1 d. 2028</bibl></listBibl></additional></msDesc><listWit><witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: gekürzt: Bw 3 (1913).
+                                                  S. 369–371, </bibl></witness>
+                                        <witness><bibl sameAs="zotero-604880-MYHFKSKB">vollständig:
+                                                  MEGA<hi rendition="#sup">1</hi> III/3 (1930).
+                                                  S. 382–384.</bibl></witness></listWit></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                                        <placeName key="ed_evx_hkv_cbb">Hannover</placeName><date when="1867-04-24"/></correspAction><correspAction type="received"><persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                                        <placeName key="ed_ubz_2cl_3y">Manchester</placeName></correspAction>
+                                <correspContext>
+                                        <ref type="next" target="B00256"/>
+                                </correspContext>
+                                <note>Engels beantwortet den Brief am 27. April 1867 (<ref target="B00256"><?oxy_comment_start author="lindenberg" timestamp="20180921T090512+0200" comment="Br. 245"?>Engels
+                                                an Marx, 27.4.1867<?oxy_comment_end?></ref>).</note></correspDesc>
+                        <textClass>
+                                <keywords>
+                                        <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an
+                                                Manuskripten, Veröffentlichung)</term>
+                                        <term key="ed_rd3_f3s_zdb">Hannover (Königreich/Preußische
+                                                Provinz)</term>
+                                        <term key="ed_mts_42y_g1b">Journalismus/Publizistik</term>
+                                        <term key="ed_www_kkf_h1b">Russland</term>
+                                        <term key="ed_ujr_3c2_5z">Frankreich</term>
+                                        <term key="ed_u5f_cpw_ww">Naturwissenschaften</term>
+                                        <term key="ed_qsz_2yz_w2b">Norddeutscher Bund</term>
+                                        <term key="ed_rw2_4vl_qx">Preußen</term>
+                                        <term key="ed_jtl_xrw_ww">Internationale
+                                                Arbeiter-Assoziation (IAA, A.I.T., I.W.M.A.)</term>
+                                </keywords>
+                        </textClass></profileDesc><revisionDesc><listChange><change><date>2018-03-14T09:45:18Z</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change><change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> | <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change></listChange></revisionDesc></teiHeader><text><body><div type="writingSession"><opener><dateline><pb/>
+                                                <hi rendition="#u">Hannover. 24 April.
+                                                1867.</hi></dateline><salute>Lieber Fred,</salute></opener><p><seg type="comment"><orig>Ich bin seit 8 Tagen hier als Gast des
+                                                  Dr. <persName key="pdrPo.001.004.000002616">Kugelmann</persName>.</orig><note xml:id="c0856434-13a2-495f-858b-4ff1760feab6">Zur
+                                                  Marx’ Reise nach Hamburg und seinem Aufenthalt in
+                                                  Hannover siehe <ref target="B00247"><?oxy_comment_start author="lindenberg" timestamp="20180921T090707+0200" comment=" 237a"?>Erl.
+                                                  zu Marx an Engels
+                                                  13.4.1867<?oxy_comment_end?></ref>.</note></seg>
+                                        Ich bin nämlich gezwungen in Hamburg oder dicht bei Hamburg
+                                        zu bleiben<del> , weil <sic ana="#break-off"/></del> von
+                                        wegen des Drucks. Die Sache hängt<del> nämlich <sic ana="#break-off"/></del> so zusammen. <persName key="pdrPo.001.004.000003135">Meißner</persName>,
+                                        der die Geschichte in 4–5 Wochen <subst>
+                                                <del>ged[ruckt]</del>
+                                                <add>fertig</add>
+                                        </subst> haben will, kann nicht in Hamburg drucken lassen,
+                                        weil weder die Zahl der <expan>Druck<ex>er</ex></expan>,
+                                        noch die Gelehrsamkeit der Correctoren hinreichend. Er
+                                        druckt daher bei <persName key="pdrPo.001.004.000005126">Otto Wigand</persName> (rather dessen <seg type="comment"><orig><persName key="ed_hbt_ryf_ldb">Sohn</persName>,</orig><note xml:id="a4ad230c-2144-4ef0-8417-9720c0e0782b"><persName key="ed_hbt_ryf_ldb">Hugo
+                                                  Wigand</persName>.</note></seg> da der alte
+                                        renommirende Hund nur noch nominell bei dem Geschäft
+                                        betheiligt.) Heut vor 8 Tagen schickte er das
+                                        Manuscript nach Leipzig. Er wünscht nun, daß ich <hi rendition="#u">zur Hand bin</hi>, um die ersten
+                                        2 Druckbogen zu revidiren u. <hi rendition="#u">zugleich zu entscheiden</hi>, ob der Schnelldruck
+                                                <hi rendition="#u">mit einmaliger</hi>
+                                        <hi rendition="#u">Revision meinerseits</hi>
+                                        <hi rendition="#u">„möglich“</hi> ist. In diesem Fall wäre
+                                        die ganze Geschichte fertig in 4–5 Wochen. Nun ist aber
+                                        die Osterwoche dazwischen gekommen. <persName key="ed_hbt_ryf_ldb">Wigand jr.</persName> schrieb
+                                        an <persName key="pdrPo.001.004.000003135">Meißner</persName>, daß er erst Ende <hi rendition="#u">dieser</hi> Woche anfangen kann. Auf
+                                                <persName key="pdrPo.001.004.000002616"><expan>K<ex>ugelmann</ex></expan>'s</persName> dringende
+                                        Einladung bin ich also (was auch aus ökonomischen Gründen
+                                        besser) hierhin gegangen für das Interim. Ehe ich nun über
+                                        „Hiesiges“ spreche, nicht zu vergessen dieses: <seg type="comment"><orig><persName key="pdrPo.001.004.000003135">Meißner</persName>
+                                                  wünscht<del>, daß <sic ana="#break-off"/></del> u.
+                                                  fordert Dich durch mich auf, daß Du eine <hi rendition="#u">Warnung gegen Rußland</hi>,
+                                                  zugleich zu deutschem und französischem Besten
+                                                  schreibst. Er wünscht, wenn Du's übernimmst, die
+                                                  Sache rasch.</orig><note xml:id="ea539e71-be6b-43b4-bfc7-b51a7c4ee4fe">Engels lehnte diesen Vorschlag ab. Siehe <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180502T132246+0200" comment="(Br. 245.68–78)."?>Engels
+                                                  an Marx, 27.4.1867<?oxy_comment_end?></ref> („Auf
+                                                  Meißner's Vorschlag kann ich nicht eingehn. ...“
+                                                  ).</note></seg> Es ist ihm aber lieber, wenn Du
+                                                <hi rendition="#u">mehr</hi> als weniger Bogen
+                                        schreibst, da ganz kleine Pamphlete buchhändlerisch nicht
+                                        ziehn. Ueber die Bedingungen könntest Du ihm bei
+                                        Uebersendung des Mscpts schreiben, da, wie er sagt, Ihr euch
+                                        über den Punkt nicht veruneinigen würdet. Du könntest Dich
+                                        „ganz gehn lassen“, da <persName key="pdrPo.001.004.000003135">Meißner</persName>
+                                        durchaus keine Rücksichten zu nehmen für nöthig hält. </p><p><pb/> Also von Hannover.</p><p><persName key="pdrPo.001.004.000002616">Kugelmann</persName> ist ein
+                                        sehr bedeutender Arzt in seinem Specialfach, nämlich als
+                                        Gynäkolog. <persName key="pdrPo.001.004.000004951">Virchow</persName> u. die sonstigen Autoritäten
+                                        (worunter ein gewisser <seg type="comment"><orig><persName key="ed_ahv_5sh_ffb">Meyer</persName></orig><note xml:id="f4d0edde-112b-4e5f-ba5d-166194317167"><persName key="ed_ahv_5sh_ffb">Ludwig
+                                                  Meyer</persName>.</note></seg> in Berlin<del rendition="#s">)</del>), früher, <seg type="comment"><orig><persName key="ed_snt_3qt_ldb"><add place="superlinear">v.
+                                                  Syboldt</add></persName></orig><note xml:id="nu44_1yh_ffb"><persName key="ed_snt_3qt_ldb"><add place="superlinear">Eduard Caspar von
+                                                  Siebold.</add></persName></note></seg><add place="superlinear"> in Göttingen und</add> vor
+                                        seinem Verrücktwerden, <persName key="ed_xlb_hht_ldb">Semmelweis</persName> in Wien<del>), steh[en] <sic ana="#break-off"/></del> in Correspondenz mit ihm.
+                                        Wenn hier ein schwieriger Fall in diesem Fach, wird er stets
+                                        als Consultirender zugezogen. Zur Beschreibung des Fachneids
+                                        u. der Lokaldummheit <subst>
+                                                <del>sa[gt]</del>
+                                                <add>erzählt</add>
+                                        </subst> er mir, daß er hier erst ausgekugelt, d.h. nicht in
+                                        die Gesellschaft der Aerzte zugelassen, weil „Gynäkologie“
+                                        eine „unmoralische Schweinerei“ sei. <persName key="pdrPo.001.004.000002616">K.</persName> hat auch
+                                        viel technisches Talent. Er hat eine Masse neuer Instrumente
+                                        in diesem Fach erfunden.</p><p><persName key="pdrPo.001.004.000002616">K.</persName> ist zweitens ein
+                                        fanatischer (und mir zu westphälisch bewundernder) Anhänger
+                                        unsrer Doctrin u. unsrer beiden Personen. Er ennuyirt mich
+                                        manchmal mit seinem Enthusiasmus, der seinem in der Medizin
+                                        kalten Wesen widerspricht. Aber er <hi rendition="#u">versteht</hi> und er ist <hi rendition="#u">grundbrav</hi>,
+                                                <?oxy_comment_start author="lindenberg" timestamp="20180920T184321+0200" comment="Auch die Möglichkeit mithilfe von Ediarum ( S. Symbolleiste] das darzustellen das sieht dann etwa so aus [...] "?><del rendition="#s">x</del><sic ana="#break-off"><?oxy_comment_end?>
+                                        </sic>rücksichtslos und aufopferungsfähig, was die
+                                        Hauptsache ist, <hi rendition="#u">überzeugt</hi>. Er hat
+                                        eine nette kleine <seg type="comment"><orig><persName key="pdrPo.001.004.000002615">Frau</persName></orig><note xml:id="c90ce9f2-1318-4c19-93b0-0b0ebc5afd9c"><persName key="pdrPo.001.004.000002615">Gertrud
+                                                  Kugelmann.</persName></note></seg> u. eine <seg type="comment"><orig><persName key="pdrPo.001.004.000002614">Tochter</persName></orig><note xml:id="f2484a32-a798-4ed5-a915-73b1962723c6"><persName key="pdrPo.001.004.000002614">Franzisca
+                                                  Kugelmann.</persName></note></seg> v. 8 J., die
+                                        allerliebst ist. Er besitzt eine viel bessere Sammlung
+                                        unsrer Arbeiten als wir beide zusammengenommen. Hier fand
+                                        ich auch die <seg type="comment"><orig><bibl sameAs="zotero-604880-GSXX4DVT">„Heilige Familie“</bibl></orig><note xml:id="c6d64c16-b783-48b6-b9af-b7a9a44b36b2"><bibl sameAs="zotero-604880-GSXX4DVT">Friedrich Engels, Karl Marx: Die
+                                                  heilige Familie, oder Kritik der kritischen
+                                                  Kritik. Gegen Bruno Bauer &amp; Consorten.
+                                                  Frankfurt a.M. 1845.</bibl> Siehe auch <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180502T132552+0200" comment="(Br. 245.125–126)"?>Engels
+                                                  an Marx, 27.4.<?oxy_comment_end?>1867</ref> und
+                                                  <ref target="B00277"><?oxy_comment_start author="reichhoff" timestamp="20180502T132639+0200" comment="(Br. 268.62)."?>Marx
+                                                  an L. Kugelmann,
+                                                  10.6.1867<?oxy_comment_end?></ref> .</note></seg>
+                                        wieder, die er mir geschenkt hat u. wovon er Dir ein
+                                        Exemplar schicken wird. Ich war angenehm überrascht zu
+                                        finden, daß wir uns der Arbeit nicht zu schämen haben,
+                                        obgleich der <seg type="comment"><orig><persName key="pdrPo.001.004.000001518">Feuerbachcultus</persName></orig><note xml:id="nxwt_dp1_hfb"> Marx und Engels haben sich
+                                                  in ihrem gemeinsam verfassten Werk <bibl sameAs="zotero-604880-GSXX4DVT">"Die heilige Familie, oder Kritik der kritischen
+                                                  Kritik" (Frankfurt a.M. 1845)</bibl> zur
+                                                  Philosophie <persName key="pdrPo.001.004.000001518">Ludwig
+                                                  Feuerbachs</persName> bekannt und darin den
+                                                  Standpunkt eines "realen Humanismus" (ebenda. S.
+                                                  III) vertreten. In seinem 1886 verfassten Aufsatz
+                                                  <bibl sameAs="zotero-604880-R66D7LT6">"Ludwig Feuerbach und der Ausgang
+                                                  der klassischen deutschen Philosophie"</bibl>
+                                                  spricht Engels rückblickend davon, dass er und
+                                                  Marx nach der Lektüre von <bibl sameAs="zotero-604880-N4AIQSGZ">Feuerbachs "Wesens des Christenthums" (Leipzig
+                                                  1841)</bibl> "momentan Feuerbachianer" wurden,
+                                                  wobei er bemerkt: "Wie enthusiastisch Marx die
+                                                  neue Auffassung begrüßte – trotz aller kritischen
+                                                  Vorbehalte – kann man in der 'Heiligen Familie'
+                                                  lesen" (in: <bibl sameAs="zotero-604880-GYBB3G24">MEGA² I/30.</bibl> S.
+                                                  131).<?oxy_comment_start author="lindenberg" timestamp="20180927T132518+0200" comment="Erläuterung von Cristine Weckwerth"?></note><?oxy_comment_end?></seg>
+                                        jezt sehr humoristisch auf einen wirkt. Das Volk u. in der
+                                        Hauptstadt Hannover selbst die Bourgeoisie sind extrem <hi rendition="#u">preussenfeindlich </hi>(ditto in <hi rendition="#u">Kurhessen</hi>) u. äussern ihre
+                                        Gesinnung bei jeder Gelegenheit. Sie sprechen offen ihren
+                                        Wunsch – <hi rendition="#u">nach den Franzosen</hi> aus. Sie
+                                        sagen, wenn man ihnen bemerkt, das sei unpatriotisch: „Die
+                                        Preussen thaten ganz dasselbe. Als sie hier durchrückten,
+                                        renommirten sie mit der französischen Hilfe, die Officiere
+                                        an der Spitze, – im Nothfall.“ <seg type="comment"><orig><persName key="ed_bbf_4gj_ffb">Wehner's
+                                                  Vater</persName></orig><note xml:id="na3s_3gj_ffb"><?oxy_comment_start author="lindenberg" timestamp="20190409T183845+0200" comment="siehe: http://www.welfenbund.de/mediapool/134/1346329/data/Welfenschrift_85.pdf"?>Der
+                                                  Vater von <persName key="ed_z3b_v4n_hz">J. G.
+                                                  Wehner</persName> war Kapellmeister in
+                                                  Hannover<?oxy_comment_end?>.</note></seg> ist hier
+                                        sehr geachtet, <seg type="comment"><orig>gilt auch als
+                                                  Welfe.</orig><note xml:id="a103ba8b-c01a-4c7c-b823-9c926035e411">Nach
+                                                  der Annexion des Königreichs Hannover im Deutschen
+                                                  Krieg 1866 durch Preußen wurde in Hannover die
+                                                  Deutsch-Hannoversche Partei (Welfenpartei)
+                                                  gegründet, die für die Wiederherstellung der
+                                                  selbständigen Monarchie mit der dort bis dahin
+                                                  herrschenden Dynastie der Welfen an der Spitze
+                                                  eintrat. Siehe <bibl sameAs="zotero-604880-Y4PW6WBD">Nassmacher: Parteien im Abstieg. S. 54.</bibl>
+                                                </note></seg>
+                                        <seg type="comment"><orig><persName key="pdrPo.001.004.000000441">Bismarck</persName>
+                                                  schickte mir gestern einen seiner Satrapen, den
+                                                  Advokaten <persName key="ed_ajj_jzj_bdb">Warnebold</persName> (dieß <hi rendition="#u">unter uns</hi>). Er wünscht mich u. „meine
+                                                  grossen Talente im Interesse des deutschen Volks
+                                                  zu verwerthen.“<del rendition="#s">,)</del></orig><note xml:id="fcb0d556-7459-4bba-8c30-e87d803945a1">Siehe <ref target="B00256"><?oxy_comment_start author="reichhoff" timestamp="20180502T132755+0200" comment="(Br. 245.79–96)."?>Engels
+                                                  an Marx, 27.4.1867<?oxy_comment_end?></ref> („Es
+                                                  ist bezeichnend ...“).</note></seg> Von <persName key="pdrPo.001.004.000000359">Benningsen</persName>
+                                        wird <seg type="comment"><orig>„mür“</orig><?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?><note xml:id="f0cf2eec-9d8d-46a0-a17d-d96f0a32c909">mundartlich für mir<?oxy_custom_end?>.
+                                                </note></seg> Morgen aufwarten. </p><p><pb/> Wir zwei haben doch eine ganz andere Stellung in Deutschland,
+                                        namentlich unter dem „gebildeten“ Beamtenthum als wir
+                                        wissen. So z.B. der Vorsteher des hiesigen statistischen
+                                        Büreaus, <seg type="comment"><orig><persName key="ed_ydt_vqk_bdb">Merckel</persName></orig><note xml:id="b768ee61-fe01-4d78-8574-c7a19c3d5474"><persName key="ed_ydt_vqk_bdb"><?oxy_comment_start author="lindenberg" timestamp="20180921T155220+0200" comment="vorher: Georg Julius Merkel"?>Georg
+                                                  Merkel</persName><?oxy_comment_end?>.</note></seg>,
+                                        besuchte mich, u. sagte mir, er habe Jahrelang über die
+                                        Geldgeschichten vergebens studiert u. <seg type="comment"><orig>ich habe sofort die Sache ein für allemal
+                                                  ins Klare gebracht.</orig><note xml:id="e0545a66-6a9a-4eed-8102-988f1f7810b4">Marx
+                                                  widmete sich dem Problem der Geldzirkulation im
+                                                  zweiten Kapitel von <bibl sameAs="zotero-604880-TRVS3BVD">„Zur Kritik der Politischen Oekonomie. Erstes
+                                                  Heft“.</bibl> Berlin 1859 (<bibl sameAs="zotero-604880-FVMQ2W9Y">MEGA² II/2.</bibl> S. 139–245).
+                                                </note></seg><seg type="comment"><orig>„Ihr Dioskur
+                                                  <persName key="ed_eyg_crj_sx">Engels</persName>“
+                                                  sagte er mir, „ist kürzlich von meinem
+                                                  Fachgenossen <persName key="pdrPo.001.004.000001351">Engel</persName> in
+                                                  Berlin vor der Kgl. Familie anerkannt
+                                                  worden.“</orig><note xml:id="nj2m_cks_gfb">Siehe
+                                                  <ref target="B00297"><?oxy_comment_start author="reichhoff" timestamp="20180502T132926+0200" comment="(Br. 288.10–12)."?>Marx
+                                                  an L. Kugelmann,
+                                                  13.7.1867<?oxy_comment_end?></ref> („Sie erinnern
+                                                  sich ...“).</note></seg> Dieß sind Lappalien, aber
+                                        sie sind wichtig für uns. Unser Einfluß auf dieß Beamtenthum
+                                        ist grösser als auf die <seg type="comment"><orig>Knoten</orig><note xml:id="nokt_5xj_ffb">'<?oxy_comment_start author="lindenberg" timestamp="20180921T170504+0200" comment="lt Kluge, etymologisches Wb 1910
+Link dieser Seite: http://daten.digitale-sammlungen.de/bsb00070228/image_276"?>Ungebildeter
+                                                  Mensch', aus der Studentensprache für
+                                                  Handwerkbursche,
+                                                  Nichtstudent<?oxy_comment_end?>.</note></seg>.</p><p>Ich war auch eingeladen bei der Gesellschaft der „Europäer“. So nennt man hier die
+                                        preussenfreundlichen, <seg type="comment"><orig>norddeutschlichen
+                                                  Nationalvereinler.</orig><note xml:id="eefbf494-bdee-49e3-aa76-719f0880cc19">Mitglieder bzw. Anhänger des Deutschen
+                                                  Nationalvereins (1859–1867). Siehe weiter <ref target="B00460"><?oxy_comment_start author="lindenberg" timestamp="20191206T110123+0100" comment="450"?>L.
+                                                  Kugelmann an Engels,
+                                                  30.11.1867<?oxy_comment_end?></ref> „Die
+                                                  'Europäer'“ und Erl. – Siehe auch <ref target="B00048"><?oxy_comment_start author="lindenberg" timestamp="20180921T172442+0200" comment="die ausführliche Erl. Erl. 45e. gibt es nicht mehr in Ediarum"?>Erl.
+                                                  zu Kugelmann an Marx, 23.2.1866
+                                                  „National-Vereins“.<?oxy_comment_end?></ref>
+                                                </note></seg> Esel!</p><p>Auch der <seg type="comment"><orig>Chef</orig><note xml:id="d28d64c0-e0a8-4a3a-a475-6ed527221f72"><persName key="ed_yn4_k3k_ffb">Albert von
+                                                  Maybach</persName><?oxy_comment_start author="lindenberg" timestamp="20180921T174923+0200" comment="https://de.wikipedia.org/wiki/Albert_von_Maybach"?>,
+                                                  seit 1. März 1867 Direktor der Preußischen
+                                                  Eisenbahndirektion Hannover<?oxy_comment_end?>.
+                                                </note></seg><del> des <sic ana="#break-off"/></del>
+                                        <seg type="comment"><orig>(Hauptchef, sagt <persName key="pdrPo.001.004.000004595">Stieber</persName>)</orig><note xml:id="d70581d1-9721-492b-aa5c-ed3baffd5acc">Hauptchef nannte <persName key="pdrPo.001.004.000004595">Wilhelm
+                                                  Stieber</persName>, einer der Initiatoren des
+                                                  Kölner Kommunistenprozesses 1852, den Lockspitzel
+                                                  <persName key="pdrPo.001.004.000000882">Julien
+                                                  Cherval</persName>. Siehe <bibl sameAs="zotero-604880-8MKHUYI8">[Karl Marx:] Enthüllungen über den
+                                                  Kommunistenprozeß zu Köln. [Basel] 1853.</bibl>
+                                                  Siehe <bibl sameAs="zotero-604880-NVTS5S32">MEGA² I/11.</bibl>
+                                                  S. 378–389.</note></seg> des hiesigen
+                                        Eisenbahnwesens hat mich eingeladen. Ich ging hin, er hatte
+                                        guten <seg type="comment"><orig>Maiwein</orig><note xml:id="ngv4_31n_gfb">Weinhaltige Bowle mit
+                                                  Waldmeister aromatisiert.</note></seg>, eine <seg type="comment"><orig><persName key="ed_bvg_v3n_gfb">„bejeisterte Frau“</persName></orig><note xml:id="nvys_hkn_gfb"><persName key="ed_bvg_v3n_gfb">Marie
+                                                  Maybach.</persName></note></seg>, u. dankte mir
+                                        beim Fortgehn „für die grosse Ehre“.</p><p><seg type="comment"><orig>Ich habe eine Ehrenschuld an
+                                                  Mr. <persName key="pdrPo.001.004.000005100">Wheeler</persName> – <hi rendition="#u">10 £</hi> – Mitglied unsres Council und
+                                                  Manager der <orgName key="ed_ar4_sbn_gfb">„Empire
+                                                  Insurance Corporation“</orgName> abzutragen. Du
+                                                  verpflichtest mich sehr, wenn Du ihm das Geld:
+                                                  „<hi rendition="#u">G. Wheeler</hi>,
+                                                  Esq.,<del> xxx <sic ana="#break-off"/></del> 27,
+                                                  Gresham Street, E.C. <hi rendition="#u">Private</hi>“ (London) in meinem Auftrag
+                                                  schickst. Auch fürchte ich sehr, daß meine Familie
+                                                  in London „in profundis“.</orig><note xml:id="ef8877a4-804e-4f31-a9bd-8ff6837fa39a">
+                                                  <p>Siehe <ref target="B00256">Engels an Marx, 27.4.1867</ref> („Zuerst
+                                                  business. ...“). –
+                                                  <?oxy_comment_start author="lindenberg" timestamp="20180925T170337+0200" comment="Siehe Erl. 6d. - nicht mehr vorhanden : Central Council oder Provisional Central Council, nach dem Genfer Kongreß 1866 der IAA (siehe Erl. 3d) – General Council – zentrales Leitungsorgan der IAA (#Minute Book 1864–1866. S. 274, 479)"?>Der
+                                                  Generalrat der IAA.<?oxy_comment_end?> –  lat. „in
+                                                  Bedrängnis“.</p>
+                                                </note></seg> Es ist mir um so schmerzlicher, da der
+                                                <seg type="comment"><orig>Geburtstag des armen,
+                                                  guten <persName key="pdrPo.001.004.000003074">Jennychens</persName> 1 Mai.</orig><note xml:id="d7dfc362-c55c-4948-ab65-881a65014e49">Marx’ Tochter <persName key="pdrPo.001.004.000003074">Jenny</persName>
+                                                  wurde am 1. Mai 1844 geboren.</note></seg> Um
+                                        einen Geldcoup zu machen, habe ich Netze ausgeworfen. Ich
+                                        muß den Erfolg abwarten.</p><p>Ich habe mich ausserordentlich erholt. Keine Spur des alten Uebels. Dazu, trotz schwerer Verhältnisse, guter Humor, ohne Leberanschläge.</p><p>Schreib mir <hi rendition="#u">umgehend</hi> (Adresse:
+                                                Dr. <persName key="pdrPo.001.004.000002616">Kugelmann</persName>, Hannover) ein paar Zeilen.
+                                        Salut an Mrs. <persName key="pdrPo.001.004.000000698">Burns</persName>.</p><closer>Dein<lb/>Mohr. </closer><postscript><p><pb/>
+                                                <seg type="comment"><orig><persName key="pdrPo.001.004.000001631">Freiligrath</persName> blamirt sich durch seine
+                                                  öffentliche Bettelei in Deutschld.</orig><note xml:id="cab4f98a-ff2c-41ad-97fe-f4b6cf29f8f4">Durch die Auflösung der Londoner Filiale der
+                                                  <orgName key="ed_yq2_241_h2b">Banque Générale
+                                                  Suisse</orgName> Ende 1865 hatte <persName key="pdrPo.001.004.000001631">Ferdinand
+                                                  Freiligrath</persName> seine Stellung als
+                                                  Filialleiter und damit sein Einkommen verloren.
+                                                  Siehe <ref target="B00058"><?oxy_comment_start author="reichhoff" timestamp="20180502T143037+0200" comment="(Br. 54a.8, 59.8–14"?>Engels
+                                                  an Freiligrath, zwischen 8. und
+                                                  10. März<?oxy_comment_end?></ref> und <ref target="B00063"><?oxy_comment_start author="reichhoff" timestamp="20180502T143155+0200" comment="59.8–14"?>Freiligrath
+                                                  an Engels, 13.3.1866<?oxy_comment_end?></ref> und
+                                                  Erl. sowie <bibl sameAs="zotero-604880-PZAD5T7B">Freiligrath Bw 2.
+                                                  S. 233</bibl>). Im Frühjahr 1867 wurden in
+                                                  verschiedenen Ländern Sammlungen für Freiligrath
+                                                  durchgeführt. Vor allem in Deutschland, aber auch
+                                                  in Großbritannien und Amerika bildeten sich
+                                                  Freiligrath-Komitees, die die Spendensammlungen in
+                                                  die Hand nahmen. Im Londoner <bibl sameAs="ed_s51_tmw_1cb">„Hermann“</bibl> wurden regelmäßig Berichte über
+                                                  den Stand der Sammlungen veröffentlicht. Siehe
+                                                  dazu <ref target="B00275"><?oxy_comment_start author="reichhoff" timestamp="20180502T134715+0200" comment="(Br. 266.11–19,"?>Marx
+                                                  an Engels, 3.6. <?oxy_comment_end?>
+                                                  </ref> („Sieh den <hi rendition="#u">Herrmann</hi>
+                                                  letzter Woche. ...“ ),<ref target="B00281">
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20180502T134845+0200" comment="272.90–98,"?>22.6.
+                                                  <?oxy_comment_end?></ref> („Der 'edle' Dichter
+                                                  Freiligrath“ ...),<ref target="B00348">
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20180502T134949+0200" comment="339.49–52,"?>11.9.
+                                                  <?oxy_comment_end?>
+                                                  </ref>(„Die Bettelei für den dicken Lyriker
+                                                  ...“),<ref target="B00405">
+                                                  <?oxy_comment_start author="reichhoff" timestamp="20180502T135211+0200" comment="395"?>19.10.<?oxy_comment_end?>
+                                                  </ref> („Einliegend 2 Freiligrathausschnitte.
+                                                  ...“) und <ref target="B00428"><?oxy_comment_start author="reichhoff" timestamp="20180502T135318+0200" comment="418.46–61"?>Engels
+                                                  an Marx, 10.11.1867<?oxy_comment_end?></ref> („Ad
+                                                  vocem Freiligrath …“) und Erl. </note></seg>
+                                                <persName key="pdrPo.001.004.000003135">Meißner</persName> sagt mir, er sei in
+                                                Norddeutschld verschollen. </p></postscript></div></body></text></TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00232" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>223</idno>Karl Marx an Friedrich Engels in Manchester. London, Montag,
+                    25. Februar 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">L 4472/L VI 605</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Brief besteht aus einem Blatt mittelstarkem, weißem Papier im Format
+                            113 × 179 mm. Wasserzeichen: [Joyns]on [186]6. Die erste
+                            Seite hat Marx zur Hälfte beschrieben, die zweite ist leer.
+                            Schreibmaterial: schwarze Tinte.</p>
+                        <p>Von <persName key="pdrPo.001.004.000000387">Eduard Bernsteins</persName>
+                            Hand: Nummerierung des Briefes: „4“, aus „3“ korrigiert.</p>
+                        <p>Von unbekannter Hand: das Zeichen „+“ auf der ersten Seite oben
+                            rechts.</p>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2020</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-RDJTHVVL">Erstveröffentlichung: Bw 3
+                            (1913). S. 363.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ats_ysj_wx">Karl Marx</persName>
+                    <placeName key="ed_wz2_shs_qx">London</placeName>
+                    <date when="1867-02-25"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Die Beilage („Brief des Dr Kugelmann“)<?oxy_comment_start author="lindenberg" timestamp="20180614T163314+0200" comment="Z. 4)
+Br. 221"?>
+                    <?oxy_comment_end?>ist überliefert (siehe <ref target="B00230">L. Kugelmann an
+                        Marx, 22.2.1867</ref>).</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_h5q_v3y_g1b">Privates - Marx</term>
+                    <term key="ed_fv1_snz_g1b">Lektüren im Korrespondentenkreis</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:00Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/> 25 Feb. 1867.</dateline><salute>Dear Fred,</salute></opener>
+                <p><seg type="comment"><orig>Best thanks for
+                            £ 20.</orig><note xml:id="ed90b1bb-2440-4d2a-94d0-1ed70fb63424">Siehe <ref target="B00229"><?oxy_comment_start author="reichhoff" timestamp="20180425T162629+0200" comment="(Br. 220.3-9)."?>Marx
+                                an Engels, 21.2.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p><seg type="comment"><orig>Einliegend Brief des Dr
+                                <persName key="pdrPo.001.004.000002616">Kugelmann</persName></orig><note xml:id="d099bc54-37d6-4215-89fb-65c2442a3d40">Siehe <ref target="B00230"><?oxy_comment_start author="reichhoff" timestamp="20180425T162726+0200" comment="(Br. 221)."?>L.
+                                Kugelmann an Marx,
+                    22.2.1867<?oxy_comment_end?></ref>.</note></seg></p>
+                <p>Ich kann Dir in diesem Augenblick nur diese wenigen
+                    Zeilen schreiben, weil der Agent des Landlords hier ist u. ich ihm gegenüber
+                        <seg type="comment"><orig>die Rolle des <persName key="ed_et1_yjl_ldb">Mercadet</persName> in <persName key="pdrPo.001.004.000000238">Balzac's</persName> Komödie</orig><note xml:id="e7aa104e-d119-4b7b-8e45-f31b4f156801">Hauptgestalt der Komödie
+                                <bibl sameAs="zotero-604880-UAZR25PK">„Le
+                                faiseur“</bibl>von <persName key="pdrPo.001.004.000000238">Honoré de
+                                Balzac</persName>.</note></seg> spielen muß. À Propos <persName key="pdrPo.001.004.000000238">Balzac</persName>, rathe ich Dir sein: <bibl sameAs="zotero-604880-LSIKTUW5">„Le Chef d'Œuvre
+                        Inconnu“</bibl> u. <bibl sameAs="zotero-604880-5697QCJF">„Melmoth réconcilié“</bibl> zu lesen. Es sind zwei kleine chefd'œuvres,
+                    voller köstlicher Ironie.</p>
+                <closer>Salut<lb/>D<lb/>KM </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

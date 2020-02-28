@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00240" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>231</idno>Hermann Engels an Friedrich Engels in Manchester. Barmen,
+                    Donnerstag, 28. März 1867</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Dieser Brief wird hier erstmals veröffentlicht.</edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>RGASPI</institution>
+                        <idno><idno type="shelfmark">Standort Orig. nicht bekannt; Kopie: f. 9 op. 1
+                                d. 11/21 Fotosign. 586a&lt;–&gt;b.</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Der Standort der Originalhandschrift ist zur Zeit nicht bekannt. Die
+                            Veröffentlichung erfolgt nach einer Fotokopie: RGASPI, Sign. f. 9,
+                            op. 1, d. 11/21. Fotosign. 586a&lt;–&gt;b.</p>
+                        <p>Soweit aus der Fotokopie zu ersehen ist, besteht der Brief aus einem
+                            Blatt. Hermann Engels hat beide Seiten vollständig beschrieben. Am
+                            rechten unteren Rand der ersten Seite wurde von Hermann Engels das erste
+                            Wort der Folgeseite („geschadet“) als Kustode zum Finden des
+                            Textanschlusses
+                            notiert.<?oxy_comment_start author="lindenberg" timestamp="20180806T162912+0200" comment="https://de.wiktionary.org/wiki/Kustode"?></p><?oxy_comment_end?>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="pdrPo.001.004.000001375">Hermann Engels</persName>
+                    <placeName key="ed_mzj_vcv_cbb">Barmen</placeName>
+                    <date when="1867-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                    <placeName key="ed_ubz_2cl_3y">Manchester</placeName>
+                </correspAction>
+                <note>Vermutlich beantwortet Hermann Engels einen nicht überlieferten Brief von
+                    Engels, geschrieben vor dem 28. März 1867 (<ref target="mega_hyb_zkn_s2b">Engels
+                        an H. Engels, vor
+                    28.3.1867</ref>).<?oxy_comment_start author="lindenberg" timestamp="20180807T103520+0200" comment="(Z. 3–4, 25–26)"?></note><?oxy_comment_end?>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_gln_r4r_xw">Privates - Engels (Familie, Geschäfte)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:06Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline><pb/> Barmen, 28. März 1867.</dateline>
+                    <salute>Lieber Friedrich!</salute>
+                </opener>
+                <p>Daß Du mit Deinem <expan>C<ex>on</ex>to</expan>.
+                        <expan>C<ex>or</ex>r</expan><ex>en</ex>t eiltest hatte ich nicht geglaubt,
+                    sonst würde ich es Dir schon 3 Wochen früher haben schicken können, umstehend
+                    findest Du Alles, was dazu gehört. –</p>
+                <p><persName key="ed_ill_2rt_s2b">D. Croner</persName><?oxy_comment_start author="lindenberg" timestamp="20180808T093022+0200" comment="im Berliner Adressbuch 1867 
+Allgemeiner Wohnungs-Anzeiger nebst Adreß- und Geschäftshandbuch für Berlin, dessen Umgebungen und Charlottenburg : auf d. Jahr .... Ausgabe 1867
+Erschienen: Berlin, 1867
+URL: http://nbn-resolving.de/urn:nbn:de:kobv:109-1-353281
+verschiedene Kaufleute D./Daniel Croner/Kroner
+"?><?oxy_comment_end?>ist
+                    allerdings unser Agent für Berlin &amp; Norddeutschland, er schrieb uns schon
+                    vor einiger Zeit, daß sich ein englisches Haus nach ihm bei uns erkundigen
+                    würde. –</p>
+                <p>Du kannst also wohl Eueren dortigen Freunden über <persName key="ed_ill_2rt_s2b">Croner</persName> mittheilen, daß wir ihn nur empfehlen können; er ist sehr
+                    thätig &amp; scheut keine Mühe, wenn's heißt ein Geschäft abzuschließen, und
+                    deshalb wird er, wenn das dortige Haus mit der Concurrenz Schritt hält, auch
+                    schon ein ordentliches Geschäft erzielen, dabei ist <persName key="ed_ill_2rt_s2b">Croner</persName> sehr vorsichtig (wir haben selbst im
+                    vorigen Jahre noch nichts bei seinen Kunden verloren) und kennt die Kundschaft.
+                    Er ist verheirathet, wohnt in Berlin &amp; ist ein solider Mensch. –</p>
+                <p>Wenn Du dort £ 1000.– zu viel hast, so kannst Du davon nur für unsere
+                    Rechnung</p>
+                <p rendition="#et"><?oxy_comment_start author="lindenberg" timestamp="20180806T134749+0200" comment="Einrückung ist nicht in Webansicht umgesetzt
+Hier wären auch Tabstops günstig, oder eine Tabelle."?><?oxy_custom_start type="oxy_content_highlight" color="255,255,0" mid="3"?>£<?oxy_comment_end?> 200.–
+                    – an <seg type="comment"><orig><orgName key="pdrPo.001.015.000090221">E. Nathan
+                                &amp; Sington</orgName></orig><note xml:id="e9ba0e77-fb15-4d11-977a-5ab63c249379">Wahrscheinlich <orgName key="pdrPo.001.015.000090221">„E. Nathan &amp; Simpson“</orgName>.
+                            Siehe, z.B., Emil Engels an Engels, 5. Oktober 1859 (<bibl sameAs="zotero-604880-LGQY2UCG">MEGA<hi rendition="#sup">2</hi>
+                                III/10.</bibl> Br. 21.12–13).</note></seg> dort &amp;</p>
+                <p rendition="#et">" 800.– – " <orgName key="pdrPo.001.015.000090261">R. Funke &amp;
+                            C<hi rendition="#sup">o</hi></orgName> in
+                    Liverpool<?oxy_custom_end mid="3"?>
+                </p>
+                <p>zahlen, an erstere in baar &amp; an die letzteren in welcher Form Du willst;
+                    Wechsel, mit Ausnahme von bankers
+                    <?oxy_comment_start author="lindenberg" timestamp="20180806T140127+0200" comment=" http://www.investorguide.com/definition/bankers-bill.html
+ 
+ bankers bill
+noun
+= an order by one bank telling another bank, usually in another country, to pay money to someone."?>bills<?oxy_comment_end?>,
+                    discontirt uns <persName key="pdrPo.001.004.000010602">Funke</persName> mit 3%
+                    &amp; so würden wir sie Dir natürlich auch creditiren.</p>
+                <p>Deine Unterredung mit <seg type="comment"><orig><persName key="pdrPo.001.004.000001409">Gottfr.</persName></orig><note xml:id="d5e9094c-2a7b-445a-a282-04904e6f2dba"><persName key="pdrPo.001.004.000001409">Gottfried
+                        Ermen.</persName></note></seg> über unsere Firma &amp; Etiquettes ist
+                    interessant, also die paar Bündel, die wir nach der Schweiz gesandt, bringen
+                    schon diese Wirkung hervor! Das Manchester steht aus alter Einrichtung &amp;
+                    Gewohnheit allerdings noch auf <hi rendition="#u">einigen</hi> von unseren
+                    Etiquettes, es kommt aber nur noch bei solchen Garnsorten vor, die uns leider
+                    nur äußerst sparsam bestellt werden, und so habe ich die Ueberzeugung, daß wir
+                    Euch mit dem Manchester noch nichts <pb/> geschadet haben. – Sage M<hi rendition="#sup">r</hi> <persName key="pdrPo.001.004.000001409">Gottfr.</persName>, es hätte mir leid gethan, daß ihn diese Angelegenheit
+                    so unangenehm berührt zu haben scheine; ich hoffe doch nicht, daß unsere
+                    freundschaftlichen Beziehungen unter einander dadurch im Geringsten alterirt
+                    werden könnten.</p>
+                <p>Uebrigens würde ich mir erlauben einige Zeilen in den nächsten Tagen <seg type="comment"><orig>über diesen Gegenstand</orig><note xml:id="ny1c_htn_s2b"><persName key="pdrPo.001.004.000001409">Gottfried</persName> und <persName key="pdrPo.001.004.000001406">Anton Ermen</persName> versuchten 1867 der Barmener Firma <orgName key="ed_byw_vjh_1z">„Ermen &amp; Engels“</orgName> zu verbieten, den
+                            Namen „Ermen“ und die Ortsbezeichnung „Manchester“ weiterhin zu führen.
+                            Siehe dazu die Briefe von Elisabeth Engels an Engels vom 23. April 1867,
+                            vom 21. und 22. Mai 1867 und vom 17. Juni 1867, den Brief von Hermann
+                            Engels an Engels vom 17. Juni 1867 (<ref target="B00250">E. Engels an
+                                Engels,
+                            23.4.1867</ref><?oxy_comment_start author="lindenberg" timestamp="20180806T174457+0200" comment="Br. 240.36-42"?><?oxy_comment_end?>(„Was
+                            hat denn G. Ermen ...“), <ref target="B00270">21. und 22.5.1867</ref>
+                            <?oxy_comment_start author="lindenberg" timestamp="20180806T174555+0200" comment="Br. 261.10-25"?>(<?oxy_comment_end?>„Was
+                            nun den Brief ...“), <ref target="B00279">17. Juni
+                                1867</ref>,<?oxy_comment_start author="lindenberg" timestamp="20180806T174734+0200" comment="Br. 270"?><?oxy_comment_end?><ref target="B00290">H. Engels an Engels, 3.7.1867</ref> und
+                            Erl.<?oxy_comment_start author="lindenberg" timestamp="20180806T174751+0200" comment="Br. 281"?>)<?oxy_comment_end?>
+                            und <bibl sameAs="zotero-604880-CH872CUU">Knieriem: „Gewinn unter Gottes
+                                Segen“.</bibl> S. 51.</note></seg> an ihn zu richten &amp; sei ich
+                    überzeugt, daß die Sache sehr bald zu beiderseitiger Zufriedenheit geordnet sein
+                    würde. –</p>
+                <p>Ich für meine Person lege gar keinen Werth auf dieses Manchester; denn unsere
+                    Garne haben sich dermaßen eines guten Rufs zu erfreuen, daß wir in diesem Sommer
+                    noch ein großes Gebäude in unsern Fabrikhof setzen werden &amp; dann im Herbst
+                    schon 21–23 000 ℔ <expan>pr<ex>o</ex></expan> Woche spinnen &amp; doubliren
+                    werden; jetzt können wir gar nicht so viele Knittgs machen wie bestellt werden;
+                    auch sind wir überhäuft mit bereits ertheilten Knittgs Orders. –</p>
+                <p><seg type="comment"><orig><persName key="pdrPo.001.004.000001367">Mutter</persName></orig><note xml:id="c979064d-1e1d-4fb7-942e-3ddb1a4534e2"><persName key="pdrPo.001.004.000001367">Elisabeth Engels.</persName>
+                        </note></seg> geht's wieder gut; aber <seg type="comment"><orig><persName key="pdrPo.001.004.000001368">Emil</persName></orig><note xml:id="e74449b2-2cc2-43bd-bbc3-30e4a09fbfcc"><persName key="pdrPo.001.004.000001368">Emil Engels.</persName></note></seg>
+                    ist seit einigen Tagen recht krank; er hat die Rose, die sich jetzt auch über
+                    den Kopf auszudehen anfängt, das Fieber hat aber schon viel nachgelassen &amp;
+                    die Kopfschmerzen sind auch nicht sehr heftig, dabei hat er auch fortwährend
+                    seine klare Besinnung, so daß die Rose nicht so bedenklich erscheint; obschon
+                    wir Anfangs doch recht besorgt waren. –</p>
+                <p>Nun herzliche Grüße von Mutter, den Uebrigen hier &amp;</p>
+                <closer>von Deinem<lb/>Hermann.</closer>
+                <postscript>
+                    <p>NB. Sei so gut, uns doch <hi rendition="#u">umgehend</hi> Nachricht wegen der
+                        30 Bd 36<hi rendition="#sup">r</hi> und 30 Bd 60<hi rendition="#sup">r</hi>
+                        <hi rendition="#u">Sewings</hi> 2fold zukommen zu lassen; was kostet das
+                        Garn? wir haben eine feste Offerte darin zu 23 d <expan>p<ex>er</ex></expan>
+                        36 &amp; 60<hi rendition="#sup">r</hi> à 2/3% d zur prompten Lieferung. </p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

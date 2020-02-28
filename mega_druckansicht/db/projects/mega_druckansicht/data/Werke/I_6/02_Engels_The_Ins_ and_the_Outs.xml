@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document mega" xml:id="mega_q4v_5hp_mfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">The In’s and the Out’s</title>
+                <author>
+                    <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2018-10-17</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="JA">[Engels, Friedrich:] The In’s and the Out’s. In: Northern Star. Vol. X. Nr. 446, 30. Mai 1846. S. 5.</bibl>
+                <biblFull>
+                    <titleStmt>
+                        <title level="a" type="main">The In’s and the Out’s.</title>
+                    </titleStmt>
+                    <extent>
+                        <measure type="pages">1</measure>
+                    </extent>
+                    <publicationStmt>
+                        <publisher>Feargus O’Connor?</publisher>
+                        <pubPlace key="ed_wz2_shs_qx">London</pubPlace>
+                        <date type="publication">1846-05-30</date>
+                    </publicationStmt>
+                    <seriesStmt>
+                        <title level="j" type="main">The Northern Star, and National Trades’
+                            Journal</title>
+                        <biblScope unit="volume">X [IX?]</biblScope>
+                        <biblScope unit="issue">446</biblScope>
+                        <biblScope unit="page">5</biblScope>
+                        <biblScope unit="column">4</biblScope>
+                    </seriesStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="ed_eyg_crj_sx">Friedrich Engels</persName>
+                <placeName key="ed_jtx_hgv_cbb">Brüssel</placeName>
+                <date notBefore="1846-05-01" notAfter="1846-05-29">Mai 1846</date>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text type="article">
+        <body>
+            <div>
+                <p><hi rendition="#smaller">For the following remarks we are indebted to a correspondent: —</hi></p>
+            </div>
+            <div>
+                <head><hi rendition="#c"><hi rendition="#k">The In’s and the Out’s.</hi></hi></head>
+                <p>The daily papers of Paris have been recently engaged in a squabble about the old
+                    adage of M. Thiers: “The King <hi rendition="#i">reigns</hi>, but does not
+                        <hi rendition="#i">govern</hi>.” This commenced in the ministerial <hi rendition="#i">Journal des Debats</hi> with a furious attack upon Thiers,
+                    who, of course, failed not to reply. It is a mere electioneering speculation for
+                    the purpose of securing majorities in the next general election, the chambers
+                    being about to be dissolved as soon as the budget is voted. The ministerial
+                    papers, the parties <hi rendition="#i">in</hi> office, pronounce their approval
+                    of the interference of the king in government affairs; the party out of office,
+                    M. Thiers and his paper, the <hi rendition="#i">Constitutionnel</hi>, proclaims
+                    such interference to be most dangerous and intolerable in a country like France.
+                    The most interesting points in the whole discussion are the disclosures made of
+                    the way in which Louis Philippe interferes in the business of the country. M.
+                    Thiers relates in the plainest possible manner, that the King strives always to
+                    get his private creatures into office, that he has a candidate for the command
+                    of every man-of-war (thus competing with the creatures of the ministers), that
+                    if his will be not acceded to by ministers, he plots secretly against them, that
+                    if his private wishes, as to foreign affairs do not prevail in the council, he
+                    sends secret orders to the Ambassadors at foreign courts, that he carries on
+                    secret correspondence with all influential employe’s. It is the more
+                    ridiculous to complain at this very moment about personal interference on the
+                    part of the King, when every paper gives daily proofs of the absolute control
+                    over all affairs of government which is exercised by the “haute
+                    bourgeois” the large capitalists. But M. Thiers and his complaints
+                    represent the “petite <choice>
+                        <sic>bourgeoisi”,</sic>
+                        <corr cert="high">bourgeoisie”,</corr>
+                    </choice> the inferior ranks of the middle classes, who being oppressed by the
+                    enormous weight of the “gros-bourgeois” commence to pronounce louder
+                    and louder their dissatisfaction with the present state of things. How
+                    all-powerful the large capitalists are in France, how well they know how to
+                    concentrate the political leadership in their own hands, is shown by the new
+                    “loi de patente” which passed some time ago (I believe last year)
+                    and by which the number of voters in all France was reduced from 200.000 to
+                    150.000. Both the ministerial papers and M. Thiers’s paper reproach each
+                    other, that their respective policy would lead to a revolution and the
+                    establishment of a republic. The <hi rendition="#i">National</hi> who, of
+                    course, enjoys this quarrel very much takes these two confessions down and says, “If these two great heroes, M. Guizot and M. Thiers, both insist that their policy is counter-revolutionary, we have only to bow and to retire with a ‘Thank you, gentlemen’!”</p>
+            </div>
+        </body>
+    </text>
+</TEI>

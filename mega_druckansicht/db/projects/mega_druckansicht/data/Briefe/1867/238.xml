@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter mega" xml:id="B00248" xml:lang="de">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><idno>238</idno>Karl Marx an Louis Kugelmann in Hannover. Hamburg, Dienstag,
+                    16. April 1867</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>IISG</institution>
+                        <collection>Marx-Engels-Nachlass</collection>
+                        <idno><idno type="shelfmark">C 337/C96</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Das Telegramm ist auf dem Formular des <orgName key="ed_bqy_lwk_bfb">„Deutsch Oesterreichischen Telegraphen-Vereins“</orgName> von einem
+                            Postbeamten geschrieben. Es besteht aus einem Blatt mittelstarkem,
+                            weißem Papier im Format 257 × 280 mm. Schreibmaterial:
+                            Blaustift. –
+                            <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>Siehe Faksimile.<?oxy_custom_end?>
+                            <?oxy_comment_start author="lindenberg" timestamp="20180907T115725+0200" comment="[als Abbildung bringen]"?></p>
+                        <?oxy_comment_end?>
+                        <p/>
+                    </physDesc>
+                    <additional>
+                        <listBibl>
+                            <bibl>RGASPI f. 1 op. 1 d. 2148</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+                <listWit>
+                    <witness><bibl sameAs="zotero-604880-38I66UYF">Erstveröffentlichung: MEW 31
+                            (1965). S. 540.</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <placeName>Hamburg</placeName>
+                    <placeName key="ed_swt_wjv_cbb">Hamburg</placeName>
+                    <date when="1867-04-16"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="pdrPo.001.004.000002616">Louis Kugelmann</persName>
+                    <placeName key="ed_evx_hkv_cbb">Hannover</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_lbn_rnw_px">„Das Kapital“ (Arbeit an Manuskripten,
+                        Veröffentlichung)</term>
+                    <term key="ed_rd3_f3s_zdb">Hannover (Königreich/Preußische Provinz)</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2018-03-14T09:45:12Z</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | OxGarage DOCX to TEI | 2.15.0</change>
+                <change><date>2018-03-14T15:34:56+01:00</date> | <name>Sascha Grabsch</name> |
+                        <orgName>Telota</orgName> | convert_tei_file.py | 0.85</change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener><dateline><pb/>
+                        <hi rendition="#mPrint"><hi rendition="#mPrint">Monat</hi></hi> 4 <hi rendition="#mPrint">186</hi>7<lb/>Hann<supplied cert="high">over</supplied>
+                        <hi rendition="#mPrint">von</hi> Hamburg</dateline></opener>
+                <p>
+                    <table rows="2" cols="4">
+                        <head/>
+                        <row role="label">
+                            <cell><hi rendition="#mPrint">Datum</hi></cell>
+                            <cell><hi rendition="#mPrint">Stunde</hi></cell>
+                            <cell><hi rendition="#mPrint">Minute</hi></cell>
+                            <cell><hi rendition="#mPrint">Tageszeit</hi></cell>
+                        </row>
+                        <row>
+                            <cell>16</cell>
+                            <cell>12</cell>
+                            <cell>27</cell>
+                            <cell>n<supplied cert="high">achmittag</supplied></cell>
+                        </row>
+                        <row>
+                            <cell>16</cell>
+                            <cell>1</cell>
+                            <cell>41</cell>
+                            <cell>n<supplied cert="high">achmittag</supplied></cell>
+                        </row>
+                    </table>
+                </p>
+                <p>Doctor L Kugelmann</p>
+                <p>Hannover.</p>
+                <p><seg type="comment"><orig>Ich komme heute Abend gegen
+                            neun.</orig><note xml:id="b7f3b83a-a99a-494c-af25-7e049834ca2b">Marx
+                            besuchte Kugelmann in Hannover vom
+                            <?oxy_custom_start type="oxy_content_highlight" color="140,255,140"?>16.<?oxy_custom_end?> April
+                            bis etwa 14. Mai 1867.<?oxy_comment_start author="lindenberg" timestamp="20180907T120736+0200" comment="vorher: Marx besuchte Kugelmann in Hannover vom 17. April bis etwa 14. Mai 1867 während er sein Manuskript des ersten Buches des „Kapital“ zum Verleger Otto Meißner nach Hamburg brachte."?>
+                            <?oxy_comment_end?>Siehe
+                                <?oxy_comment_start author="lindenberg" timestamp="20180907T120806+0200" comment="Br. 237"?><ref target="B00247">Erl. zu Marx an Engels,
+                            13.4.1867</ref><?oxy_comment_end?>.</note></seg></p>
+                <closer><signed>Marx </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
