@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" xmlns:tei="http://www.tei-c.org/ns/1.0" telota:doctype="document avhr_art" oldID="avhr_ckj_h2x_tfb" xml:id="H0018382">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ART &lt;persName&gt; ohne Attribut @key</title>
+            </titleStmt>
+            <editionStmt>
+                <edition><title>Alexander von Humboldt auf Reisen - Wissenschaft aus der
+                        Bewegung</title></edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>BBAW</institution>
+                        <collection>AvH-R</collection>
+                        <idno>N.N.</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation/>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <table>
+                    <row role="label">
+                        <cell>Name</cell>
+                        <cell>Seite</cell>
+                    </row>
+                    <row>
+                        <cell>J. G. Ch. Zeissing zu Isterstädt</cell>
+                        <cell>34r</cell>
+                    </row>
+                    <row>
+                        <cell>Rumph</cell>
+                        <cell>54r</cell>
+                    </row>
+                    <row>
+                        <cell>Banks</cell>
+                        <cell>54r</cell>
+                    </row>
+                    <row>
+                        <cell>Cassius</cell>
+                        <cell>58r</cell>
+                    </row>
+                    <row>
+                        <cell>Emery</cell>
+                        <cell>68v</cell>
+                    </row>
+                    <row>
+                        <cell>Lasterie</cell>
+                        <cell>72r</cell>
+                    </row>
+                    <row>
+                        <cell>Joseph Chaix</cell>
+                        <cell>77r</cell>
+                    </row>
+                    <row>
+                        <cell>Spinola</cell>
+                        <cell>85r</cell>
+                    </row>
+                    <row>
+                        <cell>Sisson</cell>
+                        <cell>93r</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

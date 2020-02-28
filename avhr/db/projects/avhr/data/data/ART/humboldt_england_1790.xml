@@ -1,0 +1,1213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="journal avhr_art" oldID="avhr_oc4_t14_h2b" xml:id="H0017682">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reise. 1790. England. [= Alexander von Humboldts Englisches Reisejournal],
+                    [ca. 1790]</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1142778916" xml:id="DE">
+                        <surname>Erdmann</surname>
+                        <forename>Dominik</forename>
+                    </persName>
+                </editor>
+                <editor>
+                    <persName ref="https://orcid.org/0000-0002-1761-0222" xml:id="CT">
+                        <surname>Thomas</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName xml:id="FS">
+                        <surname>Schnee</surname>
+                        <forename>Florian</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alexander von Humboldt auf Reisen – Wissenschaft aus der Bewegung</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska</institution>
+                        <collection>ehemaliger Bestand der Autographensammlung Radowitz (ehemals Preußische Staatsbibliothek, Berlin)</collection>
+                        <idno><idno type="shelfmark">Nr. 6255</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                    <listWit>
+                        <witness>
+                            <bibl type="print" n="1" sameAs="zotero-667230-9PZUBNH7">Bruhns 1872, I, 290–292 (Teildruck).</bibl>
+                        </witness>
+                        <witness>
+                            <bibl n="2" sameAs="zotero-667230-6KP5C737" xml:id="koelbel-et-al">Kölbel et al. 2008, 16–21 (Vorlage).</bibl>
+                        </witness>
+                    </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="H0012069">Humboldt, Alexander von (1769-1859)</persName>
+                <date notBefore="1790-06-07" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<pb facs="#f0001" n="[1r]"/>
+<div>
+   <fw type="folNum">[I.]</fw>
+        <head>Reise. <date>1790</date>. <lb/><note hand="#unknown"><seg type="comment">
+                            <orig>6255</orig>
+                            <note xml:id="nzy2_lpz_32b" resp="#CT #DE">Handschriftliche Notiz,
+                                Bleistift v. fr. H.: Altsignatur der Sammlung
+                                Radowitz/Archivsignatur.</note>
+                        </seg>
+                    </note>
+                    <placeName key="H0005653">England</placeName>.</head>
+            <pb facs="#f0002" n="[1v]"/>
+   <fw type="folNum">[II.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0003" n="[2r]"/>
+   <fw type="folNum">1.</fw>
+            <div type="diaryEntry">
+                <head><seg type="comment">
+                        <orig><date when="1790-06-07"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0017265">Wiltshire</placeName></hi></hi></date></orig>
+                        <note xml:id="nlw4_sbp_42b" resp="#CT #DE">Die Datierung der einzelnen Einträge des
+                            Journals folgt <bibl sameAs="zotero-667230-6KP5C737">Kölbel et al.
+                                2008</bibl>, 14. Die Daten geben den Tag an, an dem
+                            Humboldt und <persName key="H0000177">Forster</persName> am fraglichen Ort eingetroffen sind, d. h. nicht
+                            unbedingt jenes Datum, an dem Humboldt den entsprechenden Eintrag
+                            verfasst oder begonnen hat.</note>
+                    </seg></head>
+                <p>Viel Tuchmanufakturen in <hi rendition="#aq"><placeName key="H0017265"><choice>
+                                <abbr>Wiltsh.</abbr>
+                                <expan>Wiltshire</expan>
+                            </choice></placeName></hi><supplied>,</supplied>
+                    <lb/><note hand="#author" place="right">
+                        <p>Den hohen Preis der Wolle <lb/>im <choice>
+                                <abbr>J.</abbr>
+                                <expan>Jahre</expan>
+                            </choice> 1790 schrieb man <lb/>in <choice>
+                                <abbr>öffentl.</abbr>
+                                <expan>öffentlichen</expan>
+                            </choice> Blättern dem <lb/>Steigen <choice>
+                                <abbr>d.</abbr>
+                                <expan>der</expan>
+                            </choice> Tuchmanufakturen <lb/>zu. Die höchsten Preise
+                                waren<supplied>:</supplied>
+                            <lb/><add place="left"><hi rendition="#aq"><?oxy_comment_start author="thomas" timestamp="20180903T183117+0200" comment="Was ist &quot;Welch&quot;?"?>Welch<?oxy_comment_end?>
+                                per lb. <seg type="comment">
+                                        <orig>1s. 3d.</orig>
+                                        <note xml:id="nyrh_4pz_32b" resp="#koelbel-et-al #CT">Bis 1971
+                                            wurde für Penny die Abkürzung „d“
+                                            (lat. denarius) verwendet. „s.“ steht demnach für Shilling, zur Transkription vgl. auch <bibl sameAs="#zotero-667230-9PZUBNH7">Bruhns 1872</bibl>, I, 290.</note>
+                                    </seg> <placeName key="H0017410">South
+                                        Down</placeName> 1s. 2d.
+                                <lb/><placeName key="H0017223">Norfolk</placeName> 1s. <lb/>1d. <placeName key="H0017262">West
+                                    <lb/>Country</placeName> 8d<supplied>.</supplied>
+                                    <lb/>halfpen̅y</hi>.</add></p>
+                        <p>Ueber <choice>
+                                <abbr>engl.</abbr>
+                                <expan>englische</expan>
+                            </choice> Schaafzucht <lb/>im Allgemeinen und <lb/>über ihr Alter, da
+                            <lb/>schon für die <choice>
+                                <abbr>Röm.</abbr>
+                                <expan>Römischen</expan>
+                            </choice>
+                            <lb/>Kaiser <choice>
+                                <orig>Wollene</orig>
+                                <reg>wollene</reg>
+                            </choice> Zeuge <lb/>zu <hi rendition="#aq"><placeName key="H0017266">Winchester</placeName></hi> ge<g ref="#typoHyphen"/><lb break="no"/>macht wurden <choice>
+                                <abbr>S.</abbr>
+                                <expan>Siehe</expan>
+                            </choice>
+                            <hi rendition="#aq"><choice>
+                                    <abbr>D.</abbr>
+                                    <expan>Doctor</expan>
+                                </choice>
+                                <lb/><persName key="H0016931">Anderson</persName></hi><del rendition="#s">’s</del> im <bibl sameAs="zotero-667230-7ZSC2MUP"><hi rendition="#aq">report <lb/>of the Comittee of <lb/>the highland
+                                        Socie<g ref="#typoHyphen"/><lb break="no"/>ty, to whom the
+                                        sub<g ref="#typoHyphen"/><lb break="no"/>ject of Shetland
+                                    <lb/>Wool was <subst>
+                                        <del rendition="#s">committed</del>
+                                        <lb/>
+                                        <add place="intralinear">referred</add></subst></hi>. 1790.</bibl></p>
+                    </note><hi rendition="#aq"><placeName key="H0017194"><choice>
+                                <abbr>Glocestersh.</abbr>
+                                <expan>Glocestershire</expan>
+                            </choice></placeName></hi> und <hi rendition="#aq"><placeName key="H0017407"><choice>
+                                <abbr>Sommersetsh.</abbr>
+                                <expan>Sommersetshire</expan>
+                            </choice></placeName></hi>, be<g ref="#typoHyphen"/><lb break="no"/>sonders um <hi rendition="#aq"><placeName key="H0005168">Bath</placeName></hi>
+                    in <hi rendition="#aq"><placeName key="H0017604">Trow<g ref="#typoHyphen"/><lb break="no"/>bridge</placeName></hi> und <hi rendition="#aq"><placeName key="H0017568">Bradford</placeName></hi>. Die Schaa<g ref="#typoHyphen"/><lb break="no"/>fe in diesen <choice>
+                        <abbr>südwestl.</abbr>
+                        <expan>südwestlichen</expan>
+                    </choice> Grafschaf<g ref="#typoHyphen"/><lb break="no"/>ten sind zweischürig,
+                    in <hi rendition="#aq"><placeName key="H0017244">Leicester-</placeName></hi><supplied>,</supplied>
+                    <lb/><hi rendition="#aq"><placeName key="H0017249">Lincoln-</placeName></hi>
+                    <choice>
+                        <abbr>ud</abbr>
+                        <expan>und</expan>
+                    </choice>
+                    <hi rendition="#aq"><placeName key="H0017259">Warwickshire</placeName></hi> aber <lb/>größtentheils einschürig. Die Fär<g ref="#typoHyphen"/><lb break="no"/>ber drängen sich alle an den <lb/><hi rendition="#aq"><placeName key="H0017294">Avon</placeName></hi>,
+                    dessen reines Wasser zum <lb/>Färben von vorzüglicher Güte <lb/>ist.</p>
+                <p>Es fehlt noch immer an genau<g ref="#typoHyphen"/><lb break="no"/>en <choice>
+                        <abbr>chem.</abbr>
+                        <expan>chemischen</expan>
+                    </choice> Untersuchungen über <lb/>den Einfluß <add place="intralinear" hand="#author">verschiedener</add> Wasser<g ref="#typoHyphen"/><lb break="no"/>arten beim Färben, Bierbrauung<supplied>.</supplied>
+                    <lb/>Es ist eben so unverständig<supplied>,</supplied>
+                    <lb/>den Vorzug des <choice>
+                        <abbr>engl.</abbr>
+                        <expan>englischen</expan>
+                    </choice> Biers<supplied>,</supplied>
+                    <lb/>der <choice>
+                        <abbr>engl.</abbr>
+                        <expan>englischen</expan>
+                    </choice> Färbereien <unclear reason="illegible" cert="high" resp="#DE"><choice>
+                            <orig>p</orig>
+                            <reg resp="#DE">p.</reg>
+                        </choice></unclear> dem <choice>
+                        <abbr>engl.</abbr>
+                        <expan>englischen</expan>
+                    </choice>
+                    <lb/>Wasser zuzuschreiben, als es vor<g ref="#typoHyphen"/><lb break="no"/>eilig ist den Einfluß des
+                    Wassers, <lb/><choice>
+                        <abbr>d.</abbr>
+                        <expan>der</expan>
+                    </choice> Athmosphäre bei <unclear reason="illegible" cert="low" resp="#CT">so
+                        schweren</unclear> <lb/>
+                    <pb facs="#f0004" n="[2v]"/>
+   <fw type="folNum">2.</fw><choice>
+                        <abbr>chem.</abbr>
+                        <expan>chemischen</expan>
+                    </choice> Prozessen, <unclear reason="illegible" cert="low" resp="#CT">da
+                        Gährungen</unclear>
+                    <lb/>für die es keine <unclear reason="illegible" cert="high" resp="#CT">Messer</unclear> giebt, <lb/>im Spiel sind, abzuleugnen.</p>
+                <p><hi rendition="#aq"><placeName key="H0017326">Chippenham</placeName></hi> war
+                        <del rendition="#s"><unclear reason="illegible" cert="low" resp="#CT">fürst</unclear></del>
+                    <lb/>die Residenz <persName key="H0016965">Alfreds <choice>
+                            <abbr>d.</abbr>
+                            <expan>des</expan>
+                        </choice> Gro<g ref="#typoHyphen"/><lb break="no"/>ßen.</persName><note hand="#author" place="right"><seg type="comment">
+                            <orig>Alfred entriß 884 <lb/>den Dänen <hi rendition="#aq"><placeName key="H0017182">Rochester</placeName></hi>
+                                <lb/>und <hi rendition="#aq"><placeName key="H0011492">London</placeName></hi>.</orig>
+                            <note xml:id="nyrr_nrz_32b" resp="#koelbel-et-al">Die Angabe 884 ist
+                                offensichtlich nicht korrekt, <persName key="H0016965">Alfred</persName> eroberte 886 London.</note>
+                        </seg></note> Ueberhaupt scheint damals <lb/>der <choice>
+                        <abbr>westl.</abbr>
+                        <expan>westliche</expan>
+                    </choice> Theil von <placeName key="H0005653">England</placeName>
+                    <lb/>der angebautere gewesen zu <lb/>sein. Jetzt hat sich die <lb/>Kultur ganz
+                    gegen Osten <lb/>gezogen. War das ältere <lb/>Verhältniß nicht natürlicher,
+                    <lb/>da die Einfahrt in den <hi rendition="#aq"><placeName key="H0017571">Bristol <lb/>Channel</placeName></hi> bequemer, als die in <lb/>die
+                        <placeName key="H0009364">Themse</placeName>, <subst>
+                        <del rendition="#s">ist</del>
+                        <add place="superlinear">da</add>
+                    </subst><metamark/> das <choice>
+                        <abbr>westl.</abbr>
+                        <expan>westliche</expan>
+                    </choice>
+                    <lb/><placeName key="H0005653">England</placeName> an Ausfuhrprodukten
+                    <lb/>reicher, die Kommunikation <lb/>mit <hi rendition="#aq"><placeName key="H0006720">Ireland</placeName></hi> näher und <lb/><hi rendition="#aq"><placeName key="H0017442">Milford</placeName></hi> ein
+                    sicherer Hafen <lb/>für die Flotte als <hi rendition="#aq"><placeName key="H0008381">Ports<g ref="#typoHyphen"/><lb break="no"/>mouth</placeName></hi> ist? Allerdings. Aber das <lb/>auswärtige
+                    Interesse gab al<g ref="#typoHyphen"/><lb break="no"/>lem eine entgegengesezte
+                        Rich<lb break="no"/>tung. Der flämische Handel <lb/>
+                    <pb facs="#f0005" n="[3r]"/>
+                    <fw type="folNum">3.</fw> machte die Schiffarth im <placeName key="H0002557">Kanale</placeName>
+                    <lb/>lebhaft, das <orgName key="H0016796">Contoir der Hanse <lb/>in <hi rendition="#aq"><placeName key="H0011492">London</placeName></hi></orgName> brachte diese Stadt <lb/>empor, die <choice>
+                        <abbr>engl.</abbr>
+                        <expan>englische</expan>
+                    </choice> Wolle ging <lb/>nun von da aus, die unauf<g ref="#typoHyphen"/><lb break="no"/>hörlichen Zwistigkeiten– mit <placeName key="H0004801">Frank<g ref="#typoHyphen"/><lb break="no"/>reich</placeName> machten
+                    eine Flotte und <lb/>also auch einen Hafen im <lb/><placeName key="H0002557">Kanale</placeName> nothwendig, die Barbarei <lb/>in welcher <placeName key="H0002557">Ireland</placeName> so spät <lb/>noch lag, ließ <choice>
+                        <sic>das natürliche</sic>
+                        <corr>den natürlichen</corr>
+                    </choice>
+                    <lb/>Handelsverkehr zwischen <placeName key="H0005653">Eng<g ref="#typoHyphen"/><lb break="no"/>land</placeName> und <placeName key="H0006720">Ireland</placeName> nicht auf<g ref="#typoHyphen"/><lb break="no"/>blühen …
+                    … .</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-07"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0017407">Sommersetshire</placeName></hi></hi></date></head>
+                    <p><seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Dipsacus
+                            sylvestris</name></hi></orig>
+                        <note xml:id="nv3z_5vz_32b" resp="#koelbel-et-al">Dipsacus sylvestris: Wilde
+                            Karde, die Art entspricht heute teilweise der Dipsacus fullonum.</note>
+                    </seg>, <hi rendition="#aq"><seg type="comment">
+                            <orig><name type="plant"><choice>
+                                        <abbr>D.</abbr>
+                                        <expan>Dipsacus</expan>
+                                    </choice> fullonum</name></orig>
+                            <note xml:id="nfkc_rwz_32b" resp="#koelbel-et-al">Dipsacus fullonum:
+                                Weberkarde, die Art entspricht heute teilweise der Dipsacus sativus
+                                = Weberkarde.</note>
+                        </seg></hi>
+                    <lb/>und wenn ich recht gesehen, auch <lb/><seg type="comment">
+                        <orig><name type="plant"><hi rendition="#aq"><choice>
+                                        <abbr>D.</abbr>
+                                        <expan>Dipsacus</expan>
+                                    </choice> laciniatus</hi></name></orig>
+                        <note xml:id="nzf2_hwz_32b" resp="#koelbel-et-al #DE">Dipsacus laciniatus:
+                            gelappte oder Schlitzblatt-Karde. Sie ähnelt der Wilden Karde (Dipsacus
+                            fullonum).</note>
+                    </seg> wachsen in <hi rendition="#aq"><placeName key="H0017407"><choice>
+                                <abbr>Som<g ref="#typoHyphen"/><lb break="no"/>mersetsh.</abbr>
+                                <expan>Som<g ref="#typoHyphen"/><lb break="no"/>mersetshire</expan>
+                            </choice></placeName></hi> und <hi rendition="#aq"><placeName key="H0017194"><choice>
+                                <abbr>Glocestersh.</abbr>
+                                <expan>Glocestershire</expan>
+                            </choice></placeName></hi> wild. <lb/><persName key="H0004551">Linne</persName> hielt gewiß mit Un<g ref="#typoHyphen"/><lb break="no"/>recht <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>D.</abbr>
+                                        <expan>Dipsacus</expan>
+                                    </choice> fullonum</name></hi>, der für <choice>
+                                <abbr>d.</abbr>
+                                <expan>die</expan>
+                            </choice>
+                            <lb/><choice>
+                                <abbr>Tuchmanufakt.</abbr>
+                                <expan>Tuchmanufaktur</expan>
+                            </choice> so wichtig ist</orig>
+                        <note xml:id="nv5b_vyh_cfb" resp="#FS">Die Blütenköpfe von Dipsacus fullonum
+                            wurden zum Aufrauen von Wollstoffen genutzt.</note>
+                    </seg>, für <lb/>
+                    <pb facs="#f0006" n="[3v]"/>
+                    <fw type="folNum">4.</fw>
+                    <seg type="comment">
+                        <orig>eine bloße Abart von <hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>D.</abbr>
+                                        <expan>Dipsacus</expan>
+                                    </choice>
+                                    <lb/>sylvestris</name>
+                            </hi></orig>
+                        <note xml:id="nsvh_n13_cfb" resp="#FS">Vgl. <bibl sameAs="zotero-667230-9P4MAPB3">Linné
+                                1753</bibl>, I, 97.</note>
+                    </seg>. S. <persName key="H0016820">Roth</persName>s <bibl sameAs="zotero-667230-DDKGXXAE"><choice>
+                            <abbr>Bot.</abbr>
+                            <expan>Botanische</expan>
+                        </choice>
+                        <choice>
+                            <abbr>Abhandl.</abbr>
+                            <expan>Abhandlungen</expan>
+                        </choice>
+                        <lb/>p<supplied>.</supplied> 18</bibl>. Ob aber <name type="plant"><choice>
+                            <abbr>D.</abbr>
+                            <expan>Dipsacus</expan>
+                        </choice>
+                        <choice>
+                            <abbr>fullon</abbr>
+                            <expan>fullonum</expan>
+                        </choice></name> in <lb/><placeName key="H0005653">England</placeName>
+                    einheimisch <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder</expan>
+                    </choice> nur <lb/>aus den Gärten der <choice>
+                        <abbr>Tuchmanufakt.</abbr>
+                        <expan>Tuchmanufakturen</expan>
+                    </choice>
+                    <lb/>verstreut sei, entscheide ich nicht. <lb/>In <placeName key="H0005517">Deutschland</placeName> ist das eben <lb/>so
+                        zweifelhaft<supplied>.</supplied>
+                    <bibl sameAs="zotero-667230-IGP4ZCEN">Roth <hi rendition="#aq">Flor. ger<g ref="#typoHyphen"/><lb break="no"/>man. II</hi>
+                            p<supplied>.</supplied> 162</bibl>.</p>
+                    <p>Die Grafschaft enthält <seg type="comment">
+                        <orig><name type="mineral">Gal<g ref="#typoHyphen"/><lb break="no"/>mei</name></orig>
+                        <note xml:id="nn4z_3xz_32b" resp="#koelbel-et-al">Galmei: bergmännische
+                            Bezeichnung für Zinkerze, z. B. Zinkspat. Die Bezeichnung dieser Erze
+                            findet sich bereits bei <persName key="H0006329">A. G.
+                            Werner</persName>.</note>
+                    </seg>, <seg type="comment">
+                        <orig><name type="mineral">Blei</name></orig>
+                        <note xml:id="ngy5_lxz_32b" resp="#koelbel-et-al">Blei: Die hier von
+                            Humboldt verwendete Bezeichnung kann sich nur auf Bleierze beziehen, da
+                            Blei gediegen nicht vorkommt.</note>
+                    </seg> (das nicht so bieg<lb break="no"/>sam als das <placeName key="H0005512"><hi rendition="#aq">Derbyshir</hi></placeName>sche
+                    <lb/>ist) und <seg type="comment">
+                        <orig><name type="mineral">Röthel</name></orig>
+                        <note xml:id="nu5y_nxz_32b" resp="#koelbel-et-al">Röthel (heute Rötel):
+                            Rotstein, Farberde lateritischer Herkunft. Besteht aus einem Gemisch von
+                            Eisenoxiden, Eisenhydroxiden und Tonmineralien. Rötel wird auch heute
+                            noch als Anstrichfarbe, als Putz- und Poliermittel verwendet.</note>
+                    </seg>. Mit dem <lb/><name type="mineral">Röthel</name> zeichnet man die hie<lb break="no"/>sigen Schaafe und verderbt die <lb/>Wolle <metamark/><add place="superlinear">damit</add>, wie die Spanier die <lb/>ihrige mit <seg type="comment">
+                        <orig><name type="mineral">Okker</name></orig>
+                        <note xml:id="nilc_sxz_32b" resp="#koelbel-et-al">Okker (heute Ocker):
+                            Gelblich-braunes, erdiges Brauneisenerz, meist stark mit Ton
+                            vermengt.</note>
+                    </seg> verderben. <lb/>Die neuen Vorschläge (<bibl sameAs="zotero-667230-VFSRIQ5H"><hi rendition="#aq">Lewis</hi>
+                        <lb/>Zusammenhang der Künste <hi rendition="#aq">II</hi> 76</bibl>) <lb/>mit
+                        <seg type="comment">
+                        <orig>Talg</orig>
+                        <note xml:id="nbt2_wxz_32b" resp="#koelbel-et-al">Talg: Fett besonders vom
+                            Rind und Hammel, wird bei 60–65° C ausgeschmolzen. Stearin und Palmitin
+                            werden heute in der Seifenindustrie sowie für Margarine- und
+                            Salbenherstellung verwendet.</note>
+                    </seg>, <seg type="comment">
+                        <orig>Theer</orig>
+                        <note xml:id="ntbh_xxz_32b" resp="#koelbel-et-al">Theer: heute Teer, wird
+                            bei der Verkokung von Steinkohle gewonnen. Dabei bildet sich eine braune
+                            bis schwarze zähe Flüssigkeit. Teer wird auch heute noch zur Herstellung
+                            u. a. von Farbstoffen verwendet.</note>
+                    </seg> und <seg type="comment">
+                        <orig>Kohlenstaub</orig>
+                        <note xml:id="ntxv_zxz_32b" resp="#koelbel-et-al">Kohlenstaub: staubförmige
+                            Kohle.</note>
+                    </seg>
+                    <lb/>zu zeichnen, sind also noch im<g ref="#typoHyphen"/><lb break="no"/>mer nicht befolgt.</p>
+                    <p>Am <hi rendition="#aq"><placeName key="H0017294">Avon</placeName></hi>
+                        bei <hi rendition="#aq"><placeName key="H0005168">Bath</placeName></hi> <unclear reason="illegible" cert="high" resp="#CT #DE">wo</unclear> die <lb/>
+                        <pb facs="#f0007" n="[4r]"/>
+   <fw type="folNum">5.</fw>
+                    Erdschichten zu Tage sind, <lb/>sieht man daß ein <seg type="comment">
+                        <orig><hi rendition="#u" hand="#unknown_pencil"><name type="mineral">Pisolithen<supplied>-</supplied></name></hi></orig>
+                        <note xml:id="nebc_cyz_32b" resp="#DE">Pisolith, Erbsenstein, nach <bibl sameAs="zotero-667230-E7KHPX85">Werner 1789a</bibl>, 378 eine
+                            Unterart von Kalkstein. Pisolith ist ein Sedimentgestein, das
+                            überwiegend aus Pisoiden besteht. Pisoide sind rundliche, üblicherweise
+                            aus Kalk gebildete Körner, die sich konzentrisch um einen Kern herum
+                            gebildet haben.</note>
+                    </seg><note place="right" hand="#unknown_pencil"><metamark>?</metamark></note><lb/>und <name type="mineral">Muschelkalk</name>,
+                    von einer leichten <lb/><subst><del rendition="#s"><unclear reason="illegible" cert="high" resp="#CT #DE">kl </unclear></del><add place="intralinear"><name type="mineral">Thon</name>masse</add></subst> bedekt, hier auf <lb/>einem gräulichen, quarzreichen <lb/><name type="mineral">Sandstein</name> ruhen.</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-08"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0017194">Gloucestershire</placeName></hi></hi></date></head>
+                    <p>Der ächte <hi rendition="#aq"><placeName key="H0017194"><choice><abbr>Gloc.</abbr><expan>Glocestershire</expan></choice></placeName></hi><supplied>-</supplied>Käse geht nach
+                        <lb/><hi rendition="#aq"><placeName key="H0017570">Bristol</placeName></hi> und von da nach <placeName key="H0007952">Westin<g ref="#typoHyphen"/><lb break="no"/>dien</placeName>. Der meiste <hi rendition="#aq"><placeName key="H0017194"><choice><abbr>Gloc.</abbr><expan>Glocestershire</expan></choice></placeName></hi><supplied>-</supplied>Käse
+                    <lb/>den man in <hi rendition="#aq"><placeName key="H0011492">London</placeName></hi> sieht,
+                    <lb/>kommt aus <hi rendition="#aq"><placeName key="H0017265">Wiltshire</placeName></hi>.</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-13"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0008761">Matlock</placeName></hi></hi></date></head>
+                            <p>An den <name type="mineral">Kalk</name>wänden der <hi rendition="#aq"><placeName key="H0017349">Heights <lb/>of
+                        Abraham</placeName></hi>, und in dem <hi rendition="#aq">lo<g ref="#typoHyphen"/><lb break="no"/>ver’s Walk</hi> an dem <hi rendition="#aq"><placeName key="H0017339">Derwent</placeName></hi>
+                    (dem <lb/><hi rendition="#aq">old Bath</hi> gegenüber) sah ich mit <lb/>dem
+                    schönen <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Hypnum crista castren<g ref="#typoHyphen"/><lb break="no"/>sis</name></hi></orig>
+                        <note xml:id="nkx3_szz_32b" resp="#koelbel-et-al">Hypnum crista castrensis:
+                            heute Ptilium crista-castrensis (Hedw.) De Not. – Federmoos,
+                            Farnwedelmoos.</note>
+                    </seg> (womit der ganze <seg type="comment">
+                        <orig>Bruch bei <lb/><placeName key="H0010897">Göttingen</placeName></orig>
+                        <note xml:id="nxph_c11_j2b" resp="#koelbel-et-al">Bruch bei Göttingen:
+                            wahrscheinlich ist der Steilabbruch des Muschelkalkplateaus, das den
+                            Göttinger Wald nach Osten absäumt, gemeint.</note>
+                    </seg> bedekt ist)<supplied>,</supplied> dem <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>Lich.</abbr>
+                                        <expan>Lichen</expan>
+                                    </choice>
+                                    <lb/>capperatus</name></hi></orig>
+                        <note xml:id="ndvm_j11_j2b" resp="#koelbel-et-al">Lichen capperatus: heute
+                            Flavoparmelia caperata (l.) Hale – Schlüsselflechte.</note>
+                    </seg>, dem <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>L.</abbr>
+                                        <expan>Lichen</expan>
+                                    </choice> calcareus</name></hi></orig>
+                        <note xml:id="nx1f_m11_j2b" resp="#koelbel-et-al">Lichen calcareus: heute
+                            Aspicilia calcarea (L.) Körb. – Kalk-Hohlschildflechte.</note>
+                    </seg>, und <lb/>der <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Verrucaria pertusa
+                                        Willd<supplied>.</supplied></name></hi></orig>
+                        <note xml:id="nxjv_411_j2b" resp="#koelbel-et-al">Verrucaria pertusa Willd.:
+                            heute Pertusaria pertusa (Weigel) Tuck. – Lochflechte.</note>
+                    </seg> auch <lb/>
+                                <pb facs="#f0008" n="[4v]"/>
+   <fw type="folNum">6.</fw>
+                    das <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>Lich.</abbr>
+                                        <expan>Lichen</expan>
+                                    </choice> tartareus</name></hi></orig>
+                        <note xml:id="nxsg_t11_j2b" resp="#koelbel-et-al">Lichen tartareus: heute
+                            Ochrolechia tartarea (L.) A. Massal. – Weinsteinflechte.</note>
+                    </seg>, dem völlig <lb/>ähnlich das ich in <placeName key="H0005517">Teutschland</placeName>
+                    <lb/><subst>
+                        <del rendition="#s">auf erdigen Standorten z. B. <lb/><unclear reason="covered" cert="low" resp="#CT #DE">bei <placeName key="H0007904">Waake</placeName> und <placeName key="H0017114">Rheinhausen</placeName> <lb/>in Nieder-Sachsen
+                                bemerkt.</unclear></del>
+                        <add place="right">vor <placeName key="H0006803">Hannover</placeName>
+                            sahe</add>
+                    </subst>. <lb/>Das <hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>L.</abbr>
+                                <expan>Lichen</expan>
+                    </choice> tartareus</name></hi> wird häufig <lb/>in <hi rendition="#aq"><placeName key="H0017208">Yorkshire</placeName></hi> und im <placeName key="H0017614"><hi rendition="#aq">Peak</hi>
+                    <lb/>von <hi rendition="#aq"><choice>
+                                <abbr>Derbysh.</abbr>
+                                <expan>Derbyshire</expan>
+                            </choice></hi></placeName> gesamlet, nach <lb/><hi rendition="#aq"><placeName key="H0008639">Manchester</placeName></hi> gebracht und dort
+                    <lb/>in <subst><del rendition="#ow">den</del><add place="across">die</add></subst> Färbereien <subst><del rendition="#s">geb</del><add place="intralinear">ver</add></subst><g ref="#typoHyphen"/><lb break="no"/>kauft. Es giebt mit Urin
+                    <lb/>präparirt (wie <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>L.</abbr>
+                                        <expan>Lichen</expan>
+                                    </choice> saxatilis</name></hi></orig>
+                        <note xml:id="nnfm_db1_j2b" resp="#koelbel-et-al">Lichen saxatilis: heute
+                            Parmelia saxatilis (L.) Ach.</note>
+                    </seg><supplied>,</supplied>
+                    <lb/><hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>L.</abbr>
+                                <expan>Lichen</expan>
+                            </choice>
+                            <choice>
+                                <abbr>calcar.</abbr>
+                                <expan>calcareus</expan>
+                            </choice></name></hi> und <hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>Verruc.</abbr>
+                                <expan>Verrucaria</expan>
+                            </choice> pertusa</name></hi>) <lb/>eine schöne purpurrothe Far<g ref="#typoHyphen"/><lb break="no"/>be, bei der man <unclear reason="illegible" cert="high" resp="#CT">den</unclear> theuren <lb/><seg type="comment">
+                        <orig>Erd- und Kräuterorseillen</orig>
+                        <note xml:id="nnq5_fb1_j2b" resp="#DE">Orseille ist die Bezeichnung eines
+                            roten Farbstoffs, der aus Mosen und Flechten gewonnen wird. Diese
+                            stammen vornehmlich von den Kanarischen Inseln, den Azoren, aus
+                            Frankreich und Italien. Die Unterteilung in „Erd- und Kräuterorseille“
+                            bezieht sich auf die Qualität und den Preis des Rohstoffes: Während die
+                            aus Frankreich stammenden Flechten oftmals Verunreinigungen beinhalten
+                            und daher als Erdorseille bezeichnet werden, ist die von den Kanaren und
+                            Azoren stammende Kräuterorseille hochwertiger und entsprechend
+                            teurer.</note>
+                    </seg> (<seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>L.</abbr>
+                                        <expan>Lichen</expan>
+                        </choice> Roc<note place="right" hand="#unknown_pencil"><metamark>?</metamark></note><lb break="no"/>cella</name></hi></orig>
+                        <note xml:id="npgs_pb1_j2b" resp="#koelbel-et-al">Lichen rocella: heute
+                            Roccella fuciformis (L.) DC – Färberflechte.</note>
+                    </seg> und <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>L.</abbr>
+                                        <expan>Lichen</expan>
+                                    </choice>
+                                    <choice>
+                                        <abbr>Parell.</abbr>
+                                        <expan>Parella</expan>
+                                    </choice></name></hi></orig>
+                        <note xml:id="nkmh_sb1_j2b" resp="#koelbel-et-al">Lichen parella: heute
+                            Ochrolechia paralla (L.) Massal. – kein gebräuchlicher deutscher
+                            Name.</note>
+                    </seg>) entbehren <lb/>kann.</p>
+                <p><hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>calcar.</abbr>
+                                    <expan>calcareus</expan>
+                                </choice></name></hi><supplied>,</supplied>
+                        <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>saxatil.</abbr>
+                                    <expan>saxatilis</expan>
+                                </choice></name></hi><supplied>,</supplied>
+                        <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>tar<g ref="#typoHyphen"/><lb break="no"/>tar.</abbr>
+                                    <expan>tartareus</expan>
+                                </choice></name></hi> und <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>Verr.</abbr>
+                                    <expan>Verrucaria</expan>
+                                </choice> pertusa</name></hi> wachsen <lb/>fast im ganzen nördlichen
+                            <lb/><placeName key="H0005696">Europa</placeName> wild – aber man liest
+                        <lb/>die patriotischen Schriften<lb/>
+                        <pb facs="#f0009" n="[5r]"/>
+                        <fw type="folNum">7.</fw> von <hi rendition="#aq"><persName key="H0017039">Dambourney</persName></hi> (<bibl sameAs="zotero-667230-VRZ9P8U9"><hi rendition="#aq">procedés sur <lb/>les teintures solides que nos
+                                <lb/>végétaux indigenes communiquent <lb/>aux laines <choice>
+                                    <orig>p</orig>
+                                    <reg>p.</reg>
+                                </choice> Paris</hi> 1786</bibl>) und <lb/><persName key="H0011940">Hofman</persName> (<bibl sameAs="zotero-667230-893N9G6S"><hi rendition="#aq">de vario lichen. vsu <lb/>Erlangae</hi> 1786</bibl>)
+                        – und <choice>
+                            <sic>verschrei<g ref="#typoHyphen"/><lb break="no"/>ben</sic>
+                            <corr>verschreibt</corr>
+                        </choice> noch immer Farbstoffe <lb/>aus den <placeName key="H0000346"><choice>
+                                <abbr>Canar.</abbr>
+                                <expan>Canarischen</expan>
+                            </choice></placeName><supplied>,</supplied>
+                        <placeName key="H0000359">Capverdischen</placeName>
+                        <lb/>und <placeName key="H0010922">Griechischen Inseln</placeName>
+                        <choice>
+                            <abbr>od.</abbr>
+                            <expan>oder</expan>
+                        </choice> aus <lb/>dem <placeName key="H0004801"><?oxy_comment_start author="thomas" timestamp="20180720T124409+0200" comment="@UP: Ref. auf &quot;Frankreich&quot; ok, oder 
+a) nur &quot;Frankreich&quot; in den &lt;placeName&gt;-Tag nehmen oder
+b) eigenen Eintrag &quot;Südfrankreich&quot; anlegen?!"?>südlichen
+                            Frankreich<?oxy_comment_end?></placeName>, die <lb/>unsere einheimischen
+                        Flechten <lb/>uns darbieten könnten. Wir <lb/>kaufen <seg type="comment">
+                            <orig><name type="plant">Lakmus</name></orig>
+                            <note xml:id="nu2z_ch1_j2b" resp="#koelbel-et-al">Lackmus: Farbstoff der
+                                Flechte Rocella fuciformis.</note>
+                        </seg> vom Holländer <lb/>und Engländer und vergessen <lb/>daß dieser ihn
+                        von <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice> saxatilis</name></hi>
+                        <lb/>macht, das bei uns <choice>
+                            <abbr>jed.</abbr>
+                            <expan>jeder</expan>
+                        </choice>
+                        <lb/>Baum, jeder Pfahl, jeder <lb/>Stein trägt. <choice>
+                            <abbr>S.</abbr>
+                            <expan>Siehe</expan>
+                        </choice> von den <name type="plant">Lak<g ref="#typoHyphen"/><lb break="no"/>mus</name>fabriken bei <hi rendition="#aq"><placeName key="H0017245">Leith</placeName></hi> in <lb/><placeName key="H0010167">Schottland</placeName> zu <choice>
+                            <sic>der</sic>
+                            <corr>den</corr>
+                        </choice> 200 Men<g ref="#typoHyphen"/><lb break="no"/>schen sich mit <choice>
+                            <abbr>d.</abbr>
+                            <expan>dem</expan>
+                        </choice> Sammeln <lb/>des <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice> saxatilis</name></hi> beschäftigen <lb/>
+                        <pb facs="#f0010" n="[5v]"/>
+                        <fw type="folNum">8.</fw>
+                        <persName key="H0000064">Ferber</persName>s <bibl sameAs="zotero-667230-SB6TR75K">neue Beiträge zur <lb/><choice>
+                                <abbr>Mineralgesch.</abbr>
+                                <expan>Mineralgeschichte</expan>
+                            </choice>
+                            <hi rendition="#aq">I. p<supplied>.</supplied></hi> 455</bibl>. Un<g ref="#typoHyphen"/><lb break="no"/>sere Unwissenheit geht so<g ref="#typoHyphen"/><lb break="no"/>gar so weit, <seg type="comment">
+                            <orig>daß uns <persName key="H0016995">Ja<g ref="#typoHyphen"/><lb break="no"/>kobsson</persName> noch vorlügen durfte,</orig>
+                            <note xml:id="nv3p_wfq_m2b" resp="#koelbel-et-al #CT">Humboldt bezieht
+                                sich im Folgenden auf <bibl sameAs="zotero-667230-HZ5MAK62">Jacobsson 1781–1795</bibl>, II (1789), 544.</note>
+                        </seg>
+                        <lb/><name type="plant">Lakmus</name> werde aus <hi rendition="#aq"><seg type="comment">
+                                <orig><name type="plant">Croton <lb/><choice>
+                                            <abbr>tinctor</abbr>
+                                            <expan>tinctorium</expan>
+                                        </choice></name></orig>
+                                <note xml:id="np22_h3q_m2b" resp="#koelbel-et-al">Croton tinctorium
+                                    (Croton ti[n]ctorium): heute Chrozophora tinctoria, Familie der
+                                    Wolfsmilchgewächse, Färberkroton, Lackmuspflanze.</note>
+                            </seg></hi>, aus dem <hi rendition="#aq"><seg type="comment">
+                                <orig><name type="plant">Tournesol</name></orig>
+                                <note xml:id="nvvg_n3q_m2b" resp="#CT #DE">Tournesol: Farbstoff aus
+                                    der Pflanze Chrozophora tinctoria, die in Südfrankreich im
+                                    Umkreis der Ortschaft (Grand) Galargues gesammelt wurde.</note>
+                            </seg></hi>
+                        <lb/>von <hi rendition="#aq"><seg type="comment">
+                                <orig><placeName key="H0017188">Grand Galarques</placeName></orig>
+                                <note xml:id="nczs_3mq_m2b" resp="#DE">Vermutlich ist hiermit die
+                                    Gemeinde Galargues im Département Hérault in der Region
+                                    Okzitanien gemeint.</note>
+                            </seg></hi>, nicht <lb/>aus <seg type="comment">
+                            <orig><name type="plant">Orseille</name></orig>
+                            <note xml:id="na54_cnq_m2b" resp="#koelbel-et-al">Orseille: heute Lichen
+                                Roccella Lin. Flechtenart, die die bekannte Columbinfarbe
+                                gibt.</note>
+                        </seg> (<choice>
+                            <abbr>S.</abbr>
+                            <expan>Siehe</expan>
+                        </choice>
+                        <hi rendition="#aq"><persName key="H0017042">Demachy</persName></hi>
+                        <bibl sameAs="zotero-667230-JJURASEE"><hi rendition="#aq">La<g ref="#typoHyphen"/><lb break="no"/>borant im Großen
+                                    II<supplied>.</supplied> p<supplied>.</supplied></hi>
+                        273</bibl>) <lb/>gemacht. <bibl sameAs="zotero-667230-HZ5MAK62"><choice>
+                                <abbr>Technol.</abbr>
+                                <expan>Technologisches</expan>
+                            </choice> Wörterbuch <lb/><hi rendition="#aq">II<supplied>.</supplied></hi> 544.</bibl> Das <choice>
+                            <abbr>crÿptogam.</abbr>
+                            <expan>crÿptogamische</expan>
+                        </choice> Stu<lb break="no"/>dium ist nicht so unwichtig <lb/>als man es
+                        gewöhnlich glaubt. <lb/>Bei einer guten Staatswirth<g ref="#typoHyphen"/><lb break="no"/>schaft muß auch das <seg type="comment">
+                            <orig>Steinmooß</orig>
+                            <note xml:id="nmzr_c4q_m2b" resp="#koelbel-et-al">Steinmoos: Bezeichnung
+                                für die Flechte Lichen saxatilis – heute Parmelia saxatilis (L.)
+                                Ach. – Schlüsselflechte.</note>
+                        </seg>
+                        <lb/>mit zum Nationalreichthum bei<g ref="#typoHyphen"/><lb break="no"/>tragen. – Im Jahr 1300 <lb/>wurde der Farbstof des <hi rendition="#aq"><name type="plant"><choice>
+                                    <abbr>L.</abbr>
+                                    <expan>Lichen</expan>
+                                </choice> Roccel<g ref="#typoHyphen"/><lb break="no"/>la</name></hi>
+                        in <choice>
+                            <abbr>d.</abbr>
+                            <expan>der</expan>
+                        </choice>
+                        <placeName key="H0011424">Levante</placeName> dadurch <lb/>entdekt, daß ein
+                        florentiner <lb/>Kaufmann auf dem Felde <lb/>sein Wasser abschlug und
+                        <lb/>das Moos zu seinen Füßen <lb/>
+                        <pb facs="#f0011" n="[6r]"/>
+                        <fw type="folNum">9.</fw> sich färben sahe. <hi rendition="#aq"><bibl sameAs="zotero-667230-9SVCS8AA">Manni <lb/><choice>
+                                    <abbr>Comment.</abbr>
+                                    <expan>Commentario</expan>
+                                </choice> de <choice>
+                                    <abbr>Florentin.</abbr>
+                                    <expan>Florentinis</expan>
+                                </choice> in<g ref="#typoHyphen"/><lb break="no"/>ventis c.
+                                20</bibl></hi>. Wir leben in <lb/>einem Zeitalter, wo wir nicht
+                        <lb/>auf solche <choice>
+                            <abbr>chem.</abbr>
+                            <expan>chemischen</expan>
+                        </choice> Prozesse zu <lb/>harren brauchen. <choice>
+                            <abbr>S.</abbr>
+                            <expan>Siehe</expan>
+                        </choice>
+                        <seg type="comment">
+                            <orig>meine <lb/><hi rendition="#aq"><choice>
+                                        <abbr><hi rendition="#aq">MSS.</hi></abbr>
+                                        <expan>Manuskripte</expan>
+                                    </choice></hi> zur <hi rendition="#aq"><choice>
+                                        <abbr>Mater.</abbr>
+                                        <expan>Materia</expan>
+                                    </choice> technologica <lb/>plantae tinctor. n.</hi> 468</orig>
+                            <note xml:id="nxlj_2rq_m2b" resp="#koelbel-et-al #DE">Die erwähnten
+                                Manuskripte Humboldts konnten bisher nicht aufgefunden
+                                werden.</note>
+                        </seg>.</p>
+                    <p><seg type="comment">
+                        <orig><hi rendition="#aq"><persName key="H0017072">Mohr</persName></hi> sagt noch in seinem <lb/><bibl sameAs="zotero-667230-RJAG9TK6"><hi rendition="#aq">Forsog til en
+                                    Islandsk Na<g ref="#typoHyphen"/><lb break="no"/>turhistorie
+                                    p<supplied>.</supplied></hi> 230</bibl></orig>
+                        <note xml:id="njjr_5kw_m2b" resp="#CT #DE">Im folgenden Absatz gibt Humboldt eine
+                            (auszugsweise) deutschsprachige Übersetzung des Lemmas „[Lichen]
+                            tartareus“ aus <bibl sameAs="zotero-667230-RJAG9TK6">Mohr 1786</bibl>, 230–232 wieder.</note>
+                    </seg></p>
+                    <p>„<hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>L.</abbr>
+                                <expan>Lichen</expan>
+                            </choice> tartareus</name></hi>, <seg type="comment">
+                        <orig><hi rendition="#u" hand="#unknown_pencil">Litunar</hi>moose</orig>
+                        <note xml:id="njgn_r1r_m2b" resp="#DE">Litunarmoose: Übertragung aus
+                            Litunarmosi, einem isländischer Trivialnamen für das Lichen
+                            tartareus.</note>
+                    </seg>,<note place="right" hand="#unknown_pencil"><metamark>?</metamark></note>
+                    <lb/><seg type="comment">
+                        <orig><choice>
+                                <sic>Hviddblik</sic>
+                                <corr resp="#DE">Hvidblik</corr>
+                            </choice></orig>
+                        <note xml:id="nd5y_51r_m2b" resp="#DE">Hvidblik: Norwegischer Trivialname
+                            für das Lichen tartareus.</note>
+                    </seg>
+                    <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder</expan>
+                    </choice>
+                    <seg type="comment">
+                        <orig><subst>
+                                <del rendition="#ow"><gap reason="illegible" unit="chars" quantity="1"/></del>
+                                <add place="across">K</add>
+                            </subst>orke</orig>
+                        <note xml:id="nand_dbr_m2b" resp="#DE">Korke: In Skandinavien gebräuchlicher
+                            Trivialname für das Lichen tartareus.</note>
+                    </seg>. Dies <lb/>Moos ist seit den ältesten <lb/>Zeiten in <placeName key="H0001715">Norwegen</placeName>, <placeName key="H0010177">Schweden</placeName>
+                    <lb/>und den <placeName key="H0004756">Farörinseln</placeName> und <placeName key="H0006739">Island</placeName>
+                    <lb/>zum Färben gebraucht worden. <lb/>Der Indigo und andere <choice>
+                        <abbr>ausländ.</abbr>
+                        <expan>ausländische</expan>
+                    </choice>
+                    <lb/>Farbstoffe haben jetzt den <lb/>Gebrauch desselben fast ganz
+                    <lb/>verdrängt. Der Vorwurf, daß <lb/>die Farbe daraus nicht so <lb/>hoch,
+                    glänzend und haltbar <lb/>
+                    <pb facs="#f0012" n="[6v]"/>
+                    <fw type="folNum">10.</fw> als die aus ostindischen Ma<g ref="#typoHyphen"/><lb break="no"/>terialien sei, ist ungegrün<g ref="#typoHyphen"/><lb break="no"/>det da auch bei der elendsten <lb/>Bereitung ohne Anwendung von <lb/>Salzen
+                    und anderen Bindemit<g ref="#typoHyphen"/><lb break="no"/>teln dieselbe oft so
+                        über<g ref="#typoHyphen"/><lb break="no"/>aus prächtig ausfällt. <choice>
+                        <abbr>Prof.</abbr>
+                        <expan>Professor</expan>
+                    </choice>
+                    <lb/><persName key="H0016868">Strom</persName> versichert in der <hi rendition="#aq"><?oxy_comment_start author="thomas" timestamp="20180807T170100+0200" comment="bibl: Zotero-Eintrag und entsprechende ID im @key fehlt noch! Verf. Hans Strøm, 1726 –1797, in der erwähnten Monatsschrift suchen!"?><bibl><seg type="comment">
+                                <orig>Maa<g ref="#typoHyphen"/><lb break="no"/>nedsskrivt fra
+                                    Christiania</orig>
+                                <note resp="#CT #DE #FS" xml:id="ntkw_3kk_y2b">Die hier genannte
+                                    Publikation konnte nicht mit Sicherheit identifiziert werden.
+                                    Möglicherweise handelt es sich um <bibl sameAs="zotero-667230-">Strøm 1787</bibl>.</note>
+                            </seg></bibl><?oxy_comment_end?></hi><note place="right" hand="#unknown_pencil"><metamark>?</metamark></note>
+                    <lb/>daß der <hi rendition="#aq"><choice>
+                            <sic>Hviddblik</sic>
+                            <corr resp="#DE">Hvidblik</corr>
+                        </choice></hi>
+                    <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder</expan>
+                    </choice>
+                    <hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>Lich.</abbr>
+                                <expan>Lichen</expan>
+                            </choice>
+                            <lb/><choice>
+                                <abbr>tartar.</abbr>
+                                <expan>tartareus</expan>
+                            </choice></name></hi> von <placeName key="H0001715">Norwegen</placeName>
+                    nach <lb/><placeName key="H0005653">England</placeName> gehe, wo man ihn <lb/>zu
+                    einer rothen und blauen <lb/>Farbe auf Wolle und Kattun <lb/>veredle. 1785
+                    gingen allein 2 <lb/>Schifsladungen von diesem <hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>Lich.</abbr>
+                                <expan>Lichen</expan>
+                            </choice>
+                            <lb/>tartareus</name></hi> von <placeName key="H0001715">Norwegen</placeName> nach <lb/><placeName key="H0005653">England</placeName>.<supplied>“</supplied></p>
+                <p>Die Schweden bereiten eine <lb/>braune Farbe, die sie <seg type="comment">
+                        <orig><hi rendition="#aq">Böte<g ref="#typoHyphen"/><lb break="no"/>let</hi></orig>
+                        <note xml:id="nhz4_b3r_m2b" resp="#DE">Es handelt sich um einen in Schweden
+                            auch „Byttelet“ genannten roten Farbstoff.</note>
+                    </seg> nennen aus dem <hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>lich</abbr>
+                                <expan>Lichen</expan>
+                            </choice>
+                            <lb/><choice>
+                                <abbr>tartar</abbr>
+                                <expan>tartareus</expan>
+                            </choice></name></hi>. <seg type="comment">
+                        <orig><bibl sameAs="zotero-667230-5JPQBINE">Fabricius Reise nach
+                                <lb/>Norwegen p<supplied>.</supplied> 66</bibl></orig>
+                                <note xml:id="nekx_d23_cfb" resp="#FS">Die gemeinte Passage in <bibl sameAs="zotero-667230-5JPQBINE">Fabricius 1779</bibl> befindet sich, anders als Humboldt es angibt, auf S. 64.</note>
+                    </seg>.</p>
+                <pb facs="#f0013" n="[7r]"/>
+   <fw type="folNum">11.</fw>
+                            <p>In <hi rendition="#aq"><placeName key="H0005512">Derbyshire</placeName></hi> heißt das <lb/><hi rendition="#aq"><name type="plant"><choice>
+                                <abbr>lich.</abbr>
+                                <expan>Lichen</expan>
+                            </choice>
+                            <choice>
+                                <abbr>tartar</abbr>
+                                <expan>tartareus</expan>
+                            </choice></name></hi>
+                    <seg type="comment">
+                        <orig><hi rendition="#aq"><foreign xml:lang="eng">welch liverwort[.] <lb/>It
+                                    is gathered for dyers and <lb/>gives a purple
+                                colour.</foreign></hi></orig>
+                        <note xml:id="nkrw_mnw_m2b" resp="#CT">Vgl. Pilkington 1789, 478: „Lichen <hi rendition="#i">tartareus</hi>. <hi rendition="#i">Welch
+                                    Liverwort</hi>. On rocks, common. — It is gathered for dyers,
+                            and gives a purple colour.“
+                        </note>
+                    </seg>
+                    <bibl sameAs="zotero-667230-3VJFTG7R"><foreign xml:lang="eng"><hi rendition="#aq">Pil<g ref="#typoHyphen"/><lb break="no"/>kington’s</hi>
+                            <hi rendition="#aq">View of the pre<g ref="#typoHyphen"/><lb break="no"/>sent state of Derbyshire
+                                <lb/>Vol. I p<supplied>.</supplied></hi> 478</foreign></bibl>.</p>
+                        </div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-12"><hi rendition="#u"><placeName key="H0017632">Poole’s hole</placeName>.</hi></date></head>
+                    <p>560 <hi rendition="#aq">yards</hi> lang. Sie liegt <lb/>im Südwesten von <hi rendition="#aq"><placeName key="H0017577">Buxton</placeName></hi>
+                    <lb/>und dem Flüßchen <hi rendition="#aq"><placeName key="H0017269">Wye</placeName></hi>, gegen <lb/>das hohe <name type="mineral">Kalk</name>gebirge <hi rendition="#aq"><placeName key="H0017295">Ax
+                            edge</placeName></hi>
+                    <lb/>zu. Weil die Höle eng ist <lb/>so bilden sich hier schönere Sta<g ref="#typoHyphen"/><lb break="no"/>laktiten, als die im <hi rendition="#aq"><placeName key="H0005519">Peak’s <lb/>hole</placeName></hi>. Die größten sind der
+                        <lb/><hi rendition="#aq">flitch of Bacon</hi> und der <lb/><hi rendition="#aq">queen of Scot’s pillar</hi> den <lb/>die unglückliche <seg type="comment">
+                        <orig><persName key="H0016846">Maria</persName></orig>
+                        <note xml:id="njp4_ntw_m2b" resp="#koelbel-et-al">Maria Stuart (1542–1587),
+                            Königin von Schottland 1542–1567. Nach mehreren Auseinandersetzungen
+                            floh sie 1568 von Schottland nach England, wo sie 19 Jahre in Haft
+                            genommen wurde. Wegen angeblicher Verschwörung gegen Elisabeth I. wurde
+                            sie 1587 enthauptet.</note>
+                    </seg> während <lb/>ihrer Gefangenschaft in <hi rendition="#aq"><placeName key="H0017325">Chats<lb break="no"/>worth</placeName></hi> besucht
+                    haben soll. <lb/>Ein kleiner Bach fließt aus <lb/>
+                    <pb facs="#f0014" n="[7v]"/>
+                    <fw type="folNum">12.</fw> der Höle heraus. Auf dem <lb/>Wege von <hi rendition="#aq"><placeName key="H0017577">Buxton</placeName></hi> bis
+                    zur <lb/>Höle fand ich häufig <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Saxi<g ref="#typoHyphen"/><lb break="no"/>fraga granulata</name></hi></orig>
+                        <note xml:id="ndyc_r5w_m2b" resp="#koelbel-et-al">Saxifraga granulata –
+                            Knöllchen-Steinbrech.</note>
+                    </seg> und <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant"><choice>
+                                        <abbr>S.</abbr>
+                                        <expan>Saxifraga</expan>
+                                    </choice> tri<g ref="#typoHyphen"/><lb break="no"/>dactylites</name></hi></orig>
+                        <note xml:id="nrnb_1vw_m2b" resp="#koelbel-et-al">Saxifraga tridactylites –
+                            Dreifinger-Steinbrech.</note>
+                    </seg>. An dem Eingange <choice>
+                        <abbr>d.</abbr>
+                        <expan>der</expan>
+                    </choice>
+                    <lb/>Höle sah ich <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Viola monta<g ref="#typoHyphen"/><lb break="no"/>na</name></hi></orig>
+                        <note xml:id="nh13_lvw_m2b" resp="#koelbel-et-al">Viola montana: heute Viola
+                            canina ssp. Montana – Berg-Veilchen, Unterart vom Hunds-Veilchen.</note>
+                    </seg>, <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Alchemilla
+                            vulgaris</name></hi></orig>
+                        <note xml:id="nflw_mvw_m2b" resp="#koelbel-et-al">Alchemilla vulgaris –
+                            Gewöhnlicher Frauenmantel.</note>
+                    </seg> und <lb/><seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Polypodium
+                            vulgare</name></hi></orig>
+                        <note xml:id="nlnw_4vw_m2b" resp="#koelbel-et-al">Polypodium vulgare –
+                            Gewöhnlicher Tüpfelfarn oder Engelsüß.</note>
+                    </seg>.</p>
+                            <p>Bei <hi rendition="#aq"><placeName key="H0017632">Poole’s
+                            hole</placeName></hi> sind viel <lb/>Kalkbrennereien im Freien. Denn <lb/>in <placeName key="H0005653">England</placeName> brennt man <name type="mineral">Kalk</name>
+                    <lb/>im Freien und Ziegel in <lb/>konischen Oefen, gerade um<g ref="#typoHyphen"/><lb break="no"/>gekehrt, als in <placeName key="H0005517">Deutschland</placeName>.</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-12"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0007225">Castleton</placeName></hi>.</hi><note place="right" hand="#unknown_pencil"><gap reason="illegible" unit="words" quantity="1"/>
+                                <?oxy_comment_start author="schnee" timestamp="20180905T163826+0200" comment="In Nemnich, Neueste Reise durch England [...], 1807 finden sich auf den Seiten 414, 415, 417 Erwähnungen von Castleton und der dortigen Höhlen, Mineralien, Wirtschaftszweige.   "?>418<?oxy_comment_end?></note></date></head>
+                    <p>Bei der <name type="mineral">Flußspat</name>rinne am <lb/>holen Wege nach <hi rendition="#aq"><placeName key="H0017577">Buxton</placeName></hi> zu,
+                    <lb/>der <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Gentiana
+                            amarella</name></hi></orig>
+                        <note xml:id="ngyk_wvw_m2b" resp="#koelbel-et-al">Gentiana amarella
+                            (Bitterer Enzian): Synonym zu Gentianella amarella: Bitterer
+                            Franzenenzian.</note>
+                    </seg>, de<g ref="#typoHyphen"/><lb break="no"/>ren Gelb mir hier von un<g ref="#typoHyphen"/><lb break="no"/>gewöhnlicher
+                    Schönheit schien.</p>
+                <p>Im
+                    <hi rendition="#aq"><placeName key="H0017441">Middelton
+                        dale</placeName></hi> (vor <lb/>
+                    <pb facs="#f0015" n="[8r]"/>
+   <fw type="folNum">13.</fw>
+                    <hi rendition="#aq"><placeName key="H0017415">Stoney-Middelton</placeName></hi><supplied>)</supplied> fand ich <lb/>in großer Menge <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Arenaria
+                                <lb/>saxatilis</name></hi></orig>
+                        <note xml:id="nf1b_yvw_m2b" resp="#koelbel-et-al">Arenaria saxatilis: heute
+                            Minuartia verna – Frühlings-Miere.</note>
+                    </seg>, diese seltene Pflanze, <lb/>die in <placeName key="H0005517">Deutschland</placeName> nur bei <lb/><placeName key="H0006810">Harzburg</placeName> am
+                        <placeName key="H0006809">Harze</placeName> entdekt <lb/>ist.</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-12"><hi rendition="#u"><hi rendition="#aq"><name type="mineral">Rowly ragg</name></hi>. <name type="mineral">Basalt</name></hi></date></head>
+                    <p>Auf der Straße nach <hi rendition="#aq"><placeName key="H0017345"><?oxy_comment_start author="thomas" timestamp="20180720T133328+0200" comment="Orts-Register Eintrag noch verbessern (Kommentar) und mit Geo-Link versehen!
+Vgl. https://de.wikipedia.org/wiki/Dudley
+Dabei prüfen, ob das hier gemeinte Dudley wirklich dasselbe wie in ART I ist!"?>Dud<g ref="#typoHyphen"/><lb break="no"/>ley<?oxy_comment_end?></placeName></hi> bei dem schönen Dorfe <lb/><hi rendition="#aq"><placeName key="H0017348">Hales owen</placeName></hi>
+                    liegt alles voll <lb/>von <hi rendition="#aq"><name type="mineral">Rowly
+                            ragg</name></hi>, den <hi rendition="#aq"><persName key="H0001332">Kirwan</persName></hi>
+                    <lb/>und <hi rendition="#aq"><persName key="H0012959">Cavallo</persName></hi>
+                    als eine eigene <lb/>Steinart aufführen. <hi rendition="#aq"><name type="mineral">Rowly ragg</name></hi>
+                    <lb/>ist ein bloßer Trivialnahme <lb/>für <name type="mineral">Basalt</name>,
+                    wie die deutschen <lb/>Namen
+                    <?oxy_comment_start author="thomas" timestamp="20180807T173629+0200" comment="&quot;Unkelstein&quot; und &quot;Stolpenerstein&quot; als Mineral-Namen auszeichen? Oder beide nicht (und dann &quot;Rowly Ragg&quot; auch nicht?)"?>Unkelstein
+                    und Stolpe<g ref="#typoHyphen"/><lb break="no"/>nerstein<?oxy_comment_end?>. Ich
+                    fand diese engli<lb break="no"/>sche Abänderung des <name type="mineral">Basalt</name>s <lb/>von <hi rendition="#u">schwärzlich<supplied>-</supplied>grauer Farbe</hi>, <lb/><hi rendition="#u">im Bruche uneben</hi>, <hi rendition="#u">von scharf<g ref="#typoHyphen"/><lb break="no"/><pb facs="#f0016" n="[8v]"/>
+                        <fw type="folNum">14.</fw> kantigen Bruchstükken</hi>, <hi rendition="#u">hart</hi>, <lb/><hi rendition="#u">sehr schwer zersprengbar</hi>, <hi rendition="#u">rauh</hi>, <lb/><hi rendition="#u">kalt</hi> und <hi rendition="#u">schwer</hi>. Er hat eben <lb/>den weißlich-grünen thonar<lb break="no"/>tigen Ueberzug, den die <name type="mineral">Ba<lb break="no"/>salte</name> vom <seg type="comment">
+                        <orig><placeName key="H0005560">Dransberge</placeName> und <placeName key="H0008800">Wei<lb break="no"/>ßener</placeName></orig>
+                        <note xml:id="npyp_nxw_m2b" resp="#koelbel-et-al #CT #DE">Den Weißner [heute
+                            meist (Hoher) Meißner genannt], den Dransberg und den Gleichen hatte
+                            Humboldt am 24. September 1789 auf seiner gemeinsamen Reise mit Steven
+                            Jan van Geuns durch Hessen, die Pfalz, längs des Rheins und durch
+                            Westfalen besucht. Der Hohe Meißner war 1789 auch durch <persName key="H0006329">A. G. Werner</persName> beschrieben worden (<bibl sameAs="zotero-667230-K8VANRF2">Faust 1784</bibl>, <bibl sameAs="zotero-667230-XE2A44BQ">Werner 1789</bibl>).</note>
+                    </seg> zeigen. Er ist unge<g ref="#typoHyphen"/><lb break="no"/>mein schimmernd,
+                    wegen der ihm <lb/>eingesprengten Körner von <name type="mineral">ba<g ref="#typoHyphen"/><lb break="no"/>salt</name>. <seg type="comment">
+                        <orig><name type="mineral">Chrysolith</name></orig>
+                        <note xml:id="nybb_vzw_m2b" resp="#koelbel-et-al">Chrysolith:
+                            Silikatmineral, grüne Varietät des Olivin.</note>
+                    </seg>. Große Massen <lb/>von <name type="mineral"><choice>
+                            <abbr>Chrys.</abbr>
+                            <expan>Chrysolith</expan>
+                        </choice></name>
+                    <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder</expan>
+                    </choice>
+                    <seg type="comment">
+                        <orig><name type="mineral">Olivit</name></orig>
+                        <note xml:id="ni41_c1x_m2b" resp="#koelbel-et-al">Olivit: nach heutiger
+                            Nomenklatur Olivin, oliv- bis flachsgrünes gesteinsbildendes Mineral,
+                            oft als Einsprengling im Basalt.</note>
+                    </seg>, wie die <lb/>Unkler und Rhöner <name type="mineral">Basalt</name>e
+                    <lb/>enthalten, fand ich nirgends. <lb/>Ueberhaupt sind die <name type="mineral"><choice>
+                            <abbr>Chrys.</abbr>
+                            <expan>Chrysolithe</expan>
+                        </choice></name> sehr <lb/>gleichmäßig eingesprengt und <lb/><subst>
+                        <del rendition="#ow"><unclear reason="illegible" cert="low" resp="#CT #DE">sin</unclear></del>
+                        <add place="across">fest</add>
+                    </subst> wie die <name type="mineral">Quarz</name>körner in <lb/>einem <name type="mineral">Sandstein</name> vertheilt. <lb/>Die Strahlige Textur, wel<g ref="#typoHyphen"/><lb break="no"/>che die <seg type="comment">
+                        <orig>Antrimmer <name type="mineral">Basalt</name>e</orig>
+                        <note xml:id="npgt_21x_m2b" resp="#koelbel-et-al">Antrimmer Basalte: korrekt
+                            ist Antrimer Basalte, gemeint sind die Basalte des Antrimer Plateaus im
+                            Nordosten von Nordirland.</note>
+                    </seg>
+                    <lb/>und zum Theil auch die <lb/><seg type="comment">
+                        <orig>Rheinischen</orig>
+                        <note xml:id="nm41_5g4_cfb" resp="#FS">Die im Jahr der England-Reise erschienene erste
+                            Monographie Humboldts war „Mineralogische[n] Beobachtungen über einige
+                            Basalte am Rhein“ gewidmet (<bibl sameAs="zotero-667230-R898HHGN">Humboldt 1790a</bibl>).</note>
+                    </seg> haben und die <lb/>nie Spuren einer ordentlichen <lb/>einschießenden
+                    Chrystallisation <lb/>
+                    <pb facs="#f0017" n="[9r]"/>
+                    <fw type="folNum">15.</fw> anzudeuten scheinen, vermisse <lb/>ich ganz im <hi rendition="#aq"><name type="mineral">rowly ragg</name></hi>.</p>
+                <p>Die Mischung der Grunder<g ref="#typoHyphen"/><lb break="no"/>den der Steine ist überhaupt <lb/>so
+                    verschieden, daß wenn man <lb/>wie <hi rendition="#aq"><persName key="H0001332">Kirwan</persName></hi> die Arten <lb/>nach zehntheiligen Brüchen
+                    <lb/>trennen wollte, es fast so <lb/>viele Arten, als Individuen <lb/>geben
+                    würde. Vergleiche z. B. <lb/>die verschiedenen Analysen des <lb/><seg type="comment">
+                        <orig><name type="mineral">Trapp</name></orig>
+                        <note xml:id="njd1_lpx_m2b" resp="#koelbel-et-al">Trapp: Um 1754 für
+                            Gangdiabase verwendete Bezeichnung. Heute fast ausschließlich für
+                            mächtige basaltische Flächenergüsse (Plateaubasalte, Flutbasalte) oft
+                            von erheblicher Ausdehnung gebraucht (<bibl sameAs="zotero-667230-8T4VVDZ5">Murawski H. &amp; Meyer W.
+                                1998</bibl>, 225).</note>
+                    </seg>s i<unclear reason="illegible" cert="high" resp="#CT #DE">n</unclear> <bibl sameAs="zotero-667230-2GQJUZSF"><hi rendition="#aq">Faujas de St. Fond</hi>
+                        <lb/><choice>
+                            <abbr>Abhandl.</abbr>
+                            <expan>Abhandlung</expan>
+                        </choice> vom Trapp p<supplied>.</supplied> 57</bibl> und <lb/><bibl sameAs="zotero-667230-T4GEJ3NH"><hi rendition="#aq">Philos. Transactions for
+                            1782. <lb/>p<supplied>.</supplied></hi> 333.</bibl></p>
+                    <p>Bei <hi rendition="#aq"><placeName key="H0017348">Hales
+                            owen</placeName></hi> erscheinen zwei <lb/>kegelförmige, zum Theil mit
+                    <lb/>Buschwerk bekränzte Hügel. <lb/>Läßt ihre Form, die Nähe <lb/>der <hi rendition="#aq">Rowlyragg</hi>hügel und des <lb/>rothen <name type="mineral">Sandstein</name>s hier auf <lb/> 
+                        <pb facs="#f0018" n="[9v]"/>
+   <fw type="folNum">16.</fw> <name type="mineral">Basalt</name> schließen.</p>
+                    <p>Bei <hi rendition="#aq"><placeName key="H0017348">Hales
+                            owen</placeName></hi> viel <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="plant">Dian<g ref="#typoHyphen"/><lb break="no"/>thus
+                                    prolifer</name></hi></orig>
+                        <note xml:id="nz3y_p1x_m2b" resp="#koelbel-et-al">Dianthus prolifer: heute
+                            Petrorhagia prolifera – Felsnelke.</note>
+                    </seg>!</p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-15"><hi rendition="#u">Bäder in <hi rendition="#aq"><placeName key="H0005512">Derbyshire</placeName></hi></hi></date></head>
+                    <p>
+                        <seg type="comment">
+                        <orig><hi rendition="#aq"><choice>
+                                        <abbr>D.</abbr>
+                                        <expan>Doctor</expan>
+                                    </choice>
+                                    Pearson’s observations
+                                    and <lb/>experiments on Buxton water, <lb/>Matlockwater
+                                        &amp;<unclear reason="illegible" cert="high" resp="#CT #DE">c</unclear><supplied>.</supplied> London</hi>
+                            1778.</orig>
+                        <note xml:id="ngsv_2gx_m2b" resp="#CT #DE">Der genannte Titel mit
+                            Erscheinungsjahr 1778 konnte nicht ermittelt werden. Offenbar übernahm
+                            Humboldt die bibliographischen Angaben aus <bibl sameAs="zotero-667230-2GQJUZSF">Barthélemy 1789</bibl>, 17. <bibl sameAs="zotero-667230-6KP5C737">Kölbel et al. 2008</bibl>, Anm. 78,
+                            geben an, <bibl sameAs="zotero-667230-IG6P9FGZ">Pearson 1784</bibl> sei
+                            gemeint.</note>
+                    </seg></p></div>
+            <div type="diaryEntry">
+                <head><date when="1790-06-13"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0008761">Matlock</placeName></hi><note place="right" hand="#unknown_pencil"><gap reason="illegible" unit="lines" quantity="2"/></note></hi></date></head>
+                <p>Der <seg type="comment">
+                        <orig><hi rendition="#aq"><name type="mineral">Toadstone</name></hi></orig>
+                        <note xml:id="nuh2_mgx_m2b" resp="#koelbel-et-al">Toadstone: Eine
+                            Gesteinsbezeichnung von <persName key="H0016827">John Whitehurst
+                                (1713–1788)</persName>. Im Jahre 1778 hatte Whitehurst ein Buch über
+                            den Ursprung der Erde geschrieben und im Anhang die Stratigraphie von
+                            Derbyshire erläutert. Er erklärte Toadstone als Produkte eines Vulkans,
+                            der seine Lava zwischen Kalksteinschichten ergossen hatte und sich mit
+                            den Kalkschichten vermischte hatte [… vgl. <bibl sameAs="zotero-667230-4DWCKBRJ">Whitehurst 1778</bibl>].</note>
+                    </seg>
+                    <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder</expan>
+                    </choice>
+                    <hi rendition="#aq"><name type="mineral">Channel</name></hi>, <lb/>den ich in
+                    den hiesigen <name type="mineral">Blei</name><lb break="no"/>gruben besonders am
+                        <hi rendition="#aq"><placeName key="H0017431">Masson<g ref="#typoHyphen"/><lb break="no"/>hill</placeName></hi> und <hi rendition="#aq"><placeName key="H0017349"><?oxy_comment_start author="thomas" timestamp="20180720T133832+0200" comment="Orts-Register: GeoNames noch ergänzen?"?>Heights
+                            of Abra<g ref="#typoHyphen"/><lb break="no"/>ham<?oxy_comment_end?></placeName></hi> sahe, schien <choice>
+                        <sic>mit</sic>
+                        <corr>mir</corr>
+                    </choice> ein <lb/>ächter <seg type="comment">
+                        <orig><name type="mineral">Mandelstein</name></orig>
+                        <note xml:id="nxvx_24x_m2b" resp="#koelbel-et-al">Mandelstein: Seit Mitte
+                            des 18. Jahrhunderts gebräuchliche Bezeichnung. 1787 bezeichnete
+                                <persName key="H0006329">Werner</persName> blasenreiches Gestein als
+                            Mandelstein und zählte es zu den uranfänglichen Gebirgen, später kurz
+                            Urgebirge genannt (Vgl. <bibl sameAs="zotero-667230-EKKND449">Werner
+                                1787</bibl>, 7 und 13). Die Hohlräume werden sekundär durch
+                            Ausscheidung mineralischer Stoffe gefüllt. Heute als Gesteinsbezeichnung
+                            nur im Zusammenhang mit einem Eruptivgesteinsnamen verwendet, z. B.
+                            Diabas-, Melaphyrmandelstein (<bibl sameAs="zotero-667230-8T4VVDZ5">Murawski/Meyer 1998</bibl>, 132–133).</note>
+                    </seg> mit ein<lb break="no"/>geknetetem <name type="mineral">Kalkspat</name> zu
+                    <lb/>sein und ich kann Herrn <hi rendition="#aq"><persName key="H0000039">Fauj.
+                            <lb/>de St Fond</persName></hi>, der eben diese <lb/>Gegend besuchte,
+                    nicht beipflich<g ref="#typoHyphen"/><lb break="no"/>ten, wenn er diesen <hi rendition="#aq"><name type="mineral">Toad<g ref="#typoHyphen"/><lb break="no"/>stone</name></hi>, troz <persName key="H0000064">Ferber</persName>, <name type="mineral">Trapp</name> nen<g ref="#typoHyphen"/><lb break="no"/>nen will. <bibl sameAs="zotero-667230-2GQJUZSF">Abh. vom Trapp <hi rendition="#aq">p<supplied>.</supplied></hi> 20.</bibl></p></div>
+<pb facs="#f0019" n="[10r]"/>
+   <fw type="folNum">[17.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0020" n="[10v]"/>
+   <fw type="folNum">[18.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0021" n="[11r]"/>
+   <fw type="folNum">[19.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0022" n="[11v]"/>
+   <fw type="folNum">[20.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0023" n="[12r]"/>
+   <fw type="folNum">[21.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0024" n="[12v]"/>
+   <fw type="folNum">[22.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0025" n="[13r]"/>
+   <fw type="folNum">[23.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0026" n="[13v]"/>
+   <fw type="folNum">[24.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0027" n="[14r]"/>
+   <fw type="folNum">[25.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0028" n="[14v]"/>
+   <fw type="folNum">[26.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0029" n="[15r]"/>
+   <fw type="folNum">[27.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0030" n="[15v]"/>
+   <fw type="folNum">[28.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0031" n="[16r]"/>
+   <fw type="folNum">[29.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0032" n="[16v]"/>
+   <fw type="folNum">[30.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0033" n="[17r]"/>
+   <fw type="folNum">[31.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0034" n="[17v]"/>
+   <fw type="folNum">[32.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0035" n="[18r]"/>
+   <fw type="folNum">[33.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0036" n="[18v]"/>
+   <fw type="folNum">[34.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0037" n="[19r]"/>
+   <fw type="folNum">[35.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0038" n="[19v]"/>
+   <fw type="folNum">[36.]</fw>
+            <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0039" n="[20r]"/>
+   <fw type="folNum">[37.]</fw>
+            <div type="diaryEntry">
+                <head><date when="1790-06-15"><hi rendition="#u"><hi rendition="#aq"><placeName key="H0005512">Derbyshire</placeName></hi></hi></date></head>
+    <p><bibl sameAs="zotero-667230-3VJFTG7R"><hi rendition="#aq">Pilckington II p<supplied>.</supplied></hi> 57</bibl>
+                    klagt schon <lb/>über die rohen Sitten der <lb/>Einwohner des <hi rendition="#aq"><placeName key="H0017614">Peaks</placeName></hi>. Aus
+                    den Ge<g ref="#typoHyphen"/><lb break="no"/>sezen kann man auf ihren alten <lb/>Zustand schließen.
+                        <seg type="comment">
+                        <orig>Unter <hi rendition="#aq"><persName key="H0016966">Edward
+                                    I</persName><supplied>.</supplied></hi></orig>
+                        <note xml:id="no43_bqx_m2b" resp="#koelbel-et-al">Edward I. (1272–1307),
+                            König, drängte den kirchlichen Einfluß zurück, erließ Reformgesetze,
+                            unterwarf Wales und wurde 1292 Oberlehnsherr von Schottland.</note>
+                    </seg>
+                    <lb/>wurde ein Gesez gemacht, nach <lb/>dem jeder<supplied>,</supplied> der eine
+                        <name type="mineral">Blei</name>mine be<g ref="#typoHyphen"/><lb break="no"/>stöhle mit einer Hand
+                    an einen <lb/>Tisch genagelt werden <del rendition="#s">soll</del> und
+                    <lb/>entweder verhungern <choice>
+                        <abbr>od.</abbr>
+                        <expan>oder </expan>
+                    </choice> <del rendition="#s">s</del><metamark/><add place="right">als das
+                        einzige Rettungsmittel,</add> mit <lb/>der anderen Hand die angenagelte
+                    <lb/>abschneiden soll<supplied>.</supplied></p></div>         
+            <div>
+<pb facs="#f0040" n="[20v]"/>
+   <fw type="folNum">[38.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0041" n="[21r]"/>
+   <fw type="folNum">[39.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0042" n="[21v]"/>
+   <fw type="folNum">[40.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0043" n="[22r]"/>
+   <fw type="folNum">[41.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0044" n="[22v]"/>
+   <fw type="folNum">[42.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0045" n="[23r]"/>
+   <fw type="folNum">[43.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0046" n="[23v]"/>
+   <fw type="folNum">[44.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0047" n="[24r]"/>
+   <fw type="folNum">[45.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0048" n="[24v]"/>
+   <fw type="folNum">[46.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0049" n="[25r]"/>
+   <fw type="folNum">[47.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0050" n="[25v]"/>
+   <fw type="folNum">[48.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0051" n="[26r]"/>
+   <fw type="folNum">[49.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0052" n="[26v]"/>
+   <fw type="folNum">[50.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0053" n="[27r]"/>
+   <fw type="folNum">[51.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0054" n="[27v]"/>
+   <fw type="folNum">[52.]</fw>
+                <gap unit="pages" quantity="1" reason="empty"/>
+<pb facs="#f0055" n="[28r]"/>
+   <fw type="folNum">[53.]</fw>
+            </div>
+            <div type="index">
+                <cb type="start"/>
+<list>
+    <head><anchor type="target" xml:id="start_g4y_dgr_y2b"/>A.<anchor type="target" xml:id="stop_g4y_dgr_y2b"/></head>
+    <item><persName key="H0016965">Alfred</persName>. <space dim="horizontal"/><ref target="H0017682/#[2v]">2.</ref></item>
+                </list>                 <list>                     <head>B.</head>
+                    <item><name type="mineral">Basalt</name>
+                        <space dim="horizontal"/><ref target="H0017682/#[8r]">13.</ref></item>
+                </list>                 <list>                     <head>C.</head>
+                    <item><hi rendition="#aq"><placeName key="H0007225">Castleton</placeName></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                </list>                 <cb/>
+<list>                     <head>D.</head>
+                <item/>
+</list>                 <list>                     <head>E.</head>
+                <item/>                 </list>                 <list>                     <head>F.</head>
+                <item>Färben <space dim="horizontal"/><ref target="H0017682/#[2r]">1.</ref> <ref target="H0017682/#[4r]">5.</ref></item>
+                </list>                 <list>                     <head>G.</head>
+                <item/>                 </list>                 <cb type="end"/>
+<pb facs="#f0056" n="[28v]"/>
+   <fw type="folNum">[54.]</fw>
+<cb type="start"/>
+<list>                     <head>H.</head>
+                <item/>                 </list>                 <list>                     <head>J.</head>
+                <item/>                 </list>                 <list>                     <head>K.</head>
+                <item>Kultur <space dim="horizontal"/><ref target="H0017682/#[2v]">2.</ref></item>
+                <item>Käse <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+                </list>                 <list>                     <head>L.</head>
+                <item/>                 </list>                 <cb/>
+<list>                     <head>M.</head>
+                <item>Mineralien <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref> <ref target="H0017682/#[7r]">11.</ref> <ref target="H0017682/#[7v]">12.</ref> <ref target="H0017682/#[8r]">13.</ref> <ref target="H0017682/#[9v]">16.</ref></item>
+    <item><name type="mineral">Mandelstein</name><space dim="horizontal"/><ref target="H0017682/#[9v]">16.</ref></item>
+                </list>                 <list>                     <head>N.</head>
+                <item/>                 </list>                 <list>                     <head>O.</head>
+                <item/>                 </list>                 <list>                     <head>P.</head>
+                    <item><hi rendition="#aq"><placeName key="H0017632">Poole’s hole</placeName></hi> <space dim="horizontal"/><ref target="H0017682/#[]">11.</ref></item>
+                </list>                 <cb type="end"/>
+<pb facs="#f0057" n="[29r]"/>
+   <fw type="folNum">[55.]</fw>
+<cb type="start"/>
+<list>                     <head>Q.</head>                     <item/>                 </list>                 <list>                     <head>R.</head>
+                <item><name type="mineral">Röthel</name><space dim="horizontal"/><ref target="H0017682/#[3v]">4.</ref></item>
+                </list>                 <list>                     <head>S.</head>
+                    <item>Schaafe<space dim="horizontal"/><ref target="H0017682/#[2r]">1.</ref> <ref target="H0017682/#[3v]">4.</ref></item>                     <item><hi rendition="#aq"><placeName key="H0017415">Stoney Middleton</placeName></hi><space dim="horizontal"/><ref target="H0017682/#[8r]">13.</ref></item>
+                </list>                 <list>                     <head>T<supplied>.</supplied></head>
+                <item><hi rendition="#aq"><name type="mineral">Toadstone</name></hi>
+                        <space dim="horizontal"/><ref target="H0017682/#[9v]">16.</ref></item>
+                </list>                 <cb/>
+<list>                     <head>U.</head>
+                <item/>                 </list>                 <list>                     <head>V.</head>
+                <item/>                 </list>                 <list>                     <head>W.</head>
+                <item>Wolle<space dim="horizontal"/><ref target="H0017682/#[2r]">1.</ref> <ref target="H0017682/#[3r]">3.</ref></item>
+                </list>                 <list>                     <head>Y.</head>
+                <item/>                 </list>                 <list>                     <head>Z.</head>
+                <item/>                 </list>                 <cb type="end"/>
+</div>
+<pb facs="#f0058" n="[29v]"/>
+   <fw type="folNum">[56.]</fw>
+<div type="index">         <list>             <head><hi rendition="#aq">Flora.</hi></head>
+                <item><hi rendition="#aq"><name type="plant">Dipsacus fullonum</name></hi> <space dim="horizontal"/><ref target="H0017682/#[3r]">3.</ref></item>
+    <item><hi rendition="#aq"><name type="plant"><choice><orig><space dim="horizontal"/></orig><reg>Dipsacus</reg></choice> sylvestris</name></hi>
+                        <space dim="horizontal"/><ref target="H0017682/#[3r]">3.</ref></item>
+    <item><hi rendition="#aq"><name type="plant"><choice><orig><space dim="horizontal"/></orig><reg>Dipsacus</reg></choice> laciniatus</name></hi>
+                        <space dim="horizontal"/><ref target="H0017682/#[3r]">3.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Hypnum crista castrensis</name></hi> <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Lichen tartareus</name></hi> <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+    <item><hi rendition="#aq"><name type="plant"><choice><orig><space dim="horizontal"/></orig><reg>Lichen</reg></choice> calcareus</name></hi> <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+    <item><hi rendition="#aq"><name type="plant"><choice><orig><space dim="horizontal"/></orig><reg>Lichen</reg></choice> capperatus</name></hi> <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Verrucaria pertusa</name></hi> <space dim="horizontal"/><ref target="H0017682/#[4r]">5.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Saxifraga granulata</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+    <item><hi rendition="#aq"><name type="plant"><choice><orig><space dim="horizontal"/></orig><reg>Saxifraga</reg></choice> tridactylites</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Alchemilla vulgaris</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Viola montana</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Polypodium vulgare</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Gentiana amarella</name></hi> <space dim="horizontal"/><ref target="H0017682/#[7v]">12.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Arenaria saxatilis</name></hi> <space dim="horizontal"/><ref target="H0017682/#[8r]">13.</ref></item>
+                <item><hi rendition="#aq"><name type="plant">Dianthus prolifer</name></hi> <space dim="horizontal"/><ref target="H0017682/#[9v]">16.</ref></item>
+                </list>
+</div>
+</div>
+</body>
+</text>
+</TEI>
