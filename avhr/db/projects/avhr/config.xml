@@ -1,2 +1,0 @@
-<config><scheduler>
-    </scheduler><synchronisation><target type="pull"><label>avhr</label><source-server>https://xmledit.bbaw.de/ediarum/webdav</source-server><source-resource>/db/projects/hirt/</source-resource><source-user>admin</source-user><source-password>pYVHARE4t7Xhrw4yVx7RAJhWUmHr993k</source-password><target-resource>data</target-resource><target-group-name>avhr-nutzer</target-group-name><target-mode>rwxrwx---</target-mode></target></synchronisation></config>
