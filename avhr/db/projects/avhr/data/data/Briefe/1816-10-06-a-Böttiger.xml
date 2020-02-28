@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mdh_x1r_jw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 6. Oktober 1816.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 33</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1816-10-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_zgf_21s_l1b"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 6 October 1816.</dateline>
+                    <salute>Theuerster Freund!</salute>
+                </opener>
+                <p>Ihre Sendungen an <seg type="comment">
+                        <orig>
+                            <persName key="ed_ajq_3xs_jw">
+                                <persName key="ed_l5t_1ys_jw">Riepenhausen</persName>
+                            </persName>
+                        </orig>
+                        <note xml:id="nscc_4ys_jw">Welcher der beiden Brüder, Franz oder Johannes,
+                            gemeint ist, ist nicht sicher. Beide lebten seit 1807 in Rom. Gemeinsam
+                            arbeiteten sie u.a. an der „Geschichte der Malerei in Italien (Stuttgart
+                            und Tübingen 1810-1820) und an der bildlichen Darstellung des Lebens
+                            Raffaels. </note>
+                    </seg> habe ich erhalten, und werde alles treulich besorgen. Den 10<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> dies geht endlich <seg type="comment">
+                        <orig>die Reise</orig>
+                        <note xml:id="nsml_lzs_jw">Zu Hirts Italienreise siehe auch
+                            1816-08-30-a-Böttiger.</note>
+                    </seg> vor sich, und über <placeName key="prov_kw5_s4h_kv">Schlesien</placeName>, wo Besuche zu machen sind, und <placeName key="prov_hrq_zzg_y5">Wien</placeName>, vor mitte Nov<ex>ember</ex> werden
+                    wir wohl in <placeName key="prov_vxr_xxr_js">Italien</placeName> nicht
+                    eintreffen. Es freut mich, daß Sie einiges Intereße an <seg type="comment">
+                        <orig>meinen Übersendungen</orig>
+                        <note xml:id="nkfy_2xs_jw">Vgl. 1816-08-30-a-Böttiger mit
+                            Sacherläuterungen</note>
+                    </seg> gefunden haben. <seg type="comment">
+                        <orig>Daß der <hi rendition="#aq">Mythus</hi>
+                            <subst>
+                                <del rendition="#ow">erst</del>
+                                <add place="superlinear">von</add>
+                            </subst>
+                            <persName key="ed_pwx_cxs_jw">Amor u. Psyche</persName>
+                        </orig>
+                        <note xml:id="nxqb_jbs_jw">Böttiger hatte von 1806 bis 1813 zweimal pro
+                            Woche in seiner Wohnung im Cosel'schen Palais stark besuchte Vorlesungen
+                            über Archäologie und Altertum gehalten, die er später u.a. als „Ideen
+                            zur Kunst-Mythologie“ (1826) publizierte. Mit seiner Anstellung als
+                            Oberaufseher der Antikengalerie 1814 setzte er seine Vorlesungen im
+                            Vorraum der Antikensammlung fort; 1816 wählte er den Mythos von Amor und
+                            Psyche zum Gegenstand; 1821 folgten Vorträge zum Herkules-Mythos. (Zu
+                            Böttigers Dresdner Vorlesungen vgl. Gerald Heres: Carl August Böttigers
+                            archäologische Vorlesungen in Dresden, in: Miszellen zur
+                            Wissenschaftsgeschichte der Altertumskunde, hg. von Horst Gericke,
+                            Martin-Luther-Universität Halle-Wittenberg. Wissenschaftliche Beiträge
+                            1980/38, Halle 1980. – René Sternke: Böttiger und der archäologische
+                            Diskurs. Berlin 2008, S. 234-241. – Kordelia Knoll: Vorstellungen und
+                            Visionen von einem idealen Antikenmuseum, in: René Sternke (Hg.):
+                            Böttiger-Lektüren. Die Antike als Schlüssel zur Moderne. Berlin 2012,
+                            besond. S. 196ff.). In der Vorrede zu „Ideen zur Kunst-Mythologie“, Bd.
+                            1, Dresden, Leipzig 1826, S. XXIIIf., schreibt Böttiger: „Es war im
+                            Jahre 1816, als ich durch die Aufforderung einiger Zuhörerinnen von
+                            hohem Stande die an Bildwerken und Deutungen gleich reiche Fabel von
+                            Amor und Psyche zu behandeln, dieser Spätgeburt der griechischen,
+                            platonisirenden Kunst eine eigne Reihe von Vorträgen widmete. Es mußten
+                            hier nach den mir vorgesteckten Gränzen viel seitwärts eingreifende
+                            Untersuchungen über den Cyclus des menschlichen Lebens (voran der
+                            berühmte Pamfilische Sarkophag), über Eros und Anteros, über die
+                            Vorstellung von Schlaf und Tod, über den Orcus und das Schattenreich mit
+                            in den Plan gezogen werden. Auch durften die Nachbildungen neuerer
+                            Kunst, Rafaels Bilder in der Farnesina, Canovas und Thorwaldsons
+                            Wettkampf in Gestaltung dieser Fabel bis auf die neuesten, nur zu
+                            fantastischen Gebilde der Pariser Malerschulen nicht übergangen werden.
+                            Der fast überströmende Reichthum dieses Stoffes, durch welchen das
+                            sicherste Mittelglied zwischen der profanen und christlichen Kunst in
+                            den ersten drei Jahrhunderten begründet wird, und die stets neu
+                            hinzukommenden Beiträge neuerer Forschungen in einer Vorlesung von Hirt
+                            (1816), in Creuzers Symbolik nach der neusten Ausgabe und selbst in den
+                            neusten Erklärungen des Salomonischen Brautliedes hinderten mich, das
+                            übrigens ganz zum Abdruck fertige Manuscript bis jetzt herauszugeben.
+                            Auch machen die dazu nothwendigen 24 Tafeln von Abbildungen einige
+                            Schwierigkeit.“ - Böttigers Ausführungen zu Amor und Psyche werden dann
+                            in Bd. 2 gedruckt: Vierter Cursus: Die Fabel von Amor und Psyche. Nebst
+                            einer Einleitung über den Pamphilischen Marmor (Aus C. A. Böttigers
+                            hinterlassenen Papieren herausgegeben von Julius. Dresden, Leipzig 1836,
+                            S. 361-541). </note>
+                    </seg> erst <del rendition="#s">nach</del> im Alexandrinischen Zeitalter
+                    entstanden sey, kann ich nicht einstimmen. Schon die Ansicht der Monumente
+                    verbieten dies. Auch scheint mir sehr gefährlich, die <hi rendition="#aq">Mysterien</hi> des <persName key="ed_awq_frm_hw">
+                        <hi rendition="#aq">Amor</hi>
+                    </persName> mit denen des <hi rendition="#aq">
+                        <persName key="ed_kvd_5ws_jw">Bacchus</persName>
+                    </hi> verbinden zu wollen. Laßen Sie sich nicht durch <hi rendition="#u">falsche</hi> Monumente in dieser Hinsicht täuschen. Eben so wenig gefällt
+                    mir die sogenannte <seg type="comment">
+                        <orig>Fahrt <del rendition="#s">zu den</del> der <persName key="ed_yl5_3rm_hw">Psyche</persName> zu den glücklichen
+                            Inseln</orig>
+                        <note xml:id="nk53_pcz_jw">Böttiger führt u.a. an: „Psyche fährt auf einem
+                            Ruderschiffchen, dessen Steuer sie selbst regiert, von zwei Delphinen
+                            gezogen, zu den Elysischen Sitzen, ein Carneol in Boriani's Collect.
+                            Antiq. Rom. n. 43“ (a.a.O., S. 500-504).</note>
+                    </seg>. Laßen Sie sich nicht von dem <persName key="ed_qk4_qzr_jw">
+                        <hi rendition="#aq">Mercurius Psychopompos</hi>
+                    </persName> verleiten. Überhaupt wenn der bräutliche Kuß nicht die höchste Spize
+                    und Vollendung der Gesammtfabel ist; so ist der ganze <hi rendition="#aq">Mythus</hi> ein Unding. Ich sage dies alles hauptsächlich: damit Sie Ihre
+                    Monumente und Ihre Quellen genau prüffen, und eine glänzende Hypothese Sie nicht
+                    auf Abwege verleite. –</p>
+                <p>Mit dem <bibl sameAs="ed_hvy_vtf_yv">Bilderbuche</bibl> werde ich noch immer
+                    aufgehalten. Der Druck ist seit längerer Zeit vollendet, allein noch fehlt die
+                    Vollendung von ein paar Platten, die mir immer und immer versprochen wird. Die
+                    Schweinigel von Kupferstechern, die ohnehin alles verderben, halten kein Wort;
+                    und ich bin daher nicht sicher: ob ich vor meiner Abreise Ihnen noch ein
+                    Exemplar werde übersenden können. – Es scheint Ihnen eben so mit <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_uw4_jds_l1b">Ihrem <hi rendition="#aq">Memorandum</hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="nqt2_jmy_jw">William Richard Hamilton: Denkschrift über Lord
+                            Elgin's Erwerbungen in Griechenland: Nach der zweiten englischen Ausgabe
+                            bearbeitet. Mit einer Vorrede von C. A. Böttiger und Bemerkungen der
+                            Weimarischen Kunst-Freunde. Leipzig und Altenburg: F. A. Brockhaus, 1817
+                            [deutsche Übersetzung].</note>
+                    </seg> zu gehen, welches ich vor meinem Abgehen noch gerne gelesen hätte. Im
+                    künftigen Stück der <bibl sameAs="ed_ayp_4fk_jw">Analekten</bibl> werden Sie
+                    auch <bibl sameAs="ed_k54_rlk_jw">meine Recension</bibl> zusammt dem <seg type="comment">
+                        <orig>
+                            <persName key="prov_zmp_jp3_gv">viscontischen</persName>
+                            <bibl sameAs="ed_kj1_twr_l1b">werk</bibl>
+                        </orig>
+                        <note xml:id="nkgw_d1t_jw">Mémoire sur les ouvrages de sculpture qui
+                            appartenoient au Parthenon et à quelques autres édifices de l'acropole à
+                            Athènes. Par M. Visconti (London 1816).</note>
+                    </seg> darüber finden. Merkwürdig ist, wie sich lezterer in einen [!]
+                    Hauptdingen versehen hat. Ich hoffe die Atheniensia auch vor meiner Rückkehr in
+                        <placeName key="prov_npf_ydx_w5">England</placeName> zu schauen, und <add place="superlinear">dann</add> wird sich wohl noch Gelegenheit zu einem
+                    ausführlichen Rescript finden. <pb n="2"/>
+                </p>
+                <p>Was sagen Sie zu dem <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_lqz_rmy_jw">neuen großen illuminierten Werk</bibl>
+                            von <persName key="ed_mzl_bbt_jw">
+                                <hi rendition="#aq">Quatre Mere de Quincy</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nbkx_hct_jw">Antoine Chrysostome Quatremère de Quincy: Le
+                            Jupiter olympien ou l'art de la sculpture antique consideré sous un
+                            nouveau point de vue. Paris: Debure, 1815. </note>
+                    </seg>? – Ich habe keine zeit mehr gehabt, eine Anzeige davon zu machen. Ich
+                    behalte mir aber vor, <seg type="comment">
+                        <orig>einiges Ausführlichere darüber nach meiner Rückkunft zu sagen</orig>
+                        <note xml:id="nksm_s2s_l1b">Hirt und seine Freunde in der "Graeca" setzten
+                            sich u.a. in ihren Zusammenkünften 1819 mit dem Hauptwerk von Quatremère
+                            de Quincy auseinander. - Hirts Beschäftigung mit Quatremère fand im 3.
+                            Band seiner "Geschichte der Baukunst bei den Alten: die Lehre der
+                            Gebäude bei den Griechen und Römern enthaltend" ihren Niederschlag
+                            (Berlin 1827, S. 56 ff.).</note>
+                    </seg>. Gewiß wird es viele der unsrigen staunen machen.</p>
+                <p>Gern möchte ich über manches noch mit Ihnen plaudern, aber ich habe noch so
+                    vieles zu thun und zu ordnen, daß ich <add place="superlinear">nicht</add> weiß,
+                    wo mir der Kopf steht. Im Januar hoffe ich in <placeName key="prov_vkl_ndl_js">Rom</placeName> zu seyn. Haben Sie an mich zu schreiben, so werde ich dort
+                    Ihre Briefe bis gegen das Ende März unter der Aufschrift: <hi rendition="#aq">al Signor Consigliere Hirt</hi> –<placeName key="prov_vkl_ndl_js">
+                        <hi rendition="#aq">Roma</hi>
+                    </placeName> – richtig erhalten. Eben so werde ich an Sie schreiben, wenn
+                    mir was vorkomt, was Sie wesentlich intereßiren kann. Sonst wißen Sie, daß ich
+                    eben nicht der fleißigste Schreiber bin. Also bis auf weiteres: <hi rendition="#aq">Addio</hi>! – und behalten Sie in freundlichem
+                    Andenken <lb/>Ihren aufrichtigen <lb/>Freund</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

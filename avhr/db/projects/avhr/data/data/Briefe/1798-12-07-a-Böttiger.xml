@@ -1,0 +1,543 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_ert_gcm_4v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 7. Dezember 1798. Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 13</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-12-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_kcf_zrt_vz"/>
+                    <ref type="next" target="hirt_qt5_zbd_xz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>An / Herrn OberConsistorialRath / Böttiger / in / <hi rendition="#u">Weimar</hi> Mit Postvermerken und Siegel mit den Initialen
+                        "AH"</addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 7<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Dec. 98.</dateline>
+                    <salute/>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Ihr lezter Brief</orig>
+                        <note xml:id="nvs2_wrt_vz">Brief erschlossen:
+                            [1798-12-vor7x-v-Böttiger].</note>
+                    </seg> war mir ein freundlicher Bote: und herzlich danke ich Ihnen, geliebter
+                    Freund, für das vielfältige, was Sie mir darin berichten. Niemand wünscht
+                    sehnlicher als ich, daß Sie aus der <seg type="comment">
+                        <orig>jezigen Klemme</orig>
+                        <note xml:id="nwql_fpg_kz">Vermutlich ist hier die Rede von einem Ruf
+                            Böttigers "zu Direction einer philologischen Anstalt" in Kopenhagen
+                            (Christian Gottlob Voigt; Amtliche Schriften 2/2, 585), "den er benutzen
+                            wollte, um sein Unterrichtspensum am Weimarer Gymnasium verkürzen und
+                            sein Gehalt aufbessern zu lassen; vgl. Amtliche Schriften 2/2, 585-591.
+                            Inwieweit Böttiger hierbei nur Beziehungen spielen ließ
+                            ("Freimäurer-Connexionen") [...] oder ernsthafte Berufungsaussichten
+                            hatte, ist ungeklärt. Jedenfalls blieb er unter unveränderten
+                            Konditionen noch bis 1804 in Weimar" (nach: Goethe Tagebücher, Bd. II,2,
+                            hrsg. von Wolfgang Albrecht und Edith Zehm, S. 640).</note>
+                    </seg> sich in eine Lage versetzen möchten, wo Sie mit Muße, und Wahl Ihren
+                    Studien leben könnten. </p>
+                <p>Ich bin zufrieden mit dem Gebrauch, den Sie von <seg type="comment">
+                        <orig>meinem Geschriebs</orig>
+                        <note xml:id="nbzl_f55_vz">Vgl. den  Passus über die Berliner
+                            Kunstausstellung in Hirts Brief an Böttiger vom 20.10.1798 ["Da Sie den
+                            Catalog ... Genüge thun soll"].</note>
+                    </seg>
+                    <bibl sameAs="prov_oqs_qtf_kv">im Nov<ex>ember</ex>stück</bibl> d<ex>es</ex>
+                    <bibl sameAs="prov_cst_qhr_gv">d<ex>eutschen</ex> Mercurs</bibl> machten: und
+                    wohl haben Sie gethan, <seg type="comment">
+                        <orig>die verse nicht hineingesezt zu haben</orig>
+                        <note xml:id="ni5r_bv5_vz">Böttiger hat einige der kritischen Kommentare
+                            Hirts weggelassen.</note>
+                    </seg>. Die Architekten <persName key="prov_at2_4rw_gv">Genz</persName>, und
+                        <persName key="prov_dvr_4m5_tv">der junge Gilly</persName>, der iezt von
+                        <placeName key="prov_hrq_zzg_y5">Wien</placeName> zurück ist, sind zwey
+                    unserer bravsten jungen Leute, obwohl sie auch nach wenig festen Grundsäzen
+                    arbeiten. – <seg type="critical">
+                        <orig>Über</orig>
+                        <note xml:id="nk4k_ldm_4v">Schreibversehen statt: Ihr</note>
+                    </seg>
+                    <bibl sameAs="ed_lww_3x5_vz">Aufsaz</bibl> im <bibl sameAs="ed_ql4_3l2_vz">Modejournal</bibl>
+                    <seg type="comment">
+                        <orig>hat mich über manches verständigt</orig>
+                        <note xml:id="nbp3_xx5_vz">Vgl. dazu Hirts Fragen in seinem Brief an
+                            Böttiger vom 24.11.1798.</note>
+                    </seg>, worüber mich <bibl sameAs="prov_w2v_34l_4v">der Prolog</bibl>, den ich
+                    von <persName key="prov_hwd_hmp_5r">Goethe</persName> glaubte, im Zweifel ließ.
+                    Indeßen um ein Urtheil zu fällen, muß man doch eine solche Einrichtung selbst
+                    sehen, und die Sache <del rendition="#s" next="mit">seh</del> mit eignen Ohren
+                    hören, und lesen. </p>
+                <p>
+                    <bibl sameAs="ed_un1_d5s_vz">Das No <hi rendition="#u">3</hi>.</bibl> in den
+                        <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl> habe ich wieder gelesen; und
+                    noch weiß ich nicht, was <persName key="prov_hwd_hmp_5r">der
+                        Verf<ex>asser</ex>
+                    </persName> damit bezielt. Mir scheint fast, daß damit zu
+                    viel, oder zu wenig gesagt sey. – Auch zweifle ich, ob <persName key="prov_tsc_grz_v5">M<ex>eyer</ex>
+                    </persName> in seinem <bibl sameAs="ed_oqy_mrs_vz">Aufsaze <hi rendition="#u">über die
+                        Gegenstände</hi>
+                    </bibl> eine bestimmte Idee vor sich liegen gehabt habe. Es
+                    ist etwas, und nichts gesagt, und überhaupt wenn es der Mühe werth wäre hierüber
+                    zu schreiben, glaube ich, müßte der Gegenstand in einer andern Darstellungsart,
+                    u. ordnung erscheinen. Mitunter kommen gute Nebenideen vor, aber dabey auch
+                    wieder ganz schiefe Ansichten. – Was <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                    <bibl sameAs="ed_jdc_n1v_vz">über Mahlerey sagen wird</bibl>, bin ich neugierig.
+                    Über <rs type="artwork" key="prov_hck_czq_5x">Porsena's Grabmal</rs>
+                    <seg type="comment">
+                        <orig>habe ich auch einmal geabeitet</orig>
+                        <note xml:id="np5l_bbv_vz">Später gedruckt in Hirts "Geschichte der Baukunst
+                            bei den Alten", Bd. 1, 1821, S. 249f.</note>
+                    </seg>. – Ich werde noch ein paar Stücke mit ansehen, u. sollten mir dann die
+                    Sachen gefallen, und ich sehen, <pb n="2"/> daß das Publikum Intereße daran
+                    nimmt, so bin ich gesonnen, an <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                    hierüber zu schreiben. </p>
+                <p>Von dem <seg type="comment">
+                        <orig>Ballhorn</orig>
+                        <note xml:id="nrjp_rg1_wz">Sachverhalt unklar. Möglicherweise ist hier
+                            Friedrich Ernst Ballhorn (1774-1855) gemeint. Dieser studierte von 1793
+                            bis 1798 Theologie und dann vor allem Philosophie an der Universität
+                            Göttingen. Sein Philologiestudium schloss er im März 1798 mit der
+                            Promotion zum Magister ab mit einem Beitrag zur Geschichte des älteren
+                            Naturrechts. Er untersuchte die Frage, ob die Griechen und Römer im
+                            Gegensatz zum positiven Recht auch eine Idee vom Naturrecht besaßen.
+                            Dies könnte für Böttiger wie auch für Hirt von Interesse gewesen sein.
+                            1800 wurde Ballhorn Hauslehrer in Amsterdam, studierte Jura in Amsterdam
+                            und Göttingen und wirkte später als Kanzler des Fürstentums
+                            Lippe-Detmold (nach: Johannes Tütken: Privatdozenten im Schatten der
+                            Georgia Augusta. Zur älteren Privatdozentur (1734 bis 1831). Teil II:
+                            Biographische Materialien zu den Privatdozenten des Sommersemester 1812.
+                            Göttingen 2005, S. 535-549, hier S. 537). - Sein Vater, Ludwig Wilhelm
+                            Ballhorn (1730-1777), war Direktor des Lyzeums in Hannover und fand in
+                            Moritz' "Anton Reiser" Erwähnung. Nach seinem Tod wurden seine Söhne
+                            zunächst zusammen mit Friedrich Schlegel von einem Hauslehrer in
+                            Hannover unterrichtet.</note>
+                    </seg> weiß ich gar nichts. <persName key="prov_htp_dkz_jv">
+                        <persName key="prov_ocn_xjz_jv">Die Schlegel</persName>
+                    </persName> kommen hier immer mehr in Mißkredit. öffentlich <del rendition="#s" next="in">und</del> in Schriften nemlich – und in Gesellschaft werden sie
+                    zum Gespött, vielleicht mehr, als sie verdienen. </p>
+                <p>Den <seg type="comment">
+                        <orig>Poßillianirenden</orig>
+                        <note xml:id="nrzl_lxg_kz">Ernst Ludwig Posselt??? Neueste WeltKunde?</note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>
+                            <persName key="prov_zqd_xc4_wr">Gerning</persName>
+                        </orig>
+                        <note xml:id="nm1b_hhb_kz">Gerning hielt sich 1798 bis 1800 mehrfach in
+                            Weimar auf. Am 25. November 1798 vermerkt Goethe in seinem Tagebuch:
+                            "Nachmittags H. Gerning, der mir seine geschnittne Steine zeigte", und
+                            am 1. Dezember 1798: "Früh Gr: Fries. Lerse, Hofr. Wieland Gernings
+                            Münzen" (Goethe Tagebücher, Bd. II,1, hrsg. von Edith Zehm, S. 267,
+                            268).</note>
+                    </seg> kenne ich: wenn er des P<ex>ater</ex>
+                    <seg type="comment">
+                        <orig>
+                            <persName key="ed_ygw_w5g_kz">Gürtlers</persName> ganze
+                            Münzsammlung</orig>
+                        <note xml:id="nm1b_ysg_kz">Die Münzsammlung des Bischofs Anton Gürtler aus
+                            Neapel, die von dem königlich-neapolitanischen Legationsrat J. J.
+                            Gerning aus Frankfurt am Main erworben worden war. Vgl. dazu: August
+                            Beck: Ernst der Zweite, Herzog zu Sachsen-Gotha und Altenburg, als
+                            Pfleger und Beschützer der Wissenschaft und Kunst. Gotha 1854, S.
+                            221-222: Im Dezember 1799 "bot der königlich-neapolitanische
+                            Legationsrath J. J. Gerning aus Frankfurt a./M. sein Münzcabinet,
+                            bestehend aus 1881 Stücken – darunter 1600 griechische Münzen – zum
+                            Verkaufe an. Dasselbe, dem Range nach die dritte Sammlung in Neapel,
+                            stammte von dem Bischofe Anton Gürtler, Beichtvater der Königin von
+                            Neapel, der 16 Jahre daran gesammelt hatte. [Fussnote: Vgl. Rasche,
+                            Lexicon T. VII. Praefatio pag. 2. T. VIII. San-SSS.]. Herzog Ernst ließ
+                            die Sammlung durch Schlichtegroll für 350 Louisd'or ankaufen. Gerning
+                            hatte an diesen Kauf nur die Bedingung geknüpft, daß ihm als
+                            Kunstsammler in billigem Tausche dienen könnende Doubletten des
+                            herzoglichen Münzcabinettes abgelassen werden möchten." </note>
+                    </seg> erhaschte, so that er einen guten Fang. <seg type="comment">
+                        <orig>
+                            <persName key="ed_rtp_2cb_kz">Fries</persName> u. <persName key="ed_aw3_4cb_kz">Lerset</persName> sind zwey liebe Leute</orig>
+                        <note xml:id="ncl2_zdb_kz">Graf Moritz von Fries hatte in Begleitung seines
+                            Hofmeisters Franz Christian Lerse (Lersé) von 1794 bis 1797 an der
+                            Universität Leipzig die Rechte studiert. Graf Fries, der die
+                            Kunstsammlung seines frühverstorbenen Bruders Joseph von Fries
+                            fortführte und über enorme finanzielle Mittel für Kunstankäufe und
+                            Mäzenatentum verfügte, reiste zusammen mit Lerse u.a. nach Dresden,
+                            Berlin und Weimar.. Weimar besuchte er 1797 und 1798. Den letzten Besuch
+                            von Fries und Lerse erwähnt Goethe in seinen Tagebüchern am 30. November
+                            und am 1. Dezember 1798. An Schiller schreibt Goethe am 1. Dezember
+                            1798: "Graf Fries hat unter andern ein Duzend alte Kupfer von Martin
+                            Schön [Schongauer] mitgebracht an denen ich zuerst das Verdienst und
+                            Unverdienst dieses Künstlers schematisiren könnte es ist uns höchst
+                            wahrscheinlich ob gleich Freund Lerse die entgegengesetzte Hypothese hat
+                            daß die Deutschen in einer frühern Connexion mit Italien gestanden"
+                            (Goethe WA, IV, Bd. 13, S. 324). </note>
+                    </seg>, und ihr Urtheil über die <placeName key="ediarum_l5g_pxs_vz">Münchnergallerie</placeName> ist richtig, obwohl sie nicht mit der
+                        <placeName key="ediarum_fn3_x41_kw">kaiserlichen in Wien</placeName> zu
+                    vergleichen ist. Wo reisen sie iezt hin?</p>
+                <p> Ich weiß seit einiger zeit wenig <subst>
+                        <del rendition="#s">über</del>
+                        <add>von</add>
+                    </subst> unserm <seg type="comment">
+                        <orig>Münz u. gemmencabinet</orig>
+                        <note xml:id="nr22_zj1_wz">Hirt war zusammen mit Meierotto im Mai 1798 die
+                            Aufsicht über die königliche Münz- und Medaillensammlung übertragen
+                            worden. Er plädierte für eine Zusammenlegung aller dieser Bestände und
+                            schlug dafür die königliche Bibliothek vor. An das Direktorium der
+                            Akademie der Wissenschaften schreibt er am 28. Mai 1798: "Es wird [...]
+                            den Herrn Direktoren nicht unbekannt seyn, daß ein Theil der königl.
+                            Münzsammlung sich auf dem Schlosse in Berlin, und ein anderer nicht
+                            weniger beträchtlicher theil im Antikentempel zu Potsdam befindet. Im
+                            Falle nun ein gründliches arrangement dieses wichtigen Zweiges der
+                            ältern und neuen Litteratur, und Kunst statt haben sollte; so wäre vor
+                            der Hand wesentlich nöthig, daß diese Sammlungen vereiniget würden. Ein
+                            Gleiches sollte mit der königl. Gemmensammlung geschehen, in Verbindung
+                            mit den kleinern Bronzen, und andern antiken Geräthschaften, welche iezt
+                            Pêle-mêle auf einer Bank in dem Antikentempel umher liegen. Alle
+                            genannte Gegenstände gehören zusammen, weil sie gleichsam ein- und
+                            dasselbe Studium ausmachen" (Archiv der BBAW, PAW (1700-1810), I-XV-3,
+                            Bl. 6r-v).</note>
+                    </seg>. Wir haben allda keine Heizung, und also ist für den Winter wenig zu
+                    thun. Sollten indeßen Sie, oder <persName key="prov_hy4_jx2_rs">Herder</persName> – dem Sie mich bestens empfehlen werden – einzelne
+                    Abdrucke bald wünschen, so würde dieß keine Schwierigkeit machen. Ich denke im
+                    Frühjahr mich selbst ex officio daran zu machen. </p>
+                <p>
+                    <seg type="comment">
+                        <orig>Die <placeName key="ediarum_snb_sl1_wz">Düßeldorfer
+                                Gallerie</placeName>
+                        </orig>
+                        <note xml:id="nrrd_rm1_wz">Die Düsseldorfer Gemäldesammlung umfasste mehr
+                            als 1000 Exponate vor allem italienischer, flämischer und
+                            niederländischer Malerei der Renaissance und des Barock und galt als
+                            eine der bedeutendsten Gemäldegalerien Europas. 1795 wurde sie vor der
+                            vorrückenden französischen Armee nach Mannheim in Sicherheit gebracht.
+                            Später gelangten große Teile der Kunstsammlung nach München.</note>
+                    </seg> sah ich nie: ich habe aber just <seg type="comment">
+                        <orig>die Kupfer davon</orig>
+                        <note xml:id="nns1_zn1_wz">Nicolas de Pigage: La Galerie électorale de
+                            Dusseldorff ou catalogue raisonné et figuré de ses tableaux: dans lequel
+                            on donne une connoissance exacte de cette fameuse collection, &amp; de
+                            son local, par des descriptions détaillées, &amp; par une suite de 30
+                            planches, contenant 365 petites estampes rédigées &amp; gravées d'après
+                            ces même tableaux. Basle: du Mechel [u.a.], 1778. - Tafelband u.d.T.:
+                            Estampes du catalogue raisonné et figuré des tableaux de la Galérie
+                            électorale de Dusseldorf. - Die Kupferstiche stammen von Christian von
+                            Mechel. Die Gemälde sind dabei nach Sälen und Wänden geordnet.</note>
+                    </seg> auf meiner Stube, u. sehe, daß sie an italienischen Sachen arm ist. <seg type="comment">
+                        <orig>Die so getauften <persName key="prov_abl_fz5_35">Raphaels</persName>
+                        </orig>
+                        <note xml:id="nyfl_n41_wz">Im oben genannten Prachtkatalog von 1778 sind
+                            zwei Raphaels verzeichnet, die im dritten Saal aufgehängt waren: Nr. 122
+                            "Une sainte famille" ["Die Heilige Familie mit der Heiligen Elisabeth
+                            und Johannes dem Täufer" (ca. 1506)] und Nr. 165 "Saint Jean Baptiste
+                            dans le désert" [beschrieben von Wilhelm Heinse in den "Düsseldorfer
+                            Gemäldebriefen", Kap. 9). Das Gemälde stammt von Daniela da
+                            Volterra.</note>
+                    </seg> sind weit entfernt es zu seyn. Indeßen wäre es immer eine herrliche
+                    acquisition, ebenso wie die Münzsammlung – </p>
+                <p>Die Sammlung des <persName key="prov_o12_bfx_w5">Prinzen August</persName> ist
+                    zerrißen, so daß er selbst nicht weiß, wie es damit gehen wird. <seg type="comment">
+                        <orig>Einiges weniges von geschnittenen Steinen</orig>
+                        <note xml:id="nhrf_dw1_wz">Der Prinz war ein geschätzter Gemmensammler und
+                            -kenner. Johann Heinrich Meyer, der in Rom mit dem Prinzen August
+                            bekannt geworden war, berichtet von einer "Sammlung von geschnittenen
+                            Steinen von drey- bis vierhundert Stück, worunter einige vortreffliche
+                            sind" (Meyer an Goethe, 12. Dezember 1795, in: Goethes Briefwechsel mit
+                            Meyer, 1917, S. 160).</note>
+                    </seg> hat er bey sich - anderes in <placeName key="prov_myp_lbv_35">Neapel</placeName>, anderes auf der Reise nach <placeName key="prov_q5r_bkh_y5">Triest</placeName> – <seg type="comment">
+                        <orig>die Statuen</orig>
+                        <note xml:id="ny2y_5w1_wz">Der Prinz hatte u.a. in der Gegend des alten
+                            Ostia graben lassen, wo die dann nach ihm benannten Statue der "Venus
+                            Augustea" gefunden wurde.</note>
+                    </seg> etc. noch gröstentheils verborgen in <placeName key="prov_vkl_ndl_js">Rom</placeName>. </p>
+                <p>Ich würde sehr bedauern, wenn das <bibl sameAs="prov_bjq_czj_gv">Vasenwerk</bibl>
+                    liegen bleiben sollte. <pb n="3"/>
+                </p>
+                <p>Gestern hatte ich einen langen <seg type="comment">
+                        <orig>Brief</orig>
+                        <note xml:id="nicv_rt1_wz">Brief erschlossen:
+                            [1798-12-vor07x-v-Bury].</note>
+                    </seg> vom Mahler <persName key="prov_xsn_1cg_f5">Bury</persName> aus <placeName key="prov_vkl_ndl_js">Rom</placeName>: der aber gröstentheils mit seinen
+                    eigenen kläglichen Umständen angefüllt ist. Er würde gern seine <seg type="comment">
+                        <orig>zwei großen Cartons von <persName key="ed_dhr_hx1_wz">Rubens</persName>
+                        </orig>
+                        <note xml:id="ntvk_my1_wz">Über seine mehrfache Beschäftigung mit Rubens
+                            geben die Briefe Burys an Goethe Auskunft. So schreibt er am 9. August
+                            1788 an Goethe: "{...[ ich hab einen sehr Schönen Rubens im Hauß gehabt
+                            welcher jemand in Neapel gehört, hab eine Gruppe draus copirt weil die
+                            farben so schön daran waren, Ihre Neue Binzel hab ich darzu gebraucht es
+                            war mir wieter ganz wohl mit öhlfarben Umzugehen" (Martin Dönike:
+                            Friedrich Bury, Briefe aus Italien an Goethe und Anna Amalia. Göttingen
+                            2007, S. 20). - Bury an Goethe, Rom, 11. Dezember 1788: "Ich zittere
+                            aller Liebster; daß ich einen Schritt gethan ohne Ihre Einwilligung,
+                            [...] nemlich, die Gelegenheit einen Quercino, Paulo Veronesse, Gerhardo
+                            della Notta, und 2 Rubens gekauft zu haben, alles was man sehen kann von
+                            diesen leuthen, letzteren sind Lebens grosse Bilder, Die scizzen welche
+                            ich Ihnen bald schiken, werden Ihnen grosses Vergnügen machen" (ebd., S.
+                            33). - Bury an Goethe, Florenz, 21. September 1790: um seine Schulden zu
+                            begleichen, möchte er "die Rubensen" verkaufen, "welche in einem palaste
+                            recht sehr gut thun werden, denken Sie hierüber auf mich, eines, oder
+                            das andere kann man aber unter 100 Zecchinen nicht geben" (ebd., S. 60).
+                            Mit letzteren scheinen die beiden im vorliegenden Brief erwähnten
+                            "Cartons von Rubens" gemeint zu sein, die er offensichtlich bis dahin
+                            noch nicht verkaufen konnte. Die zwei "nicht näher identifizierbare[n]
+                            Kartons" (Martin Dönike, ebd., S. 138) wurden im Januar-Heft des NTM
+                            1799, S. 61, angeboten: "Auszug eines Briefes aus Rom. / Rom, d. 4.
+                            Novembr. 98. / Der Mahler Bury in Rom möchte gern seine zwey großen
+                            Kartons von Rubens - jedes für 100 Dukaten - verkaufen, um sich zu
+                            helfen. Dabey hat er verschiedene Aquarellzeichnungen, Copieen nach
+                            vortrefflichen Gemählden fertig, die er auch anzubringen
+                            wünschte."</note>
+                    </seg> – jedes Stück – für 100. Dukaten verkaufen, um sich zu helfen. <persName key="prov_tsc_grz_v5">Meyer</persName> kennet sie, und folglich würde ich
+                    Sie <ex>bitten</ex> es <placeName key="prov_u24_mmg_f5">dort</placeName> bekannt
+                    zu machen. Es wäre etwas für den <persName key="prov_zgd_cyh_g5">Grafen
+                        Fries</persName>. Dabey hat er verschiedene Acquarellzeichnungen, Copien
+                    nach vortrefflichen Gemälden, fertig, die er auch anzubringen wünschte.</p>
+                <p>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName> besizt noch seine
+                    Privatgallerien: nur der <persName key="ed_rbv_krb_wz">Prinz
+                        Aldobrandini</persName>
+                    <seg type="comment">
+                        <orig>verkaufte <rs type="artwork" key="prov_zgd_4wb_wz">seinen
+                            Cristus</rs>
+                        </orig>
+                        <note xml:id="ni1l_45b_wz">Dasselbe teilt Bury auch Goethe in einem Brief
+                            aus Rom vom 22. November 1798 mit: "Rom besitzt noch alle seine prifat
+                            gallerien, ausgenommen Aldombrandini hat das Gemählt des Christus von da
+                            Vinci mit seiner ganzen Gallerie für 6000 Scuti an zwey Englische
+                            Künstlern verkauft, wie auch Altieri seine zwey Clautio an dieselben
+                            verkauft hat, von dem Christus, und der Eitelkeit, in Barbarini von
+                            Leonhart habe ich 2 gute kopien, welche ich Ihnen für Liebhaber
+                            empfählen kann. 60 Zecch. ist der genauste preiß für beyde" (Martin
+                            Dönike: Friedrich Bury, Briefe aus Italien an Goethe und Anna Amalia.
+                            Göttingen 2007, S. 97-98). Über den Verkauf der Gemälde berichtet ebenso
+                            Karl Ludwig Fernow im NTM 1798: "Kunstnachrichten. Ueber den
+                            gegenwärtigen Zustand der Kunst in Rom. / Rom, den 1. Okt. 1798": "Die
+                            Gemähldesammlung der Villa Aldobrandini, die zwar nur klein war, aber
+                            mehrere schöne und merkwürdige Gemählde alter Meister, eines Mantegna,
+                            Mazzuoli, Bellini, Tizian u.a. enthielt, ist unter der Hand verkauft
+                            worden; einige dieser Gemählde sah ich neulich bey einigen italienischen
+                            Mahlern. Zwey der schönsten Claude Lorrains des Pallasts Altieri sind
+                            für 10,000 Pezzi duri nach Neapel gewandert; denn zur Kontribuzion mußte
+                            Geld aufgetrieben werden" (NTM, Bd. 3, S. 284); siehe auch den bereits
+                            oben zitierten "Auszug eines Briefes aus Rom" im NTM 1799, Bd. 1, S. 61.
+                            - "Das damals irrtümlich Leonardo da Vinci zugeschriebene, tatsächlich
+                            aber von Bernardino Luini stammende Gemälde "Christus unter den
+                            Pharisäern" gelangte nach seinem Verkauf zunächst in die Sammlung
+                            Alexander Days (um 1800)" (Martin Dönike, ebd., S. 200). </note>
+                    </seg> von <persName key="prov_bfj_11v_35">Leonardo</persName> mit der gesammten
+                    Gallerie an zwey englische Maler <persName key="ed_fkm_bxb_wz">Day</persName>,
+                    und <persName key="ed_bpr_jxb_wz">Fagen</persName> um 5000. Scudi. Auch hat
+                    lezterer <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_zd4_pzb_wz">
+                                <rs type="artwork" key="prov_jrd_3zb_wz">die zwey schönen</rs>
+                            </rs>
+                        </orig>
+                        <note xml:id="nyhd_4yb_wz">Es handelt sich um die beiden Bilder von Claude
+                            Lorrain "Psyches Vater opfert am Tempel des Apollo in Milet" (1663) und
+                            "Landschaft mit der Landung des Aeneas in Latium" (1675), die sich seit
+                            dem 17. Jahrhundert im Palazzo Altieri in Rom befanden. Sie wurden 1798
+                            "von den englischen Malern Charles Grignion und Robert Fagan für die
+                            Summe von 10000 Scudi gekauft und über Neapel und Palermo nach England
+                            geschmuggelt, wo sie zunächst in den Besitz William Beckfords gelangten;
+                            sie befinden sich heute in der Fairhaven Collection, National Trust,
+                            Anglesey Abbey, Cambridgeshire" (Martin Dönike, a.a.O., S.
+                            200-201).</note>
+                    </seg>
+                    <persName key="prov_tr5_wlh_kv">Claude Lorrain</persName> vom <persName key="ed_g1j_5xb_wz">Prinzen Altieri</persName> erstanden.</p>
+                <p>Der <ex>[!]</ex>
+                    <seg type="comment">
+                        <orig>Römische Republik</orig>
+                        <note xml:id="nrhn_wzh_wz">Die Römische Republik (Repubblica Romana) von
+                            1798-1799 war eine durch das revolutionäre Frankreich errichtete
+                            italienische Tochterrepublik. Sie wurde am 15. Februar 1798 ausgerufen
+                            und im September 1799 aufgelöst. Die Republik erhielt eine Verfassung
+                            nach dem Vorbild des französischen Direktoriums. Dazu ausführlich: <ref target="https://de.wikipedia.org/wiki/R%C3%B6mische_Republik">Wikipedia</ref>. </note>
+                    </seg> sammelt iezt die noch übrigen beßern Kirchengemälde, um eine Gallerie zu
+                    formiren – zu diesem Zweck ist die <rs type="artwork" key="prov_mjq_j2c_wz">Kreuzabnehmung</rs> von <persName key="ed_lrh_mdc_wz">Daniel da
+                        Volterra</persName> auf <placeName key="ediarum_nxb_cfc_wz">Trinità de'
+                        monti</placeName> schon <seg type="comment">
+                        <orig>ausgesägt worden</orig>
+                        <note xml:id="nedb_sgc_wz">Mit dem Frieden von Tolentino, den Pius VI. am
+                            19. Februar 1797 unterzeichnen musste, war die Plünderung der römischen
+                            Kirchen und der päpstlichen Sammlungen verbunden. Die Kunstwerke sollten
+                            für das Museé Napoleon nach Paris verbracht werden. Das Augenmerk der
+                            Franzosen war dabei schon frühzeitig auf die berühmte "Kreuzabnahme"
+                            gefallen. Von den Plünderungen in Trinitá de' monti berichtet u.a.
+                            Fernow im NTM: "Die Kreuzabnehmung von Daniel di Volterra in der Kirche
+                            auf Trinita de' Monti hat man, nebst den Seitengemählden, sammt der
+                            Mauer ausgesägt um sie nach Frankreich zu transportiren." ("Über den
+                            gegenwärtigen Zustand der Kunst in Rom", NTM 1798, Bd. 3, S. 285).
+                            Schwere Anklagen gegen die Kunstraub der Franzosen in Italien und
+                            insbesondere über die Art, wie von den Eroberern die Fresken
+                            Ricciarellis in S. Trinità de' Monti behandelt worden waren, finden sich
+                            in der anonym erschienenen Schrift "Der Kampf um Europens Stiefel. Ein
+                            Gemälde aus der Bildergalerie unserer Tage (Erfurt 1800, S. 7): "Das
+                            erhabene al fresco-Gemälde des Daniel da Volterra, die Kreuzabnehmung,
+                            wo besonders die herrliche Gruppe des Vordergrundes, die Mutter des
+                            Erlösers in Ohnmacht liegend, unübertrefflich schön dargestellt war,
+                            sägten die Franzosen aus der Wand heraus - und, ach, zerbrachen es - und
+                            auf diese Art gingen unzähliche Gemälde, Statuen und andere
+                            Kostbarkeiten unter ihren ungeschickten Händen zugrunde, deren Verlust
+                            unschätzbar ist." Zehn Jahre später schreibt der römische Restaurator
+                            Pietro Palmaroli über die Behandlung der Fresken: "An ein Werk von so
+                            hoher Verantwortung war man herangetreten, ohne auch nur die
+                            Anfangsgründe der Kunst zu kennen, ohne auch nur einen Funken von Genie
+                            zu besitzen. Da man die ganze Sache auf eine lächerliche und für das
+                            ganze Bauwerk höchst gefährliche Art und Weise begann, so ereignete sich
+                            das, was sich ereignen mußte. Es wurde nämlich eine Seitenwand der
+                            Kapelle in der ganzen Dicke der Mauer einfach ausgesägt. Der Pfeiler,
+                            der das Gewölbe trug und nicht genügend durch Stützen gesichert war,
+                            brach zusammen, das Gewölbe der Kapelle stürzte ein und infolgedessen
+                            auch ein Teil des Hauptgewölbes. Und da man sich nicht die Mühe gab, die
+                            Kapelle wenigstens sofort auf andere Weise zu bedecken und vor den
+                            Unbilden der Witterung und dem hereinströmenden Regen zu schützen, da
+                            überdies die Soldaten, die im Kloster untergebracht waren, den
+                            Trümmerhaufen benutzten, um dort ihre Bedürfnisse zu verrichten, so
+                            wurde auch der Kreuzabnahme solcher Schaden zugefügt, daß dies herrliche
+                            Werk in kurzem zu sein aufgehört haben würde, wenn ich nicht das
+                            Geheimnis gefunden hätte, seine Farben wieder herzustellen" ((Guattani),
+                            Memorie encyclopediche Romane sulle Belle Arti. Tomo V, 1810, S. 127;
+                            zitiert nach:. Ernst Steinmann: Das Schicksal der Kreuzlegende des
+                            Daniello da Volterra, in: Monatshefte für Kunstwissenschaft, hrsg. von
+                            Georg Biermann, Bd. 12, Nr. 8/9 (1919), S. 193-212, hier S. 204). -
+                            Während die Seiten- und Deckengemälde verloren gingen, blieb die
+                            "Kreuzabnahme" erhalten und verblieb in Rom. Sie wurde 1809 von
+                            Palmaroli von der ausgesägten Wand auf Leinwand übertragen und später
+                            für Santa Trinità de' Monti zurückgekauft (vgl. Ernst Steinmann: Die
+                            Plünderung Roms, URL:
+                            http://edoc.biblhertz.it/editionen/steinmann/kunstraub/) </note>
+                    </seg>. </p>
+                <p>
+                    <seg type="comment">
+                        <orig>Das schönste Oelgemälde</orig>
+                        <note xml:id="ntkx_jjh_wz">Die Franzosen besetzten und beschlagnahmten im
+                            Sommer 1798 die deutsche Kirche (so wie die meisten Kirchen, Klöster und
+                            geistlichen Institute zum französischen Nationaleigentum erklärt wurden)
+                            und plünderten und versteigerten deren gesamte Kunstschätze. Das Gemälde
+                            von Giulio Romano im Hochaltar, das die Heilige Familie vor einer
+                            antiken Architekturruine zeigt, flankiert von den knienden Aposteln
+                            Markus und Jakobus, wurde zuerst in die Französische Akademie am Corso
+                            gebracht und sollte dann nach Paris abtransportiert werden. Die Kirche
+                            diente in der Folge als Heumagazin und Pferdestall. Nach dem
+                            Zusammenbruch der Römischen Republik 1799 konnten die beschlagnahmten
+                            Kunstwerke zurückerworben werden und kehrten in die Kirche
+                            zurück.</note>
+                    </seg> von <persName key="ed_clk_shh_wz">Julio Romano</persName> – in der
+                    Deutschen Kirche – <placeName key="ediarum_vqj_33h_wz">S<ex>anta</ex> Maria
+                        dell'anima</placeName> – unter dem Vorwande daß es eine <placeName key="ed_nx5_22d_xz">Flammlandische</placeName> Kirche sey – ist von den
+                    Franzosen genommen worden.</p>
+                <p> </p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie wohl, empfehlen Sie mich allen, auch der niedlichen <persName key="prov_w3h_3rj_gv">Jagemann</persName> – und laßen Sie <del rendition="#s" next="bald">sich</del> bald wieder etwas von sich hören –
+                        <lb/>Ihr</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <persName key="prov_l5h_zfd_sv">Mad. Sander</persName> ist immer noch nicht wohl
+                    – hofft aber Beßerung durch ihre baldige <seg type="comment">
+                        <orig>Niederkunft</orig>
+                        <note xml:id="nvwt_2r3_wz">Im Februar 1799 wird der jüngste Sohn der Familie
+                            Sander, Karl Wilhelm Heinrich Ferdinand, geboren.</note>
+                    </seg>. <seg type="comment">
+                        <orig>
+                            <persName key="ed_l5q_tr3_wz">Feßler</persName> hat wieder einen neuen
+                                <persName key="prov_o12_bfx_w5">Schüler</persName>
+                        </orig>
+                        <note xml:id="nxr5_cf3_wz">Hier ist wohl der Prinz August von England
+                            gemeint, der von Feßler am 20. Dezember 1798 in die Loge "Zur siegenden
+                            Wahrheit", eine Berliner Tochterloge der "Royal York de l'Amitié",
+                            aufgenommen und im Juni 1799 zum ersten Aufseher der Loge gewählt wurde.
+                            Vor seiner Abreise aus Berlin 1800 ernannte ihn die "Royal York" zum
+                            Repräsentanten bei der Londoner Großloge.</note>
+                    </seg>, <seg type="comment">
+                        <orig>und arbeitet immer fort in Freym<ex>aurer</ex> Sachen</orig>
+                        <note xml:id="nhk1_p23_wz">Zu Feßlers Logenreform siehe ausführlich: Florian
+                            Maurice: Freimaurerei um 1800. Ignaz Aurelius Feßler und die Reform der
+                            Großloge Royal York in Berlin.. Tübingen 1997.</note>
+                    </seg>: besonders da die <seg type="comment">
+                        <orig>
+                            <orgName key="ed_kjh_vfc_b1b">drey Mutterlogen</orgName>
+                        </orig>
+                        <note xml:id="nrnr_fb3_wz">Die Große National-Mutterloge "Zu den drei
+                            Weltkugeln" (gegründet 1740), die Große Loge der Freimaurer von
+                            Deutschland (1770 als Großloge konstituiert) und die Großloge Royal York
+                            (gegründet um 1752; 1798 Aufteilung in vier Berliner Tochterlogen). 1810
+                            vereinigen sie sich zum Freimaurerverein der drei Großlogen zu Berlin;
+                            vgl. dazu ausführlich: Karlheinz Gerlach: Freimaurerlogen in Berlin, in:
+                            Uta Motschmann (Hrsg.): Handbuch der Berliner Vereine und Gesellschaften
+                            1786-1815. Berlin 2015, S. 258-399.</note>
+                    </seg> hier sich immer noch nicht recht verständigen wollen. <seg type="comment">
+                        <orig>Er ist iezt mitredacteur vom <bibl sameAs="prov_x3v_f4r_gv">Archiv der
+                                Zeit</bibl> etc</orig>
+                        <note xml:id="nqpj_fd3_wz">Johann Daniel Sander schreibt dazu an Böttiger,
+                            Berlin, 22. Dezember 1798: "Wie Sie wissen, ist unser Feßler
+                            Mit-Redacteur des Berl. Archivs geworden. Das ist ein kleiner Zuschuß zu
+                            der Bezahlung der beiden Pensionäre, die er jetzt wieder hat. Aber - zu
+                            meiner Freude bekommt er jetzt einen größeren. Gestern, als ich gerade
+                            in meiner Handlung gewesen bin, hat Hirt uns besucht u. meiner Frau
+                            erzählt: Feßler sey Mitglied (Assessor?) des Ober-Schul-Collegiums
+                            geworden, u. solle, weil er den Katholicismus kenne, das Fach der
+                            katholischen Schulen, besonders in Südpreußen unter seiner Aufsicht
+                            haben. Morgen spreche ich Feßler, u. bringe ihm noch eine gute
+                            Nachricht. Ich habe ihn der Voßischen Buchhandl. an meiner Stelle
+                            vorgeschlagen. Sie wird ihm zwar nicht geben, was ich bekam; indeß kann
+                            ich ihn für das Correspondiren mit Gelehrten; für Durchlesen der
+                            einlaufenden Mscrpte u. dergleiche, doch wenigstens, vorläufig, 300
+                            thaler versprechen. Ueberhaupt scheint sich des guten Feßlers
+                            Glücksstern nun auf einmal zu wenden. Denken Sie nur! Dieser Tage hat er
+                            den Englischen Prinzen August in seine Loge aufgenommen!" (Bernd Maurach
+                            (Hrsg.): Die Briefe Johann Daniel Sanders an Carl August Böttiger, Bd.
+                            2, Bern [u.a.] 1990, S. 263).</note>
+                    </seg> –</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

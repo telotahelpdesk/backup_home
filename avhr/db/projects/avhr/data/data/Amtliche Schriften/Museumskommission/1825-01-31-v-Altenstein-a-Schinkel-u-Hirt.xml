@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fkf_qh2_3kb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    31. Januar 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 107r-108v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-01-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_o11_sly_hkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio mit zahlreichen egh. Korrekturen von Altenstein.
+                    - Bearbeitungsvermerke: Mundierungs- und Absendevermerk "4/2."; "vHalem /31.
+                    Jan."; Aktenvermerk "ad N° 218 B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren, Geheimer Ober-Bau-/rath Schinkel und Hofrath
+                            Hirt, / Hochwohl- und Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 31. Januar, 1825.</dateline>
+                </opener>
+				<p>Auf Ew. Hochwohl- und Wohlgeboren Schreiben vom 21. d<ex>ieses</ex> M<ex>onats</ex> kann ich
+                    nicht unbemerkt lassen, daß ich die Beschwerde über das Entbehren einiger der
+                        <orgName key="ed_u5s_1fc_b1b">KunstAkademie</orgName> zur <rs type="artwork" key="prov_s1x_1nh_ckb">KunstAusstellung</rs> überlassenen Räume nicht
+                    angemessen finde. Ganz unrichtig ist, daß dem Herrn <persName key="ed_nzp_pk2_3kb">Steinmann</persName>, welcher mit dem allgemeinen
+                    Ausdruck eines fremden Kunsthändlers bezeichnet seyn wird, in dieser bemerkten
+                    Qualität und in irgend einem Bezug auf das Gewerbe des Kunsthandels ein der
+                        <orgName key="ed_u5s_1fc_b1b">Academie der Künste</orgName> zugehöriger Raum
+                    eingegeben ist. Diesem <pb n="2"/> Manne wurde die Aufstellung <seg type="comment">
+                        <orig>seiner wenigen Gemälde</orig>
+                        <note xml:id="nxtr_gw2_3kb">Vor allem "programmatische Bildnisse: eine
+                            sogenannte "Violande" von Paris Bordone, "Helena Capello" von Giorgione
+                            und "Luther" von Cranach" (Robert Skwirblies: Altitalienische Malerei
+                            als preußisches Kulturgut, 2017, S. 362). Ebd. werden auf S. 518
+                            zusätzlich noch Veronese und Albani aufgeführt.</note>
+                    </seg>, auf deren Ankauf nicht gerechnet wird, nur in der Absicht dort
+                    verstattet, damit, wenn die feilsten Personen, wie dies in <placeName key="prov_zj4_hc3_g5">Dresden</placeName> der Fall gewesen ist, sie in
+                    Augenschein nehmen wollen, solche in einem angemessenen Locale gesehen werden
+                    können. Eben so unrichtig ist auch die Angabe, daß dem fremden <persName key="ed_nzp_pk2_3kb">Kunsthändler</persName>
+                    <hi rendition="#u">jene Räume</hi>, welche die <orgName key="ed_u5s_1fc_b1b">Academie der Künste</orgName> zur diesjährigen <rs type="artwork" key="prov_s1x_1nh_ckb">Kunstausstellung</rs> gebraucht hat, abgetreten
+                    wären. Es ist dem Herrn <persName key="ed_nzp_pk2_3kb">Steinmann</persName> von
+                    dem <placeName key="ediarum_qkl_1cw_jgb">Locale</placeName> der <orgName key="ed_u5s_1fc_b1b">A<ex>kademie</ex> d<ex>er</ex>
+                        K<ex>ünste</ex></orgName> nur der lange Saal verstattet. Sollte sich
+                    derselbe weiter ausgedreht <ex>[ausgedehnt?]</ex> haben: so wäre <unclear reason="illegible" cert="">dieses</unclear> bey seiner Bescheidenheit ein
+                    blos auf Unkunde beruhendes Versehen welches sich gar leicht durch Rüksprache Er
+                    w. <ex>[Euer Wohlgeboren?]</ex> hätte abstellen laßen. Ist dies aber nicht der
+                    Fall: so ist auch nicht abzusehen, warum der Eksaal, dessen völlige Ausräumung
+                        <unclear reason="illegible" cert="">wenigstens längst bewürkt</unclear> seyn
+                    kann, <pb n="3"/> nicht zur Aufnahme der restaurirten Gemälde benutzt worden
+                    ist. Hierzu hätte es eines besonderen Vertrages gar nicht bedurft, sondern nur
+                    der <unclear reason="illegible" cert="">Mitsprache</unclear> mit dem <persName key="prov_wsc_2hd_4v">Director</persName> der <orgName key="ed_u5s_1fc_b1b">Academie d<ex>er</ex> K<ex>ünste</ex></orgName> der von mir angewiesen ist,
+                    die zur Kunstausstellung benutzten Räume demnächst wieder zum Gebrauch des
+                    Restaurations-Ateliers zu verstatten. Was aber insbesondere den langen Saal
+                    betrift: so haben Ew. Wohlgeboren, der Herr Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName> in Ihrem Bericht vom 15 October
+                        v<ex>origen</ex> J<ex>ahres</ex> bemerkt, "daß das Local der Restauration
+                    durch den viereckigen und langen Saal zu erweitern seyn würde und daß die
+                    Restauratoren hierzu fordern, dass im langen Saale Fenster durchgebrochen
+                    werden, um das gehörige Licht zu haben: dies mit der frühesten Zeit des
+                    kommenden Früjahres." Soviel aus dem Schreiben vom 21. d<ex>ieses</ex>
+                        M<ex>onats</ex> zu entnehmen ist handelt es sich vorzüglich um die
+                    Auseinanderstellung der restaurirten Bilder, welche, beiläufig 80 bis 100 an der
+                    Zahl in dem Eksaale unterzubringen seyn werden. Die Absicht, den langen Saal bis
+                    zur nahen frühesten Zeit des Frühjahr zum bedeutenden Unterbringen alter Gemälde
+                    zu benutzen, kann ich mit <choice>
+                        <sic>des</sic>
+                        <corr type="deleted"/>
+                    </choice>
+                    <pb n="4"/> seine<supplied cert="high">r</supplied> Anzeige nicht wohl
+                    vereinigen, da die Einbringung der Gemälde in diesen Saal mit der, durch die
+                    beabsichtigte Bauvorrichtung erforderliche Ausräumung fast zusammen treffen
+                    würde. Ich sehe daher noch einer nahen Anzeige darüber entgegen, ob und bis zu
+                    welchen Zeitpunkt die <unclear reason="illegible" cert="">Verlängerung</unclear>
+                    der Fenster in dem langen Saale welche mir allerdings in vielfacher Beziehung
+                    höchst <unclear reason="illegible" cert="">weitläuftig</unclear> und bedenklich
+                    erscheint auszuführen seyn mögte. Ew. — können den Eksaal sogleich von der
+                    königlichen <orgName key="ed_u5s_1fc_b1b">Academie der Künste</orgName>
+                    übernehmen und will ich nur das Corridor-Zimmer, welches an den Mittelsaal stößt
+                    zu meiner Disposition vorerst noch <unclear reason="illegible" cert="">vorbehalten</unclear>. Auf einen näheren Bericht über die baulichen
+                    Veränderungen in dem langen Saale werde ich das Weitere nach den Umständen
+                    veranlaßen</p>
+				<closer>
+                    <signed>(Namens Sr. Excellenz) <lb/><ex>[gez.]</ex>
+                        A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

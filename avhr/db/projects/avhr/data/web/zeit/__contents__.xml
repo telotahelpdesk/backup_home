@@ -1,0 +1,21 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/web/zeit" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="timeline_daten.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" modified="2020-02-28T10:18:24+01:00" filename="timeline_daten.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="zeitlinie.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" modified="2020-02-28T10:18:24+01:00" filename="zeitlinie.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="timeplot_daten.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:25+01:00" modified="2020-02-28T10:18:25+01:00" filename="timeplot_daten.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="aktivitaet.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:25+01:00" modified="2020-02-28T10:18:25+01:00" filename="aktivitaet.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="diachron.html" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:25+01:00" modified="2020-02-28T10:18:25+01:00" filename="diachron.html" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="timeline_daten.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:25+01:00" modified="2020-02-28T10:18:25+01:00" filename="timeline_daten.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

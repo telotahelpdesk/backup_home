@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_frs_myw_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Friedrich von Matthisson und/oder an Louise von Anhalt-Dessau. Rom, 19.
+                    Mai 1796. Donnerstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Tagebücher der Fürstin Louise von Anhalt-Dessau: Eintrag 19. Mai
+                    1796: "[...] als ich zu Hirt schiken wolte kam schon der Spediteur [...] und
+                    Assoçié von Senking der von M[atthisson] einen Zettel von Hirt brachte
+                    wodurch selbiger den Verboth des Arztes meldete noch diesen Tag nicht außgehen
+                    zu sollen" (LHASA, Abt. Dessau, A 9 e Nr. 15 (4)).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-05-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Hirts
+                        Kursteilnehmerin in Rom, Freundin Hirts)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

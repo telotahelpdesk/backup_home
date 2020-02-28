@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jbl_q1f_vz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Wilhelm Uhden. Rom, vor 10. Februar 1798]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1798-02-10-a-Böttiger: "Mit lezter Post hatte ich auch Nachrichten
+                    v[on] Uhden. Er sagt mir unter andern: "Zoega's lang erwartetes Buch ist immer
+                    noch nicht erschienen. Die Schuld liegt am Kupferstecher. In einer Vigna nahe
+                    bey Velletri ist eine außerordentliche schöne stehende Statue der Minerva
+                    gefunden worden. Sie ist von griechischem marmor, kolossal, etwas über 14.
+                    palmen hoch. der Kopf ist bewunderungswürdig gut erhalten, und ist das schönste
+                    Ideal der Göttin, welches man bis iezt kennet. - Der Prinz Borghese hat
+                    Visconti's Erläuterungen der Monumenti Gabini mit recht elenden Kupfern drucken
+                    laßen. Dieß schäzbare Buch kommt nicht in Umlauf durch den Buchhandel, sondern
+                    wird vom Prinzen selbst an seine Bekannte verschenkt." von der Angelica höre ich
+                    nichts."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ffk_snl_cv">Uhden, Wilhelm (1763-1835) (preuß. Beamter und
+                        Diplomat, Gesandter beim Vatikan, Archäologe, Mitbegründer der Berliner
+                        Universität, 1790-1802 in Rom, Freund Georg Zoegas)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1797-12-01" notAfter="1798-02-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

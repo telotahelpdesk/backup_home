@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_pkz_jjf_f5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An August Rode. Berlin, den 17. August 1799. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SBB-PK</institution>
+                        <repository>Handschriftenabteilung</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Slg. Autographen: Hirt, Aloys</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl n="1" type="print">Abschrift und Kommentar von Manfred Pix, 2007, ebd. </bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys
+                        (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-08-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ams_xtr_js">Rode, August von (1751 - 1837) </persName>
+                    <placeName key="prov_qht_zxr_js">Dessau</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 17<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Aug. 99.</dateline>
+                    <salute/>
+                </opener>
+                <p>Schon lange, mein liebster Freund! liegt nicht nur der versprochene <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_lpb_jfv_pv">Aufsaz über die tosk<ex>anische</ex>
+                                Bauart</bibl>
+                        </orig>
+                        <note xml:id="negn_3c1_3s">Hirt, Aloys: Ueber die toscanische Bauart und
+                            nach Vitruv. In: Sammlung nützlicher Aufsätze und Nachrichten die
+                            Baukunst betreffend 1 (1799), S. 3-23 [Zimmer 2004, Nr. 29].</note>
+                    </seg>, sondern auch <seg type="critical">
+                        <orig>meine academische Abhandlung <bibl sameAs="prov_p4r_zgj_qv">über das
+                                Vogelhaus von M. Varro</bibl>
+                        </orig>
+                        <note xml:id="nt1p_kbs_js">Hirt, [Aloys]: Über das Vogelhaus des M.
+                            Terentius Varro zu Casinum. In: Sammlung der deutschen Abhandlungen
+                            welche in der Königlichen Akademie der Wissenschaften zu Berlin,
+                            vorgelesen worden in den Jahren 1792-1797: Schöne Wissenschaften, Berlin
+                            1799 (Vorgelesen den 16 Februar 1797) [Zimmer 2004, Nr. 28].</note>
+                    </seg>, für Sie bereit. Beyde sind in meiner Abwesenheit gedruckt worden, und
+                    wie Sie sehen werden mit vielen Druckfehlern. - Die ursache, warum ich sie Ihnen
+                    nicht zusandte <add>war</add>, weil ich Ihnen dieselben durch Gelegenheit - um
+                    Ihnen keine Unkosten zu machen - zuschicken wollte. Ein paar Reisende, die sie
+                    mitnehmen wollten, haben dann ihre Reiseroute geändert; und iezt ist der
+                        <persName key="prov_eyz_5ts_hv">
+                        <orig>Legationsrath Weyland</orig>
+                    </persName> von <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    hier, der die Übergabe an Sie besorgen will. Er verschiebt aber auch seit 14.
+                    Tagen seine Abreise immer weiter, wovon wir zwar profitiren, aber Sie dort sich
+                    schon länger gedulten müßen. Auf jeden Fall bitte ich Sie, mir gelegenheitlich
+                    zu sagen, ob Sie nicht etwa postfrey sind - um etwa bey künftigen Vorfällen alle
+                    Verzögerungen abzukürzen. Ich vergaß, Sie darüber zu fragen. -</p>
+                <p>
+                    <seg type="critical">
+                        <orig>
+                            <bibl sameAs="ed_ib4_mmg_yz">Ihre Arbeit zu den vitruvischen Zeichnungen
+                            </bibl>
+                        </orig>
+                        <note xml:id="nqcq_wlf_ks">Marci Vitruvii Pollionis De architectura libri
+                            decem [Zehn Bücher über Architektur]: Ope codicis Guelferbytani,
+                            editionis pricipis, ceterorumque subsiodiorum recensuit, et Glossario in
+                            quo vocabula artis propria Germ. Ital. Gall. et Angl. explicantur,
+                            illustravit Augustus Rode Dessaviensis. Berlin: Mylius, 1800.</note>
+                    </seg> ist geschwind gegangen: und wie? Sie sollten iezt keine Verleger hiezu
+                    finden? gedenken Sie denn den lateinischen <persName key="prov_qpz_vyr_js">vitruv</persName> ohne <seg type="comment">
+                        <orig>Kupfer</orig>
+                        <note xml:id="nqfr_msg_yz">Das Werk erschien mit Kupfern und mit "Erklärung
+                            der Kupfer" in Latein und Deutsch. - Im 7. Buch zeigen die Figuren III,
+                            IV und V "Beispiele von, auf die Wand gemalten, Undingen, aus den
+                            Pitture d'Ercolane. z. b. Anstatt der Säulen, Rohrstängel; anstatt der
+                            Giebel, geriefte Häklein mit krausem Laubwerke und Schnörkeln u. dergl."
+                        </note>
+                    </seg> zu geben? ich gestehe Ihnen, lieber Freund! daß mir dieß nicht gefällt.
+                    Ich würde eher die Sache noch verschieben, als den Text so nakt in die Welt
+                    schicken. Sie verlangen indeßen bey einigen <pb n="2"/> Zeichnungen meinen Rath.
+                        1<hi rendition="#sup">
+                        <hi rendition="#u">mo</hi>
+                    </hi> die Grotesken betreffend: Ich habe eben den <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_ypv_34g_yz">Nachstich des Mus. Ercolanense</bibl>
+                        </orig>
+                        <note xml:id="nkcv_1pg_yz">Siehe auch: Les Antiquités d'Herculanum avec
+                            leurs explications en francais, gravées par F. A. David, publiées par
+                            Sylvain Maréchal, 8 Bde., Paris 1781-89.</note>
+                    </seg> vor mir, und finde, daß Sie bereits mehrere Blätter <seg type="critical">
+                        <orig>in <bibl sameAs="ed_akv_ymg_yz">Ihrem deutschen vitruv</bibl>
+                        </orig>
+                        <note xml:id="nlpw_gmf_ks">Des Marcus Vitruvius Pollio Baukunst, aus der
+                            römischen Urschrift übers. v. August Rode. 2 Bde., Leipzig: Georg
+                            Joachim Göschen, 1796 [Bd. 2 enthält außerdem: Vitruvisches Wörterbuch].
+                            - Kupfer zu Vitruvs zehn Büchern von der Baukunst. Mehrenteils nach
+                            Antiken Denkmälern gezeichnet [...]. Von August Rode. Berlin: Mylius,
+                            1801. - Vgl. auch: Exegetische Briefe über des Marcus Vitruvius Pollio
+                            Baukunst. An August Rode von Hans Christian Genelli. Braunschweig:
+                            Vieweg, 1801.</note>
+                    </seg> citirt haben, welche dasjenige, wovon <persName key="prov_qpz_vyr_js">Vitruv</persName> spricht, recht gut erklären. Wählen Sie besonders zum
+                    Kopiren tab. 39. u. etwa<del rendition="#s" prev="etwas">s</del> noch ein paar
+                    andere aus den 3. folgenden Bänden. Auch könnten Sie etwas aus den Thermen des
+                    Titus hiezu gebrauchen. <hi rendition="#u">Nb</hi>. ich sehe in der von Ihnen
+                    beygefügten <seg type="comment">
+                        <orig>Note</orig>
+                        <note xml:id="na5d_x4g_yz">Notitia de M. Vitruvio Pollione, ex libris ejus,
+                            S. XIII-XVI.</note>
+                    </seg> zu <persName key="prov_qpz_vyr_js">Vitruv</persName>: daß Sie glauben, es
+                    wäre ein wesentlicher Unterschied zwischen Groteske, u. Arabeske. Ich bin dieser
+                    Meinung nicht: - Die Sache verhält sich meinen Forschungen <del rendition="#s" prev="darüber">dar</del>über diesen Punkt gemäß <hi rendition="#u">so</hi>:
+                    Die Araber, so wie nachher alle Länder, worin man sogenannt gothisch baute,
+                    ahmten die Verzierungen der alten griechischen und römischen Monumente auf eine
+                    barbarische Weise nach: und daher finden sich sehr oft die schönsten
+                    Verzierungen der Alten in diesen barbarischen Werken des Mittelalters wieder,
+                    die nur durch ein elendes Machwerk entstellt sind, und die die beßere Hand des
+                    neuern Künstler oft wieder in ihrer schönen Form und Reinheit dargestellt hat,
+                    als z<ex>um</ex> Ex<ex>empel</ex>
+                    <persName key="prov_abl_fz5_35">Raphael</persName>, und viele Künstler des 15<hi rendition="#sup">ten</hi> Jahrhunderts. - Die Grotesken, und andere
+                    dergleichen Verzierungen in Stucco, und auf marmor sind nichts anderes, als die
+                    noch wirklich erhaltenen - oder wenigstens noch zur Zeit, wo die neuren großen
+                    Künstler lebten, noch erhaltenen Monumente selbst. Arabeske u. Groteske ist also
+                    im Grunde eines: nur daß leztere in originale, und die erstere in schlechter
+                    Copia auf uns gekommen sind. <pb n="3"/>
+                </p>
+                <p>2<hi rendition="#sup">
+                        <hi rendition="#u">do</hi>
+                    </hi> Columnaria: <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_jl2_1zj_cv">was ich über den fucinischen
+                                schrieb</bibl>
+                        </orig>
+                        <note xml:id="nbw3_nmf_ks">Hirt, [Aloys]: Reise von Grottaferrata nach dem
+                            Fucinischen See und Monte Casino, im October 1794. An Ihre Durchlaucht,
+                            die Herzogin Amalia von Sachsen-Weimar. In: Die Horen 8 (1796), Nr. 11,
+                            S. 35-79. - Fortsetzung ebd., Nr. 12, S. 1-20 [Zimmer 2004, Nr.
+                            19].</note>
+                    </seg>, findet sich in den <bibl sameAs="prov_erl_txj_gv">Horen</bibl>
+                        Jahrg<ex>ang</ex> 1796. im 11<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi> und 12<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Stück; mit bey<ex>ge</ex>fügten Kupfern. Von den Putei können Sie sich
+                    dadurch eine deutliche Idee machen: aber die Columnarien sind noch etwas
+                    anderes, nemlich eine vierekige Säule in Form eines oben abgestumpften
+                    Obelisk's, die hohl ist, u. daher das Waßer durch dieselbe ausdünsten kann.
+                    Gieng nun die Leitung tief unter der Erde, so ward vom Aquædukt eine solche
+                    Röhre, unseren Kaminen gleich, bis an die freye Luft aufgemauert: gieng aber die
+                    Leitung wenig vertieft unter der Erde, oder an der Erde hin, oder hoch auf
+                    Bogen, so standen diese Kaminsäulen über der Leitung acht bis 10. Fuß und auch
+                    mehr in die Luft empor. - Dieß habe ich öfters sowohl bey alten zerfallenen
+                    Aquædukten, als bey den neuern beobachtet. im 
+                        <bibl sameAs="ed_wcj_ryg_yz">galiani</bibl>
+                     giebt die
+                    Zeichnung einen hinlänglichen Begriff hievon, obwohl er nur die Ansicht im
+                    Ganzen, und nicht das Detail, welches doch nöthig wäre, davon giebt. -</p>
+                <p>Es thut mir leid, daß Ihre Correspondenz mit <persName key="ed_pld_lch_yz">
+                        <hi rendition="#u">Huth</hi>
+                    </persName> so schlecht geht. Indeßen scheint es
+                    immer ein tüchtiger Mann zu seyn, deßen Launen man etwas nachsehen muß. übrigens
+                    wißen Sie selbst, daß die Zweifel über <persName key="prov_qpz_vyr_js">vitruv</persName> nicht so leicht zu lösen sind: und so zu sagen jede
+                    Frage, ein neues Studium der Sache erfodert, um eine verständige Antwort geben
+                    zu können. Sie möchten daher Ihre Correspondenten durch zu kizzlichte Fragen in
+                    Verlegenheit gesezt haben. <pb n="4"/>
+                </p>
+                <p>Sie haben also <seg type="critical">
+                        <orig>den <bibl sameAs="prov_q4b_tpv_pv">Aufsaz</bibl> im lezten Hefte der
+                                <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl>
+                        </orig>
+                        <note xml:id="nssp_smf_ks">Goethe, Johann Wolfgang von: Der Sammler und die
+                            Seinigen. In: Propyläen 2,2 (1799), S. 26-122. - Goethe bezieht sich
+                            darin auf Hirts Aufsätze "Versuch über das Kunstschöne", in: Die Horen
+                            11 (1797), Nr. 7, S. 1-37 [Zimmer 2004, Nr. 20], "Laokoon", in: Die
+                            Horen 12(1797), Nr. 10, S. 1-26 [Zimmer 2004, Nr. 21] und "Nachtrag über
+                            Laokoon", in: Die Horen 12 (1797), Nr. 12, S. 19-28 [Zimmer 2004, Nr.
+                            22], in denen Hirt seine These vom "Charakteristischen" darstellte. In
+                            der S. 99,1 "ein Fremder", d. i. Hirt, folgenden Unterhaltung zitiert
+                            Goethe aus Hirts Aufsätzen zum Teil wörtlich, z.B. S. 101,21ff.</note>
+                    </seg>, der gegen mein System gerichtet ist, gelesen? er ist von <persName key="prov_hwd_hmp_5r">Goethe</persName> selbst; <seg type="comment">
+                        <orig>dem ich auch bereits schrieb</orig>
+                        <note xml:id="nrgk_fdh_yz">1799-08-22-a-Goethe.</note>
+                    </seg>, daß ich ihm in einer besondern Schrift antworten werde. Auch <seg type="critical">
+                        <orig>
+                            <persName key="prov_w4b_lwr_js">Fernow</persName> in <placeName key="prov_vkl_ndl_js">Rom</placeName> hat sich in einem <bibl sameAs="prov_frq_clv_pv">Aufsaz</bibl> des Aprilstücks im <bibl sameAs="prov_ahk_llv_pv">Deutschen Magazin</bibl> gegen mein System
+                            geäußert</orig>
+                        <note xml:id="nmnn_5mf_ks">[Fernow, Carl Ludwig]: Ueber den Zweck der
+                            bildenden Kunst [Rom, im April 1798]. In: Deutsches Magazin 17 (1799)
+                            [April], S. 337-375.</note>
+                    </seg>. Mir ist sehr lieb, mit solchen zwey Männern, und nicht mit Flegeln, wie
+                    die <persName key="prov_htp_dkz_jv">
+                        <persName key="prov_ocn_xjz_jv">Herrn
+                            Schlegel</persName>
+                    </persName> sind, zu thun zu haben; und ich habe
+                    keine Ursache zu fürchten, daß <seg type="comment">
+                        <orig>diese Debatte</orig>
+                        <note xml:id="nhqb_5dh_yz">Ausser Goethe und Fernow hatte sich besonders
+                            August Wilhelm Schlegel im "Athenäum" Zweiten Bandes Zweites Stück mit
+                            Hirts Kunstprinzipien aueinandergesetzt.</note>
+                    </seg> zu meiner Ehre enden werde.</p>
+                <p>Ich arbeite nun sehr stark an <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_e1l_pjv_pv">meiner architektonischen Theorie</bibl>
+                        </orig>
+                        <note xml:id="nyg3_x2h_yz">Hirts "Die Baukunst nach den Grundsätzen der
+                            Alten" erscheint mit 50 Kupfertafeln 1809.</note>
+                    </seg>: und die Kupferstecher werden im Oktober die Platten anfangen. <persName key="prov_qpz_vyr_js">Vitruv</persName> wird dabey in manchen Stellen
+                    Commentirt werden. und mich sollte es freuen, Ihnen zur <seg type="comment">
+                        <orig>zweyten Ausgabe des deutschen Vitruv's</orig>
+                        <note xml:id="nx4p_t4h_yz">Eine zweite Auflage erschien nicht, nur
+                            Neuauflagen der Erstausgabe von 1796.</note>
+                    </seg> einige nicht unerhebliche Beyträge gegeben zu haben. Ich liebe Offenheit,
+                    und der Widerspruch mit Gründen wird mir immer willkommen seyn: und so denke ich
+                    von jedem würdigen Manne, dem die Wahrheit am herzen liegt, und nicht sein
+                    kleines <hi rendition="#u">Ich</hi> alles ist. Sie werden finden, daß ich in den
+                        <seg type="comment">
+                        <orig>beyden Aufsäzen</orig>
+                        <note xml:id="ndgy_x4h_yz">Siehe oben den Anfang des Briefes</note>
+                    </seg>, die <persName key="prov_eyz_5ts_hv">Hr. Weyland</persName> Ihnen
+                    zustellen wird, von Ihrer Meinung öfters abgehe: aber eben so frey bitte ich
+                    Sie, mir zu antworten, wo meine Gründe Sie nicht überzeugen, und mir zugleich
+                    die Ihrigen anzuzeigen. - Leben Sie wohl, grüßen Sie die Ihrigen, und <seg type="critical">
+                        <orig>
+                            <persName key="ed_jjf_p1c_zz">v. Döring's</persName>
+                        </orig>
+                        <note xml:id="no3c_dyp_pv">Mit Rode verschwägerte Familie; gleiches
+                            Grabgewölbe auf dem neuen Begräbnisplatz in Dessau; entweder seine Frau
+                            oder seine Schwester</note>
+                    </seg>. Mit Vergnügen werde ich immer mich <seg type="critical">
+                        <orig>der in <placeName key="prov_qht_zxr_js">Deßau</placeName> vollbrachten
+                            Stunden</orig>
+                        <note xml:id="nsyk_wmf_ks">Nach seinem Aufenthalt in Weimar und Jena Ende
+                            Juni / Anfang Juli 1797, bei dem er Goethe besucht und in Jena Schiller
+                            kennengelernt hatte, kam Hirt Mitte Juli für einige Tage nach Dessau.
+                            Anfang August reiste er in Begleitung von Karl August Böttiger nach
+                            Berlin zurück.</note>
+                    </seg> erinnern</p>
+                <closer rend="paragraph">
+                    <salute>Ihr ganz eigener / Fr<ex>eund</ex> u. D<ex>iener</ex>
+                    </salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

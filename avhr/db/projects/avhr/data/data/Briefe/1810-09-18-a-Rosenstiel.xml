@@ -1,0 +1,127 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ev5_pvn_fw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Philipp Rosenstiel (Direktor der Gesetzlosen Gesellschaft Nr.
+                    1). Berlin, 18. September 1810.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness select="#this">
+                        <bibl type="print">[Ernst Soehlke]: Die Zwanglose 1806-1906. [Berlin 1906],
+                            S. 16</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1810-09-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_x2x_1wn_fw">Rosenstiel, Friedrich Philipp (1754-1832) (1786
+                        Oberbergrat, 1802 Direktor der Königlich Preußischen Porzellan-Manufaktur,
+                        Mitglied des Preußischen Staatsrates, 1804 Geh. Oberfinanzrat und Kriegs-
+                        und Domänenrat beim Bergwerks- und Hüttendepartement, Schwiegervater von
+                        Johann Gottfried Schadow, Direktor der Gesetzlosen Gesellschaft Nr. 1, 1790
+                        OM der Akademie der Künste)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Nur Druckzeuge vorhanden; H Verbleib unbekannt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute/>
+                </opener>
+                <p>Hiermit habe ich die Ehre, dem <seg type="comment">
+                        <orig>neuerwählten Direktor</orig>
+                        <note xml:id="nb1c_kb4_fw">Rosenstiel war von August 1810 bis 1832 Direktor
+                            der Gesetzlosen Gesellschaft Nr. 1 (Eintritt am 23. August 1806,
+                            Mitgliedsnr. 16). Die Direktoren wurden von den Mitgliedern per
+                            Ballotement (Kugelung) mit Stimmenmehrheit gewählt. </note>
+                    </seg> der<seg type="comment">
+                        <orig>
+                            <orgName key="ed_blg_yfc_b1b">gesetzlosen Gesellschaft Nr. 1</orgName>
+                        </orig>
+                        <note xml:id="nufg_vb4_fw">Die Gesetzlose Gesellschaft wurde am 8. März 1806
+                            in Berlin gegründet und bestand bis 1914. Die Mitglieder der
+                            Tischgesellschaft trafen sich 14-tägig in verschiedenen öffentlichen
+                            Lokalen Berlins zum gemeinsamen Mittagessen. Der Namensgebung
+                            entsprechend gab es keine gesetzlichen Festlegungen; einmal in den
+                            gesetzlosen Kreis aufgenommen, blieb man lebenslang Mitglied. Da 1809
+                            eine weitere Gesetzlose Gesellschaft in Berlin gegründet wurde, nannte
+                            sie sich dann in „Ältere gesetzlose Gesellschaft“ bzw. „Gesetzlose
+                            Gesellschaft Nr. 1“ um; ab 1826 in „Die Zwanglose“. (Zu Geschichte und
+                            Struktur der Gesellschaft vgl. D sowie Uta Motschmann (Hrsg.): Handbuch
+                            der Berliner Vereine und Gesellschaften 1786-1815. Berlin [u.a.] 2015,
+                            S. 769-774).</note>
+                    </seg>, Herrn Staatsrath Rosenstiel, den Bestand des <hi rendition="#aq">inventariums</hi>, so wie es mir von dem <seg type="comment">
+                        <orig>
+                            <persName key="ed_ctf_3vj_xv">vorigen Direktor</persName>
+                        </orig>
+                        <note xml:id="nxr1_z14_fw">Johann Heinrich Menu von Minutoli war der erste
+                            „Direktor“ der Gesellschaft und übte das Amt von März 1806 bis August
+                            1810 aus (Eintritt in die Gesellschaft am 8. März 1806,
+                            Gründungsmitglied, Mitgliedsnr. 9).</note>
+                    </seg> ist übergeben worden, zuzustellen, und ihm und der Gesellschaft zu dieser
+                    Wahl zu gratulieren. Während <seg type="comment">
+                        <orig>meines Vizeregiments</orig>
+                        <note xml:id="ngvf_s24_fw">Hirt wurde am 28. Juni 1806 in die Gesellschaft
+                            aufgenommen (Mitgliedsnr. 14) und übernahm wohl schon während der
+                            Direktorenzeit von Minutoli, wenn dieser nicht anwesend sein konnte, die
+                            Geschäfte des „Substitutus“, die er auch unter Rosenstiel fortführte.
+                            Als Rosenstiel im Juli 1812 sein Amt niederlegen wollte, war auch Hirt
+                            als Nachfolger im Gespräch, lehnte jedoch ab. Hirt blieb allerdings
+                            weiterhin ein eifriges Mitglied der Gesellschaft; in den Unterlagen ist
+                            er noch bis Ende 1813 als anwesend verzeichnet.</note>
+                    </seg> hat sich nichts zu bemerkendes zugetragen. Das Einzige, was ich noch
+                    beyzufügen habe, ist, daß <seg type="comment">
+                        <orig>das jüngste Mitglied der Gesellschaft, Herr <persName key="ed_dcy_d14_fw">Staatsrat D. Langermann</persName>
+                        </orig>
+                        <note xml:id="ncqt_w14_fw">Langermann trat am 11. August 1810 in die
+                            Gesetzlose Gesellschaft Nr. 1 ein (Mitgliedsnr. 43).</note>
+                    </seg>, seinen Beytrag von 2 Th<ex>a</ex>l<ex>er</ex> 12 Gr<ex>oschen</ex> noch
+                    nicht gegeben hat, und sich deshalb an den <seg type="comment">
+                        <orig>verschlagenden</orig>
+                        <note xml:id="nltf_sxn_fw">Wohl Schreibversehen oder Lesefehler, statt:
+                            vorschlagenden.</note>
+                    </seg> M<ex>edizinal</ex> Rath und D<ex>r</ex>. <seg type="comment">
+                        <orig>
+                            <persName key="ed_gcy_wxn_fw">v. Koenen</persName>
+                        </orig>
+                        <note xml:id="nuyc_1g4_fw">Obermedizinalrat von Koenen trat am 23. August
+                            1806 in die Gesellschaft ein (Mitgliedsnr. 17).</note>
+                    </seg> zu wenden ist.</p>
+                <p>Der Himmel schenke dem neuen Direktorium Behagen und Wohlseyn, damit die
+                    Gesellschaft ferner grüne und wachse!</p>
+                <closer>
+                    <signed>Der bißherige <lb/>Substitutus Hirt.</signed>
+                    <dateline>Berlin, den 18. September 1810.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

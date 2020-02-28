@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_xrh_gsc_5z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Weimar, vor 6. Januar 1798]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1798-01-06-a-Böttiger: "Ich danke für Ihr leztes durch Freund Sander
+                    mir eingehändigtes Schreiben. Es freuet <add place="superlinear">mich</add>, daß
+                    die Ihnen neuerlich übersandten Sachen Ihnen dort einigen Spaß machen; und mich
+                    bis iezt mit einer so nachsichtigen Kritik beurtheilen. Dort glaubt man, es
+                    würden der Fenster zu wenig <del rendition="#s" next="seyn">zu</del> seyn, hier
+                    verurtheilte man mich, weil ich überhaupt Fenster in der Cella angebracht habe
+                    [...]. Daß wir uns wieder in der Encaustik begegnen, ist sehr lustig. Mit
+                    Vergnügen werde ich dasjenige erwarten, was Sie bereits hierüber bekannt machten
+                    u. noch sonst in Ihren Papier<ex>e</ex>n aufgezeichnet haben. Sie wünschten, daß
+                    wir dieses Feld trennen könnten: aber wie soll dieß angehen? [...] Mit der
+                    Replique über Laokoon haben Sie es gut gemacht. [...] Mayer meinet also, wir
+                    würden uns verstehen, wir wir uns sprechen könnten [...] Über Gentz's Decoration
+                    kann ich Ihnen wenig sagen, denn ich habe sie nicht gesehen. [...] Die Gr[äfin]
+                    v[on] Lichtenau betreffend weiß man nichts".</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date notBefore="1797-12-12" notAfter="1798-01-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_hz3_gyx_gv"/>
+                    <ref type="next" target="prov_jjj_cp5_hv"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

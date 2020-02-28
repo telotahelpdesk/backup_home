@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jgy_by1_1jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatskanzlers von Altenstein an Hirt. Berlin, 26. Juli
+                    1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. III Nr. 13 Bd.
+                                2, Bl. 204r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-07-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Mit Ausfertigungsvermerk "BriefPapier" und Mundierungsvermerk, "ins. den 26/7
+                    21."; Aktenvermerk: "Num: 1,185. B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl: Hofraths / Herrn<hi rendition="#u"> Hirt</hi> /
+                            Wohlgeboren /<hi rendition="#u"> hier</hi></addrLine>
+                    </address>
+                    <dateline>Berlin, den 26<hi rendition="#sup">t</hi> July 1821.</dateline>
+                    <salute/>
+                </opener>
+				<p>Ew. Wohlgeboren wünsche ich Morgen wegen der Ankunft der <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>schen
+                        Gemälde-Sammlung</rs>, welche jezt sehr in Betreiben ist, zu sprechen und
+                    schlage Ihnen ergebenst vor, ob Sie mir das Vergnügen schenken wollen, Morgen
+                    Mittag um 4. Uhr in einer ganz kleinen Gesellschaft von ein paar Personen bei
+                    mir zu essen, und allenfalls etwas früher zu kommen, um vorher mit Ihnen
+                    Rücksprache nehmen zu können.</p>
+				<closer>
+                    <dateline>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></dateline>
+                    <signed><ex>[Namenskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

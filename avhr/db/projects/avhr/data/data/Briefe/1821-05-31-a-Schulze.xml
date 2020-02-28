@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_u1z_sxp_3x">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johannes Karl Hartwig Schulze. Berlin, 31. Mai 1821.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiello´nska, Krakow (ehemals Preußische
+                            Staatsbibliothek Berlin, Slg. Meusebach)</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">[keine Signatur vergeben]</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-05-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ov2_jyp_3x">Schulze, Johannes Karl Hartwig (1786-1869) (preuß.
+                        Theologe, Philologe, Pädagoge und Kulturbeamter, Mitarbeiter im preuß.
+                        Ministerium der geistlichen-, Unterrichts- und Medizinalangelegenheiten,
+                        1818 dort Geh. Oberregierungsrat und Vortragender Rat, 1852 Wirkl. Geh.
+                        Oberregierungsrat)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>S<hi rendition="#sup">
+                                <hi rendition="#u">er</hi>
+                            </hi> Hochwohlgeboren / dem Hn. Geh. Oberregierungsrath /Schultze - /
+                            Dönhoffscher Platz / mit / Buch und Kupfern. / Mit Siegel</addrLine>
+                    </address>
+                    <salute/>
+                </opener>
+                <p>Ich übersende Ihnen, verehrter Freund, ein Exemplar <del rendition="#s">meine</del> des 1<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi>
+                    Bandes meiner <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Baukunst</bibl>
+                    zugleich mit den Kupfern auch für den zweyten Band, der erst in ein paar Monaten
+                    ans Licht treten <add place="superlinear">wird</add>. - Sie werden am besten
+                    beurtheilen, in wie fern die Arbeit neben der <bibl sameAs="ed_s4z_z2q_3x">Geschichte der bildenden Künste</bibl> unseres<persName key="prov_tlq_wlw_z5"> Winkelmann's</persName> auftreten darf. An Willen und
+                    an Ausdauer hat es nicht gefehlt; aber nicht jedem ist das Talent des großen
+                    Vorgängers gegeben.</p>
+                <p>Empfangen Sie die kleine Gabe als einen Beweis meiner wahren Hochachtung und
+                    Freundschaft von <lb/>Ihrem ergebenen</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>31 May 21.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

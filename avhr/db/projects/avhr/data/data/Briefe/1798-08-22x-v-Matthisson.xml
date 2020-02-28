@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_otg_vrm_h1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich von Matthisson. Wörlitz, 22. August 1798. Mittwoch]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 344: Eintrag 23. August 1798: […]
+                    M[atthisson] kam und sagte mir, er wolle morgen früh zur Stadt […] Und da ich
+                    ihm von H[IRTS] Brief [= Brief Hirts an die Fürstin, vor 23. August 1798] sagte,
+                    griff ihm das sehr ein, daß er nichts Bestimtes geschrieben, und da sagte er
+                    mir, An H[IRT] gestern geschrieben zu haben.“</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                    <date when="1798-08-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

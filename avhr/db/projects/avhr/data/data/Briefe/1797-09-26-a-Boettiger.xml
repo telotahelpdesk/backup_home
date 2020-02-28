@@ -1,0 +1,597 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_a35_yjf_f5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 26. September 1797. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr.Dresd. h 37, 4°, Bd. 87, Nr. 2</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Vogtherr, Jb. der Berliner Museen, Bd. 39, 1997, Beiheft,
+                            Nr. 1797/2, S. 253-254</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys
+                        (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-09-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_xnb_2sn_rz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 26<hi rendition="#sup">ten</hi> Sept.
+                        1797.</dateline>
+                    <salute/>
+                </opener>
+                <p>Daß ich ein saumseliger Schreiber bin, da<subst>
+                        <del rendition="#ow">ß</del>
+                        <add>s</add>
+                    </subst> wißen meine Freunde schon lang: daß ich es indeßen gegen meinen mir so
+                    liebgewordenen Freund Böttiger so wenig als möglich seyn möchte, werden Sie mir
+                    glauben, weil ich es Ihnen versichere. Für's erste also Dank für <seg type="critical">
+                        <orig>Ihren Brief</orig>
+                        <note xml:id="ncjr_rzy_2v">Brief erschlossen:
+                            1797-09-vor26-von-Böttiger</note>
+                    </seg>, und den <seg type="comment">
+                        <orig>Einschluß</orig>
+                        <note xml:id="nzpt_vln_rz">Vermutlich Goethes Laokoon-Aufsatz; siehe
+                            unten.</note>
+                    </seg>. ich antwortete nicht so gleich, weil ich zum theil sehr – doch nicht wie
+                    unser <seg type="critical">
+                        <orig>
+                            <placeName key="prov_u24_mmg_f5">Weimarer</placeName> Freund</orig>
+                        <note xml:id="ncjy_vzy_2v">Wohl Goethe gemeint.</note>
+                    </seg> – doch sehr die Zeit her beschäftiget war, theils einiges mehrere bericht<subst>
+                        <del rendition="#ow">ige</del>
+                        <add>en</add>
+                    </subst> wollte. –</p>
+                <p>Leider! bin ich seither <seg type="comment">
+                        <orig>noch nicht wieder in <placeName key="prov_lh2_hxd_2v">Potsdam</placeName> gewesen</orig>
+                        <note xml:id="nd5x_hkn_rz">Hirt und Böttiger waren am 4. August gemeinsam
+                            von Dessau in Richtung Potsdam abgereist und hatten die königlichen
+                            Kunstschätze in den Potsdamer Schlössern besichtigt.</note>
+                    </seg>, obwohl ich schon zweymal die Pferde dahinzugehen bestellt hatte: also
+                    ein andermal mehr hievon: – Die <persName key="prov_cnf_bpl_cv">Fürstin v
+                        Dessau</persName>
+                    <seg type="critical">
+                        <orig>schrieb mir</orig>
+                        <note xml:id="nx1z_11z_2v">Brief erschlossen: 1797-09-vor26 -von-Louise von
+                            Anhalt-Dessau. - Böttiger hatte sich Ende August erneut inWörlitz
+                            aufgehalten; Louise von Anhalt-Dessau erwähnt in ihrem Tagebuch zwei
+                            Begegnungen mit Böttiger am Vormittag und am Nachmittag des 28. August
+                            (Tagebücher, Bd. 1, S. 315). </note>
+                    </seg> sehr viel hübsches, Sie betreffend, und Sie haben sehr bey ihr gewonnen.
+                    – <seg type="critical">
+                        <orig>Das Bild von <persName key="prov_yyf_k1z_2v">Lairesse</persName>
+                        </orig>
+                        <note xml:id="ndm3_p1z_2v">Sachverhalt unklar. Ob hier ein in Wörlitz oder
+                            Dessau befindliches Bild von Gerard de Lairesse gemeint ist oder eines
+                            aus der Dresdner Gallerie oder aber aus den Berliner und Potsdamer
+                            Schlössern, konnte nicht ermittelt werden. </note>
+                    </seg> kenne ich: weiß aber auch nichts näheres über die Vorstellung.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Den <bibl sameAs="prov_syr_nyh_gv">Aufsaz</bibl> v. <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                        </orig>
+                        <note xml:id="nl4b_jw5_fv">Goethes Laokoon-Aufsatz, den er als Antwort auf
+                            Hirts Laokoon-Aufsatz in den "Horen" geschrieben hatte. Der Aufsatz
+                            wurde bereits im Juli 1797 niedergeschrieben, aber erst im Oktober 1798
+                            veröffentlicht (Goethe: Ueber Laokoon. In: Propyläen. Eine periodische
+                            Schrifft herausgegeben von Goethe. Ersten Bandes Erstes Stück. Tübingen
+                            1798, S. 1-19). Böttiger hat Hirt eine Manuskriptfassung zugeschickt,
+                            wie er auch Hirts Entgegnung darauf, den "Nachtrag über Laokoon", vor
+                            dem Druck an Goethe gelangen ließ (vgl. Goethe an Schiller, 17. Januar
+                            1798: "Zugleich erhalten Sie einen Nachtrag von Freund Hirt über seinen
+                            Laokoon. / Böttiger hat, nach seiner beliebten Art, meinen Aufsatz über
+                            diese Materie an ienen Freund verrathen und dieser ist dadurch in die
+                            größte Bewegung gesetzt worden, wie der Nachtrag ausweist"; Goethe WA,
+                            IV, Bd.13, Nr. 3717, S. 28).</note>
+                    </seg> mit <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_u3g_fyh_gv">dem meinigen</bibl>
+                        </orig>
+                        <note xml:id="nzxz_zjb_gv">Hirt: Nachtrag über Laokoon. In: Die Horen, eine
+                            Monatsschrift hrsg. von Schiller. Band 12, Stück 12, Tübingen 1797, S.
+                            19-28.</note>
+                    </seg> u. dem Briefe erhalten Sie nächstens - ich habe alles fertig, aber nicht
+                    in ordnung geschrieben. Sagen Sie mir übrigens doch bald, <seg type="critical">
+                        <orig>wann <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                            zurückkomt</orig>
+                        <note xml:id="ntzy_v1z_2v">Goethe befand sich auf seiner dritten Reise in
+                            die Schweiz (30. Juli bis Ende November 1797). Er besuchte u.a. seine
+                            Heimatstadt Frankfurt, den Rheinfall, Zürich, Stäfa und bestieg den
+                            Gotthard, jedoch ohne - wie es sein Wunsch war - nach Italien
+                            weiterzureisen.</note>
+                    </seg> – ich kaufte indeßen <seg type="critical">
+                        <orig>die <rs type="artwork" key="prov_ehv_crw_gv">Landschaft</rs> v.
+                                <persName key="prov_kpx_jvd_cv">Dominichino</persName>
+                        </orig>
+                        <note xml:id="nmhw_fz1_sv">Das Gemälde wurde lange Zeit von Goethe wie auch
+                            von seinem Sekretär Christian Schuchardt, der die erste Zusammenstellung
+                            des Goetheschen Kunstbesitzes veröffentlicht hatte, für eine Arbeit von
+                            Domenico Zampieri, gen. Dominichino gehalten (vgl. Christian Schuchardt:
+                            Goethes Kunstsammlungen, Erster Theil, Jena 1848, S. 327, Nr. 8). In der
+                            Goethehaus-Monographie von 1996 (Gisela Maul, Margarete Oppel: Goethes
+                            Wohnhaus. München, Wien 1996, S. 78, Nr. 5) wird es dem Maler Paul Bril
+                            (1554-1626) zugeschrieben. Heute hält man allerdings einen unbekannten
+                            italienischen Künstler für wahrscheinlicher. - Das Bild ist im Großen
+                            Sammlungszimmer des Goethehauses am Weimarer Frauenplan ausgestellt.
+                            (Freundliche Auskunft von Frau Dr. Bettina Werche vom Goethehaus
+                            Weimar).</note>
+                    </seg>, vielleicht etwas zu theuer, <subst>
+                        <del rendition="#ow">G</del>
+                        <add>i</add>
+                    </subst>ch werde sie auch bald abschicken, u. sollte sie dort nicht gefallen,
+                    oder zu theuer scheinen, so schickt man sie mir wieder zurück.</p>
+                <p>An <persName key="prov_kyr_yvr_js">Tischbein</persName> schrieb ich noch nicht:
+                        <seg type="critical">
+                        <orig>wird aber geschehen</orig>
+                        <note xml:id="nrxf_tnt_fv">Ein solcher Brief ist nicht bekannt und kann auch
+                            nicht sicher erschlossen werden..</note>
+                    </seg>: gestochen sah ich den <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_gtm_gpt_fv">
+                                Ulyss in Polyphem's Höhle</rs>
+                        </orig>
+                        <note xml:id="nwwk_5nt_fv">Möglicherweise ein Probeheft von Johann Heinrich
+                            Wilhelm Tischbeins Zeichnungen zur Odyssee gemeint. Das erst 1801 in
+                            Göttingen von Christian Gottlob Heyne und Tischbein herausgegebene Werk
+                            "Homer nach Antiken gezeichnet" enthält auch mehrere Zeichnungen zur
+                            "Fabel vom Cyclopen Polyphem", u.a. "Polyphem hält einen Erschlagenen
+                            von den Gefährten des Ulyss, und Ulyss reicht ihm den Becher" ("Odysseus
+                            und seine Gefährten machen den auf einem toten Gefährten tretenden
+                            Polyphem betrunken"). </note>
+                    </seg> noch nicht: ich kenne aber zwey antike Monumente, ja drey - diese Mythe
+                        vorstellend.<pb n="2"/>
+                </p>
+                <p>Gestern als am Geburtstage unseres <persName key="prov_sqc_swd_2v">Königes</persName> hatten wir öfentliche Versammlung in der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>. Es wurden mehrere Reden
+                    verlesen. erstlich vom Minister <persName key="prov_gtp_ppt_fv">Heinitz</persName> – der die Versammlung <del rendition="#s" next="mit">er</del> mit einer <del rendition="#s" next="Anrede">Anrede</del> Anrede
+                    eröffnete - 2<hi rendition="#sup">
+                        <hi rendition="#u">tens</hi>
+                    </hi>
+                    <del rendition="#s" next="verlas">stellte</del> verlas der Secretär (der geheime
+                    Rath <persName key="prov_a32_jrt_fv">Mölter</persName>) das Summarium von dem,
+                    was die <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> das Jahr durch gethan,
+                    und geleistet hat etc. 3<hi rendition="#sup">
+                        <hi rendition="#u">tens</hi>
+                    </hi> las der geh. Rath <persName key="prov_lqc_zrt_fv">Langhans</persName> über
+                        <seg type="critical">
+                        <orig>die eingereichten Projekte für das Monument <persName key="prov_lhw_hst_fv">Fried<ex>richs</ex> II</persName>
+                        </orig>
+                        <note xml:id="npfl_j35_fv">Neben den Entwürfen von Langhans und Hirt (siehe
+                            unten) wurden noch Entwürfe von Johann Gottfried Schadow, Johann
+                            Heinrich Gentz und Friedrich Gilly eingereicht.</note>
+                    </seg>, und endlich ausführlich über <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_mdh_tst_fv">sein eigenes</rs>, als das
+                            zuerrichtende, wovon ein Modell in Gips aufgestellt war</orig>
+                        <note xml:id="nvzz_lf5_fv">In der "Beschreibung derjenigen Kunstwerke,
+                            welche von der Königlichen Akademie der bildenden Künste und
+                            mechanischen Wissenschaften in den Zimmern der Akademie dem Königl.
+                            Marstalle auf der Neustadt den 26. September und folgende Tage […]
+                            öffentlich ausgestellt sind" (Berlin 1797, Nr. 309, S. 55-56) ist das
+                            Modell von Langhans beschrieben: "Grundriß, Aufriß und Profil eines
+                            runden Tempels, dessen Untersatz 3 Stufen bilden, über welchem sich 12
+                            Ionische Säulen im Zirkel erheben, die eine runde Kuppel tragen. Die
+                            Säulen sind nach dem Porticus des Philipp von Macedonien auf Delos
+                            geformt […] Die Kuppel ist nach dem Pantheon zu Rom gearbeitet […] Die
+                            Säulen werden von Granit, die Capitaler von Marmor ausgeführt […] Dieses
+                            Monument wird auf Sr. Majestät Befehl am Anfange der Linden zwischen dem
+                            Pallast des Prinzen Heinrich K. H., der Bibliothek und dem Opernhause
+                            errichtet werden."</note>
+                    </seg>. 4<hi rendition="#sup">
+                        <hi rendition="#u">tens</hi>
+                    </hi>
+                    <seg type="comment">
+                        <orig>verlas <persName key="prov_bkg_btt_fv">Gedike</persName>
+                        </orig>
+                        <note xml:id="nqcy_3cp_rz">Beim Druck der Gedächtnisrede ist vermerkt:
+                            "Wegen Unpäßlichkeit des abwesenden Verfassers ward diese Rede am
+                            Geburtsfeste des Königs in der öffentlichen Sitzung der Akademie vom
+                            Herrn Oberconsistorial-Rath Dr. Gedike vorgelesen."</note>
+                    </seg>
+                    <bibl sameAs="prov_ayt_z35_fv">das Eloge vom seel<ex>igen</ex> Direktor
+                            <persName key="prov_wyl_f5t_fv">Rode</persName>, das <persName key="prov_cfd_v5t_fv">Ramler</persName> geschrieben hatte</bibl>. 5<hi rendition="#sup">
+                        <hi rendition="#u">tens</hi>
+                    </hi>
+                    <bibl sameAs="prov_qvp_dyt_fv">las ich über den königl<ex>ichen</ex>
+                        Kunstschaz</bibl>, und über die Vereinig<subst>
+                        <del rendition="#ow">end</del>
+                        <add>ung</add>
+                    </subst> desselben in ein <placeName key="prov_up1_xwt_fv">Museum</placeName>,
+                    und eine Gallerie – und zwar in <placeName key="prov_ycp_cpr_js">Berlin</placeName> selbst (dieser Aufsaz erregte allgemeine sensation) 5<hi rendition="#sup">
+                        <hi rendition="#u">tens</hi>
+                    </hi>
+                    <seg type="comment">
+                        <orig>las <persName key="prov_xyh_vvt_fv">Rambach</persName>
+                            <bibl sameAs="ed_wqh_1dp_rz">einen hübschen Aufsaz über den Werth der
+                                schönen Künste</bibl>
+                        </orig>
+                        <note xml:id="nwsc_xdp_rz">Der Druck der Rede im "Berlinischen Archiv der
+                            Zeit" beginnt mit den Sätzen: "Die folgende Abhandlung wurde von dem
+                            Verfasser bei der zur Feier des Geburtstages Sr. Majestät des Königs
+                            veranstalteten öffentlichen Sitzung der Königl. Akademie der bildenden
+                            Künste und mechanischen Wissenschaften am 25sten September 1797
+                            vorgelesen. Sie wird den Lesern hier gegeben, wie sie die Zuhörer
+                            empfingen. Veranlassung und Ort rechtfertigte indeß damals die Kürze,
+                            und hießen dasjenige gut, was dieser Abhandlung an der Ausführlichkeit
+                            fehlt, die ein Gegenstand, wie dieser, nicht allein verdient, sondern
+                            fordern darf, und welche man jetzt, wo jene Hindernisse wegfallen, mit
+                            Recht erwarten zu können glauben mag. - Allein es lag dem Verfasser
+                            daran, ehe er diese Ideen, die, nach seiner Meinung, über alle Fächer
+                            der Kunst, alle Gegenstände und Behandlungsarten derselben ein Licht
+                            verbreiten, weiter ausführte, sie dem Urtheil derer vorzulegen, denen
+                            Gegenstände dieser Art werth sind, und die ein Recht haben, entscheidend
+                            darüber zu sprechen." </note>
+                    </seg> – oder wie er sonst seinen Aufsaz betitelt. – Die Sizung dauerte von 10.
+                    bis 1. Uhr. unter einem großen Gedränge von Menschen. – Die <seg type="critical">
+                        <orig>Ausstellung</orig>
+                        <note xml:id="nzyr_3wt_fv">Die in der Regel alle zwei Jahre stattfindende
+                            Berliner Kunstausstellung. In den Jahren 1797 und 1798 fanden
+                            nacheinander zwei Ausstellungen statt.</note>
+                    </seg>, die heute dem Publikum eröfnet worden, ist dieß Jahr sehr reich an allen
+                    Arten Kunst und Handwerksprodukten - auch ist einiges erträglich dabey. – Eben
+                    werde ich zum <persName key="prov_sqc_swd_2v">Könige</persName> gerufen, mit dem
+                    Befehl <seg type="critical">
+                        <orig>meine Zeichnungen vom <rs type="artwork" key="prov_e5g_bxt_fv">Monumente</rs>
+                        </orig>
+                        <note xml:id="nfqc_nxt_fv">Vgl. [Anonym]: Zeichnungen und Entwürfe zu dem
+                            auf Seiner Majestät des Königs allergnädigsten Befehl Höchstdero
+                            verewigtem Oheim dem hochseligen Könige Friedrich dem II zu errichtenden
+                            Monumente. Vom Herrn Hofrath Hirt. In: Beschreibung derjenigen
+                            Kunstwerke, welche von der Königlichen Akademie der bildenden Künste und
+                            mechanischen Wissenschaften in den Zimmern der Akademie dem Königl.
+                            Marstalle auf der Neustadt den 26. September und folgende Tage […]
+                            öffentlich ausgestellt sind. Berlin 1797, S. 59-61, Nr. 311 (zitiert
+                            nach Börsch-Supan, Bd. 1): "a. enthält den Grundriß eines länglichten
+                            Tempels, mit einem Vortempel, oder Pronaon. Ganz um das Gebäude laufen
+                            freye Säulengänge. / b. fig. I. der geometrische Aufriß von einer der
+                            zwey Hauptansichten. Auf dem Architrav steht die Inschrift - im
+                            Giebelfelde ist en bas-relief die Apotheose des Verklärten vorgestellt -
+                            der Genius der Unsterblichkeit trägt ihn auf seinen Flügeln nach dem
+                            Olymp; zwey Adler - Embleme von Preußen und Brandenburg - begleiten den
+                            Zug: dabey ist die Stadt Berlin und der Spree-Fluß gebildet. Über der
+                            Mitte des Giebels schwebt eine Victoria auf den Tempel ihrs Lieblings
+                            herab - sie hält in einer Hand die kriegerische, und in der andern die
+                            Bürgerkrone - Auf den Seiten sind Trophäen errichtet. / fig. 2. stellt
+                            den Durchschnitt des Tempels der Breite nach vor: / In der Mitte steht
+                            der König - als Heros, und deswegen nackt gebildet - auf einem
+                            Piedestale - er hält in der linken den Zepter, die rechte väterlich
+                            ausstreckend. / Zur Seite sieht man zwey von den zwölf großen
+                            Basreliefs, welche die Hauptthaten des Verewigten vorstellen: - Über
+                            diesen sind drey kleine Reliefs, drey der vornehmsten Provinzen des
+                            Reichs bezeichnend. / c. ist ein Durchschnitt des ganzen Gebäudes nach
+                            seiner Länge. / 1) sieht man einen der zwey Kandelabers, welche des
+                            Nachts den Tempel von außen erleuchten sollen. / 2) im Pronaon sieht man
+                            zwey von den sechs großen Tafeln, auf welchen die wesentlichsten Thaten
+                            des Verklärten verzeichnet werden sollen. / 3) im Tempel sieht man
+                            wieder vier von den großen Basreliefs, und sechs von den kleinern. / d.
+                            fig. I. stellt eine perspektivische Zeichnung des Gebäudes vor. / fig.
+                            2. ist der Situations-Plan in dem Lustgarten mit Bäumen umpflanzt. / e.
+                            Entwurf eines Basreliefs in dem Giebelfelde der andern Hauptansicht: Es
+                            stellet die Königliche Familie vor, welche den Manen des Verklärten
+                            Opfer bringt. / Auf dem Architrav steht der Name des Erbauers mit dem
+                            Regierungsjahre. / Die Idee des Erfinders wäre, das Gebäude ganz von
+                            blaulichen schlesischen Marmor zu errichten: nur die Statüe des Königs,
+                            und die Basreliefs mit den Inscriptions-Tafeln würden von weißem Marmor
+                            gemacht. / Die Decke im Innern würde von Holz, und vergoldet - der
+                            Fußboden von Mosaik, oder auch von Marmor - die Victoria von getriebenen
+                            Kupfer und so auch die Trophäen. Die Deckung von außen müßte auch von
+                            Kupfer seyn." - Böttiger teilt die Nachricht am 2. Oktober 1797 Goethe
+                            in der Schweiz mit (RA 2/987), der am 25. Oktober 1797 darauf antwortet
+                            (WA, IV, Bd. 12, Nr. 3670, S. 344).</note>
+                    </seg> mitzubringen, und auch meine <pb n="3"/>gestrige Rede. es ist acht Uhr.
+                    um neun Uhr muß ich auf dem <placeName key="prov_ulk_twt_fv">Schloße</placeName>
+                    seyn. Nachher mehr. – </p>
+                <p>Es ist halb eilfe: ich bin zurück. Der <persName key="prov_sqc_swd_2v">König</persName> erinnerte sich gar nicht, <rs type="artwork" key="prov_e5g_bxt_fv">mein Projekt</rs> vorher gesehen zu haben: er war
+                    allein mit der <persName key="prov_qvp_1gm_cv">Gr<ex>äfin</ex> v<ex>on</ex>
+                        Lichtenau</persName>. Ich mußte mich sezen, alles erklären, und der
+                        <persName key="prov_sqc_swd_2v">König</persName> wird sogleich an Minister
+                    schreiben, daß <del rendition="#s" next="mein">das</del> mein Projekt, so wie
+                    ich die weitere angabe treffen werde, <seg type="critical">
+                        <orig>an dem Plaze</orig>
+                        <note xml:id="nfh3_gf5_fv">Hirt hatte den Lustgarten vorgesehen.</note>
+                    </seg>, den ich wählte, <hi rendition="#u">ausgeführt werde.</hi> Soviel
+                    mündlich. Es ist zum Erstaunen, wie der Mann in den Sinn des Ganzen eingriff –
+                    ich konnte gerade <hi rendition="#u">so</hi> mit ihm sprechen, als wenn ich es
+                    Ihnen vorlegte – so unbefangen, natürlich – und so leicht ward alles begriffen –
+                    selbst <seg type="comment">
+                        <orig>der nakte Heros</orig>
+                        <note xml:id="nnzz_1fp_rz">Siehe die obige Beschreibung.</note>
+                    </seg> sehr natürlich gefunden, weil auf dem Architrav stehe – dem verklärten
+                    Geiste – und im Felde des Giebels die Apotheose angebracht sey – </p>
+                <p>Ich schreibe confus, weil <del rendition="#s" next="die">mich</del> die
+                    Überraschung mein Blut etwas zu sehr in Wallung gesezt hat. Meinen <bibl sameAs="prov_qvp_dyt_fv">gestrigen Aufsaz</bibl> übergab <add place="superlinear">ich</add> vor dem <persName key="prov_sqc_swd_2v">Könige</persName> der <persName key="prov_qvp_1gm_cv">Gräfin</persName>,
+                    welche ihm denselben ganz vorlesen wird. So viel für iezt – nach eilf uhr muß
+                    ich auf der <placeName key="prov_vvw_bk5_fv">Akademie</placeName> seyn, weil
+                    mein kleiner <persName key="prov_m45_yjr_cv">Prinz Wilhelm</persName> die
+                    Ausstellung mit mir sehen will: vielleicht kommen auch noch andere Prinzen mit.
+                    Diesen Abend ehe der Brief abgeht – seze ich noch etwas bey.</p>
+                <p>Bis halbzwey war ich auf der <placeName key="prov_vvw_bk5_fv">
+                        <placeName key="prov_vvw_bk5_fv">Akademie</placeName>
+                    </placeName>: es war auch der <persName key="prov_bxf_jt5_fv">Kronprinz</persName> da, u. später kamen auch die <persName key="prov_xv2_xt5_fv">
+                        <persName key="prov_xtm_n55_fv">zwey Prinzessinnen</persName>
+                    </persName>. Ich machte also den Cicerone, und mußte dem <persName key="prov_bxf_jt5_fv">Kronprinzen</persName> auch so viel es sich thun <add>ließ</add>, eine Idee von meinem Monumente geben, <pb n="4"/> Das
+                    ich, sogleich bey meiner Rückkunft vom <persName key="prov_sqc_swd_2v">Könige</persName> wieder in der <placeName key="prov_vvw_bk5_fv">Akademie</placeName> neben den andern habe aufhängen laßen. - über das
+                    weitere werde ich Sie zu seiner Zeit benachrichtigen. - Legen Sie mich der
+                    besten <seg type="critical">
+                        <orig>
+                            <persName key="prov_qn2_zhp_5r">Herzogin</persName>
+                        </orig>
+                        <note xml:id="nfrw_hv5_fv">Hier wohl die Herzoginmutter Anna Amalia
+                            gemeint.</note>
+                    </seg> zu Füßen, und sagen Sie Ihr, daß ich mich Ihrer Genesung herzlich freue.
+                        <seg type="critical">
+                        <orig>Die Zeichnungen</orig>
+                        <note xml:id="nknc_kv5_fv">Von Hirts Monument für Friedrich II. </note>
+                    </seg>werde ich nicht ermangeln zu übersenden; entweder die großen selbst oder
+                    aber kleinere Kopien. hierüber muß ich nun selbst das Nähere abwarten. -</p>
+                <p>Mit der <seg type="critical">
+                        <orig>Abhandlung zum <bibl sameAs="prov_bjq_czj_gv">2<hi rendition="#sup">
+                                    <hi rendition="#u">ten</hi>
+                                </hi> Heft</bibl>
+                        </orig>
+                        <note xml:id="nitq_ky5_fv">Hier das 2. Heft von Böttigers "Griechische
+                            Vasengemälde mit archäologischen und artistischen Erläuterungen und
+                            Originalkupfern" (Weimar 1798) gemeint. Darin ist jedoch kein Aufsatz
+                            von Hirt enthalten. Vgl. dazu auch: 1797-10-31-a-Böttiger;
+                            1797-12-12-a-Böttiger.</note>
+                    </seg> werde ich zu seiner Zeit Wort halten. Hausaddresse ist nicht nöthig auf
+                    meine Briefe zu sezen.</p>
+                <p>
+                    <orgName key="ed_u5s_1fc_b1b ed_znn_dfc_b1b">Beyde unsere
+                            gelehrten Gesellschaften</orgName> fangen wieder an in beßere
+                    Ordnung zu kommen. Es sind wirklich seitdem schon einige gute Arbeiten
+                    vorgekommen.</p>
+                <p>Was ich Sie bitten muß, nichts von dem, was ich Ihnen schreibe, drucken zu laßen,
+                    oder wenigstens es nicht in einer <del rendition="#s" next="speziellen">sch</del> speziellen Nachricht <add place="superlinear">zu</add>
+                    geben.</p>
+                <p>Sie haben die Achtung bey allen, die Sie hier kannten, zurükgelaßen –
+                    Deßwegen öfters Nachfrage nach Ihnen geschieht.</p>
+                <p>Empfehlen Sie mich <persName key="prov_hy4_jx2_rs">
+                        <persName key="prov_jvr_yy5_fv">den Herders</persName>
+                    </persName>, <seg type="critical">
+                        <orig>
+                            <persName key="prov_asz_hz5_fv">
+                                <persName key="prov_wh3_4z5_fv">Bertuchs</persName>
+                            </persName>
+                        </orig>
+                        <note xml:id="nwtn_f1v_fv">Hier sind wohl auch noch Herders Sohn Gottfried
+                            (1774-1806), seit 1796 Arzt in Weimar, der gerade geheiratet hatte und
+                            mit im Haus der Eltern wohnte, wie auch Bertuchs Sohn, der Journalist
+                            und Schriftsteller Karl Bertuch (1777-1815) mit gemeint.</note>
+                    </seg> – <persName key="prov_lyk_c3g_f5">Wieland</persName> – und so vielen
+                    andern dort – besonders aber auch <persName key="prov_imc_my5_fv">Ihrer
+                        Frau</persName> – die Ihnen wie ich höre, einen so hübschen <persName key="prov_d3q_ry5_fv">jungen</persName> gebracht hat. – Adieu! denken Sie
+                    Ihres Freundes</p>
+                <closer rend="paragraph">
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <div type="writingSession" n="2">
+                <p>Ich sah eben in der <bibl sameAs="prov_csp_vs1_z5">Allgem<ex>einen</ex>
+                            L<ex>iteratur</ex> Z<ex>eitung</ex>
+                    </bibl>
+                    <seg type="critical">
+                        <orig>
+                            <bibl sameAs="ed_etx_k4p_rz">daß Herr <persName key="prov_w4b_lwr_js">Fernow</persName> sich sehr kräftig gegen Herrn <persName key="prov_rfj_znn_1v">Müller</persName> erklärt
+                            hat</bibl>
+                        </orig>
+                        <note xml:id="nwn4_thv_fv">Hirt bezieht sich auf eine Kunstdebatte, die über
+                            mehrere Jahre hinweg zwischen zwei Lagern von deutschen Künstlern und
+                            Kunsttheoretikern in Rom geführt und in deutschen Zeitschriften
+                            ausgetragen wurde. Die Auseinandersetzung zwischen den beiden in Rom
+                            lebenden Fernow und Müller begann mit Fernows Bericht "Ueber einige neue
+                            Kunstwerke des Hrn. Prof. Carstens", der im Juni-Heft des Neuen
+                            Teutschen Merkur 1795, S. 158-189 (Fortsetzung im 2. Stück 1796),
+                            erschienen war. Fernow hatte darin die Werke von Asmus Jakob Carstens
+                            als Beginn einer neuen "Epoche der Kunst" hervorgehoben, während er den
+                            anderen zeitgenössischen Künstlern einen "verderbten Geschmack" und
+                            "erschlafften Geist" attestiert hatte. Friedrich Müller und seine
+                            Freunde entgegneten mit einem Aufsatz, den sie über Friedrich Bury an
+                            Goethe schickten: "An bey folgt eine Bitte worzu ich von einigen
+                            Künstlern Aufgefordert wurde es Ihnen zu übersenden, nemlich eine Cridic
+                            von Müller, über die Fernowische beschreibung von Ca[r]stens welche im
+                            Deutschen Mercur erschienen ist, da ich schon zu verschiedenen malen
+                            gesagt hab, daß eine solche beschreibung dem Künstler, mehr zur Schande
+                            als zur Ehre gereicht, denn wehr seine Arbeiten sieht, überzeugt sich
+                            bald daß derjenige welcher die beschreibung gemacht gar keine
+                            Kunstkentnißen besässen hat; da nun Müllers Cridic mehr durch würkliche
+                            Kunstkentnißen als durch Schmehungen wieterlegt ist, nehm ich keinen
+                            Anstand es Ihnen zu Schiken, und bitte Ihnen in Müllers Nahmen es so
+                            bald wie möglich im Mercur Einrüken zu lassen, und gefälligst ein
+                            Exemplar darvon zu Schiken" (Bury an Goethe, Rom, 7. Januar 1797;
+                            zitiert nach: Dönike: Bury-Briefe, S. 90). Goethe antwortet am 28. April
+                            1797: "Sagen Sie Herrn Müller für den überschickten Aufsatz Dank, wir
+                            werden denselben in die Horen setzen, weil man in dem Merkur wohl nicht
+                            gerne einen Aufsatz eingerückt hätte, der so manches niederschlägt, was
+                            man bisher in diesem Journal mit vieler Behaglichkeit vorgetragen hat.
+                            Es ist schade für Herrn Fernow daß er, bey so schönen Anlagen, die man
+                            ihm nicht absprechen kann, sich mit seinen Urtheilen dergestalt
+                            übereilt, und, ohne vollständige Kenntniß, so manches äußert, womit denn
+                            freylich der ältere Kenner, der einen weitern Kreis durchlaufen hat,
+                            nicht zufrieden seyn kann" (Goethe WA, Abt. IV, Bd. 12, Nr. 3537, S.
+                            112-113). Müllers Aufsatz wurde tatsächlich in den "Horen" gedruckt:
+                            Schreiben Herrn Müllers Mahlers in Rom über die Ankündigung des Herrn
+                            Fernow von der Ausstellung des Herrn Profeßor Carstens in Rom (1797, 3.
+                            Stück, S. 21-44; 1797, 4. Stück, S. 4-16). Bury bedankt sich bei Goethe:
+                            "Müllers Aufsatz ist mit vielem vergnügen hier geleßen worden, wie
+                            abgeschmakt hat sich Fernow wieter in einem Theil im D. Merkur gezeigt,
+                            über die Urtheilen von Hackert, A. Kauffman etc. ich kann es nicht
+                            begreifen wie man solche Aufsätze drucken laßen kann, indem dieselben
+                            wieter alle Wahrheiten sind" (Bury an Goethe, Rom, 13. Januar 1798;
+                            zitiert nach: Dönike: Bury-Briefe, S. 95). - Goethe hatte im Vorfeld der
+                            Veröffentlichung am 18. März 1797 an Johann Heinrich Meyer geschrieben:
+                            "Durch Bury habe ich einen Aufsatz von Müllern in Rom gegen Fernow und
+                            Carstens erhalten, es ist viel gutes darinn, wir wollen ihn wenn er
+                            gereinigt ist in die Horen setzen und so wird auch auf diese Weise der
+                            Krieg fortgesetzt, denn man muß nun einmal für allemal immer auf
+                            denselbigen Fleck pochen" (Goethe, WA, Abt. IV, Bd. 12, Nr. 3509, S.
+                            73); woraufhin Meyer am 13. Mai 1797 geantwortet hatte: "Es wird zwar
+                            eine zu späte Erinnerung und Bitte seyn, das Müllerische Werk contra
+                            Fernow und Carstens einer recht strengen Prüfung zu unterwerfen, weil
+                            ich weiß, daß in diesen Kriegen nicht Wahrheitsliebe, sondern
+                            Leidenschaften die Treibfedern sind; denn in Rom ist das ganze
+                            Künstlerchor jetz in zwey Parteyen getheilt, die sich hassen, verfolgen,
+                            schmähen, beleidigen und manchen Unfug treiben. Die Billigkeit im
+                            Urtheilen ist ihre Stärke schon ehemahls nicht gewesen und jetz noch
+                            weniger als ehemahls; auch ist mur kund, wie in Schenken und
+                            Kaffehhäusern man sich schon der mächtigen Verbündeten in Deutschland
+                            rühmt. Ziehen Sie deswegen bloß den Nutzen davon, der sich von dieser
+                            Schrift ziehen läßt, aber übrigens wenn Sie gesonnen sind wie ich oder
+                            meine Motive weiter mündlich hören wollen, so bin ich versichert, Sie
+                            werden des Volks eben so bald müde seyn, als ich es geworden bin, und
+                            sie fahren lassen" (Goethes Briefwechsel mit Heinrich Meyer, hrsg. von
+                            Max Hecker, Bd. 1, Weimar 1917, S. 443-444 (Schriften der
+                            Goethe-Gesell., Bd. 32)). - Fernow wollte sich in der "Allgemeinen
+                            Literatur-Zeitung" zur Wehr setzen und schrieb dazu an Johann Pohrt, 10.
+                            Juni 1797: "Bis jetzt habe ich nur den ersten Theil des Müllerschen
+                            Schreibens gegen Carstens u. mich in Händen, u. bin auf den Rest im 4.
+                            Stk. der Horen begierig, das ich auf 14 Tagen zu erhalten hoffe. Er hat
+                            seine Sache noch besser gemacht als ich ihm zugetraut hätte, indessen
+                            leuchtet seine hämische Seele auf allen Seiten so sichtbar hervor, daß
+                            auch der Unbefangene u. mit der ganzen Sache Unbekannte, leicht einsehen
+                            wird, wer von uns beyden der Sünder ist. Ich habe gestern meine Antwort
+                            oder vielmehr Erklärung über diesen Brief aufgesetzet, obgleich ich den
+                            Beschluß desselben nicht kenne. Aber in der ersten Hälfte ist ja doch
+                            das Wesentliche seiner Beschuldigungen enthalten. Sobald ich auch jene
+                            kenne, werde ich meine Antikritik an die Expedizion der allg. D. Litt.
+                            Zeitung absenden, um sie ins Intelligenzblatt rücken zu lassen. Ich mag
+                            Wieland nicht zumuthen, sein Journal zu dem nichtswerthen Streit
+                            herzugeben, u. da ich bisher mit den Horen nichts zu thun hatte, so will
+                            ich mich jetzt nicht der Zurückweisung aussetzen, da ich schwerlich
+                            glaube, daß man meine Erklärung darin aufnehmen möchte! Du wirst sie
+                            also wohl in einigen Monathen in der Lit. Zeitung finden u. wie ich
+                            hoffe damit zufrieden seyn. Sie ist gerade u. derb, wie man mit
+                            schlechten Menschen sprechen muß, u. ich habe H. Müller in sein
+                            eigenthümliches Licht gestellt, wozu ich viel interessante Daten in Rom
+                            sammeln konnte. Auch H. Makko u. Bury wirst du als Ungenannte darin
+                            finden. Ich bitte Dich, mir in der Folge zu melden, was Du über Müllers
+                            Brief u. meine Erklärung urtheilen hörst. Ich hätte für mich allein
+                            nicht geantwortet, wenn nicht Carstens eigentlich der Angegriffene u.
+                            ich nur das Stichblatt wäre. Seinetwegen hielt ich es für nöthig zu
+                            antworten, damit Müllers Brief ihm auf keinen Fall schade" (Fernow:
+                            Römische Briefe an Johann Pohrt, S. 246-247). Vgl. auch Fernow an Pohrt,
+                            Rom, 27. Mai 1797: "Daß Müller, erbittert auf das Lob, welches ich den
+                            Carstensschen Werken vor 2 Jahren öffentlich im Merkur beygelegt habe,
+                            etwas gegen mich schreiben werde u. wirklich geschrieben habe, wußte ich
+                            schon seit einem halben Jahre; ich wußte es auch, als er im letzten
+                            Winter durch die 3. Hand das Stück des Merkur von mir leihen ließ, daß
+                            es zu diesem Zweck seyn sollte, u. gab es ihm ohne Rückhalt, damit er
+                            seinen Willen habe u. nicht denke, daß ich mich vor ihm fürchte. Blos
+                            die Nachricht, daß sein opus in den Horen eingereiht sey, war mir in
+                            deinem Briefe neu, ich erwarte das 3. Stück der Horen in 8 oder 14
+                            Tagen. Meine Antwort ist fertig ohne daß ich es gelesen habe, u. ich
+                            will es blos lesen, ehe ich sie abschicke. Du wirst sie mit wenigen
+                            Zeilen in der Literaturzeitung dereinst finden. Ich hoffe, er wird mir
+                            nicht wieder kommen." (ebd., S. 244). Doch "Carstens beruhigte sich,
+                            sobald er die Schrift [von Müller in den Horen] gelesen hatte, durch die
+                            Überzeugung, daß sie zu boshaft und zu hämisch sei, um auf verständige
+                            Leser einen Eindruck zu machen, der ihm nachtheilig sein könnte, und so
+                            fand auch der Verfasser jede Vertheidigung des Künstlers, dem er
+                            eigentlich diese Kränkung zugezogen hatte, nach reiflicher Überlegung
+                            unnöthig" (Carstens, Leben und Werke von K. L. Fernow. Hrsg. und erg.
+                            von Herman Riegel. Hannover 1867, S. 152). - Fernow schreibt an Pohrt,
+                            Rom, 5. August 1797: "Deine Nachrichten über den Eindruck den Müllers
+                            Brief bey verschiedenen Männern, die eben nicht auf den Kopf gefallen
+                            sind, in Deutschland gemacht hatte, lassen mich hoffen, daß mehrere
+                            Ehrenmänner so denken werden. Ich sende mit der heutigen Post meine
+                            Erklärung zum Einrücken in die Allg. Litt. Zeitung, ab. Sie ist nur kurz
+                            u. ganz gemäßigt. ich denke, daß ich mehr Ehre davon habe, die sache auf
+                            sich beruhen zu lassen, als wenn ich seine Eiterbeulen u. faulen
+                            Geschwüre vor dem Publikum aufdecken wollte. Denn was ich von Müllern
+                            sagen müßte, um ihn in sein eigenes Licht zu stellen, würde allen, die
+                            ihn nicht kennen für Impertinenz u. Schandschrift gelten. Ich will mich
+                            mit seinem Schimpf und Schmutz nicht besudeln. Dein Brief hat mich
+                            völlig zu dieser Art die Sache zu nehmen bestimmt, etwas mußte ich
+                            sagen, um zu zeigen daß ich den Brief kenne. Ich hoffe du wirst mein
+                            Benehmen billigen u. mit Dir alle vernünftigen Leute" (Fernow: Römische
+                            Briefe an Johann Pohrt, a.a.O., S. 260.261). Ins Intelligenzblatt der
+                            Allgemeinen Literatur-Zeitung Nr. 112, Mittwoch, 13. Sept. 1797, Sp.
+                            943-944, lässt Fernow folgende "Erklärung, Hrn. Mahler Müllers Brief, im
+                            3ten und 4ten Stück des laufenden Jahrganges der Horen betreffend"
+                            einrücken, auf die Hirt im vorliegenden Brief anspielt: "Ich hege eine
+                            zu richtige Meynung von dem aufgeklärten Publikum der Monathschrift, in
+                            welcher Hrn. Müllers, wider Hrn. Carstens und mich gerichteter Brief
+                            eine Aufnahme gefunden hat, als dass ich es für nöthig hielte, Hn. C.
+                            oder mich gegen die beleidigenden Angriffe desselben zu vertheidigen.
+                            Ton und Inhalt jenes Briefes kündigen die Absicht seines Verfassers
+                            deutlich genug an und überheben mich jeder Rechtfertigung. Ueber die
+                            Güte und Schlechtheit eines Künstlers, als solchen, lässt sich nur
+                            streiten und entscheiden, wenn man seine Werke vor Augen hat. / In Rom,
+                            wo dies sowohl bey Hn. Carstens als Hn. Müllers Arbeiten der Fall ist,
+                            weiss jeder aus eigener Ueberzeugung, was er von beiden zu halten hat,
+                            und denen Freunden der Kunst, welche aus Deutschland nach Rom kommen,
+                            stehen die Studien beyder Künstler offen. Hier mag also Hr. Carstens,
+                            durch seine Arbeiten, das Gute, welches <hi rendition="#g">ich</hi>, -
+                            und Hr. Müller durch die seinigen das Schlechte, was <hi rendition="#g">er</hi>von Hn. Carstens, von dessen Kunstwerken und von meiner vor
+                            länger als zwey Jahren im D. Merkur gegebenen Anzeige derselben gesagt,
+                            entweder bestätigen oder der Lüge strafen. / Nicht Furcht vor Hn.
+                            Müllers blitzender Aegide - die nicht die Aegide Minervens zu seyn
+                            scheint, - und vor der durch Wissen vulkanisch gerüsteten Faust, womit
+                            er Hn. Carstens und mir drohet, sondern Achtung für die gute Sitte hält
+                            mich ab, in dem Amphitheater der deutschen Autorenrepublik, wo es nicht
+                            an rüstigen und geübteren Kämpfern fehlt, den von Hn. Müller mir
+                            zugemutheten Faustkampf anzutreten und seinen Brief nach Würden zu
+                            erwiedern. Von meiner Seite hat Hr. Mahler Müller völlige Freyheit über
+                            mich und meine Kunsturtheile fernerhin zu denken, zu schreiben und
+                            drucken zu lassen, was sein Genius ihm eingiebt, ich werde seinen
+                            bekannten Talenten nichts übelnehmen. Doch wünsche ich, um seiner
+                            eigenen Ehre willen, dass er jene Göttergaben, wenn er wirklich damit
+                            ausgerüstet ist, künftig lieber zur Hervorbringung <hi rendition="#g">guter</hi> Kunstwerke, als zu verläumderischen Schmähbriefen
+                            anwenden möge. / Rom, den 2ten August, 1797. Fernow." - Weiteres ist in
+                            der A.L.Z. dazu nicht erschienen. - Zu der Auseinandersetzung vgl. auch
+                            Fernow an Wieland, 16. Juni 1797 (Wieland-Briefwechsel, Bd. 13, hrsg.
+                            von Klaus Gerlach) und Meyer an Goethe, 4. August 1797: "[…] Diese
+                            Nachrichten melden auch, daß sich Fernow mit Macht contra Müller zum
+                            Federkrieg bereitet, seine und Carstens' Ehre zu retten, und den Gegner
+                            hingegen um die seine zu bringen vermeint" (Goethes Briefwechsel mit
+                            Heinrich Meyer, Bd. II, hrsg. von Max Hecker, in: Schriften der
+                            Goethe-Gesell., 34. Bd., Weimar 1919, S. 21). - Die Debatte klingt auch
+                            in Fernows Aufsatz an: "Ueber den Mahler Kavalluzzi" (NTM 1797, Bd. 2,
+                            August, S. 334-338). - Hirt las in der "Gesellschaft der Freunde der
+                            Humanität", deren Mitglied er war, mehrmals aus Fernows Abhandlung
+                            "Ueber die Bestimmung und Grenzen der dramatischen Malereien" vor
+                            (29.09., 06.10., 17.11.1798) ; am 18.08.1799 auch "Über den Zweck der
+                            bildenden Künste von Fernow" (Sitzungsprotokolle, LA Berlin).</note>
+                    </seg>. <persName key="prov_w4b_lwr_js">Ersterer</persName> hat nicht unrecht:
+                        <persName key="prov_rfj_znn_1v">Müller</persName> ist schief an Kopf u.
+                    Herz.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

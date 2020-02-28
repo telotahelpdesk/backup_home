@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_n3y_54l_qz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Johann Gottfried Herder. Rom, 30. Oktober 1788. Donnerstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt: Johann Gottfried Herder an Karoline Herder, Rom, 4. November 1788:
+                    "[...] als ich ein Billet von ihm [Hirt] eines sonderbaren Inhalts erhielt. Er
+                    beschwerte sich nämlich über meine unerklärliche Art, mit ihm zu existiren
+                    [...]. Nun war freilich meine Geduld zerrissen; ich setzte indessen meinen Gang
+                    fort und schrieb ihm nach dem Essen ein kurzs gutmüthiges, aber kräftiges
+                    Billet, das mich ekelt zu wiederholen. Der Inhalt war, er sollte die 1000
+                    Th[a]l[e]r für meinen Aufenthalt in Rom und Neapel und die 600 Th[a]l[e]r zur
+                    Rückreise schicken, sobald es ihm beliebte; bliebe davon etwas übrig, sollte ers
+                    in Mannheim haben. Uebrigens habe ich heut zum letztenmal mit ihm gegessen u.
+                    s[o] f[ort]. Das war Donnerstag den 30. October. [...] Freitags vor 8 Uhr kam er
+                    selbst zu mir, sagte, daß er es bei solcher Trennung nicht könne bewenden
+                    lassen, die Summe Geldes gebe er herzlich gern. Mich ärgerts weiter zu sagen,
+                    was er und was ich sagte: kurz, er ging weg, und ich, mit leichtem, frohem
+                    Herzen, als ob mir ein Stein vom Halse sei, bestieg die Peterskirche, bis oben
+                    zum Kreuz [...] Darauf ging ich mit Hirt und Schütz, die beide oben gewesen
+                    waren, zur Villa Madama, wo Bury und Rehberg nachkamen; wir hielten ein
+                    fröhliches Mittagsmahl [...]" (Herder, Briefe, hrsg. von Günter Arnold, Bd. 6,
+                    S. 76-77).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_hy4_jx2_rs">Herder, Johann Gottfried (1744-1803)
+                        (Generalsuperintendent)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1788-10-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Zu Hirts Kursus mit Herder siehe auch die Sachanmerkung zu
+                    1789-04-04-a-Goethe.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

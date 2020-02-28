@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mrm_5px_lw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Kultusminister Karl</title>
+                <title> Freiherr von Altenstein. Berlin, 23. März 1818.</title>
+                <title> Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>I. HA, </collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 76 Kultusministerium I Sekt. 30 Nr. 190, Bl.
+                                1r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Bärbel Holtz, Hirt-Bd. II, S. 288, mit ausführlichem
+                            Kommentar; Faksimile S. 289-290</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-03-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_cbh_x3y_lw"/>
+                </correspContext>
+                <note>Mit Aktenvermerk: Xxx den 29<hi rendition="#sup">ten</hi> Marz 1818 / N.°
+                    387</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Excellenz!</salute>
+                </opener>
+                <p>In der Überzeugung, daß Sie mit der <seg type="comment">
+                        <orig>Grundidee</orig>
+                        <note xml:id="ntw1_kcz_l1b">Die Gründung eines staatlich unterstützten
+                            Kunstvereins in Preußen.</note>
+                    </seg> des <seg type="comment">
+                        <orig>Entwurfes</orig>
+                        <note xml:id="ntww_r2y_lw">Der Entwurf liegt dem Schreiben Hirts im
+                            Aktenkonvolut des GStA PK nicht bei; diesen wie auch den Statutenentwurf
+                            siehe als Beilage zu <ref target="hirt_k1j_5l2_4w">Hirts Schreiben an
+                                den König vom 22. April 1818</ref>
+                        </note>
+                    </seg>, welchen beykommende Papiere enthalten, einstimmen werden, bin ich so
+                    frey, dieselben unter der Bitte der Rücksendung zur Einsicht Ew. Excellenz
+                    gelangen zu laßen. Aber dies ist nicht die einzige Ursache; sondern wie aus dem
+                    Entwurfe hervorgeht, wäre die Realisirung der Sache erst dann möglich, wenn Ew.
+                        Exc<ex>ellenz</ex> dasjenige <seg type="comment">
+                        <orig>als Minister</orig>
+                        <note xml:id="nezt_dfy_lw">Die Regierungsbehörde, der Altenstein als
+                            Minister vorstand, das „Ministerium der Geistlichen, Unterrichts- und
+                            Medizinal-Angelegenheiten“ (Kultusministerium), war erst wenige Monate
+                            zuvor, im November 1817, gegründet worden.</note>
+                    </seg> berücksichtigten, was die Bahn aller Operationen, um der Kunst
+                    aufzuhelfen, seyn muß, und was in dem Entwurf unumwunden ausgesprochen ist. Ich
+                    wünsche daher Ew. Exc<ex>ellenz</ex> nicht bloß hiemit bekannt zu machen,
+                    sondern auch zu vernehmen, was von Seite des<persName key="ed_z43_tfy_lw"> hohen
+                        Ministeriums</persName> zu hoffen seyn möchte, um den festgestellten
+                    Ansichten eines zu stiftenden Kunstvereins gehörig entgegen zu kommen, und ihn
+                    dann zu unterstüzen.</p>
+                <p>Ich bin zu diesem Entwurfe von mehrern aufgefordert (speziell vom <persName key="prov_vpp_kmx_2v">Prinzen <hi rendition="#aq">Wilhelm</hi>
+                    </persName>,
+                        Br<ex>uder</ex> d<ex>es</ex>
+                    <persName key="prov_bxf_jt5_fv">K<ex>önigs</ex>
+                    </persName>). Ich habe aber
+                    denselben bis iezt weder dem Prinzen, noch irgend Jemand vorgelegt, weil ich
+                    glaube, daß vor allen andern Ew. Excellenz die Einsicht davon gebühre. Vorläufig
+                    theile ich denselben dem H. <seg type="comment">
+                        <orig>
+                            <persName key="ed_kbw_cgy_lw">Staatsrath Schulz</persName>
+                        </orig>
+                        <note xml:id="nllz_5hz_l1b">Friedrich Schultz war Ministerialrat im
+                            Kultusministerium, besaß große kunsthistorische, auch restauratorische
+                            Kenntnisse und galt als Kunstfreund.</note>
+                    </seg> mit, als demjenigen, auf den ich besonderes <pb n="2"/> Zutrauen in
+                    solchen Angelegenheiten seze, und wünsche, daß derselbe Ew. Exc<ex>ellenz</ex>
+                    hierüber Bericht erstatte, weil bey dem Andrange der Geschäfte leicht die Zeit
+                    fehlen möchte, das ganze selbst mit Ihrem umfaßenden Blicke durchzugehen.
+                    Sollten dann Ew. Exc<ex>ellenz</ex> auf dem nämlichen Wege Ihren Ansichten mir
+                    [!] wißen laßen, auch (wenn die Hauptidee nicht mißfiele) was Sie etwa für
+                    Veränderungen und Zusäze wünschten; so könnte der Entwurf nur an Zweckmäßigkeit
+                    gewinnen, und dann mit desto mehr Zutrauen zuerst dem <persName key="prov_vpp_kmx_2v">Prinzen <hi rendition="#aq">Wilhelm</hi>
+                    </persName>,
+                    und dann den andern königl<ex>ichen</ex> Prinzen vorgelegt werden.</p>
+                <closer>
+                    <salute>Mit tiefster Verehrung <lb/>Ew. Excellenz! <lb/>gehorsamster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin, d. 23 März 1818</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

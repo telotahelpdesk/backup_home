@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_wbj_1hc_5v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An die Verlagsbuchhandlung Johann Daniel Sander(?). Berlin, den 2. März 1801.
+                    Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 22a</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1801-03-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ofd_5yj_gv">Sander, Johann Daniel</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <p>
+                    <persName key="prov_g5d_v2p_5r">Böttiger</persName> hat kürzlich eine <seg type="critical">
+                        <orig>
+                            <bibl sameAs="ed_b1c_sz2_c1b">Abhandlung in lateinischer Sprache - die
+                                Theater und Masken der Alten betreffend</bibl>
+                        </orig>
+                        <note xml:id="nt3s_thc_5v">Zu Böttigers Schulschrift "Prolusione deum ex
+                            machina ..." vgl. 1801-02-27-a-Böttiger</note>
+                    </seg>herausgegeben (der eigentliche Titel ist mir nicht bekannt) Ich bitte H.
+                        <persName key="prov_ofd_5yj_gv">Sander</persName> diese Dissertation mir auf
+                    dem kürzesten Wege zu verschaffen.</p>
+                <closer rend="paragraph">
+                    <signed>Hirt</signed>
+                    <dateline rend="align(right)">den 2<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> März 1801.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nv1_vk1_rx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An</title>
+                <title> Georg Ernst Tatter. Berlin, vor 9. März 1800]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1800-06-08-a-Zoega: "che nel tempo che scrissi a Tatter, per incoraggi<unclear>arvi</unclear> ad una simile
+                        intrapre<unclear>s</unclear>[r?]a, era vivente il Barone Erdmannsdorf a
+                    Dessau, morto adesso pochi mesi fa. Era colui che voleva intraprendere la
+                    publicazione di tali vostri lavori, come direttore dell instituto calcografico,
+                    eretto alcuni anni fà, a Dessau: e non dubito che la cosa sarebbe stata in
+                    buonissime mani [...]"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hph_d2l_cv">Tatter, Georg Ernst (1757-1805)
+                        (brit.-hannoveran. Legationsrat, Begleiter des Prinzen August auf dessen
+                        Italienreise, Chargé d'affaires in St. Petersburg)</persName>
+                    <placeName key="prov_dyb_3sn_pv">Hannover</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der Brief wurde eine längere Zeit vor dem Tod Erdmannsdorffs
+                    (9. März 1800) geschrieben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

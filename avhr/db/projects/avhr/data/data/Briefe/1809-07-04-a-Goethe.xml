@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ymx_xw4_dw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe. Berlin, 4. Juli 1809.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/52, Bl. 65, 66</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Ludwig Geiger, in: Goethe-Jb. 15, 1894, S. 78-80</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-07-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749-1832)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_od5_kvf_dw"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 4<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        Julius 1809.</dateline>
+                    <salute/>
+                </opener>
+                <p>Ich kann wohl sagen, daß ich seit langer Zeit keinen so reinen Genuß hatte, als
+                    mir <seg type="comment">
+                        <orig>Ihr Schreiben vom 9<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> verfloßenen Monats</orig>
+                        <note xml:id="nbq2_cgd_l1b">
+                            <ref target="hirt_od5_kvf_dw">1809-06-09-v-Goethe</ref>
+                        </note>
+                    </seg> gewährte. Nach der Natur der Dinge kann es in dem Fache, worin ich
+                    schreibe, nur immer eine mäßige Zahl fähiger Beurtheiler geben. Desto
+                    erfreulicher ist es, die vorläufige Zufriedenheit deßen zu erhalten, den sich
+                    der Schriftsteller während seiner Arbeit von jeher als Repræsentanten nicht nur
+                    der zeitigen, sondern auch der kommenden Kunstrichter dachte. Ich wünsche nur,
+                    daß die gute Meinung, die Ihnen eine vorläufige Ansicht <bibl sameAs="prov_e1l_pjv_pv">von der Sache</bibl> gab, sich auch bey der nähern
+                    Ansicht des Einzelnen bewähren möge. An redlicher Bemühung habe ich es nicht
+                    fehlen laßen. Es war schwer den Faden der Geschichte zu knüpfen, und hiernach
+                    das Gebäude einer so schwierigen Kunst folgereich zu richten.</p>
+                <p>Nicht minder freuet es mich, daß Sie, mein Verehrtester, mit der alterthümlichen
+                    Forschungsweise der <bibl sameAs="ed_jm4_fq2_1w">
+                        <bibl sameAs="ed_w1n_4nx_bw">zwey kleinern Schriften</bibl>
+                    </bibl> zufrieden sind; und daß hiebey in Rücksicht ähnlicher Gegenstände sich
+                    Ihr Geist mit dem meinigen begegnet. Auch habe ich schon vor längerer Zeit eine
+                        <hi rendition="#aq">Restauration</hi> des <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_lz4_h13_dw">Carischen <hi rendition="#aq">Mausoleum'</hi>s</rs>
+                        </orig>
+                        <note xml:id="nbns_sdp_dw">Vgl. 1809-06-09-v-Goethe-Sachanmerkung. Hirt
+                            beschreibt das Grabmal des Mausolus in seiner „Geschichte der Baukunst
+                            bei den Alten“, Bd. II (1822), § 35, S. 70-71, mit Abbildung auf Tafel
+                            X, Fig. 14. a. b., und Bd. III (1827), Abschnitt VIII, § 11, S. 345-346,
+                            mit Abbildung auf Tafel XXX [XV.] Fig. XIV, und vermerkt dazu: „In Fig.
+                            14. sieht man den Plan und den Aufriss davon nach meiner Restauration,
+                            worüber ich das Nähere in der Geschichte der Baukunst (II, p. 70.)
+                            mittheilte, welches aber nur wieder ein Auszug aus einer ausführlichen,
+                            bis jetzt noch nicht publicirten, akademischen Abhandlung ist“.</note>
+                    </seg> versucht, und darnach <pb n="2"/> eine sehr schöne Zeichnung im Großen
+                    machen laßen. <seg type="comment">
+                        <orig>Ich werde sie bey nächster Gelegenheit in der <orgName key="ed_znn_dfc_b1b">Akademie der Wißenschaften</orgName>
+                            vorlegen</orig>
+                        <note xml:id="nwt1_wdp_dw">Der entsprechende Vortrag Hirts in der Akademie
+                            der Wissenschaften konnte nicht nachgewiesen werden.</note>
+                    </seg>. Auch ist die <seg type="comment">
+                        <orig>Abhandlung über den <rs type="artwork" key="prov_wsx_1b3_dw">
+                                <hi rendition="#aq">Rogus</hi> des <persName key="ed_awp_rzh_dw">
+                                    <hi rendition="#aq">Hephaestion</hi>
+                                </persName>
+                            </rs>
+                        </orig>
+                        <note xml:id="nbs1_zdp_dw">In: Die Geschichte der Baukunst bei den Alten,
+                            Bd. II, § 38, S. 74-77, und Bd. III, Abschnitt VIII, § 11, S. 347-349,
+                            mit Abbildung auf Tafel XXX [XV.] Fig. XX.</note>
+                    </seg> vorbereitet, die Zeichnung ist von mir entworfen, aber noch nicht
+                    künstlerisch ausgeführt. Desgleichen habe ich eine Zeichnung vom <seg type="comment">
+                        <orig>Leichenwagen <persName key="ed_awj_czh_dw">Alexanders</persName>
+                        </orig>
+                        <note xml:id="nwkt_g2p_dw">Die Beschreibung des Leichenwagens in: Die
+                            Geschichte der Baukunst bei den Alten, Bd. II, § 39, S. 77-78.</note>
+                    </seg> entworfen; doch gestehe ich, noch nicht zu meiner Zufriedenheit. Ich wage
+                    es nicht, Ihnen über diese Gegenstände im Einzelnen <add place="left">etwas</add> zu sagen. Das Auge fordert das Bildliche. Vorzüglich bin ich
+                    neugierig, wie Ihnen die <hi rendition="#aq">Restauration</hi> des <hi rendition="#aq">Rogus</hi> gefallen werde. Auch habe ich eine Reihe anderer
+                        <hi rendition="#aq">Restaurationen</hi> wichtiger Baue entworfen, die, wenn
+                    sie nicht einzeln, doch in meiner <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_cdf_ffp_dw">Geschichte der Gebäude</bibl>
+                        </orig>
+                        <note xml:id="nmhj_p2p_dw">Hirt: Geschichte der Baukunst bei den Alten, Bd.
+                            3: Die Lehre der Gebäude bei den Griechen und Römern (Berlin
+                            1827).</note>
+                    </seg> erscheinen sollen. Übrigens bitte ich sehr, daß Sie dabey bleiben, und
+                    mir gelegenheitlich Ihre Ideen über dies und jenes, was Ihnen wichtig ist,
+                    mittheilen mögen.</p>
+                <p>Daß ich die perspektivische Herstellung des  <rs type="artwork" key="prov_sxg_y2p_dw">
+                        <hi rendition="#aq">Diana</hi>tempels</rs> von
+                        <placeName key="ed_xxs_t2p_dw">Ephesus</placeName>  nicht mitschicken
+                    konnte, bedauere ich. Der Kupferstecher, dem die kolorirte Zeichnung zur
+                    Verfertigung des Kupfers übergeben wurde, ward bald darauf krank, und ohne sich
+                    gehörig zu erholen fiel er von einer Unpäßlichkeit in die andere, bis er etwa
+                    vor 3. Wochen starb. Es war ein sehr hoffnungsvoller junger Mann. Noch hat
+                        <persName key="ed_vpd_zxv_bw">der Verleger</persName>, der Zeitumstände
+                    wegen, keinen neuen Kupferstecher gewählt, der das Angefangene beendigte. <pb n="3"/>
+                </p>
+                <p>
+                    <persName key="ed_jzw_xhq_bw">Wolf</persName> und <persName key="prov_xsn_1cg_f5">Bury</persName> grüßen bestens. <seg type="comment">
+                        <orig>Ersterer hat sich mit seinen Büchern im <placeName key="ediarum_ijd_cgp_dw">Thiergarten</placeName>
+                            niedergelaßen</orig>
+                        <note xml:id="nnxq_fgp_dw">Nachdem Wolf, von Halle kommend, in Berlin
+                            eingetroffen war, hatte er zuerst in einem Eckhaus nahe des
+                            Akademiegebäudes und Marstalles gewohnt, jedoch unter dem Lärm sehr
+                            gelitten. 1809 zog er in den Tiergarten um, wie er schreibt „Winter wie
+                            Sommer, seitdem ich die Bibliothek aus Halle - per fures - wie Reliquien
+                            empfangen hatte (grösste wol je im Thiergarten!)“ (Leben und Studien
+                            Friedr. Aug. Wolf's, des Philologen. Von Dr. Wilhelm Körte. Erster
+                            Theil, Essen 1833, S. 153).</note>
+                    </seg>. <rs type="artwork" key="prov_e2k_fdd_cw">Die iezige Arbeit, welche
+                            <persName key="prov_xsn_1cg_f5">Bury</persName> vorhat, verspricht viel.
+                        Es sind die beyden <persName key="ed_tf5_31d_cw">
+                            <persName key="ed_o5m_ncd_cw">königl<ex>ichen</ex> Schwestern</persName>
+                        </persName> mit der <persName key="ed_qfx_lhp_dw">Tochter der
+                            jüngeren</persName> in Lebensgröße</rs> mit einem ländlichen Grunde, in
+                    dem die Ferne die Stadt <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    vorstellt. Er hat sich, auch in Hinsicht der Beleuchtung, <add place="superlinear">die Aufgabe</add> sehr schwer gemacht; es scheint aber
+                    nicht, daß er zurückbleiben werde.</p>
+                <p>
+                    <bibl sameAs="ed_pny_dd3_dw">Das Gedicht</bibl> hat nicht nur mir und <seg type="comment">
+                        <orig>
+                            <persName key="prov_xsn_1cg_f5">Bury</persName>
+                        </orig>
+                        <note xml:id="nsdd_mmp_dw">Bury wird 1809 ein Gouache auf Karton zu Johanna
+                            Sebus gestalten, 47,5 x 33,8 cm (heute: Goethe Museum Düsseldorf,
+                            Inv.-Nr. NW 63/1955 (WV Gr 103)).</note>
+                    </seg>, sondern auch jedem andern, dem ich es zeigte, viele Freude gemacht. Die
+                        <persName key="ed_tf5_31d_cw">Churprinzeß</persName> kopirte es sogleich mit
+                    eigener Hand, und trug mir auf, den Verfaßer recht vielmal zu grüßen. Das im
+                    vorigen Jahre zu <placeName key="ed_jyj_t3p_dw">Karlsbad</placeName> gezeichnete
+                        <rs type="artwork" key="prov_jwc_x3p_dw">Porträt</rs> hängt über ihrem
+                    Sopha. <persName key="ed_fdj_4cn_yv">Zelter</persName>, wie er mich versichert,
+                    hat zu dem Gedichte bereits <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_vxg_pn5_dw">die Musik verfertigt</bibl>
+                        </orig>
+                        <note xml:id="nfvl_xnp_dw">In einem Brief an Goethe, geschrieben vom 12. bis
+                            14. Juni 1809, will Zelter Goethes Gedicht „Johanna Sebus“ mit Noten
+                            senden; es sei „etwas spreißig gegen eine Balladenform“. Er empfiehlt,
+                            es Cotta zur Veröffentlichung zu schicken, denn in Berlin wage es
+                            niemand zu drucken. Am 14. Juli setzt er hinzu, dass eine mehrwöchige
+                            Reise nach Königsberg die Absendung der Komposition bis zur Rückkehr
+                            verschiebe, da noch Verbesserungen zu machen seien (GSA Weimar 28/1015
+                            St. 69; vgl. Goethe Briefe Regestausgabe 5/1194). - In einem Brief vom
+                            11.-23. Oktober 1809 schreibt Zelter an Goethe, die Komposition zur
+                            „Johanna Sebus“ warte „auf eine gute Stunde um vom Stapel zu laufen“
+                            (GSA Weimar, 28/1015 St. 70; Regestausgabe 5/1276). - Mit Brief vom
+                            17.-21. Februar 1810 schickt Zelter die Komposition:“Hier mein
+                            göttlicher Freund ist meine, unsere Johanne!“, mit Anweisung an K.
+                            Eberwein für den Vortrag der Komposition und der Bitte, sie nicht aus
+                            der Hand zu geben, da sie „bereits nach Leipzig zum Drucke gesendet“ sei
+                            (GSA Weimar 28/1015 St. 73; 32/13 und 74; Regestausgabe 5/1389). Am 11.
+                            März 1810 hört Goethe die Komposition zum ersten Mal. - [Musikdruck]:
+                            Johanna Sebus: von Goethe; für Singstimmen am Pianoforte / in Musik
+                            gesetzt von Carl Friedrich Zelter. Leipzig: Peters, [ca. 1810]., 14
+                            S.</note>
+                    </seg>. <persName key="prov_n1f_vl5_tv">Hummel</persName> versprach mir <rs type="artwork" key="prov_qj1_tkp_dw">eine Zeichnung</rs> darnach zu
+                    entwerfen. Vorige Woche ward in einer außerordentlichen Versammlung der <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName> uns ein <seg type="comment">
+                        <orig>königl<ex>iches</ex> Rescript</orig>
+                        <note xml:id="nm5x_3lp_dw">Mit Reskript vom 17. Mai 1809 wurde Zelter, seit
+                            1806 Ehrenmitglied der Berliner Akademie der Künste, zum Professor für
+                            Musik an der königlichen Kunstakademie ernannt.</note>
+                    </seg> bekannt gemacht, vermöge welchem die Tonkunst den bildenden Künsten
+                    beygesellt, und Herr <persName key="ed_fdj_4cn_yv">Zelter</persName> als
+                    wirkliches Mitglied, und Professor der Musik ernannt ward. Indeßen <seg type="comment">
+                        <orig>steht den akademischen Einrichtungen eine starke Umwandlung
+                            bevor</orig>
+                        <note xml:id="nvtx_blp_dw">Die Kunst- wie auch die Wissenschaftsakademie
+                            erarbeiteten in einem langwierigen Prozess ein neues
+                            Akademiereglement.</note>
+                    </seg>, welcher sie sehr bedürfen, wenn etwas Wirksames aus ihnen werden
+                    soll.</p>
+                <p>Den Gedanken, diesen Sommer noch eine <seg type="comment">
+                        <orig>Reise</orig>
+                        <note xml:id="nifk_gmp_dw">Hirt kam 1809 nicht nach Weimar.</note>
+                    </seg> zu machen, habe ich noch nicht aufgegeben, und in diesem Falle werde ich
+                    Sie gewiß aufsuchen, wo ich Sie zu treffen hoffen kann. mit unabänderlichen
+                    Gesinnnungen von Achtung und Ergebenheit <lb/>Der Ihrige</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

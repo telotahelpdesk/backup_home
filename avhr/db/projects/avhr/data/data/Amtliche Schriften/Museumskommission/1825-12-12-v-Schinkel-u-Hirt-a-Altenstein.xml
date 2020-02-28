@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vdj_bln_lkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    12. Dezember 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 163r (von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-12-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_zjl_g2g_lkb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschriften. - Empfängerbemerkungen: "B Cito /
+                    pr den 12/12 25 / H v Harlem."; Aktenvermerke: "2247. B. J. / 141.", "Berlin
+                    Wiss S N 15 V III 16/3, 33"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>In Beziehung auf das Gesuch des Gehülfen im Restaurations-Attelier <hi rendition="#aq"><persName key="ed_kd2_lwc_1kb">Kromayer</persName></hi> um einen
+                    Vorschuß von 100 R<ex>eichs</ex>t<ex>ale</ex>r hat die Commission die Ehre Ew.
+                    Excellenz zu antworten, daß sich derselbe bisher in seinem Geschäft als
+                    vorzüglich brauchbar und sehr fleißig bewiesen hat, so wie daß Herr <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi>
+                    deßen Familie als rechtlich und achtbar bekannt ist. Ferner hat der <hi rendition="#aq"><persName key="ed_kd2_lwc_1kb">Kromayer</persName></hi> auf
+                    Anfrage der <orgName key="ed_imk_ss2_gjb">Commission</orgName>, zu welchem Behuf
+                    er diesen Vorschuß begehre, sich dahin erklärt, wie er einen Theil desselben
+                    anwenden wolle, um die Schuld eines Bruders, für welche er gut gesagt, zu
+                    tilgen. Endlich hat sich Herr <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi> erbothen für den ihm als Vorschuß
+                    geleisteten Betrag von 100 R<ex>eichs</ex>t<ex>ale</ex>r als Bürge einzustehen.
+                    Unter solchen Umständen glaubt die <orgName key="ed_imk_ss2_gjb">Commission</orgName> den <hi rendition="#aq"><persName key="ed_kd2_lwc_1kb">Kromayer</persName></hi> Ew. Excellenz zur Bewilligung seines Gesuchs
+                    ohne Bedenken empfelen zu können. Was den monatlichen Abzug anlangt, vermittelst
+                    dessen die Summe zurückzuzahlen wäre, wünschte derselbe, daß er den Betrag von
+                    10 R<ex>eichs</ex>t<ex>ale</ex>r nicht übersteigen mögte.</p>
+				<closer>
+                    <dateline>Berlin den 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        December 1825.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel. <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_qjb_t2d_gz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Johann Gottfried Herder. Weimar, kurz vor 2. November 1801]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt: Karoline Herder an Friedrich Heinrich Wilhelm Körte, Weimar, 2. November
+                    1801: "Gute Wünsche für seine Reise nach Berlin. [...] Herder sei nicht
+                    persönlich mit den Herren bekannt, an die Körte Empfehlungen wünscht; er fürchte
+                    sogar, daß seine Empfehlungen in Berlin nicht einmal vortheilhaft seyn möchten.
+                    Er lege aber einen Brief an seinen Freund Hofrat Hirt bei, der große Connexion
+                    in Berlin habe und den zweiten Bruder des Königs in der Kunst unterrichte.
+                    Karoline selbst lege einen Empfehlungsbrief an den Maler Bury bei." (Zitiert
+                    nach: Herder-Briefe, Bd. 8, 1984, Nr. 137A, S. 491-492; zu Hirt S. 492; teils
+                    Regest, teils wörtliche Wiedergabe des Brieftextes).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_hy4_jx2_rs">Herder, Johann Gottfried (1744-1803)
+                        (Generalsuperintendent)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1801-10-01" notAfter="1801-11-02" cert="high"/>
+                </correspAction>
+                <note>Das Empfehlungsschreiben für Körte, das dem Brief von Karoline Herder an Körte
+                    vom 2. November 1801 beilag, ist wohl an demselben Tag geschrieben oder kurz
+                    davor. - Körte reiste Anfang November 1801 nach Berlin.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kdy_tkx_tjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 6.
+                    Februar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 19r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_ajx_rc1_sjb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit Korrekturen und Unterschriftskürzel von Altenstein. -
+                    Bearbeitungsvermerk auf dem linken Rand "<hi rendition="#u">Briefbogen</hi>.";
+                    Mundierungs- und Absendevermerk "den 7/2 23."; Aktenvermerk auf dem oberen Rand
+                    "Ad num. 27.  &amp; ad N° 299 B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Des / Königlichen Geheimen-Ober-Bauraths / Herrn Schinkel, /
+                            Hochwohlgebohren, / und des / Königlichen Hofraths, Herrn Hirt, /
+                            Wohlgebohren, / hier.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 6 Februar, 1823.</dateline>
+                </opener>
+				<p>Der von Ew. Hochwohl, und Wohlgebohren in Ihrem gefälligen Schreiben vom 28sten
+                        v<ex>origen</ex> M<ex>onats</ex> geäußerten Meinung über die von dem Portier
+                        <persName key="ed_cdy_rrz_rjb">Köhler</persName> erbetene Zulage stimme ich
+                    gerne dahin bei, dass demselben, als eine Erkenntlichkeit für seine
+                    bereitswillige Dienstleistung 30 r<ex>eichs</ex>th<ex>aler</ex> zu bewilligen
+                    sind. Ew p überlaße ich solchem gedachten Summe aus dem Ihnen überwiesenen Fonds
+                    auszahlen zu laßen.</p>
+				<closer>
+                    <dateline>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></dateline>
+                    <signed><ex>[gez.]</ex> A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

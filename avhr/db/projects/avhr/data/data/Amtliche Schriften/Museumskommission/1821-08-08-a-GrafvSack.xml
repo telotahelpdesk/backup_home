@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nlg_csh_1jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Grafen Albert von Sack. Berlin, 8. August 1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3,
+                                Bl. 31r-33v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-08-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_vm2_w3b_fhb">Sack, Sebastian Albert Freiherr von (ab 1821 Graf
+                        von) (1757 (n.a. um 1753)-1829) (schlesischer Forschungsreisender (Suriname,
+                        Nordamerika, Naher Osten), königl.-preuß. Kammerherr, Ritter des
+                        Johanniterordens; übergab zahlreiche auf seinen Reisen erworbene antike
+                        Artefakte an die Berliner Antikensammlung; vererbte sein Vermögen an das
+                        Waisenhaus der Franckeschen Stiftungen in Halle)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Das Anschreiben hat kein Datum. Es wurde die Datierung der
+                    Beilage übernommen. - Das Anschreiben ist egh. von Hirt verfasst; die Beilage
+                    ist als "Copie der Handschrift des Herrn Hofrath Hirt" überliefert.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute>Verehrtester Herr<seg type="comment">
+                            <orig> Graf</orig>
+                            <note xml:id="nqq3_pyh_1jb">Der Freiherr von Sack war als königlich
+                                preußischer Kammerherr und Vizeoberjägermeister am 9. Juni 1821 in
+                                Berlin von König Friedrich Wilhelm III. in den preußischen
+                                Grafenstand erhoben worden.</note>
+                        </seg>!</salute>
+                </opener>
+				<p>Ich habe die Ehre, Ihnen hiemit das verlangte <seg type="comment">
+                        <orig>Verzeichniß zugleich mit dem Kästchen</orig>
+                        <note xml:id="nl11_bf3_1jb">Siehe unten.</note>
+                    </seg> anbey zu übersenden.</p>
+                <p>Es würde gut seyn, wenn kleine Papierchen mit der <hi rendition="#aq">correspondir</hi>enden Nummer des Verzeichnißes, mit seidenen Fäden an
+                    jedes Stück angehängt würden; und an die Stücke, welche keine Löcher haben,
+                    könnte man die Nummern ankleben.</p>
+                <p>Es machet mir große Freude, daß Sie uns so <rs type="artwork" key="prov_gsc_kcp_1jb">viele wichtige Denkmäler</rs>
+                    <seg type="comment">
+                        <orig>mitgebracht haben</orig>
+                        <note xml:id="nufb_hxh_1jb">Albert von Sack hatte im April 1818 von Rom aus
+                            eine Reise nach Griechenland und Kleinasien angetreten, von der er 1821
+                            nach Berlin zurückgekehrt war. 1820 hatte er das Fragment vom Grabmal
+                            der Nikarete erworben, das sich heute in der Antikensammlung Berlin
+                            befindet. "Es war eines der ersten antiken Kunstwerke, die nicht über
+                            den italienischen Kunsthandel nach Berlin kamen. Sack reiste mit dem
+                            damaligen österreichischen Konsul in Athen, Georg Christian Gropius,
+                            durch Griechenland und den Orient und kaufte während dieser Zeit eine
+                            Sammlung von antiken Artefakten, die er später der Antikensammlung in
+                            Berlin vermachte (Wikipedia; Zugriff 10.9.2019). - Sack hatte zuvor
+                            bereits 1805 eine Reise nach Suriname und von dort 1807 nach Nordamerika
+                            unternommen. 1812 reiste er zum zweiten Mal nach Suriname. </note>
+                    </seg>.</p>
+                <p>Dürfte ich Sie um den Abguß der Münze bitten, von der wir vor ein paar Tagen
+                    sprachen, so würden Sie hiedurch, bester Graf! sich sehr verpflichten</p>
+				<closer>
+					<salute>Ihren immer bereitwilligen Diener</salute>
+					<signed>Hirt. <pb n="2"/></signed>
+				</closer>
+            </div>
+            <postscript>
+                <p><rs type="artwork" key="prov_gsc_kcp_1jb"><hi rendition="#u">Verzeichniß</hi>.
+                        <lb/>einiger vom Herrn Grafen <hi rendition="#aq">v <persName key="ed_vm2_w3b_fhb">Sack</persName></hi> mitgebrachten
+                        Alterthümern</rs>.</p>
+                <p>1. Ein weiblicher Kopf in gebrannter Erde, nach der Angabe des Besitzers zu
+                        <placeName key="ed_bs1_zcp_1jb"><hi rendition="#aq">Corinth</hi></placeName>
+                    gefunden und gekauft. - <lb/>Das Monument verdient in mehreren Rücksichten die
+                    Aufmerksamkeit des Freundes der Künste und des Alterthums. Erstlich sind runde
+                    Bildwercke in gebrannter Erde überhaupt selten, und bis jetzt ist keines
+                    bekannt, was in <placeName key="prov_hrm_rbq_2v">Griechenland</placeName>
+                    gefunden wäre. Zweitens ist der Kopf nicht etwa in einer Form gedruckt, wie dies
+                    sonst bei andern Ueberresten in gebrannter Erde der Fall ist, sondern aus freier
+                    Hand <hi rendition="#aq">modellirt</hi>. Der Thon ist fein, und man nimmt daran
+                    keine Risse wahr. Es scheint mit einer Art Anstrich oder Firniß überzogen
+                    gewesen zu seyn. Drittens: nach dem Kopfputze zu urtheilen ist die Büste ein
+                    Bildniß aus dem <hi rendition="#aq">Augustin</hi>schen Zeitalter, und zwar wie
+                    es scheint das der <persName key="ed_mcj_5dp_1jb"><hi rendition="#aq">Octavia</hi></persName>, der Schwester des <hi rendition="#aq"><persName key="prov_zy2_wct_tv">Augustus</persName></hi> (was aber noch
+                    näher durch die Vergleichung mit den Münzen ausgemittelt werden muß). Das Bild
+                    selbst ist nicht <hi rendition="#aq">idealisirt</hi>, sondern iconisch. <lb/>Das
+                    Auffinden einer Büste der <persName key="ed_mcj_5dp_1jb"><hi rendition="#aq">Octavia</hi></persName> in <hi rendition="#aq"><placeName key="ed_bs1_zcp_1jb">Corinth</placeName></hi> darf nicht befremden. Sie
+                    ward allda so verehrt, daß ihr die <hi rendition="#aq">Corinther</hi> einen
+                    Tempel errichteten; und ein Bildniß in gebrannter Erde ist ein Beweis, daß auch
+                    die geringere Klaße von Einwohnern es besitzen wollten. In alterthümlicher
+                    Rücksicht ist das Monument wichtiger, als wenn es in Marmor wäre <lb/>In einem
+                    hölzernen Kästchen, inwendig mit schwarzer Seide ausgefüttert, finden sich eine
+                    größere Anzahl kleinere in <hi rendition="#aq"><placeName key="prov_oxg_n4j_2v">Aegypten</placeName></hi> gesamleter Gegenstände verschiedenen Inhalts.
+                    Es sind folgende:
+                    <lb/>_____________________________________________________________________
+                    <lb/>1. Eine Schnur braunrother <hi rendition="#aq">Corallen</hi> um den Hals zu
+                    tragen. <lb/>2. Eine Kupfermünze von größerer Form: auf der Vorderseite der Kopf
+                        <hi rendition="#aq"><persName key="prov_rk2_d12_1v">Jupiters</persName></hi>
+                    mit dem <seg type="comment">
+                        <orig>Amunshorn</orig>
+                        <note xml:id="nljr_mf3_1jb">Ammonshorn</note>
+                    </seg>; auf der Rückseite ein auf dem Donnerkeil stehender Adler, und im Felde
+                    ein Füllhorn mit der Umschrift: <foreign xml:lang="grc">ΠΤΟΛΕΜΑΙ ΟV
+                        ΒΑΣΙΛΕΩΣ</foreign> zu bemerken ist das runde Grübchen in der Mitte der
+                    Münze, sowohl auf der Vorder- als Rückseite. <lb/>3. Eine Silbermünze: auf der
+                    Vorderseite der Kopf des <hi rendition="#aq"><persName key="prov_ctb_wmy_cv">Hercules</persName></hi>; auf der Rückseite ein thronender <hi rendition="#aq"><persName key="prov_rk2_d12_1v">Jupiter</persName></hi>, in
+                    der linken das Zepter, und auf der ausgestreckten Rechten den Adler haltend.
+                    Hinter dem Throne <pb n="3"/> das Wort: <foreign xml:lang="grc">ΦΙΛΙΠΠΟV</foreign>. Im Felde unter dem Sitze die Buchstaben <foreign xml:lang="grc">ΑV</foreign>, dann vor dem Knien ein <foreign xml:lang="grc">M</foreign> und wie es scheint über dem ausgestreckten Arm noch ein<foreign xml:lang="grc"> Λ</foreign>. <lb/>4. Ein braungelbliches Steinchen in der
+                    Form eines Salbengefäßes. <lb/>5. Ein durchlöcherter <hi rendition="#aq">Amattist</hi>, um ihn wie eine Coralle an eine Schnur zu faßen. <lb/>6.
+                    Eine Art von Agathsteinchen in der Form eines Klöppels oder eines <hi rendition="#aq">Phallus</hi>, oben mit einem Loche, um es als <hi rendition="#aq">Amulet</hi> zu tragen. <lb/>7. Ein ähnlicher Klöppel aus
+                    grünem Glas. <lb/>8. Ein <hi rendition="#aq">ovales</hi> Stück heiliger Erde, wo
+                    auf einer Seite mit einem Siegel <hi rendition="#aq">aegypt</hi>ische Figuren
+                    eingedrückt sind. Die Erde ward nachher gebrannt. Die Risse kommen theils vom
+                    Eindruck des Siegels, theils vom Brande her. Von den Figuren läßt sich nur noch
+                    eine hockende Gottheit, den <seg type="comment">
+                        <orig>Nilschlüßel</orig>
+                        <note xml:id="nyr4_jsp_1jb">Das Anch-Symbol, ägyptisches Henkelkreuz,
+                            altägyptisches Symbol für das Weiterleben im Jenseits.</note>
+                    </seg> vor sich haltend, erkennen, wie es scheint mit einem Thierkopfe, aber
+                    ungewiß: ob von einem Hunde oder einem Löwen. Ein solches <hi rendition="#aq">Amulet</hi> von geweihter Erde ist ein seltenes Stück. <lb/>Alle folgenden
+                    Stücke sind von <hi rendition="#aq">aegypt</hi>ischer Porzellan Erde, gebrannt
+                    und mit grünlichem Eyweiße überzogen, nur drey davon sind weißlich und ohne
+                    Firniß. Diese Stücke haben Löcher weil sie als <hi rendition="#aq">Amulette</hi>
+                    zum Umhängen dienten. Man findet sie gewöhniglich um den Hals der Mumien.
+                    <lb/>9-10. Bilder des <hi rendition="#aq"><persName key="ed_vnv_dqp_1jb">Phtha</persName></hi>, oder des <hi rendition="#aq">aegypt</hi>ischen
+                        <persName key="ed_p3x_rpp_1jb"><hi rendition="#aq">Vulcan</hi></persName>,
+                    des ersten und größten der <hi rendition="#aq">aegypt</hi>ischen Götter. Man
+                    betrachtet ihn als Urgeist, der im Centralfeuer wohnt. <lb/>11.-12. Zwey Figuren
+                    im <hi rendition="#aq">Profil</hi> mit dem Hundskopf, den <seg type="comment">
+                        <orig><hi rendition="#aq"><persName key="ed_h1w_xqp_1jb">Anubus</persName></hi></orig>
+                        <note xml:id="nh5j_mtp_1jb">Anubis.</note>
+                    </seg> vorstellend. <lb/>13. Eine ähnliche Figur von vorne gesehen. <lb/>14.
+                    Eine Göttin in <hi rendition="#aq">Profil</hi> ) wahrscheinlich <persName key="ed_cgd_krp_1jb"><hi rendition="#aq">Isis</hi></persName>.<lb/>15. Eine
+                    andere von vorne ) <lb/>16. Drey Figuren von vorne gesehen nebeneinander, in der
+                    Mitte ist <persName key="ed_jkw_rtp_1jb"><hi rendition="#aq">Horus</hi></persName>, von den Göttinnen rechts und links, scheint das eine
+                    seine Mutter <hi rendition="#aq"><persName key="ed_cgd_krp_1jb">Isis</persName></hi>, und die andere seine Erzieherin <hi rendition="#aq"><persName key="ed_evz_j5p_1jb">Buto</persName></hi> zu seyn. <lb/>17.
+                    Eine Figur mit dem Bart in den Händen, über die Brust gekreuzt, die Peitsche und
+                    den Agurstab haltend: <hi rendition="#aq">Attribute</hi> des <persName key="ed_r4l_5vp_1jb"><hi rendition="#aq">Osiris</hi></persName>. <lb/>18.
+                    Ein Sperber mit der hohen Mütze, heilig dem <persName key="ed_dzb_pwp_1jb"><hi rendition="#aq">Phre</hi></persName> und den <hi rendition="#aq"><persName key="ed_dvp_kxp_1jb">Arneris</persName></hi>. <lb/>19. Ein
+                    ähnlicher Vogel aber ohne Mütze. <lb/>20. Das Auge des <hi rendition="#aq"><persName key="ed_r4l_5vp_1jb">Osiris</persName></hi>. <lb/>21. Ein
+                    Profil mit eingesetztem schwarzen Auge; ungewiß ob es von einem Vogel oder Hund.
+                    - <lb/>22, 23, 24, 25, 26. Fünf Stück Käfer: zwey größere und drey kleinere, die
+                    drey letztern sind mit <hi rendition="#aq">Hyrogliphen</hi> auf der Rückseite.
+                        <pb n="4"/>
+                    <lb/>27. 28. 29. Zwey flache Stücke an der Vorder- und Rückseite mit dem <seg type="comment">
+                        <orig>Andreaskreuz</orig>
+                        <note xml:id="nybn_psp_1jb">Hier wohl: Anch (oder: Ankh)-Kreuz
+                            gemeint..</note>
+                    </seg>, und ein drittes mit demselben Kreuze an der einen Seite, an der andern
+                    aber mit einem <hi rendition="#aq">Systrum</hi>. <lb/>30. Ein flaches Stück an
+                    beiden Seiten mit <hi rendition="#aq">Hyroglyphen</hi>. <lb/>31. Ein gekittetes
+                    Stück ohne kennbare Zeichen. <lb/>32.-33. Die zwey Federn von der Mütze des <hi rendition="#aq"><persName key="ed_r4l_5vp_1jb">Osiris</persName></hi>.
+                    <lb/>34. Ein Hilfschlüßel. <lb/>35.-36. Zwey Tragbare Altartische in
+                    Absätzen.</p>
+                <p><hi rendition="#aq">Berlin</hi> den 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">August</hi>. 1821.</p>
+                <p><hi rendition="#aq">Copie</hi> der Handschrift des Herrn <lb/>Hofrath <hi rendition="#aq">Hirt</hi>.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

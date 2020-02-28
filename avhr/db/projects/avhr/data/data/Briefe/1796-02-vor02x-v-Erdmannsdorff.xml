@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_tmp_3qb_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich Wilhelm von Erdmannsdorff. Wörlitz, vor 2. Februar
+                    1796]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Tagebücher der Fürstin Louise von Anhalt-Dessau: Eintrag 2.
+                    Februar 1796: [Die Fürstin erhielt Post u. a. von Erdmannsdorff] "[...] noch
+                    als ich beym Eßen saß kam Hirt es war auch für ihm eine Einlage von
+                    Erd[mannsdorff] als es dämmerte ging Hirt ab" (LHASA, Abt. Dessau, A 9 e Nr. 15
+                    (4)).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ajy_pwx_2v">Erdmannsdorff, Friedrich Wilhelm von (1736-1800)
+                        (Architekt, plante das Schloss Wörlitz im Wörlitzer Park, 1786-89 in preuß.
+                        Diensten in Berlin und Potsdam tätig, 1789-1790 in Italien, an den Höfen in
+                        Gotha, Kassel und Karlsruhe tätig, ab 1796 künstler. Leiter der
+                        Chalkographischen Gesellschaft in Dessau)</persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                    <date notBefore="1796-01-01" notAfter="1796-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

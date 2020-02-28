@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_wfj_zn2_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 20. September 1829.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 46</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1829-09-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Herrn Hofrath / Boettiger / in / <hi rendition="#u">Dresden</hi>.
+                            / Mit Postvermerken und zwei Poststempeln: (runder Stempel: "BERLIN 4-5
+                            / 22 / 9"; viereckiger Stempel: XXPOST / 24 Sept. / X 70"). Siegel
+                            ausgerissen</addrLine>
+                    </address>
+                    <dateline>Berlin den 20 Sept. 1829.</dateline>
+                    <salute>Verehrtester Freund!</salute>
+                </opener>
+                <p>Nach ziemlich guter Reise bin ich den ersten dies <seg type="comment">
+                        <orig>wieder in meiner Wohnung angelangt</orig>
+                        <note xml:id="nsfl_mlr_bz">Hirt hatte sich im Bad in Teplitz und
+                            anschließend auf der Rückreise in Dresden aufgehalten (vgl. auch <ref target="hirt_ivq_p1z_gy">1829-09-10-a-Gerhard</ref>).</note>
+                    </seg>. Ich suchte sogleich das Versprochene zu besorgen, um mit erster
+                    Gelegenheit es an Sie zu übersenden. Allein die Gelegenheiten dorthin werden
+                    iezt seltener, und um <add place="superlinear">nicht</add> länger zu lauern
+                    überschicke ich den Pack mit der Fahrenden Post. - <bibl sameAs="ed_cdf_ffp_dw">Dieser Theil machet den Schluß meiner lebenslänglichen Arbeiten über antike
+                        Architektur</bibl>. Gern fügte ich noch die Geschichte dieser Kunst im
+                    Mittelalter bis auf <persName key="ed_vg2_nrl_sy">
+                        <hi rendition="#aq">Brunelleschi</hi>
+                    </persName> hinzu. Allein theils hat sie weniger Reiz für den alterthümlich
+                    Gebildeten, theils erfordert sie zu viel Umständlichkeit in Hinsicht der vielen
+                    hiezu nöthigen Kupfer, wenn sie gehörig und verständlich seyn soll. Dann möchte
+                    ich lieber noch anderes fördern, ehe mich die lezte Stunde überrascht, nämlich
+                        <bibl sameAs="ed_tdh_xpw_ry">die Geschichte der bildenden Kunst bey den
+                        Alten</bibl>, die mir von jeher eben so am Herzen lag, wie die der Baukunst.
+                    Aber ein Werk dieser <add place="superlinear">Art</add> kann nur langsam zu Ende
+                    schreiten, wenn es gediegen und bleibend seyn soll, besonders in unsern Tagen,
+                    wo sich so viele mit dem ähnlichen Gegenstand beschäftigen, und die Ansichten
+                    noch so abweichend sind. Aber dies schreckt mich nicht. <pb n="2"/> Mein <hi rendition="#aq">Motto</hi> von jeher war: thue das Rechte, und scheue
+                    Niemand. - Auch verkennt man mein ganzes Streben, wenn man glaubt, daß ich je
+                    auf irgend jemand eifersichtig war, der sich mit den gleichen Studien
+                    beschäftigt. Ich erkenne gern das Gute von jedem an. Aber ich scheue auch keinen
+                    Streit, so lange ich hoffen kann, daß dadurch etwas Ersprießliches für die
+                    Wißenschaft zu gewinnen sey. Auch bin ich gegen meine Gegner nicht feindselig
+                    gesinnt. So achte ich Herrn <persName key="ed_qnt_bnm_vw">
+                        <hi rendition="#aq">Thiersch</hi>
+                    </persName> in vielen Beziehungen, <seg type="comment">
+                        <orig>wenn ich gleich zweymal sehr ernsthaft gegen ihn zu Felde zog</orig>
+                        <note xml:id="nwhp_mmr_bz">Hirt hatte die erste und die zweite Auflage von
+                            Thierschs "Ueber die Epochen der bildenden Künste unter den Griechen"
+                            rezensiert. Vgl. dazu 1<ref target="hirt_dpt_lzr_gy/#nfjx_5jm_1z">829-07-11-a-Gerhard mit Sacherläuterung</ref>.</note>
+                    </seg>. Seine kunsthistorischen Ansichten sind falsch, und verdienen um so mehr
+                    Rüge, je dreister sie sich vordrängen und behaupten wollen.</p>
+                <p>Ich fange an allmählig wieder in meine gewohnten Studien hinein zu kommen. Zuerst
+                    denke ich <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_mhm_snl_vw">eine kleine Schrift über <hi rendition="#aq">Dresden</hi>'s Kunstschätze</bibl>
+                        </orig>
+                        <note xml:id="norm_1ly_sy">Vgl. auch Böttigers Rezension "Hirt's Bemerkungen
+                            über die Dresdener Gemäldegalerie und das Antikenmuseum" im Artistischen
+                            Notizenblatt [= Beilage zur Abendzeitung], Dresden 1830, Nr. 14, sowie
+                            Heinrich Hase: "Hofrath Hirt bei den Antiken in Dresden", in: Blätter
+                            für literarische Unterhaltung, 1831, Nr. 56. </note>
+                    </seg> herauszugeben, <seg type="comment">
+                        <orig>die ich bereits im J<ex>ahr</ex> 1819 schrieb</orig>
+                        <note xml:id="nlpz_byl_cz">Vgl. den Brief an Goethe vom 10. Mai 1830 mit
+                            Sachanmerkung.</note>
+                    </seg>, und erst zehn Jahre später mit den erforderlichen Anmerkungen versah.
+                    Noch habe ich mich nach keinem <persName key="ed_qvw_qqb_lx">Verleger</persName>
+                    hiezu umgesehen. Ich werde nicht versäumen, Ihnen so gleich <seg type="comment">
+                        <orig>ein <hi rendition="#aq">Exemplar</hi> zuzusenden</orig>
+                        <note xml:id="ntw4_yky_sy">Vgl. 1830-05-12-a-Böttiger und andere</note>
+                    </seg>. – Empfehlen Sie <add place="superlinear">mich</add> dem
+                    trefflichen <persName key="ed_dbg_wkz_4x">
+                        <hi rendition="#aq">Hase</hi>
+                    </persName>, und <persName key="ed_elf_x4c_3y">Herrn v. <hi rendition="#aq">Quandt</hi>
+                    </persName>. In <placeName key="prov_zj4_hc3_g5">
+                        <hi rendition="#aq">Dresden</hi>
+                    </placeName> hatte ich nicht zeit, demselben einige Notizen über <seg type="comment">
+                        <orig>seine Sammlung</orig>
+                        <note xml:id="ngcx_pyl_cz">In seinem Haus in Dresden hatte v. Quandt ein
+                            Museum eingerichtet, das Künstlern zum Studium offenstand
+                            (https://www.arthistoricum.net/themen/portale/gkg/quellen/quandt/).
+                            Siehe dazu: Verzeichniss der von Herrn Johann Gottlob von Quandt
+                            hinterlassenen Gemälde-Sammlung alter und neuer Meister. Dresden 1868. -
+                            Das Verzeichnis nennt u.a. Lucas Cranach d. Ä., Sandro Botticelli, Fra
+                            Giovanni da Fiesole, Jacob Ruisdael sowie zahlreiche zeitgenössische
+                            Künstler (siehe unten). </note>
+                    </seg> aufzusetzen, wie ich versprach. Ich wollte es hier thun, aber das Papier,
+                    worauf ich meine Noten mit dem Bleistift machte, ist mir auf der Reise abhanden
+                    gekommen, und leider ist mein Gedächniß zu schwach <pb n="3"/> um das Notirte
+                    zurückzurufen. Nur der <seg type="comment">
+                        <orig>Nonnenartigen Gestalt</orig>
+                        <note xml:id="nz4j_k2m_cz">Möglicherweise das im "Verzeichniss" S. 3, Nr. 6
+                            aufgeführte Werk "In der Manier des Pieter Porbus. Lebensgrosses
+                            Frauenbildniss. [...] Die sehr ernste bejahrte Dame ist nach rechts
+                            gewendet, ein eigenthümliches Häubchen deckt den Kopf, die Hände hält
+                            sie in einander geschlagen. Den blosen Hals und die Hände umgeben ein
+                            weisser Kragen und Manschetten. Die Kleidung ist schwarz; oben links
+                            steht die Jahreszahl 1558 auf dunklem Grund."</note>
+                    </seg> erinnere ich mich noch deutlich. Ich halte dieselbe von keinem
+                    bedeutenden Meister, und von keinem <hi rendition="#aq">Venezian</hi>er
+                    der guten Zeit. Ich freute mich übrigens zu sehen, wie sehr <del rendition="#s">sich</del>
+                    <persName key="ed_elf_x4c_3y">Herr v. <hi rendition="#aq">Quandt</hi>
+                    </persName> den <seg type="comment">
+                        <orig>Schutz der lebenden Künstler</orig>
+                        <note xml:id="natk_fzl_cz">Quandt förderte durch zahlreiche Aufträge
+                            zeitgenössische Künstler, vor allem die Nazarener. Das Verzeichnis
+                            seiner hinterlassenen Gemäldesammlung nennt u.a. Werke von Joseph Anton
+                            Koch, Friedrich von Overbeck, Julius Schnorr von Carolsfeld, Carl
+                            Eggers, Franz Catel, Caspar David Friedrich (u.a. "Die zerstrümmerte
+                            Hoffung"), Gustav Heinrich Naecke, Ludwig Richter (u.a. Die Brautfahrt
+                            unter dem Schreckenstein), Domenico Quaglio, Peter Hess, Franz Krüger,
+                            Friedrich Gauermann, Johann Christian Dahl, Gottlob Friedrich Steinkopf,
+                            Max Joseph Wagenbauer, Johann Theodor Goldstein, Georg Carl Adolph
+                            Hasenpflug, Ernst Oehme, Otto Wagner, Vogel von Vogelstein, Philipp
+                            Veit, Carl Rottmann, Friedrich Helmsdorf, Ferdinand von Olivier, Carl
+                            Anton Graff, Louise Seidler. In Rom hatte er desweiteren Berthel
+                            Thorvaldsen und Johann David Passavant unterstützt.</note>
+                    </seg> sich angelegen seyn läßt. Komme ich das nächste Jahr wieder zu Ihnen, so
+                    werde ich <add place="sublinear">mich</add> mündlich darüber äußern können. Mein
+                    Wunsch und meine Hoffnung ist, daß ich Sie dann auch rüstiger finden werde, und
+                    wir mehr mit einander werden verkehren können, als der heillose Schwindel es
+                    diesmal erlaubte.</p>
+                <closer>
+                    <salute>Seyen Sie wohl gemuthet, und gedenken Sie <lb/>Ihres ergebnen</salute>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

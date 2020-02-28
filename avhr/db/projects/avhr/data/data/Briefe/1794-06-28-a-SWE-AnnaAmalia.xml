@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_gpp_2m5_1v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Rom, den 28. Juni 1794.
+                    Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50, Bl.
+                                19-20</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1794-06-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia
+                        von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 28<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Junius 1794.</dateline>
+                    <salute>Gnädigste Herzogin!</salute>
+                </opener>
+                <p>Überzeugt, daß die besondere Güte Ew. Herzogl<ex>ichen</ex> Durchlaucht gegen
+                    mich das meiste bey<ex>ge</ex>tragen hat, um <add place="superlinear">mir</add> den ehrenvollen <seg type="critical">
+                        <orig>Karakter eines Rathes</orig>
+                        <note xml:id="nzgy_sv5_1v">Siehe das Dekret des Herzogs vom 25. April
+                            1794.</note>
+                    </seg> von dem <persName key="prov_mpb_byv_y5">Herzog</persName>,
+                    Ihrem Sohn, zu erhalten, nähere ich mich Ihnen, um Ew. Durchlaucht mit gerührtem
+                    Herzen zugleich meine Freude, und Dankgefühl zu bezeugen. Ich werde diese
+                    Auszeichnung immer als eine Auffoderung ansehen, mich nach Kräften dieses hohen
+                    Zutrauens würdiger zu machen. Es ist gewiß das angenehmste Gefühl des Menschen,
+                    von Personen Achtung zu erhalten, von denen man vorzüglich wünschet, geschäzt zu
+                    werden. Ich befinde mich iezt ganz in der Lage.  <pb n="2"/>
+                </p>
+                <p>In der Hofnung, daß Ew. Durchlaucht mein unlängst abgesendetes <seg type="critical">
+                        <orig>Schreiben</orig>
+                        <note xml:id="nk2p_xv5_1v">1794-06-21-a-SWE-AnnaAmalia</note>
+                    </seg> indeßen werden erhalten haben, weiß ich für iezt nichts weiter
+                    beyzusezen, als Sie zu bitten, mir forthin Ihre unschäzbare Gnade beyzubehalten,
+                    und zu glauben, daß ich nie aufhören werde, mit Ehrfurcht, Erkenntlichkeit und
+                    Ergebenheit zu seyn</p>
+                <closer rend="paragraph">
+                    <salute>Ew. Herzoglichen Durchlaucht / unterthänigster</salute>
+                    <signed>A. Hirt <pb n="3"/>
+                    </signed>
+                    <dateline rend="align(right)"/>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <seg type="critical">
+                        <orig>Fernere Nachrichten</orig>
+                        <note xml:id="nuxt_qv5_1v">Vgl. 1794-06-21-a-SWE-AnnaAmalia mit
+                            Sachanmerkung zum Vesuv-Ausbruch.</note>
+                    </seg>, die etwas besonders enthielten, sind seither von <placeName key="prov_myp_lbv_35">Neapel</placeName> nicht eingelaufen, als daß auf der
+                    Seite von <placeName key="prov_m33_lqz_1v">S. Giorgio</placeName> ein starker
+                    Regen von heißem Waßer mit Asche und Papillen vermischt (rejection boneuse)
+                    gefallen sey, das gleichfalls sehr großen Schaden verursacht haben soll. Es ist
+                    bekannt, daß es eine <add place="auf dem linken Rand">solche</add> rejection
+                    boneuse war, welche <placeName key="prov_wwy_pqz_1v">Herculaneum</placeName>
+                    bedekte. - Ferner soll in ein Landhaus zu <placeName key="prov_m33_lqz_1v">S.
+                        Giorgio</placeName>, welches <del rendition="#s" next="Lady">bey
+                        d</del>
+                    <persName key="prov_vrm_mpx_bv">Lady Plymouth</persName> eben ganz neu meublirt
+                    hatte, einige feuerige Maße, in Form einer Kugel, gefallen seyn, welche alles
+                    brennbare im Hause verzehrte; es wird dabey gesagt, daß dieß Phænomen durch
+                    keine bekannte Regel der Electricität könne erklärt werden. Da ich dieß Factum
+                    nicht näher kenne, und übrigens auch kein starker Physiker bin, so kann ich
+                    nichts weiters hierüber sagen. - In <placeName key="prov_frc_x14_y5">Torre del
+                        greco</placeName> soll die Lava sich an einigen Stellen bis auf zwanzig Fuß
+                    übereinander // geschüret haben. - <persName key="prov_o12_bfx_w5">Prinz
+                        August</persName> sagte mir heute früh aus einer Nachricht, welche von der
+                        <persName key="prov_xcm_ypx_bv">Königin</persName> selbst kömt, daß der
+                    Schaden über drey Millionen Dukati berechnet werde.</p>
+                <p>Nähere Nachrichten werden Ew. Durchlaucht zweifelohne von <placeName key="prov_myp_lbv_35">Neapel</placeName> selbst erhalten.</p>
+                <p>Bis iezt wißen wir nichts vom Sommer. Winter und Frühjahr waren sehr schön;
+                    diesen Monat haben wir fast täglich Regen mit Donnerwetter gehabt, und wirklich
+                    steht ein neues am Himmel, welches sehr leicht diesen Abend den Spaß mit der
+                    Beleuchtung der <placeName key="prov_dlg_vqx_bv">Peterskuppel</placeName>, und
+                        <seg type="comment">
+                        <orig>Girandola</orig>
+                        <note xml:id="nj3c_mxm_mz">Vgl.
+                            1794-06-21-a-SWE-AnnaAmalia mit Sachanmerkung.</note>
+                    </seg> verderben
+                    kann.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_q11_shd_wgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votum Hirts zu einer Ode August Adolf Leopold Graf von Lehndorffs sowie zu
+                    dessen Aufnahme in die Akademie der Wissenschaften. Berlin, 4. Februar
+                    1806</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1811), I-III-6, Bl. 23r-v (Sitzung
+                                der Historisch-philologischen Klasse vom 4.2.1806)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-02-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_znn_dfc_b1b">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+                <p><ex>Klassensitzung vom 4. Februar 1806:</ex></p>
+				<p>Ob patriotische Gesinnungen für einen <persName key="ed_hsj_f5d_wgb"><seg type="comment">
+                            <orig>Ehrenplaz</orig>
+                            <note xml:id="nun5_vvd_wgb">August Adolf Leopold Graf von Lehndorff
+                                wurde am 13.2.1806 als ao. Mitglied in die Akademie der
+                                Wissenschaften aufgenommen (Bestätigung am 24.2.1806; EM
+                                24.1.1812).</note>
+                        </seg></persName> in der könig<ex>lichen</ex>
+                    <orgName key="ed_znn_dfc_b1b">Akademie</orgName> hinreichend seyn; ob der
+                    Patriotismus, der in dem vorliegenden <bibl sameAs="ed_cxv_jvd_wgb">Gedichte</bibl> wehet, aufgeklärt sey (man sehe Strophe 13. und 14.) gehört
+                    nicht für das <hi rendition="#aq">Forum</hi> der Mitglieder der Classe, welche
+                    ihre Stimmen, nicht über den Inhalt des Gedichtes, sondern über den
+                    dichterischen Werth desselben abzugeben haben.</p>
+                <p>In lezterer Rücksicht glaube ich, daß man dem Gedichte poetischen Sinn, Kraft der
+                    Sprache, und Gefühl für <hi rendition="#aq">Rhythmus</hi> nicht absprechen
+                    könne. Nur scheint es nicht ganz von Tautologien frey zu seyn; und in Hinsicht
+                    des geschichtlichen Ganges, den der Dichter andeuten will, möchten wohl manche
+                    Strophen eines Commentar's bedürfen. <pb n="2"/> Einen durchaus lichten, einfach
+                    edlen Gang haben die in dem Briefe enthaltenen Strophen auf den Geburtstag des
+                    Königs. -</p>
+				<closer>
+                    <dateline>den 4<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Feb.
+                        1806.</dateline>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p><ex>Weitere Voten finden sich ebenda: vor Hirts Meinungsäußerung die von Erman;
+                        nach Hirts Meinungsäußerung die von J. v. Müller, Merian, Rambach, J. G.
+                        Spalding und nochmals von Merian:</ex></p>
+                <p>Monsieur le Comte de Lehndorf m lest connu comme hercher des talens et du
+                    patriotsme de son respectable père. / Il a paru de lui en France et en Allemand
+                    un <seg type="comment">
+                        <orig>Essai Sur les mésalliances (uiber ungleiche Ehen)</orig>
+                        <note xml:id="np44_522_wgb">August Adolf Leopold Graf von Lehndorff: Traité
+                            des mésalliances. Berlin 1792. - Derselbe: Über ungleiche Ehen. Neu
+                            verdeutscht durch Karl Heinrich Friedrich von Felgenhauer. Berlin
+                            1792.</note>
+                    </seg> qui fait xxx. nous à ses connaissances xxxxxxx. / Je ne puis mxxxgu en
+                    Inge de l'Ode qui circule ou je trouve du pindarsque et du patriotisme, sans
+                    m'xxxxxx qualité que me défund de priadra le peu de connaissance que j'ai de la
+                    langue et de la litterature Allemande / J'ajoute que Monsieur le Comte de
+                    Lehndorf aggregendya à la Societé des Sciences de <placeName key="ed_rhx_dhd_cw">Königsberg</placeName> paroit avir des xxxx a la distinction qu'il paroit
+                    que le <persName key="prov_bxf_jt5_fv">Roi</persName> descourir pour lui Se
+                    pense done qu il sent question de le proponir à l'Academie / <persName key="ed_o2v_153_yfb">Erman</persName> le 1. Fevr.</p>
+                <p>Die Cultur der Sprache, die Vaterlandsliebe und der Wille S<ex>eine</ex><hi rendition="#sup">r</hi> Majestät sind Motive genug, dem Herrn Grafen von
+                    Lehndorf die Decoration eines ausserordentl<ex>ichen</ex> Mitgliedes unserer
+                    Akademie angedeihen zu lassen. / 4 Febr. 1806. <persName key="ed_ajg_j2h_bw">JvMüller</persName></p>
+                <p>J'opine également pour la réception de Mr le comte de Lehndorf / <persName key="ed_qng_bhs_5fb">Merian</persName> 4 Frévrier 1806.</p>
+                <p>Der junge Dichter (denn, daß er noch jung ist, muß ich aus seiner Arbeit
+                    schließen) scheint eine mit Bildern überladene Sprache mit der ächt-poetischen
+                    zu verwechseln. In Seinem Gedichte ist mehr Lärm als in dem von ihm betrauerten
+                    Europa. Dem ungeachtet verrathen einige Strophen ein würkliches Talent. Ich
+                    stimme daher für die Ernennung. / 6 Februar <persName key="prov_xyh_vvt_fv">Rambach</persName></p>
+                <p>Die Rüksicht auf den Willen seiner Majestät des <persName key="prov_bxf_jt5_fv">Königs</persName>, nebst der Betrachtung, dass bei Personen hohen Standes
+                    auch das Bestreben zur Beförderung der vaterländischen Literatur von jeher
+                    lobend aufgenommen worden, kann die Akademie rechtfertigen, wenn sie den
+                        Verf<ex>asser</ex> dieser Ode zu ihrem Ehrenmitgliede aufnimmt, wenn gleich
+                    das Werk selbst schwach und nicht ganz korrekt ist. / B. 6 Febr. 6. <persName key="ed_efb_f22_wgb">GLSpalding</persName>.</p>
+                <p>Nunmehr bleibt die Frage über ob die Wahl durch die Mehrheit der Stimmen
+                    vorgenommen werden soll, oder ob in diesem Falle nicht der Approbation
+                        S<ex>eine</ex>r <persName key="prov_bxf_jt5_fv">Maj<ex>estät</ex></persName>
+                    Meldung gethan werden müste. / 7 Febr. <persName key="ed_qng_bhs_5fb">Merian</persName></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

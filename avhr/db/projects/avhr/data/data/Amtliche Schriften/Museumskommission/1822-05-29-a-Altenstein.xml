@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_i3n_jcs_3jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an N.N. und den Staatsminister von Altenstein</title>
+                <title>. Berlin, 29. Mai 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3,
+                                Bl. 136r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-05-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Der Adressat ist nicht bekannt; wohl ein Mitarbeiter im Ministerium. Dieser
+                    hatte wohl auch im Auftrag Altensteins die Frage hinsichtlich der Reliefs
+                    gestellt und sollte nun Hirts Antwort an Altenstein weiterleiten.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>Welche Bewandtniß es mit den zwey vorgeblichen <hi rendition="#aq">Reliefs</hi> von <hi rendition="#aq"><persName key="prov_fwx_wdb_3v">Michelangelo</persName></hi>
+                    haben mag, weiß ich nicht; denn ich kenne weder das eine, noch das andere,
+                    obwohl mir das <placeName key="ediarum_rbj_kfs_3jb">große Spital</placeName> in
+                        <hi rendition="#aq"><placeName key="ed_r4p_jfs_3jb">Siena</placeName></hi>
+                    sehr gut bekannt ist. Vielleicht nimmt man in Beziehung des Leztern die Arbeit
+                    des <hi rendition="#aq">M. A. <persName key="ed_nl2_bgs_3jb">Montorsoli</persName></hi> für ein Werk des <hi rendition="#aq">M. A.
+                            <persName key="prov_fwx_wdb_3v">Buonarotti</persName></hi> der
+                    Ähnlichkeit des Styls u. der Namen wegen, so wie es häufig zu geschehen pflegt.
+                    - Aber dem sey, wie ihm wolle, so halte ich dafür, daß wenig Rücksicht auf ein
+                    solches Anerbieten zu nehmen sey. Ich gestehe, daß ich kein großer Freund der
+                        <rs type="artwork" key="prov_bty_whs_3jb">Florentinischen <hi rendition="#aq">Sculpturen</hi></rs> aus der Schule des <hi rendition="#aq"><persName key="prov_fwx_wdb_3v">Michelangelo</persName></hi>
+                    bin, und nie zu Ankäufen dieser Art rathen würde. Dies ist meine Ansicht, welche
+                    ich S<hi rendition="#sup"><hi rendition="#u">er</hi></hi>
+                    <hi rendition="#aq">Excellenz</hi> dem Herrn Minister v. <hi rendition="#aq"><persName key="ed_iwb_fpx_lw">Altenstein</persName></hi> mitzutheilen
+                    angelegenst bitte.</p>
+				<closer>
+                    <salute>Mit aufrichtiger Hochachtung <lb/>Der Ihrige</salute>
+                    <signed>Hirt</signed>
+                    <dateline>den 29 May 22.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

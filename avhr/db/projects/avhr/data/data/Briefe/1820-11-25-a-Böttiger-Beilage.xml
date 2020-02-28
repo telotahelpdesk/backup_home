@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ds2_2zt_yw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 25. November 1820 – Beilage.</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 41</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-11-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <note>
+                    <ref target="hirt_dnl_jty_xw" type="attachedTo">Beilage zum Brief vom 25.
+                        November 1820</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute/>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_r5b_psk_vw">
+                                <hi rendition="#aq">
+                                    <hi rendition="#u">Amalthea</hi>
+                                </hi>:</bibl>
+                            <hi rendition="#u">1. Band</hi>. <hi rendition="#u">Druckfehler</hi>.</orig>
+                        <note xml:id="nbvf_1k5_yw">Vgl. "Druckfehler im I. Bande", in: Amalthea, Bd.
+                            2, Leipzig 1822, S. [397]. </note>
+                    </seg>
+                </p>
+                <p>S. 207. <add place="superlinear">in der Note</add> lies: K. Akad. der <lb/>S.
+                    208. Z. 17. <del rendition="#s">lxxx</del> der anstatt den <lb/> Z. 30. –
+                    Bildschnitzkunst anstatt Bildstechkunst. <lb/> Z. 34. – Stempelschneidekunst
+                    <lb/> Z. 36 – Material anstatt Materialische. <lb/>S. 211. lezte Zeile l.
+                    einfärbig, anstatt einförmig. <lb/>S. 220. Z. 27. l. <hi rendition="#aq">Scyllis</hi> anstatt <hi rendition="#aq">Styllis</hi>. <lb/>S. 221. Z. 26.
+                    l. Angefeuchtet statt ungefeuchtet. <lb/>S. 222. Z. 30. l. Fugung anstatt
+                    Fügung, welcher Fehler im folgenden öfters wiederkehrt. <lb/>S. 226. Z. 2. l.
+                    Peperinstein anstatt Paporinstein. <lb/> – Z. 5. <del rendition="#s">von</del>
+                    unten: l. Knöpfe anstatt Köpfe. <lb/>S. 229. Z. 16. l. Monumente anstatt Namen:
+                    und nach ward setze – er – zu. <lb/> – <del rendition="#s"> Z.</del> Z. 18. l.
+                        <hi rendition="#aq">Mattei</hi> anstatt <hi rendition="#aq">Nattei</hi>.
+                    <lb/>S. 233. Z. 9. l. <hi rendition="#aq">Tadda</hi> anstatt <hi rendition="#aq">tadda</hi>. <lb/>S. 246. Z. 6. l. <hi rendition="#aq">Cestius</hi> anstatt
+                        <hi rendition="#aq">Certius</hi>. <lb/>S. 249. Z. 25. Setze nach Kunst– sich
+                    – hinzu. <lb/>S. 250. Z. 1. l. Werkstätte. <lb/>S. 251. Z. 19. Streiche – zu –
+                    vor viel weg. <lb/>S. 252. Z. 3. l. Auf uns gekommen <pb n="5"/>
+                    <lb/>S. 253. in der Note: l. <hi rendition="#aq">Chares</hi> anstatt <hi rendition="#aq">Mares</hi>.<lb/>S. 254. Z. 25. l. Fließ anstatt Fluß.
+                    <lb/>S. 255. Z. 6. streche nach Kern – Noch – weg. <lb/> – Z. 31. l. vereinzeln
+                    anstatt vereinzelne [!] <lb/>S. 264. Z. 8 unten. l. <hi rendition="#aq">Ratumna</hi>. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

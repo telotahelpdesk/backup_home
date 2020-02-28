@@ -1,0 +1,442 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vtd_p3m_vv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 24. August 1801</title>
+                <title>. Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Böttiger-Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 23</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1801-08-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_dnq_vyw_d1b"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 24<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Aug. 1801.</dateline>
+                </opener>
+                <p>Auch dießmal will ich <seg type="comment">
+                        <orig>
+                            <persName key="ed_hkq_fvh_d1b">Herrn Catel</persName>
+                        </orig>
+                        <note xml:id="nrcx_nvh_d1b">Louis Catel gründete 1801 mit seinem Bruder, dem
+                            Maler und Holzbildhauer Franz Ludwig Catel, eine Firma für Stuckarbeiten
+                            in Berlin, die "Fabrik von musivischen Stuck-Arbeiten", die kurz nach
+                            ihrer Gründung im März 1801 von Herzog Karl August von Sachsen-Weimar
+                            besucht wurde. Der Herzog zog Louis Catel bald darauf zu
+                            Ausstattungsarbeiten am Weimarer Stadtschloss hinzu. Catel hielt sich
+                            deshalb von 1801 bis 1803 meist in Weimar auf, wo er eine Gipsmühle
+                            einrichtete und Stuckierungsarbeiten ausführte. - Zu den Erzeugnissen
+                            der Fabrik und den Arbeiten in Weimar siehe detailliert die <ref target="http://www.berliner-klassik.de/forschung/dateien/Louis_Catel_Dez_2001_Johannsen.pdf">Biographie und das Schriften- und Werkverzeichnis Louis Catels von
+                                Rolf H. Johannsen</ref> (abgerufen am 6. Juni 2017). </note>
+                    </seg> nicht in Ihre Gegenden wandeln laßen, ohne <subst>
+                        <del rendition="#s">Ihnen</del>
+                        <add place="superlinear">ihm</add>
+                    </subst> ein Zeichen meiner freundschaftlichen Erinnerung an Sie mitzugeben.
+                    Zwar erwarte ich noch die Antwort auf <seg type="comment">
+                        <orig>mein erstes</orig>
+                        <note xml:id="nm1h_3wh_d1b">Überliefert ist ein Brief Hirts vom 27. Februar
+                            1801, der allerdings durch den Architekten Martin Friedrich Rabe
+                            übermittelt wurde. Hingegen wurde möglicherweise der Brief vom 19.
+                            November 1800 durch Catel befördert.</note>
+                    </seg>, welches dieser Künstler Ihnen einhändigte. Fast hätte ich geglaubt, daß
+                    Sie dieses Schreiben nicht erhalten hätten, wenn mich H. <persName key="ed_hkq_fvh_d1b">Catel</persName> nicht deßen auf's gewißeste
+                    versicherte: denn vor einigen Tagen war der wackere <persName key="ed_ifk_ktj_xv">
+                        <hi rendition="#aq">Levezow</hi>
+                    </persName> bey mir, und forderte mich in Ihrem Namen auf, Ihnen doch bald <hi rendition="#u">über das Bewußte</hi> Auskunft zu geben. Was dieß bedeuten
+                    soll, kann ich nicht wohl errathen: Sollten Sie mir etwa geschrieben haben, und
+                    ich Ihren Brief nicht erhalten haben? Auf jeden Fall laßen Sie mir Ihren Sinn
+                    wißen; denn Alles was Sie angeht, liegt mir immer am Herzen.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_k4n_h43_d1b">Ihr erstes archæologisches
+                            Heft</bibl>
+                        </orig>
+                        <note xml:id="ngbg_dc3_d1b">Böttiger veröffentlichte 1801 zwei
+                            archäologische Titel, die zueinander in Beziehung stehen; beide
+                            erschienen im Bertuchschen Industrie-Comptoir: "Archäologische Hefte,
+                            oder Abbildungen zur Erläuterung des klassischen Alterthums, aus alten
+                            zum Theil noch unbekannten Denkmählern, für Studierende und
+                            Kunstfreunde. Herausgegeben von C. A. Böttiger und H. Meyer. Erster
+                            Theil, mit 4 Kupfertafeln und 8 S. Text. 4.", Weimar 1801; und
+                            "Archäologisches Museum zur Erläuterung der Abbildungen aus dem
+                            klassischen Alterthum. Für Studierende und Kunstfreunde, von C. A.
+                            Böttiger. Erster Theil", 16 u. 102 S., 8., Weimar 1801. - Der Rezensent
+                            im "Jahrbuch der neuesten Literatur", 120. Stück, 11. März 1802, S. 474,
+                            bemerkt zu den beiden Büchern: "Form und Anlage dieses Werks sind sehr
+                            verständig gemacht. Um es auch in die Hände derer zu bringen, welche die
+                            Archäologie nicht als Gelehrte oder Künstler interessirt, sondern die
+                            sie durch Anwendung auf Gebäude und Hausgeräthe, in das
+                            gesellschaftliche Leben zu übertragen, durch ihre Verhältnisse vermögend
+                            sind, wurde diese Form gewählt, wornach das Werk, in Heften von 5 bis 6
+                            Blättern, nach Antiken gestochen, nebst einer kurzen historischen
+                            Erklärung eines jeden Blatts, ausgegeben wird. Dem Hrn. Prof. Meyer zu
+                            Weimar, welcher die hier kopirten Originale meistens selbst gesehen und
+                            geprüft, auch die davon in Kunstbüchern enthaltenen Abzeichnungen,
+                            wornach hier die Kopien gegeben werden, verbessert hat, verdankt man
+                            zugleich die Auswahl der Kunstwerke, die Aufsicht über die Ausführung
+                            des Stichs, und eigene artistische Bemerkungen. Die ausführlichere
+                            Erklärung für den Kenner und Gelehrten ist in dem Museum enthalten.
+                            Dieses soll die neusten Forschungen und Resultate über Mythologie und
+                            Alterthum in Umlauf bringen, theils neue Ansichten eröfnen; der Mythos,
+                            der jedem Kunstwerke zum Grunde liegt, soll bis auf seine frühste
+                            historische Veranlassung aus den ältesten Dichtersagen entwickelt, und
+                            die verschiedenen Anwendungen, die der griechische Kunstsinn nach
+                            Verschiedenheit des Stoffs und der Bestimmung des Kunstwerks davon
+                            machte, gezeigt; auch bey berühmten Kunstwerken die Geschichte ihrer
+                            Auffindung und Deutung beygebracht werden. Die Nebenbestimmung des Werks
+                            für Liebhaber machte Abwechselung und Mannigfaltigkeit nothwendig; um
+                            jedoch nicht ungleichartige Gegenstände neben einander zu stellen, soll
+                            allezeit eine Fabel zum Grunde gelegt werden, welche ein Gegenstand der
+                            bildenden Kunst geworden ist. - Hier wird der Anfang mit der Ariadne
+                            gemacht, welche als Verlassene, als Schlummernde und als Vermählte, nach
+                            einem herkulanischen Gemählde, einer Bildsäule in Marmor und einem
+                            Relief erscheint." </note>
+                    </seg> ist mir durch die Hände gegangen: aber auch bis iezt nur dieß. Mir ward
+                    keine Zeit gelaßen, es mit Muße durchzugehen; folglich kann ich Ihnen noch kein
+                    Urtheil darüber sagen. Die Sache scheint mir gut: nur wunderte ich mich, daß Sie
+                    in mitte <seg type="comment">
+                        <orig>der Fabel</orig>
+                        <note xml:id="nkbd_243_d1b">Der Ariadne-Mythos.</note>
+                    </seg> anheben: da wir doch sehr intereßante <foreign xml:lang="Lat">monumente</foreign> für den frühern Theil der <foreign xml:lang="Lat">Mythe</foreign> haben, u. so viel wichtiges über den Labyrinthe, <foreign xml:lang="Lat">
+                        <persName key="ed_h2n_q43_d1b">Minotaur</persName>
+                    </foreign>,
+                    die künstliche Kuh der <foreign xml:lang="Lat">
+                        <persName key="ed_cg3_543_d1b">Pasiphae</persName>
+                    </foreign>, den Künstler <persName key="ed_ojd_z43_d1b">
+                        <foreign xml:lang="Lat">Dædalus</foreign>
+                    </persName>,
+                    u. seine Flügel etc. zu sagen wäre. Wirklich dieser erstere Theil der Fabel wäre
+                    eines vielgewandten Mannes, wie Sie sind, würdig. Sollen wir dieß im nächsten
+                    Heft erhalten?</p>
+                <p>Hierbey übersende ich <bibl sameAs="prov_osd_djq_3v">eine architektonische
+                        Kleinigkeit</bibl>: <pb n="2"/> über welche unser Freund <persName key="prov_ams_xtr_js">Rode</persName>, u. besonders <seg type="comment">
+                        <orig>der architektonische Archæologe</orig>
+                        <note xml:id="nxlf_y53_d1b">Hier wohl Christian Ludwig Stieglitz aus Leipzig
+                            gemeint, der bereits mit einer "Geschichte der Baukunst der Alten"
+                            (Leipzig 1792), "Die Baukunst der Alten - ein Handbuch für Freunde der
+                            Kunst; nebst einem architektonischen Wörterbuche" (Leipzig 1796) und
+                            einer "Encyklopäadie der bürgerlichen Baukunst (Leipzig 1792-1798)
+                            hervorgetreten war.</note>
+                    </seg> in <placeName key="prov_lxk_b4b_z5">Leipzig</placeName> mächtig viel zu
+                    sagen haben werden. Leider wird diese Exposition nicht die lezte seyn, die
+                    unsern Architektonikern nicht gefallen wird. – Aber sagen Sie mir, wie ist es
+                    möglich, daß der spekulative <persName key="prov_asz_hz5_fv">Bertuch</persName>
+                    <bibl sameAs="ed_ymy_fq3_d1b">die Saalbaderey</bibl> des guten <persName key="prov_ywn_zvq_qv">Stiegliz</persName> verlegen konnte? Wie schrecklich
+                    ist alles Geschichtliche durcheinander geworfen! – und von dem, was eigentlich
+                    Kunst ist, hat der Mensch auch nicht <hi rendition="#u">einen</hi> gesunden
+                    Begriff: daher kann ich es mir sehr wohl gefallen laßen, daß ihm <bibl sameAs="prov_lpb_jfv_pv">meine Ideen über die toskanische Bauart<foreign xml:lang="Lat"> Vitruv</foreign>'s</bibl>
+                    <seg type="comment">
+                        <orig>so sehr nahe gehen</orig>
+                        <note xml:id="nwjg_qs3_d1b">Stieglitz zitiert in seiner "Archäologie der
+                            Baukunst der Griechen und Römer", Bd. 1, S. 204, Hirts Aufsatz "Ueber
+                            die Toscanische Bauart nach Vitruv" und kritisiert dessen Auslegung der
+                            Deckenbalken bei Vitruv: "Hr. Hirt bezieht die Worte, 'parte quarta
+                            altitudinis columnae' zu 'trajecturae mutilorum' und nicht zu
+                            'projiciantur', und übersetzt diese Stelle Vitruv's so: 'Ueber die
+                            Hauptbalken und Zellenmauern lege man die Deckenbalken ein Viertel der
+                            Säulengänge von einander und lasse die Köpfe derselben, um die Traufe zu
+                            stützen, vortreten.' Allein in dem Texte ist weder das Auseinanderlegen
+                            der Deckenbalken noch auch die Unterstützung der Traufe erwähnt. Und
+                            wenn man auch die Worte Vitruvs so mit einander verbindet, wie es H.
+                            Hirt vorschlägt, so findet sich demungeachtet von der Entfernung der
+                            Deckenbalken nichts darin, vielmehr giebt das Wort 'trajectura' deutlich
+                            zu erkennen, dass nur allein von einem Vorsprunge die Rede ist, welcher
+                            durch 'projiciantur' noch näher bestimmt wird."</note>
+                    </seg>: und er alles so leicht findet, worüber andere so lange Zeit geschwizt
+                    haben.</p>
+                <p>Bey dieser Gelegenheit noch eines: Sagen Sie doch gelegentlich an <persName key="prov_cgv_j23_35">Schüz</persName>: er soll sich doch einen beßern
+                    Recensenten der architektonischen Sachen verschaffen. <seg type="comment">
+                        <orig>In der lezten Recension</orig>
+                        <note xml:id="npft_5z3_d1b">In der Allgemeinen Literatur-Zeitung, Nr. 190
+                            vom 1. Juli 1801 <ref target="http://zs.thulb.uni-jena.de/rsc/viewer/jportal_derivate_00084082/ALZ_1801_Bd.3+4_008_A2.tif?q=Sammlung%20n%C3%BCtzlicher%20Aufs%C3%A4tze%20und%20Nachrichten%20die%20Baukunst%20betreffend"/>
+                        </note>
+                    </seg> des <bibl sameAs="prov_b1w_ddv_pv">Baujournals</bibl>, worin auch ein
+                    Wort von <persName key="prov_ams_xtr_js">Rode</persName>, u. mir vorkomt, werden
+                    wir in einem absprechenden Tone zu recht gewiesen, „Doch ehe wir schrieben, die
+                    architektonische Sprache zu lernen“. Und was ist es? Der Recensent (vermuthlich
+                        <persName key="ed_pld_lch_yz">
+                        <foreign xml:lang="Lat">Huth</foreign>
+                    </persName>) gab sich nicht einmal die Mühe, den <foreign xml:lang="Lat">
+                        <persName key="prov_qpz_vyr_js">Vitruv</persName>
+                    </foreign>
+                    aufzuschlagen, um zu sehen, von was die Rede ist. übrigens ist es zu ekelhaft,
+                    dergleichen öffentlich zu rügen. Eben so, wie es mir nie einfallen wird, ein
+                    Wort gegen <persName key="prov_ywn_zvq_qv">Stiegliz</persName> zu verlieren.</p>
+                <p>Wie hat Ihnen <bibl sameAs="ed_gtr_mpm_vv">der erste Versuch von Levezow</bibl>
+                    gefallen? – obwohl ich ihm ein [!] <seg type="comment">
+                        <orig>scharfe Kritik hierüber</orig>
+                        <note xml:id="nkwn_t1j_d1b">Nicht bekannt.</note>
+                    </seg>
+                    <pb n="3"/> schrieb, so habe ich <add place="superlinear">doch</add> viel
+                    Vergnügen an demselben gehabt, und ihn aufgemuntert, sich ferner zu versuchen.
+                    Die absurde <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_dt5_c2v_h1b">Erzählung</bibl> von <persName key="ed_czs_4dv_h1b">Conon</persName>
+                        </orig>
+                        <note xml:id="nsvc_fgj_d1b">Das aus fünfzig mythologischen Erzählungen
+                            bestehende Werk des Konon "Diegeseis" ist vor allem in einem Auszug des
+                            Photios aus byzantinischer Zeit erhalten. Hier: Conon. narrat. 34. ap.
+                            Phot. p. 442; vgl. Levezow, a.a.O., S. 57-58.</note>
+                    </seg>, u. der Glaube, daß <persName key="ed_yyw_hgj_d1b">Diomed</persName>
+                    <seg type="comment">
+                        <orig>sich im Innern des Tempels vom Altar, anstatt außerhalb vom Stylobat
+                            des Tempels, herablaße</orig>
+                        <note xml:id="nsbk_lgj_d1b">Vgl. Levezow, a.a.O., S. 24-26, 64.</note>
+                    </seg>, haben seinen ganzen Gesichtspunkt verrückt. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Ich sehe aus der <bibl sameAs="prov_csp_vs1_z5">A<ex>llgemeinen</ex>
+                                    L<ex>iteratur</ex> Z<ex>eitung</ex>
+                            </bibl>
+                        </orig>
+                        <note xml:id="nw11_qhj_d1b">[Karl August Böttiger]: Mosaik von Alexander
+                            Delaborde im Jahre 1799 unweit Sevilla in Spanien gefunden. (Zur
+                            Erklärung der beyliegenden Kupfertafel. In: Allgemeine
+                            Literatur-Zeitung, 1801, Bd. 3, S. III-VIII. Dort heisst es: "Seit
+                            mehrern Monaten beschäftigt sich nun Laborde, der nach Paris
+                            zurückgekehrt ist, mit einem Werke, welches ganz allein dieser von ihm
+                            nun besessenen Antike gewidmet seyn soll. Es wird 70 Seiten Text in
+                            gross Folio, nebst 18 colorirten Kupfern und 9 eingerückten Vignetten
+                            haben. Die Beschreibung zerfällt in 5 Theile; der erste wird der alten
+                            Coloniestadt Italica gewidmet seyn; im zweyten wird die Mosaik selbst
+                            erläutert [...]; der dritte enthält allgemeine Betrachtungen über die
+                            Mosaikmalerey, über ihren Ursprung, ihre Fortschritte und
+                            Wiederherstellung. [...] Die Kupfertafeln werden mit grösster Sorgfalt
+                            von Langlois [...] farbig [...] abgedruckt werden. [...] Alles wird
+                            unter La Bordes Augen in seinem Hause, welches ein wahrer Tempel der
+                            Kunst genannt werden kann, gearbeitet [...]. Zu Ende des Monats Julius
+                            wird das Ganze vollendet und auch zur Versendung ins Ausland
+                            eingerichtet seyn. [...] Das hier angekündigte Werk über die spanische
+                            Mosaik ist nur als ein Vorläufer einer weit grössern und prächtigern
+                            anzusehn, worin der Verfasser alle Alterthümer und die schönsten
+                            Naturscenen Spaniens, eines Reiches, das noch immer in ganzen
+                            Landstrichen und Provinzen eine wahre terra incognita für uns ist, und
+                            in seinem Schoosse nicht bloss Metalle, sondern auch Kunstschätze in
+                            Menge verschliesst, aus eigenen Ansichten und Untersuchungen
+                            mitzutheilen gedenkt. Vorher wird er aber zum Behuf jenes Werks noch
+                            eine zweyte Reise machen, und zu seiner Zeit das ganze Unternehmen durch
+                            einen Prospectus ankündigen" (S. VI, VIII). </note>
+                    </seg> daß wir bald ein<del rendition="#s">en</del> großes <bibl sameAs="ed_ngh_xks_vv">Werk über die Mosaik der Alten</bibl> von <persName key="ed_w32_3ks_vv">Laborde</persName> aus <placeName key="prov_tnd_dt1_5v">Paris</placeName> erhalten werden. – Ich bin darauf um so neugieriger, da
+                    ich diese Materie selbst in meinem lezten in der <orgName key="ed_znn_dfc_b1b">Akademie</orgName> vorgelesenen <bibl sameAs="ed_rjh_dnk_jw">Memoire</bibl>
+                    behandelte: und glaube dieselbe sowohl in Rücksicht ihres technischen, als
+                    geschichtlichen Theiles so ziemlich erschöpft zu haben. <bibl sameAs="ed_nrw_zkj_d1b">Die seichte Behandlung dieses Gegenstandes</bibl>
+                    von <persName key="prov_n22_cq3_sv">Gurlitt</persName> war vorzüglich Ursache
+                    meiner Bearbeitung.</p>
+                <p>Ich bin neugierig auf das nächste Stück der <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl>: so wie über Ihr Privaturtheil der zu eröffneten
+                    Ausstellung der <seg type="comment">
+                        <orig>Preiszeichnungen</orig>
+                        <note xml:id="ntwy_rf4_d1b">Seit 1799 wurde in den "Propyläen" ein
+                            Kunstpreis ausgeschrieben; vgl. 1801-1-29-v-Goethe mit Sachanmerkung.
+                            Für 1801 waren den Künstlern zwei Gegenstände zur Bearbeitung
+                            vorgegeben: 1. Achilles auf Syros, in Frauentracht unter den Töchtern
+                            Lycomeds verborgen, wird von Ulysses und Diomedes entdeckt; 2. Achill,
+                            welcher die flüchtigen Trojaner bis in den Skamander verfolgt hatte,
+                            wird durch die erzürnten Flüsse bekämpft. Das Preisgeld betrug 30
+                            Dukaten; es wurde zu gleichen Teilen an die Gewinner Hoffmann aus Köln
+                            und Nahl aus Kassel für die Gestaltung des 1. Themas vergeben. Nur die
+                            preisgekrönten Künstler wurden namentlich angezeigt, die anderen
+                            Konkurrenzstücke wurden lediglich mit einem Buchstaben
+                            bezeichnet.</note>
+                    </seg>. Es sind <seg type="comment">
+                        <orig>ein paar Stücke von <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                        </orig>
+                        <note xml:id="noqc_2g4_d1b">Zum 1. Thema "Achilles auf Scyros" wurde eine
+                            "Colorirte Zeichnung aus Berlin" (bezeichnet mit dem Buchstaben E)
+                            eingereicht; zum 2. Thema "Streit der Flußgötter mit dem Achilles" ein
+                            "Oehlgemählde aus Berlin" (bezeichnet mit Lit. D.). Von den insgesamt
+                            acht eingereichten Konkurrenzstücken zum 2. Thema, wovon keines einen
+                            Preis erhielt, sind einige nicht mit Ortsangaben versehen, so dass hier
+                            noch weitere Berliner Arbeiten vertreten sein könnten.</note>
+                    </seg> dahin abgegangen, welche, wie ich hoffe, Sie nicht unbemerkt laßen
+                    werden. <persName key="prov_htp_dkz_jv">W<ex>ilhelm</ex> Schlegel</persName> war
+                    der Überbringer derselben. Was sagen Sie dazu, daß dieser und Ich gute Freunde
+                    geworden sind? – Er suchte nemlich mich auf; ich erwiederte ihm die Höflichkeit,
+                    und amüsirte mich manchmahl an der Suffisance, und <add place="superlinear">dem</add> Wohlbehagen dieser Superlunarischen Köpfe. Indeßen that er über
+                    die Kunst sehr modest, nemlich in unserem <seg type="comment">
+                        <orig>Künstlerzirkel</orig>
+                        <note xml:id="nuf4_1h4_d1b">Die Genannten sind auch auf einem Gemälde von
+                            Johann Erdmann Hummel, betitelt "Die Schachpartie" (Öl auf Leinwand, um
+                            1819, Staatliche Museen zu Berlin PK, Nationalgalerie) zu sehen, hier
+                            zusammen mit den Grafen Ingenheim und Brandenburg.</note>
+                    </seg> – <persName key="prov_xsn_1cg_f5">Büry</persName>, <persName key="prov_n1f_vl5_tv">Hummel</persName>, <persName key="prov_qps_ktj_sv">Genelli</persName>, u. mir. <rs type="artwork" key="prov_a1x_r44_d1b">Ersterer hat ihn gezeichnet</rs>, <rs type="artwork" key="prov_akx_h44_d1b">so wie</rs> den <seg type="comment">
+                        <orig>Bocksmelker</orig>
+                        <note xml:id="nwkj_kq4_d1b">"Den Bock melken" - sprichwörtlich für etwas
+                            Vergebliches tun.</note>
+                    </seg>
+                    <persName key="prov_brv_k5v_rv">Fichte</persName>. – Suchen Sie <seg type="comment">
+                        <orig>einen kleinen antiken Bronze</orig>
+                        <note xml:id="nhtt_k3j_5z">Vgl. 1801-08-07-a-Goethe.</note>
+                    </seg> zu sehen, den ich als geschenk an <persName key="prov_hwd_hmp_5r">Goethe</persName> überschickte. Sie werden Ihre Freude daran haben. <pb n="4"/>
+                </p>
+                <p>Die kleine <persName key="prov_w3h_3rj_gv">Jagemann</persName> ist <seg type="comment">
+                        <orig>erst einmal aufgetretten</orig>
+                        <note xml:id="nq4c_pg4_d1b">Karoline Jagemann traf am 14. August 1801 in
+                            Berlin ein und "spielte 20 mal mit immer gleichen Succes" (Karoline
+                            Jagemann: Autobiographie, 6. Heft, in: Selbstinszenierungen im
+                            klassischen Weimar: Caroline Jagemann.. Bd. 1: Autobiographie, Kritiken,
+                            Huldigungen. Hrsg. und untersucht von Ruth B. Emde. Göttingen 2004, S.
+                            253). Möglicherweise ist die Aufführung der "Maria Stuart" am 21. August
+                            gemeint, in der die Jagemann die Rolle der Elisabeth spielte, über die
+                            in der "Eunomia", Jg. 180, Bd. 1, S. 370 f., berichtet wird: "Maria
+                            Stuart. / Demoiselle Jagemann - die Elisabeth: so hieß es, und das Haus
+                            war frühzeitig mit Zuschauern, Bewunderern, Tadlern, Kritikern und
+                            Zionswächtern voll" (ebd., S. 355). In der "Zeitung für die elegante
+                            Welt", Sonnabend, 14. November 1801, Nr. 137, Sp. 1105, heisst es zu
+                            ihrem Gastspiel: "In allem hat in zwei Monaten Demoiselle Jagemann 19
+                            Gastrollen gespielt, als: Myrha im 'Opferfest'; zweimal Mariane in
+                            'Suliman'; zweimal die 'schöne Müllerin'; dreimal 'Oberon'; zweimal
+                            Friederike Heinfeld im 'Hausfrieden'; zweimal 'Amenaide'; 'Madame
+                            Sievart im 'Leichten Sinn'; Bertha in 'Lilla'; zweimal Sextus im
+                            'Titus'; zweimal Elisabeth, und endlich Eurille im 'Kästchen mit der
+                            Chiffer'." (ebd., S. 358). - Karoline Jagemann kehrte nach einer
+                            gefühlsaufreibenden Gastspielzeit in Berlin im Oktober 1801 nach Weimar
+                            zurück. Von dort war sie am 12. August 1801 regelrecht geflohen.
+                            Einerseits litt sie unter den Arbeitsbedingungen am Weimarer Hoftheater,
+                            andererseits sah sie ihr Ansehen in Gefahr, denn der Herzog Karl August
+                            hatte sich in sie verliebt und sie erwiderte diese Gefühle. In Berlin
+                            setzte sich Iffland in einem Schreiben vom 23. August 1801 an den
+                            ökonomischen Leiter des Weimarer Theaters, Franz Kirms, für eine
+                            künftige finanzielle Absicherung Karoline Jagemanns in Weimar ein (vgl.
+                            dazu: Selbstinszenierungen im klassischen Weimar: Caroline Jagemann. Bd.
+                            2: Briefwechsel, Dokumente, Reflexionen. Hrsg. und untersucht von Ruth
+                            B. Emde, kommentiert in Zusammenarbeit mit Achim von Heygendorff.
+                            Göttingen 2004, besond. S. 709 ff.) </note>
+                    </seg>. Sie spielte und sang mit verdienten Beyfall: und ich applaudirte kräftig
+                    mit. Man spricht verschiedentlich von ihr: unter andern, daß <persName key="prov_h53_ylj_3v">Iffland</persName> ihr seinen <persName key="ed_j4m_yr4_d1b">Bettmann</persName>
+                    <seg type="comment">
+                        <orig>als Gemahl abtretten</orig>
+                        <note xml:id="ny3l_ms4_d1b">Bethmann heiratet 1805 die Schauspielerin
+                            Friederike Unzelmann.</note>
+                    </seg> wolle. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Man erwartet <persName key="prov_mq3_mvr_js">Schillern</persName>, der
+                            iezt in <placeName key="prov_zj4_hc3_g5">Dresden</placeName> seyn soll,
+                            hier</orig>
+                        <note xml:id="nsqq_4v4_d1b">Schiller kam 1801 nicht nach Berlin. Am 9. Juli
+                            1801 schreibt er an Gottfried Körner: "Wir gehen nach Dobberan bei
+                            Rostock, um das Seebad zu gebrauchen; dann wollten wir über Berlin und
+                            Dresden zurückkehren. Aber nach näherer Ueberlegung hat sich gezeigt,
+                            daß sich diese verschiedenen Entwürfe nicht zusammen verbinden lassen.
+                            Wir hätten nur Eine Woche bei euch und eine in Berlin zubringen können,
+                            weil ich nicht mehr als 6 Wochen höchstens an diese Reise wenden darf,
+                            und wir auch die zwei jüngsten Kinder nicht solang können in fremden
+                            Händen lassen. Wir müssen also die Entwürfe trennen, und für jezt bloß
+                            die Gesundheitsreise zum Zweck machen. Es ist beschlossen, weil
+                            Humboldts das nächste Jahr in Berlin sind, denn sie kommen in 3 Wochen
+                            zurück, nächstes Jahr dorthin zu gehen, dort etwas länger zu bleiben,
+                            und damit läßt sich dann eine Reise zu Euch und ein etwas längerer
+                            Aufenthalt besser vereinigen." Die Reise ins Seebad wurde am 20. Juli
+                            jedoch aufgegeben, dafür dann wieder die Reise nach Dresden "und von da
+                            aus wahrscheinlich nach Berlin" ins Auge gefasst (vgl. Schiller an Leo
+                            von Seckendorff, Weimar, 1. August 1801). Schiller hielt sich mit seiner
+                            Familie im August und September 1801 mehrere Wochen in Körners
+                            Gartenhaus in Loschwitz bei Dresden auf. Nach Berlin kam er erst
+                            1804.</note>
+                    </seg>. Man glaubt daher, daß die <persName key="ed_e4k_bt4_d1b">Unzelmann</persName> früher von <placeName key="ed_b3t_kzt_mx">Breslau</placeName> zurückkommen werde, <seg type="comment">
+                        <orig>um vor ihm <bibl sameAs="ed_u3m_yt4_d1b">die Maria</bibl> zu
+                            spielen</orig>
+                        <note xml:id="nuvp_n54_d1b">Friederike Unzelmann trat am 23. Oktober 1801
+                            als Maria Stuart auf dem Berliner Nationaltheater auf (zur Rezension in
+                            der "Eunomia" siehe die <ref target="http://berlinerklassik.bbaw.de/BK/theater">Theaterdatenbank
+                                von Klaus Gerlach</ref>), nachdem sie diese Rolle bereits am 5.
+                            April 1801 übernommen hatte. - Im September 1801 war sie bereits in
+                            Weimar als Maria aufgetreten. Schiller schreibt nach seiner Rückkehr aus
+                            Dresden am 23. September 1801 an Gottfried Körner: "Hier haben uns bei
+                            unserer Zurückkunft mancherlei Zerstreuungen empfangen. Die Unzelmann
+                            war eben angekommen, und gleich den Tag nach meiner Ankunft wurde Maria
+                            Stuart gegeben. Die Unzelmann spielt diese Rolle mit Zartheit und großem
+                            Verstand; ihre Deklamation ist schön und sinnvoll, aber man möchte ihr
+                            noch etwas mehr Schwung und einen mehr tragischen Stil wünschen. Das
+                            Vorurtheil des beliebten natürlichen beherrscht sie noch zu sehr, ihr
+                            Vortrag nähert sich dem Conversationston, und alles wurde mir zu
+                            wirklich in ihrem Mund; das ist Ifflands Schule und es mag in Berlin
+                            allgemeiner Ton seyn. Da, wo die Natur grazios und edel ist, wie bei
+                            Mad. Unzelmann, mag man sichs gerne gefallen laßen, aber bei gemeinen
+                            Naturen muß es unausstehlich seyn".</note>
+                    </seg>. Ich glaube aber noch weder an das eine, noch das andere.</p>
+                <p>Was machen <persName key="prov_hy4_jx2_rs">
+                        <persName key="prov_jvr_yy5_fv">Herder's</persName>
+                    </persName>? <seg type="comment">
+                        <orig>Er ist also wirklicher Præsident?</orig>
+                        <note xml:id="nvmm_4hp_d1b">Herder wird per Dekret des Großherzogs Karl
+                            August von Sachsen-Weimar und Eisenach vom 5. Juni 1801 zum Präsidenten
+                            des Oberkonsistoriums ernannt. Am 8. Oktober 1801 erhebt ihn der
+                            bayerische Kurfürst Maximilian IV. Joseph in den Adelsstand.</note>
+                    </seg> – Empfehlen Sie <add place="superlinear">mich</add> demselben bestens.
+                    Von <persName key="prov_lyk_c3g_f5">Wieland</persName> ist lange alles so still:
+                    wird denn <seg type="comment">
+                        <orig>die Folge des <bibl sameAs="ed_jz5_wdp_d1b">Aristipp's</bibl>
+                        </orig>
+                        <note xml:id="nvj2_jfp_d1b">Der "Aristipp" besteht aus 4 Büchern oder
+                            Teilen. Im Sommer 1801 arbeitet Wieland am 4. Band; Ende 1801 ist der
+                            Roman in vier Büchern abgeschlossen. Im Jahr 1800 erscheinen Band 33 und
+                            34 in der Oktav- und der Kleinoktav-Ausgabe. Im Jahr 1801 folgen Band 35
+                            und 36 in diesen Formaten sowie die Bände 33-36 in Großoktav. In der
+                            Fürstenausgabe in Quart erscheinen die Bände 33-35 1801, der Band 36
+                            1802.</note>
+                    </seg> nicht bald erscheinen? –</p>
+                <p>
+                    <persName key="prov_ofd_5yj_gv">Sander</persName> druckt iezt <bibl sameAs="ed_ths_c3p_d1b">das Merkwürdigste Lebensjahr</bibl> v<ex>on</ex>
+                    <persName key="ed_cfs_ppq_zz">Kotzebue</persName>: und glaubt, daß es sowohl für
+                    ihn, als für den Autor ein guter Artikel werden könnte.</p>
+                <p>Ich arbeite ununterbrochen an meinen architektonischen Sachen: aber noch sehe ich
+                    kein Ziel meiner Arbeit.</p>
+                <closer>
+                    <salute>Grüßen Sie <seg type="comment">
+                            <orig>
+                                <persName key="prov_at2_4rw_gv">unsern dortigen
+                                    Architekten</persName>
+                            </orig>
+                            <note xml:id="nbgl_s3p_d1b">Hier wohl J. H. Gentz gemeint.</note>
+                        </seg>, u. bleiben Sie meiner eingedenkt – <lb/>Derselbe</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

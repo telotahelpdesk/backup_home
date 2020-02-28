@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_s1j_dh1_rx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Georg Zoega. Rom, vor 3. Mai 1800]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1800-05-03-a-Böttiger: "Ich habe Ihnen, l<ex>ieber</ex>
+                        F<ex>reund</ex>, zu andern Zeiten so viel von Zoega gesprochen, daß Sie sich
+                    seiner noch leicht erinnern werden. Mit Freude erhielt ich dieser Tage einen
+                    Brief von ihm, worin er mir manches von seiner iezigen Lage, und Beschäftigung
+                    schreibt, und besonders von dem Wunsche, verschiedenes von seinen Arbeiten zu
+                    publiziren, wenn er hinreichende Aufmunterung hiezu erhielte."</p>
+                <p>Bezeugt in: 1800-06-08-a-Zoega: "Con sommo ed unico piacere ho ricevuto la
+                    vostra, Caro amico! ma disgraziatamente in un tempo, dove tutti i nostri Libraj
+                    erano partiti per la fiera die Lipsia. Ecco la ragione, che ritarda questa mia
+                    risposta."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ijp_xvr_xr">Zoega, Georg (1755-1809) (Archäologe)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1800-04-01" notAfter="1800-05-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_ldd_4wt_rv"/>
+                </correspContext>
+                <note>Zur Datierung: Am 3. Mai 1800 erwähnt Hirt den Brief, den er "dieser Tage"
+                    erhalten habe, gegenüber Böttiger. Hirt antwortet Zoega am 8. Juni 1800. Darin
+                    datiert er den Empfang des Briefes auf die Zeit der Leipziger Ostermesse. Diese
+                    begann am 4. Mai 1800, doch reisten die Buchhändler bereits einige Tage früher
+                    nach Leipzig.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kt4_cwm_zjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Direktor der Akademie der Künste Johann Gottfried
+                    Schadow. Berlin, 2. April 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>Akademie der Künste zu Berlin</institution>
+                        <collection>Historisches Archiv</collection>
+                        <idno><idno type="shelfmark">PrAdK 2, Bl. 82 (Abschrift)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-04-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_wsc_2hd_4v">Schadow, Johann Gottfried (1764-1850)
+                        (bedeutendster Bildhauer des dt. Klassizismus, Begründer der Berliner
+                        Bildhauerschule, 1816 Direktor der Akademie der Künste zu Berlin)</persName>
+                    <orgName key="ed_rgl_rbr_thb">Akademie der Künste, Preußische:
+                        Direktorium</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_bgm_tzm_zjb"/>
+                </correspContext>
+                <note>"Abschrift eines Schreibens des Hofraths Hirt an den Director Schadow."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute>Hochverehrter Herr Director!</salute>
+                </opener>
+				<p>Ich lese eben in einer offiziellen Anzeige der <bibl sameAs="ed_zbp_yxm_zjb"><hi rendition="#aq">Spener</hi>schen Zeitung</bibl>, die mit Ihrer
+                    Unterschrift bezeichnet ist, daß ich bei einer neuen <hi rendition="#aq">Organisation</hi> des Bauunterrichtes bei der <orgName key="ed_u5s_1fc_b1b">Kunst-Akademie</orgName> ich die Ehre habe als <hi rendition="#u"><hi rendition="#aq">Professor</hi> der Geschichte der Baukunst</hi> genannt
+                    zu werden.</p>
+                <p>Ich gestehe, daß mir bis iezt von einem solchen neuen Unterricht in der Baukunst,
+                    und von meiner <hi rendition="#aq">Designation</hi> als <hi rendition="#aq">Professor</hi> dabey nichts bekannt worden ist. Ich ersuche Sie daher
+                    ergebenst, mir kund zu thun, worauf sich Ihre Angabe gründet?</p>
+				<closer>
+                    <salute>Ihr ergebenster</salute>
+                    <signed>Hirt.</signed>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">April</hi> 1824.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

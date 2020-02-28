@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_shr_w4j_tgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorlesungsankündigung für die Akademie der Künste. Berlin, 5. Dezember
+                    1801</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellonska, Krakow</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1801-12-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>Es wird hiemit den Zöglingen der <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName>
+                    bekannt gemacht, daß die öffentlichen <bibl sameAs="ed_qss_spj_tgb">Vorlesungen</bibl> über die Geschmackslehre der bildenden Künste bereits
+                    ihren Anfang genommen, und jeden Donnerstag von 3. bis 4. Uhr, und jeden Freytag
+                    von 4. bis 5. Uhr fortgesezt werden.</p>
+                <p>Diejenigen, welche daran Antheil nehmen wollen, haben sich hierwegen bey dem
+                    unterschriebenen zu melden.</p>
+				<closer>
+                    <dateline>Berlin den 5<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Dec.
+                        1801</dateline>
+                    <signed>Der Hofrath Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

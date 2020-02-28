@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sxv_jnr_rkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an die Königliche Hauptkasse für die
+                    wissenschaftlichen Anstalten. Berlin, 1. Dezember 1826</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">IV / NL Schinkel 132 (von
+                            Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <orgName key="ed_imk_ss2_gjb">Museumskommission - Königliche Kommission zur
+                        Einrichtung des Kunstmuseums in Berlin (= 1. Kommission unter Vorsitz von
+                        Altenstein; Mitglieder: Schinkel, Hirt, Hummel, Wach, ab Juni 1823 Waagen
+                        als Gehilfe); (die "neue Commission" ab Mai 1829 unter Vorsitz von W. v.
+                        Humboldt)</orgName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1826-12-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_pfj_35s_pjb">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten - Hauptkasse</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Von Schreiberhand mit egh. Unterschriften. - Empfängerbemerkungen: "K. M. /
+                    266 rt 23½ sgr"; diverse Aktenvermerke, u.a. "178."; "Ch. 3783."; "A.
+                    2006"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qnr_4nm_pgb">Kunstmuseum – Restaurierungen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Eine Koenigliche Hochloebl. Haupt Casse / für die
+                            wissenschaftlichen Anstalten.</addrLine>
+                    </address>
+                </opener>
+				<p>Eine Koenigliche Hochloebliche Haupt Casse für die wissenschaftlichen Anstalten ersuchen wir
+                    hierdurch dienstergebenst, dem Herrn Doctor <hi rendition="#aq"><persName key="ed_jbn_mrv_2jb">Waagen</persName></hi> zum Ersatz der aus dem von
+                    demselben verwalteten Vorschuße entnommenen Ausgaben für die beim <placeName key="ediarum_nqx_rnh_lkb">Attelier</placeName> des Koenig<ex>lichen</ex>
+                    Kunst-Museum im Laufe des Monats <hi rendition="#aq">November</hi> 1826
+                    vorgekommenen Bedürfniße, den Betrag der anliegenden von uns hierdurch als
+                    richtig anerkannten Liquidation nebst 6. <unclear reason="illegible" cert="">Th</unclear>.<ex>[eilen?]</ex> Belägen mit <lb/>Zweyhundert Sechs und
+                    Sechszig Thaler 23 ½ sgr Cour<hi rendition="#sup"><ex>an</ex>t</hi>
+                    <lb/>vorkommend für unsere Rechnung gefälligst zahlen zu wollen.</p>
+				<closer>
+                    <dateline>Berlin den 1<hi rendition="#sup">ten</hi> Dezember 1826.</dateline>
+                    <signed>Koenigl: Allerhoechst geordnete Commission für das Kunst Museum
+                            <lb/><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_pbj_sfl_sy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe (Weimarische Kunstfreunde? wohl Johann Heinrich
+                    Meyer). Berlin, 1. Januar 1832.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/154, Bl. 16</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1832-01-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749-1832)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <note>Zum Empfänger: Wohl nicht an Goethe direkt gerichtet, da die üblichen
+                    Höflichkeitsformeln sowie Anrede und Unterschrift fehlen. Zu denken ist an die
+                    Weimarischen Kunstfreunde und speziell an Johann Heinrich Meyer. Mit Meyer hatte
+                    sich Goethe über Hirts Buch ausgetauscht und beide kritisierten Hirts
+                    Bemerkungen über Tizian sowie über die Niobiden. In der Rezension sind genau
+                    diese Kritikpunkte wiederzufinden. Die erwähnte Rezension in den "[Wiener]
+                    Jahrbüchern der Literatur" ist nicht namentlich, sondern nur mit "Weimar"
+                    unterzeichnet. - Für Goethe als Empfänger spricht allerdings dessen
+                    Tagebucheintrag vom 9. Januar 1832 (siehe unten).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute/>
+                </opener>
+                <p>Der Verfaßer, der sich die Übersendung <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_bth_xkv_ty">beykommender Blätter</bibl>
+                        </orig>
+                        <note xml:id="nuwm_hzb_5y">
+                            <note xml:id="nz2z_ryb_5y">Wohl "Hofrath Hirt's Gegenbemerkung über die
+                                in diesen Blättern erhobenen Zweifel gegen seine Kunstbemerkungen"
+                                im "Artistischen Notizenblatt" 1830, Nr. 22 (siehe dazu
+                                1830-10-13-a-Böttiger und Sachanmerkungen).</note> - Goethe vermerkt
+                            am 9. Januar 1832 in seinem Tagebuch: "Angenehme Sendung von Hirt. Es
+                            ist doch immer das Erfreulichste, wenn man die ältesten Freunde, mit
+                            denen man im Zwischenleben wohl divergirte, am Schlusse wieder sich
+                            gegen einander neigen sieht. Man kommt niemals so weit mit ihnen aus
+                            einander als mit den Späterzeitigen" (Goethe, WA, III, S. 203-204).
+                        </note>
+                    </seg> erlaubt, empfielt sich zu geneigtem Andenken, und dankt den <hi rendition="#aq">Weimaranern</hi> für die <seg type="comment">
+                        <orig>Nachsichtige Beurtheilung <bibl sameAs="ed_mhm_snl_vw">seines
+                                Büchleins</bibl>
+                        </orig>
+                        <note xml:id="nxb4_nwb_5y">Die Rezension zu "Kunstbemerkungen auf einer
+                            Reise über Wittenberg und Meißen, nach Dresden und Prag, von A. Hirt.
+                            Berlin 1830. Verlag von Dunker und Humblot. 197 S. in 8." erschien in
+                            [Wiener] Jahrbücher der Literatur, 55. Bd., 1831 (Juli, August,
+                            September), Art. XII, S. 197-223; gez.: "Weimar". - Darin heisst es
+                            einleitend: "Diese Bemerkungen über Kunst und Alterthum, welche der
+                            rühmlich bekannte Verfasser hier dem Publikum vorlegt, wurden schon im
+                            J. 1819 bey Gelegenheit einer Reise nach den Bädern von Töplitz und
+                            Carlsbad angestellt, und im Entwurf niedergeschrieben; dann auf einer im
+                            Jahre 1829 wiederholten Reise nach den gedachten Badeörtern, besonders
+                            das auf Dresdner Kunstschätze sich Beziehende, neu mit denselben
+                            verglichen. Man darf sonach etwas Wohlerwogenes, für Liebhaber der Kunst
+                            Nützliches und Belehrendes erwarten, wie auch wirklich der Fall ist. Am
+                            Ende der Vorerinnerung läßt der Verfasser hoffen, daß wenn gegenwärtige
+                            Schrift wohl aufgenommen werde, er aus seinem Vorrath von Aufzeichnungen
+                            noch mehreres über die Kunstwerke in andern deutschen Hauptstädten werde
+                            folgen lassen, wozu wir unsers Orts ihn dringend auffordern. Denn je
+                            größer der Ueberfluß an hohlen, der Vernunft hohnsprechenden, den
+                            Geschmack irre führenden Berichten von Werken der Kunst und
+                            Beurtheilungen derselben bereits ist und täglich mehr anwächst, je
+                            nützlicher sind die besonnenen Aeußerungen eines bewährten Kenners" (S.
+                            197); und abschließend: "Indem wir nochmals den Inhalt der angezeigten
+                            Schrift überblicken, den Reichthum an tüchtigen brauchbaren Bemerkungen,
+                            so von antiken Denkmalen veranlaßt, wie neuere Malerey, Meister und
+                            Werke betreffend, fühlen wir uns verpflichtet, unsere Zufriedenheit mit
+                            dem Ganzen wiederum auszusprechen; gleichwohl schließt solches den
+                            Wunsch nicht aus, daß es dem Herrn Verfasser gefallen haben möchte, an
+                            den Kunstwerken, von denen er in seiner Schrift handelt, auch auf den
+                            Werth der Erfindung zu achten, und über die, welche von dieser Seite
+                            sich vortheilhaft auszeichnen, wenigstens andeutende Worte mit
+                            einfließen zu lassen" (S. 222).</note>
+                    </seg> in den <bibl sameAs="ed_gls_src_5y">Wiener Jahrbüchern</bibl>.</p>
+                <closer>
+                    <dateline>den 1<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> des Jahres
+                        32. -</dateline>
+                    <salute/>
+                    <signed/>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

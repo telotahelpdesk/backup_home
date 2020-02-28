@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_pw3_vng_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Johann Wolfgang von Goethe. Weimar, 24. Mai 1830.</title>
+                <title> Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>Klassik-Stiftung Weimar, GSA</institution>
+                                <collection>Bestand: 29 Goethe ausgegangene Briefe</collection>
+                                <idno>
+                                    <idno type="shelfmark">29/232, III (von Schreiberhand)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Goethe-Jb., Bd. V, 1884, S. 27 [= D1]</bibl>
+                    </witness>
+                    <witness select="#this">
+                        <bibl type="print">Weimarer Ausgabe, IV, Bd. 47, 1909, Nr. 64, S. 71 f. [=
+                            D2]</bibl>
+                    </witness>
+                    <witness>
+                        <msDesc>
+                            <msIdentifier>
+                                <institution>Konzept: Klassik-Stiftung Weimar, GSA</institution>
+                                <collection>Bestand: 29 Goethe Ausgegangene Briefe</collection>
+                                <idno>
+                                    <idno type="shelfmark">29/48 Bl. 92-92b </idno>
+                                </idno>
+                            </msIdentifier>
+                            <physDesc>
+                                <p>(von Schreiberhand: Schuchardt; mit Überschrift "Herrn
+                            Hofrath Hirt nach Berlin.")</p>
+                            </physDesc>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749-1832)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date when="1830-05-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_vlf_gbb_3y"/>
+                </correspContext>
+                <note>H: Verbleib unbekannt (Ausfertigung von Schreiberhand, mit egh. Schlußformel,
+                    egh. Unterschrift, Ort und Datum; vgl. Weimarer Ausgabe IV, Bd. 47,
+                    347/Lesarten); Textgrundlage: D<hi rendition="#sup">2</hi>(Weimarer Ausgabe). -
+                    Überlieferung: Konzept I (GSA 29-232-II). - Konzept II (GSA 29-232-II). -
+                    Konzept III (GSA 29-48, Bl. 92-92b). - H: Verbleib unbekannt. - Abschrift h (GSA
+                    29-232-III). - D<hi rendition="#sup">1</hi> (Goethe-Jb. 1884). - D<hi rendition="#sup">2 </hi>(Weimarer Ausgabe, 1909). </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute/>
+                </opener>
+                <p>Sie haben, verehrter Freund, durch Ihre reichhaltige <bibl sameAs="ed_mhm_snl_vw">Sendung</bibl> mich in ganz eigens angenehme Zustände versetzt. Ich
+                    erinnere mich deutlichst der ersten Augenblicke, da ich, ein frischer Ankömmling
+                    in <placeName key="prov_vkl_ndl_js">Rom</placeName>, Sie dort schon als
+                    Eingeweihten fand, <seg type="comment">
+                        <orig>durch Sie geführt</orig>
+                        <note xml:id="niyd_lfn_my">Vgl. 1830-05-10-a-Goethe:
+                        Sachanmerkung.</note>
+                    </seg>, der unschätzbaren Herrlichkeiten zuerst gewahr
+                    wurde.</p>
+                <p>Sie haben Ihr ganzes Leben solchen Betrachtungen gewidmet, ich war wenigstens in
+                    dem Falle meine Neigung zur bildenden Kunst durch eine wachsende Kenntniß belebt
+                    zu erhalten; und hiernach fügt sich's denn, daß wir in späteren Jahren,
+                    vertraulich wieder zusammentretend, eines abermaligen freyen Umgangs durch
+                    solche Regionen <seg type="comment">
+                        <orig>in heiterer Übereinstimmung</orig>
+                        <note xml:id="ndzb_tfn_my">Johann Heinrich Meyer, dem Goethe Hirts Buch
+                            geschickt hatte, schreibt am 28. Mai aus Belvedere: "Hirts
+                            Kunstbemerkungen welche Sie mir gestern übersendet, habe ich
+                            durchgelesen und bin grösstentheils damit zufrieden. Nur hätte er seine
+                            schlechte Meinung von der Familie der Niobe und die absurde
+                            Verunglimpfung der Venus von Tizian zu Dresden zurückhalten oder
+                            wenigstens nicht abdrucken lassen sollen" (GSA Weimar, Eingegangene
+                            Briefe 1830, 163). Goethe stimmt dieser Meinung in seinem Antwortbrief
+                            vom 29. Mai zu: "Es war mir sehr angenehm was Sie von Hirts Werke
+                            sagten; gerade diese beiden Äußerungen waren mir gleichfalls auffallend,
+                            wenn ich mich an dem Übrigen erfreuen und belehren konnte. Eine solche
+                            Recapitulation ist immer unterhaltend und aufregend" (WA, IV, Bd. 47,
+                            Nr. 69, S. 79). - Die Beschreibungen der Niobiden und der Venus von
+                            Tizian vgl. in den "Kunstbemerkungen" S. 65 und S. 154f. - In einer
+                            Rezension von Hirts "Kunstbemerkungen" in den [Wiener] Jahrbüchern für
+                            Literatur, 1831, Bd. 55, S. 197-223, die wahrscheinlich von Meyer
+                            verfasst ist, heisst es dazu: "[...] die liegende Venus aber soll nicht
+                            allein keine Arbeit von Tizian, sondern noch weniger als mittelmäßig
+                            seyn, und nicht einmal aus der Schule des großen Meisters herrühren.
+                            Gern möchten wir dieses nicht weniger harte also grundlose Urtheil aus
+                            dem Buche entfernt wissen, und gestehen, daß wir von demselben peinlich
+                            berührt worden sind, eben weil es ungegründet ist. Ohne Zweifel erreicht
+                            die Dresdner Venus des Tizian das florentinische Wunderbild der Göttin,
+                            worin Tizian sich selbst übertraf, nicht, auch war die Danae der
+                            königlichen Gallerie zu Neapel ehemals in unbeschädigtem Zustande ohne
+                            Zweifel besser, selbst eine der florentinischen fast gleichende Venus,
+                            welche sonst in der Villa Borghese bey Rom aufbewahrt wurde, möchte der
+                            Dresdner vorzuziehen seyn; diese aber besitzt dem ungeachtet noch große
+                            Verdienste, und es läßt sich nicht ein einziger, vor unpartheyischen
+                            Kunstrichtern haltbarer Grund anführen, aus welchem rechtmäßiges
+                            Mißtrauen gegen die Echtheit dieses Werks hervorgehen könnte?" (S. 204).
+                            - Zu den Niobiden heisst es in der Rezension: "Was S. 154 u. f. über
+                            Niobe und Kinder gesagt wird, gäbe zu weitläufigen Erörterungen Anlaß,
+                            welche sich hier nicht am rechten Platze befinden dürften; denn wenn
+                            unser Verfasser von dem schon bey den Alten in hohen Ehren gehaltenen
+                            Statuenverein der Niobe und ihrer Kinder spricht, und versichert, eine
+                            große Menge Denkmäler beziehe man mit Recht auf jenes große Gesammtwerk;
+                            aber was hiervon auf uns gekommen, lasse sich nur als mehr oder weniger
+                            glückliche Copie ansehen, mit Ausnahme jedoch eines Sohns, vormals in
+                            Kaiser Rudolphs II. Sammlung zu Prag, jetzt in der königl. bayerischen
+                            Glyptothek, und der verstümmelten Statue einer Tochter im Museum
+                            Chiaramonti; so wäre viel, sehr viel dagegen einzuwenden" (S. 217). - Zu
+                            weiteren Rezensionen vgl. 1830-10-13-a-Böttiger und Sachanmerkungen.
+                        </note>
+                    </seg> genießen können.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Die <placeName key="ediarum_osm_fgb_5y">Dresdner Gallerie</placeName>,
+                            welche ich oft besucht</orig>
+                        <note xml:id="nijp_3wc_5y">Vgl. Carl Ruland: Goethe und die Dresdener
+                            Gallerie, in: Goethe-Jahrbuch Bd. 18, 1897, S. 104-107, bes. S.
+                            106.</note>
+                    </seg>, und der ich im Allgemeinen und Einzelnen gern gedenke, vergegenwärtigen
+                    Sie mir auf's neue und, indem ich jene Schätze durch Ihr Kennerauge beleuchtet
+                    sehe, scheinen sie sich mir ganz erneut entgegenzustellen. Auch <seg type="comment">
+                        <orig>habe zugleich das <bibl sameAs="ed_rrq_mzq_xv">Augusteum</bibl> wieder
+                            vorgenommen</orig>
+                        <note xml:id="nkvs_ftc_5y">Wilhelm Gottlieb Beckers Kupferwerk über die
+                            Dresdner Antikensammlung: "Augusteum, Dresdens antike Denkmäler
+                            enthaltend. 3 Bde., Leipzig 1804, 1808, 1811 (Ruppert Nr. 2175).</note>
+                    </seg> und kann dadurch Ihr bestimmtes Urtheil mir desto besser zueignen. Lassen
+                    Sie mir auch künftig wie bisher, Ihre ernste treue Forschungen zu Gute kommen
+                    und bleiben versichert, daß ich mit aufrichtigster Hochachtung und
+                    Anhänglichkeit mich immer angeeignet fühlen werde.</p>
+                <closer>
+                    <salute>treulichst</salute>
+                    <signed>J. W. v. Goethe.</signed>
+                    <dateline>Weimar den 24. May 1830.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

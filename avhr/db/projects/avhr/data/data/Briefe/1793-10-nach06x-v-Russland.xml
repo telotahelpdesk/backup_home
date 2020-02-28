@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lhg_vgr_lz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Briefe aus Russland bezüglich Hirts Bewerbung um die Stelle des verstorbenen
+                    Reiffenstein in Rom. Russland, nach 6. Oktober 1793 und vor 21. Juni
+                    1794]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1794-06-21-a-SWE-AnnaAmalia: "Mein Gesuch an Rußland, in die Stelle
+                    des seeligen Reiffenstein zu kommen, ist nicht abgeschlagen, auch so viel ich
+                    weiß, noch an keinen andern gegeben. Die Briefe, welche ich hierwegen erhielt
+                    laßen mich nicht ohne Hofnung". </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_l4h_2hr_lz">Russland, (-)</persName>
+                    <date notBefore="1793-10-06" notAfter="1794-06-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Hirt bemühte sich nach Reiffensteins Tod (6. Oktober 1793), dessen Stelle
+                    eines kaiserlich-russischen Rates in Rom zu erhalten. Seine Gesuche wurden durch
+                    nicht zu ermittelnde kaiserliche Behörden in St. Petersburg oder Moskau,
+                    möglicherweise auch durch Baron von Grimm, beantwortet.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

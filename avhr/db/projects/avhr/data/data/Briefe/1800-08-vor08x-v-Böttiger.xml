@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_khs_xcq_sv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Weimar, vor 8. August 1800]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date notBefore="1800-07-11" notAfter="1800-07-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_w4x_gsb_sv"/>
+                    <ref type="next" target="prov_xvd_zjq_sv"/>
+                </correspContext>
+                <note>
+                    <ex>Empfehlungsschreiben für </ex>
+                    <persName key="prov_fwp_xkq_sv">
+                        <ex>Karl Morgenstern</ex>
+                    </persName> : Bezeugt: Tagebücher von Karl Morgenstern, Freitag, 8. August 1800:
+                    "Freytags, d. 8<hi rendition="#sup">t</hi>
+                    <ex>[August 1800, in Berlin:]</ex> VM vergebens im Schicklerschen Comptoir.
+                    Besuch bey Hofr<ex>at</ex> Hirt, an den mir Böttiger einen Brief p mitgegeben
+                    hatte. <persName key="prov_hjb_ykd_sv">Mionet's</persName> Münzpasten.
+                        H<ex>irt</ex> findet sie gut; doch habe man in <placeName key="prov_vkl_ndl_js">Rom</placeName> auch schon dergleichen gemacht, woran
+                    der Rost der Alterthümer noch treuer nachgeahmt sey, als in einem Probestück,
+                    das ich ihm von Böttiger mitbrachte." (Universitätsbibliothek Tartu, Estland,
+                    Mrg DXCII, Bd. 7, S. 125).</note>
+                <note> Zur Datierung: Morgenstern traf am 11. Juli nachmittags in Weimar ein und
+                    reiste am ?? wieder ab. Am 12. Juli besuchte er Wieland in Oßmannstedt (vgl.
+                    Kurt Schreinert: Karl Morgenstern. Besuch in Weimar im Juli 1800. In: Goethe.
+                    Viertelmonatsschrift der Goethe Gesellschaft. Neue Folge des Jahrbuchs. 4, 1939,
+                    S. 232-255). Der Brief Böttigers wird wohl eher am Ende von Morgensterns
+                    Aufenthalt in Weimar geschrieben sein.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

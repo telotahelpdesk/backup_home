@@ -1,0 +1,340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_u2n_xfp_jkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bericht von Schinkel und Hirt an König Friedrich Wilhelm III. die geplante
+                    Einrichtung des Museums betreffend. Berlin, 31. Oktober 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 89 Geh. Zivilkab. j. P. Nr. 20441,
+                                Bl. 84r-94r (von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Alfred Freiherr von Wolzogen: Aus Schinkel's Nachlaß. Bd.
+                            3, Berlin 1863, S. 254-263</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Christoph Martin Vogtherr: Das Königliche Museum zu
+                            Berlin. Planungen und Konzeption des ersten Berliner Kunstmuseums. In:
+                            Jb. der Berliner Museen. 39. Bd., 1997, Beiheft, S. 269-270, Nr. 1825/1
+                            (Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-10-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_bxf_jt5_fv">Preußen, Friedrich Wilhelm III. von (1770-1840)
+                        (Kronprinz, 16.11.1797-7.6.1840 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Anschreiben und Beilagen von Schreiberhand, jeweils mit egh. Unterschriften
+                    von Schinkel und Hirt. Mit Respektsabständen. - Aktenvermerk auf dem
+                    Anschreiben: "1104. Nov. 1827."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qhn_nnm_pgb">Kunstmuseum – Auswahl der Objekte</term>
+                    <term key="ed_qnr_4nm_pgb">Kunstmuseum – Restaurierungen</term>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                    <term key="ed_mgt_tnm_pgb">Sammlung Giustiniani</term>
+                    <term key="ed_v54_lnm_pgb">königliche Kunstsammlungen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Allerdurchlauchtigster, / Großmächtigster, Allergnädigster / König und
+                        Herr!</salute>
+                </opener>
+				<p>Auf die allerunterthänigst eingereichte Bitte des Hofrath <hi rendition="#aq"><persName key="prov_ztg_3sx_sr">Hirt</persName></hi>, haben Eure Königliche
+                        <persName key="prov_bxf_jt5_fv">Majestät</persName> durch <seg type="comment">
+                        <orig>Cabinetsordre vom 22<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> May 1824</orig>
+                        <note xml:id="nwps_xtd_kkb">Vgl. das Schreiben von Daniel Ludwig Albrecht an
+                            Hirt vom 22. Mai 1824.</note>
+                    </seg>, eine <hi rendition="#aq">Revision</hi> des <rs type="artwork" key="prov_p5w_rw2_gjb">Museumsbaues</rs> zu erlauben geruhet, und genehmigt,
+                    daß die Ansichten hierwegen Seiner Königlichen Hoheit dem <persName key="prov_rrj_mk5_fv">Kronprinzen</persName> vorgelegt werden. <pb n="2"/></p>
+                <p>Auf Veranlaßung Seiner <persName key="prov_rrj_mk5_fv">Königlichen
+                        Hoheit</persName> sind daher die allerunterthänigst unterzeichneten, Geheime
+                    Ober-Bau-Rath <hi rendition="#aq"><persName key="ed_rcd_yvw_ww">Schinkel</persName></hi> und Hofrath <hi rendition="#aq"><persName key="prov_ztg_3sx_sr">Hirt</persName></hi>, zusammengetreten, und nach
+                    dem vorhandenen Locale, wie die gestochenen <rs type="artwork" key="prov_lqs_fjq_tjb">Bauriße</rs> dasselbe angeben, haben wir nach
+                    reiflicher Ueberlegung uns mit einander verständigt: in welcher Art die innere
+                    Einrichtung und die Hauptanordnung der in dem Museo aufzustellenden Gegenstände,
+                    auf's Zweckmäßigste vor sich gehen könnte.</p>
+                <p>Die Resultate hiervon, wie sie in der Beylage A. enthalten sind, haben wir Seiner
+                    Königlichen Hoheit dem <persName key="prov_rrj_mk5_fv">Kronprinzen</persName>
+                    unterthänigst vorgelegt, und <persName key="prov_rrj_mk5_fv">Höchstdieselben</persName> haben hierüber uns nicht nur Ihren gnädigsten
+                    Beyfall bezeigt, sondern zugleich auch befohlen, den schriftlichen Aufsatz, eben
+                    so gefaßt, an Eure Königliche Majestät allerunterthänigst gelangen zu laßen.</p>
+                <p>Der Aufsatz A. ist zugleich mit einem Anhange B. begleitet, welcher in Beziehung
+                        <pb n="3"/> auf das Museum eine Anzahl Bitten enthält, die jezt hier
+                    auszusprechen wir uns um so mehr verpflichtet halten, da wir nur nach genauen
+                    gegebenen Befehlen von Seiten Eurer Königlichen <persName key="prov_bxf_jt5_fv">Majestät</persName>, im Stande sind, alle Vorbereitungen zur künftigen
+                    Einrichtung des Museums zweckmäßig zu bearbeiten und zu betreiben.</p>
+				<closer>
+                    <salute>Wir ersterben in allertiefster Ehrerbietung <lb/>Eurer Königlichen
+                        Majestät <lb/>allerunterthänigste</salute>
+                    <signed><ex>[gez.]</ex> Schinkel. <ex>[gez.]</ex> Hirt.</signed>
+                    <dateline>Berlin, / den 31<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        October. 1825. <pb n="4"/></dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p><hi rendition="#u">Beylage A.</hi></p>
+                <p>Auf die höchste Veranlaßung Eurer <persName key="prov_bxf_jt5_fv">Königlichen
+                        Hoheit</persName> sind die Unterzeichneten zusammengetreten, und nachdem sie
+                    nach dem vorhandenen Locale, welches die <rs type="artwork" key="prov_lqs_fjq_tjb">Bauriße</rs> geben, alles wohl erwogen haben, sind
+                    sie über Folgendes, was sie jezt Eurer Königlichen Hoheit unterthänigst
+                    vorzulegen haben, übereingekommen.</p>
+                <p>Zuerst bedarf es aber eines Vorwortes über die sechs verschiedenen Systeme von
+                    Kunstgegenständen, die in dem <rs type="artwork" key="prov_p5w_rw2_gjb">Museo</rs> Platz finden sollen.</p>
+                <p><hi rendition="#u">I<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>: <rs type="artwork" key="prov_gky_hx2_gjb">die Gemälde</rs>,
+                    abgetheilt in dreizehn verschiedene Classen.</p>
+                <p><hi rendition="#u">II<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>: <rs type="artwork" key="prov_ez1_1qj_y3b">die antiken
+                        Marmor</rs>, bestehend in größern und kleinern Statuen, Büsten oder Köpfen,
+                        <hi rendition="#aq">Reliefs</hi> und <hi rendition="#aq">Vasen</hi>.</p>
+                <p><hi rendition="#u">III<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>, bestehend <lb/>a) in einer sehr reichen <rs type="artwork" key="prov_nlb_y1d_kkb">Sammlung aegyptischer Gegenstände</rs> größerer und
+                    kleinerer Art, <lb/>b) in einer sehr bedeutenden <rs type="artwork" key="prov_ykm_gbd_kkb">Sammlung antiker und moderner Münzen</rs>, <lb/>c) in
+                    einer reichen <rs type="artwork" key="prov_tdb_4fd_kkb">Sammlung antiker<pb n="5"/> und moderner Gemmen</rs>, <lb/>d) in einer Sammlung
+                    griechischen, altgermanischen und sonst alten Gefäßen, zugleich mit anderen
+                    Gegenständen in gebrannten Erden, als figurirten Lampen und dergleichen, <lb/>e)
+                    in kleinern antiken Gegenständen von Erz, als: Geräthschaften, Statuen, Pateren
+                    und dergleichen, und dazu kommt noch eine nicht geringe Anzahl kleiner moderner
+                    Erzarbeiten; <lb/>f) in andern antiken Gegenständen von bemalten Mauerstücken,
+                    Glasarbeiten, Mosaiken u.s.w.</p>
+                <p>Womit zu vereinigen ist: eine Handbibliothek; die <rs type="artwork" key="prov_a4v_wzz_ghb">Schwefelabgüße</rs> der Münzen von <hi rendition="#aq"><persName key="prov_hjb_ykd_sv">Miounet</persName></hi><ex>[sic!]</ex>, die <rs type="artwork" key="prov_fdp_fhd_kkb">Schwefelsammlungen</rs>
+                    <rs type="artwork" key="prov_cxw_g1d_y3b">antiker Gemmen</rs> von <persName key="ed_axy_lgd_kkb"><hi rendition="#aq">Stosch</hi></persName> u <persName key="ed_tm4_y1d_y3b"><hi rendition="#aq">Lippert</hi></persName> und die des
+                    Königlich <rs type="artwork" key="prov_wcf_p3d_kkb">französischen Cabinets</rs>.
+                    <lb/>Noch kommt hinzu eine nicht große Anzahl <rs type="artwork" key="prov_t4v_rfd_kkb">antiker Inschriften</rs>.</p>
+                <p><hi rendition="#u">IV<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>: bestehend in Gegenständen, welche die so genannte <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> in einer Reihe von Zimmern und
+                    Sälen enthält, als: <lb/>a) neuere Kunstfabrikate in Bernstein, Elfenbein, Holz
+                    u.s.w., Schränke <pb n="6"/> und Raritätenkasten. <lb/>b) Gegenstände, die mit
+                    der Geschichte des Brandenburgisch-Preußischen Hauses in Beziehung stehen.
+                    <lb/>c) chinesische und japanische Kunstproducte. <lb/>d) ähnliche ost- und
+                    westindische Industrie-Erzeugniße. <lb/>e) südindische Kunstsachen. <lb/>f)
+                    Reliefmodelle der <placeName key="prov_org_jtr_js">Schweitz</placeName> und
+                    Ähnliches. <lb/>g) Waffensammlung.</p>
+                <p><hi rendition="#u">V<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>: die modernen <rs type="artwork" key="prov_lvk_kx2_gjb">Sculpturen</rs>.</p>
+                <p><hi rendition="#u">VI<hi rendition="#sup"><hi rendition="#u">tes</hi></hi>
+                        System</hi>: die Abgüße der vornehmsten Bildwerke des Alterthums.</p>
+                <p>Um nun die Kunstgegenstände nach den genannten sechs Systemen in dem Museo
+                    aufzustellen ist angenommen:</p>
+                <p>Erstlich, daß <rs type="artwork" key="prov_gky_hx2_gjb">die Gemälde</rs>, in
+                    dreizehn Klassen abgetheilt, das ganze obere Stockwerk einnehmen, und zwar in
+                    Abtheilungen, wie die Riße angeben, und nur mit dem Unterschied, daß jeder Raum
+                    für sich ein geschlossenes bildet, und die Communication von einem Raum in den
+                    andern, durch fortlaufende Thüröffnungen geschieht, von der Rückwand etwa
+                    anderthalb Fuß abstehend und mit einer Thüröffnung im Lichten von fünf Fuß. <pb n="7"/> Dergestalt würden die beiden Seitenwände und die Rückwand so
+                    behangen werden, daß auch noch Gemälde über den Thüren zu hängen kommen.
+                    Hierdurch geschieht eine natürliche und geschloßene Verbindung derjenigen
+                    Gemälde, welche zu einer Claße gehören, eine Verbindung, die eine historische
+                    Aufstellung, welche bei der herrlichen Sammlung das Eigenthümliche ausmacht,
+                    nothwendig erfordert.</p>
+                <p>Auf diese Weise würden die vorhandenen Räume ungefähr 1,300 Stück enthalten
+                    können, die kleinern holländischen deutschen Gemälde ausgenommen, für welche die
+                    kleinern Zimmer oder Cabinette bestimmt sind. Die wahre Anzahl der
+                    aufzuhängenden Stücke, welche das gegebene Local faßen wird, läßt sich aber erst
+                    genau bestimmen, wenn im Laufe des künftigen Sommers die Gemälde, welche auf die
+                    einzelnen Wände zu stehen kommen, auf einzelne Blätter verzeichnet seyn werden,
+                    so daß das ganze <hi rendition="#aq">Tableau</hi> dadurch sichtbar seyn wird. </p>
+                <p>Vorläufig läßt sich so viel ersehen, daß die Anzahl der aus den <rs type="artwork" key="prov_vch_fyb_f3b">alten Königlichen Sammlungen</rs>, mit
+                    Inbegriff <rs type="artwork" key="prov_a5d_5gl_jw">der Giustinianischen</rs>,
+                    auszuwählenden Gemälde, verhältnißmäßig nur gering seyn wird, und die Lücken,
+                    welche in den Sammlungen der <rs type="artwork" key="prov_dmb_fmd_wjb">Königlichen Schlößer</rs> durch die Wegnahme entstehen werden, leicht durch
+                    andere gute Bilder ausgefüllt werden können. <pb n="8"/></p>
+                <p>In der <rs type="artwork" key="prov_gky_hx2_gjb">Gemäldesammlung</rs> des
+                    Königlichen Museums ist wesentlich dahin zu sehen, das große historische Ganze
+                    in seinem vollsten Glanze zu zeigen.</p>
+                <p>Zweytens: für die Sammlung der <rs type="artwork" key="prov_ez1_1qj_y3b">antiken
+                        Marmor</rs> ist das Hauptgeschoß bestimmt, mit Ausnahme der <hi rendition="#aq"><rs type="artwork" key="prov_dcy_zjd_kkb">Rotunda</rs></hi>.
+                    Die Anzahl der Marmormonumente ist sehr groß, nahe an hundert größere und kleine
+                    Statuen, an 220 Büsten, zwölf <hi rendition="#aq">Reliefs</hi>, und etwa acht
+                    Marmorgefäße mit Figuren und andern Zierden. Der Grundsatz bei der Aufstellung
+                    der Marmor ist keine Leere und keine Häufung; sondern paßende Schicklichkeit. </p>
+                <p>Nach einer vorläufigen Vergleichung des Locals mit der Menge der Gegenstände läßt
+                    sich ersehen, daß die Marmor wohl dreiviertel des ganzen Hauptstockes einnehmen
+                    werden.</p>
+                <p>Das Uebrige der Räume würde für die neueren Sculpturen zu bestimmen seyn. Da aber
+                    vor der Hand deren nicht in großer Anzahl vorhanden sind, so halten wir es für
+                    das Zweckmäßigste, darin wichtige antike Abgüße als die <rs type="artwork" key="prov_jzh_5kd_kkb">Gruppe der <hi rendition="#aq">Aegineten</hi></rs>,
+                    die schönen <pb n="9"/> Ueberreste vom <hi rendition="#aq"><rs type="artwork" key="prov_lps_1md_kkb">Parthenon</rs></hi> und von <hi rendition="#aq"><rs type="artwork" key="prov_ahl_bnd_kkb">Phigalia</rs></hi>, die <rs type="artwork" key="prov_trz_tpz_xz">Gruppe der <hi rendition="#aq">Niobe</hi></rs> u.sw. darin aufzustellen. Auch würde ein Saal für die
+                    vortreflichsten Statuen der Athletik einzurichten sein.</p>
+                <p>Drittens: außer den genannten Räumen für antike Abgüsse, würde hauptsächlich die
+                        <rs type="artwork" key="prov_dcy_zjd_kkb"><hi rendition="#aq">Rotunda</hi></rs> dafür dienen. Ein so großer Raum im <hi rendition="#aq">Centro</hi> des ganzen Baues fordert vorzüglich Beachtung, und eine
+                    angemeßene Auszierung. Er fordert so viel möglich Coloße in Göttergestalten, so
+                    daß die <hi rendition="#aq"><rs type="artwork" key="prov_dcy_zjd_kkb">Rotunda</rs></hi> das wahre Ansehen von einem alten <hi rendition="#aq"><rs type="artwork" key="prov_frt_5nd_kkb">Pantheon</rs></hi> erhielte.
+                    So würden hauptsächlich coloßale Bilder der Obergötter in Statuen sowohl, als
+                    Büsten und <hi rendition="#aq">Reliefs</hi> den Kreis füllen, und für die
+                    Nischen der Gallerie solche Gegenstände zu wählen seyn, welche durch Schönheit
+                    und Eleganz sich unter den Antiken auszeichnen, wobey besonders der <hi rendition="#aq">Cyclus</hi> der <hi rendition="#aq">Heroen</hi> und <hi rendition="#aq">Heroinen</hi> zu beachten wäre. </p>
+                <p>Eine solche Aufstellung der vornehmsten aus dem Alterthum auf uns gekommenen
+                    Bildwerke, würde vor allem andern höchst belehrend seyn, und eine in <pb n="10"/> seiner Art einzige und eigenthümliche Sammlung bilden.</p>
+                <p>Viertens, ist noch das Locale für das III<hi rendition="#sup"><hi rendition="#u">te</hi></hi> und IV<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    System anzugeben, welche gleichfalls sehr bedeutende Räume erfordern, und
+                    hierfür würde das untere Geschoß eingerichtet werden müßen, nämlich für das
+                        III<hi rendition="#sup"><hi rendition="#u">te</hi></hi> System, oder für das
+                    so genannte <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinet</rs>, die
+                    ganze eine Hälfte von der Nord- und Ost- und Südseite; ein Gesammtraum, der zwar
+                    groß, aber keinesweges zu viel wäre, für die Menge der Gegenstände und der
+                    Bedürfniße, welche diese Abtheilung erfordert. </p>
+                <p>Für das IV<hi rendition="#sup"><hi rendition="#u">te</hi></hi> System, bestehend
+                    in der sogenannten <rs type="artwork" key="prov_y45_qpn_5jb">Kunstkammer</rs>,
+                    würden die Räume hinreichen, von der Mitte der Nordseite an bis zur Mitte der
+                    Westseite. - Die übrigen Räume aber, die an jener Seite noch bleiben, wären für
+                    den Castellan und die übrige Dienerschaft einzurichten.</p>
+                <p><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt <pb n="11"/></p>
+                <p><hi rendition="#u">Anhang B.</hi></p>
+                <p>Hiernach können wir nicht umhin, sondern sehen es vielmehr als unsere Pflicht an,
+                    über manches zur Sache Erforderliche unsere ferneren Ansichten Eurer Königlichen
+                    Majestät allerunterhänigst einzureichen, um darüber die Allerhöchste
+                    Willensmeinung zu erfahren.</p>
+                <p>Es ist angenommen, daß <placeName key="ediarum_rj2_kdc_sy">der Bau</placeName>,
+                    da die Bauverhältniße es nicht anders zulaßen, im Jahre 1828 zur Vollendung
+                    komme, so daß im Sommer 1829 man mit der Aufstellung der darin zu placirenden
+                    Gegenstände beginnen kann. Dies ist aber nur möglich, wenn alles hierzu gehörig
+                    in Vorbereitung ist. Bis dahin ist aber noch gar Vieles zu thun, was nur
+                    geleistet werden kann, wenn die unterzeichneten Commißarien durch Allergnädigst
+                    zu ertheilende Vollmacht, über die nachstehende Gegenstände ganz selbssttändig
+                    gestellt werden, so daß sie in den Grenzen der von Eurer Königlichen <persName key="prov_bxf_jt5_fv">Majestät</persName> Allergnädigst genehmigten Plane,
+                    und zu ertheilenden Verordnungen ohne weitere Anträge verfahren, und die
+                    gesammte Einrichtung des Museums zu Stande bringen könnten. </p>
+                <p>Wir setzen hier allerunterthänigst die Punkte her, worauf es wesentlich
+                    ankommt:</p>
+                <p>Erstlich: die <hi rendition="#aq">Restauration</hi> der <rs type="artwork" key="prov_jlr_2lw_jgb">Gemälde</rs> macht <pb n="12"/> forthin einen
+                    Gegenstand bedeutender Unkosten, und so gut dieselbe auch im Gange ist; so
+                    können wir doch bis jetzt nicht festsetzen, wann dies Geschäft zu Ende kommen
+                    werde. Auf unsere Anweisung hat bis dahin die <orgName key="ed_pfj_35s_pjb">Ministerial-Caße</orgName> immer alles hiezu Erforderliche prompt
+                    bezahlt.</p>
+                <p>Ein schlimmer Umstand bleibt indeßen, daß die uns in dem <placeName key="ediarum_qkl_1cw_jgb">Academie-Gebäude</placeName> zugegebenen Räume,
+                    für die große Maße von Gemälden so klein und eng ist; besonders da die einmal
+                        <hi rendition="#aq">restaurirten</hi> Gemälde nicht ferner über einander
+                    geschichtet werden können, sondern dem Lichte zugekehrt stehen müßen, wenn nicht
+                    neuer Nachtheil eintreten soll. Dann können die größeren Gemälde nicht nach dem
+                    obern Stockwerke gebracht, sondern müßen in dem untren hohen Stockwerke <hi rendition="#aq">restaurirt</hi> werden. Auch würde es sehr nachtheilig für
+                    die Gemälde seyn, die fast durchgehends auf Holz gemalt sind, sie anderwärts hin
+                    transportiren zu wollen. Durch vieles Bewegen wäre zu fürchten, daß die Fugen
+                    der Bretter sich wieder löseten, und <pb n="13"/> anderes Uebel entstünde.</p>
+                <p>Daher bleibt es unmöglich, die nächste <rs type="artwork" key="prov_s1x_1nh_ckb">Ausstellung der Akademie</rs> in den Sälen zu halten, wo jetzt die Gemälde
+                    für das Museum sich befinden. Wir berichten dies als unmöglich im Voraus und in
+                    Zeit, damit für die Ausstellung des künftigen Herbstes [1826], ein anderes Lokal
+                    gewählt werden möge.</p>
+                <p>Zweitens: machen die neu anzufertigenden Rahmen für die Bilder, keinen geringen
+                    Gegenststand von Ausgabe, und Jahre werden erfordert, um sie alle anzufertigen.
+                    Wir haben auch nicht ermangelt, bereits vor längerer Zeit hierüber unsere
+                    Vorschläge zu thun. Noch ist die Arbeit hiermit nicht begonnen, was aber
+                    allmählig gut gemacht werden könnte, würde später bei übereilter Arbeit leicht
+                    schlecht und theuer ausfallen. Die <hi rendition="#aq">Restauration</hi> eines
+                    Gemäldes aber kann erst vollständig heißen, wenn es in seinen Rahmen eingefugt
+                    ist.</p>
+                <p>Drittens: ist es nothwendig, mit dem Anfang des künftigen Frühjahrs die Arbeit zu
+                    beginnen: <rs type="artwork" key="prov_jlr_2lw_jgb">alle Gemälde</rs>, welche in
+                    das Museum <pb n="14"/> kommen sollen, nach ihren verschiedenen Claßen und
+                    Größen so auf das Papier aufzuzeichnen, wie sie künftig <rs type="artwork" key="prov_gky_hx2_gjb">im Museum</rs> aufgehangen werden sollen, damit, wenn
+                    es zum wirklichen Aufhängen kommt, alles vorbereitet sey.</p>
+                <p>Hiezu ist aber nicht blos nöthig, die Gemälde der <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>schen Sammlung</rs> in
+                    genannter Weise auf dem Papier aufzuzeichnen, sondern auch die Gemälde, welche
+                    nach dem Willen Eurer Königlichen <persName key="prov_bxf_jt5_fv">Majestät</persName> aus <rs type="artwork" key="prov_a5d_5gl_jw">der <hi rendition="#aq">Giustiani</hi>schen</rs> und aus den <rs type="artwork" key="prov_jlr_2lw_jgb">alten Königlichen Sammlungen</rs> in das Museum
+                    aufgenommen werden sollen. Die letztern Sammlungen sollen indeßen auf das
+                    Möglichste geschont und nur Bilder von solchen Meistern daraus genommen werden,
+                    welche in <rs type="artwork" key="prov_ggw_yml_vw">der <hi rendition="#aq">Solly</hi>schen</rs> und in <rs type="artwork" key="prov_a5d_5gl_jw">der <hi rendition="#aq">Giustiani</hi>schen</rs> Sammlung fehlen, und
+                    nothwendige Glieder in der Kette bilden, wodurch die <rs type="artwork" key="prov_gky_hx2_gjb">Sammlung des Königlichen Museums</rs> sich vor allen
+                    Sammlungen anderwärts, unterscheiden und auszeichnen wird. <pb n="15"/></p>
+                <p>Dergestalt dürften in den alten Sammlungen nur geringe Lücken entstehen, welche
+                    durch andere vorhandene gute Bilder wieder ausgefüllt werden könnten.</p>
+                <p>Zu einer solchen Auswahl müßten aber die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> mit der Vollmacht versehen werden, solche aus den
+                    alten Königlichen Sammlungen auszuhebende Gemälde <hi rendition="#aq">definitiv</hi> verzeichnen und nach ihrer Claße und Größe in die Reihen der
+                    andern Bilder eintragen zu können. Die Herausnahme selbst würde aber dann erst
+                    erfolgen, wenn man zu dem wirklichen Aufhängen in dem Museo fortgeschritten seyn
+                    würde.</p>
+                <p>Viertens: In Rücksicht <rs type="artwork" key="prov_usp_jlw_jgb">der alten
+                        Marmor</rs>, Statuen, Büsten, <hi rendition="#aq">Reliefs</hi> und Gefäße,
+                    wäre eine ähnliche Vollmacht nöthig für den Profeßor <hi rendition="#aq"><persName key="ed_p41_xpz_lw">Rauch</persName></hi> sowohl, als für die
+                        <orgName key="ed_imk_ss2_gjb">Commißarien</orgName>, um so, wie es für den
+                    Fortgang der Sache nöthig und ersprießlich ist, die Monumente von ihren Stellen
+                    entheben und hieher zur <hi rendition="#aq">Restauration</hi> bringen zu können.
+                    Uebrigens ist angenommen worden, daß alle antike Kunstgegenstände nach dem
+                    Königlichen Museum kommen sollen. <pb n="16"/></p>
+                <p>Fünftens: bedürfen die Gegenstände, welche jetzt in dem <placeName key="ediarum_vm3_lmr_yhb">Antikencabinet</placeName> und in der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> zusammengehäuft sind, noch
+                    mancherley Sichten, gute Verzeichniße und Vorbereitungen, um zur Zeit in das
+                        <placeName key="ediarum_rj2_kdc_sy">neue Local</placeName> des Museums
+                    versetzt werden zu können. Daher ist für die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> die Vollmacht nöthig, die jetzigen Vorsteher, die
+                    Herren <hi rendition="#aq"><persName key="prov_kds_gnv_3v">Henry</persName></hi>
+                    und <hi rendition="#aq"><persName key="ed_ifk_ktj_xv">Levezow</persName></hi>,
+                    dahin anzuhalten, und darauf zu sehen, daß Alles allmählig gehörig vorbereitet
+                    werde, und wir halten dafür, daß Alles gut geschehen könnte, wenn die Arbeit der
+                    beiden Vorsteher <hi rendition="#aq">definitiv</hi> getheilt würde, nämlich Herr
+                        <persName key="prov_kds_gnv_3v"><hi rendition="#aq">Henry</hi></persName>
+                    die Anordnung und die Verzeichniße der Gegenstände der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>, und Herr <hi rendition="#aq"><persName key="ed_ifk_ktj_xv">Levezow</persName></hi> die der gesammten
+                    Gegenstände des <placeName key="ediarum_vm3_lmr_yhb">Antikencabinets</placeName>
+                    übernähme. Jede Art von Anordnung würde jedesmal zwischen den <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> und den Vorstehern berathen
+                    werden, und die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName>
+                    vierteljährlich dahin sehen, was in der Sache geschehen ist.</p>
+                <p>Sechstens: auch dürfen die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName>
+                    <pb n="17"/> die in dem Museo aufzunehmenden <rs type="artwork" key="prov_w2f_vx2_gjb">Abgüße antiker Marmor</rs> nicht unberührt laßen.
+                    Nicht unansehnlich ist bis jetzt die Sammlung solcher Abgüße, welche jetzt
+                        <placeName key="ediarum_qkl_1cw_jgb">in der Akademie</placeName> mehr
+                    zusammengehäuft als aufgestellt sind. Ein großer Theil derselben eignet sich <rs type="artwork" key="prov_w2f_vx2_gjb">zur Aufstellung in dem Museum</rs> und
+                    hierüber bedarf es gleichfalls einer Vollmacht, um die dazu geeigneten
+                    Gegenstände zu verzeichnen und dann dieselben zur Zeit in das Museum abgeben zu
+                    dürfen; aber vieles von alten Denkmälern, deren Abgüße für das Museum zu
+                    wünschen sind, ermangeln bis jetzt. Es wäre daher höchst nöthig daß ein Fond für
+                    eine Reihe von Jahren etwa 1,500 bis 2000 r<ex>eichs</ex>thaler des Jahrs, für
+                    solchen Zweck bestimmt, und hiervon die Auswahl der Gegenstände, an die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> überwiesen würde.</p>
+                <p>Siebentens: Ein ähnliches Verfahren wäre auch in Beziehung der neuern Sculpturen
+                    einzuschlagen, denn vortrefflich wäre es, wenn in dem Museo eine <rs type="artwork" key="prov_lvk_kx2_gjb">Sammlung von <pb n="18"/>
+                        Sculpturen</rs> vorhanden wäre, welche auf eine ähnliche Weise, wie bei der
+                    Malerey, den geschichtlichen Zustand der neuern Sculptur vor Augen stellten. -
+                    Original-Sculpturen in Marmor oder Erz von bedeutenden Meistern sind aber sehr
+                    selten zu kaufen; allein hier könnten fast eben so gut Gipsabgüße aushelfen; und
+                    daher wäre es gleichfalls sehr wünschenswerth, daß auch hierfür ein kleiner Fond
+                    auf eine Reihe von Jahren ausgemittelt würde, um solche Abgüße für das Museum
+                    kommen zu laßen. Doch so intereßant und belehrend auch eine solche Sammlung
+                    wäre, so kann die <orgName key="ed_imk_ss2_gjb">Commißion</orgName> doch nur
+                    zuletzt auf solche antragen.</p>
+                <p>Nur Vollmachten von gedachter Art und concentrirte Maaßregeln können die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> in Stand setzen, wirksam das so
+                    vielseitig zu berücksichtigende Geschäft zu betreiben, und ehrenvoll zu
+                    vollenden.</p>
+                <p>Die größte Oeconomie bei Verwendung der Kosten für die mannigfaltigen hier
+                    ausgesprochenen inneren Einrichtungen und Anordnungen der verschiedenen
+                    Sammlungen des Museums, <pb n="19"/> werden sich die <orgName key="ed_imk_ss2_gjb">Commißarien</orgName> zur ersten Pflicht machen.</p>
+                <p><ex>[gez.]</ex> Schinkel. <ex>[gez.]</ex> Hirt</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_rlf_1t2_jx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Alvar Augustin Naria de Liagno. Berlin, 21. Oktober 1821. Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. u. 204</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-10-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_wcm_ft2_jx">Liagno, Alvar Augustin Naria de (1782-1848) (span.
+                        Adliger, vormals röm.-kathol. Priester, konvertierte zum Calvinismus,
+                        1809-1822 in Berlin, königl. Bibliothekar, Lehrer für Spanisch und
+                        Französisch an der Berliner Universität, nach 1822 Privatgelehrter in
+                        Neuwied)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_z2n_ddh_px"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Monsieur le chevalier,</salute>
+                </opener>
+                <p>Etant hors de la maison je n'ai reçû <seg type="comment">
+                        <orig>la lettre</orig>
+                        <note xml:id="nqk5_ych_px">Brief erschlossen:
+                            [1821-10-20?x-v-Liagno].</note>
+                    </seg> que vous vouliez <add place="superlinear">bien</add> m'adresser que tard.
+                    Vous me pardonnerez donc que je ne vous aie repondû toute de Suite.</p>
+                <p>Quant à la gallerie de Mr: <add place="superlinear">de</add>
+                    <persName key="ed_pzy_wqh_px">
+                        <hi rendition="#aq">Scheppeler</hi>
+                    </persName>, j'ai lû <seg type="comment">
+                        <orig>l'ordre du <persName key="ed_z43_tfy_lw">ministère</persName>
+                        </orig>
+                        <note xml:id="nvq1_1sh_px">In einem Schreiben von Altenstein an Hirt,
+                            datiert: 8. Oktober 1821, das am 20. Oktober abgeschickt wurde, heisst
+                            es wie folgt: "Das Ministerium übermacht Ihnen inliegend unter dem
+                            Beding der Rückgabe den Bericht des Rectors Weitsch über den Befund der
+                            Gemälde-Sammlung des Herrn Obersten p von Schepeler, welche für das
+                            königliche Museum zum Kauf angetragen worden ist, nebst den dazu
+                            gehörigen Unterlagen mit dem Ersuchen, diese Sammlung, welche bei dem
+                            Bankier Benecke hierselbst, befindlich ist, zu besichtigen und nach
+                            deren Untersuchung über den Werth, den diese Gemählde für das königliche
+                            Museum haben möchten, wie auch über den Preis, welcher dafür zu geben
+                            sein dürfte, gutachtlich Sich zu äussern" (Aktenabschrift, GStA PK, I.
+                            HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3, Bl. 26 r). - In einem
+                            weiteren Schreiben vom gleichen Tag, abgesendet am 20. Oktober, lässt
+                            Altenstein Liagno mitteilen: "Das Ministerium benachrichtigt Ew auf Ihre
+                            Vorstellung vom 7ten v. Mts. in Betreff des Ankaufs der p von
+                            Schepelerschen Gemälde-Sammlung für das königliche Museum, daß der
+                            Hofrath und Professor Hirt aufgefordert worden ist, diese Sammlung zu
+                            untersuchen und gutachtlich über den Werth Sich zu äussern, den dieselbe
+                            für das königliche Museum haben möchte. Das Ministerium behält sich vor,
+                            nach Eingang des diesfälligen Gutachtens weitern Beschluß in der Sache
+                            zu erlassen" (ebd., Bl. 26 r-v). - Das letztere Schreiben erweckt den
+                            Anschein, dass Liagno - Sohn eines spanischen Adligen aus der Provinz
+                            Granada - den Ankauf der Sammlung vorgeschlagen hat. Liagno lebte von
+                            1809 bis 1822 in Berlin, hielt 1810 kurzzeitig Vorlesungen für Spanisch
+                            und Französisch an der Universität und war dann als einer von fünf
+                            königlichen Bibliothekaren tätig. Er hatte enge Verbindungen zur
+                            königlichen Familie, besonders zu Prinz Heinrich, hielt 1814 Vorlesungen
+                            über spanische Sprache und Literatur und publizierte 1818-1820 zwei
+                            Bände zur Geschichte von Spanien und Portugal. 1822 verließ er Berlin
+                            und lebte als Privatgelehrter im Fürstentum Neuwied im Rheinland.
+                        </note>
+                    </seg> de la voir, <seg type="comment">
+                        <orig>pour dire s'il y avoit quelques tableaux qui pourraient convenir au
+                                <placeName key="prov_up1_xwt_fv">musée</placeName>
+                        </orig>
+                        <note xml:id="nl34_vxh_px">Mit Schreiben vom 23. Oktober 1821 teilt Hirt dem
+                            Ministerium mit: "Dem Auftrage eines hohen Ministeriums zufolge habe ich
+                            die Gemäldesammlung des Herrn Obersten v. Scheppeler gesehen; aber zu
+                            meinem großen Leidwesen nichts darin gefunden, was irgend unter einer
+                            Ansicht verdiente, für ein königliches Museum in Vorschlag gebracht zu
+                            werden" (GStA PK, I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3, Bl. 48
+                            r). - Die Gemäldesammlung wurde nach dem Tod des 1848 in Aachen
+                            verstorbenen v. Schepelers 1852 vom Aachener Museums-Verein angekauft
+                            und ist heute Teil des Suermondt-Ludwig-Museums. Bei Übernahme 1852
+                            bestand die Sammlung aus etwa 150 größtenteils niederländischen und
+                            spanischen Gemälden. </note>
+                    </seg>. Cet ordre est noté avec un <seg type="comment">
+                        <orig>Cito</orig>
+                        <note xml:id="nqcw_rrh_px">Dringend; so schnell wie möglich.</note>
+                    </seg>; et c'est pour cette raison que j'ai desiré de voir la collection dès ce
+                    matin. Mais à cause du dimanche <seg type="comment">
+                        <orig>le Bureau</orig>
+                        <note xml:id="nogj_cvh_px">Das Bankhaus Benecke, siehe oben.</note>
+                    </seg> se trouvait fermé. J'ai donc fixé l'heure pour demain à midi. Si l'heure
+                    vous con<subst>
+                        <del rendition="#s">viendroit</del>
+                        <add place="superlinear">venoit</add>
+                    </subst>, je serais charmé <pb n="2"/> à vous y voir, d'autant plus, que les
+                    tableaux <placeName key="prov_ivl_ngg_1v">espagnoles</placeName> passent
+                    rarement les <placeName key="ed_qnn_vrh_px">Pyrénées</placeName>, et que je n'ai
+                    par consequent aucune connoissance de cette illustre école. Ce seroit avec
+                    plaisir que je profiterais de vos lumiéres.</p>
+                <closer>
+                    <salute>Agréez, Monsieur le chevalier, les temoignages de la haute consideration
+                        avec laquelle j'ai l'honneur d' être <lb/>votre très humble
+                        serviteur</salute>
+                    <signed>Hirt <hi rendition="#u">
+                            <lb/>Letztestrasse n.° 2.</hi>
+                    </signed>
+                    <dateline>ce 21 oct. 21.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

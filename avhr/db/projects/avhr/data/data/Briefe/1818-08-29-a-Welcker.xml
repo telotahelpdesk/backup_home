@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nk1_lcd_qw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Gottlieb Welcker. Berlin, 29. August 1818</title>
+                <title>. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Universitäts- und Landesbibliothek Bonn</institution>
+                        <collection>Nachlass Welcker</collection>
+                        <idno>
+                            <idno type="shelfmark">S 685</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-08-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yhh_z14_pw">Welcker, Friedrich Gottlieb (1784-1868) (dt.
+                        klassischer Philologe und Archäologe, Prof. in Gießen (1809-1816), Göttingen
+                        (1816-1819) und Bonn (1819-1868))</persName>
+                    <placeName key="prov_sp5_tmk_4v">Göttingen</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_a4d_12y_5w"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Dem / Herrn Professor / Welcker / in / <hi rendition="#u">Goettingen</hi> / Mit Postvermerken und Siegel</addrLine>
+                    </address>
+                    <dateline>Berlin den 29 Aug. 18.</dateline>
+                </opener>
+                <p>Um mit der Antwort auf <seg type="comment">
+                        <orig>Ihr vertrautes Schreiben</orig>
+                        <note xml:id="nwzh_pbx_5w">Brief erschlossen
+                            [1818-08-vor29x-v-Welcker]</note>
+                    </seg>, mein verehrtester Freund! nicht zu zögern, wandte ich mich mit ein paar
+                    Worten sogleich an den Mann, von dem ich das zuverläßigste erfahren konnte. <seg type="comment">
+                        <orig>Die Antwort lege ich in original bey</orig>
+                        <note xml:id="nkj2_3ww_5w">Nicht überliefert.</note>
+                    </seg>, und füge nur noch hinzu: daß ich sogleich wieder an p. <persName key="ed_o41_gq1_kw">
+                        <hi rendition="#aq">Nicolovius</hi>
+                    </persName> schrieb, daß ich zwar von der Absicht des H. <persName key="ed_tm5_qxw_5w">Prof. <hi rendition="#aq">Welker</hi>
+                    </persName> in <hi rendition="#aq">
+                        <placeName key="ed_ok5_2vd_lw">Heidelberg</placeName>
+                    </hi> nichts zuverläßiges wüßte; ich aber doch durch anderseitige
+                    Nachrichten vermuthen könnte, daß denselben <seg type="comment">
+                        <orig>ein Ruf nach <placeName key="ed_jjj_lh4_pw">Bonn</placeName>
+                        </orig>
+                        <note xml:id="ntgh_2yw_5w">Karl Theodor Welcker lehrte von 1816 bis 1819 als
+                            Professor der Rechtswissenschaften an der Universität Heidelberg und
+                            wechselte von 1819 bis 1822 an die neugegründete Universität Bonn. Sein
+                            Bruder Friedrich Gottlieb Welcker kam ebenfalls 1819 (bis 1868) als
+                            Professor für deutsche klassische Philologie und Archäologie nach
+                            Bonn.</note>
+                    </seg> nicht unwillkommen seyn, und er ihn auch annehmen dürfte“. - Erfahre ich
+                    ein Mehreres, so werde ich nicht säumen, Sie damit bekannt zu machen. Übrigens
+                    kann ich Sie versichern, daß ich mich freuen würde, Sie mit <persName key="ed_tm5_qxw_5w">Ihrem Bruder</persName> für die neue rheinische
+                        <placeName key="ediarum_fzw_pww_5w">
+                        <hi rendition="#aq">Universität</hi>
+                    </placeName>gewonnen zu wißen.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_sz2_shw_m1b">Ihren Aufsaz</bibl>
+                        </orig>
+                        <note xml:id="nqrd_z3y_5w">Anzeige von: Stuttgart und Tübingen. Bey Cotta:
+                            Johann Martin Wagners, K. Bayerschen Prof. der Historienmahlerey [...],
+                            Bericht über die Aeginetischen Bildwerke im Besitz Sr. KI. Hoheit des
+                            Kronprinzen von Bayern. Mit kunstgeschichtlichen Anmerkungen von Fr. W.
+                            J. Schelling. 1817. 246 S. In: Göttingische gelehrte Anzeigen unter der
+                            Aufsicht der Königl. Gesellschaft der Wissenschaften, 1818, Bd. 2, 115.
+                            Stück. Den 18. Julius 1818, S. 1137-1152; Beschluß in: 116. Stück. Den
+                            20. Julius 1818, S. 1153-1165, gez. "W-k.". - Darin heisst es u.a.:
+                            "Mehrere seither öffentlich ausgesprochene Meinungen haben im Ganzen
+                            sich gegen das Urtheil Wagners und Schellings erklärt. Danach wäre es
+                            kurz und gut abzuthun und als ausgemacht anzusehen, daß die Aeginischen
+                            Bildsäulen erst nach der Schlacht von Platäa, wenn nicht gar erst in der
+                            Blüthezeit des Phidias ausgeführt seyen. Rec. dagegen, so viel er nach
+                            dem, was bis jetzt vorliegt, zu urtheilen vermag, tritt was das
+                            Zeitalter betrifft entschieden der früheren Ansicht bey, und zwar so wie
+                            sie durch Schelling bestimmt wird, daß diese Werke nicht vor Dipönos und
+                            Skyllis, um Ol. 50, wohl aber eher eine gute als eine sehr geringe Zeit
+                            vor den Persischen Kriegen entstanden seyn mögen" (S. 1138). - " Ein
+                            andrer Grund, von der Kleidung des feindlichen Bogenschützen
+                            hergenommen, fällt ganz weg. Persisch ist diese freylich; aber darum ist
+                            nicht er ein Perser, indem bekanntlich sowohl diese als andre Persische
+                            Tracht, wie auch Phrygische, gewöhnlich in der Kunst nicht ein
+                            bestimmtes Volk bedeutet, sondern Morgenländer, Barbaren überhaupt; und
+                            die Tracht namentlich jenes Bogenschützen ist genau die, welche auch den
+                            Amazonen gegeben wird, so sehr, daß man nach der durch Hirt bekannt
+                            gemachten kleinen Zeichnung in dieser Figur eine Amazone erblicken
+                            müßte, wenn man nicht den Bau der Brust als ein Versehen des Zeichners
+                            betrachten wollte. Zum Beweis dienen die Vasen bey d'Hancarville IV, 50.
+                            Tischbein III, 26. Millingen 37. Millin I, 10. II, 25 und vorzüglich 19,
+                            welches letzte Gemählde auch darin etwas auffallendes hat, daß unter so
+                            vielen Kämpfern nur eine einzige Amazone erscheint: und diese ist genau
+                            so wie unser Schütz gekleidet und gerüstet" (S. 1140 f.). - "In so weit
+                            also als Bauart und Inhalt der Statuenvereine zur Festsetzung der Zeit
+                            Anleitung geben könnten uns bescheidend im Dunkeln zu tappen, sind wir
+                            lediglich auf den bildhauerischen Styl hingwiesen, der dagegen desto
+                            bestimmter die Merkmale eines früheren Ursprungs dieser Werke zu
+                            enthalten scheint. Am meisten freylich liegt dieß in der
+                            anerkanntermaßen durch eine altväterliche Vorschrift noch streng
+                            beherrschten Bildung der Gesichtszüge, der Haare und der Gewänder, die
+                            in einem solchen Abstand von der Kunst des Phidias erscheinen, daß, ohne
+                            ganz besondre Gegengründe zu berücksichtigen, ein so geübter Kunstkenner
+                            als Hr. Wagner sehr verzeihlich auf ein übertrieben hohes Alterthum
+                            schließen durfte" (S. 1143). - "Nach der Annahme Schellings, daß von
+                            Anfang an [...] dieß Auszeichnende der Aeginischen Kunst in nichts
+                            anderm bestanden habe, als in getreuer und genauer Nachahmung der Natur,
+                            im Gegensatz eines bloß geistigen Typus oder eines Systems von Regeln
+                            bey den Athenern, reißt sie los von dem Bildungsgang der Hellenen, ja
+                            aller alten Völker; auch ist ja der alte Typus selbst, das aus der
+                            Einbildungskraft Geschöpfte u. willkührlich den Götterbildern Beygelegte
+                            als Bestandtheil der Aeginischen Kunst nicht minder auffallend als die
+                            Naturnachahmung. Zwischen Aeginern und Athenern war die Verschiedenheit
+                            in der Kunst niemals so groß wie zwischen Niederländern und Italiänern;
+                            und es liegt kein Grund vor, auf Aegina eine engere Verbindung der Kunst
+                            mit dem Handwerk vorauszusetzen, als irgend anderswo in Griechenland.
+                            Strenge Naturnachahmung im Beginne der Kunst würde vielleicht gerade den
+                            Dorern am wenigsten entsprechen, weil sie in dieser Zeit mit der
+                            Einfachheit und Größe des Sinnes, mit einem männlichen, mächtigen und
+                            gefühlvollen Character sich nicht vertrüge" (S. 1151 f.). </note>
+                    </seg> in den <bibl sameAs="ed_fb2_qyg_fw">G<ex>öttingischen Gelehrten</ex>
+                        Anzeigen</bibl> sah ich vor wenigen Tagen, und ich kann nicht läugnen, daß
+                    derselbe mich befremdete, nicht etwa wegen der Verschiedenheit der Meinung,
+                    sondern wegen der mysteriösen Art, mit der derselbe abgefaßt ist. In Wahrheit
+                    konnte ich demselben keinen Sinn abgewinnen. Kurz ich weiß nicht, was und wie
+                    Sie es damit meinen. Ich liebe gern eine grade, offene, logische Sprache mit
+                    Schonung der Person, aber nicht der Sache. Da ich sehr entfernt bin, irgend eine
+                    meiner Meinungen für unbefehlbar zu halten, so kann Widerspruch mich nie
+                    beleidigen, vielmehr werde ich jedem dankbar seyn, der mir einen Irrthum
+                    benimmt, oder Gegengründe, Einwürfe, und Schwierigkeiten aufstellt, welche zur
+                    Begründung einer bestimmten Meinung noch zu lösen, und zu heben seyn möchten.
+                    Ich habe es mit dem Studium immer ernsthaft gemeint, nie dabey persönliche
+                    Rücksichten gehabt, <pb n="2"/> und war, und bin daher über jeden Widerspruch
+                    erhaben. Aber noch einmal wiederhole ich es: ich wünsche offene Darlegung und
+                    Gründe. Das vernuscheln bey solchen Gegenständen führt zu nichts. Die Äußerungen
+                    mancher über manches gefallen mir nicht, aber ich laße sie auf sich beruhen,
+                    wenn mir nicht überzeugende Gegengründe zur Hand sind. So würde ich es an Ihrer
+                    Stelle nicht gewagt haben, vor der Hand eine absprechende Meinung über <seg type="comment">
+                        <orig>die aeginetischen Werke</orig>
+                        <note xml:id="ndml_jrd_vw">Vgl. dazu 1818-04-21-a-Rauch,
+                            Sachanmerkung.</note>
+                    </seg> zu äußern, <subst>
+                        <del rendition="#s">muß</del>
+                        <add place="superlinear">wohl aber</add>
+                    </subst> in einem critischen Blatte die Meinungen anderer bloß historisch
+                    aufzuführen. Wie Sie z. B. darauf fallen konnten, die vermuthung zu äußern, die
+                        <del rendition="#s">Phr</del> Figur des Phrygiers könnte wohl eine <hi rendition="#aq">Amazone</hi> seyn, ist nicht begreiflich, denn dies sezt
+                    voraus: daß alle diejenigen, welche bis iezt die Sachen gesehen haben, kein Auge
+                    zu sehen hätten, denn daß man so was nicht nach einer hingeworfenen Skizze zu
+                    beurtheilen habe, versteht sich von selbst. - Daß Sie sich andere und frühere
+                    Kunstepochen, als ich, denken, ist eine andere Sache; und ich kann nichts
+                    dagegen haben, wenn Sie Gründe hierüber aufstellen werden. Aber daß Sie die
+                    aeginetischen Werke weit älter und früher als <persName key="ed_ctl_nzw_5w">
+                        <hi rendition="#aq">Phidias</hi>
+                    </persName> halten gegen die Meinung eines andern, der die aeginetischen sowohl,
+                    als das vorzüglichste der <placeName key="ed_el2_k1x_5w">Athenischen</placeName>
+                    Werke sah und verglich, ist bey einem Besonnenen, der weder das eine, noch das
+                    andere durch Anschauung kennt, kaum denkbar. Daß <persName key="ed_xzs_sml_jw">
+                        <hi rendition="#aq">Schelling</hi>
+                    </persName> so wie Sie, <unclear reason="illegible" cert="">operirte</unclear>,
+                    ist sehr verzeihlich, denn <persName key="ed_xzs_sml_jw">
+                        <hi rendition="#aq">Schelling</hi>
+                    </persName> ist weder Kunstkenner, noch hatte er hierüber bis dahin
+                    vergleichende Data. Was Sie von den Meistern von <placeName key="ed_ndj_52f_mw">Aegina</placeName> vorbringen, ist mir nicht minder räthselhaft. wer wird,
+                    oder wer kann vermuthen, daß die bey <persName key="prov_tvl_wzv_3v">
+                        <hi rendition="#aq">Pausanias</hi>
+                    </persName> genannten großen aeginetischen Meister immer im aeginetischen <add place="superlinear">Stil</add> hätten arbeiten sollen? Diese waren so gut
+                    Künstler wie die athenischen und andere, und weder der Aeginete, noch der
+                        <placeName key="ed_el2_k1x_5w">Athener</placeName> arbeitete in dem
+                    aeginetischen Stil, wenn es nicht vorschrift war. Aber war es <pb n="3"/>
+                    vorschrift, so zweifle ich keinen Augenblick, daß auch<persName key="ed_ctl_nzw_5w">
+                        <hi rendition="#aq">Phidias</hi>
+                    </persName> u. seine Schule, so wie die in <placeName key="ed_ndj_52f_mw">Aegina</placeName> gebornen Meister, im altaeginetischen Stil arbeiteten.
+                    Doch ich breche ab, damit Sie nicht glauben, daß ich mit Ihnen eine Brieffehde
+                    führen wolle. Doch um Ihnen offen zu zeigen, wie ich über Ihre Anzeige denke,
+                    habe ich dieselbe nicht ganz übergehen wollen.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>
+                            <persName key="ed_p41_xpz_lw">Rauch</persName> ist seit einem Monat aus
+                                <placeName key="prov_vxr_xxr_js">Italien</placeName> zurück</orig>
+                        <note xml:id="ns3p_lrd_vw">Vgl. 1818-04-21-a-Rauch mit Sachanmerkung</note>
+                    </seg>, und ich freue mich seines biedern Umganges. Bin ich im stande, Ihnen
+                    fernere Beweise meiner Freundschaft zu geben, so soll es mit Vergnügen
+                    geschehen</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_mp3_kwc_x5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Rom, den 31. Mai 1792.
+                    Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50, Bl.
+                                8-9</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys(1759 - 1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date cert="high" when="1792-05-31"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia von(1739 -
+                        1807)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute>Durchlauchtigste Herzogin,<lb/>Gnädigste Frau,</salute>
+                </opener>
+                <p>Mein Vorhaben war, vorigen Herbst bey meiner Rückkunft aus <placeName key="prov_kw2_j4g_w5">Sizilien</placeName> Ew. Durchlaucht einen <bibl sameAs="ed_yp2_sp5_fz">Auszug meiner Bemerkungen über jenes Land</bibl>,
+                    welches zu bereisen Sie selbst so oft den Wunsch äußerten, zu übersenden,
+                    – überzeugt, daß Ew. Durchlaucht meine kleine Gabe mit der gewöhnlichen
+                    Nachsicht, und Huldvollen Güte aufgenommen hätten. Allein das gewühlvolle
+                        <placeName key="prov_myp_lbv_35">Neapel</placeName> giebt so viele
+                    Zerstreuungen, daß ich nicht zur Erfüllung des besten Wunsches kommen konnte. In
+                        <placeName key="prov_vkl_ndl_js">Rom</placeName> glaubte ich es ruhiger, und
+                    ordentlicher thun zu können, kaum war ich aber hier angekommen, bemächtigten
+                    sich fremde Reisende meiner Muße, so daß ich seither noch keinen freyen Tag
+                    hatte. Die andauernde Schwächlichkeit sezte den Herrn Rath <persName key="prov_ald_mvr_xr">Reiffenstein</persName> außer Stand, etwas für Fremde
+                    zu thun, und so wandte sich alles an mich.</p>
+                <p>
+                    <persName key="prov_dln_f3z_x5">Graf</persName> und <persName key="prov_zzs_ptw_w5">Gräfin v. Egloffstein</persName>, welche Ew.
+                    Durchlaucht an mich zu adreßiren die Gnade hatten, verließen <placeName key="prov_vkl_ndl_js">Rom</placeName> seit dem Anfang dieses Monats.
+                        <persName key="prov_zzs_ptw_w5">Die Gräfin</persName> bezeigte sich sehr
+                    liebenswürdig, und fand vielen Beyfall sowohl hier, als in <placeName key="prov_myp_lbv_35">Neapel</placeName>.<pb n="2"/> Im ersten Monate
+                    besahen wir zusammen mit viel Fleiß und Aufmerksamkeit alles Beobachtungswerthe,
+                    und die <persName key="prov_zzs_ptw_w5">Gräfin</persName> machte große
+                    Fortschritte in der Zeichnung. Nach ihrer Rückkunft von <placeName key="prov_myp_lbv_35">Neapel</placeName> konnte ich nicht mehr so viel um
+                    sie seyn; die Schwangerschaft der <persName key="prov_zzs_ptw_w5">Gräfin</persName> störte auch zuweilen ihre muntere, lebhafte Laune.
+                    Indeßen werden Ew. Durchlaucht eine Nebenbuhlerin in der Ghittara francese an
+                    ihr finden. <persName key="prov_tlx_cyr_xr">Trippel</persName> machte <rs type="artwork" key="prov_fyk_v5w_fz">ihre</rs>, und <rs type="artwork" key="prov_kfz_r5w_fz">des Grafen</rs>
+                    <seg type="comment">
+                        <orig>Büsten</orig>
+                        <note xml:id="nmky_y4b_gz">Die Porträtbüste Graf Leopold von Egloffstein ist
+                            verloren. Von der Büste Henriette von Egloffstein befindet sich ein
+                            alter Gipsabguss nach dem Marmororiginal im Goethe-Nationalmuseum
+                            Weimar.</note>
+                    </seg> sehr schön.</p>
+                <p>Mit dem <persName key="prov_hgm_jkw_w5">Grafen F<ex>riedrich</ex>
+                            L<ex>eopold</ex> v<ex>on</ex> Stolberg</persName>
+                    <seg type="comment">
+                        <orig>brachte ich auch einen angenehmen Monat zu</orig>
+                        <note xml:id="nnc5_ktw_fz">Vgl. 1792-05-27-a-Sophie-LaRoche mit
+                            Sachanmerkung</note>
+                    </seg>. Iezt ist er auf seiner Reise in <placeName key="prov_kw2_j4g_w5">Sicilien</placeName>
+                    . Meine übrigen Bekanntschafen waren Kurländer, Liefländer, Rußen, Pohlen,
+                    Schlesier, Sachsen, Ungarn, Engländer, worunter auch der <persName key="prov_o12_bfx_w5">Prinz August von England</persName> war. Schön war es,
+                    daß diese Fremden, die ich nach und nach alle zusammenbrachte, hier durch drey
+                    Monate einen besondern Zirkel formirten, die römischen Gesellschaften wenig
+                    sahen, und unter sich (Es waren nemlich mehrere sehr hübsche und artige Frauen
+                    dabey) äußerst angenehm lebten. Iezt erwarte ich noch aus <placeName key="prov_myp_lbv_35">Neapel</placeName> den <persName key="prov_knn_djc_x5">Fürsten v. Auersperg</persName>, nebst zwey andern Familien.</p>
+                <p>Über <placeName key="prov_kw2_j4g_w5">Sizilien</placeName>, <placeName key="prov_o5z_ypg_w5">Kalabrien</placeName> und <placeName key="prov_rm1_drg_w5">Malta</placeName> habe ich wirklich noch keine Zeit,
+                    etwas nähers zu schreiben. Ich lernte <pb n="3"/> auf dieser Reise sehr viel.
+                    Das Haus des Cav<ex>aliere</ex>
+                    <persName key="prov_cjq_qmz_x5">Gioeni</persName> in <placeName key="prov_ey3_lqg_w5">Catania</placeName> ist sehr angenehm; er hat zwey
+                    mannbare <persName key="prov_hd1_kpz_x5">Töchter</persName>, die sehr artig
+                    sind, vortrefflich singen und Klavir spielen, und einen <persName key="prov_cgv_mpz_x5">Jungen</persName> von 10 Jahren, das wahre Ebenbild
+                    vom <persName key="prov_clk_rpz_x5">Antinous</persName>. <seg type="critical">
+                        <orig>Der <persName key="prov_zb1_xqz_x5">Abbé Vella</persName> in
+                                <placeName key="prov_nyb_ksg_w5">Palermo</placeName> hatte schon
+                            vorigen Sommer angefangen, seinen arabischen Codex von den 17
+                            neuaufgefundenen Büchern des <persName key="prov_vsx_5rz_x5">T.
+                                Livius</persName> zu übersezen.</orig>
+                        <note xml:id="ndr5_hgg_1v">Die sogenannten 17 verlorenen Bücher des Livius
+                            wurden 1795/96 durch den österreichischen Philologen Joseph Hader als
+                            Fälschung entlarvt und Vella als Betrüger zu 15 Jahren Haft verurteilt.
+                            - Friedrich Münter hatte schon Mitte der 1780er Jahre den Eindruck:
+                            "Abbate Vella scheint ein anderer Annius Viterbiensis seyn und die
+                            Lükken in der Litteratur mit seinen eigenen Erdichtungen ausfüllen zu
+                            wollen: so behauptete er auch bald nach seinen ersten Entdeckungen eine
+                            arabische Uebersetzung verschiedener von den verlornen Büchern des
+                            Livius, nemlich von 66ten bis zum 77ten Buch gefunden zu haben. Allein
+                            dies ist höchstwahrscheinlich eine Betrügerei und kein vernünftiger Mann
+                            in Sicilien glaubt mehr daran. Die einzige wahre Entdekkung bleibt denn
+                            wohl die Correspondenz zwischen den Emiren in Sicilien unter sich, und
+                            mit dem Fürsten von Kairvan; die vielleicht bei dem Abbate Vella die
+                            Luft rege gemacht hat sich durch mehrere noch wichtigere Entdekkungen
+                            einen Namen zu machen" (Nachrichten von Neapel und Sicilien, auf einer
+                            Reise in den Jahren 1785 und 1786 gesammlet, von M. Friedrich Münter.
+                            Aus dem Dänischen übersezt. Kopenhagen 1790, S. 203). - In der
+                            "Allgemeinen Literatur-Zeitung" Bd. 1, Nr. 49, 16. Februar 1802, S.
+                            390f., werden in einer Rezension die Betrügereien Vellas benannt: "Ein
+                            Zögling der orientalischen Akademie zu Wien, Dr. Hager, hat dreyerley
+                            Betrügereyen zur völligen Gewissheit gebracht. 1) War der von Abbate
+                            Vella dort vorgeblich entdeckte vollständige Livius nichts als eine
+                            maltesisch-arabische Version der Epitome des Florus, so, wie Vella
+                            maltesisch-arabisch versteht. S. Hagers Reise von Warschau nach der
+                            Hauptstadt von Sicilien. (Wien 1795. 8.) 2) Ist der zwischen 1789 und
+                            1792 in vollen sechs Quartanten, mit einem Aufwand von ungefähr 10.000
+                            Kaisergulden übersetzt erschienene Codice Diplomatico di Sicilia von
+                            eben diesem Abbate, welcher dadurch Prof. der arabischen Sprache zu
+                            Palermo und Abt von St. Pancrazio wurde, nichts als eine betrügerische
+                            Zusammensetzung, welche der Vf. nicht einmal aus arabischen Quellen,
+                            sondern aus den fehlerhaften, lateinischen Uebersetzungen derselben bey
+                            Caruso und Jveges, nebst den dortigen Fehlern, aushob. [...] 3) Ist auch
+                            die auf den Codice diplomatico gefolgte Urkundensammlung: Libro del
+                            Consiglio di Egitto tradotto da Giuseppe Vella, [...] Napoli T. I. fol.
+                            1793. 370 S. ein von Vella erdichteter Briefwechsel der normännischen
+                            Fürsten Robert Guiscards und Rüdiger mit Almostanser Billah, ihrem
+                            Nachbar in Africa, in welchen zugleich Gesetze dieser Normannen
+                            eingerückt sind". - Anna Amalia hatte den Abbate im Oktober 1789 bei
+                            ihrem Aufenthalt in Neapel kennengelernt. Louise von Göchhausen schreibt
+                            u.a. am 11. Oktober 1789 in ihrem Reisetagebuch: "Vormittag war der
+                            Beichtvater und Abbate Vella bey der Herzogin [...] Der Abbate hat einen
+                            Sicilianischen Cotex in Arabischer Sprache gefunden und übersezt"
+                            (Juliane Brandsch, 2008, S. 109). An Wieland berichtet Louise von
+                            Göchhausen, Neapel, 6. Oktober 1789: "Diesen Abend werde ich die
+                            Bekandschaft vom Abate Vella machen, der aus Malta kommt und sich heute
+                            der Herzogin vorstellen läßt. Sie wissen daß er vorgiebt eine Arabische
+                            Handschrift gefunden zu haben, die er jezt übersezt, und die 10 bis jezt
+                            noch unbekande Bücher von Titus Livius enthalten soll. Da ich ohngefehr
+                            das nähmliche Talent des Klosterbruders im Nathan, zum Erforschen und
+                            auf dem Zahn zu fühlen habe, so wird diese Bekandschaft zur Ergrüntung
+                            der Warheit wohl wenig beytragen; indeßen bin ich doch neugierig einen
+                            Mann kennen zu lernen der sich rühmt daß ihm die Götter so günstig
+                            gewesen sind" (Wielands Briefwechsel, Bd. 10, Berlin 1992, Nr. 309, S.
+                            261, Z. 52-58).</note>
+                    </seg>
+                </p>
+                <p>Der <persName key="prov_trh_dwz_x5">heilige Vater</persName> hat noch immer das
+                    Fieber, <seg type="comment">
+                        <orig>das er sich in den <placeName key="prov_bmn_hvy_z5">pontinischen Sümpfen</placeName>
+                            holte</orig>
+                        <note xml:id="nckj_tdj_gz">Das malariaverseuchte
+                            Sumpfgebiet, durch das die Via Appia von Rom nach Neapel führte. Die
+                            Trockenlegung erfolgte erst im 20. Jahrhundert.</note>
+                    </seg>; deßwegen
+                    er dieser Tage den gewöhnlichen Funktionen nicht assistirte. Dazu komt noch ein
+                    großer Ärger, daß <placeName key="prov_ivl_ngg_1v">Spanien</placeName> den neuen
+                        <seg type="critical">
+                        <orig>
+                            <persName key="prov_d4b_xpl_1v">französischen Gesandten</persName>
+                        </orig>
+                        <note xml:id="ngx4_jql_1v">Der Graf de Ségur wurde 1791 von Ludwig XVI. als
+                            Nachfolger des in Rom beliebten Kardinal de Bernis als Gesandter nach
+                            Rom geschickt, aber Papst Pius VI. wollte ihn nicht annehmen. 1792 ging
+                            er als Gesandter an den Hof nach Berlin.</note>
+                    </seg> angenommen, und sich neutral erklärt hat. - Die Römer freuen sich sehr,
+                    daß die Franzosen mit den Österreichern die erstenmale so übel angekommen. Ich
+                    kann eben nicht sagen, daß ich sehr unter den Frohlockenden bin, doch würde es
+                    mir auch leid thun, wenn die Deutschen sich schlagen ließen.</p>
+                <p>
+                    <persName key="prov_xsn_1cg_f5">Bury</persName> hat eine sehr hübsche <seg type="critical">
+                        <orig>Zeichnung von dem <persName key="prov_ghl_yhl_1v">Benv<ex>enuto</ex>
+                                Garofalo</persName>
+                        </orig>
+                        <note xml:id="njyg_hll_1v">Das Original wie die Kopie konnten nicht
+                            ermittelt werden. - Bury erwähnt das Bild seinerseits in einem Brief an
+                            Goethe, Rom, 21. September 1792: er habe die Kopie vor acht Tagen nach
+                            Weimar abgeschickt.</note>
+                    </seg>
+                    <seg type="critical">
+                        <orig>auf dem <placeName key="prov_hkm_bhl_1v">Kapitol</placeName>
+                        </orig>
+                        <note xml:id="ne5m_jjl_1v">In der Pinakothek des Kapitolinischen Museums auf
+                            dem Kapitolshügel.</note>
+                    </seg> gemacht. <persName key="prov_pjy_l5r_xr">Heigelin</persName> kam hier
+                    durch, ich konnte ihn aber nicht sprechen.</p>
+                <closer rend="paragraph">
+                    <salute>Ich empfehle mich zur huldvollen Gnade Ew. Durchlaucht und verbleibe in
+                        tiefster Unterthänigkeit<lb/>Ew. Durchlaucht<lb/>unterthänigst
+                        gehorsamster</salute>
+                    <signed>Aloys Hirt.</signed>
+                    <dateline rend="align(right)">Rom den 31<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> May 1792.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

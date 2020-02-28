@@ -1,0 +1,1040 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mlr_nyt_nhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts für die Akademie der Künste: zum Zeichenunterricht, zur
+                    Einrichtung einer Kunstschule, zu einer Künstler-Akademie. Berlin, 31. Juli
+                    1809</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 2, Bl.
+                                10r-29r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebene Folio mit zahlreichen Korrekturen von Hirt sowie
+                            Anstreichungen am Rand von fremder Hand</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-07-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_fyw_2vh_4fb">Akademie der Künste, Preußische: Senat</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_f1n_1nm_pgb">AdK - Neuorganisation</term>
+                    <term key="ed_a1p_2nm_pgb">Bauakademie</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Idee <lb/>1. über den <hi rendition="#aq">Elementar</hi>unterricht im Zeichnen, <lb/>2. über
+                    die Einrichtung einer Kunstschule, und <lb/>3. über eine Künstler-Akademie
+                    <lb/>mit <lb/>Bemerkungen über die bisherigen Kunstanstalten in den
+                        K<ex>öniglich</ex> p<ex>reußischen</ex> Staaten.</p>
+                <p>_____________________________________________________</p>
+                <p><hi rendition="#u">Vorwort.</hi></p>
+                <p>Die Bestimmung des Menschen ist <hi rendition="#aq">Humanität</hi>. <lb/>Die <hi rendition="#aq">Humanität</hi> besteht in der Entwicklung der geistigen und
+                    körperlichen Kräften, vorzüglich deren welche dem Menschen eigenthümlich sind,
+                    und ihn von allen übrigen Wesen auszeichnen. <lb/>Was für den einzelnen Menschen
+                    Bestimmung ist, ist es auch für einen Verein von Menschen. Der einzelne kann nur
+                    in Gesellschaft anderer zu seiner Bestimmung hin arbeiten. <lb/>Das Hauptmittel,
+                    daß der Mensch sich in der Gesellschaft seiner Bestimmung annähere, ist die
+                    Erziehung. Daher die wißenschaftliche und ästhetische Bildung, was die Lateiner
+                    vorzugsweise <hi rendition="#aq">Humanitas</hi> nannten, bey den Griechen
+                        geradezu<foreign xml:lang="grc"> </foreign><seg type="comment">
+                        <orig><foreign xml:lang="grc"><foreign xml:lang="grc">Πα<supplied cert="high">ι</supplied>δε<hi rend="italic">í</hi></foreign>α</foreign></orig>
+                        <note xml:id="nxpc_txv_4hb">Bildung, Erziehung.</note>
+                    </seg> hieß (<hi rendition="#aq">Aul</hi><ex>us</ex>
+                    <hi rendition="#aq">Gell</hi><ex>ius</ex>
+                    <ex>Noctes Atticae</ex> 13, 16.) </p>
+                <p>Wie die Einrichtungen und Anstalten in Rücksicht der Entwicklung, Erziehung und
+                    Ausbildung des physischen Menschen beschaffen seyn sollen, überlaßen wir den <hi rendition="#aq">Physiologen</hi>, den Ärzten, den <hi rendition="#aq">Gymnasiarchen</hi> (im antiken Sinne des Wortes), den Tanz- Reit- und
+                    Kriegskünstlern. <pb n="2"/></p>
+                <p>Was das geistige Leben in einer Gesellschaft begründet, ist einerseits die
+                    Wißenschaft, und anderseits die Kunst.</p>
+                <p>Was indeßen die Anstalten für intellektuelle und moralische Bildung, oder die Art
+                    betrift, wie die Fähigkeiten des Geistes durch die Wißenschaft entwickelt, und
+                    die Neigungen und der Willen gelenkt werden sollen, davon kann hier nicht die
+                    Rede seyn. Wir überlaßen dies dem <hi rendition="#aq">Grammatiker</hi>, dem <hi rendition="#aq">Philosophen</hi>, dem Naturhistoriker, dem <hi rendition="#aq">Physiker</hi>, dem Mathematiker, dem Anthropologen, dem
+                    Sittenlehrer, dem Staatsmann, dem Gesezgeber, dem Musiker.</p>
+                <p>Es betrift einzig die Kunst, wovon wir hier einiges beybringen möchten. Nämlich
+                    1.) in wie fern ihre Elemente in die allgemeine Erziehung aufgenommen zu werden
+                    verdienten; 2.) wie die Bildung des eigentlichen Künstlers beschaffen seyn
+                    müßte, und 3.) wie man den Stand des Künstlers zum Staate zu betrachten habe,
+                    damit das Leben der Kunst nie untergehe, sondern vielmehr in anhaltender
+                    Thätigkeit erhalten werde.</p>
+                <p>Hiezu werden Einrichtungen und Anstalten erfordert, und zwar von dreyerley Art:
+                    erstlich <hi rendition="#aq">Elementar</hi>anstalten für den allgemeinen
+                    Zeichnungsunterricht, zweytens eine eigenthümliche Anstalt für die Zöglinge der
+                    Kunst, und drittens noch eine andere für die Künstler selbst.</p>
+                <p>I. <lb/><hi rendition="#u"><hi rendition="#aq">Elementar</hi>anstalten für den
+                        <lb/>allgemeinen Unterricht <lb/>im Zeichnen.</hi>
+                    <pb n="3"/></p>
+                <p>Das Zeichnen gehört zu den vornehmsten Hülfskenntnißen für die geistige
+                    Entwicklung und Bildung. Der junge Mensch erhält dadurch eine richtige und
+                    allseitige Ansicht aller so wohl von der Natur als durch die Kunst
+                    hervorgebrachter Gegenstände, und also eine richtige Beurtheilung von der
+                    Zweckmäßigkeit, Tauglichkeit, Eigenheit, und Schönheit der Dinge nach ihrer
+                    Gestalt, und zweytens machet sich dadurch der Mensch geschickt, um jeder Art von
+                    Betrieb im bürgerlichen Leben beßer zu ergreiffen, zu erlernen, und
+                    auszuüben.</p>
+                <p>Es hat in neuern Zeiten nicht an <hi rendition="#aq">Paedagogen</hi> gefehlt,
+                    welche sich von der Wichtigkeit und dem Nuzen der Aufnahme des Unterrichtes im
+                    Zeichnen unter die Gegenstände der Elementarschulen und der Gymnasien
+                    überzeugten, aber die Versuche selbst blieben zu unmächtig und ohne sichtlichen
+                    Erfolg. Theils fehlte es bis iezt an der Methode, theils an der erforderlichen
+                    Unterstüzung. Und in Wahrheit gehört eine solche zweckmäßige Einrichtung nicht
+                    unter die leichten Aufgaben des Erziehungswesens.</p>
+                <p>Es sey mir indeßen erlaubt, meine Gedanken hierüber zu eröffnen, und die
+                    Grundlinien zu bezeichnen, wie ein solcher Unterricht eingeleitet, und mit
+                    andern Lehrgegenständen verbunden werden könnte.</p>
+                <p>Der Endzweck des Zeichnungsunterrichtes in den Elementarschulen und Gymnasien muß
+                    keinesweges dahin gehen, Künstler zu bilden, oder irgend zu einem individuellen
+                    Geschäft des Lebens hinzuleiten. Man lernt das Zeichnen um des Zeichnens willen,
+                    so wie das Schreiben, das Rechnen, die Grammatik. Der Lehrling soll durch das
+                    Zeichnen <hi rendition="#u">sehen</hi> und <hi rendition="#u">beob</hi>-<pb n="4"/><hi rendition="#u">achten</hi> lernen; und jeden <hi rendition="#u">erkannten</hi> Gegenstand in den reinsten, schärfsten und bestimmtesten
+                    Umrißen darstellen können, sey es mit Hülfe der <hi rendition="#aq">Instrumente</hi>, sey es mit freyer Hand. - Hiedurch wird der Umfang
+                    bestimmt, den der <hi rendition="#aq">Elementar</hi>-Zeichnungsunterricht
+                    umfaßen soll.</p>
+                <p>Wir wollen von den Erfordernißen hiezu insbesondere sprechen:</p>
+                <p><hi rendition="#u">A. Gegenstände.</hi></p>
+                <p>1.) Zum Zeichnen ist vorerst eine geübte Hand und ein geübtes Auge nöthig. Hiezu
+                    scheint uns die von <persName key="ed_wfp_vf3_thb">Pestallozzi</persName>
+                    angenommene Methode vorzüglich: nämlich zuerst die Übung im Ziehen reiner
+                    Linien, und die Eintheilung derselben, um das Auge an ein richtiges
+                    Verhältnißmaaß zu gewöhnen; und dann zweytens die Übung in allen Arten
+                    willkührlich erfundener Planfiguren, wobey man vom <hi rendition="#aq">Quadrat</hi> ausgeht. All dies aus freyer Hand. Hiezu wird die genaue
+                    Benennung der Linien und der Figuren erfordert. <lb/>(Während dieser Übungen
+                    wird der Lehrling im Lesen, Schreiben, Rechnen, und in den Elementen der
+                    Grammatik unterrichtet)</p>
+                <p>2.) Hierauf folgt der Unterricht in den Anfangsgründen der <hi rendition="#aq">Geometrie</hi>, wobey der Lehrling die Figuren mit Lineal und Zirkel
+                    zeichnen, und überhaupt den Gebrauch der Instrumente kennen lernt. Hat es der
+                    Zögling hierin zu einiger Fertigkeit gebracht, so machet er den Anfang mit dem
+                    architektonischen Zeichnen. Hievon zeichnet er die Säulen- und Pilasterordnungen
+                    im Plan, Aufriß, Durchschnitt, im Ganzen und dann theilweise im Großen: <pb n="5"/> ferner: architektonische Glieder, Gesimse, Friese mit den
+                    Verzierungen: Unterbau, Thüren: Zierden von Fußboden und Decken.</p>
+                <p>Hievon erlernt der Zögling zugleich die genaue Benennung aller Theile und
+                    Glieder. Übrigens soll dabey keinesweges der Zweck seyn, die Architektur als
+                    Architektur zu lehren, sondern diese Übungen geschehen einzig um des Zeichnens
+                    willen, erstlich weil für denjenigen, welcher die Fertigkeit sich eigen gemacht
+                    hat, die architektonischen Ordnungen zu zeichnen, <add place="left">kein
+                        Gegenstand, den man mit Hülfe der Instrumenten darstellet, vorkommen kann,
+                        den er nicht mit Leichtigkeit zu zeichnen im Stande wäre;</add> und zweytens
+                    weil die architektonischen Verzierungen ihrer Symmetrischen Formen und
+                    Entheilungen wegen den besten Übergang von dem Zeichnen mit Instrumenten zum
+                    freyen Handzeichnen bilden.</p>
+                <p><hi rendition="#u">Anmerkung</hi>: <lb/>In wie fern die Angabe von Schatten und
+                    Licht in das <hi rendition="#aq">Elementar</hi>zeichnen aufzunehmen seyn würde,
+                    laße ich für iezt dahingestellt seyn. Im Falle aber daß ihre Aufnahme als
+                    zweckmäßig erachtet würde, müßte der Anfang hiemit bey dem architektonischen
+                    Zeichnen statt finden, weil bey keinen andern Körpern dies deutlicher gezeigt,
+                    und leichter ausgeführt werden kann. <lb/>Zweytens was die Perspektive betrift,
+                    bin ich der Meinung, daß sie in den <hi rendition="#aq">Elementar</hi>unterricht
+                    nicht aufzunehmen sey. Dies würde die Zöglinge zu weit führen; und was hievon zu
+                    ihrem Zeichnen etwa nöthig ist, läßt sich hinlänglich auf empirischem Wege
+                    erlernen.</p>
+                <p>3) von dem architektonischen Zeichnen geschieht der Übergang zum Zeichnen der
+                    Naturgegenstände. Hiebey finden wir für nöthig, im voraus, zu bemerken: <pb n="6"/>
+                    <lb/>daß wir es für sehr zweckmäßig hielten, daß in größern Schulen und
+                    Gymnasien, außer dem Rechnen, den Anfängen in der Geometrie, dem Studium der
+                    vaterländischen, <del rendition="#s">Sprache</del> und der beyden klaßischen
+                    Sprachen der Alten (eine andere neuere Sprache würde ich in den Gymnasien nicht
+                    aufnehmen) nebst dem Unterricht in <hi rendition="#aq">Geographie</hi>, <hi rendition="#aq">Mythologie</hi>, Geschichte, Poetik und <hi rendition="#aq">Rhetorik</hi> - der Unterricht in der Naturgeschichte gegeben würde. Die
+                    Gründe sind: erstlich weil sich die Jugend überhaupt gerne mit den Gegenständen
+                    der Natur beschäftigt, zweytens weil man dadurch früh ein Beobachter der Natur
+                    wird, und diese für denselben ein unerschöpflicher Quell von Lust ist, und in
+                    jede Art des praktischen Lebens eingreift, drittens weil der junge Mensch
+                    ungemein an Sprachreichthum gewinnt, und sich des Schwierigsten bemächtigt, um
+                    sich deutlich und bestimmt auszudrücken, u.s.w.</p>
+                <p>Allein wenn die Naturgeschichte diese Vortheile für Jünglinge gewähren soll, so
+                    muß sie weniger <hi rendition="#aq">Systemat</hi>ische<hi rendition="#aq">
+                        Nomenclatur</hi>, als Sachstudium seyn. Es soll die Absicht nicht dabey
+                    seyn, weder Geognostiker, Mineralogen, <hi rendition="#aq">Botaniker</hi>, noch
+                        <hi rendition="#aq">Entymologen</hi> und <hi rendition="#aq">Zoologen</hi>
+                    zu bilden, sondern bloß Naturbeobachter. Daher wünschte ich von diesen Zweigen
+                    der Naturwißenschaft nur eine Art <hi rendition="#u">Vorschule</hi>, wovon aber
+                    die Prinzipien aus der Tiefe jeder Wißenschaft selbst geschöpft wären.</p>
+                <p>Dies in den Schulen angenommen: wünschte ich nun, daß der Zeichnungsunterricht
+                    der Naturgegenstände mit den Lehren selbst gleichen Schritt hielte.</p>
+                <p>Wie die Compendien für solche Vorschulen abgefaßt seyn müßten, darüber habe ich
+                    keine Stimme; dies wäre gründlichen Männern in jedem Fache zu überlaßen. Indeßen
+                    scheint es, daß z. B. bey der <hi rendition="#aq">Mineralogie</hi> man sich auf
+                    die äußern Kennzeichen der Fossilien beschränken müßte, <pb n="7"/> und so bey
+                    der Geognostik auf den Bau der Gebirgsarten, und wie ihre mancherley
+                    Erscheinungen auf frühern und spätern Umwändlungen unserer Erdoberfläche
+                    schließen laßen.</p>
+                <p>Zum Zeichnen würde hiebey nichts vorkommen, als die Krystallisazionen, (das
+                    Zeichnen der Versteinerungen aus dem Pflanzen u. Thierreich würde hier noch
+                    nicht paßend seyn) und dann einige Gebirgskarten im Plan und Durchschnitt.</p>
+                <p>4) Hierauf folgt die <hi rendition="#aq">Botanik</hi>: das darüber zu verfaßende
+                    Compendium gehört für das <hi rendition="#aq">Forum</hi> der Sachkenner. Zu
+                    zeichnen aber wären: a) einige Baumgattungen: z. B. Nadelhölzer: Zedern, Pinien,
+                    Cypreßen, Tannen; Laubhölzer: Eichen, Platanen, Linden; Indische Holzarten, als
+                    Palmen u.s.w. Auf gleiche Weise würden einige Gattungen von <unclear reason="illegible" cert="">Gesträuchern</unclear>, und von Kräutern zum
+                    Zeichnen auszuwählen seyn. Hievon würde man einzeln zeichnen, und zwar höchst
+                    genau: die Wurzeln, den Stamm mit der Rinde, der Längen- und Querschnitt des
+                    Holzes, die Äste, die Zweige, die Blätter, die Blüthe oder Blume, die
+                    Frucht.</p>
+                <p>Die Auswahl der Zeichnungsmuster müßte so gemacht seyn, daß man sich überzeugen
+                    könnte, daß derjenige, welcher solche mit Genauheit zeichnen gelernt hat, auch
+                    jeden andern Gegenstand aus dem Pflanzenreich müste richtig zeichnen und
+                    darstellen können.</p>
+                <p>5) Eben so geschieht eine Auswahl von Zeichnenmustern von Korallgewächsen,
+                    Muscheln, Schildkröten, Krebsen und andern Schalthieren, von Fischen, Polypen,
+                    Fröschen, <del rendition="#s">Eidec</del> Krokodillen.</p>
+                <p>6) - von Insekten: Schmetterlingem, Käfern, Gewürmen, Schlangen, Eidechsen
+                    u.s.w.</p>
+                <p>7) von den Hauptgattungen der Vögel. <pb n="8"/></p>
+                <p>8) von den Hauptgattungen der Vierfüßigen Thiere - mit Hinsicht auf die
+                    Vergleichung ihres Baues nach <persName key="ed_tly_tk3_thb"><hi rendition="#aq">Camper</hi>scher</persName> Art.</p>
+                <p>9) Der Mensch: aber bloß seine nakte Gestalt mit genauer Angabe der Verhältniße:
+                    im Manne, im Weibe, im Jüngling, im Knaben, im Kinde, im Greise - und dann
+                    Zeichnung der Haupttheile - Kopf, Füße, Hände, Rumpf.</p>
+                <p>Dies sind die Gegenstände, welche ich in den Elementarunterricht im Zeichnen und
+                    zwar in der angegebenen Folge aufgenommen wünschte. Hiedruch würde der Zögling
+                    in Stand gesezt, nicht nur jede Art von Zeichnung, wozu <hi rendition="#aq">Instrumente</hi> nöthig sind, zu machen, sondern auch jeden Gegenstand der
+                    Natur frey nach seinen wesentlichen und charakteristischen Theilen darzustellen.
+                    Durch das Zeichnen ergreift der Zögling die Natur und das Wesen jedes
+                    Gegenstandes in seinem Umfang, jeder Begriff hievon ist deutlich, das Urtheil
+                    über Eigenthümlichkeit und Schönheit der Dinge ruht auf festen Basen.</p>
+                <p>Übrigens so umfaßend und schwierig dieser Zeichnungsunterricht zu seyn scheint,
+                    so ist er es nicht, weil die folgerechte Methode die Sache ungemein erleichtert,
+                    besonders wenn mit dem Zeichnen das Sachstudium immer zugleich verbunden
+                    wird.</p>
+                <p><hi rendition="#u">B. Vorschriften.</hi></p>
+                <p>1) Der erste Unterricht im Linearzeichnen bedarf keiner Vorbilder, sondern nur
+                    eine Anleitung für den Lehrer.</p>
+                <p>2) Für das architektonische Zeichnen werden die Vorschriften aus den besten
+                    architektonischen Werken ausgewählt.</p>
+                <p>3) Auch giebt es fast für alle Zweige der Naturgeschichte solche Werke, wo die
+                    Naturgegenstände in hoher Vollkommenheit abgebildet vorkommen. Hievon müßte nur
+                    von Sachverständigen das Zweckmäßige gewählt, und nachgestochen werden. <pb n="9"/></p>
+                <p>4) Zu jeder Abtheilung von Zeichnungen sind zugleich im Druck beyzufügen: a) die
+                    Erklärungen der Kupfer, und b) die nöthigen Fingerzeige über die Methode des
+                    Unterrichtes sowohl für Lehrer als Lehrling.</p>
+                <p>5) Keine Vorschrift kann aufgenommen und nachgezeichnet werden, die nicht von der
+                    Behörde vorgeschrieben ist.</p>
+                <p>6) Jedes Heft von Zeichnungen muß einen fixen und möglichst wohlfeilen Preis
+                    haben.</p>
+                <p>7) Die Zeichnungen und Kupferblätter müßen die Gegenstände nach ihren Umrißen in
+                    möglichster Genauheit und Vollkommenheit darstellen.</p>
+                <p>8) Die Vorschriften können entweder auf Unkosten der Behörde selbst, oder von
+                    Privatunternehmern mit Bewilligung, Beurtheilung und <hi rendition="#aq">Garantie</hi> der Behörde gemacht werden.</p>
+                <p>9) Nebst den gestochenen Vorschriften müßen, wo es nöthig ist, die erklärenden
+                        <hi rendition="#aq">Compendia</hi> über jeden Zweig der Naturgeschichte
+                    vorhanden seyn; für manchen Naturzweig auch selbst kleine wirkliche Sammlungen,
+                    wie z. B. von Fossilien, auch wo es nöthig ist, Modelle, z. B. von geometrischen
+                    Körpern, von Krystallen, von Architekturtheilen.</p>
+                <p><hi rendition="#u">C. Materialien.</hi></p>
+                <p>Es ist wesentlich, daß alle zum Zeichnen erforderlichen <hi rendition="#aq">Instrumente</hi> und Materialien in bestimmter Güte, Größe, Form vorhanden
+                    seyn, und einen bestimmten Preis haben, als: Schiferplatten, Papier, Bleystifte,
+                    Kreide, Gummi, Reißzeuge, Reißbreter, Lineale, Winkelmaaße, Futterale, u.s.w.
+                        <pb n="10"/></p>
+                <p>Was nicht von der Behörde <hi rendition="#aq">approbirt</hi>, völlig normalmäßig,
+                    und von bestimmtem Preise ist, darf nicht gekauft werden. Hierüber müßten die
+                    Verfertiger genaue Vorschriften haben, und daher würde jedes, was mangelhaft
+                    wäre, zurückgesandt. Die Unternehmer und Verkäufer solcher Objekte würden auf
+                    das Ganze gewinnen, und für die Zöglinge und den guten Fortgang der Schulen ist
+                    es keinesweges gleichgiltig, all dergleichen in gehöriger Form, Güte und
+                    Wohlfeilheit zu haben.</p>
+                <p><hi rendition="#u">D. Lehrer.</hi></p>
+                <p>1) Nur derjenige kann Anspruch auf eine Lehrstelle machen, der in der Normal
+                    genau unterrichtet ist, und Beweise seiner Geschicklichkeit und guten Art im
+                    Unterrichte gegeben hat.</p>
+                <p>2) muß er nicht bloß Zeichner seyn, sondern auch Sachkenntniße besizen, nämlich
+                    methodisch, wie es für eine Vorschule nöthig ist, den Unterricht zugleich im
+                    Wißenschaftlichen ertheilen. Hiezu wäre eine Art von <hi rendition="#aq">Seminarium</hi> für Lehrer erforderlich; wenigstens in der erstern Zeit.
+                    Übrigens glaube ich nicht, daß die Sache, wie es manchem scheinen möchte, zu
+                    schwierig und umfaßend wäre.</p>
+                <p>3) Wäre eine Lehrstelle zu besezen, so könnten nur die Qualifizirten in Vorschlag
+                    kommen, und von der Behörde angenommen werden.</p>
+                <p>4) Die Pflichten der Lehrer wären: genaue Abwartung der Lehrstunden, Aufsicht auf
+                    Ordnung, gute Erhaltung der Vorschriften, Korrektur beym Zeichnen, Durchsicht
+                    des Geschriebenen und der Aufsäze überhaupt, fleißiges Examiniren etc.</p>
+                <p>5) Bey Anstalten, wo alle Zeichnungsklassen im Gange wären, <pb n="11"/> würden
+                    zwey Lehrer erford<supplied cert="high">er</supplied>lich seyn, nämlich einen
+                    für das Linearzeichnen, für das geometrische und architektonische Zeichnen, und
+                    für die Vorschule in <hi rendition="#aq">Mineralogie</hi> und <hi rendition="#aq">Geognostik</hi>, und dann einen andern für die übrigen
+                    naturhistorischen Abtheilungen. Im Nothfall und bey kleinern Anstalten könnte
+                    allenfalls auch <hi rendition="#u">Ein</hi> einziger Lehrer den ganzen
+                    Unterricht übernehmen.</p>
+                <p><hi rendition="#u">E. Erforderniße und Unkosten.</hi></p>
+                <p>1) Es wären erforderlich: 1) Das Lokale mit den nöthigen Behältnißen und
+                    Schränken, dann Stühle, Tische u.s.w. 2) die Heitzung, 3) die Erleuchtung; 4)
+                    Besoldung der Lehrer, 5) Das Aufbringen kleiner naturhistorischer Sammlungen, 6)
+                    der Vorschriften (7) die Lehrbücher, Materialien, <hi rendition="#aq">Instrumente</hi> u.s.w. sind von den Schülern selbst aufzubringen.)</p>
+                <p>2) Die Unkosten werden theils von der Gemeine, theils durch die <hi rendition="#aq">Frequenz</hi> der Lehrlinge aufgebracht. Der Staat giebt für
+                    solche <hi rendition="#aq">Elementar</hi>anstalten nichts.</p>
+                <p>3) Der Unterricht im Zeichnen darf nirgends <hi rendition="#aq">etablirt</hi>
+                    werden, bis die Gemeine, oder sonst eine Gesammtanstalt, ein Gymnasium nicht die
+                    Zulänglichkeit der <hi rendition="#aq">Fonds</hi> zu dem nöthigen Unterhalt
+                    erwiesen hat. Dann kann aber die Gemeine bey der Staatsbehörde hierwegen
+                    einkommen. Die Ökonomie- und Ordnungsaufsicht bleibt der Gemeine, die innere
+                    Einrichtung, der Fortgang, Besezung der Stellen u.s.w. geschieht nach dem von
+                    der Oberbehörde vorgeschriebenen Normalgang. <lb/>(Stiftungen laßen sich zu
+                    Gunsten eines solchen Unterrichtes machen: doch <pb n="12"/> nur solche, welche
+                    zweckbefördernd sind. Willkührliche Anordnungen der Stifter werden nicht <hi rendition="#aq">respectirt</hi>, und angesehen, als wenn sie nicht gegeben
+                    wären; die zweckmäßige Verwendung schreibt die Behörde vor.)</p>
+                <p>4) was den Beytrag der einzelnen Schüler betrift, und ob unter der ärmern Klasse
+                    Freyschüler und wie viele seyn sollen, hängt von den Gemeinen und den Stiftern
+                    ab.</p>
+                <p>5) Der <hi rendition="#aq">Elementar</hi>zeichnungsunterricht besteht nirgend für
+                    sich selbst - als eine besondere Anstalt - sondern er ist immer mit dem
+                    gemeinsamen Unterrichte in andern Dingen verbunden, theils mit den <hi rendition="#aq">Elementar</hi>schulen überhaupt, theils mit den Gymnasien.
+                    Übrigens kann man an Gymnasien am Zeichnenunterricht theil nehmen, ohne andere
+                    Fächer, z. B. die höhern Sprachfächer, Mathematik etc. zu frequentiren, aber
+                    kein Gymnasiast kann den Zeichnungsunterricht vorbeygehen. <lb/>Übrigens bleibt
+                    der Zögling ohne Rücksicht der Fortschritte in andern Fächern und Classen so
+                    lange in derselben Zeichnungsklasse, bis er die Fähigkeit erreicht hat, in eine
+                    höhere überzugehen.</p>
+                <p><hi rendition="#u">F. Aufsicht und Vorsorge.</hi></p>
+                <p>1) Die Oberaufsicht führt der Staat durch jene Behörde, welche der Erziehung, den
+                    Schulen, und den Gelehrten- und Kunstanstalten überhaupt vorsteht: und zwar in
+                    Rücksicht des Sächlichen mit Hülfe der Akademie, und in Rücksicht des
+                    Ökonomischen mit Hülfe der Vorsteher der Gemeinen, oder der Stiftungen.</p>
+                <p>2) In sächlicher Rücksicht steht der Akademie zu: a) die Prüfung <pb n="13"/> der
+                    Qualification der Kandidaten zu den Lehrstellen, und der Vorschlag an die
+                    Oberbehörde, welche aus drey Candidaten einen zu wählen hat. -
+                    Privaterziehungsanstalten können die Lehrer willkührlich, doch nur aus der
+                    Klasse der Geprüften, wählen.</p>
+                <p>3) in Rücksicht der Prüfung ist zu bemerken, daß, da die Candidaten nicht bloß
+                    Zeichner seyn, sondern auch zugleich wißenschaftlich unterrichten sollen, die
+                    Prüfung nicht bloß den Akademikern, welche Künstler sind, zusteht, sondern zur
+                    Prüfung über die <hi rendition="#aq">Qualification</hi> auch Mitglieder von
+                    andern akademischen Fächern als ein <hi rendition="#aq">Geometer</hi>, ein <hi rendition="#aq">Mineralog</hi>, <hi rendition="#aq">Botaniker</hi>, <hi rendition="#aq">Zoolog</hi> und <hi rendition="#aq">Zootom</hi> zuzuziehen
+                    sind.</p>
+                <p>4) Unter der Leitung eines Ausschußes von akad<ex>emischen</ex> Künstlern u.
+                    Gelehrten werden die Vorschriften, die Lehrbücher, die Naturaliensammlungen
+                    gemacht; und Niemand darf irgend eine Abänderung in dem Unterrichte vornehmen,
+                    ohne die Sache erst durch die Oberbehörde an den Ausschuß gebracht zu haben,
+                    welcher dann die Zweckmäßigkeit der neuen Vorschläge prüft, gutheißt,
+                    verwirft.</p>
+                <p>5) Auch die Materialien und Instrumente bestimmt der Ausschuß, ja selbst die
+                    Norm, wie das Lokale, die Säle, Schränke, Beleuchtung u.s.w. am besten
+                    einzurichten sind.</p>
+                <p>6) mit dem Ökonomischen befaßt sich übrigens der Ausschuß nicht: dies ist die
+                    Sache der Oberbehörde mit den Gemeinen.</p>
+                <p><hi rendition="#u">G. Technologischer Unterricht.</hi></p>
+                <p>Daß die Technologie viel Nuzen gewähre, daran ist nicht zu zweifeln. <pb n="14"/>
+                    <lb/>Ob aber der Unterricht in der Technologie mit Schulen und Gymnasien zu
+                    verbinden sey, oder erst an den <hi rendition="#aq">Universitäten</hi> statt
+                    finden soll, dafür würde sehr viel dafür und dawider zu sagen seyn. Dies laße
+                    ich aber andern zu entscheiden über.</p>
+                <p>Vielen mag aber auffallen, daß ich nichts Technologisches (keine technologischen
+                    Gegenstände) in den <hi rendition="#aq">Elementar</hi>zeichnungsunterricht
+                    aufnahm, da doch die Kenntniß derselben überall so wesentlich in das bürgerliche
+                    Leben und Treiben eingreifft.</p>
+                <p>Hierauf antworte ich: daß ich das Zeichnen technologischer Gegenstände ohne die
+                    Lehre derselben für ganz zweckwidrig halte. Bey dem Zeichnensunterrichte aber
+                    muß man auf solche Gegenstände Rücksicht nehmen, welche eine allgemeine Norm
+                    geben; dies sind die geometrischen Figuren, die Architektur, und die Nachahmung
+                    einer Auswahl charakteristischer Naturgegenstände aus den verschiedenen Reichen.
+                    Wer sich eine Fertigkeit in Zeichnung dieser Art Gegenstände erworben hat, dem
+                    darf man das Zeichnen der technologischen Gegenstände nicht besonders lehren,
+                    weil er bereits jede Sache, welche ihm hievon vorkomt, wirklich zeichnen kann,
+                    so bald er sie nur sieht, und kennen lernt.</p>
+                <p>Wir würden daher solche Arten von technologischen Zeichnungsanstalten ganz
+                    aufheben, da sie nie Zeichner bilden, sondern nur sehr unvollkommen einzelne
+                    Dinge zeichnen lehren, wo der Lehrling bey der geringsten Abweichung oder
+                    Neuheit eines Gegenstandes sich nicht zu helfen weiß, viel weniger aber
+                    Geschmack und Einsicht in die Natur der Dinge erhält.</p>
+                <p>Das Studium der Technologie kann also meinetwegen als eine besondere Klasse an
+                    die Gymnasien, oder an die Universitäten angereiht werden. Dies ist für die
+                    Sache gleichgiltig, wenn der Lehrling nur vorher die Elementarzeichnungsklassen
+                    durchgegangen ist, denn durch die Kenntniß des Zeichnens wird er jedes
+                    Technologische leichter ergreiffen, weil er durch das Selbstzeichnen sich jedes
+                    sogleich versinnlichen kann. <pb n="15"/></p>
+                <p>II. <hi rendition="#u"><lb/>Kunstschule</hi></p>
+                <p>Ein Staat muß dahin sehen, daß durch eine zweckmäßige Erziehung der industriöse
+                    und gebildetere Theil nicht bloß allgemeine Kenntniße vom Zeichnen habe; Es
+                    müßen auch Künstler selbst vorhanden seyn. Dies ist aber nur unter der Bedingung
+                    einer Anstalt möglich, welche die Bildung des Künstlers in's besondere zur
+                    Absicht hat. Wie schwer aber die Organisirung einer solchen Anstalt sey, geht
+                    zur Genüge aus dem hervor, daß die Staaten seit Jahrhunderten es sich angelegen
+                    seyn laßen, solche <hi rendition="#aq">Institute</hi> zu errichten und zu
+                    schüzen, ohne daß eben der Erfolg den gerechten Erwartungen entsprochen hätte.
+                    Viele, selbst denkende Kunstfreunde, kamen daher auf den Gedanken, daß es beßer
+                    seyn würde, die Kunst und die Künstler sich selbst zu überlaßen. Solche zu
+                    widerlegen bedarf es indeßen hier nicht. Ein Künstler muß nicht bloß <hi rendition="#u">schaffen</hi>, er muß auch <hi rendition="#u">wißen</hi>, und
+                    zwar wißen, und sehr richtig wißen, ehe er schafft, sonst werden seine
+                    Schöpfungen nur zu bald und zu deutlich den Mangel seines Wißens und die
+                    Unzulänglichkeit seiner Kunst und seiner Fähigkeiten verrathen.</p>
+                <p>Da wir also den Bedarf einer Kunstschule außer Zweifel setzen, so sind folgende
+                    die Gesichtspunkte, aus denen wir eine Organisation derselben gewürdigt zu sehen
+                    wünschten.</p>
+                <p>1) Der Elementarunterricht im Zeichnen geschieht auf Unkosten der Gemeinen, und
+                    der Staat muß trachten, ihn so allgemein wie möglich zu machen. Bey dem
+                    Kunstunterricht ist es anders. Der Staat bedarf nur einer mäßigen Anzahl
+                    wirklicher Künstler, so wie anderseits schon die Natur dafür sorgte, daß die
+                    Kunsttalente nie überflüßig seyen. In einem mäßig großen Staate ist <hi rendition="#u">eine</hi> Kunstschule hinreichend, doch muß sie für jeden
+                    offen stehen, der die <hi rendition="#aq">Qualification</hi> dazu hat. Übrigens
+                    da es eine <hi rendition="#aq">General</hi>anstalt ist, so muß die <pb n="16"/>
+                    Einrichtung und der wesentliche Kostenbetrag auf Rechnung des Staates geschehen.
+                    Nur um die Menge abzuschrecken, müßte eine Matrikel gelöst, und von jedem
+                    Zögling ein jährliches <hi rendition="#aq">Honorar</hi> an die Schulkasse
+                    bezahlt werden. Freystellen dürften nur in geringer Zahl seyn.</p>
+                <p>2) <hi rendition="#u"><hi rendition="#aq">Qualification</hi> und Aufnahme der
+                        Schüler.</hi></p>
+                <p>Um in die Kunstschule aufgenommen zu werden, müßte man den Gesammtkursus des <hi rendition="#aq">Elementar</hi>unterrichtes vollendet, und durch
+                    Probezeichnungen dargethan haben, daß Talent und Willen vorhanden sind, welche
+                    versprechen, der Unterricht werde nicht verloren gehen. Denn so wie der
+                    wirkliche Künstler die wahre Zierde des Staates ist, so ist anderseits nichts
+                    bedauerungswürdiger als ein mißrathener Kunstmann.</p>
+                <p>Außer dem erprobten Talente sollte man auch auf die Vermögensumstände der
+                    Zöglinge Rücksicht nehmen. Die Kunstbildung fordert lange Zeit und ein freyes
+                    Gemüth. Wer durch Nahrungsumstände bedrückt wird, und zu früh an Brodterwerb
+                    denken muß, bleibt leicht zurück und verkrüppelt. Für ausgezeichnete Talente
+                    könnte es indeßen nicht nur Freystellen, sondern selbst Stipendia geben.</p>
+                <p>3) <hi rendition="#u">Gegenstände</hi>.</p>
+                <p>Die Kunstschule umfaßt die Architektur, und die bildende Kunst.</p>
+                <p>Die erste begreift den Bau überhaupt in sich, und scheidet sich bloß in so fern
+                    in Zweige, als der Bau seine verschiedenen Anwendungen leidet. Der Waßerbau,
+                    Schiffbau, Festungsbau unterscheidet sich vom Civilbau bloß durch die Anwendung
+                    der Grundsäze des leztern auf andere Zwecke, wozu andere Hülfswißenschaften
+                    erforderlich sind. Die Hülfswißenschaften aber, scheint <pb n="17"/> uns,
+                    gehören nicht für das <hi rendition="#aq">Forum</hi> der Kunstschule, sondern
+                    müßen zu den <hi rendition="#aq">Universitäten</hi> gezogen werden.</p>
+                <p>Für das Studium der Architektur bestimmen wir an der Kunstschule folgende Fächer:
+                    <lb/>1) Die Lehre der Perspektiv und <hi rendition="#aq">Optik</hi>. <lb/>2) Die
+                    Lehre der eigentlichen Architektur - mit Rücksicht auf alle zur <hi rendition="#aq">Construction</hi>, und zur Verzierung gehörigen Theile.
+                    <lb/>3) Die Lehre der zum Bau erforderlichen Maschinerien nebst den
+                    Hauptgrundsäzen der <hi rendition="#aq">Statik</hi> und <hi rendition="#aq">Hydrostatik</hi>. <lb/>4) Die Lehre aller Arten Gebäude, welche in den <hi rendition="#aq">Civilbau</hi> eingreiffen, (davon sind die Ökonomiegebäude
+                    nicht ausgeschloßen)</p>
+                <p>Dagegen werden die für die nähere Ausbildung des Architekten erforderlichen
+                    Hülfswißenschaften, als: Geschichte oder <hi rendition="#aq">Archæologie</hi>
+                    der Baukunst, angewandte Mathematik, <hi rendition="#aq">Physik</hi>, Chymie,
+                        <hi rendition="#aq">Dendrologie</hi>, <hi rendition="#aq">Mineralogie</hi>,
+                    Baupolizey etc. nicht an der Kunstschule, sondern an der <hi rendition="#aq">Universität</hi> gelehrt, wohin der Zögling hierwegen zu verweisen ist.</p>
+                <p>Die Bildende Kunst begreift unter sich die Bilderhauerey und Mahlerey, mit den
+                    sich anschließenden Künsten, der Stempel- und Steinschneiderey, der
+                    Kupferstecherey u.s.w.</p>
+                <p>Die Bildende Kunst ist nachahmend, und beschäftiget sich mit allem dem was
+                    sichtbar ist, doch vornehmlich mit der Nachahmung hochorganisirter Wesen, an
+                    deren Spitze der Mensch ist.</p>
+                <p>Die Lehrfächer für die Zöglinge der bildenden Kunst an der Kunstschule sind
+                    folgende: <pb n="18"/></p>
+                <p>1) Die Lehre der Perspektiv und <hi rendition="#aq">Optik</hi> - gemeinsam mit
+                    den Zöglingen der Architektur.</p>
+                <p><hi rendition="#u">Anmerk<ex>ung</ex></hi> Der Bildner bedarf zwar dieser
+                    Kenntniße weniger als der Mahler, indeßen da diese Lehre eine so mannigfache
+                    Ansicht der Dinge gewährt, so würden wir doch keinem Zögling der Bildkunst
+                    erlauben, sie vorbeyzugehen.</p>
+                <p>2) Die Lehre der <hi rendition="#aq">Osteologie</hi> und <hi rendition="#aq">Myologie</hi> mit Hinsicht auf die <hi rendition="#aq">Statik</hi> und
+                    Beweglichkeit des menschlichen Baues; und der Verhältniße nach dem verschiedenen
+                    Alter u. Geschlecht.</p>
+                <p>3) Lehre der nakten Natur, verglichen mit den Denkmälern. Diese Vergleichung
+                    würde besonders die wichtige Lehre einprägen, wie die Alten und andere große
+                    Künstler neuerer Zeiten aus der Natur abstrahirten, um ihre charakteristischen
+                    Ideale zu gestalten u.s.w.</p>
+                <p>Erst in dieser <hi rendition="#aq">Classe</hi> würde der Bildner vom Zeichnen
+                    abgehen, und in Thon zu modelliren anfangen.</p>
+                <p>4) Die Lehre der Bekleidungen theils nach der Natur, theils nach Gliedermännern,
+                    verglichen mit den Antiken - mit Inbegriff der Kenntniß der verschiedenen
+                    Stoffe, der Kleiderstücke, und ihres Schnittes nach den verschiedenen Nationen
+                    u. Zeiten.</p>
+                <p>5) Die Lehre der Beleuchtungen und der FarbenEffekte überhaupt, zugleich mit
+                    einer chemischen Farbenlehre, und der Temperatur der Farben.</p>
+                <p><hi rendition="#u">Anmerkung:</hi>
+                    <lb/>a) Für Thier- Landschaft- und <hi rendition="#aq">Decoration</hi>smahlerey
+                    giebt es keine besondere Lehre. <pb n="19"/> Außer dem Elementarunterricht im
+                    Zeichnen können die Zöglinge, welche sich solchen Fächern wiedmen wollen, bey
+                    der Kunstschule noch Perspektiv und Optik, zugleich mit der Farbenlehre
+                    frequentiren. Übrigens werden sie an die Natur, und an ihren eigenen Fleiß
+                    verwiesen. Die öffentliche Aufsicht des Staates nimmt keine Notiz über ihre
+                    fernere Ausbildung. Eben so verhält er sich in Rücksicht der Geflügel- Früchten-
+                    Blumenmahler.</p>
+                <p>b) Was die nähere Technik der verschiedenen Kunstfächer betrift, damit befaßt
+                    sich die Kunstschule auch nicht, sondern die Zöglinge werden hierin an die
+                    Werkstätte der praktischen Meister verwiesen, doch erst dann wenn sie aus der
+                    Kunstschule entlaßen sind. Das Schnitzen in Holz, das Arbeiten in Stein u.
+                    Marmor, das Bilden in Erz sowohl durch Treiben, als Gießen, das Stempel- und
+                    Steinschneiden, die verschiedenen Arten der Kupferstecherey u.s.w. wird bey den
+                    einzelnen Meistern gelehrt, an die die Zöglinge sich nach belieben wenden, und
+                    über die Bedingungen übereinkommen mögen.</p>
+                <p>c) mit dem Studium der obgenannten Fächer an der Kunstschule, und der Übung im
+                    technischen sind indeßen die Studien des bildenden Künstlers noch nicht
+                    vollendet. Der Künstler muß nicht bloß <hi rendition="#u">machen</hi> können, er
+                    muß auch <hi rendition="#u">wißen</hi>, oder intellektuell und ästhetisch
+                    gebildet seyn, wenn seinen künftigen Werken der <hi rendition="#u">innere</hi>
+                    Gehalt nicht fehlen soll. Die Lehren, welche ihn näher hiezu führen, sind: <hi rendition="#aq">Aesthetik</hi>, Empirische <hi rendition="#aq">Psychologie</hi>, Mythologie, Geschichte überhaupt, Kunstgeschichte und <hi rendition="#aq">Archaeologie</hi> in's besondere.</p>
+                <p>Indeßen scheint es, gehören diese Lehrfächer nicht für die Kunstschule, sondern
+                    für die allgemeine Schule, die <hi rendition="#aq">Universität</hi>, wohin
+                    deswegen der Zögling verwiesen wird. <pb n="20"/></p>
+                <p>4) <hi rendition="#u">Sammlungen, Modelle, Vorschriften, Lokale.</hi></p>
+                <p>Die I<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    <hi rendition="#aq">Classe</hi> der Perspektiv und <hi rendition="#aq">Optik</hi> bedarf eigentlich keiner Vorschriften, da die Zöglinge bereits
+                    müßen architektonisch zeichnen können. Ein <hi rendition="#aq">Compendium</hi>,
+                    nach welchem der Lehrer seine Säze vorträgt, und arbeiten läßt, muß indeßen
+                    vorhanden seyn; und so würde es auch zweckmäßig seyn, die jährlichen Probe- oder
+                        <hi rendition="#aq">Concurrenz</hi>-Zeichnungen in dem Lokale der <hi rendition="#aq">Classe</hi> aufzubewahren.</p>
+                <p>Das Lokale der <hi rendition="#aq">Classe</hi> selbst muß geräumig, und so
+                    eingerichtet seyn, um die mannigfältigsten Arten von Künstlichen Beleuchtungen
+                    (wozu besondere Einrichtungen der Fenster, Lampen, Stoffe, Spiegel etc. gehören)
+                    veranstaltet werden können. (Hiezu könnte der Saal dienen, worin auch nach dem
+                    Leben, und nach Gewändern studirt würde).</p>
+                <p>Die II<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    <hi rendition="#aq">Classe</hi> der <hi rendition="#aq">Osteologie</hi> u. <hi rendition="#aq">Myologie</hi> bedarf: 1) mehrere Skelete, 2) große
+                    anatomische Zeichnungen mit Bemerkungen der Verhältniße, der Benennungen, 3)
+                    anatomische Gypsmodelle, 4) ein Compendium, nach welchem der Lehrer das <hi rendition="#aq">osteologisch-myologische</hi> Studium vorträgt.</p>
+                <p>Die III<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    <hi rendition="#aq">Classe</hi> der Nakten Natur und des Antiken bedarf: 1)
+                    einen hinreichenden <hi rendition="#aq">Fon</hi>d, um die lebendigen Modelle von
+                    verschiedenem Alter und Geschlecht, so wie der Erfolg des Studiums sie
+                    erfordert, zu bezahlen, 2) einen hinreichenden Systematisch geordneten Vorrath
+                    von Abgüßen antiker Statuen, Büsten, <hi rendition="#aq">Reliefs</hi>, 3) ein
+                    Lokale, das schicklich erleuchtet werden kann, 4) ein Compendium, das den Gang
+                    und die Übersicht des Studium nach Abschnitten enthält.</p>
+                <p>Die IV<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    <hi rendition="#aq">Classe</hi> der Bekleidungen erfordert: 1) einige gut
+                    gemachte Gliedermänner, 2) Kleidungen von verschiedenem Schnitt, Stoff, Farbe,
+                    und Materie, 3) ein <hi rendition="#aq">Compendium</hi> über den Gang dieses
+                    Studiums. <pb n="21"/></p>
+                <p>Die V<hi rendition="#sup"><hi rendition="#u">te</hi></hi>
+                    <hi rendition="#aq">Classe</hi>: Chemische Lehre der Farben u. ihrer Temperatur:
+                    hiezu ein Compendium, wobey auch die Technik anderer Kunstfächer kurz
+                    abgehandelt werden könnte. (Doch gehörte vielleicht diese ganze <hi rendition="#aq">Classe</hi> nicht mehr für die Kunstschule, sondern für die
+                        <hi rendition="#aq">Universität</hi>)</p>
+                <p>5) <hi rendition="#u">Lehrer</hi></p>
+                <p>Nach den bisher angegebenen <hi rendition="#aq">Objekten</hi>, welche in der
+                    Kunstschule zu lehren wären, würde folgende Anzahl Lehrer erforderlich seyn:
+                    <lb/>a) Einer für die Perspektiv und <hi rendition="#aq">Optik</hi>: wo die
+                    Zöglinge der Baukunst und der bildenden Kunst zugleich frequentiren würden.
+                    <lb/>b) Einer für die eigentliche Lehre der Architektur: welcher auch zugleich
+                    das Fach der zum Bauwesen erforderlichen Maschinen übernehmen könnte. <lb/>c)
+                    Einer für die Lehre der Gebäude. Inbegriffen die ökonomischen oder Landgebäude.
+                    <lb/>d) Einer für die <hi rendition="#aq">Osteologie</hi> u. <hi rendition="#aq">Myologie</hi>. <lb/>E) Einer für das Studium des Nackten und der Antiken.
+                    <lb/>f) Einer für die Bekleidungen, welcher auch zugleich die Farbenlehre
+                    übernehmen könnte.</p>
+                <p>Die Anstalt bedarf weiter eine Art von Oekonomieaufseher über alle zur Anstalt
+                    gehörigen Objekte, und einen Diener.</p>
+                <p>Zur Handhabung der innern Polizey, Aufnahme, Versetzung, Entlaßung der Zöglinge
+                    u.s.w. würden die Lehrer unter sich alle Jahre einen Aufseher, oder <hi rendition="#aq">Rektor</hi> wählen. Die Lehrer würden zwar unter sich keine
+                    bestimmten Sizungen halten, sondern nur dann, wenn der <hi rendition="#aq">Rektor</hi> sie dazu aufforderte <add place="left">oder durch seine
+                        Collegen dazu veranlaßt würde</add>. Die <hi rendition="#aq">Visitation</hi>
+                    hätte die Akademie, und die Oberaufsicht des Ganzen der Staatsrath des
+                    öffentlichen Unterrichts. <pb n="22"/></p>
+                <p>Die <hi rendition="#aq">Qualification</hi> der Lehrer (welche für jedes Lehrfach
+                    näher zu bestimmen wäre) prüfte die Akademie, und die Wahl bliebe nach
+                    vorhergegangener Prüfung dem Staatsrath.</p>
+                <p>6) <hi rendition="#u">Andere nähere Bestimmungen</hi>.</p>
+                <p>1) Ansuchen, Wünsche, Vorschläge gehen von den Lehrern an die Akademie, und von
+                    dieser zur Oberbehörde, wenn es nämlich Sachen betrift, die Unkosten machen.</p>
+                <p>2) alle Jahre verfertigen die Lehrer Listen a) über die Fortschritte und
+                    Versezung der Zöglinge; b) am Ende jedes <hi rendition="#aq">Cursus</hi> wird in
+                    jedem Fache eine Aufgabe gegeben, und derjenige Zögling, welcher das beste
+                    Probestück machet, erhält nach dem Urtheil nicht der Lehrer, sondern der
+                    Akademie ein <hi rendition="#aq">Præmium</hi>, bestehend in einer <hi rendition="#aq">Medaille</hi>, und die <hi rendition="#aq">præmirten
+                    </hi>Stücke erhalten einen besondern Platz bey der <add place="left">öffentlichen</add> Ausstellung; c) von vier Jahren zu vier Jahren wird ein
+                    Konkurs für Reisepræmien eröffnet: an diesem können alle<hi rendition="#aq">
+                        absolvirten</hi> Zöglinge der Akademie (welche zugleich Zeugniße darbringen,
+                    daß sie auch die <hi rendition="#aq">respectiven</hi> Fächer an der <hi rendition="#aq">Universität</hi> frequentirt haben) theil nehmen. Es ist
+                    diesfalls ein <hi rendition="#aq">Concurs</hi> für die Architekten, einer für
+                    die Bildhauer, und einer für die Mahler. Die Præmirten in der Baukunst u.
+                    Bildnerey reisen drey, der Præmirte in der Mahlerey vier Jahre.</p>
+                <p>3) Jeder Lehrer hat die zu seinem Fache erforderlichen Vorschriften u. Sammlungen
+                    unter seiner unmittelbaren Aufsicht, aber zur Hülfleistung kann er hiebey sich
+                    des Ökonomie<hi rendition="#aq">inspectors</hi> u. Dieners bedienen.</p>
+                <p>4) Die Zöglinge stehen an der Kunstschule in der Cathegorie der Gymnasiasten; als
+                    Lehrlinge der Hülfswißenschaften aber an der <hi rendition="#aq">Universität</hi> in der Cathegorie der Studiosen. <pb n="23"/></p>
+                <p>7) <hi rendition="#u">Überschlag der jährlichen Unkosten</hi>.</p>
+                <p><hi rendition="#u">ordentliche Ausgaben</hi>: <lb/>a) Sechs Lehrer (jeder mit
+                    einem Gehalte von 700. R<ex>eichs</ex>th<ex>a</ex>l<ex>er</ex> machen jährlich 4
+                    200. <lb/>b) dem zeitigen <hi rendition="#aq">Rector</hi> in's besondere - 100.
+                    <lb/>c) dem <hi rendition="#aq">Oekonomieinspector</hi> - 400. <lb/>d) zwey
+                    Dienern oder Pedellen - 300. <lb/>E) an jährlichen <hi rendition="#aq">Præmien</hi>, jedes zu 3. Rthl, und sechs an der Zahl - 18. <lb/>f)
+                    Reisepræmien jedes zu 600 Rthl jährlich - machen zusammen alle vier <lb/>Jahre
+                    6000 Rthl - also komt auf jedes Jahr die Summe von - 1 500.</p>
+                <p><hi rendition="#u">außerordentliche:</hi>
+                    <lb/>g) für lebendige Modelle im Durchschnitt jährlich - 350. <lb/>h) für
+                    neuanzuschaffende Vorschriften und Vermehrung der Sammlungen <lb/>Gypse,
+                    Gewänder u. Gliedermänner p. 500. <lb/>i) für <hi rendition="#aq">Reparaturen</hi> des Lokals und der Sammlungen - 200. <lb/>l) für Heizung
+                    und Licht - <unclear reason="illegible" cert="">6</unclear>00.
+                    <lb/>_______________________________________________________________________________ <lb/>
+                    <hi rendition="#aq">Summa</hi> Unkosten jährlich rth - 7 668. </p>
+                <p>Die Einnahme der Kunstschule bestünde in den Antritts- und Lehrgeldern der
+                    Zöglinge, welches etwa für die Casse so viel betragen dürfte, um Heizung und
+                    Licht zu bestreiten: also bliebe nach Abzug von 300 Rthl. die jährliche Summe
+                    gesammter Unkosten / 7 368 Rthl. </p>
+                <p>Würde die oberste Finanzbehörde die jährliche Ausgabe für das Gesammte der
+                    Kunstschule auf die runde Summe von 8 000 Rthl. bestimmen, so würde der
+                    Staatsrath, dem die Anstalt in höherer <hi rendition="#aq">Instanz</hi>
+                    anvertraut ist, mit großer <hi rendition="#aq">Liberalität</hi> zu Werke gehen,
+                    und sich versichern können, daß die Anstalt blühend werden, und sich als solche
+                    erhalten müßte.
+                    <lb/>_______________________________________________________________________________________________________________________________
+                        <pb n="24"/></p>
+                <p>III. <hi rendition="#u">Die Kunstakademie</hi></p>
+                <p>Die dritte für die Aufnahme der zeichnenden Künste in einem Staate erforderliche
+                    Anstalt ist die Akademie. Sie soll das für die Kunst seyn, was die Akademie der
+                    Gelehrten für die Aufnahme der Wißenschaften.</p>
+                <p>Der Endzweck der Akademie ist <hi rendition="#u">nicht</hi> der Unterricht oder
+                    das Fortpflanzen der Kunst durch das Lehren; und wenn sie auch an der
+                    Kunstschule Antheil nimmt, so geschieht es nicht durch Selbstunterricht, sondern
+                    durch Aufsicht. Der eigentliche Zweck der Akademie muß seyn, theils sich sicher
+                    zu stellen, daß in jedem wesentlichen Fache der Kunst immer Männer vorhanden
+                    seyn, welche die Gegenwart der Künste forthin <hi rendition="#aq">repræsentiren</hi>, theils durch würdige Produkte das Leben der Kunst in
+                    stetem Gange zu erhalten. Die Akademie lehrt nicht, sie bringt hervor, sie hält
+                    die Thätigkeit der Kunst in dem Staate immer rege.</p>
+                <p>Wir hielten es daher für zweckmäßig nach dem Beyspiel anderer Länder, alle höhern
+                    Zweige der Wißenschaft und der Kunst miteinander in eine nähere Verbindung zu
+                    setzen, und sie unter dem Namen <hi rendition="#u">Akademie</hi> zu vereinigen.
+                    Der Künstlerverein würde für sich eine besondere fünfte <hi rendition="#aq">Classe</hi> bilden, welche wie die andern vier, gewiße besondere
+                    Zusammenkünfte hätte, aber auch an den gemeinsamen Sitzungen Antheil nehmen
+                    würde.</p>
+                <p>Viel, was also für die wißenschaftlichen <hi rendition="#aq">Classen</hi> gilt,
+                    würde auch für die <hi rendition="#aq">Classe</hi> der Künste gelten, als:
+                    <lb/>1) der <hi rendition="#aq">Præsident</hi>, der im Wechsel das fünfte Jahr
+                    die <hi rendition="#aq">Classe</hi> der Künste treffen würde. <lb/>2) ein
+                    eigenthümlicher Sekretar. <lb/>3) die Art der Wahlmethode sowohl der
+                    ordentlichen, als Fremden und Ehrenmitglieder, auch der Kunstverwandten. <pb n="25"/>
+                    <lb/>4) dieselben Privilegien. <lb/>5) Ihr Recht und Antheil an der <hi rendition="#aq">archaeolog</hi>ischen Sammlung, die unter der historischen
+                        <hi rendition="#aq">Classe</hi> steht. (Sieh den neuen Entwurf zum <hi rendition="#aq">Reglem</hi><ex>ent</ex> der Ak<ex>ademie</ex> d<ex>er</ex>
+                    Wißenschaften)</p>
+                <p><hi rendition="#u">Besondere Bestimmungen</hi>.</p>
+                <p><hi rendition="#u">I. Kunstfächer.</hi></p>
+                <p>Zu der Akademie gehören alle Kunstfächer, welche die höhere Kunst zum Zweck
+                    haben, und kultiviren. Diese sind a) die Architektur, b) die Bildhauerey, c) die
+                    historische Mahlerey.</p>
+                <p>Untergeordnete Fächer können aber daran <hi rendition="#u">keinen</hi> Antheil
+                    haben, und wenigstens in die Kunstklasse nicht als Mitglieder aufgenommen
+                    werden, als da sind: der bloße Land- oder Waßer- oder Schiff- oder Militär- oder
+                    Maschinenbaumeister; die Kleinbildner, als der Stein- und Stempelschneider, der
+                    bloße Verzierer in Holz, in Stein, in Metall, <seg type="comment">
+                        <orig>in Weißwerk</orig>
+                        <note xml:id="njyl_rrs_rhb">Stukkaturarbeiten</note>
+                    </seg>; die bloßen Thier-Landschaft-See-Architektur-<hi rendition="#aq">Dekoration</hi>s-Geflügel-Früchten- und Blumenmahler; die bloßen
+                    Miniatur-Schmelz-Glas-Pastelmahler, die bloßen Zeichner und Kupferstecher, die
+                    bloßen Kopfmahler.</p>
+                <p>II. <hi rendition="#u"><hi rendition="#aq">Qualification</hi> der aufzunehmenden
+                        Mitglieder.</hi></p>
+                <p>Um als Kandidat auf die Liste der Wahlfähigen <supplied cert="high">zu</supplied>
+                    kommen, muß man vor der Akademie irgend ein eigen gemachtes Werk, und zwar in
+                    einem der bey der Akademie aufgenommenen Kunstfächer, produzirt haben, welches
+                    zeigt, 1) daß der Verfertiger nicht nur alle zu seinem Fache gehörigen <hi rendition="#aq">Vorstudia</hi> (wie sie theils die Kunstschule, theils die
+                        <hi rendition="#aq">Universität</hi>studien erheischen) gründlich gemacht
+                    hat, sondern daß er auch mit einem eigenthümlichen Geist in das Wesen und das
+                    Leben der Kunst eingedrungen ist. Wo wesentlicher Mangel in irgend <pb n="26"/>
+                    einem Theile der Grundstudien sich zeiget, oder wo keine Produktionskraft, und
+                    Eigenheit des Talentes hervortritt, kann nicht als Probestück gelten, um den
+                    Verfertiger als Candidaten auf die Liste der Wahlfähigen zu bringen.
+                    <lb/>(andere <hi rendition="#aq">Requisita</hi> zur Wahlfähigkeit bestimmt der
+                    neue Entwurf des <hi rendition="#aq">Regl</hi><ex>ements</ex> für die
+                        Akad<ex>emie</ex> der Wiß<ex>enschaften</ex>)</p>
+                <p>III. <hi rendition="#u">Mitglieder.</hi></p>
+                <p>Die Zahl der <hi rendition="#u">ordentlichen</hi> Mitglieder würde <hi rendition="#u">acht</hi> seyn: drey Architekten, zwey Bildhauer und drey
+                    Mahler.</p>
+                <p><hi rendition="#u">Auswärtige</hi> Mitglieder würden gleichfalls acht seyn, und
+                    zwar 3. Architekten, zwey Bildner u. drey Mahler.</p>
+                <p>Dazu würden noch zu ernennen seyn acht <hi rendition="#u">Ehrenmitglieder</hi>
+                    unter den Kennern u. Beschüzern der Kunst -</p>
+                <p>Und dann noch acht andere einheimische Künstler unter dem Namen - <hi rendition="#u">Kunstverwandte</hi>.</p>
+                <p>IV. <hi rendition="#u">Pflichten u. Arbeiten der ordentlichen
+                    Mitglieder.</hi></p>
+                <p>1.) Die Mitglieder können an den gewöhnlichen Versammlungen der Gesammtakademie
+                    Theil nehmen; sie sind aber zu keinen gelehrten Arbeiten oder Vorlesungen
+                    verbunden, wenn sie sich nicht freywillig hiezu anheischig machen. Nur der <hi rendition="#aq">Sekretar</hi> der Klasse legt einmal im Jahre bey einer der
+                    öffentlichen Versammlungen Rechenschaft von dem Thun, und den Verhandlungen der
+                    Klasse ab. (Was den wißenschaftlichen Theil der Kunst betrift; den nimmt der
+                    Kunstgelehrte oder <hi rendition="#aq">Archæolog</hi> in seinen Bericht auf)</p>
+                <p>2) Die Klasse ist eine Zwischenbehörde <pb n="27"/> zwischen dem Staatsrath und
+                    der Kunst- und <hi rendition="#aq">Elementar</hi>zeichnungsschule. Als solche
+                    prüft und schlägt sie die anzustellenden Lehrer vor; sie beurtheilt die
+                    Vorschriften, und jede Art dahin abzweckender Einrichtungen; sie schlägt die
+                    Preisaufgaben vor, beurtheilt sie, und <hi rendition="#aq">designirt</hi> die
+                    Reisepræmien; sie besorgt die öffentlichen Ausstellungen; sie ist der natürliche
+                        <hi rendition="#aq">Visitator</hi> der Kunst- und
+                    Elementarzeichnungsschulen, und der treue Aufrechthalter der hierwegen gegebenen
+                    Anordnungen.</p>
+                <p>3) Wenigstens zweymal im Monate halten sie ordentliche <hi rendition="#aq">Classen</hi>versammlung. Die Außerordentlichen wird der Præsident oder <hi rendition="#aq">Secretar</hi> anberaumen. Kommen Geschäfte bey diesen
+                    Versammlungen vor, die in andern akademischen Fächer, z. B. in die <hi rendition="#aq">Archaeologie</hi>, <hi rendition="#aq">Physik</hi>, <hi rendition="#aq">Chemie</hi>, <hi rendition="#aq">Anatomie</hi>, <hi rendition="#aq">Zoologie</hi>, <hi rendition="#aq">Botanik</hi>, <hi rendition="#aq">Mineralogie</hi> eingreiffen; so würden die Mitglieder
+                    dieser Fächer besonders eingeladen, welche eine solche Einladung nicht
+                    verweigern könnten. Ja weder die Oberbehörde, noch die Akademie würde einen
+                    Beschluß der <hi rendition="#aq">Classe</hi> anerkennen, wenn in dem Fache, das
+                    den Beschluß betrift, nicht ein sachkennendes Mitglied zugleich unterzeichnet
+                    hätte.</p>
+                <p>4) Jedes Mitglied bringt jährlich irgend ein Werk zur öffentlichen
+                    Ausstellung.</p>
+                <p>V. <hi rendition="#u">Besoldungen u. Vortheile</hi>.</p>
+                <p>Der Maaßstab der Gehalte für die Mitglieder anderer <hi rendition="#aq">Classen</hi> kann nicht für die Kunst<hi rendition="#aq">Classe</hi>
+                    gelten. Die Arbeit des Künstlers hat einen Commerzialen Werth; folglich muß die
+                    Besoldung nicht so viel auf der Person haften, als von dem Produkte seines
+                    Fleißes abhangen. Im Durchschnitt würde daher die fixe Besoldung für jedes
+                    Mitglied sich nicht über 200 Rthl. belaufen; dagegen würde für jedes jährlich
+                    noch ein <hi rendition="#aq">Præmium</hi> von 500 Rthl. für ein dafür zu
+                    lieferndes Werk ausgesezt seyn, deßen <pb n="28"/> Gegenstand entweder bestimmt
+                    würde oder der Willkühr des Künstlers überlaßen bliebe. Dies <hi rendition="#aq">Præmium</hi> könnte aber nur dann erfolgen, wenn das Werk vollendet, und
+                    des Meisters würdig befunden wäre. Das Werk bliebe zur <hi rendition="#aq">Disposition</hi> des Protektors, theils um die fürstlichen Wohnungen u.
+                    Schlößer, theils um die öffentlichen Gebäude des Staats damit zu zieren, oder
+                    auch damit Geschenke an Freunde zu machen. Die Akademie würde ihrer Sammlung nur
+                    das erste Probeprodukt einverleiben.</p>
+                <p><hi rendition="#u">Anmerkung:</hi>
+                    <lb/>1) Wer nichts lieferte, oder anderweitig beschäftigt wäre, erhielte das <hi rendition="#aq">Præmium</hi> nicht, ausgenommen ein anhaltend Kranker, oder
+                    durch Alter unfähig gewordener. 2) bloße Porträte (wenn sie nicht ausdrücklich
+                    gefordert würden) könnten weder in der Mahlerey, noch in der Bildnerey
+                    hinreichen; auch keine Kopien. Eben so wäre, für die Größen, u. die Zahl der
+                    Figuren eine Norm zu bestimmen, welche aber für die Künstler nicht zu
+                    beschränkend seyn müßte. 3) Dem Bildner dürfte in manchen Fällen eine Vergütung
+                    für den Marmor, oder das Erz zukommen. 4) Den Architekten würde nur dann ein <hi rendition="#aq">Præmium</hi> zukommen, wenn sie keine anderweitige
+                    Anstellung hätten. Überhaupt würde der fixe Gehalt für die Architekten höher zu
+                    setzen seyn, etwa auf 3 - 400 Rthl., und dann würde man den Rest bis auf 700
+                    Rthl. für die Lösung irgend einer architektonischen Aufgabe bestimmen. Diese
+                    könnte betreffen den Gegenstand eines Materials, einen <hi rendition="#aq">Construction</hi>- oder Verzierungstheil, ein Gebäude, eine geschichtliche
+                    Erörterung - alles mit den gehörigen Rissen und einer räsonnirenden
+                    Beschreibung. <lb/>Die angegebenen Besoldungen möchten übrigens weder zu gering,
+                    noch zu hoch seyn; nicht zu hoch, weil der Künstler auf seinen nothwendigen
+                    Unterhalt muß rechnen können, und weil er als Akademiker doch <pb n="29"/>
+                    anderweitige Verpflichtungen für die Kunstschule, und den
+                    Elementarzeichnungsunterricht hat; nicht zu wenig: weil dem Künstler noch
+                    hinreichend Zeit und Muße gelaßen ist, sein Verdienst durch anderweitige
+                    Arbeiten geltend zu machen. Der Name des Akademikers, der seine Geschicklichkeit
+                    in den Augen des Publikums bewährt, wird ihm Bestellungen vom Hofe, von
+                    angesehenen Einheimischen und Fremden zuführen.</p>
+                <p>VI. <hi rendition="#u">Kunstverwandte der Akademie.</hi></p>
+                <p>Unter diesen verstehen wir Künstler von Fächern, welche einen geringern Grad von
+                    Studium, und kein so umfaßendes und hohes Talent voraussezen, als da sind:
+                    Thier- Landschaft- See- Architektur- Blumen- und Früchtenmahlerey; die Schmelz-
+                    Glas mosaik- Miniatur- Pastel- <hi rendition="#aq">Decoration</hi>smahlerey; die
+                    bloßen Zeichner, die Kupferstecher; die Holzschneider, Verzierer in Gyps, in
+                    Stein: die Stempel- und Steinschneider: die Mechaniker und Gartenkünstler.</p>
+                <p>Der Staat bedarf Männer in jeder der angezeigten Arten: und da solche Fächer auch
+                    in die <hi rendition="#aq">Cathegorie</hi> der <hi rendition="#u">freyen
+                        Künste</hi> gehören (wobey nämlich ein freyes Gemüth, und ein mehr als
+                    gewöhnlicher Handwerkssinn erfordert wird); so müßen sie auch in annäherndem
+                    Grade Ehre und Vortheil vom Staate ziehen, ohne sie deswegen den höhern Künsten
+                    gleich zu sezen.</p>
+                <p>Es schiene uns daher zweckmäßig für diese Fächer in's gesammt acht Stellen unter
+                    dem Namen von Kunstverwandten der Akademie zu kreiren. Die Wahl derselben bliebe
+                    der Akademie unter dem Vorschlag der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Classe</hi>; und jeder Kunstverwandte würde als solcher aus
+                    der Akademiecasse eine jährliche Pension von 200 Rthl. ziehen, aber ohne weitere
+                    Verpflichtung, als derjenigen, ein Mitbürger des Staates zu bleiben und zu <hi rendition="#aq">residiren</hi> - auch jährlich irgend ein Produkt zur
+                    öffentlichen Ausstellung zu bringen. Die Aufnahme der Zöglinge <pb n="30"/> zum
+                    Unterricht in dem Technischen der verschiedenen Fächer würden wir den
+                    Kunstverwandten nicht zur Pflicht machen. Überhaupt wird der Zögling schon für
+                    sich den Meister ausmitteln, und mit ihm in Rücksicht des Lehrgeldes
+                    übereinkommen. Den Zöglingen die Sache zu sehr erleichtern zu wollen taugt
+                    nicht. Der Staat muß sorgen, daß Männer und Gelegenheit vorhanden sey; aber sich
+                    nicht in alles mischen wollen. <hi rendition="#aq">Præmia</hi> würde es von
+                    Seite der Akademie weder für die Meister, noch für die Zöglinge geben.</p>
+                <p>Die Kunstverwandten hätten übrigens weder Zutritt, Sitz, noch Stimme in der
+                    Akademie; doch würden sie, wenn sie irgend etwas Wichtiges vorzuzeigen oder
+                    vorzutragen hätten, dies nach vorher gegangener Anfrage der Akademie <hi rendition="#aq">in Persona</hi> vorlegen können.</p>
+                <p>VII. <hi rendition="#u">Die Tonkunst, die Schauspielkunst, und höhere
+                        Tanzkunst.</hi></p>
+                <p>Auch diese Künste gehören unter die Freyen und Schönen. Ich getraue mir aber kaum
+                    eine Stimme zu, ob die eine oder die andere mit der Akademie in Verbindung zu
+                    setzen seyn würde. Es sind <hi rendition="#aq">Probleme</hi>, die schwer zu
+                    lösen sind, weil sich so manches dafür und dawider sagen läßt. Die gemeinsame
+                    Schule für diese drey Künste ist das Theater, und allda finden die, welche
+                    Talent und Fleiß haben, hinreichende Aufmunterung und Auszeichnung; und
+                    anderseits liegt ihr Wesen von andern Wißenschaften und Künsten wieder so weit
+                    ab, daß kaum abzusehen ist, welcher Vortheil sich aus ihrer Verbindung ergeben
+                    könnte.</p>
+                <p>Doch anders verhält es sich mit der Ausübung, und anders mit der Theorie dieser
+                    Künste. Nach einem andern Maaßstab ist der ausübende Künstler zu meßen, und nach
+                    einem andern der Theoretiker, der das ganze Feld seiner Kunst mit
+                    philosophischem Geiste ansieht, ergründet, beurtheilt, und für den Ausübenden
+                    gleichsam Wesen, Gesez und Schranken feststellet. Die Theorie dieser Fächer
+                    dürfte also nicht unter der akademischen Würde seyn; und da sie verwandter Art
+                    sind, und in ähnlichen, fast nicht zu trennenden Prinzipien, begründet werden,
+                    so ließe <pb n="31"/> sich für diese Fächer zusammen ein oder wohl auch zwey
+                    Mitglieder bey der Akademie in Vorschlag bringen.</p>
+                <p>In diesem Falle würden dieselben 1) der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Classe</hi> beyzugesellen seyn, 2) Vorlesungen halten gleich
+                    den wißenschaftlichen Mitgliedern, 3) gleich diesen eine jährliche Pension von
+                    500 Rthl genießen, ohne Rücksicht auf ihre anderweitigen Vortheile, und 4)
+                    jährliche Übersichten von den Fortschritten dieser Künste geben.</p>
+                <p>Die Wahlfähigkeit müßte durch nähere Angabe festgesezt werden, und übrigens würde
+                    der <hi rendition="#aq">Modus</hi> der Wahl, wie bey den andern Mitgliedern
+                    bleiben.</p>
+                <p>VIII. <hi rendition="#u">Überschlag der Unkosten.</hi></p>
+                <p>1) für acht ordentliche Mitglieder der zeichnenden Künste - jedes jährlich mit
+                    700. Rthl. Gehalt - machet die Summe von 5 600. <lb/>2) der Sekretar der Classe
+                    zu - 500. <lb/>3) acht Kunstverwandte zu 200 Rthl - 1 600. <lb/>4) zwey
+                    ordentliche Mitglieder für die Theorie der Musik, Schauspiel- und Tanzkunst -
+                    jedes zu 500 - 1 000. <lb/>5) für besondere Ausgaben - 100. <lb/>
+                    _____________________________________________ <lb/><hi rendition="#aq">
+                        Summa</hi> 8 800.</p>
+                <p>___________________________________________________________________________________________________________________________________________</p>
+                <p><hi rendition="#u">Zustand der ietzigen Kunstakademien, und Vorschlag, wie
+                        dieselben allmählig zu <hi rendition="#aq">reformiren</hi> wären.</hi></p>
+                <p>Statt <hi rendition="#u">einer</hi> Kunstakademie giebt es iezt deren zwey: jede
+                    mit einem besondern <hi rendition="#aq">Directorium</hi>. Die Lokale sind
+                    verschieden und weit von einander entlegen. Jede hat ihre eigenen Sammlungen und
+                    Biblioteken. Jede ist für sich eine Art a) <hi rendition="#aq">Real</hi>anstalt,
+                    b) Kunstschule, c) <hi rendition="#aq">Universität</hi>, und d) Academie.</p>
+                <p>a) <hi rendition="#u">Realanstalt</hi>: denn beide unterrichten Handwerker im
+                    Zeichnen, <add place="intralinear">und zwar in technologischen
+                        Gegenständen.</add>
+                    <lb/>b) <hi rendition="#u">Kunstschule</hi>: denn beyde haben eine große Anzahl
+                    Lehrer für die eigentlichen Kunstzöglinge <pb n="32"/>
+                    <lb/>c) <hi rendition="#u"><hi rendition="#aq">Universität</hi></hi>: denn sie
+                    geben auch Unterricht in den Hülfswißenschaften. <lb/>d) <hi rendition="#u">Akademie</hi>: als eine Art Behörde zwischen den Lehranstalten und dem <hi rendition="#aq">Curatorium</hi>; aber ohne den Zweck auf produktive
+                    Kraft.</p>
+                <p>Von diesen großen, morschen, unzweckmäßigen, und für das Wesen der Kunst unnüzen
+                        <add place="left">und sehr kostspieligen</add> Gebäuden ist nichts
+                    beyzubehalten, wenn der künftige Unterricht einen Erfolg, und die Akademie einen
+                    Zweck haben soll. Die beiden <hi rendition="#aq">Direktoria</hi>, wie sie bis
+                    iezt bestanden, zugleich mit dem akademischen <hi rendition="#aq">Senate</hi>
+                    müßen aufhören; die zwey Anstalten müßen in eine zusammenfließen u.s.w.</p>
+                <p>Was ist aber mit dem bißherigen Personal anzufangen? was kann davon unter andern
+                    Bedingungen für die neue Ordnung beybehalten, was kann anderwärtig angestellt,
+                    und was kann als unnüz pensionirt und <seg type="comment">
+                        <orig><hi rendition="#aq">jubilirt</hi> werden</orig>
+                        <note xml:id="nopk_ttj_thb">Hier: einer, der sein Amtsjubiläum gefeiert hat
+                            und danach in den Ruhestand versetzt wird.</note>
+                    </seg>?</p>
+                <p>Wir fangen mit der <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> an:</p>
+                <p>1) Ihre Sammlungen: a) von Zeichnungsvorschriften hat sie, so viel ich weiß,
+                    nichts, was zur neuen Anstalt herübergenommen zu werden verdiente (davon nehme
+                    ich selbst das große Zeichnungswerk für die Handwerker nicht aus) b) von den
+                    Modellen kann einiges zur Architekturclasse übergehen; einiges auch in die <hi rendition="#aq">archaeolog</hi>ische Sammlung, wie z.B. die antiken <rs type="artwork" key="prov_k2d_3hw_dv">Korkmodelle</rs>. c) die Bücher werden
+                    mit der großen Bibliotek unter der Oberaufsicht der Akademie vereinigt. <lb/>Der
+                    bißherige Bücheraufseher H. <persName key="ed_kdk_h5j_thb"><hi rendition="#aq">Meißner</hi></persName> gehört zu dem Bureau des <orgName key="ed_bnk_ktv_xfb">Oberbaudepartements</orgName>. Vielleicht kann er dort
+                    durch eine beßere Besoldung für den kleinen Gewinn, die er für die
+                    Bücheraufsicht genoß, entschädigt werden.</p>
+                <p>2) Das <hi rendition="#aq">Directorium</hi>, oder wie es sich nennt, die <hi rendition="#aq"><orgName key="ed_dvs_ykp_tgb">Baudeputation</orgName></hi>,
+                    besteht: aus einem Forstmann, dem g<ex>eheimen</ex> o<ex>ber</ex>
+                        F<ex>inanz</ex> Rath <persName key="ed_odj_slp_tgb">Morgenländer</persName>,
+                    drey Land- u. Waßerbaumeistern <persName key="ed_mtn_2qd_jx"><hi rendition="#aq">Riedel </hi>S<ex>enior</ex></persName>, <hi rendition="#aq"><persName key="ed_rmd_spd_jx">Eitelwein</persName></hi> - <hi rendition="#aq"><persName key="ed_f4z_j4d_jx">Gilly</persName></hi> ist todt - und aus
+                    einem im <hi rendition="#aq">Bureau</hi> des <orgName key="ed_trq_ttb_yfb">Oberbauamtes</orgName> erfahrenen Manne, Herrn <hi rendition="#aq"><persName key="ed_hlj_3pd_jx">Becherer</persName></hi> - aber aus
+                    keinem Architekten. <lb/>Ich denke: <lb/>Herr <hi rendition="#u"><hi rendition="#aq"><persName key="ed_odj_slp_tgb">Morgenländer</persName></hi></hi>, dem übrigens alle Kunst fremd ist,
+                    wird sich gerne bescheiden u. abtreten und sich mit seiner Stelle beym
+                    Forstwesen begnügen. <lb/>Herr <hi rendition="#aq"><persName key="ed_mtn_2qd_jx">Riedel Senior</persName></hi>: eben so als Rath bey dem <orgName key="ed_bnk_ktv_xfb">O<ex>ber</ex> B<ex>au</ex> Departement</orgName>.
+                    <lb/>Herr <hi rendition="#aq"><persName key="ed_rmd_spd_jx">Eitelwein</persName></hi>: eben so als Rath bey dem <orgName key="ed_bnk_ktv_xfb">O<ex>ber</ex> B<ex>au</ex>
+                        Depart<ex>ement</ex></orgName> - übrigens könnte dieser noch mit <pb n="33"/> einem Lehramt an der <hi rendition="#aq">Universität</hi>, oder mit einer
+                    Besoldung an der Akademie in der mathematischen <hi rendition="#aq">Classe</hi>,
+                    wovon er ist, entschädigt werden. <lb/>H. <hi rendition="#aq"><persName key="ed_hlj_3pd_jx">Becherer</persName></hi>: könnte sich allerdings mit
+                    seiner Stelle bey <orgName key="ed_trq_ttb_yfb">O<ex>ber</ex> Hof
+                        Bauamt</orgName> um so eher zufrieden stellen, da er nie den <hi rendition="#u">geringsten</hi> Beruf hatte, sich in Lehr- und Akademische
+                    Geschäfte zu mischen.</p>
+                <p><hi rendition="#u">Lehrer bey der <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName>:</hi></p>
+                <p><hi rendition="#u"><hi rendition="#aq"><persName key="ed_rmd_spd_jx">Eitelwein</persName></hi></hi>: hievon ist gesprochen worden.
+                        <lb/><hi rendition="#u"><persName key="ed_fnp_lwj_thb"><hi rendition="#aq">Hobert</hi></persName></hi>: ein Mathematiker, würde vielleicht
+                    Mitglied der <orgName key="ed_znn_dfc_b1b">Akademie</orgName> in der
+                    Mathematischen <hi rendition="#aq">Classe</hi> werden, oder durch eine
+                    Lehrstelle an der <hi rendition="#aq">Universität</hi> entschädigt werden.
+                        <lb/><hi rendition="#u"><hi rendition="#aq"><persName key="ed_vjb_5v4_thb">Gruson</persName></hi></hi>: Mathematiker: bereits Mitglied der
+                        <orgName key="ed_znn_dfc_b1b">Akademie</orgName>, würde durch eine höhere
+                    Besoldung an derselben, oder durch eine Professur an der <hi rendition="#aq">Universität</hi> zu entschädigen seyn. <lb/><hi rendition="#u"><hi rendition="#aq"><persName key="ed_sgp_4rb_yfb">Simon</persName></hi></hi>: würde seine Stelle bey der neuen Kunstschule
+                    behalten, nämlich die Classe der eigentlichen Architektur, doch unter den
+                    Bedingungen, die Lehre in dem Umfange und Zusammenhange vorzutragen, wie die
+                    Natur derselben es erfordert. Im Falle aber <hi rendition="#aq">Simon</hi> sich
+                    ausschließlich dem <orgName key="ed_bnk_ktv_xfb">O<ex>ber</ex>
+                        <hi rendition="#aq">Baudepartement</hi></orgName> wiedmen wollte, oder sonst
+                    eine Anstellung erhielte, würde für diese Stelle, wie mich däucht, Herr <hi rendition="#aq"><persName key="prov_hfj_vk5_tv"><hi rendition="#u">Rabe</hi></persName></hi> am besten paßen. <hi rendition="#u"><hi rendition="#aq"><persName key="prov_at2_4rw_gv"><lb/>Gentz</persName></hi></hi>: behielte die Stelle, die er bis iezt
+                    bekleidete, nämlich die Lehre der Gebäude. Überdem könnte ihm <subst>
+                        <del rendition="#ow">eine Stelle</del>
+                        <add place="superlinear">die Mitgliedschaft</add>
+                    </subst> bey der <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> werden, und
+                    vielleicht zugleich <hi rendition="#aq">Sekretar</hi> der Kunstclasse.
+                        <lb/><persName key="ed_fyp_vy4_thb"><hi rendition="#u"><hi rendition="#aq">Riedel junior</hi></hi></persName>: Die Lehre der Land- oder
+                    Ökonomie-Gebäude, die er bis iezt vortrug, würde unnütz, da sie mit der
+                    Lehrstelle von <hi rendition="#aq"><persName key="prov_at2_4rw_gv">Gentz</persName></hi> verbunden würde. Übrigens würde sich H. <hi rendition="#aq"><persName key="ed_fyp_vy4_thb">Riedel</persName></hi>, der
+                    eben kein besonderes donum zum Professor hat, sehr mit seiner Stelle am <orgName key="ed_bnk_ktv_xfb"><hi rendition="#aq">O<ex>ber</ex> B<ex>au</ex>
+                            Departement</hi></orgName> begnügen dürfen. <lb/><hi rendition="#aq"><persName key="ed_mn5_vz4_thb"><hi rendition="#u">Heinsius</hi></persName></hi>: Geschäftstyl: würde am <orgName key="ed_ity_t1p_thb">Gymnasium</orgName> wo er lehrt, etwas beßer zu sezen
+                    seyn </p>
+                <p><hi rendition="#u">Die <hi rendition="#aq">Bauinspectoren</hi>: <persName key="ed_pdv_v4k_5fb"><hi rendition="#aq">Mandel</hi></persName>, <hi rendition="#aq"><add place="superlinear"><persName key="ed_h1b_ng1_qfb">Meinecke</persName></add></hi>, <hi rendition="#aq"><persName key="ed_rkd_plk_rgb">Schlözer</persName></hi>, <persName key="ed_typ_lbp_thb"><hi rendition="#aq">Sachs</hi></persName></hi>:
+                    <lb/>lehrten so viel ich weiß, das architektonische Zeichnen, aber wie ich
+                    glaube, ohne, oder doch mit einem sehr geringen Gehalt, denn H. p. <hi rendition="#aq"><persName key="ed_hlj_3pd_jx">Becherer</persName></hi>
+                    flichte Leute ein, wo er konnte, ohne Rücksicht, ob sie nöthig, oder für die
+                    Sache tauglich wären. Diese jungen im <hi rendition="#aq">Baubyreau</hi>
+                    erzogenen Bauleute würden also wieder gänzlich zu ihren praktischen Geschäften
+                        zurück-<pb n="34"/>kehren; Im Falle aber sie Lehrstellen haben wollten,
+                    könnte man sie, wenn sie sich die nöthigen Kenntniß und Geschicklichkeit
+                    erworben hätten, bey dem <hi rendition="#aq">Elementar</hi>zeichnungsunterricht
+                    bey Schulen und Gymnasien anstellen - wozu ihnen die Vorschläge zu machen wären.
+                    Das gleiche würde der Fall seyn mit - <lb/>Herrn <hi rendition="#aq"><persName key="prov_dfr_rsh_kv"><hi rendition="#u">Rösel</hi></persName></hi>: der
+                    bis iezt ein Mitgehülfe bey der Zeichnungsschule der Handwerker war. <lb/><hi rendition="#u"><hi rendition="#aq">Hirt</hi></hi> - der bis iezt auch
+                    Theorie und Geschichte der Baukunst lehrte - Sieh weiter unten</p>
+                <p><hi rendition="#u">Die <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName>:</hi></p>
+                <p>1) Sammlungen: a) von den Zeichnungen ist wenig vorhanden, was als Vorschrift zu
+                    den neuen Anstalten übergehen dürfte, b) die Bücher würden zur großen <hi rendition="#aq">Bibliothek</hi> übergehen, c) die Kupferstiche zur <hi rendition="#aq">archæolog</hi>ischen Sammlung der Akademie, d) auch die
+                    Gypssammlung würde mit einen Theil der <hi rendition="#aq">archaeolog</hi>ischen
+                    Sammlung ausmachen, aber wie es sich versteht, ganz zum Gebrauch des Unterrichts
+                    verbleiben; E) die Gemälde würden gleichfalls der akad<ex>emischen</ex> Sammlung
+                    einverleibt, f) die Gliedermänner, Gewänder u.s.w. blieben unter Aufsicht der
+                    Kunstschule.</p>
+                <p>2) Der <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senat</orgName></hi> und
+                    sein <hi rendition="#aq">Directorium</hi> mit allen <hi rendition="#aq">Senatoren</hi>, <hi rendition="#aq">Rectoren</hi>, und Beysitzern würde
+                    ganz aufgehoben. Was die Mitglieder betrifft, würden davon <lb/>a) <hi rendition="#aq">jubilirt</hi>: <hi rendition="#aq"><persName key="ed_mdv_mdt_nhb"><hi rendition="#u">Frisch</hi></persName></hi>,
+                        <persName key="ed_ikl_s2p_thb"><hi rendition="#u"><hi rendition="#aq">Meil</hi></hi></persName>, <hi rendition="#u"><hi rendition="#aq"><persName key="prov_vz4_dlx_nv">Darbes</persName></hi></hi>.
+                    <lb/>b) Mitglieder der Akademie würden: <hi rendition="#u"><hi rendition="#aq"><persName key="prov_wsc_2hd_4v">Schadow</persName></hi></hi> und
+                        <hi rendition="#aq"><persName key="prov_uny_4th_kv"><hi rendition="#u">Weitsch</hi></persName></hi>. <lb/>c) Kunstverwandte der Akademie
+                    würden <hi rendition="#u"><hi rendition="#aq"><persName key="prov_ngg_xmh_kv">Lütke</persName></hi></hi> und <hi rendition="#aq"><persName key="prov_jl3_gpd_4v"><hi rendition="#u">Berger</hi></persName></hi>:
+                    vielleicht auch <persName key="ed_qlj_hhp_thb"><hi rendition="#u"><hi rendition="#aq">Freidhoff</hi></hi></persName> und <hi rendition="#u"><hi rendition="#aq"><persName key="prov_er3_4cd_4v">Burnat</persName></hi></hi>. <lb/>d) Lehrer bey der Kunstschule:
+                    bliebe Herr <hi rendition="#u"><hi rendition="#aq"><persName key="ed_ed2_jjp_thb">Schuhmann</persName></hi></hi>, und zwar bey
+                    der <hi rendition="#aq">Classe</hi> der <hi rendition="#aq">Osteologie</hi> u.
+                        <hi rendition="#aq">Myologie</hi>. <lb/>e) von <hi rendition="#u"><hi rendition="#aq"><persName key="ed_hlj_3pd_jx">Becherer</persName></hi></hi>, <hi rendition="#aq"><persName key="ed_mtn_2qd_jx"><hi rendition="#u">Riedel</hi></persName></hi>, <hi rendition="#u"><hi rendition="#aq"><persName key="ed_rmd_spd_jx">Eitelwein</persName></hi></hi>, <hi rendition="#u"><hi rendition="#aq"><persName key="prov_at2_4rw_gv">Gentz</persName></hi></hi> ist oben gesprochen worden. <lb/>f) <hi rendition="#aq"><persName key="ed_xjd_kgg_4fb"><hi rendition="#u">Eckardt</hi></persName></hi> - könnte <hi rendition="#aq">Oekonomieinspector </hi>sowohl bey der Sammlung der Kunstschule, als bey
+                    der <hi rendition="#aq">archæolog</hi>ischen Sammlung bleiben <add place="intralinear">(doch wäre vielleicht diese Stelle unnüz, und der Mann
+                        in diesem Fall zu <hi rendition="#aq">jubiliren</hi>)</add>
+                    <lb/>g) <hi rendition="#u"><hi rendition="#aq"><persName key="ed_xd5_bmp_thb">Niedlich</persName></hi></hi> würde der Vorschlag gemacht, sich für
+                    eine Stelle bey dem Elementarzeichnungsunterricht geschickt zu machen und das
+                    nämliche würde geschehen für <pb n="35"/> die ietzigen ZeichnenLehrer bey der
+                    Akademie, nämlich, <persName key="ed_dqk_fnp_thb"><hi rendition="#u"><hi rendition="#aq">Kubeil</hi></hi></persName>, <hi rendition="#u"><hi rendition="#aq"><persName key="ed_ilf_pnp_thb">Ringk</persName></hi></hi>, <hi rendition="#aq"><hi rendition="#u"><persName key="ed_ksq_znp_thb">Colmann</persName></hi></hi>
+                    etc.</p>
+                <p>Die Unterbedienten - <hi rendition="#aq">Castellane</hi>, Pedell, Ofenheizer
+                    würden theils bey der Kunstschule, theils bey der <hi rendition="#aq">archaeolog</hi>ischen Sammlung der Akademie zu placiren seyn.</p>
+                <p><hi rendition="#aq"><persName key="ed_ifk_ktj_xv"><hi rendition="#u">Levezow</hi></persName></hi>: Lehrer der Mythologie und der Geschichte:
+                    würde bey seinem <orgName key="ed_p2d_nrp_thb">Gymnasien</orgName><ex> [!]</ex>
+                    zu verbeßern seyn: oder ihm vielleicht eine bedeutendere Stelle an einer andern
+                    Anstalt einzuräumen seyn. <lb/><hi rendition="#aq"><persName key="prov_ztg_3sx_sr"><hi rendition="#u">Hirt</hi></persName></hi> -
+                    Lehrer der Theorie und der Geschichte der zeichnenden Künste würde etwa unter
+                    dem Namen der <hi rendition="#aq">archaeolog</hi>ischen Studien dieselben
+                    Gegenstände an der <hi rendition="#aq">Universität</hi> lehren - <hi rendition="#aq"><persName key="prov_ztg_3sx_sr">Hirt</persName></hi> zog
+                    übrigens nie etwas aus den Akademiecassen. <lb/><hi rendition="#u"><hi rendition="#aq"><persName key="ed_fdj_4cn_yv">Zelter</persName></hi></hi>: würde zur Akademie übergehen. <lb/>Außer den
+                    genannten giebt es aber wohl noch eine Menge Personen, die kleine Summen aus der
+                    Akademiecasse zogen, die ich nicht kenne, und im Grunde auch nicht hieher
+                    gehören. Nur würde ich einem Staatsrath rathen, sich in Zukunft gegen ein so <hi rendition="#aq">Hospitalartig</hi>es Kunstwesen zu verwahren, und sich <hi rendition="#aq">absolut</hi> nicht mit Pensionertheilungen abzugeben, und
+                    nie auf die Personen, sondern bloß auf die zu besoldenden Stellen Rücksicht zu
+                    nehmen. Will der <persName key="prov_bxf_jt5_fv">König</persName> Wohlthaten u.
+                    Pensionen an Personen ertheilen, so gehört dies nicht für den Staatsrath,
+                    sondern für den geheimen Rentmeister des Königs.</p>
+                <p>____________________________________________________________________________________________________________</p>
+                <p>In der Voraussetzung, daß der <persName key="prov_bxf_jt5_fv">König</persName>
+                    die ähnlichen Summen bewillige, welche er vorher für <orgName key="ed_u5s_1fc_b1b">beyde</orgName>
+                    <orgName key="ed_tc3_hfc_b1b">Kunstakademien</orgName> bewilligt hat; und die
+                    ungefähr, so viel mir erinnerlich ist, für die <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName> bestand in - 18 000 Rthl <lb/>und für die <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> in - 9 000 <lb/>
+                    _______________________________________________ <lb/> also zusammen in 27 000.
+                    <lb/>so wären hiemit, wie scheint, nicht nur alle neuen Einrichtungen für die
+                    Kunstschule, und die Akademie (wie die obigen Grundlinien andeuten) zu machen,
+                    sondern auch die alten Pensionen für die unbrauchbar <pb n="36"/> gewordenen
+                    Leute zu bezahlen; und da diese nach und nach abgehen, so würde in der Folge die
+                        <hi rendition="#aq">Casse</hi> des <persName key="prov_bxf_jt5_fv">Königs</persName> bedeutende Ersparungen machen können, und hätte
+                    Kunstinstitute, von denen man sich wirklich den Flor der Künste, und des
+                    öffentlichen Gewerbes würde versprechen können, welches bey den iezigen
+                    Einrichtungen zu erzielen nicht möglich war.</p>
+                <p>Sollte aber auch vor der Hand noch Mangel an Gelde seyn, um alles sogleich
+                    vollständig in Gang zu sezen, so dürfte dies die wesentliche Einrichtung doch
+                    nicht stören. Denn erstlich würden anstatt neun Mitglieder bey der Kunstclasse
+                    der Akademie nur etwa fünf seyn; zweytens würden die Vortheile anstatt in 700.
+                    Rthl für das Mitglied vor der Hand nur in 500 Rthl. bestehen; drittens ein
+                    ähnliches würde man bey den Lehrstellen an der Kunstschule beobachten, nämlich
+                    anstatt 700 - würden solche bis auf weiteres nur 500 beziehen - Der Sekretar der
+                        <hi rendition="#aq">Classe</hi> bey der Akad<ex>emie</ex> würde anstatt 500
+                    - nur 300. bekommen. Viertens anstatt acht Kunstverwandten jeder zu 200 Rthl -
+                    würde man es vor der Hand etwa bey vier bewenden laßen. Fünftens die
+                    Reisepræmien, welche wir jährlich im Durchschnitt auf 1500 Rthl. anschlugen,
+                    würden vor der Hand nur in 600 Rthl. bestehen, indem man nämlich nur Einen
+                    Zögling überhaupt reisen ließe.</p>
+                <p>Dergestalt würde die Kunstschule und die Akademie, deren jährliche Unkosten wir
+                    auf 16 468. Rthl. berechnet haben, vor der Hand nur 10 368. Rthl. betragen.
+                    <lb/>Diese Abzüge würden sich die Anstellenden um so eher gefallen laßen, da
+                    ihre bisherigen Stellen ihnen nicht so viel einbrachten.</p>
+                <p>Übrigens sind noch folgende Bemerkungen nöthig:</p>
+                <p>1) Bey unserem Plan der <hi rendition="#u">Kunstschule</hi> liegt der
+                    vorhergehende <hi rendition="#aq">Elementar</hi>unterricht im Zeichnen zu
+                    Grunde. Da nun aber noch keine <hi rendition="#aq">Elementar</hi>schulen
+                    gebildet wären, so müßte wenigstens <pb n="37"/> vor der Hand bey der
+                    Kunstschule noch das geometrische und Architekturzeichnen gelehrt werden. Doch
+                    wäre hiezu kein besonderer Lehrer nöthig; denn der Lehrer der Perspektiv und <hi rendition="#aq">Optik</hi> könnte unterdeßen, bis der Elementarunterricht
+                    ihm in die Hand arbeitete, einen solchen Unterricht selbst übernehmen.</p>
+                <p>2) Die Lehrer bey den iezigen <orgName key="ed_u5s_1fc_b1b">beyden</orgName>
+                    <orgName key="ed_tc3_hfc_b1b">Akademien</orgName>, welche bey dem <hi rendition="#aq">Elementar</hi>unterricht angewiesen würden, müßten indeßen
+                    vor ihrer Anstellung, und bis sie ihre nöthige Geschicklichkeit zu dem neuen
+                    Amte erlangt hätten, so lange ihre ietzige Pension beybehalten. Indeßen könnte
+                    man ihnen vorläufig zur Pflicht machen, daß sie mithälfen, an den Vorschriften
+                    für den <hi rendition="#aq">Elementar</hi>unterricht <supplied cert="high">zu</supplied> arbeiten. Ihr Gehalt bey dem <hi rendition="#aq">Elementar</hi>unterricht müßte beßer seyn, als derjenige bey den ietzigen
+                    Akademien, theils weil sie mehr wißen müßten, theils weil sie mehr Stunden zu
+                    geben hätten, theils auch daß sie mit Liebe ihrem neuen Amte vorstehen könnten.
+                    Sie würdeb 500 Rthl. fixen Gehalt, und noch ein <hi rendition="#aq">Honorar</hi>
+                    von jedem Schüler ziehen. <lb/>Indeßen könnte es doch nicht lange währen, bis
+                    sie zur neuen Lehre eintreten könnten, indem die Bildung der Schüler allmählig
+                    vorschreitet, und folglich die Lehrer sich auch allmählig zu dem höhern
+                    Unterricht fortbilden könnten. Eben so könnten fortschreitend und allmählig die
+                    Vorschriften angeschaft u. vollendet werden. In <hi rendition="#aq"><placeName key="prov_ycp_cpr_js">Berlin</placeName></hi> allein sind <seg type="comment">
+                        <orig>fünf <hi rendition="#aq">Gymnasia</hi></orig>
+                        <note xml:id="nbjn_3tp_thb"><orgName key="ed_ity_t1p_thb">Berlinisches
+                                Gymnasium zum Grauen Kloster</orgName>, <orgName key="ed_p2d_nrp_thb">Friedrich-Wilhelms-Gymnasium</orgName>,
+                                <orgName key="ed_lzv_gvp_thb">Joachimsthalsches Gymnasium</orgName>,
+                                <orgName key="ed_s3f_lmq_thb">Friedrichswerdersches
+                                Gymnasium</orgName>, <orgName key="ed_ajc_2gw_tgb">Französisches
+                                Gymnasium</orgName> (Collège français),</note>
+                    </seg>, wo sogleich fünf Lehrer anzustellen wären.</p>
+                <p>3) Ich wage es kaum einige Männer als Akademiker, und als Lehrer an der
+                    Kunstschule namhaft zu machen. Doch für die Akademie würde ich in der
+                    Architektur die Herrn <hi rendition="#aq"><persName key="prov_at2_4rw_gv">Genz</persName></hi>, <hi rendition="#aq"><persName key="ed_sgp_4rb_yfb">Simon</persName></hi> und <hi rendition="#aq"><persName key="prov_hfj_vk5_tv">Rabe</persName></hi> nennen, für die
+                        <hi rendition="#aq">Sculptur</hi>
+                    <hi rendition="#aq"><persName key="prov_wsc_2hd_4v">Schadow</persName></hi>, für
+                    die Mahlerey <hi rendition="#aq"><persName key="prov_uny_4th_kv">Weitsch</persName></hi>, für die Theorie der Tonkunst <hi rendition="#aq"><persName key="ed_fdj_4cn_yv">Zelter</persName></hi> - für
+                    die Kunstschule würde ich erstlich für die <hi rendition="#aq">Classe</hi> der
+                    Perspektiv und <hi rendition="#aq">Optik</hi> den einzigen tüchtigen Mann
+                    nennen, den ich kenne, das ist: der Mahler <hi rendition="#aq"><persName key="prov_n1f_vl5_tv">Hummel</persName></hi>, zweytens für die zwey
+                    andern architektonischen Classen <hi rendition="#aq"><persName key="prov_at2_4rw_gv">Genz</persName></hi>, und <hi rendition="#aq"><persName key="ed_sgp_4rb_yfb">Simon</persName></hi>, oder in
+                    Ermangelung des Leztern den Herrn <hi rendition="#aq"><persName key="prov_hfj_vk5_tv">Rabe</persName></hi>, für die <pb n="38"/>
+                    <hi rendition="#aq">Classe</hi> der <hi rendition="#aq">Osteologie</hi> und <hi rendition="#aq">Myologie</hi> den H. <persName key="ed_ed2_jjp_thb">Schuhmann</persName>: für die<hi rendition="#aq"> Classe</hi> des Nackten
+                    und der Antiken kenne ich keinen tauglichen: man müßte hiezu einen jungen Mann
+                    anziehen, worunter ich hier den jungen <hi rendition="#aq"><persName key="ed_y23_xjy_2y">Wach</persName></hi>, oder den Bildhauer <hi rendition="#aq"><persName key="ed_p41_xpz_lw">Rauch</persName></hi> in <hi rendition="#aq"><placeName key="prov_vkl_ndl_js">Rom</placeName></hi>
+                    vorschlüge, und im Falle daß lezterer diese Stelle erhielte, könnte sich <hi rendition="#aq"><persName key="ed_y23_xjy_2y">Wach</persName></hi> für die
+                        <hi rendition="#aq">Classe</hi> der Gewänder und der Farbenlehre <hi rendition="#aq">habilitiren</hi>. Es ist überhaupt nöthig, auf junge Leute
+                    von Talent und Willen Rücksicht zu nehmen. Ältere Meister taugen nicht zu
+                    solchen Ansichten.</p>
+                <p>4) Ich setze auch einige meiner Gedanken <unclear reason="illegible" cert="">her</unclear>, wie die Umwandlung des Alten in's Neue ohne Gewalt, und viel
+                    Einredens, und Kabalierens geschehen könnte. <lb/>Nachdem man <hi rendition="#u">festgesezt</hi> hätte, wie der künftige Stand der Sachen werden sollte; so
+                    würden 1) die Anzustellenden <hi rendition="#u">einzeln</hi> und beßer <hi rendition="#u">mündlich</hi> über die Annahme ihres neuen Amtes, über die zu
+                    erfüllenden Pflichten und über den künftig vollen u. iezt noch vielleicht zu
+                    modifizirenden Gehalt befragt, und bey der Einwilligung sogleich mit ihnen
+                    abgeschloßen, 2) würde den zu jubilirenden und andern unnützen Pensionärs,
+                    welche die alte Akademie häufte, ihren künftigen Pensionszustand schriftlich und
+                    unwiderruflich bekannt gemacht, mit Andeutung daß ihre bißherigen Funktionen
+                    eine Endschaft gefunden; 3) ein ähnliches würde mit den Kunstverwandten
+                    geschehen; und 4) diejenigen endlich, welche anderweitig angestellt sind, oder
+                    für das verlorene eine anderweitige Anstellung erwarten dürften, würde man
+                    gleichfalls berichten, daß ihre bißherigen Funktionen aufhörten, aber da und
+                    dort - auf die, und eine andere Weise ihre Entschädigung finden sollten. Wäre
+                    nun dies geschehen, so würde 5) der Beschluß, daß die alten Einrichtungen
+                    aufhörten, und zugleich die neue Ordnung der Dinge einträte, förmlich und
+                    öffentlich bekannt gemacht.</p>
+                <p>5) In Rücksicht der Gelder würde der Staatsrath trachten, eine jährliche reine
+                    Summe zu seiner <hi rendition="#aq">Disposition</hi> zu haben, die gerade soviel
+                    und nicht mehr betrüge, als der neue Stand der Dinge erforderte. Sollten aber
+                    vor der <pb n="39"/> Hand noch Abzüge statt finden, und nicht alle Stellen der
+                    Akademiker und Kunstverwandten besezt werden, und zwar aus dem Grunde, weil noch
+                    alte Pensionen auszuzahlen wären; so würde die <hi rendition="#aq">Section</hi>
+                    die Auszahlung dieser Pensionen über sich nehmen, so weit als die jährlich
+                    bestimmte Summe es zuläßt. Hingegen würden die alten Pensionen diese Summe
+                    übersteigen, so müßte die Sache so eingeleitet werden, daß diese Pensionärs auf
+                    eine andere <hi rendition="#aq">Casse</hi> angewiesen würden, wovon die <hi rendition="#aq">Section</hi> keine weitere Rücksicht nähme. So wie aber die
+                    Pensionärs, welche auf die <hi rendition="#aq">Casse</hi> der <hi rendition="#aq">Section</hi> gesezt sind, allmählig abgehen würden, so
+                    würden die frey gewordenen Gelder gleich <hi rendition="#aq">pro rata</hi> den
+                    übrigen Stellen, die ihren vollen Gehalt noch nicht hätten, zugewiesen, oder die
+                    noch nicht besezten Stellen mit Mitgliedern versehen. So ist meine Ansicht.</p>
+				<closer>
+                    <signed>H.</signed>
+                    <dateline>den 31<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">Julius</hi> 1809.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

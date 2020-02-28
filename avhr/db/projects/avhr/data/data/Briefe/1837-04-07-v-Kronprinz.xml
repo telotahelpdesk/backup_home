@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_rv2_lft_xy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vom Kronprinzen Friedrich Wilhelm (IV.) von Preußen. Berlin, 7. April
+                    1837.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>BPH</collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 50J Nr. 499, Bl. 50r</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Antje Adler: "Der absolute Hirt ..." - Das Verhältnis
+                            Friedrich Wilhelms IV. zu Aloys Hirt. In: Hirt-Band II, S. 289
+                            (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_rrj_mk5_fv">Preußen, Friedrich Wilhelm (IV.) von (1795-1861)
+                        (Kronprinz, 1840-1861 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1837-04-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tgx_5jt_xy"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>B: 7 April 1837</dateline>
+                    <salute>Theuerster Aloysio</salute>
+                </opener>
+                <p>Erlauben Sie mir über beyliegenden <seg type="comment">
+                        <orig>Ring</orig>
+                        <note xml:id="ntmw_qjt_xy">Vgl. Hirts Antwort.</note>
+                    </seg> die Fragen:
+                    <lb/>ob er antik oder nicht ist? - <lb/>ob er gut oder schlecht ist? - <lb/>ob
+                    er 40 Gulden werth ist? <add place="intralinear">od</add>
+                    <ex>er</ex>
+                    <add place="intralinear"> wieviel?</add>
+                </p>
+                <p>Mit Dank werde ich Ihre<del rendition="#s">r</del> Antwort empfangen u wünsche
+                    Ihnen gute Gesundheit bey dem scheußlichen Frühjahr!</p>
+                <closer>
+                    <salute>Mit alter Freundschaft</salute>
+                    <signed>Friedrich Wilhelm m<ex>anu propria</ex>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

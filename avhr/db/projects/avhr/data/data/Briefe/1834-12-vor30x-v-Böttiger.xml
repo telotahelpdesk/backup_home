@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jdd_2wm_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Dresden, vor 30. Dezember 1834]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Karl August Böttiger an Désiré <persName key="ed_m2j_ggy_zy">Raoul-Rochette</persName>, Dresden, 30. Dezember 1834: "Ich habe Herrn Hirt
+                    in Berlin mitgeteilt, was Sie wünschen. Man sagt mir, dass er vom Alter
+                    niedergebeugt ist und nicht mehr ausgeht. Es gibt eine große Rivalität zwischen
+                    den Herren <persName key="ed_ifk_ktj_xv">Levezow</persName> und <persName key="ed_kmv_v5d_n1b">Tölken</persName>, denen das Museum der Antiken und
+                    Münzen anvertraut ist, und ihrem Gehilfen <persName key="ed_szp_ntf_1y">Eduard
+                        Gerhard</persName>, der sich mit all seinen Kräften an das Museum krallt und
+                    die Beute nicht freigeben will" (dt. Übersetzung des franz. Originalbriefes;
+                    zitiert nach: Karl August Böttiger Briefwechsel mit Désiré Raoul-Rochette. Hrsg.
+                    u. komm. von René Sternke und Klaus Gerlach. Berlin, Boston 2018, Brief Nr. 73,
+                    S. 489). - Am 7. Juli 1833 hatte <persName key="ed_m2j_ggy_zy">Raoul-Rochette</persName> an Böttiger geschrieben: "Unser gemeinsamer
+                    Freund, Hirt, [...] hat gerade ein neues Werk über die <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Kunst bei den Alten</bibl>
+                    veröffentlicht, das ich noch nicht kenne. Erweisen Sie mir bitte den
+                    Freundschaftsdienst, ihm an meiner Stelle Vorwürfe zu machen, weil er mir dieses
+                    Buch noch nicht geschickt hat, da ich ihm doch alles, was ich mache, so wenig es
+                    auch wert sein mag, pünktlich zuschicke" (ebd., Brief Nr. 60, S. 398-399).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                    <date notBefore="1834-12-04" notAfter="1834-12-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Obwohl es sehr wahrscheinlich ist, dass Böttiger Raoul-Rochettes Bitte
+                    schriftlich an Hirt herangetragen hat, ist nicht auszuschließen, dass dieselbe
+                    mündlich über Dritte von Dresden nach Berlin vermittelt wurde. Ab 1831 ist kein
+                    Briefwechsel mehr zwischen Böttiger und Hirt überliefert.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

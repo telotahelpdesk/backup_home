@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_dnl_v1t_jv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 18. September 1798. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository/>
+                        <collection>Nachlass Böttiger</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 10</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-09-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_nqf_xhg_vz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>An Herrn OberconsistorialRath / Böttiger / in / <hi rendition="#u">Weimar</hi> / Mit Postvermerken und Siegel mit den Initialen
+                        "AH"</addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 18<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> Sept. 1798.</dateline>
+                    <salute/>
+                </opener>
+                <p>Das zweyte Heft Ihrer <bibl sameAs="prov_bjq_czj_gv">Vasenerklärungen</bibl> soll
+                    mir ein liebes geschenk seyn. Die Kupfer besize ich selbst, und deren
+                    Übersendung ist folglich nicht nöthig. Ich erhielt seither Nachricht von
+                        d<ex>em</ex> A<ex>llgemeinen</ex> L<ex>iteratur</ex> Z<ex>eitungs</ex>
+                    comptoir, daß dasselbe <seg type="critical">
+                        <orig>bereits recensirt sey</orig>
+                        <note xml:id="nzfd_mly_jv">Vgl. 1798-08-17-a-Böttiger mit
+                            Zeilenkommentar</note>
+                    </seg>. – </p>
+                <p>
+                    <persName key="prov_ffk_snl_cv">Uhden</persName> hält sich seit seiner
+                    Entfernung in <del rendition="#s" next="Florenz">Ber</del>
+                    <placeName key="prov_hp5_gbv_35">Florenz</placeName> auf, <seg type="comment">
+                        <orig>wohin Sie ihm schreiben können</orig>
+                        <note xml:id="nufc_1wt_jz">Ein Brief von Böttiger an Uhden aus dieser Zeit
+                            ist nicht bekannt.</note>
+                    </seg>. Es sind ein paar Monate, daß ich <seg type="critical">
+                        <orig>seinen lezten Brief</orig>
+                        <note xml:id="nn2k_wny_jv">Möglicherweise [1797-07-vor29x-v-Uhden] oder ein
+                            späterer nicht überlieferter Brief.</note>
+                    </seg> hatte: unter den Neuigkeiten, die Sie vielleicht intereßirt, ist, daß der
+                    dortige Großherzogl<ex>iche</ex> Gallerie Direktor Cav<ex>aliere</ex>
+                    <persName key="prov_lww_pdt_jv">Puccini</persName> 400. der vorzüglichsten <seg type="critical">
+                        <orig>Gemmen in Schwefel</orig>
+                        <note xml:id="ndsk_15y_jv">Schwarz gefärbte Abgüsse von Gemmen waren z. Bsp.
+                            auch im Wörlitzer Schloss in den Wänden eingelassen.</note>
+                    </seg> hat abdrucken laßen, und nun <bibl sameAs="prov_gjz_bvy_jv">wie die
+                            <persName key="prov_bkm_5py_jv">Dolcischen</persName> in <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    </bibl>, 
+                        mit einer gedruckten Beschreibung verkauft werden.</p>
+                <p>Die Gemmen und Medaillen - leztere sammlung ist an alt- und neuen Münzen bey
+                    28000 stark - sind nun hier beysammen auf dem <placeName key="prov_ulk_twt_fv">Schloße</placeName>, zugleich mit einigen intereßanten Reliefs, welche mir
+                    unbekannt waren: dabey ist auch ein Stück alte Mahlerey, und ein Mosaik. In der
+                    Folge werde ich Ihnen mehrers hievon zu schreiben Gelegenheit haben, und ich
+                    werde indeßen Ihren Vorschlag beherzigen.</p>
+                <p>
+                    <bibl sameAs="prov_cdv_zvy_jv">
+                        <persName key="prov_kyr_yvr_js">Tischbein's</persName> homerische
+                        Kupfer</bibl> gehen über 60. Stück - unter den leztern Stücken ist auch die
+                        <rs type="artwork" key="prov_xj1_1xy_jv">Tavola Iliaca auf dem Kapitol</rs>
+                    befindlich <seg type="comment">
+                        <orig>auf's neue gezeichnet und gestochen
+                            worden</orig>
+                        <note xml:id="nqtx_zyt_jz">Die in Riepenhausens Werkstatt
+                            gefertigte Reproduktion der Tabula Iliaca wurde im 7. Heft von
+                            Tischbeins "Homer nach Antiken gezeichnet", Tafel 2,
+                            veröffentlicht.</note>
+                    </seg>. <pb n="2"/>
+                </p>
+                <p>Gerne hätte ich die 14. Tage <seg type="critical">
+                        <orig>mit Ihnen in <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                        </orig>
+                        <note xml:id="nqdh_k1z_jv">Böttiger war im August 1798 für mehrere Tage in
+                            Dresden und studierte die Sammlungen im Japanischen Palais. Vgl. Karl
+                            August Böttiger: Erinnerungen an Dresden. 1798. 1802 (SLUB Dresden, h
+                            37, II Vermischtes 4°, VIII. Capsel, Nr. 16). Die darin enthaltene
+                            Beschreibung des Rundgangs "Den 25. August 1798. Abends" wurde leicht
+                            überarbeitet auch gedruckt u.d.T.: Die Dresdner Antikengalerie mit
+                            Fackel-beleuchtung gesehen den 25. August 1798.</note>
+                    </seg> verlebt. Soviel ich mich <add place="superlinear" hand="iezt">iezt</add>
+                    erinnere, <seg type="critical">
+                        <orig>stellen zwey der <rs type="artwork" key="prov_kgd_2zl_vz">Herculanischen Figuren</rs> die Pudicitia und die zwey andern die
+                            Mnemosyne vor</orig>
+                        <note xml:id="njnd_hcz_jv">Am bekanntesten waren die Statue der sogenannten
+                            großen Herkulanerin (Skulpturensammlung, Staatliche Kunstsammlungen
+                            Dresden, Inv. Hm 326) und die beiden sogenannten kleinen Herkulanerinnen
+                            (ebd., Inv. Hm 327-328), die zusammen um 1711 im Theater von Herculaneum
+                            ausgegraben worden und von Winckelmann in seiner Schrift „Gedanken über
+                            die Nachahmung der griechischen Werke in der Malerei und Bildhauerkunst“
+                            (Dresden 1755) wissenschaftlich beschrieben und bekannt gemacht worden
+                            waren. Die drei Herkulanerinnen standen 1798 im Japanischen Palais in
+                            Saal 6 (Johann Gottfried Lipsius: Beschreibung der Churfürstlichen
+                            Antiken-Galerie in Dresden, zum Theil nach hinterlassenen Papieren Herr
+                            Johann Friedrich Wackers. Dresden 1798, S. 272 A, B und Lipsius S. 278
+                            F). In diesem Saal standen außer den drei Herkulanerinnen noch drei
+                            weitere Frauenstatuen: die "sehr gut erhaltene Statue der zwoten
+                            Agrippina [...]" (Lipsius S. 275 C; Leplat Taf. 72; Inv. Hm 362), eine
+                            Statue "der Crispina, Gemahlinn des Kaisers Commodus" (Lipsius S. 276 D;
+                            Leplat Taf. 84; Inv. Hm 103) und "die schönste römische weibliche
+                            bekleidete Statue. Sie sieht gerade vor sich hin....[....]" (Lipsius 277
+                            E; Leplat Taf. 66; Inv. Hm 356, Hm 377) Vermutlich hat Hirt bei seinem
+                            Besuch 1798 in Dresden diese sechs Statuen gesehen und aus der
+                            Erinnerung heraus eine davon als vierte Herkulanerin bezeichnet. (Für
+                            diese Hinweise danke ich Frau Kordelia Knoll von den Staatlichen
+                            Kunstsammlungen Dresden sehr herzlich.) - Zur Beschreibung der Dresdner
+                            Sammlung vgl. auch: Böttiger: Einige Bemerkungen über die Dresdner
+                            Antiken Gallerie. geschrieben in Dresden d. 26. August 1794 (SLUB
+                            Dresden, h 37, II Vermischtes 4°, VIII. Capsel, Nr. 16); Heinrich Hase:
+                            Verzeichniss der alten und neuen Bildwerke in Marmor und Bronze, in den
+                            Sälen der Kgl. Antikensammlung zu Dresden. Dresden 1826; Raymond Leplat:
+                            Receuil des marbres antiques qui se trouvent dans la Galerie du Roy de
+                            Pologne à Dresden. Dresden 1733; Kordelia Knoll, Christiane Vorster,
+                            Moritz Woelk (Hsrg.): Katalog der antiken Bildwerke II, 1-2,
+                            Idealskulptur der römischen Kaiserzeit. München 2011, Kat. 63; Jens
+                            Daehner (Hrsg.): Die Herkulanerinnen: Geschichte, Kontext und Wirkung
+                            der antiken Statuen in Dresden. Mit Textbeiträgen von Jens Daehner,
+                            Dordelia Knoll, Christiane Vorster, Moritz Woelk. München 2008. </note>
+                    </seg>. Der <rs type="artwork" key="prov_lkb_zzl_vz">agrippina</rs> erinnere ich
+                    mich iezt nicht – Meinen Sie vielleicht <seg type="comment">
+                        <orig>die sizende halbnakte Statue</orig>
+                        <note xml:id="nwt4_khw_5w"> Die sitzende "sogenannte Agrippina Germanici,
+                            welche von andern auch für eine Niobe gehalten wird" (Lipsius 375 A,
+                            Inv. Hm 341) befand sich in Saal 9 des Japanischen Palais. Diese Statue
+                            der "Agrippina“ wurde viel diskutiert, sowohl ihre Benennung
+                            ("Agrippina", "Trauernde Ariadne", "Sitzende Nymphe" oder "Niobe") wie
+                            auch die Zugehörigkeit des Kopfes; vgl. Kordelia Knoll: Vorstellungen
+                            und Visionen von einem idealen Antikenmuseum. In: René Sternke (Hg.):
+                            Böttiger-Lektüren. Die Antike als Schlüssel zur Moderne. Berlin 2012, S.
+                            165f. - Hirt hält 1830 die Große Herkulanerin für eine Agrippina im
+                            Kostüm der Mnemosyne und die beiden Kleinen Herkulanerinnen für deren
+                            zwei (von insgesamt drei) Töchter (Agrippina Minor, Drusilla und
+                            Livilla) und zwar im Kostüm der Polyhymnia (Aloys Hirt: Kunstbemerkungen
+                            auf einer Reise über Witttenberg und Meißen nach Dresden und Prag.
+                            Berlin 1830, S. 147 f.) (Auch für diese Erläuterungen bin ich Frau
+                            Kordelia Knoll zu Dank verpflichtet). </note>
+                    </seg> im Zimmer des <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_a43_5zl_vz">Athleten</rs>
+                        </orig>
+                        <note xml:id="nnvw_ggz_jv">Die Statue des sich salbenden Athleten
+                            (Ölausgießender Athlet, Skulpturensammlung, Staatliche Kunstsammlungen
+                            Dresden, Inv. Hm 67) galt als Hauptwerk der Dresdner Sammlung.</note>
+                    </seg> ? – <seg type="critical">
+                        <orig>Die <rs type="artwork" key="prov_lqx_g1m_vz">Gemmen</rs> v<ex>on</ex>
+                            <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                        </orig>
+                        <note xml:id="nuxv_ygz_jv">Die Abdrucksammlung von Gemmen aller europäischen
+                            Kabinette, "Daktyliotheca universalis", von Philipp Daniel Lippert
+                            (1702-1785). In Dresden befanden sich im Albertinum die 2-bändige
+                            lateinische Ausgabe und in der königlichen Bibliothek die 3-bändige
+                            deutsche Ausgabe. </note>
+                    </seg> kenne ich nicht: ist die Sammlung bedeutend? – </p>
+                <p>
+                    <seg type="critical">
+                        <orig>Daß ich wieder unter die <bibl sameAs="ed_qxh_wvs_vz">lieblichen
+                                Pfoten</bibl> der <persName key="prov_ocn_xjz_jv prov_htp_dkz_jv">H<ex>erren</ex> Schlegel</persName> gefallen</orig>
+                        <note xml:id="nkz1_fnz_jv">Im "Athenäum", Ersten Bandes Zweytes Stück,
+                            Berlin 1798, bezieht sich eines der "Fragmente" auf Hirts
+                            Laokoon-Aufsatz in den "Horen": "Neuerdings ist die unerwartete
+                            Entdeckung gemacht worden, in der Gruppe des Laokoon sey der Held
+                            sterbend vorgestellt, und zwar an einem Schlagflusse. Weiter läßt sich
+                            nun die Kennerschaft in dieser Richtung nicht treiben, es müßte uns denn
+                            jemand belehren, Laokoon sey wirklich schon todt, welches auch in
+                            Rücksicht auf den Kenner seine vollkommene Richtigkeit haben würde. Bey
+                            Gelegenheit werden Lessing und Winkelmann zurechtgewiesen: nicht
+                            Schönheit, wie jener behauptet, (eigentlich beyde und mit ihnen Mengs)
+                            noch stille Größe und edle Einfalt, wie dieser, sey das Grundgesetz der
+                            Griechischen Kunst gewesen, sondern Wahrheit der Karakteristik.
+                            Karakterisiren will wohl alle menschliche Bildnerey bis auf die
+                            hölzernen Götzen der Kamtschadalen hinunter. Wenn man aber den Geist
+                            einer Sache in Einem Zuge fassen will, so nennt man nicht das, was sich
+                            von selbst versteht, und was sie mit andern gemein hat, sondern was
+                            wesentlich ihre Eigenthümlichkeit bezeichnet. Karakterlose Schönheit
+                            läßt sich nicht denken: sie wird, wenn auch keinen ethischen, doch
+                            allezeit einen physischen Karakter haben, d. h. die Schönheit eines
+                            gewissen Alters und Geschlechts seyn, oder bestimmte körperliche
+                            Gewöhnungen verrathen, wie die Körper der Ringer. Die alte Kunst hat
+                            nicht nur ihre unter Anleitung der Mythologie erschaffnen Bildungen in
+                            dem höchsten und würdigsten Sinne gedacht, sondern mit jedem Karakter
+                            der Formen und des Ausdrucks den Grad von Schönheit vereinbart, der
+                            dabey Statt finden konnte, ohne jenen zu zerstören. Daß sie dieß auch da
+                            möglich zu machen gewußt, wo ein barbarischer Geschmack nicht einmal des
+                            Gedankens fähig gewesen wäre, läßt sich, z. B. an antiken Medusenköpfen,
+                            beynah mit Händen greifen. Wenn komische oder tragische Darstellungen
+                            ein Einwurf gegen dieß allgemeine, durchgängige Streben nach Schönheit
+                            wären, so läge er zu nahe, als daß er Kennern des Alterthums wie Mengs
+                            und Winkelmann hätte entgehen können. Man vergleiche die gröbste
+                            Ausgelassenheit antiker Satyren und Bakchantinnen mit ähnlichen
+                            Vorstellungen aus der Flamändischen Schule, und man müßte selbst ganz
+                            unhellenisch seyn, wenn man nicht dort noch das Hellenische fühlte. Es
+                            ist ganz etwas anders, im Schmutze gemeiner Sinnlichkeit einheimisch
+                            seyn, oder sich, wie eine Gottheit in eine Thiergestalt, aus
+                            muthwilliger Lust dazu herablassen. Auch bey der Wahl schrecklicher
+                            Gegenstände kommt ja noch alles auf die Behandlung an, welche den
+                            mildernden Hauch der Schönheit darüber verbreiten kann, und in der
+                            Griechischen Kunst und Poesie wirklich verbreitet hat. Grade in
+                            streitenden Elementen, in dem unauflöslich scheinenden Widerspruche
+                            zwischen der Natur des Dargestellen und dem Gesetze der Darstellung,
+                            erscheint die innre Harmonie des Geistes am göttlichsten. Oder wird man
+                            in den Tragödien des Sophokles, deswegen, wiel sie höchst tragisch sind,
+                            die stille Größe und edle Einfalt wegläugnen? Daß im Körper des Laokoon
+                            der gewaltsamste Zustand des Leidens und der Anstrengung ausgedrückt
+                            sey, hat Winkelmann sehr bestimmt anerkannt; nur im Gesichte, behauptet
+                            er, erscheine die nicht erliegende Heldenseele. Jetzt erfahren wir, daß
+                            Laokoon nicht schreyt, weil er nicht mehr schreyen kann. Nämlich von
+                            wegen des Schlagflusses. Freylich kann er nicht schreyen, sonst würde er
+                            gegen eine so entstellende Beschreibung und Verkennung seiner heroischen
+                            Größe die Stimme erheben" ([Nr. 310], S. 85-87). - Auf die Nachricht,
+                            dass August Wilhelm Schlegel vorhabe, im "Athenäum" gegen Hirt zu
+                            polemisieren, schreibt Friedrich Schlegel am 13. April 1798 an seinen
+                            Bruder: es sei "prächtig", "daß Du Hirt über die Nase hauen willst, denn
+                            so ein Lümmel muß nicht von Kunst mitreden wollen dürfen" (Digitale
+                            Edition der Korrespondenz August Wilhelm Schlegels, URL:
+                            http://www.august-wilhelm-schlegel.de/briefedigital).</note>
+                    </seg>, erfuhr ich vor kurzem durch unsern <persName key="prov_ofd_5yj_gv">Sander</persName>, der mir das Heft zusandte. Ich habe auch bereits die
+                        <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_cyq_d31_kv">Antwort</bibl>
+                        </orig>
+                        <note xml:id="nmls_yh1_kv">Hirts Entgegnung erschien nicht im NTM (vgl.
+                            1798-10-20-a-Böttiger), sondern im Berlinischen Archiv der Zeit und
+                            ihres Geschmacks. Darin heißt es u.a.: "Es sey daher keinesweges meine
+                            Absicht, diese gestrengen Richter [die Brüder Schlegel im Athenäum] von
+                            ihrem tribunal révolutionaire zu verdrängen. Sie mögen citiren,
+                            verurtheln, abschlachten oder vergöttern - und nie vergöttern, ohne
+                            ihrem neuen Gotte zugleich blutige Opfer zu bringen - so lange es ihnen
+                            wohl und behaglich auf ihrer Bühne gehet: oder bis das Publikum ihrer
+                            Kraftsentenzen, und ihres erhabenen und mystischen Quodlibet's müde
+                            wird. / Auch mögen Sie, meine Herren! in Zukunft noch so vornehm thun,
+                            und mit einer noch so scheelen Herrschermiene auf die Litteratoren, die
+                            nicht F- G- und T- heißen, herabblicken; von mir sollen Sie ferner keine
+                            Störung in Ihren Verhandlungen leiden. / Nun zur Sache. - Sie finden es
+                            also eine himmelschreiende Sache, daß ein namenloser Sterblicher es
+                            wagt, nach Winkelmann und Lessing noch eine neue Deutung von der Gruppe
+                            Laokoon zu geben, und zwar eine neue Deutung, welche, wenn sie Grund
+                            hätte, das Schönheitssystem, das in unserm Vaterlande seit drei
+                            Jahrzehend so emsig und häuslich gepflegt worden ist, in seinem Herzen
+                            angriffe. - Wer demnach nicht Lust hat, sich sein genialisches Träumchen
+                            nehmen zu lassen, der thut allerdings sehr wohl, denjenigen, der so
+                            etwas auf die Bahn zu bringen wagt, sogleich als blödsinnig, und an
+                            beiden Augen blind, vor dem ehrbaren Publiko darzustellen. Ihre erhabene
+                            Philosophie lehret Sie schon a priori, daß Ihr System das einzige
+                            unfehlbare sey: Ihre griechische Lektüre hat Sie auch so etwas wähnen
+                            lassen; Winkelmann und Lessing geben Ihnen noch die nähern Beweise durch
+                            die noch vorhandenen Kunstwerke der Alten an die Hand; wer darf es also
+                            wagen, diesen dreifachen Pfeiler anzutasten? - Ein in der hohen
+                            Philosophie uneingweihter; ein mit dem litterarischen Geist des
+                            Alterthums ganz unbekannter, und ein für das Anschauen der alten
+                            Kunstwerke blind geborner muß es seyn? / Nicht wahr, meine Herren, das
+                            ist so ungefähr der Gang Ihres Räsonnements? [usw.] (S. 441-442).
+                            "Uebrigens sind gelehrte Kämpfe und Streitigkeiten immer gewesen, und
+                            werden immer seyn, wo das Feld menschlicher Kenntnisse erweitert werden
+                            soll. Ein jeder muß also erwarten, daß ihm die Hetze auf den Leib komme.
+                            Nur glaube ich, daß es zugleich Schuldigkeit jedes wahrheitliebenden
+                            Mannes sey, fortzukämpfen, so lange er etwas über das Vorurhteil, und
+                            die Unwissenheit zu erhalten, oder Mißverständnisse zu heben hoffen
+                            darf: oder selbst einer bessern Ueberzeugung unterliegt. Nur gegen
+                            Verunglimpfung vermag der Bessergesinnte nichts. Ob die Herren Schlegel
+                            blos aus übereilter Liebe zur Wahrheit ihr Urtheil gegen meine Aufsätze
+                            mit so viel Heftigkeit fällten, oder ob sie ein anderer Instinkt dazu
+                            trieb, mögen andere entscheiden. Indessen scheint es, daß einer dieser
+                            Herren, den ich ehedem zu sehen die Ehre hatte, eine ihm wiederfahrne
+                            Demüthigung nicht zu vergessen vermag" (S. 451). </note>
+                    </seg> darauf geschrieben. Ich werde sie Ihnen zuschicken, und wenn Sie u.
+                        <persName key="prov_lyk_c3g_f5">Wieland</persName> nichts dagegen haben
+                    werden, so werde ich Sie bitten <add place="superlinear" hand="">sie</add>
+                    <seg type="comment">
+                        <orig>im <bibl sameAs="prov_cst_qhr_gv">Merkur</bibl> abdrucken zu
+                            laßen</orig>
+                        <note xml:id="ninx_yzt_jz">Dies geschah nicht; vgl. den folgenden Brief vom
+                            20. Oktober 1798.</note>
+                    </seg>. Es versteht sich, daß ich mehr mit der Sache, als mit den Herrn
+                    Recensenten zu thun habe. – Ich bin neugierig auf die <bibl sameAs="prov_syr_nyh_gv">Kunstbetrachtungen</bibl> v<ex>on</ex>
+                    <persName key="prov_hwd_hmp_5r">Göthe</persName> u. <persName key="prov_tsc_grz_v5">Meyer</persName>.</p>
+                <p>Die kleine Zauberin <seg type="critical">
+                        <orig>
+                            <persName key="prov_w3h_3rj_gv">Jagemann</persName>
+                        </orig>
+                        <note xml:id="nmkb_bc1_kv">Sander schreibt am 25. August 1798 an Böttiger:
+                            "Mlle. Jagemann ist etwa seit 8 Tagen hier, u. logirt bei Iffland im
+                            Thiergarten" (Briefwechsel Sander-Böttiger, Bd. 2, S. 217).</note>
+                    </seg> gefällt hier allgemein: und ich höre nur eine Stimme, nemlich daß sie
+                    möchte engagirt werden. Ich bin <seg type="critical">
+                        <orig>alle dreymal</orig>
+                        <note xml:id="notk_zc1_kv">Die Jagemann trat am 4. September als "Erast" in
+                            "Helena und Paris", Oper in 3 Akten, Musik von Winter", am 16. September
+                            als "Bertha" in "Lilla, oder Schönheit und Tugend", Oper in 2 Akten nach
+                            der italienischen Oper Una Cosa Rara. Uebersetzung von André, Musik von
+                            Martin, sowie am 29. August und am 18. September 1798 als "Oberon" in
+                            "Oberon, König der Elfen" im Nationaltheater auf. Es folgten noch zwei
+                            weitere Auftritte in "Lilla" (26. September) und in "Das Kästchen mit
+                            der Chiffer", Oper in 2 Akten nach dem Italienischen, Musik von Salieri"
+                            (30. September 1798) (vgl. Klaus Gerlach: Datenbank zum Berliner
+                            Nationaltheater).</note>
+                    </seg>, wo sie auftratt, im Schauspiel gewesen, und heute werde ich das
+                    zweytemal den <bibl sameAs="prov_fl4_qc1_kv">Oberon</bibl> von ihr sehen. Ihr
+                    Spiel ist vortrefflich, ihre Figur allerliebst; ihre Stimme könnte etwas stärker
+                        <add place="superlinear">seyn</add> und etwas mehr Biegsamkeit haben, aber
+                    das kommt gewiß noch. Die Berliner laufen wütend sie zu sehen. <add place="intralinear">Außer dem Theater sah ich sie nicht. –</add>
+                </p>
+                <p>Künftigen Sonntag geht die öffentliche <seg type="comment">
+                        <orig>Ausstellung</orig>
+                        <note xml:id="nrpy_bcm_vz">Die in der Regel alle zwei Jahre stattfindende
+                            Kunstausstellung der Königlichen Akademie der Künste zu Berlin.</note>
+                    </seg> auf unserer <placeName key="prov_vvw_bk5_fv">Academie</placeName> los.
+                    Wir haben eine Menge italienischer Sachen dabey, <del rendition="#s" next="Bestellungen">die seither</del>
+                    <seg type="comment">
+                        <orig>Bestellungen der <persName key="prov_qvp_1gm_cv">Gr<ex>äfin</ex>
+                                    v<ex>on</ex> L<ex>ichtenau</ex>
+                            </persName>
+                        </orig>
+                        <note xml:id="ngr3_3cm_vz">Erwerbungen die sie während ihres
+                            Italien-Aufenthaltes für die königlichen Schlösser getätigt hatte und
+                            die ihr auf Grund ihrer Verhaftung  und Enteignung entzogen worden
+                            waren. Vgl. dazu auch Hirts Verzeichnis "Beyläufige Note über die von
+                            der Frau Gräfin v. Lichtenau in Italien acquirirten Kunstwerke" (GStA
+                            PK, I. HA, Rep. 131 K 159 Nr. 8).</note>
+                    </seg> – Ich werde Ihnen nächstens den <seg type="critical">
+                        <orig>Catalog</orig>
+                        <note xml:id="nfrw_321_kv">Beschreibung derjenigen Kunstwerke, welche von
+                            der Königlichen Akademie der bildenden Künste und mechanischen
+                            Wissenschaften in den Zimmern der Akademie über dem Königl. Marstalle
+                            auf der Neustadt den 23. September und folgende Tage Vormittags von 9
+                            bis 1 Uhr und Nachmittags von 2 bis 5 Uhr öffentlich ausgestellt sind.
+                            Berlin, 1798. Gedruckt bei Johann Friedrich Unger. (Börsch-Supan: Die
+                            Kataloge der Berliner Akademie-Ausstellungen 1786-1850, Bd. 1). - Auf
+                            der Ausstellung waren u.a. Werke von G. A. Hoffmann, Philipp Hackert "zu
+                            Neapel", Angelika Kauffmann-Zucchi "zu Rom" ("Christus mit der
+                            Samaritanerin am Brunnen"), Wenzeslaus Peter "zu Rom" ("Drey
+                            Viehstücke"), P. G. Müller "zu Rom", C. Reinhardt "zu Rom" ("eine
+                            Landschaft"), C. Schumann "zu Rom", von Antonio Chichi, "Architekten zu
+                            Rom" (7 Korkmodelle), "Von dem taubstummen Maler Hrn. Hoffmann" (12
+                            Kopien nach den vatikanischen Logen von Raphael) und von Ludwig Preti
+                            "aus Parma" zu sehen.</note>
+                    </seg>, vielleicht mit einigen Bemerkungen zusenden. <pb n="3"/>
+                </p>
+                <p>Empfehlen Sie <ex>mich</ex> der <persName key="prov_qn2_zhp_5r">Wittwe
+                        Herzogin</persName>, <persName key="prov_oxg_rvh_55">Göchh<ex>ausen</ex>
+                    </persName>
+                    <persName key="prov_o3j_dwh_55">Einsiedeln</persName>, und besonders den
+                        <persName key="prov_hy4_jx2_rs">
+                        <persName key="prov_jvr_yy5_fv">Herderschen</persName>
+                    </persName>.</p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie wohl bester Freund, ich schreibe Ihnen nächstens
+                        wieder</salute>
+                    <signed>Ihr Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

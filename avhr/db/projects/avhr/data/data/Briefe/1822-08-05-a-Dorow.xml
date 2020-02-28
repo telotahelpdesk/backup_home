@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fhk_fyt_mx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Wilhelm Dorow. Berlin, 5. August 1822.</title>
+                <title> Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Freies Deutsches Hochstift, Frankfurter
+                            Goethe-Museum</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Sign.: 41955-56 (6698)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-08-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_v2p_zb3_nx">Dorow, Karl Friedrich Ferdinand Wilhelm
+                        (1790-1845) (Altertumsforscher, preuß. Beamter, 1819 Hofrat, 1820 Direktor
+                        der Verwaltung für Altertumskunde im Rheinland und in Westfalen, Gründer des
+                        Altertumsmuseums in Bonn)</persName>
+                    <placeName key="ed_jjj_lh4_pw">Bonn</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_tms_3d3_nx"/>
+                </correspContext>
+                <note>Als Empfänger wird Wilhelm Dorow, der Verfasser der "Morgenländischen
+                    Alterthümer" angenommen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Ew. Wohlgeboren</salute>
+                </opener>
+                <p>habe ich hiemit die Ehre, das <seg type="comment">
+                        <orig>Kästchen mit den 35 <hi rendition="#aq">Gemmen</hi>
+                        </orig>
+                        <note xml:id="nkyl_d41_nx">Nichts Weiteres dazu ermittelt.</note>
+                    </seg> zugleich mit den Abgüßen, <seg type="comment">
+                        <orig>das Buch über <hi rendition="#aq">
+                                <placeName key="prov_lbg_npj_gv">Cleve</placeName>
+                            </hi>
+                        </orig>
+                        <note xml:id="nj11_sn1_nx">Möglicherweise Dorows Schrift "Opferstätten und
+                            Grabhügel der Germanen und Römer am Rhein. Erstes Heft. Wiesbaden 1819".
+                        </note>
+                    </seg> , und Ihre zwey ersten Hefte <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_tk2_wnc_nx">morgenländischer
+                            Alterthümer</bibl>
+                        </orig>
+                        <note xml:id="nedb_hlv_mx">Wilhelm Dorow: Morgenländische Alterthümer. 2
+                            Hefte [Heft 1: Die assyrische Keilschrift erläutert durch zwei noch
+                            nicht bekannt gewordene Jaspis-Cylinder aus Niniveh und Babylon,
+                            begleitet mit dem Nachstiche des vom Abte Lichtenstein herausgeg.
+                            Cylinders, und dem genauen Abdrucke einer alten Tibetanischen
+                            Handschrift in schönen Utschen Charakteren, nebst einer Abhandlung des
+                            Prof. Grotefend u. erläuternden Briefen der Prof. Heeren, Creuzer, Bar.
+                            Silvestre de Sacy u.a.; Heft 2: Die indische Mythologie erläutert durch
+                            noch nicht bekannt gewordene Original-Gemählde aus Indien; begleitet mit
+                            dem Abdrucke eines noch unbekannten bronzenen Götzenbildes und Priesters
+                            mit sonderbaren Charakteren, nebst einer Abbildung der merkwürdigen
+                            Figur unter den altpersischen Trümmern bei Murghab und der dazu
+                            gehörenden Aufschrift in keilförmigen Schriftzügen]. Wiesbaden
+                            1820-1821. - Vgl. auch: Morgenländische Alterthümer. Herausgegeben von
+                            Dr. Dorow. [Beurtheilt von J. G. Rhode]. (Aus den Jahrbüchern der
+                            Literatur besonders abgedruckt.) Wien, gedruckt bey Carl Gerold,
+                            1821.</note>
+                    </seg> zurückzusenden, <seg type="comment">
+                        <orig>und Ihnen für Ihre Mittheilung und Ansicht zu danken.</orig>
+                        <note xml:id="norm_fd3_nx">Brief erschlossen:
+                            [1822-08-vor05-v-Dorow].</note>
+                    </seg>
+                </p>
+                <p>In Rücksicht des <persName key="ed_czb_ch5_mx">
+                        <hi rendition="#aq">Serapis</hi>
+                    </persName> bleibe ich bey der Meinung, daß zwar der
+                    Stein antik, aber <hi rendition="#aq">retouchirt</hi> durch eine andere
+                    Hand zu seyn scheint. -</p>
+                <p>Die Nachrichten über <placeName key="prov_lbg_npj_gv">Cleve</placeName> waren mir
+                    schon früher bekannt. In den <bibl sameAs="ed_tk2_wnc_nx">morgenl<ex>ändischen</ex> Heften</bibl> habe ich alles nachgelesen,
+                        <seg type="comment">
+                        <orig>was von Verschiedenen über Ihre intereßante <rs type="artwork" key="prov_qpr_wn5_t1b">Walze</rs> gesagt ist</orig>
+                        <note xml:id="nud5_q4c_nx">Gemeint ist ein persisches Zylinder-Siegel des
+                            Königs Urzana aus Chalzedon aus Dorows Sammlung. Das 4,85 cm x 2,2 cm
+                            große Siegel zeigt einen vierflügeligen Genius als Tierbezwinger
+                            zwischen zwei Straußen sowie eine Keilschrift und ist im 1. Heft der
+                            "Morgenländischen Alterthümer" (S. 13-17) abgebildet und von Dorow wie
+                            folgt beschrieben: "Der Cylinder, welchen ich besitze, und der hier zum
+                            erstenmal bekannt gemacht wird, ist 1 Zoll 10½ Linien hoch und hat 10¼
+                            Linien im Durchmesser rheinisch Maas. Auf Tab. I. Fig. 1. befindet
+                            derselbe sich in natürlicher Größe. Es ist ein an den Enden halb
+                            durchscheinender, ins röthliche fallender Jaspis, (Jas-Achat?), von
+                            ausgezeichneter Härte". In der abgebildete Figur sieht Dorow den
+                            persischen Gott Ormuzd. Der Beschreibung Dorows schließen sich weitere
+                            Erklärungsversuche verschiedener bedeutender Gelehrter in Form von
+                            Briefen an: Beilage A. Brief des Professors G. C. Braun in Mainz. 3.
+                            November 1819 (S. 15-17, zum Erwerb des Siegels und der tibetischen
+                            Handschrift); Beilage B. Zwei Briefe vom Hofrath und Professor Heeren in
+                            Göttingen (S. 18-19, 23. November 1819 [1. Brief] und 6. December 1819
+                            [2. Brief]); Beilage C. Auszug aus einem Briefe des Hofraths und
+                            Professors Fr. Creuzer in Heidelberg. 23. December 1819 (S. 20); Beilage
+                            D. Brief des Herrn Sandberger in Wiesbaden. 27. November 1819 (S.
+                            21-22); Beilage E. Erläuterungen über einige babylonische Cylinder mit
+                            Keilschrift von Professor G. F. Grotefend (S. 23-56); Beilage F. [Brief
+                            von Silvestre de Sacy, 22. Januar 1820] (S. 57-58). - Dorow hatte seine
+                            Abhandlung und einen Schwefelabguß des Zylinders am 7. März 1820 an
+                            Goethe gesandt (vgl. Goethes Antwort vom 19. April 1820, WA IV, Bd. 32,
+                            Nr. 215; vgl. "Kunst und Alterthum" III, 1, 186). - "Im Jahre 1825 hatte
+                            Dorow seinen Zylindersiegel an das Koninklijk Penningkabinet in Leiden,
+                            der umfangreichen staatlichen Münzsammlung der Niederlande, vormals das
+                            Cabinet Royal des Médailles in Den Haag, verkauft. Erworben hatte er ihn
+                            durch Vermittlung des Professors G. C. Braun aus Mainz von den Erben des
+                            Grafen Joseph von Schwachheim, der als K. K. bevollmächtigter Minister
+                            des Wiener Hofes Gesandter an der Pforte in Konstantinopel war und über
+                            eine umfängliche Sammlung orientalischer Manuskripte und Antiken
+                            verfügte" (zitiert nach: Volker Haas: Notizen zu den Anfängen der
+                            Erforschung der altorientalischen Glyptik am Beispiel des Siegels des
+                            Urzana, des Königs von Musasir. In: Fundstellen: Gesammelte Schriften
+                            zur Archäologie und Geschichte Altvorderasiens ad honorem Hartmut Kühne.
+                            Hrsg. von Dominik Bonatz, Rainer Ml. Czichon und F. Janoscha Kreppner.
+                            Wiesbaden 2008, S. 371-380; hier S. 374 f.). </note>
+                    </seg>; und da so viele wichtige Männer so viel Wichtiges darüber <pb n="2"/>
+                    gesprochen haben, darf ein Laye wie ich, nichts weiter beyfügen. Da ich das
+                    erstemal Ihre <rs type="artwork" key="prov_qpr_wn5_t1b">Walze</rs> zu Gesicht
+                    bekam, so schien mir nach meiner frühern Beobachtung: daß nämlich die Perser die
+                    ihnen unterworfenen Provinzen oder Völker durch fabelhafte, das ist:
+                    zusammengesezte Thierfiguren symbolisirten - auch hier eine solche Symbolisirung
+                    vorgestellt zu seyn: welche? - entweder die Unterwürfigkeit von <placeName key="ed_wzl_snv_mx">
+                        <hi rendition="#aq">Libyen</hi>
+                    </placeName>, und <placeName key="prov_sjg_gys_tv">
+                        <hi rendition="#aq">Äthiopien</hi>
+                    </placeName> (wo es Straußen giebt) oder aber was mir wahrscheinlicher ist, <add place="superlinear">von</add>
+                    <placeName key="ed_bdj_wnv_mx">
+                        <hi rendition="#aq">Mesopotamien</hi>
+                    </placeName>; - und im letztern Sinn fällt einem leicht ein: daß die beiden
+                    Strauße die Symbole der beiden großen Flüße - <hi rendition="#aq">
+                        <placeName key="ed_rs1_znv_mx">Euphrates</placeName>
+                    </hi> und <placeName key="ed_gpb_b4v_mx">
+                        <hi rendition="#aq">Tigris</hi>
+                    </placeName> - seyn möchten, welche das Land einschließen. Der geflügelte,
+                    siegreiche, Staatsgenius des Perserreiches beherrscht beide Flüße mit starkem
+                    Arm, und verbreitet <add place="superlinear">nun</add> seinen Schutz (unter <pb n="3"/> seiner Flügel Schuz) über das eroberte Reich, die reichste aller <hi rendition="#aq">Katrapien</hi> der Perser. - Doch wie gesagt - dies war ein
+                    erster Einfall, dem ich durch keine nähere Forschung nachgieng, und den ich auch
+                    nicht näher mit Gründen zu unterstützen wüßte.</p>
+                <p>Die vierflügelige Figur mit der ägyptischen Krone ward mir zuerst durch <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_lkw_wlc_nx">die neueste Reise</bibl> des <persName key="ed_ezm_fj5_mx">
+                                <hi rendition="#aq">Ker</hi>
+                                <hi rendition="#aq">Porter</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nk1l_m51_nx">Ker Porter: Travels in Georgia, Persia, Armenia,
+                            Ancient Babylonia etc. etc. during the years 1817, 1818, 1819, und 1820:
+                            with numerous engravings of portraits, costumes, antiquities, etc. 2
+                            Bde., London 1821-1822. - Die Beschreibung der Figur sowie eine
+                            Abbildung finden sich in Bd. 1, S. 492-493. - Porter hatte zuvor bereits
+                            mehrere Reisebeschreibungen von Portugal und Spanien (1809) und von
+                            Russland und Schweden (1809, 1815) veröffentlicht.</note>
+                    </seg> bekannt, da mir <seg type="comment">
+                        <orig>die zweyte Ausgabe der <bibl sameAs="ed_rsw_2mc_nx">Reise</bibl>
+                            <persName key="ed_g35_sz1_nx">Moriers</persName>
+                        </orig>
+                        <note xml:id="nvqd_qy1_nx">A Journey through Persia, Armenia, and Asia Minor
+                            to Constantinople, in the Years 1808 and 1809. London 1812. (auch:
+                            Voyage en Perse en Arménie, en Asie mineure et à Constaninople fait dans
+                            les années 1808 et 1809 par Jacques Morier sécrétaire d'Ambassade à la
+                            Cour de Perse. Traduit de l'Anglais. Paris 1813). - A Second Journey
+                            through Persia, Armenia, and Asia Minor to Constantinople, between the
+                            Years 1810 and 1816. London 1818. (auch: Second Voyage en Perse, en
+                            Arménie et dans l'Asie mineure fait de 1810 à 1816 par Jacques Morier,
+                            sécrétaire de la dernière ambassade et Ministre plénipotentiaire près de
+                            la cour de Perse. Traduit de l'Anglais. T. II, Paris 1818).</note>
+                    </seg> nicht zu Gesicht kam. Aber mir ist das Auffinden dieser Figur zu
+                        <placeName key="ed_d5n_bv1_nx">Pasargadae</placeName> ein schlagender
+                    Beweis, daß hauptsächlich Aegyptische Künstler an den Denkmälern <placeName key="ed_y2h_gv1_nx">Persiens</placeName> arbeiteten, worüber ich mich schon
+                    früher näher äußerte, theils in meiner <bibl sameAs="ed_ojp_2kv_mx">Abhandlung
+                        über <hi rendition="#aq">Tschilminar</hi>
+                    </bibl>, theils in meiner <bibl sameAs="ed_ahk_qy5_dw">Geschichte der
+                        Baukunst</bibl>.</p>
+                <p>In so fern Ihre morgenländischen Forschungen die Alterthümer <pb n="4"/>
+                    diesseits des <placeName key="ed_trc_rkv_mx">
+                        <hi rendition="#aq">Indus</hi>
+                    </placeName> betrift; so kann ich zur Noth noch folgen.
+                    Aber alles, was jenseits des <hi rendition="#aq">
+                        <placeName key="ed_trc_rkv_mx">Indus</placeName>
+                    </hi> vorkomt, ist mir
+                    verschloßen. - Das hohe Alterthum von der Weisheit <del rendition="#s">d</del>
+                    und der Kunst der <hi rendition="#aq">Indier</hi> bleiben mir immer
+                    noch ein Räthsel. Alles was mir bis iezt von indischer Arbeit sowohl in
+                    architektonischer oder bildlicher Hinsicht vor Augen kam, trägt nach meiner
+                    Kenntniß den unverkennbaren Stempel von Nachahmung und Modernität; so zwar daß
+                    der Beweis schwer sich <add place="superlinear">je</add> wird führen laßen, daß
+                    irgend ein dortiges Denkmal, und <subst>
+                        <del rendition="#s">ihre</del>
+                        <add place="superlinear">die</add>
+                    </subst> Schreibkunst <add place="superlinear">der Indier</add> um vieles unsere
+                    Zeitrechnung übersteige.</p>
+                <closer>
+                    <salute>Hochachtungsvoll <lb/>Ihr <lb/>ergebenster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin / den 5<hi rendition="#sup">ten</hi> Aug / 22.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

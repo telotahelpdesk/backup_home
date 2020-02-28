@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sbp_bg1_qfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Aloys Hirt, Daniel Berger und Hans Christian Genelli an Georg Meinecke.
+                    Berlin, 13. März 1798.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt III Nr. 40, Bl. 93
+                                r-v</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Von der Hand Hirts mit den egh. Unterschriften von Berger, Hirt und
+                            Genelli; von den Blättern sind nur die rechten Spalten beschrieben; die
+                            linken Blatthälften wurden frei gelassen; darauf befindet sich die egh.
+                            Antwort Meineckes.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_qps_ktj_sv">Genelli, Hans Christian (1763-1823) (dt.
+                        Architekt, zusammen mit seinen Brüdern Rom-Aufenthalt)</persName>
+                    <persName key="prov_jl3_gpd_4v">Berger, Daniel (1744-1825) (Kupferstecher, 1778
+                        OM der Akademie der Künste zu Berlin, 1787 Rektor und Prof. für
+                        Kupferstichkunst, 1816 Vizedirektor der Akademie)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-03-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_h1b_ng1_qfb">Meinecke, George (?-?) (Architekt, Bauinspektor
+                        und Prof. an der Königl. Akademie der Künste in Berlin)</persName>
+                </correspAction>
+                <note>Adresse: An / Des Professors, und Bau-/Inspectors Herrn Meinecke / Wohlgeboren
+                    (auf Bl. 93r, oberer linker Rand).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Hochzuverehrender Herr Professor!</salute>
+                </opener>
+				<p>Unserer Vorschrift gemäß, die wir vom hochlöb<ex>lichen</ex>
+                    <hi rendition="#aq">Curatorium</hi> zur <hi rendition="#aq">Revision</hi>
+                    gesammter Abtheilungen der König<ex>lichen</ex> Kunst-Akademie erhalten haben,
+                    nehmen wir uns die Freyheit, Ew. Wohlgeb<ex>oren</ex> verschiedene Fragen zur
+                    Beantwortung vorzulegen. Ihr bekannter Eifer für das Wohl, und die Aufnahme der
+                        könig<ex>lichen</ex> Academie ist uns Bürge, daß die Einsendung Ihrer
+                    Antwort unsern Wünschen gemäß seyn werde.</p>
+                <p><hi rendition="#u">1.</hi> Welches Fach bey den architektonischen Klassen lehren
+                    Sie? und sind Sie auch zugleich bey der Zeichnungsschule beschäftiget?</p>
+                <p><hi rendition="#u">2.</hi> haben Sie hinreichende Hilfsmittel zu einem
+                    gründlichen Unterrichte? als Zeichnungen, Kupfer, und Modellen. was könnte in
+                    dieser Hinsicht verbeßert werden?</p>
+                <p><hi rendition="#u">3.</hi> wieviel Schüler haben Sie gewöhnlich? wieviel iezt? zu
+                    welchen Stunden, und wie viel Stunden in der Woche lehren Sie? im Winter? im
+                    Sommer?</p>
+                <p><hi rendition="#u">4.</hi> haben Sie über den Fleiß, und Fortschritte der Schüler
+                    Bericht zu erstatten? wie oft? mündlich, schriftlich, oder durch Vorzeigen der
+                    von den Schülern verfertigten Arbeiten? <pb n="2"/></p>
+                <p><hi rendition="#u">5.</hi> hätten Sie etwa Vorschläge in Rücksicht des Lokal's zu
+                    machen?</p>
+                <p><hi rendition="#u">6.</hi> worin besteht Ihre vorzügliche Beschäftigung bey der
+                    Zeichnungsschule?</p>
+                <p>Da wir diese Anfragen bloß Pflichtmäßig, und zu unserer nähern Information thun,
+                    so werden wir Ew. Wohlgeboren besondern Dank wißen, wenn Sie uns Ihre Antwort so
+                    bald, und so kurz, wie möglich, einsenden werden.</p>
+                <p>Berlin den 13. März 1798.</p>
+				<closer>
+                    <salute/>
+                    <signed>D. Berger / Hirt / Genelli</signed>
+                    <signed>Die Antwort wird an Hofrath <hi rendition="#aq">Hirt</hi>
+                        eingesandt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

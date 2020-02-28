@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_od5_kvf_dw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Johann Wolfgang von Goethe. Jena, 9. Juni 1809.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>Konzept: GSA Weimar</institution>
+                        <collection>Bestand 29 Goethe Ausgegangene Briefe</collection>
+                        <idno>
+                            <idno type="shelfmark">29/4, Bl. 4</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Konzept von Schreiberhand (Riemer) mit eigenh. Korrekturen, Ort und Datum
+                            von Schreiberhand</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Ludwig Geiger, in: Goethe-Jb. 15, 1894, S. 76</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Goethe, Weimarer Ausgabe IV, Bd. 20, Nr. 5744, S. 359-362
+                            [nach Konzept; irrtümlich als Erstdruck ausgewiesen, in den
+                            "Berichtigungen" korrigiert, vgl. WA IV, Bd. 30, S. 273]</bibl>
+                    </witness>
+                    <witness> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749-1832)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_xby_ps1_z5">Jena</placeName>
+                    <date when="1809-06-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_kjn_2px_bw"/>
+                    <ref type="next" target="hirt_ymx_xw4_dw"/>
+                </correspContext>
+                <note>H: Verbleib unbekannt;</note>
+                <note>h: GSA Weimar, Bestand: 29 Goethe Ausgegangene Briefe, Sign.: 29/232,III. -
+                    Von Schreiberhand (zeitgenöss. Schreiber: Friedrich Wilhelm Schumann?)</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>An / Herrn Hofrath Hirt / nach Berlin.</salute>
+                </opener>
+                <p>Es geht mir oft so, daß ich meinen Briefen und Antworten einigen Gehalt geben und
+                    für ein bedeutendes Mitgetheilte nicht blos einen allgemeinen Dank erwiedern
+                    möchte. Darüber vergeht die Zeit und ich bleibe mit dem besten Willen <add place="superlinear">gegen</add> auswärtige<del rendition="#s">n</del>
+                        Freunde<del rendition="#s">n</del> und Wohlwollende im Rückstande; wobey ich
+                    denn Niemand verargen mag, wenn er einige Unzufriedenheit gegen mich empfindet.
+                    Ich eile deswegen, Ihnen, mein Werthester, für das Uebersendete recht aufrichtig
+                    und lebhaft zu danken. Es war mir ein höchst erfreulicher Anblick, <bibl sameAs="prov_e1l_pjv_pv">das Werk</bibl> abgeschlossen und gebunden vor mir
+                    zu sehen, <seg type="comment">
+                        <orig>dessen frühste Anfänge</orig>
+                        <note xml:id="nuqn_5lh_dw">
+                            <ref target="hirt_kjn_2px_bw/#ndrc_fsc_cw">Vgl.
+                                Hirts Brief an Goethe vom 23. Mai 1809 </ref>
+                        </note>
+                    </seg> mir schon so bedeutend und belehrend waren. Sie haben sich Ihren treuen
+                    Fleiß auf diese Weise selbst belohnt und gewiß wird dieses schöne Resultat Ihres
+                    Lebens auch von andern anerkannt werden. Durchlaufen habe ich es schon und mich
+                        <del rendition="#s">über</del> an der methodischen Zusammenstellung so
+                    vieler, in aller Welt zerstreuten einzelnen Documente vorläufig ergötzt.</p>
+                <p>
+                    <bibl sameAs="ed_w1n_4nx_bw ed_jm4_fq2_1w">Die beyden kleineren
+                            Schriften</bibl>
+                     waren mir nicht weniger willkommen, ja sie
+                    stillten <add place="sublinear">mir</add> eine <subst>
+                        <del rendition="#s">mir ganz eigenthümliche</del>
+                        <add place="intralinear"> frühere</add>
+                    </subst>
+                    <pb n="2"/> und oft gewaltsam wiederkehrende Sehnsucht, mich nur einigermaßen
+                    zum geistigen Anschauen jener großen Monumente des Alterthums zu erheben, die
+                    uns der Lauf der Zeiten misgönnt hat. Ihre Art das von Schriftstellern uns gewiß
+                    Überlieferte erst zum Grunde zu legen, dann einer durch andre bekannte <subst>
+                        <del rendition="#s">Beyspiele</del>
+                        <add place="superlinear">Data</add>
+                    </subst> belebten Analogie Platz zu geben, und die letzten Lücken mit noch
+                        gegenwärtig<add place="intralinear">en</add>
+                    <del rendition="#s">uns bekannten</del> und dorthin verwandten Beyspielen
+                    auszufüllen, ist so gewissenhaft als geistreich, sie überzeugt und
+                    überredet.</p>
+                <p>Welch ein Vorschritt ist nicht hierin <seg type="comment">
+                        <orig> seit <bibl sameAs="ed_ay2_ymh_dw">Caylus</bibl>
+                        </orig>
+                        <note xml:id="nvrb_jnh_dw">Hier ist vermutlich Caylus' Hauptwerk „Receuil
+                            d'antiquités égyptiennes, étrusques, grecques et romaines (7 Bde., Paris
+                            1752-1767) gemeint; möglicherweise hatte Goethe zusätzlich auch A. L.
+                            Millins „Monumens antiques inédits, ou nouvellement expliqués“ im Sinn,
+                            das als Supplement zu Caylus' Werk gedacht war und Paris 1802-1806
+                            erschien.</note>
+                    </seg> geschehen! dem an seiner Stelle sein Verdienst wohl bleiben mag, über den
+                    wir uns aber doch zu beschweren haben, daß er unserer Einbildungskraft der
+                    Hoheit des Alterthums so wenig gemäße Formen aufbindet, und indem er unsre
+                    Erkenntniß erweitern will, unsern Geschmack verschlechtert.</p>
+                <p>Haben Sie, mein Werthester, nicht auch etwas <subst>
+                        <del rendition="#s">über</del>
+                        <add place="superlinear">für</add>
+                    </subst> das <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_lz4_h13_dw">Carische Mausoleum</rs>
+                        </orig>
+                        <note xml:id="nf4l_c5h_dw">Grabmal des Königs Mausolos II. von Karien in
+                            Halikarnassos.</note>
+                    </seg> gethan? für den<seg type="comment">
+                        <orig> beweglichen Tempel, in welchem <persName key="ed_awj_czh_dw">Alexanders</persName> Leiche nach <placeName key="prov_oxg_n4j_2v">Aegypten</placeName> gebracht worden</orig>
+                        <note xml:id="nuc1_4xh_dw">Alexander der Große wurde nicht nach seinem
+                            Wunsch im Ammonium der Oase Siwa begraben, sondern nach 2-jähriger
+                            Vorbereitungszeit in einem Leichenzug mit einem auf Rädern befindlichen
+                            Tempel, den Diodor beschreibt, nach Ägypten gebracht; dort zunächst in
+                            Memphis bestattet und später nach Alexandria verlegt.</note>
+                    </seg>, <subst>
+                        <del rendition="#s">Ueber</del>
+                        <add place="intralinear">für</add>
+                    </subst> den <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_wsx_1b3_dw">Rogus</rs> des <persName key="ed_awp_rzh_dw">Hephæstion</persName>
+                        </orig>
+                        <note xml:id="nghf_m13_dw">Grabmal in Form einer babylonischen
+                            Stufenpyramide mit fünf Geschossen. Die Grabstätte soll sich bei der
+                            antiken Stadt Amphipolis, östlich von Thessaloniki, befinden. Der Hügel
+                            hat einen Umfang von fast 500 Metern und ist 33 Meter hoch. - Hirt
+                            beschreibt das Grabmal später in seiner „Geschichte der Baukunst bei den
+                            Alten“, Bd. 3: Die Lehre der Gebäude bei den Griechen und Römern (Berlin
+                            1827), Abschnitt VIII: Die Ehren- und Grabmäler, § 11, S.
+                            348-349.</note>
+                    </seg>, <pb n="3"/> wobey ich zugleich eine plausiblere Hypothese wünschte,
+                    warum <persName key="ed_awj_czh_dw">Alexander</persName>, um zu dieser
+                    Bestattung Platz zu gewinnen, einen Theil der Mauern von <placeName key="ed_nkj_hb3_dw">Babylon</placeName> abtragen lassen? Willkühr und Grille
+                    ist es gewiß nicht gewesen. Sollte man nicht bey der ungeheuern Dicke der Mauern
+                    eine Art von amphitheatralischen Stufensitz auf beyden Seiten für die Zuschauer <subst>
+                        <del rendition="#s">gewonnen</del>
+                        <add place="superlinear">erhalten</add>
+                    </subst>, <del rendition="#s">ohne</del> oder <add place="left">vielleicht</add>
+                    gar durch die abgetragenen Ziegeln und gewonnene Erde ein wirkliches
+                    Amphitheater hergestellt haben?</p>
+                <p>Wie die <subst>
+                        <del rendition="#s">Alten</del>
+                        <add place="superlinear">Griechen</add>
+                    </subst> nicht gerade einen Stolz darein setzten alles von Grund aus zu bauen,
+                        <del rendition="#s">und wie nachher die Römer das ungeheure Coliseum in
+                        einen Sumpf zu gründen</del>; sondern gar gerne Berge, Hügel und Gründe
+                    benutzten, um dem durch die Natur halbvorbereiteten eine architectonische Form
+                    zu ihren Zwecken zu geben, wie uns die <rs type="artwork" key="prov_tzn_pb3_dw prov_eps_sb3_dw">Theater</rs> von <placeName key="prov_zw3_rqg_w5">Syrakus</placeName>
+                     und 
+                        <placeName key="prov_ytt_hqg_w5">Tauromina</placeName>
+                    , <del rendition="#s">ja das kleine Amphitheater in Trier, wenn man es so
+                        nennen will</del>, belehren: sollte man hier nicht auch, um etwas Ungeheures
+                    mit Bequemlichkeit und Leichtigkeit zu erlangen, die Mauerberge einer
+                    überwundenen Stadt, als Stoff zu einem solchen Wundergebäude benutzt haben, das
+                    ein ganzes Volk und eine ganze Armee fassen sollte. <pb n="4"/> Ueber andre
+                    dergleichen Dinge habe ich noch manchen Einfall, den ich wohl gerne mittheile,
+                    und weshalb ich mich gelegentlich anzuregen bitte.</p>
+                <p>Herrn <persName key="prov_xsn_1cg_f5">Büry</persName> grüßen Sie zum
+                    allerschönsten. Ich habe <seg type="comment">
+                        <orig>seinen Brief</orig>
+                        <note xml:id="nz2f_mc3_dw">Vgl. 1809-05-23-a-Goethe, Sachanmerkung</note>
+                    </seg> erhalten. Er verzeihe mir, daß ich nicht antwortete: ich bin ohnehin ein
+                    fauler Correspondent, und man entwöhnt sich jetzt mehr als sonst des
+                    Briefschreibens. Deswegen gedenke ich doch treulich an meine abwesenden Freunde
+                    und lasse mir von Reisenden gern umständlich erzählen, die mir denn auch sehr
+                    viel Gutes von <persName key="prov_xsn_1cg_f5">Bürys</persName>
+                    <seg type="comment">
+                        <orig>letzten Arbeiten</orig>
+                        <note xml:id="nxjb_rsc_l1b">Vgl. 1809-05-23-a-Goethe.</note>
+                    </seg> gesagt haben. <seg type="comment">
+                        <orig>Theilen Sie ihm <bibl sameAs="ed_pny_dd3_dw">beykommendes
+                                Gedicht</bibl> mit</orig>
+                        <note xml:id="ndyr_ltc_l1b">“Johanna Sebus“. Das Gedicht, das Goethe am 11.
+                            und 2. Mai 1809 niedergeschrieben hatte, war Ende Mai 1809 bei Frommann
+                            in Jena gedruckt worden. Goethe schickte die ganze Auflage an den
+                            Niederrhein; vgl. Goethe an Charles de Keverberg und Christiane
+                            Vernejoul, 29. Mai 1809. - Bury dankt Goethe am 25. Oktober 1809: Er
+                            habe nach Goethes Gedicht ein Aquarell angefertigt und der Prinzessin
+                            Karoline von Hessen-Kassel zum Geburtstag überreicht. Beiliegend erhalte
+                            Goethe einen Umriss davon, gezeichnet von der zehnjährigen Prinzessin,
+                            die bereits Kompositionen nach Goethes Gedichten anfertige (Goethe,
+                            Briefe, Regestausgabe 5/1290). - Die Ballade wurde 1809 von Zelter
+                            vertont.</note>
+                    </seg>, <seg type="comment">
+                        <orig>zu dem ich von wohldenkenden Freunden aus jener Gegend veranlaßt
+                            worden</orig>
+                        <note xml:id="ndkb_l5c_l1b">Goethe war vom Unterpräfekten in Kleve, Charles
+                            de Keverberg, durch Christiane von Vernejoul über die näheren Umstände
+                            "der fürchterlichen Überschwemmung, welche vor einigen Wochen so viel
+                            Unglück in Holland, und unßerer Gegend angerichtet" unterrichtet und
+                            gebeten worden, "die rührende That [der Johanna Sebus] in einer Ballade
+                            [zu] Verewigen" (Briefe an Goethe, Regestausgabe 5/1093).  Ein
+                            Bürgermeister vom Niederrhein hatte Goethe über den Vorfall berichtet
+                            und ihn gebeten, "in einer alles verschlingenden Zeit das Andenken einer
+                            reinen Menschenhandlung" zu erhalten. </note>
+                    </seg>.</p>
+                <p>Leben Sie recht wohl, gedenken Sie mein und lassen mich von Zeit zu Zeit
+                    theilnehmen an dem, was Sie vorhaben und wirken. Möchten Sie <persName key="ed_vpd_zxv_bw">den Verleger</persName> veranlassen, mir die <seg type="comment">
+                        <orig>perspectivische Herstellung des Tempels zu Ephesus</orig>
+                        <note xml:id="na31_5d3_dw">Vgl. 1809-07-04-a-Goethe: Er könne den
+                            Kupferstich nicht schicken, da der Kupferstecher gestorben sei.</note>
+                    </seg>, sobald sie fertig ist, zuzusenden; ich werde die Gebühr mit Dank
+                    abtragen. Herrn Geheimerath <persName key="ed_jzw_xhq_bw">Wolf</persName> haben
+                    wir leider dießmal nicht gesehen; er hat sich auf seinem Zuge westlich gehalten.
+                    Kehrt er nach <placeName key="prov_ycp_cpr_js">Berlin</placeName> zurück, so
+                    empfehlen Sie mich ihm bestens.</p>
+                <p>Wird es Ihnen möglich sich vom Platze zu bewegen, so richten Sie Ihren Weg gerade
+                    auf uns zu, doch nicht unangemeldet, damit wir nicht etwa entfernt oder so
+                    versagt und verwickelt sind, um den Freund nicht gehörig empfangen zu können.
+                    Gegenwärtig bin ich in <placeName key="prov_xby_ps1_z5">Jena</placeName>. Ueber
+                    meine <seg type="comment">
+                        <orig>Badereise</orig>
+                        <note xml:id="na5g_123_dw">Goethe unternahm 1809 keine Badereise; er hielt
+                            sich den Sommer über meist in Jena auf.</note>
+                    </seg> konnte ich noch nichts beschließen.</p>
+                <closer>
+                    <dateline>Jena den 9 Juny 1809.</dateline>
+                    <salute/>
+                    <signed/>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

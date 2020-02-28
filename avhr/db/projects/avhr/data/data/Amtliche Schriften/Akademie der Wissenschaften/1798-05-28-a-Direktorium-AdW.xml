@@ -1,0 +1,118 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ifh_yrr_5fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aloys Hirt an das Direktorium der Akademie der Wissenschaften. Berlin, 28.
+                    Mai 1798</title>
+                <title>. Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-XV-3, fol. 6
+                            r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Stock, 1929, S. 87-88</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-05-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qng_bhs_5fb">Merian, Johann Bernhard (1723-1807) (schweiz.
+                        Philosoph, 1750 OM der Preußischen Akademie der Wissenschaften, 1757
+                        Bibliothekar der Akademie, 1769 zugleich Inspektor und Prof. für Philosophie
+                        am Französ. Kollegium in Berlin; 1771-1807 Direktor der Philologischen
+                        Klasse der Akademie, 1797-1807 Beständiger Sekretar der Akademie)</persName>
+                    <persName key="ed_vpl_13s_5fb">Borgstede, Albrecht August Heinrich (von)
+                        (1757-1824) (Geh. Finanz-, Kriegs- und Domänenrat in Berlin, 1798 OM der
+                        Preuß. Akademie der Wissenschaften, 1798-1812 Direktor der Akademie, 1812
+                        EM; 1807 Generalzivilkommissar von Pommern und der Neumark, 1823 Mitglied
+                        des Staatsrates)</persName>
+                    <persName key="ed_n4k_vjs_5fb">Selle (Sell), Christian Gottlieb (1748-1800) (dt.
+                        Mediziner und Philosoph, prakt. Arzt in Berlin, 1778-1800 Erster Arzt an der
+                        Charité, Leibarzt Friedrichs II. und Friedrich Wilhelms II., 1795 Geh. Rat,
+                        1798 Zweiter Direktor des Collegium medico-chirurgicum in Berlin, 1786 OM
+                        der Preuß. Akademie der Wissenschaften, 1797 Direktor der Philosophischen
+                        Klasse der Akademie)</persName>
+                    <orgName key="ed_jh3_2fc_b1b">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische: Direktorium</orgName>
+                </correspAction>
+                <note>Bearbeitungsvermerk: Præs 28 May 1798 [auf Bl. 6r, oberer rechter Rand].
+                    - Bemerkung der Empfänger: Den Verlangen des Herrn HofR Hirt sind wir
+                    zuvorgekommen, und bleibt dato nichts übrig als den Entschlus Sr Maj. so wol
+                    über diesen Punkt, als auch über das ganze Schicksaal der Academie zu erwarten.
+                    [Mit den egh. Unterschriften:] Merian   Selle   Borgstede / eod - [unterhalb von
+                    Hirts Text]</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>Das könig<ex>liche</ex>
+                    <hi rendition="#aq">Direktorium</hi> der Academie der Wißenschaften hat mir die
+                    Ehre erwiesen, mir in Gesellschaft des Herrn Kirchenraths <persName key="prov_ohn_5lv_3v"><hi rendition="#aq">Meierotto</hi></persName> die
+                    specielle Aufsicht über das königliche <rs type="artwork" key="prov_bfc_wcs_5fb">Münz- und Medaillen Cabinet</rs> zu übertragen. Obwohl die Münzkunde nie
+                    mein besonderes Studium war, und ich dasselbe bißher nur als einen Nebenzweig
+                    der Alterthumskunde cultivirte, so werde ich mich doch diesem ehrenvollen
+                    Auftrage des königl<ex>ichen</ex>
+                    <hi rendition="#aq">Direktorium</hi> mit Vergnügen unterziehen.</p>
+                <p>Zugleich muß ich aber ein königl<ex>iches</ex>
+                    <hi rendition="#aq">Direktorium</hi> um die Erlaubniß bitten, einen Vorschlag in
+                    Erwegung bringen zu dürfen, der in dieser Sache von der ersten Wichtigkeit ist.
+                    Es wird nemlich den Herrn Direktoren nicht unbekannt seyn, daß ein Theil der
+                        königl<hi rendition="#aq"><ex>ichen</ex></hi> Münzsammlung sich auf dem
+                        <placeName key="prov_ulk_twt_fv">Schlosse in <hi rendition="#aq">Berlin</hi></placeName>, und ein anderer nicht weniger beträchtlicher Theil
+                    im <placeName key="ediarum_typ_4bs_5fb">Antikentempel zu <hi rendition="#aq">Potsdam</hi></placeName> befindet. Im Falle nun ein gündliches <hi rendition="#aq">arrangement</hi> dieses wichtigen Zweiges der ältern und
+                    neuen Litteratur, und Kunst statt haben sollte; so wäre vor der Hand wesentlich
+                    nöthig, daß diese Sammlungen vereiniget würden. Ein gleiches sollte mit der <pb n="2"/>
+                    <rs type="artwork" key="prov_c1v_gds_5fb">königl<ex>ichen</ex>
+                        <hi rendition="#aq">Gemmen</hi>sammlung</rs> geschehen, in Verbindung mit
+                    den kleinern Bronzen, und andern antiken Geräthschaften, welche iezt Pe^le-me^le
+                    auf einer Bank in dem <placeName key="ediarum_typ_4bs_5fb">Antikentempel</placeName> umher liegen. Alle <del rendition="#s">Gege</del>
+                    genannte Gegenstände gehören zusammen, weil sie gleichsam ein- und dasselbe
+                    Studium ausmachen.</p>
+                <p>Zu ihrer zweckmäßigen Aufstellung wäre die <placeName key="prov_obz_4lv_3v">königl<ex>iche</ex> Bibliothek</placeName> selbst vorzüglich geeignet:
+                    und an gehörigem Raum dazu könnte es allda nicht fehlen. die <hi rendition="#aq">Medaillen</hi>, und <hi rendition="#aq">Gemmen</hi> müßen in verschloßenen
+                    Schränken; die andern antiken Idolen, u. Geräthschaften unter verschloßenen
+                    Glasthüren aufbewahret werden.</p>
+                <p>Ein könig<ex>liches</ex>
+                    <hi rendition="#aq">Direktorium</hi> der Academie der Wißenschaften würde
+                    demnach diesen Vorschlag in reifere Erwegung ziehen, und die erforderlichen
+                    Maasregeln zur Vollführung einer solchen nüzlichen Einrichtung treffen.</p>
+                <p>Berlin den 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> May 1798.</p>
+				<closer>
+					<salute/>
+					<signed>Hirt.</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

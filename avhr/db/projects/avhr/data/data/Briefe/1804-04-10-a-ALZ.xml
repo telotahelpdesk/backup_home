@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gmw_svq_xv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An die Direktion der Jenaischen Allgemeinen Literatur-Zeitung. Berlin, 10.
+                    April 1804.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">V/AS 607</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1804-04-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_b35_b4l_xv">Unbekannt, (Redaktion der ALZ?) (-)</persName>
+                    <placeName key="prov_xby_ps1_z5">Jena</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 10<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> April 1804.</dateline>
+                </opener>
+                <p>Bloß der aufrichtige Wunsch an einem <bibl sameAs="ed_d2z_1tq_xv">litterarischen
+                        Institut</bibl> Theil zu nehmen, welches so treffliche Männer an seiner
+                    Spize hat, und <seg type="comment">
+                        <orig>das sich durch die ersten Monate bereits so sehr bewährt hat</orig>
+                        <note xml:id="nzwr_tbc_g1b">Seit 31. Januar 1803 erschien die "Jenaische
+                            allgemeine Literatur-Zeitung" unter dem verantwortlichen Redakteur
+                            Heinrich Karl Abraham Eichstädt, nachdem der Herausgeber der
+                            "Allgemeinen Literatur-Zeitung, Christian Gottfried Schütz, deren
+                            Erscheinungsort bereits 1803 nach Halle verlegt hatte. Die Jenaische und
+                            die Hallesche Literaturzeitung standen sich anfangs als Konkurrenten
+                            gegenüber. Während die Jenaische ihr Profil erweitern und neue
+                            Mitarbeiter gewinnen konnte, verlor die Hallesche Literaturzeitung
+                            zunehmend an Bedeutung.</note>
+                    </seg>, war der Grund, warum ich bis iezt mit meiner Antwort auf die <seg type="comment">
+                        <orig>wiederholten Aufforderungen</orig>
+                        <note xml:id="np2d_4yq_xv">Nicht überliefert.</note>
+                    </seg> zögerte. Ich hofte noch immer, bey meinen andern Arbeiten <del rendition="#s">mich</del> Zeit zu finden, um einige Beyträge liefern zu
+                    können. Allein ein Zusammentreffen von Umständen, welches mich bis iezt
+                    hinderte, etwas für das Institut zu thun, scheint mir auch für die nächste
+                    Zukunft die Aussicht zu benehmen, je mit Ordnung und Sicherheit für Dasselbe
+                    arbeiten zu können. Da nun der Direction mit einem unzuverläßigen Mitarbeiter
+                    nicht gedient seyn kann, so muß ich Dieselbe sehr um Vergebung bitten, Ihr
+                    anfänglich auf Ihre Anfrage <seg type="comment">
+                        <orig>mein Jawort gegeben zu haben</orig>
+                        <note xml:id="nucr_qyq_xv">Vgl. 1803-10-04-a-ALZ.</note>
+                    </seg>, das ich iezt, durch die Umstände gedrungen, wieder zurücknehmen muß.
+                    Damit aber die Societät der Unternehmer nicht einen andern, als den angegebenen
+                    Grund meines Zurücktrettens argwöhnen möge, so versichere ich Dieselbe <pb n="2"/> auf Ehre, <add place="superlinear">daß ich</add> an keinem andern ähnlichen
+                    Institute Theil <del rendition="#s">zu</del>habe<del rendition="#s">n</del>, und
+                    wahrscheinlich nie haben werde.</p>
+                <p>Übrigens kann es dem Institute an trefflichen Mitarbeitern in dem Fache, worin
+                    ich allenfalls arbeiten könnte, nicht fehlen. Außer den <seg type="comment">
+                        <orig>weimarschen Kunstfreunden</orig>
+                        <note xml:id="nlrv_vyq_xv">Unter
+                            dem Verfasserkürzel „W.K.F.“ für „Weimarer Kunstfreunde“
+                            veröffentlichten neben Heinrich Meyer auch Goethe und
+                        Schiller.</note>
+                    </seg> ha<subst>
+                        <del rendition="#ow">ben</del>
+                        <add place="intralinear">t</add>
+                    </subst> es <seg type="comment">
+                        <orig>Herrn Prof. <persName key="prov_w4b_lwr_js">Fernow</persName> in <placeName key="prov_xby_ps1_z5">Jena</placeName>
+                        </orig>
+                        <note xml:id="nvwn_h3r_xv">In einer von Goethe am 22. September 1803 an
+                            Eichstädt geschickten Rezensentenliste der JALZ findet sich der Name
+                            Fernows und die ihm zugeteilten Wissenschaftsbereiche »Archäologie. sch.
+                            Künste. Italien. Sprachkunde« unter der Nummer 30 (zitiert nach:
+                            Fernow-Briefe, Bd. 2, Brief 223, S. 348, Anm. zu: „zur Recension
+                            vorgeschlagenen Büchern“).</note>
+                    </seg> selbst. Die kurze <seg type="comment">
+                        <orig>Recension des <bibl sameAs="ed_rrq_mzq_xv">
+                                <hi rendition="#aq">Augusteum</hi>'s</bibl>
+                        </orig>
+                        <note xml:id="nghg_n1r_xv">In: JALZ, 1. Jg., 1804, Bd. 1, Nr. 18, Sp. 137-138;
+                            gezeichnet: W. K. F. [= Weimarer Kunstfreunde]. Die Rezension stammt
+                            vermutlich von J. H. Meyer. - Darin heisst es u.a.: „Die vier ersten
+                            Kupfertafeln (zwey davon sind ausgemahlt) sollten, nach des Vf's
+                            Absicht, Monumente des ägyptischen Kunstgeschmacks, die übrigen sechs
+                            aber Werke von altgriechischem Style darstellen. In den Erklärungen
+                            derselben zeigt sich Hr. Becker durchaus als redlichen Forscher und
+                            bescheidenen Wahrheitsfreund; desto lieber und offener theilt daher Rec.
+                            über verschiedene Stücke seine abweichenden Meinungen mit. Der Tab. IV
+                            abgebildete behaubte Kopf von röthlichem Marmor schien ihm sonst bey
+                            wiederholter Betrachtung, die Züge des Antinous zu haben. Wenn sich
+                            diess wirklich bewährte, so wäre derselbe ohne Zweifel das Fragment
+                            einer Statue des Antinous in ägyptischem Costume, dergleichen mehrere
+                            vorhanden sind; nicht aber, wie Hr. B. vermuthet, das weibliche Haupt
+                            einer ägyptisch-griechischen Sphinx. - Dass die Tab. V. VI. VII
+                            abgebildete dreyseitige Base, nicht, wie S. 44 angeführt wird, älter
+                            ist, als irgend eines von allen erhoben gearbeiteten Werken, die sich in
+                            Rom befanden, kann bis zur augenscheinlichsten Ueberzeugung dargethan
+                            werden. Genaue Vergleichungen lehren vielmehr, dass nicht nur das uralte
+                            Basrelief mit der Erziehung des Bacchus in der Villa Albani, sondern
+                            auch die runde Brunneneinfassung mit den XII Göttern im Capitol. Museum,
+                            desgleichen die grosse dreyseitige Base in der Villa Borghese
+                            beträchtlich älter seyn müssen. [...] - Gegen die allegorische Deutung
+                            des apollinischen Dreyfusses und gegen die darauf gegründete Erklärung
+                            der Basreliefe und übrigen Zierathen der erwähnten dreyseitigen Base,
+                            als bezüglich auf die Jahreszeiten, wären allerley Einwendungen zu
+                            machen, welche jedoch jetzt nicht ausgeführt werden können. Die einzige
+                            Bemerkung will Rec. sich erlauben, dass, wenn die griechische Kunst
+                            bloss zur Einkleidung dunkler Allegorieen, zur Hülle für mystische
+                            Beziehungen hätte dienen müssen, und wenn sie nicht einen rein
+                            menschlich sinnlichen Grund gehabt hätte, sie schwerlich so schön
+                            aufgeblüht seyn würde, als wirklich geschehen ist. [...]“</note>
+                    </seg>
+                    ist vortrefflich, und ganz mit der Ansicht, die ich selbst von den publizirten
+                    Monumenten habe. Über den anderweitigen <hi rendition="#aq">Commentar</hi> des <persName key="ed_fjm_l2b_wv">Herausg<ex>ebers</ex>
+                    </persName> ist nichts zu sagen, denn er ist wahrlich
+                    unter aller Kritik. Anstatt in der Erklärung der Denkmäler weiter zu kommen, ist
+                    die Weise des Herrn <persName key="ed_fjm_l2b_wv">Becker's</persName> gerade
+                    die, welche das gesammte Studium wieder in den weiten Raum der Oberflächlichkeit
+                    zurückwirft. Indeßen da die Zeichner und Kupferstecher hinreichend gut sind; so
+                    muß man mit dem <hi rendition="#aq">Commentar</hi> schon Geduld
+                    haben.</p>
+                <p>Sollte die Gesellschaft die mir zugesandten Papiere zurückgesandt haben wollen,
+                    und hätte ich etwa Erstattungen der gemachten Briefauslagen wegen zu machen, so
+                    bitte ich, mir es anzuzeigen, und meiner ganzen Achtung für das Institut, und
+                        <persName key="ed_qbf_ytq_xv">deßen Vorsteher</persName> versichert zu
+                    seyn.</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

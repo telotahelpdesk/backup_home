@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_yqh_fql_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An die Großfürstin Alexandra Fjodorowna</title>
+                <title> von Rußland. Berlin, kurz vor 23. Oktober 1820] </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1820-10-23-a-Marianne-v-Preussen: "Sehr wünschte ich der Großfürstin
+                    meine Aufwartung zu machen. Indeßen fürchtete ich, es möchte zur Unzeit seyn,
+                    wenn ich mich in der ersten Zeit meldete, und dachte also abzuwarten, bis die
+                    Großfürstin mehr Muße haben würde. Aber auch iezt weiß ich nicht, wie ich es
+                    machen soll. Ich habe daher an die Großfürstin in der Einlage eschrieben, und
+                    sie gebeten, mir gnädigst einen Moment zu bestimmen. Aber auch mit der
+                    Übersendung dieses Anschreibens bin ich in Verlegenheit; und obwohl ich meine
+                    Dreistigkeit durch nichts zu entschuldigen weiß, so kann ich doch nicht umhin,
+                    mich gehorsamst an Ew. Königliche Hoheit zu wenden, mit der unterthänigsten
+                    Bitte, das Schreiben unter Ihrem Schutze an die Großfürstin gelangen zu
+                    laßen."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1820-10-01" notAfter="1820-10-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_drx_3jl_xw">Rußland, Alexandra Fjodorowna, Grossfürstin von
+                        (1798-1860) (drittes Kind und älteste Tochter von König Friedrich Wilhelm
+                        III. von Preußen und Königin Luise, seit 13. Juli 1817 verheiratet mit
+                        Großfürst Nikolaus Pawlowitsch, dem zweiten Bruder von Zar Alexander I., mit
+                        Heirat und Übertritt zur russisch-orthodoxen Kirche wurde sie Alexandra
+                        Fjodorowna Großfürstin von Rußland, 1825 Zarin von Rußland)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der Brief wurde kurz vor oder am 23. Oktober 1820 geschrieben
+                    und als Einlage an Marianne von Preußen geschickt mit Bitte um weitere
+                    Besorgung.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

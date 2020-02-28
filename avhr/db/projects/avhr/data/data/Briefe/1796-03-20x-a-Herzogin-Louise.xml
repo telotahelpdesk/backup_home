@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nx4_wmw_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Louise von Anhalt-Dessau. Rom, 20. März 1796. Sonntag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Tagebücher der Fürstin Louise von Anhalt-Dessau: Eintrag 20. März
+                    1796: "Da die Br[un] mich mit zur Petri Kirche nehmen wolte und ich doch ihrer
+                    Sonderbahrkeit wegen dem gange[?] nicht rechte traute[?] so schrieb ich an Hirt
+                    zu fragen wegen der Function, u Er antwortet mir auch es sey in der That nichts
+                    für mich daran zu sehen, aber wenn ich wo anders hin-führe solle ichs ihm nur
+                    wißen laßen, also schrieb ich's der Br[un] ab u schlug ihr vor um 12 mit mir zu
+                    fahrn nach einer villa, so hielt ich mich bereit u um 12 kam Hirt zu
+                    M[atthisson] [...] u wir fuhren alle drey nach villa Lepri welche Hirt noch
+                    nicht kannte" (LHASA, Abt. Dessau, A 9 e Nr. 15 (4)).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-03-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Hirts
+                        Kursteilnehmerin in Rom, Freundin Hirts)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

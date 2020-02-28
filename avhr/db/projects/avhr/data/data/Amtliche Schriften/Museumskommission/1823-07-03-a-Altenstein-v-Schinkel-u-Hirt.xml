@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_otc_wmd_wjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    3. Juli 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SBB PK</institution>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno><idno type="shelfmark">Slg. Darmstaedter D 1816: Schinkel, Carl
+                                Friedrich, Blatt 5 (acc. Darmst. 1914. 27)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-07-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_y4n_rgd_wjb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschriften. - Empfängerbemerkungen: "B. Cito /
+                    pr. den 4/7 23 / 1,426 B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Koenigl. Wirklichen Geheimen Staats Minister, / Minister
+                            der Geistlichen, Unterrichts und Medi-/zinal Angelegenheiten pp / Herrn
+                            Freyherrn von Altenstein</addrLine>
+                    </address>
+                </opener>
+				<p>Euer Excellenz sehr verehrlicher Erlaß vom 29<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> v<ex>origen</ex> M<ex>ona</ex>t<ex>s</ex> hat uns die
+                    Veranlaßung gegeben, sofort das Lokal im <placeName key="ediarum_anp_pjd_wjb">Anspachschen Palais</placeName> in Augenschein zu nehmen, welches zur
+                    Aufnahme des für die <rs type="artwork" key="prov_dmb_fmd_wjb">Koeniglichen
+                        Schlößer</rs> bestimmten Theils der vormaligen <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs> angewiesen ist, und ermangeln
+                    wir nicht Euer Excellenz ganz gehorsamst anzuzeigen, daß die zwischen den beiden
+                    großen Sälen in der zweiten Etage nach dem Garten zu liegenden drei Zimmer zwar
+                    bereits geräumt worden sind, daß sie aber noch nicht haben übergeben werden
+                    koennen, da sich einige Reparaturen an den Fenstern, Decken und Thürschlößern
+                    als nothwendig vorgefunden, mit deren Ausführung indessen der Professor
+                        <persName key="prov_hfj_vk5_tv">Rabe</persName> schon beschäftigt ist,
+                    welcher auch versprochen hat, das Lokal bis zum nächsten Montag zur Uebergabe
+                    fertig zu liefern. In der Voraussetzung, daß dieses erfolgen werde, haben wir
+                    die Veranstaltung getroffen, daß mit dem Transport der Bilder dorthin am
+                    nächsten Montag der Anfang gemacht wird, und dürfte es daher nöthig seyn, daß
+                    sodann zur Empfangnahme der dorthin gesendeten Bilder jemand in dem dortigen
+                        <placeName key="ediarum_anp_pjd_wjb">Local</placeName> anwesend sey, wir
+                    erlauben uns daher, Euer Excellenz ganz ergebenst anheim zu stellen, zu diesem
+                    Geschäft in Abwesenheit des Herrn Geheimen Ober Regierungs Raths von <persName key="ed_c5d_nzd_wjb">Harlem</persName> einen Beamten zu bestimmen, auch
+                    demselben Behufs der Verzeichnung der in Empfang genommenen Bilder einen
+                    Sekretair zuzuordnen, so wie wir unserer Seits nicht unterlassen werden, bei der
+                        <placeName key="ediarum_tbl_n3n_5jb">Absendung</placeName> durch den
+                    Sekretair <persName key="ed_wk3_kln_5jb">Müller</persName> gleichfalls ein
+                    Verzeichniß anfertigen zu laßen, wodurch nach unserm unvorgreiflichen
+                    Dafürhalten eine dem Zwecke entsprechende Controlle eingerichtet sein dürfte. </p>
+				<closer>
+                    <dateline>Berlin den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> July
+                        1823.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

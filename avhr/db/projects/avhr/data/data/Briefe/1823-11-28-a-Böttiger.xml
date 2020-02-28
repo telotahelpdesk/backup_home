@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_q15_wn5_4x">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 28. November 1823.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 45</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-11-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_o1l_tzk_qx"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 28<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        Nov. 23.</dateline>
+                    <salute>Mein vortrefflicher Freund!</salute>
+                </opener>
+                <p>Ihr freundlicher <persName key="ed_dbg_wkz_4x">Dr. Hase</persName> war uns ein
+                    angenehmer Bote – wir hoffen Vorbote <seg type="comment">
+                        <orig>einer Reise</orig>
+                        <note xml:id="nb4s_dfj_px"/>
+                    </seg>, die Sie uns seit lange versprochen, aber noch unerfüllt ließen. Laßen
+                    Sie dieselbe wenigstens nicht länger anstehen als bis zum Frühjahr. Eine kleine
+                    Veränderung in der Lebensweise ist manchmal das beste Mittel, alle häßlichen
+                        <seg type="comment">
+                        <orig>Symptome</orig>
+                        <note xml:id="nrlb_bbk_qx">Vgl. <ref target="hirt_gql_nvd_lx/#no3y_r3r_lx">1822-07-09-a-Böttiger: Sachanmerkung</ref>
+                        </note>
+                    </seg> von Krankheitsfurcht zu zerstreuen. <persName key="ed_dbg_wkz_4x">Dr.
+                        Hase</persName> mag Ihnen erzählen. Ich selbst konnte nur geringes für ihn
+                    thun. Aber <persName key="ed_ifk_ktj_xv">Levezow</persName> und andere, wie er
+                    selbst sagt, desto mehr. Übrigens scheint er nicht unzufrieden von <placeName key="prov_ycp_cpr_js">Berlin</placeName> abzugehen, obwohl <seg type="comment">
+                        <orig>das was zu unserm <placeName key="prov_up1_xwt_fv">künftigen <hi rendition="#aq">Museum</hi>
+                            </placeName> gehört</orig>
+                        <note xml:id="nevc_mtx_sx">Christian Daniel Rauch schreibt dazu am 25.
+                            Oktober 1823 an Böttiger: "Des Königs kleine Hausgalerie der Bilder
+                            lebender und neuerer Künstler ist eingerichtet, dient zugleich auch als
+                            Königl. Speisesaal; die eine wohl 60 Fuss lange Wand ist beinah schon
+                            voll. Das letzt angekommene Bildchen ist eine freundliche Caecilie von
+                            Draeger aus Rom, auch ein Christuskopf von Emil Wolf daselbst nach Mich.
+                            Angelo in St. Agnese vor dem Thore schön in Marmor kopirt. Dagegen hat
+                            der König alle florent. Terracottas, Bronçen und Marmor, so wie die
+                            acquirirten und die vom Könige von Neapel geschenkt erhaltenen ant.
+                            Broncen und irdenen Gefässe dem Museo d. H. Hirt übergeben, es mögen
+                            wohl 80 Nummern sein, sowie auch die herrliche 5 Fuss hohe Statue der
+                            Luna aus dem Palazzo Colonna und die des Napoleon von Chaudet sind zu
+                            letzterm bestimmt, in der Akademie einstweilen aufgestellt. / Hirt's und
+                            Dict. Wagen's, Schinkel's und Wach's Arbeiten mit Auswahl der Bilder für
+                            das Museum ist so gut als vollendet. / 1500 Stück Gemälde der
+                            S[o]llyschen Sammlung sind als gänzlich verabschiedete in das
+                            Anspachsche Palais gebracht. / 800 Doubletten und mitunter vortreffliche
+                            Bilder von der S[o]llyschen und Justinianischen Sammlung sind zum Tausch
+                            mit andern Galerien, zur Anlage öffentlicher Galerien in den
+                            Hauptstädten der Provinzen etc. bei Seite gestellt. / 1500 Stück (wozu
+                            200 Stück aus den Königl. Schlössern und Galerien zu Berlin und
+                            Sanssouci genommen werden) ist der Kern der S[o]llyschen und
+                            Justinianischen Sammlung, welche zur Aufstellund im Museo bestimmt ist.
+                            / Es bleiben also neben der Sammlung des künftigen Museo auch die
+                            Galerien zu Berlin und Sanssouci intact so wie alle andern Königl. mit
+                            Gemälden angefüllten Gemächer, und der geringe Verlust für die
+                            Ausdehnung 5 Königl. Schlösser, welche 200 Stück Gemälde hergeben, wird
+                            durch die verabschiedeten und Doubletten wieder gedeckt. Denken Sie
+                            sich, liebster Freund, Hirt unter diesen bunten Lämmerchen! ich habe ihn
+                            nie heiterer gesehen!" (zitiert nach: Robert Boxberger: Briefe des
+                            Bildhauer Chr. Rauch, meist an Hofrath Böttiger, aus dessen Nachlass auf
+                            der Bibliothek in Dresden. In: Jahrbücher der Königlichen Akademie
+                            gemeinnütziger Wissenschaften zu Erfurt, N. F., Heft XI, 1882, S.
+                            113-175; hier S. 126-127).</note>
+                    </seg>, noch sehr zerstückt umher steht und über einander gehäuft liegt, so daß
+                    nur weniges gesehen, und dies nur unvollkommen genoßen werden kann. Aber kommen
+                    Sie nur; wir wollen unser Möglichstes thun. Ich schreibe Ihnen am Morgen unseres
+                        <seg type="comment">
+                        <orig>festlichen Einzuges</orig>
+                        <note xml:id="nkmn_bxb_px">Der bayrischen Prinzessin Elisabeth anlässlich
+                            ihrer Hochzeit mit dem preußischen Kronprinzen; siehe unten.</note>
+                    </seg>, von dem Ihnen <persName key="ed_dbg_wkz_4x">Dr. Hase</persName>
+                    referiren wird.</p>
+                <p>Ich bewundere die Thätigkeit Ihrer Unthätigkeit, was Sie so nennen. Überall sind
+                    Sie zu Hause: in den Tagesblättern, wie in den eleganten almanachen. <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_eln_4y5_t1b">Auch anatomische Arbeiten unserer
+                                Künstler wißen Sie auszuschmücken</bibl>
+                        </orig>
+                        <note xml:id="nt3s_3fk_qx">Burkhard Wilhelm Seiler und Karl August Böttiger:
+                            Erklärungen der Muskeln und der Basreliefs an Ernst Matthaei's,
+                            Bildhauers und Lehrers an der Academie der bildenden Künste zu Dresden,
+                            Directors des Naturalien-Cabinets und Professor honorarius bei der
+                            Universität zu Rom, Ritters vom goldenen Sporn, Pferde-Modelle; vom
+                            Hofrath und Ritter D. Seiler und Hofrath und Ritter Boettiger. Dresden
+                            1823, mit 3 Kupfertafeln. – Von Böttiger stammt der zweite Beitrag
+                            "Erklärung der zwei antiken Reliefs auf dem Fussgestelle des
+                            Modellpferdes von E. Matthäi nachgebildet" (S. 41 ff.)</note>
+                    </seg>. <seg type="comment">
+                        <orig>Sie sind der <persName key="ed_xby_5ck_qx">
+                                <hi rendition="#aq">Proteus</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nnpy_wck_qx">Der Vergleich mit dem Meeresgott der griech.
+                            Mythologie lässt Negativkonnotationen in der Rezeption dieser Gestalt
+                            außer Acht und meint wohl vor allem ihre Allwissenheit (nach Vergil),
+                            die Gabe des prophetischen Wissens und ihre Wandlungsfähigkeit. – Hirt
+                            ordnet Proteus in seinem "Bilderbuch für Mythologie, Archäologie und
+                            Kunst" den "See-Dämonen" zu, beschreibt seine äußere Erscheinung, ohne
+                            ihn allerdings näher zu charakterisieren (2. Heft, S. 151).</note>
+                    </seg>
+                    <pb n="2"/> der Archaeologen der Zeit. Aber Sie fördern nicht allein; Sie helfen
+                    auch anderes fördern. Schön ist es, daß Sie mir <seg type="comment">
+                        <orig>
+                            <persName key="prov_tsc_grz_v5">Meyer's</persName>
+                            <bibl sameAs="ed_unc_cz5_t1b">Schrift</bibl>
+                        </orig>
+                        <note xml:id="nlst_33k_qx">Johann Heinrich Meyer: Geschichte der bildenden
+                            Künste bei den Griechen. T. 1-2: Heinrich Meyer's Geschichte der
+                            bildenden Künste bei den Griechen: von ihrem Ursprunge bis zum höchsten
+                            Flor. Dresden: Walther, 1824. - T. 3: Geschichte der bildenden Künste
+                            bei den Griechen und Römern: zeit ihres Abnehmens, herausgegeben mit
+                            einer Vorrede von F. W. Riemer. Dresden: Walther, 1836. – Hier ist die
+                            1. Abteilung gemeint. </note>
+                    </seg> übersandten, und mit vergnügen sehe ich, daß die Kunst des Alterthums so
+                    vielseitige Bearbeiter hat, und jeder nach eigener Weise seine Ansichten
+                    aufstellt. So erhält sich das große Studium im Gange, und das Publikum wird
+                    dadurch vielseitig angeregt. Ein Urtheil über die Arbeit unseres <persName key="prov_tsc_grz_v5">
+                        <hi rendition="#aq">Meyer</hi>'s</persName>
+                    auszusprechen würde zu voreilig sey. Die <hi rendition="#aq">Acta</hi> müßen
+                    vollständiger hiezu vorliegen, denn manches bleibt mir noch dunkel. <seg type="comment">
+                        <orig>Die vielen im <hi rendition="#aq">Texte</hi> eingefügten
+                            Nummern</orig>
+                        <note xml:id="nijt_rnk_qx">Die Anmerkungen machen die "Zweyte Abtheilung",
+                            Dresden 1824, aus.</note>
+                    </seg> laßen Anmerkungen und <hi rendition="#aq">Excurse</hi> erwarten, die
+                    vielleicht von einem andern Meister herrühren werden. Auch, scheint es, soll ein
+                        <hi rendition="#aq">atlas</hi> das Werk begleiten. laßen Sie mich auf das
+                    Zukommende nicht lange warten, und dann werden wir näher uns darüber besprechen
+                    können.</p>
+                <p>Es ist löblich, daß Sie der <bibl sameAs="ed_r5b_psk_vw">
+                        <hi rendition="#aq">Amalthea</hi>
+                    </bibl>nicht vergeßen. Sie spendet immer Wichtiges aus ihrem Füllhorn. Ich habe
+                    zwar manches liegen, was hiezu Beyträge abgeben könnte; aber ich ward durch
+                    andere Arbeiten bis in den späten Herbst zu sehr gestört, und iezt da ich wieder
+                    Einiges für mich arbeiten kann, drängt sich mir Nöthigeres auf. Ich möchte vor
+                    allem andern den versprochenen <bibl sameAs="ed_cdf_ffp_dw">dritten Band meiner
+                        architektonischen Studien</bibl> liefern. Die öftern Unterbrechungen <add place="superlinear">in</add> diesen Studien verursachen mir viel Qual, indem
+                    ich jedemal <ex>[!]</ex> mich wieder auf's neue in die Materien einzustudiren
+                    habe. Man räth mir die Geschichte der <pb n="3"/> Gebäude heftweise
+                    herauszugeben; allein dazu entschließe ich mich nicht gern. Ich mag das Ganze
+                    vollendet vor mir liegen sehen, ehe der Druck anfängt. – Geringes mag ich für
+                    Ihre <bibl sameAs="ed_r5b_psk_vw">
+                        <hi rendition="#aq">Amalthea</hi>
+                    </bibl> nicht geben, und an wichtigere vollendungen kann ich iezt nicht denken.
+                    Eine bis iezt <del rendition="#s">g</del> liegengebliebene Abhandlung: <seg type="comment">
+                        <orig>Über die Pelasger:</orig>
+                        <note xml:id="nec4_q4k_qx">Vgl. <ref target="hirt_tbn_nwz_vw/#nszy_lfx_ww">1820-05-01-a-Böttiger: Sachanmerkung</ref>.</note>
+                    </seg> die etwa zwey Druckbogen betragen würde, könnte ich allenfall schicken.
+                    Sie enthält durchaus aus den Quellen geschöpfte Ansichten. Sollten Sie <seg type="comment">
+                        <orig>bis ostern mit einem neuen Bande</orig>
+                        <note xml:id="nknw_54k_qx">Der 3. Band der "Amalthea" erschien erst
+                            1825.</note>
+                    </seg> vortreten wollen, und könnte das Anerbieten für Sie taugen; so sagen Sie
+                    es mir.</p>
+                <p>Was Sie mir von einer
+                        <seg type="comment">
+                        <orig>neuen Ausgabe der Kunstbücher des <persName key="prov_gh4_4y3_3v">
+                                <hi rendition="#aq">Plinius</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="neld_jrk_qx">
+                            
+                                Die vier letzten Bücher der "Historia naturalis" von Plinius'
+                                    d. Ä. handeln auch von den Künsten, der Kunst- und
+                                    Künstlergeschichte. Nach Johann Gottfried Gurlitt waren sie "in
+                                    der Aufzeichnung der Maler und Gemälde weit ausführlicher als
+                                    Pausanias" (Johann Gurlitt: Allgemeine Einleitung in das Studium
+                                    der schönen Kunst des Alterthums. 1. Abt., Magdeburg 1799, S.
+                                    22). <persName key="ed_ymr_nyk_qx">Julius Sillig</persName>, ein Schüler Böttigers, plante eine neue
+                                    Ausgabe des Plinius. 1827 erschien vorerst "Catalogus Artificum
+                                    sive Architecti, Statuarii, Sculptores, Pictores, Caelatores et
+                                    Scalptores Graecorum et Romanorum literarum ordine dispositi a
+                                    Julio Sillig. Accedunt tres tabulae synchronisticae", Dresden:
+                                    Arnold, 1827.  – In einer Rezension in "Kritische
+                                    Bibliothek für das Schul- und Unterrichtswesen", N. F., Bd. 1,
+                                    April 1828, Nr. 27, S. 212, heisst es dazu. "Herr J. Sillig, der
+                                    sich bereits durch mehrere philologische Schriften u.
+                                    archäologische Abhandlungen bekannt gemacht, u. dadurch von
+                                    seinen Forschungen im Gebiete der Archäologie große Erwartungen
+                                    erregt hat, erfüllt dieselben in der oben angezeigten Schrift in
+                                    einem solchen Grade, daß wir den Freunden des archäologischen
+                                    Studiums, insbesondere aber den Verehrern des so lange
+                                    vernachlässigten Plinius, Glück wünschen müssen. Beseelt von der
+                                    Liebe zu dem höchst interessanten Studium der Archäologie,
+                                    ausgerüstet mit vorzüglichsten Sprachkenntnissen, ging derselbe
+                                    an die Bearbeitung des genannten Schriftstellers u. hatte das
+                                    Glück, während eines längeren Aufenthaltes zu Paris die
+                                    dortigen, höchst wichtigen Codices des Pl. zu vergleichen.
+                                    Hiebei zeigte er, so viel sich aus den hier schon gelieferten
+                                    Proben urtheilen läßt, eine eben so große Ausdauer, als
+                                    ungewöhnlichen Scharfblick. Somit läßt sich behaupten, daß für
+                                    die Erklärung der Kunstbücher des ältern Plinius, für deren
+                                    Textesberichtigung bisher so wenig geschehen ist, eine neue
+                                    Epoche beginnen werde. Denn so viel auch in unsern Zeiten für
+                                    das Studium der Kunstgeschichte geleistet wurde u. so manche
+                                    Aufklärungen den in jenen Büchern enthaltenen Materien zu Theil
+                                    wurden: so machten doch diese Fortschritte des archäologischen
+                                    Studiums das Bedürfniß immer fühlbarer, endlich einen kritisch
+                                    berichtigten Text des Plinius zu besitzen. Wenn nun auch Hr. S.
+                                    diesem längst gefühlten Bedürfnisse für den Augenblick noch
+                                    nicht abhilft, sondern die oben angezeigte Arbeit jener
+                                    wichtigeren u. schwierigeren vorausschickt, u. sich die Freunde
+                                    des Plinius noch eine längere Zeit bis zum Erscheinen einer
+                                    vollständigen, kritisch berichtigten Ausgabe der genannten
+                                    Kunstbücher gedulden müssen: so ist doch vorliegender Beitrag
+                                    höchst dankenswerth, in so fern dadurch im Allgemeinen einen
+                                    wesentlichen Bedürfnisse der archäologischen Litteratur auf eine
+                                    vorzügliche Weise abgeholfen ist u. im Besondern schon manche
+                                    Probe aus den Büchern des Plinius, welche die alte
+                                    Kunstgeschichte betreffen, mitgetheilt wird, woraus man auf
+                                    dasjenige schließen kann, was künftighin von dem Herausgeber zu
+                                    erwarten steht." – Die mehrbändige Ausgabe "Gai Plini
+                                    Secundi Naturalis Historiae" erschien in Dresden ab 1849;
+                                    Fragmente und Indices erst nach Silligs Tod 1855-1858.
+                                
+                            
+                        </note>
+                    </seg> sagen, höre ich sehr gern. Aber nur <hi rendition="#aq">Text</hi>, oder mit Anmerkungen? – Lezteres wäre freylich ein
+                    sehr umfaßendes, obwohl ein Zeitgemäßes, Unternehmen.</p>
+                <p>Leben Sie wohl! – Ihr Gesandter, der <persName key="ed_yys_bzk_qx">
+                        <hi rendition="#aq">General</hi> von <hi rendition="#aq">Watzdorf</hi>
+                    </persName>, wohnt iezt <seg type="comment">
+                        <orig>in dem Hause</orig>
+                        <note xml:id="nvfp_byb_px">In der Letzten Str. Nr. 2.</note>
+                    </seg> unter mir, worin ich schon 20 Jahr lebe. Er zeigte mir <seg type="comment">
+                        <orig>das schöne Bildniß</orig>
+                        <note xml:id="nwx5_dyb_px">Wohl eine Kopie oder ein Kupferstich des
+                            Portraits von Prinzessin Amalie von Sachsen von Joseph Karl Stieler,
+                            datiert: 1. Januar 1823 (das Original in: Staatliche Kunstsammlungen
+                            Dresden, Gemäldegalerie Neue Meister,). – Stieler schuf ebenso ein
+                            Porträt von Elisabeth von Bayern als Braut (um 1823, SPSG, GK I
+                            2942).</note>
+                    </seg> der <persName key="ed_rgq_cn1_px">Zwillingsschwester</persName>
+                    <persName key="ed_wm3_wl1_px">unserer Kronprinzeß</persName> , die unter dem
+                    mächtigen Jubel des Volks in einer Stunde <seg type="comment">
+                        <orig>die Linden</orig>
+                        <note xml:id="nigw_xpk_qx">Die Prachtstraße Unter den Linden, die vom
+                            Brandenburger Tor zum Schloss führt.</note>
+                    </seg> paßiren wird. Ich muß also eilen, auch etwas von dem <seg type="comment">
+                        <orig>Feste</orig>
+                        <note xml:id="nqp5_g41_px">Der feierliche Einzug der Prinzessin in Berlin am
+                            28. November 1823 anlässlich ihrer Hochzeit mit dem Kronprinzen
+                            Friedrich Wilhelm (IV.) am darauffolgenden Tag. Zuvor hatte bereits am
+                            16. November 1823 in München die Vermählung durch Prokuration
+                            stattgefunden, begleitet von mehrtätigen Festlichkeiten. – Die Braut
+                            reiste von Potsdam über Charlottenburg, wo sie einen "ganz vergoldeten
+                            Staats- und Krönungswagen" bestieg, durch das Brandenburger Tor in die
+                            Hauptstadt Berlin ein, gefolgt von Bürger- und Militärcorps, Abordnungen
+                            der Gewerke und Musikkapellen. "Acht schwarze Hengste, in prächtiges
+                            Zeug geschirrt, waren vorgespannt. Der Braut zur Seite saß die
+                            Prinzessin Wilhelm von Preußen, welcher als ältesten Prinzessin des
+                            Königlichen Hauses die Einführung der Kronprinzessin in die Hauptstadt
+                            zustand, beiden gegenüber die Oberhofmeisterin Gräfin v. Reede". Die
+                            "ganze Bevölkerung der Hauptstadt" war zu ihrer Begrüßung versammelt,
+                            Tausende Schaulustige säumten die Linden und den Schlossplatz. Zwischen
+                            dem Zeughaus und der Kommandantur war eine Ehrenpforte in Form eines
+                            Tempels errichtet. "Der Plan zu dieser Ehren-Pforte rührte vom
+                            Stadtrathe und Bau-Inspektor Herrn Cantian her; die Figuren von dem
+                            Professor und von dem Bildhauer, Herrn Gebrüdern Wichmann; den Bau
+                            selbst hatten der Maschienen-Inspektor und Hof-Zimmermann Herr Glatz und
+                            Sohn mit mehreren werkthätigen Männern ausgeführt und der Blumen-Schmuck
+                            war vom Königl. Garten-Direktor Herrn Otto besorgt." Abends führten die
+                            Studenten der Universität einen Fackelzug auf; die gesamte Innenstadt
+                            und die Schiffe waren illuminiert. "Die allgemeine Aufmerksamkeit zog
+                            bei dem Eintritt unter die Linden von dieser Seite das Academie-Gebäude
+                            auf sich. Hier erkannte man sogleich, daß Anordnung, Erfindung und
+                            Ausführung künstlerischen Händen anvertraut worden waren. In der untern
+                            Gallerie sah man hinter den Fenstern, zwei und zwanzig Statuen-Abgüsse
+                            von den vorzüglichsten Bildwerken des Alterthums. Hinter den zwei
+                            größeren Fenstern den Merkur, den Silen mit dem jungen Bachus im Arme,
+                            den Apollino, den Diskobol, die sogenannte Familie Lykomedes, Ariadne
+                            auf Naxos etc. Im Hausflure stand die kolossale Pallas von Velletri, und
+                            mehrere Brustbilder. Die mittlerein drei Fenster der oberen Gallerie
+                            schmückte eine große Composition 'die Huldigung der Künste und
+                            Wissenschaften.' Das Ganze theilte sich in ein Mittelbild mit zwei
+                            Seitenbildern, so daß die Anordnung hier durch die Oertlichkeit der drei
+                            Fenster, von denen das mittlere höher und breiter, als die beiden
+                            Seitenfenster ist, zugleich bedingt und begünstiget wurde. Der Entwurf
+                            der Bilder war in gemeinschaftlicher Berathung der Academie verabredet
+                            worden und der Gedanke, den man dabei zum Grunde legte, eignete sich
+                            sehr gut dazu, daß sich mehrere Künstler in die Arbeit theilen konnten.
+                            Auf dem Hauptbilde sah man den Triumphzug des gefeierten Paares. Vier
+                            schäumende, bäumende weiße Rosse ziehen den goldenen Wagen [...]. Wir
+                            haben jetzt nur noch die Künstler zu nennen, die sich um die Ausführung
+                            dieses großen Bildes (das Mittelbild hatte 15 Fuß Höhe) verdient gemacht
+                            haben. Die Hauptfiguren auf dem Triumphbogen waren von dem Herrn
+                            Professor Wach, von ihm waren auch die reichen Frucht- und
+                            Blumengehänge, unter denen das Brautpaar den Einzug hält. Der Wagen und
+                            die Rosse mit ihren Führern waren von den Herren Kolbe, Dähling und
+                            Herbig. Die Wissenschaften waren von Herrn Johann Wolf, die Künste vom
+                            Herrn Professor W. Schadow und dessen Schülern gemahlt" (vgl. Friedrich
+                            Christoph Förster: Vollständige Beschreibung aller Feste und
+                            Huldigungen, welche in den Königreichen Preußen und Baiern zur Höchsten
+                            Vermählungsfeier des Durchlauchtigsten Kronprinzen Friedrich Wilhelm von
+                            Preussen K. H. und der Durchlauchtigsten Prinzessin Elisa Ludovika von
+                            Baiern K. H. stattgefunden haben. Aus öffentlichen und
+                            Privat-Mittheilungen redigirt. Berlin: Maurer, 1824, besond. S. 96
+                            ff.).</note>
+                    </seg> zu sehen. Still soll mein Blick die Holde unter uns begrüßen. Sie bekomt
+                    einen braven liebenden <persName key="prov_rrj_mk5_fv">Mann</persName>. Mit
+                    Recht läßt uns der Tag vertrauen und hoffen.</p>
+                <closer>
+                    <salute>Ihr treuer</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

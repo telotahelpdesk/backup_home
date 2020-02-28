@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gbp_ml5_4x">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich Münter. Bei Soröe (?), 4. März 1823. Dienstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1824-02-nach12-a-Münter: "Herzlich, mein verehrtester alter Freund,
+                    hat mich Ihre Zuschrift vom 4<hi rendition="#sup">ten</hi> Marz 23. erfreut,
+                    woraus ich den Eifer ersehe, womit Sie unsern alterthümlichen Studien zugethan
+                    bleiben. / Auch mich hat früher der Tempel von Paphos beschäftigt [...]. Mir war
+                    daher Ihre Mitteilung sehr willkommen, und Ihre Aufforderung: die Ruinen und die
+                    Münzen mit Ihrer Darstellung auf's neue in Betracht zu ziehen. [...] Die
+                    Freunde, nach denen Sie sich erkundigen, sind alle wohl. Uhden u. von Rühle sehe
+                    ich seltener, aber desto öfter Buttmann u. Levetzow".</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_byb_ql5_4x">Münter, Friedrich (Frederik) Christian Carl
+                        Heinrich (1761-1830) (dt. luther. Theologe, Orientalist, Altertumsforscher,
+                        älterer Bruder von Friederike Brun, ab 1788 Prof. der Theologie an der
+                        Universität Kopenhagen, 1808 Bischof von Seeland)</persName>
+                    <date when="1823-03-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_cmt_q3y_sx"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,394 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_fkd_vjf_f5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 15.-21. August 1799.
+                    Mittwoch-Dienstag.</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                    <!-- Titel?-->
+                    <!--notwendig?-->
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <!-- -->
+                        <idno>
+                            <idno type="shelfmark">Mscr.Dresd. h 37, 4°, Bd. 87, Nr. 16</idno>
+                        </idno>
+                        <!-- -->
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-08-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_iry_4sz_xz"/>
+                    <ref type="next" target="hirt_nrn_f4s_zz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 15<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Aug. 1799.</dateline>
+                </opener>
+                <p>Also für dieß Jahr, lieber Freund! wäre die Hofnung <seg type="comment">
+                        <orig>Sie zu sehen</orig>
+                        <note xml:id="ndlt_mht_xz">Vgl. 1799-04-11-a-Böttiger.</note>
+                    </seg> vorüber: nun wollen wir wenigstens für's künftige hoffen; und uns desto
+                    öfters mit einem freundschaftlichen Wort in Briefen zu begegnen suchen.</p>
+                <p>H. <persName key="prov_eyz_5ts_hv">Weiland</persName> will die
+                    Güte haben, einen Pak meiner gedruckten und geschriebenen Sudeleyen mitzunehmen.
+                    Leztere kann man freylich niemanden, als einem Freunde, wie Sie sind
+                    anvertrauen; denn theils sind sie nicht für’s Publikum geschrieben, theils sind
+                    sie noch in ihrer ersten Rohheit hingeworfen. Allein aus allem, wenn anders Sie
+                    die Gedult haben, den Wust durchzugehen, <add place="superlinear" hand="">werden
+                        Sie</add> den Sinn nehmen, und an dem unpolirten sich nicht stoßen. Ich
+                    übersende Ihnen 1. <bibl sameAs="prov_y21_1ht_hv">die Abhandlung über die
+                        Malarten der Alten</bibl>, um Ihr Urtheil zu hören, <seg type="comment">
+                        <orig>da Sie mit dem nemlichen Gegenstand selbst vielseitig beschäftigt
+                            waren</orig>
+                        <note xml:id="notn_sht_xz">Siehe hierzu v.a. Böttigers "Griechische
+                            Vasengemälde mit archäologischen und artistischen Erläuterungen".</note>
+                    </seg>, 2. <seg type="critical">
+                        <orig>meine Entwürfe für das Kunststudium allhier</orig>
+                        <note xml:id="nw5v_fzh_5v">Siehe das Gutachten Hirts "Die Etablirung einer
+                            Bauschule, und die von einem hiezu niedergesezten Commissorium
+                            abgefaßten Beschlüße zur Organisation derselben betreffend", gerichtet
+                            an das Kuratorium der Akademie der Künste, Berlin, 15. Februar 1799
+                            (GStA PK, I. HA, Rep. 76 alt IV Nr,. 2, Bl. 86r-90v).</note>
+                    </seg>, aus dem Sie am beßten ersehen werden, in wie fern <persName key="prov_tsc_grz_v5">Meyer</persName> u. ich <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_s5m_jdm_xz">zusammentreffen</bibl>
+                        </orig>
+                        <note xml:id="njmh_hjt_xz">Vgl. J. H. Meyers Aufsatz "Ueber Lehranstalten,
+                            zu Gunsten der bildenden Künste" in den "Propyläen".</note>
+                    </seg>, 3. <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_vmw_ynv_3v">Die Hauptidee des Planes von der
+                                Vereinigung des königl<ex>ichen</ex> Kunstschazes</bibl>
+                        </orig>
+                        <note xml:id="nhfs_xzh_5v">Vgl. die Denkschrift Hirts "Ueber die Errichtung
+                            eines kgl. Museums der Antiken, und einer kgl. Gemäldegallerie" (GStA
+                            PK, I. HA, Rep. 76 alt III Nr. 62, Bl. 4r-24v).</note>
+                    </seg>. (All dieß werden Sie mir gelegentlich – zugleich mit dem <seg type="comment">
+                        <orig>Manuskript</orig>
+                        <note xml:id="nxqg_wjt_xz">Siehe 1797-10-31-a-Böttiger, Beilage</note>
+                    </seg>, was ich Ihnen im vorigen Jahre über die <seg type="critical">
+                        <orig>Gemäldeausstellung 1797.</orig>
+                        <note xml:id="nwvh_rzh_5v">Die Ausstellung der Kunstakademie fand ab 26.
+                            September 1797 statt; vgl. den zugehörigen Katalog "Beschreibung
+                            derjenigen Kunstwerke, welche von der Königlichen Akademie der bildenden
+                            Künste und mechanischen Wissenschaften in den Zimmern der Akademie dem
+                            Königl. Marstalle auf der Neustadt den 26. September und folgende Tage
+                            [...] öffentlich ausgestellt sind. Berlin 1797": Börsch-Supan, Bd.
+                            1).</note>
+                    </seg>
+                    zusandte, wieder zurückschicken) -</p>
+                <p>Mit Übersendung <seg type="comment">
+                        <orig>der beyden gedrukten Aufsäze</orig>
+                        <note xml:id="nonv_jkt_xz">Vgl. 1799-08-22-a-Goethe.</note>
+                    </seg>
+                    <seg type="critical">
+                        <orig>habe ich <persName key="prov_hwd_hmp_5r">Göthe</persName> als
+                            Biedermann geschrieben</orig>
+                        <note xml:id="nq15_2c3_5v">1799-08-22-a-Goethe.</note>
+                    </seg>, und gesagt, daß ich ihm und <persName key="prov_w4b_lwr_js">Fernow</persName> in einer besondern Schrift antworten werde. Auch meldete
+                    ich ihm einiges über die Manuscripte, die ich Ihnen zusende und bat ihn, wenn er
+                    Neugierde hätte, einen Blick darauf zu werfen, sie von Ihnen abholen zu laßen. –
+                    Ich werde wie Sie, diesen Mann immer ehren, und auch seine guten moralischen
+                    Seiten nie verkennen: doch nicht auf Unkosten deßen, <pb n="2"/> was ich aus
+                    beßerer Überzeugung als wahr annehmen muß. – </p>
+                <p>H. <persName key="prov_kds_gnv_3v">Henry</persName> ist zur Stunde noch nicht
+                    eingetroffen; wird aber täglich erwartet. Den Umriß <seg type="comment">
+                        <orig>des Mosaik’s</orig>
+                        <note xml:id="nukn_4kt_xz">Vgl. auch 1799-07-27-a-Böttiger.</note>
+                    </seg> sollen Sie haben. – Über den Ursprung dieser Kunst weiß ich nichts, und
+                    werde daher mit doppeltem Vergnügen <seg type="critical">
+                        <orig>Ihre Ideen</orig>
+                        <note xml:id="nj22_nd3_5v">1801 veröffentlicht Böttiger die Schrift "Mosaik
+                            von Alexander Delaborde im Jahre 1799 unweit Sevilla in Spanien
+                            gefunden", in: ALZ 1801, Bd. 3, S. V-VIII.</note>
+                    </seg> darüber vernehmen. Sie wißen, <seg type="critical">
+                        <orig>daß kürzlich H. <unclear>N</unclear>- in <placeName key="prov_u24_423_5v">Klosterbergen</placeName> hierüber geschrieben
+                            hat</orig>
+                        <note xml:id="nohb_d23_5v">Johannes Gurlitt: Ueber die Mosaik: Zur
+                            Ankündigung der in der Schule des Klosters Bergen von Ostern bis
+                            Michaelis 1798 zu haltenden Lectionen vom Professor und Director
+                            Gurlitt. Magdeburg, bei Georg Christian Keil, [1798]. - Johannes
+                            Gurlitt: Ueber die Mosaik. Bergen bei Magdeburg 1798. - Hirt erwähnt die
+                            Schrift in seiner Abhandlung "Ueber die verschiedenen Mosaikarten bei
+                            den Alten" (s. unten, a.a.O., S. 137).</note>
+                    </seg>. Ich las aber nur die <seg type="comment">
+                        <orig>Anzeige</orig>
+                        <note xml:id="nxdh_mmt_xz">Allgemeine Literatur-Zeitung, Jg. 1799, Bd. 3,
+                            191.</note>
+                    </seg> in der <bibl sameAs="prov_csp_vs1_z5">A<ex>llgemeinen</ex>
+                            L<ex>iteratur</ex> Z<ex>eitung</ex>
+                    </bibl> die vielleicht von Ihnen ist, davon. – Sie werden auch am Schluß der
+                        <bibl sameAs="prov_y21_1ht_hv">Abhandlung über die Malarten</bibl> sehen,
+                    daß ich zwar auch gesinnt war <seg type="critical">
+                        <orig>etwas über Mosaik zu sagen</orig>
+                        <note xml:id="naqc_xr3_5v">Am Schluss von Hirts Abhandlung "Ueber die
+                            Mahlerey bey den Alten" heisst es: "Auch verdienen die verschiedenen
+                            Mosaikarten der Alten als eine besondere Gattung von Mahlerey angeführt
+                            zu werden. / Allein es ist soviel hierüber zu sagen, dass ich mir die
+                            Behandlung dieser Materie zu einer andern Zeit vorbehalte." (a.a.O., S.
+                            230). - Später erscheint zu dieser Thematik: Ueber die verschiedenen
+                            Mosaikarten bei den Alten. Vom Hofrath Hirt. Vorgelesen in der Königl.
+                            Akad. d. Wissenschaften, am 19. März 1801. In: Sammlung der deutschen
+                            Abhandlungen welche in der Königlichen Akademie der Wissenschaften (und
+                            schönen Künste) zu Berlin, vorgelesen worden in den Jahren 1801-1802 -
+                            Schöne Wissenschaften. Berlin 1805, S. 209-230. - Dass. in franz.
+                            Sprache, in: Mémoires de l'Académie Royale des Sciences et
+                            Belles-Lettres [...] Berlin 1804, S. 185-230.</note>
+                    </seg>. Allein dieß würde sicher im ganzen wesentlich auf das technische der
+                    Kunst, und auf das verschiedene Material, deßen man sich in verschiedenen Zeiten
+                    bediente, so wie auf den wesentlichen Gebrauch desselben bey den Alten,
+                    beschränkt haben. – Haben Sie seitdem über das <seg type="comment">
+                        <orig>Wachsmosaik</orig>
+                        <note xml:id="nkkj_bwy_xz"/>
+                    </seg> v<ex>on</ex> H. <persName key="prov_tsc_grz_v5">Meyer</persName> nähere
+                    Kunde eingezogen? mir scheint, daß ich eine deutliche Idee davon habe. – Da ich
+                    übrigens die verschiedenen Mosaiken der ältern, mittlern, u. neuern Kunst
+                    ziemlich gegenwärtig habe, so will ich Ihnen sehr gerne aushelfen, wenn Sie wo
+                    einen Anstand fänden. Ich thue übrigens sehr gerne Verzicht auf die Behandlung
+                    dieses Gegenstandes besonders wenn ich denselben in so guten Händen, wie die
+                    Ihrigen sind, weiß. –</p>
+                <p>Die gute liebe <persName key="prov_ydx_vry_cv">Brun</persName>
+                    sagt in ihrer natürlichen u. gutmüthigen Schwärmerey manchmal Sachen, die eben
+                    ihren <seg type="critical">
+                        <orig>römischen Führern</orig>
+                        <note xml:id="nsxb_c53_5v">Neben Hirt auch Fernow und Zoëga.</note>
+                    </seg> nicht immer viel Ehre machen. Alles drängt sich confus in ihrer Fantasie
+                    umher: indeßen bleibt es als eine <seg type="critical">
+                        <orig>Lektüre des Momentes</orig>
+                        <note xml:id="ngv2_ky3_5v">Wohl Friederike Bruns "Tagebuch über Rom"
+                            gemeint, dessen erster Band Zürich 1800 erschien. Darin wird auch Hirt
+                            als archäologischer Führer erwähnt.</note>
+                    </seg> immer intereßant genug. - <pb n="3"/>
+                </p>
+                <p>Grüßen Sie <persName key="prov_hy4_jx2_rs">
+                        <persName key="prov_jvr_yy5_fv">Herder’s</persName>
+                    </persName> vielmal und
+                    herzlich.</p>
+                <p>
+                    <seg type="comment">
+                        <orig><persName key="ed_on3_v1z_xz">H. Zöllner</persName> las</orig>
+                        <note xml:id="nvzr_lkz_33b">In den Protokollen der Akademie der
+                            Wissenschaften ist vermerkt: Assemblée Publique, 8. August 1799: "M
+                            Zoellner. Beytrag zur Kritik der neuesten Philosophie." (Archiv der
+                            BBAW, PAW (1700-1811), I-IV-33, Bl. 315v).</note>
+                    </seg> in der lezten öffentlichen Sizung der <orgName key="ed_znn_dfc_b1b">Acad<ex>emie</ex> der Wißensch<ex>aften</ex>
+                    </orgName> – <hi rendition="#u">Beytrag zur neuesten Philosophie</hi>, der unter
+                    Kantianern und Nichtkantianern viel Aufmerksamkeit erweckte, weil er sonst ein
+                    entschiedener Kantianer war. Doch bestand das Wesentliche bloß darin, daß er den
+                        Unfug<del rendition="#s" next="rügte">en</del> rügte, die [!] man mit dieser
+                    Philosophie, die doch übrigens wieder zum Nachdenken geweckt hätte, trieb. Ist
+                    übrigens der Meinung, daß weder <persName key="prov_szb_rcb_3v">Kant</persName>
+                    noch <persName key="prov_brv_k5v_rv">Fichte</persName> – weder was Neues, noch
+                    Entscheidendes in die Philosophie gebracht, wohl aber durch eine neue Sprache
+                    viel verwirrt hätten. etc. Übrigens schreyen die Kantianer: <seg type="comment">
+                        <orig>
+                            <persName key="prov_hy4_jx2_rs">Herder</persName> hätte <persName key="prov_szb_rcb_3v">Kant</persName> nicht verstanden</orig>
+                        <note xml:id="nopr_5jz_xz">Bezieht sich auf Herders "Metakritik".</note>
+                    </seg>: und daß, wo <persName key="prov_hy4_jx2_rs">Herder</persName> Recht
+                    hätte, <persName key="prov_szb_rcb_3v">Kant</persName> derselben Meinung sey.
+                    übrigens bemerkt man doch manches Wanken: und die Kantische Unfehlbarkeit fängt
+                    an mit der päbstlichen in der nemlichen Linie zu stehen. –</p>
+                <p> Was sagen Sie zu den lezten <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_eck_mb1_kv">Schlegeliaden</bibl>
+                        </orig>
+                        <note xml:id="najg_vvz_xz">Hier das "Athenäum" Zweiten Bandes Zweites Stück
+                            gemeint.</note>
+                    </seg>? – Man sagt hier, sie wären bestellt, einen wäßrigen Commentar zu den
+                        <bibl sameAs="ed_lxn_3kz_xz">Xenien</bibl> zu schreiben: andere behaupten;
+                        <persName key="ed_n1l_xkz_xz">Frölich</persName> habe nicht länger Verleger
+                    seyn wollen, wenn sie nicht etwas Ragoutantes in’s Publikum geben würden.
+                    Übrigens sey einmal Prostituirten alles erlaubt – doch dürfte diese
+                    Marktschreyer-Bude nicht von langem Bestand seyn. - Kennen Sie die <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_ykc_fyf_yz">Umriße</rs> von <persName key="ed_rcw_xlz_xz">J. Flaxman</persName>
+                        </orig>
+                        <note xml:id="nfzn_zcb_yz">Während seines Italienaufenthaltes fertigte
+                            Flaxman 1793 klassizistische Umrisszeichnungen zu Homers "Ilias", die
+                            1795 von Tommaso Piroli in Kupfer gestochen wurden. Es folgten
+                            Zeichnungen zur Odyssee, gestochen von William Blake; weitere zu Dante
+                            und Aeschylus: La divina Commedia di Dante Alighiere, cioé l'Inferno, il
+                            Purgatorio ed il Paradiso, disegnata da Giovanni Flaxman, Sculture
+                            Inglese, ed incisa da Tommaso Piroli Romano. 1793. In possesso di
+                            Tommaso Hope, scudiere, Amsterdam. Klein Querfol. 110 Blätter. - The
+                            Iliad of Homer engraved by Thomas Piroli from the compositions of John
+                            Flaxman, scultor. Rome 1793. Querfolio, 34 Blätter. - The Odyssey of
+                            Homer engraved by Thomas Piroli from the compositions of John Flaxman,
+                            Sculptor. Rome 1793. Querfol, 28 Blätter. - Compositions from the
+                            tragedies of Aeschylus, designed by John Flaxman, engraved by Thomas
+                            Piroli. The original drawings in possession of the Countess Dowager
+                            Spencer. Gr. Querfol., 31 Blätter.</note>
+                    </seg>? – Ich war zeuge ihrer Entstehung: und genug gesagt: <seg type="comment">
+                        <orig>sie haben in <persName key="prov_htp_dkz_jv">W<ex>ilhelm</ex>
+                                Schlegel</persName> einen würdigen <bibl sameAs="ed_ehg_jvz_xz">Lobpreiser</bibl> gefunden</orig>
+                        <note xml:id="ngpx_2wz_xz">Im "Athenäum" Zweiten Bandes Zweites Stück,
+                            heisst es zu Beginn der Ausführungen über Flaxman: "Warum sollte es
+                            nicht eine pittoreske Begleitung der Poesie, nach Art der musikalischen,
+                            geben können? [...] Ein Englischer Bildhauer, John Flaxman, hat diese
+                            Idee in zahlreichen Sammlungen von Umrissen zu Dante's göttlicher
+                            Komödie, zur Ilias und Odyssee, und zu den Tragödien des Aeschylus, mit
+                            so viel Verstand, Geist, und klassischem Schönheitssinne ausgeführt, daß
+                            man ihn in seiner Gattung Erfinder nennen, und wünschen muß, er möge
+                            bald glückliche und selbständige Nachfolger darin finden" (S. 203).
+                            Schlegel schreibt weiter: "Wenn Flaxmann [...] auch die alten Sprachen
+                            nicht besaß, so ist er doch in so fern mit großer Gelehrsamkeit
+                            verfahren, daß er in Beobachtung des Kostums selbst bis in das
+                            Auserlesnere und selten Vorkommende hineingeht, so daß sich über seine
+                            Blätter sehr artige antiquarische Vorlesungen müßten halten lassen." (S.
+                            227)</note>
+                    </seg>. Dieser <persName key="ed_rcw_xlz_xz">John Flaxman</persName> hat zu
+                    meiner Zeit in <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <seg type="comment">
+                        <orig>eines der ungeheuresten Werke in Bildhauerey</orig>
+                        <note xml:id="nucm_h1g_yz">http://www.nationaltrustcollections.org.uk/object/852233</note>
+                    </seg>, die jemals gesehen worden, <pb n="4"/> ausgehen laßen. Es stellt den
+                    rasenden <persName key="ed_kcc_q1g_yz">Athamas</persName> vor, der eben den
+                        <persName key="ed_ans_t1g_yz">Learchus</persName> schwingt, um ihn gegen den
+                    Felsen zu zerschmettern. Die <persName key="ed_v4h_x1g_yz">Ino</persName> folget
+                    ihm, den <persName key="ed_a1x_z1g_yz">Melicertes</persName> in ihrem Arm, um
+                    den <persName key="ed_kcc_q1g_yz">Athamas</persName> abhalten zu wollen.
+                        <persName key="prov_jvs_32v_dv">Milord Bristol</persName>, wie er das Modell
+                    davon in Gips sah, war davon so enchantirt, daß er es den Künstler in Marmor,
+                    und zwar in <subst>
+                        <del rendition="#s">Figuren</del>
+                        <add>Statuen</add>
+                    </subst> über Lebensgröße ausführen ließ. Die Karakteristik im kurzen ist
+                    folgende: <persName key="ed_kcc_q1g_yz">Athamas</persName>
+                    <rs type="artwork" key="prov_lqb_23g_yz">Stellung und Körper ist nach dem
+                        barbarischen Fürsten <del rendition="#s" next="geformt">formirt</del>
+                        geformt, der unter dem namen Pætus bekannt</rs>: den Kopf dazu nahm er
+                    aber von <seg type="comment">
+                        <orig>der bekannten <rs type="artwork" key="prov_etj_tcg_yz">Büste des alten
+                                Bacchus</rs>
+                        </orig>
+                        <note xml:id="nz4p_p2g_yz">Die Büste war von Winckelmann beschrieben worden
+                            (vgl. J. J. Winckelmann, Geschichte der Kunst des Alterthums II -
+                            Katalog der Denkmäler, hrsg. von Adolf H. Borbein, Thomas W. Gaethgens,
+                            Johannes Irmscher und Max Kunze (2006), 286), befand sich in der
+                            Gipsabgusssammlung von Anton Raphael Mengs in Dresden (vgl. M. Kiderlen
+                            (Hrsg.): Die Sammlung der Gipsabgüsse von Anton Raphael Mengs in
+                            Dresden. Katalog der Abgüsse, Rekonstruktionen, Nachbildungen und
+                            Modelle aus dem römischen Nachlass des Malers in der Skulpturensammlung,
+                            Staatliche Kunstsammlungen Dresden (Dresden 2006) 209 Kat.Nr. 21) und
+                            war zudem durch die Aufzeichnungen von Wilhelm Heinse bekannt (W.
+                            Heinse, Die Aufzeichnungen. Frankfurter Nachlass. Aufzeichnungen
+                            1768-1783, Bd. III (München 2005) 1017). Siehe auch: C. Capaldi, S.
+                            Pafumi, S. Spina (Hrsg.): Le sculture Farnese I. Rom 2009, 130 Kat.Nr.
+                            57. </note>
+                    </seg>, die unter dem Namen <persName key="ed_kts_mdg_yz">Mithridates</persName>
+                    bekannt, ehedem im <placeName key="ediarum_ffm_zmz_xz">Palast
+                        Farnese</placeName>, iezt in <placeName key="prov_myp_lbv_35">Neapel</placeName>: - doch so, daß dieser <add place="superlinear" hand="">Kopf</add> da in der absurdesten Caricatur von Raserey erscheint. <persName key="ed_ans_t1g_yz">Learchus</persName> ist nach den <persName key="prov_c2r_4qy_cv">Berninischen</persName> Engeln - die wie Sie wißen,
+                    alle von Wind aufgeblasen sind – geformt. Die <persName key="ed_v4h_x1g_yz">Ino</persName>, deren Figur, und fliegenden Fezen gespensterartig gebildet,
+                    hat den Kopf von <rs type="artwork" key="prov_trz_tpz_xz">einer Tochter der
+                        Niobe</rs>: und <persName key="ed_a1x_z1g_yz">Melicertes</persName> ist
+                    unter ihrem Arme wie ein Schwamm zusammen gedrückt. – Kurz mit diesem Monstrum
+                    Karrendum etc ist nur das leztere Werk von dem berühmten <persName key="prov_bff_yhn_1v">Canova</persName> nemlich <rs type="artwork" key="prov_skt_wgz_cv">der rasende Hercules, der den Lichas in’s <subst>
+                            <del rendition="#s">mah</del>
+                            <add>Meer</add>
+                        </subst> wirft</rs>, zu vergleichen. Ein solcher Kerl ist <persName key="ed_rcw_xlz_xz">John Flaxman</persName>, der seine Kunstphantasie nach
+                    dem <placeName key="prov_efv_ssv_rv">Londner</placeName>
+                    <persName key="ed_qpk_qnz_xz">Füßly</persName> gebildet: eben so wenig zeichnen
+                    kann: und nun ohne das mindeste urtheil das Heterogeneste Zeug von den ältesten
+                    u. neuesten Werken zusammen stihlt; und dann nach einer schlechten Verdauung in
+                    eigener <del rendition="#s" next="Composition">verr</del> Composition dem
+                    Publiko wieder vorspeyt: - Wir nannten diesen Künstler, um ihn unter uns zu
+                    bezeichnen, den rasenden <persName key="ed_kcc_q1g_yz">Athamas</persName> oder
+                    auch <persName key="ed_ctl_nzw_5w">Pseudophidias</persName>, oder den <persName key="ed_tfv_s4z_xz">Thersites</persName> der griechischen Kunst – letzteres
+                    vorzüglich weil er selbst eine wahre <persName key="ed_tfv_s4z_xz">Thersites</persName> Figur hatte, und alles was er gestohlen hatte, unter
+                    seinen Händen so entsezlich verkrizzelt wieder erschien. - Dieser ist der Heros
+                    von <del rendition="#s" next="W.">J. Flaxman</del>
+                    <persName key="prov_htp_dkz_jv">W<ex>ilhelm</ex> Schlegel</persName>, der den
+                        <persName key="prov_hwd_hmp_5r">Götheischen</persName>
+                    <pb n="5"/> Schönheits- und Anmuths-sinn so lebendig und klar in sich gesogen.
+                    Solche genies werden der deutsche verkrizzelten Kunst als modelle vorgeschlagen:
+                    solche Ungeheuer wollen <persName key="prov_htp_dkz_jv">
+                        <persName key="prov_ocn_xjz_jv">die Schlegel</persName>
+                    </persName> als griechischen Geist unter uns verpflanzen – doch ich zürne, oder
+                    lache umsonst! - Leute, welche ganz verzuckert überall Schönheit und Anmuth
+                    erblicken, und diese qualitäten so herrlich in <rs type="artwork" key="prov_u2q_dhc_z5">Laokoon</rs> und in den Werken der <rs type="artwork" key="prov_trz_tpz_xz">Niobe</rs> gebildet erblicken, dürfen das nemliche
+                    auch wieder in den Zerrbildern eines <persName key="ed_rcw_xlz_xz">John
+                        Flaxman</persName> finden. Ich gratulire indeßen der Universität <placeName key="prov_xby_ps1_z5">Jena</placeName>, daß sie einen Professor hat, der
+                    wahrscheinlich bald <hi rendition="#u">
+                        <seg type="comment">
+                            <orig>gar artige Vorlesungen über das griechische Costum, welches in den
+                                Werken des <persName key="ed_rcw_xlz_xz">J. Flaxman</persName> so
+                                vortrefflich, und idealisch beobachtet ist, halten wird</orig>
+                            <note xml:id="nu5k_tfb_yz">Hirt bezieht sich hier fast wörtlich auf A.
+                                W. Schlegels Ausführungen zu Flaxman; siehe oben.</note>
+                        </seg>.</hi>
+                </p>
+                <p>Wenn <persName key="prov_kyr_yvr_js">Tischbein</persName> seitdem <seg type="critical">
+                        <orig>zu Ihnen gekommen ist</orig>
+                        <note xml:id="nvrs_mwh_5v">J. H. W. Tischbein war bis 1799 Direktor der
+                            Accademia di Belle Arti di Napoli und lebte seit Juli 1799 bei seinem
+                            Bruder Johann Heinrich d. J. in Kassel</note>
+                    </seg>, so grüßen Sie ihn herzlich. Auch der <persName key="prov_wct_hfy_2v">Deßauer Tischbein</persName> mit Familie soll zu Ihnen kommen. Auch bey
+                    diesen gedenken Sie meiner. ich sah lezthin beym lezten, außer vielen
+                    wohlgetroffenen Porträts ein schönes <seg type="critical">
+                        <orig>historisches Stück – <rs type="artwork" key="prov_cmx_rrz_xz">Zephyr
+                                der die Psyche zur Behausung des amors führt</rs>
+                        </orig>
+                        <note xml:id="nprc_csh_5v">Nach Parthey, Deutscher Bildersaal, S. 646,
+                            befand sich das Gemälde "Zephyr trägt Psyche" im Schloss Dessau. Vgl.
+                            auch: Adolf Stoll: Der Maler Johann Friedrich August Tischbein und seine
+                            Familie - Ein Lebensbild nach den Aufzeichnungen seiner Tochter.
+                            Stuttgart 1923, S. 182. - Nach Martin Franke: Johann Friedrich August
+                            Tischbein: Leben und Werk. Bd. 2, Stuttgart, Univ. Diss. 1992, S. 573,
+                            sei das Gemälde „Psyche, von Zephir durch die Luft getragen“ um 1801
+                            entstanden, Öl auf Lwd., 180 x 200 cm; Provenienz: 1923 Herzog zu
+                            Anhalt, Dessau Schloss, Inv.-Nr. 493; Besitz unbekannt.</note>
+                    </seg>: dabey noch einige Skizzen, wovon <del rendition="#s" next="mir">mir</del> mir eine Szene aus <bibl sameAs="prov_ttd_ryh_5v">Oberon</bibl>
+                    besonders glücklich erfunden schien.</p>
+                <p>Den 21<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Zum Glück ist unser Freund <persName key="prov_eyz_5ts_hv">Weyland</persName> solange geblieben, und <seg type="critical">
+                        <orig>Ihr leztes</orig>
+                        <note xml:id="nakj_czh_5v">Brief erschlossen:
+                            [1799-08-vor21x-v-Böttiger].</note>
+                    </seg> noch zur Zeit angekommen, daß nun <pb n="6"/> hiemit die Zeichnung und
+                    Abdrücke auch übersandt werden können. – </p>
+                <p>
+                    <persName key="prov_ofd_5yj_gv">Sander</persName> grüßt Sie:
+                    übrigens habe ich weiter keine Zeit, als Ihnen ein freundliches Lebewohl zu
+                    sagen – </p>
+                <closer rend="paragraph">Ihr <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

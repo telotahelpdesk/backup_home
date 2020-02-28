@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_tyj_tfm_cv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Wilhelmine Rietz (Gräfin Lichtenau). Rom, den 5. März 1796.
+                    Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Atzenbeck, 1925, S. 138-143</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" n="2">Jürgen Zimmer: Von Rom nach Berlin. In: Hirt-Band
+                            II, S. 45-46 (Teilabdrucke).</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-03-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qvp_1gm_cv">Lichtenau, Wilhelmine Gräfin von, geb. Enke
+                        (Encke), verh. Rietz</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_csm_dkz_nz"/>
+                </correspContext>
+                <note>nur Druck überliefert</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom, den 5. März 1796.</dateline>
+                    <salute/>
+                </opener>
+                <p>Sie behandeln mich, meine Freundin (erlauben Sie, daß ich diesen trauten Namen
+                    gegen Sie gebrauchen darf), mit so viel Nachsicht und gütigem Zuvorkommen, daß
+                    das einzige Gefühl der Erkenntlichkeit hinreichend sein würde, auf immer in
+                    Ihrer Person meinen wohltätigen Schutzgeist zu verehren. Allein nicht dies
+                    Gefühl allein, eine tiefere unnennbare Empfindung spricht für Sie in meinem
+                    Innersten. – Würde ich geradezu diesem drängenden Hange nachgeben, so
+                    könnte ich allerdings keinem reizenderen Bilde entgegensehen, als dasjenige ist,
+                    welches Sie für das Glück und den vollen Genuß meiner künftigen Tage
+                    entwarfen.</p>
+                <p>Wohnung und Tisch mit Ihnen gemeinschaftlich haben, ja selbst Ihnen auf Reisen zu
+                    folgen – was könnte für meine Empfindung erwünschter, für meine Phantasie
+                    blühender sein? – Ich, der über alles Geselligkeit und traulichen Umgang mit
+                    gebildeten und gefühlvollen Personen wie Sie, meine Freundin, sind, liebe, und
+                    desto mehr zu schätzen weiß, je überzeugter ich bin, wie selten Menschen
+                    harmonisch zusammentreffen! – Allein hier drängt sich zwischen dies reizende
+                    Bild und meine volle Empfindung – die kalte Überlegung. Erlauben Sie also, daß
+                    ich Ihnen hier mit derjenigen Offenheit, mit der ein Freund zur Freundin
+                    spricht, meine bisherige Lage und dadurch mein ganzes Gemüt schildere. Ich rufe
+                    Sie dann zu meiner Ratgeberin und Richterin auf!</p>
+                <p>Wahr ist es, daß ich so wenig an <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    gebunden bin, daß es mich kaum einen Tag kosten würde, mich auf und reisefertig
+                    zu halten. Dessenungeachtet ist <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <seg type="critical">
+                        <orig>seit zwölf Jahren</orig>
+                        <note xml:id="nacy_h3r_cv">Hirt lebte seit Ende 1782 in Rom.</note>
+                    </seg> mein gewöhnlicher Aufenthalt. Der Reiz, den das Studium der schönen
+                    Künste und der alten Völkerkunde für meinen Geist hat, verbunden mit meiner
+                    gänzlichen Unabhängigkeit, machten mir mein bisheriges Hiersein erräglich: und
+                    ich habe in dieser Rücksicht <seg type="comment">
+                        <orig>mehr als einmal ein
+                            sicheres Glück im Auslande abgelehnt</orig>
+                        <note xml:id="now2_sfz_nz">So
+                            u.a. ein Angebot von Fürstin Louise von Anhalt-Dessau, sich in Wörlitz
+                            niederzulassen.</note>
+                    </seg>, weil ich dabei den Hang zu meinen
+                    Lieblingsstudien nicht hätte pflegen können. Indessen, da ich seit meiner
+                    frühesten Jugend von meinem väterlichen Hause entfernt in Studien verlebte, so
+                    ist mein nicht großes Vermögen, das ich von meinen <persName key="prov_ncf_42x_w5">
+                        <persName key="prov_xnl_c2x_w5">Eltern</persName>
+                    </persName> habe, nach und nach zu einer unbeträchtlichen Summe herabgesunken.
+                    Da ich also in der Rücksicht nicht unabhängig leben konnte, so bequemte ich mich
+                    zu dem Berufe, wissensbegierige Reisende zu begleiten. Dies Geschäft kostet mich
+                    zwar einen großen Teil meiner Zeit, wirft aber dabei soviel Gewinn ab, daß ich
+                    den übrigen Teil jedes Jahres frei für die Fortsetzung meiner Studien vollenden
+                    kann. – Eine Folge meiner Lage war zugleich Schriftstellerei, wie ich dann
+                    bereits mehreres in deutscher und italienischer Sprache drucken ließ und noch
+                    manches wichtigere zu bearbeiten unter Händen habe, wodurch ich zur Verbreitung
+                    des bessern Geschmackes nützlich zu werden hoffen darf. – Doch nachdem ich jetzt
+                    alle nötigen Materialien sowohl in <placeName key="prov_vkl_ndl_js">Rom</placeName>, als auf meinen Reisen im übrigen <placeName key="prov_vxr_xxr_js">Italien</placeName> gesammelt habe, so bin ich dadurch
+                    nicht mehr an dieses Land gebunden und ich könnte anderwärts auf gleiche Weise
+                    meine gelehrten Arbeiten fortsetzen.</p>
+                <p>Hier sehen Sie nun, meine gnädige Freundin, meine ganze wirkliche Lage. Natürlich
+                    hat dieselbe soviel Einseitiges, Unsicheres und Schwankendes, daß der Wunsch
+                    schon lange in mir rege werden mußte, derselben mehr Zusicherung und einen
+                    festern Fuß zu geben. Allein hierzu kann ich durch eigene Kraft nur wenig tun;
+                    alles hängt hierin von einer höhern Sendung und dem Mitwirken edler Menschen ab.
+                    Schwer ist es, einen Beschützer zu finden, der aus bloßer Liebe für die Künste
+                    und zum Fortgange dieser für sich so wichtigen Studien mir einen sicheren und
+                    lebenslänglichen Gehalt festsetzte, sowohl um meine Arbeiten ungehindert
+                    fortsetzen zu können, als auch gegen jeden unsichern Verfall für die nötigsten
+                    Bedürfnisse gedeckt zu sein.</p>
+                <p>Bei meinem ferneren Aufenthalte in <placeName key="prov_vkl_ndl_js">Rom</placeName> könnte ich für eine solche Unterstützung keine Gegendienste
+                    anbieten, als etwa der <seg type="critical">
+                        <orig>Direktor junger Leute zu sein, welche von fremden Akademien als
+                            Pensionär hieher gesandt werden</orig>
+                        <note xml:id="nmhs_tkr_cv">So etwa die Betreuung der Rom-Stipendiaten der
+                            Berliner Kunstakademie; ein Amt, das bislang von Friedrich Rehberg
+                            ausgeübt wurde, der dazu vom Minister Friedrich Anton von Heinitz nach
+                            Rom delegiert worden war. </note>
+                    </seg>; und zugleich als Kommissionär alle die Geschäfte und Aufträge
+                    übernehmen, die ein Hof allenfalls in Kunstsachen zu geben bedürfen könnte.</p>
+                <p>Eine Unterstützung im Auslande wäre aber allerdings meinem Hange und Wünschen
+                    gemäßer. Allein ich wünschte dabei eine Stelle zu bekleiden und in demjenigen
+                    Fache zu arbeiten, wozu ich mich durch meine Studien besonders zu qualifizieren
+                    suchte, zum Beispiel als Aufseher eines Oberbaudirektoriums, als Vorsteher einer
+                    Kunstakademie oder als Mitglied einer gelehrten Gesellschaft, wie die <placeName key="prov_wcb_njr_cv">Akademie der Wissenschaften in
+                        Berlin</placeName> ist. In <placeName key="prov_vkl_ndl_js">Rom</placeName> würde
+                    ich zwar durch meine zweckmäßige Hilfe mehr auf den Gemeingeist zur Verbesserung
+                    des Geschmackes wirken können, allein im Auslande würde ich individueller für
+                    das Land nützlich sein können, wo ich wohnte.</p>
+                <p>Die Lage, das Klima und die Kunstschätze <placeName key="prov_vkl_ndl_js">Roms</placeName> haben vielen Reiz, aber wer den Wert des häuslichen und
+                    geselligen Lebens im engen Kreise zu empfinden imstande ist, der opfert hier
+                    zuviel auf. Der Ausländer muß auf jedes sympathetische Vergnügen, auf jedes
+                    traute und häusliche Verhältnis, wodurch fühlende Menschen glücklich sind,
+                    gänzlich Verzicht tun.</p>
+                <p>So ist meine Lage, so waren bisher meine Wünsche: doch alles waren nur Wünsche!
+                    Gegründete Hoffnung, erfreuliche Aussichten blickten mir noch nie entgegen: <hi rendition="#g">und</hi> – nun kommen Sie, holde Freundin! – Sie
+                    sympathisieren mit meinem Innern, ehe ich es durch Worte eröffne: Sie fühlen
+                    mein Gemüt und meine Lage: Sie kommen wie ein beseligender Schutzgeist, meinen
+                    Wünschen entgegen: <seg type="critical">
+                        <orig>Sie legen mir einen Plan vor</orig>
+                        <note xml:id="nuyj_dnr_cv">Dies belegt das Bemühen der Lichtenau, Hirt
+                            bereits in Rom eine ernstzunehmende Perspektive in Berlin in Aussicht zu
+                            stellen. Das Angebot eines Hofmeisters oder Erziehers für den kleinen
+                            Grafen Friedrich Wilhelm von Brandenburg, eines Sohnes von Friedrich
+                            Wilhelm II., lehnte Hirt jedoch ab. Unmittelbar nach seinem Eintreffen
+                            in Berlin im Herbst 1796 veranlasste sie den König, Hirt eine Anstellung
+                            an den beiden Berliner Akademien zu verschaffen. Siehe dazu den Brief
+                            des Königs an die Lichtenau, Oktober 1796: "Ich habe das wort nicht
+                            recht verstanden wo sie schreiben von ein mittel jemandt hier zu
+                            behalten; es scheint aber das es Professor hirte sein soll ist es er so
+                            werde gerne dazu beitragen, wie auch für jeden anderen für den sie sich
+                            interessiren" (GStA PK, BPH, Rep. 48 M, Nr. 58, unpaginiert). – Am 29.
+                            Oktober 1796 wurde Hirt auf Ordre des Königs zum Ordentlichen Mitglied
+                            der Akademie der Künste und Mitglied des Senats der Kunstakademie
+                            ernannt, eine Woche später, am 3. November 1796, zum Ordentlichen
+                            Mitglied der Akademie der Wissenschaften.</note>
+                    </seg>, der nebst der versicherten Unterstützung für mein Leben den angenehmsten
+                    Zauber für mein Herz in sich vereinigt – auf mehrere Jahre nahe an Ihrer Seite
+                    zu wandeln.</p>
+                <p>Aber vergeben Sie, Freundin, der kalten Vernunft, wenn ich dem Liebsten entsage,
+                    da ich die mitverbundenen Bedingungen nicht annehmen kann! Die Ursache ist kurz
+                    und klar: Nie habe ich mich mit der Führung und dem Unterricht junger Zöglinge
+                    beschäftigt. Ich weiß also gar nicht, ob ich die nötige Geschicklichkeit und
+                    Geduld für ein so wichtiges Geschäft haben würde; und um einen Versuch zu
+                    machen, hierzu, sehen Sie selbst, bin ich wohl zu alt.</p>
+                <p>So schön und edel die Absicht in Beziehung <persName key="prov_m45_yjr_cv">des Ihnen vertrauten Zöglings</persName>, so schmeichelhaft
+                    und erwünscht dieselbe in anderer Rücksicht für mich ist, so erheischt doch das
+                    Wohl des edlen Zöglings selbst, daß ich einem Amte entsage, wozu ich meine
+                    Fähigkeit mit Recht bezweifle.</p>
+                <p>Indessen kommt Ihre schöne Seele auch darin wieder meinen Wünschen zuvor. Sie
+                    bezeigen mir in dem <seg type="critical">
+                        <orig>gestrigen Schreiben</orig>
+                        <note xml:id="nd3g_llr_cv">Brief erschlossen: [Von der Gräfin Lichtenau
+                            1796-03-04]</note>
+                    </seg> Ihren Wunsch und Ihre Hoffnung, mir auch in <placeName key="prov_ycp_cpr_js">Berlin</placeName> auf eine andere Weise behilflich
+                    sein zu können. Ich habe oben gesagt, zu was ich mich allenfalls geneigt und
+                    tauglich fühle: Ihre milde Hand walte also nach Ihrem Wohlgefallen und Vermögen
+                    über mich. Ohne übrigens <placeName key="prov_ycp_cpr_js">Berlin</placeName> zu
+                    kennen, glaube ich doch, daß diese Stadt viele Vorzüge in sich vereinige: und
+                    wohin folgte derjenige nicht willig, der sich von einer Freundin, wie Sie sind,
+                    den Freund in engerm Verstande nennen darf?</p>
+                <closer rend="paragraph">
+                    <salute>Ihr</salute>
+                    <signed>Aloys Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <seg type="critical">
+                        <orig>Ihre Abreise ist nahe</orig>
+                        <note xml:id="ndsj_qlr_cv">Die Gräfin Lichtenau reiste am 9. Mai 1796 von
+                            Rom ab, da der König erkrankt war und ihrer Unterstützung bedurfte (vgl.
+                            Tagebuch der Louise von Anhalt-Dessau, Bd. 1, S. 216)..</note>
+                    </seg>: ich will und mag nicht daran denken, wie viel ich Ihnen zu sein
+                    gewünscht hatte und wie wenig ich Ihnen sein konnte! – Haben Sie noch etwas
+                    Näheres über mich oder mit mir zu disponieren, so bin ich mündlich oder
+                    schriftlich immer und immer der <lb/> Ihrige.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

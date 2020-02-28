@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_srn_xkn_23b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Akademie der Wissenschaften: Bemerkung zu Hirts Gehalt. Berlin, nach 17.
+                    August 1815</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1812-1945), II-III-18, Bl. 62r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    
+                </correspAction>
+                <correspAction type="received">
+                    
+                </correspAction>
+                <note>Zur Datierung: Die Aktennotiz wurde vermutlich nach Bekanntwerden der
+                    Ministerialverfügung vom 17. August 1815 verfasst.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p><hi rendition="#u">Bemerkungen</hi>
+                    <lb/>Herrn Hofrath <persName key="prov_ztg_3sx_sr"><hi rendition="#u">Hirt</hi></persName> betreffend.</p>
+                <p>1) Nach der Minist<ex>erial</ex> Verfügung v<ex>om</ex> 17 Aug<ex>ust</ex> 1815
+                    (siehe Akten des Geldverw<ex>endungs</ex> Aussch<ex>usses</ex> v<ex>om</ex>
+                        J<ex>ahr</ex> 1815) wurde dem Herrn p. Hirt ein Gehalt von
+                        R<ex>eichstaler</ex> 200 - v<ex>om</ex> 1 Jan<ex>uar</ex> 1815 ab,
+                    bewilligt.</p>
+				<closer> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zyb_wcz_rjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    23. Januar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 1r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-01-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_ajx_rc1_sjb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschriftskürzel von Altenstein. -
+                    Bearbeitungsvermerke auf dem linken Rand: "<hi rendition="#u">Briefbogen</hi>.";
+                    Mundierungsvermerk "den 23/1. 23."; Absendevermerk "den 24/1 23. / 1. Anh:"; auf
+                    dem oberen Rand: "Ad num. 10. / ad N° 219. B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Des / Königlichen Geheimen-Ober-Bau-/raths, Herrn Schinkel, /
+                            Hochwohlgebohren / und / des königlichen Hofraths Herrn / Hirt,
+                            Wohlgebohren. / Hier.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 23 Januar, 1823.</dateline>
+                </opener>
+				<p>Auf die in beiliegender Vorstellung des Portier <persName key="ed_cdy_rrz_rjb">Köhler</persName> enthaltene Bitte um Erhöhung seines Lohnes kann ich auf
+                    keinen Fall eingehen.</p>
+                <p>Ew. Hochwohl- und Wohlgebohren stelle ich aber ergebenst anheim, ob Sie dem
+                        <persName key="ed_cdy_rrz_rjb">Köhler</persName> nach Maßgabe seiner
+                    Diestleistung eine extraordinaire Remuneration aus Ihrem Kassenbestande reichen
+                    wollen, und überlaße Ihnen das Erforderliche <unclear reason="illegible" cert="">hiernach</unclear> zu eröffnen</p>
+				<closer>
+                    <dateline>(Berlin, w<ex>[ie]</ex> o<ex>[ben]</ex>)</dateline>
+                    <signed><ex>[Unterschriftskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

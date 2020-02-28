@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_whh_gnj_lw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Joseph von Laßberg. Frankfurt am Main, 28. Juli 1817.</title>
+                <title> Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Albert-Ludwigs-Universität Freiburg,
+                            Universitätsbibliothek</institution>
+                        <collection>Historische Sammlungen</collection>
+                        <idno>
+                            <idno type="shelfmark">Autogr. 1621</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Alfred Hall, 1960, S. 50-52</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_zcy_dc3_g5">Frankfurt am Main</placeName>
+                    <date when="1817-07-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_stp_kmd_2w">Laßberg, Joseph Maria Christoph Freiherr von
+                        (1770-1855) (Forstmann, Germanist und Schriftsteller, Oberforstmeister im
+                        Fürstentum Fürstenberg, Lebensgemeinschaft mit Fürstin Elisabeth zu
+                        Fürstenberg, geb. Thurn und Taxis (1767-1822), ab 1838 Besitzer der Burg
+                        Meersburg am Bodensee, Schwager von Annette von Droste-Hülshoff)</persName>
+                    <placeName key="ed_s21_wnj_lw">Heiligenberg (Bodensee-Hinterland)</placeName>
+                </correspAction>
+                <note>Empfängerbemerkung am oberen linken Blattrand neben dem Datum: „Erhalten
+                    Heiligenberg / den 31.<hi rendition="#sup">ten</hi> July. 1817.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An S<hi rendition="#sup">e</hi> Hochwohlgeboren / den Herrn
+                            Freyherrn / Joseph v. Lasberg p. / zu / Heiligenberg / links daneben:
+                                V<ex>ia</ex> Stuttgart / und Moskirch. /22 p. / Mit Siegel und
+                            Postvermerk</addrLine>
+                    </address>
+                    <dateline>Frankfurt a/M den 28<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Jul. 1817.</dateline>
+                    <salute>Mein verehrter Herr Baron!</salute>
+                </opener>
+                <p>Es gehört zu den schönen Momenten nicht nur dieser <seg type="comment">
+                        <orig>meiner Reise</orig>
+                        <note xml:id="ntgr_h2k_lw">Zu Hirts Reise nach Italien und den Niederlanden
+                            vgl. 1816-08-30-a-Böttiger; 1816-10-06-a-Böttiger;
+                            1817-06-10-a-Hummel.</note>
+                    </seg>, sondern meines Lebens, Ihre persönliche Bekanntschaft gemacht zu haben.
+                    Die vielfachen Beweise Ihres freundschaftlichen Wohlwollens werden mir für immer
+                    unvergeßlich bleiben. Der Stock, den Sie mir bey unserer Trennung schenkten, ist
+                    mir ein schönes Unterpfand Ihrer wohlwollenden Gesinnungen und ersetzt mir sehr
+                    angenehm den auf der <hi rendition="#aq">Tour</hi> nach <placeName key="ed_j43_2fk_lw">Basel</placeName> verlorenen, welcher von treuer Hand
+                    kommend mich während 20 Jahren durch das Leben geleitete. Ich trage nun in dem<subst>
+                        <del rendition="#s">selben </del>
+                        <add place="superlinear">Ihrigen</add>
+                    </subst> ein doppeltes Andenken.</p>
+                <p>Zur Wiedererstattung der Summe, welche Sie mir so wohlwollend darbrachten, hielt
+                    mein hiesiger Banquier für beßer, dieselbe Ihnen <hi rendition="#aq">in
+                        natura</hi> durch die Post, als durch Wechsel zu übersenden. Sie werden also
+                    die mir geliehenen <seg type="comment">
+                        <orig>21<unclear reason="illegible">6</unclear> fl.</orig>
+                        <note xml:id="nkyb_svj_lw">Unsichere Lesung: es ist sowohl „216“ als auch
+                            „210“ als Lesung möglich. Wahrscheinlicher ist jedoch, dass es sich bei
+                            der letzten Zahl um ein „S“ handelt, im Sinne von „Silberflorin“, was
+                            eher den auf der Adresse vermerkten „22 f“ [oder: 22 p“?] entsprechen
+                            würde.</note>
+                    </seg> durch den Postwagen frey zugesendet erhalten. Wie sehr Sie mich durch
+                    diesen Aktus verpflichtet haben, bedarf keiner Worte. - Ihnen verdanke ich <seg type="comment">
+                        <orig>das schöne Gemälde von <persName key="ed_ytl_lfk_lw">J<ex>ohann</ex>
+                                Baldung</persName>
+                        </orig>
+                        <note xml:id="nrcm_vfk_lw">Um welches Gemälde es sich handelte, konnte nicht
+                            ermittelt werden. Möglicherweise stand es in Beziehung zu der auf dem
+                            Hochaltar (s. unten) dargestellten Heimsuchung, die die Begegnung der
+                            beiden hochschwangeren Frauen Maria und Elisabeth im Gebirge zeigt. Im
+                            Hintergrund ist eine Landschaft mit Bergen, im Vordergrund sind kleine
+                            Hasen dargestellt. - Hirt muss bei seinem Besuch in Weimar im September
+                            1817 Goethe von dem Bild erzählt haben, denn dieser schreibt am 26. März
+                            1818 an Johann Heinrich Meyer: „In Ulm sollen nach Hirts Versicherung
+                            sich wundersame altdeutsche Dinge befinden, unter andern nennt er einen
+                            Meister Hans Baldung Grien mit großer Hochachtung, von dem er selbst ein
+                            sehr schätzenswerthes Bild acquirirt hat"; versehen mit der Anmerkung:
+                            „Doch ich irre! das Hauptbild dieses Meisters ist nicht in Ulm, sondern
+                            zu Freiburg im Breisgau“ (Goethe, WA, IV, Bd. 29, Nr. 8024, S. 105). -
+                            Hirt erwähnt das Bild in seinem Brief an Goethe von Mitte Februar 1818:
+                            er habe es mit einem Rahmen versehen und in seinem Zimmer aufgestellt,
+                            wo es ihm täglich Freude bereite. Er freue sich schon, es Goethe zeigen
+                            zu können, wenn dieser nach Berlin komme.</note>
+                    </seg>, von dem <add place="superlinear">ich mich</add>, wenn es einmal in
+                        <placeName key="prov_ycp_cpr_js">Berlin</placeName> glücklich angelangt seyn
+                    wird, nicht so leicht wieder trennen werde. <seg type="comment">
+                        <orig>Die treffliche Heimsuchung</orig>
+                        <note xml:id="nafz_qgk_lw">Gemeint ist wohl der von Baldung Grien und seiner
+                            Werkstatt gestaltete Hochaltar im Freiburger Münster. Der Klappaltar
+                            zeigt als festes Mittelbild die Krönung Marias sowie auf zwei
+                            Seitentafeln die Bildnisse der Apostel. Der geschlossene Altar,
+                            bestehend aus vier Klapptafeln, zeigt die Verkündigung, die Heimsuchung,
+                            die Geburt Christi und die Flucht nach Ägypten.</note>
+                    </seg> des genialen Meisters wird mir bey deßen Betrachtung immer vorschweben.
+                    Der liebevolle <persName key="ed_fph_h3k_lw">
+                        <hi rendition="#aq">Hug</hi>
+                    </persName> will für gute Verpackung und Übersendung besorgt seyn. Auch die
+                    Bekanntschaft dieses trefflichen Landsmannes verdanke ich Ihnen. Sein Charakter
+                    macht ihn eben so schätzenswerth, wie seine seltenen wißenschaftlichen
+                    Kenntniße. Gerne möchte ich ihn in unsere Gegenden versezt sehen, aber nicht
+                    leicht möchte ihm das freundliche <placeName key="ed_jcb_v5d_lw">Freyburg</placeName> ersezt werden können. <pb n="2"/>
+                </p>
+                <p>Meine Reise hieher gieng gut; nur verdarb mir der viele Regen manche schöne
+                    Ansicht, und so fühlte ich den Verlust eines angenehmen Gefährten, der mich
+                    zweymal nach <placeName key="ed_jcb_v5d_lw">Freyburg</placeName> brachte,
+                    doppelt. In <placeName key="ed_ont_1vd_lw">
+                        <hi rendition="#aq">Strasburg</hi>
+                    </placeName> forschte nach dem <persName key="ed_zgv_qkk_lw">
+                        <hi rendition="#aq">Martin Schoen</hi>
+                    </persName> vergeblich, und später mußte ich zu meinem großen Herzenleid
+                    erfahren, daß doch in <hi rendition="#aq">
+                        <placeName key="ed_zvv_w5d_lw">Colmar</placeName>
+                    </hi>
+                    <seg type="comment">
+                        <orig>seine Hauptwerke</orig>
+                        <note xml:id="nppn_klk_lw">In Colmar befindet sich sein Altarbild „Madonna
+                            im Rosenhag“, 1473 (heute in der Dominikanerkirche Colmar), Teile des
+                            Orlier-Altars für das Antoniterkloster und -hospital in Isenheim (heute:
+                            Colmar, Musée d'Unterlinden) und der Hauptaltar der Dominikaner
+                            (ausgeführt von seiner Werkstatt, heute: Colmar, Musée d'Unterlinden).
+                        </note>
+                    </seg> noch aufbehalten sind. Indeßen gelang es mir doch hier <seg type="comment">
+                        <orig>in <placeName key="prov_zcy_dc3_g5">Frankfurt</placeName> einige
+                            treffliche Werke dieses Meisters zu sehen</orig>
+                        <note xml:id="nwzq_cnk_lw"/>
+                    </seg>. In <placeName key="ed_iql_xnk_lw">Baden</placeName> brachte ich einen
+                    regnerischen Tag zu, wo es mir kaum gelang, die schönen Gegenden zu sehen. In
+                        <placeName key="ed_hwt_zgm_fw">Karlsruhe</placeName>
+                    <seg type="comment">
+                        <orig>traf ich keinen meiner alten Bekannten</orig>
+                        <note xml:id="ne2x_34k_lw">Friedrich Weinbrenner hielt sich zu dieser Zeit
+                            gerade in Berlin auf, vgl. 1817-06-10-a-Hummel.</note>
+                    </seg>, ich sah also <seg type="comment">
+                        <orig>die Gebäude von <persName key="prov_gj1_zn4_pv">Weinbrenner</persName>
+                        </orig>
+                        <note xml:id="njz2_44k_lw">Friedrich Weinbrenner wirkte seit Ende 1797 (mit
+                            Unterbrechungen) in seiner Vaterstadt Karlsruhe zuerst als markgräflich
+                            badischer Bauinspektor, ab 1801 als Baudirektor, 1807 als
+                            Oberbaudirektor. 1800 gründete er eine private Bauschule. Mit der „Via
+                            Triumphalis“ gestaltete er das Zentrum der ehemals kleinen
+                            Baden-Durlachsche Residenzstadt neu. Bis 1807 baute er in Karlsruhe u.a.
+                            die Evangelische Stadtkirche (1797-1816), das Rathaus (1797-1825), die
+                            Synagoge (1798), das Markgräfliche Palais mit Gartenhaus, das Vogelhaus
+                            im Erbprinzengarten (1799-1801), das Amalienschlösschen (1799-1803), den
+                            Gotischen Turm im Garten der Markgräfin Amalie (1802/03), das Ettlinger
+                            Tor (1803-05), das Kanzleigebäude am Schlossplatz (1803-16), die
+                            Rumford'sche Suppenanstalt (1804), die Infanteriekaserne (1804-08), das
+                            Hoftheater (1804-08), einen Triumphbogen für Napoleon (1806),
+                            Neugestaltung des Botanischen Gartens (1807/08), die Katholische Kirche
+                            (1807-14), das Gasthaus „Zum Zähringerhof“ (1808/09), das Reformierte
+                            Pfarrhaus (1811), das Haus der Museumsgesellschaft (1813/14), das
+                            Gasthaus „Zum Kaiser Alexander“ (1813/15), das Gasthaus „Zum Bären“ am
+                            Marktplatz (1815), das Gasthaus „Zum König von England“ (1816), des
+                            weiteren zahlreiche Bürgerhäuser und Denkmäler. Im Bau befanden sich zu
+                            dieser Zit die Wach- und Zollhäuser des Mühlburger Tors (1817-19), das
+                            Gartenpalais der Markgräfin Christiane Louise (1817-26), das Gartenhaus
+                            der Markgräfin Christiane Louise (1817-26), der Pavillon im
+                            Gemüsengarten der Markgräfin Christiane Louise (1817-26), die Orangerie
+                            im Garten der Markgräfin Christiane Louise (1817-26) (alle Angaben sind
+                            entnommen aus: Friedrich Weinbrenner 1766-1826: Architektur und
+                            Städtebau des Klassizismus. Ausstellung der Städtischen Galerie
+                            Karlsruhe und des Südwestdeutschen Archivs für Architektur und
+                            Ingenieurbau am KIT, 27. Juni 2015 bis 4. Oktober 2015. Petersberg 2015,
+                            hier besond. S. 438ff.).</note>
+                    </seg>, und die Gemäldesammlung nur im Flug, um nach <placeName key="ed_ok5_2vd_lw">
+                        <hi rendition="#aq">Heidelberg</hi>
+                    </placeName>zu eilen. Alldort hielten mich die über alle Erwartung <seg type="comment">
+                        <orig>schönen Gemälde der <persName key="ed_uwb_w5k_lw">
+                                <persName key="ed_ubg_rvk_lw">Brüder <hi rendition="#aq">Boiserée</hi>
+                                </persName>
+                            </persName>
+                        </orig>
+                        <note xml:id="npks_zvk_lw">Die Brüder Sulpiz und Melchior Boisserée stellten
+                            ab 1804 eine Sammlung von 215 altdeutschen und altniederländischen
+                            Tafelgemälden zusammen, die sie von Ende 1810 bis 1819 in ihrem Palais
+                            am Heidelberger Karlsplatz ausstellten, danach in Stuttgart. 1827
+                            verkauften sie die Sammlung an König Ludwig I. von Bayern. - Friedrich
+                            Karl v. Savigny schreibt am 27. Dezember 1817 an Friedrich Creuzer:
+                            „Hirt ist im höchsten Enthusiasmus über die Boissereeschen Bilder“
+                            (Adolf Stoll: Friedrich Karl v. Savigny. Ein Bild seines Lebens mit
+                            einer Sammlung seiner Briefe. Bd. 2: Professorenjahre in Berlin
+                            1810-1842. Berlin 1929, S. 236). - Hirt besuchte die Gemäldesammlung in
+                            der Zeit vom 17. bis 22. Juli 1817. In Sulpiz Boisserées Tagebüchern
+                            heisst es dazu u.a.: 18. Juli 1817: „Hirt. Widerspruchs-Geist. Bertram
+                            ist mit ihm auf dem Äußersten. Wunderliche Erscheinung: nicht nur
+                            Kenntnisse hat der Mann sondern auch Sinn, aber gar keinen Geist, und
+                            doch ein unablässiges Streben nach dem wozu gerade durchaus Geist
+                            gehört. Da hat solch ein Pedant ein Abstractum oder Petrefactum von
+                            Geschichte im Kopf - danach soll sich alle Geschichte beurteilen lassen!
+                            / Während wir am Mittagessen sind mit ihm, kömmt Reimer von Berlin. -
+                            19. Juli 1817: Hirt und Reimer. - 21. Juli 1817: Kunst Notizen für Hirt.
+                            er kapituliert vollkommen gegen uns und gegen Creuzer etc. - 22. Juli
+                            1817: Brief an Franz Brentano für Hirt. [...] Hirt teilt mir den Brief
+                            von Hummel mit“ (Sulpiz Boisserée, Tagebücher 1808-1854. Im Auftrage der
+                            Stadt Köln hrsg. von Hans J. Weitz, Bd. I, 1808-1823, Darmstadt 1978, S.
+                            415). Nach Hirts Besuch schreibt Boisserée am 1. August 1817 aus
+                            Heidelberg an Goethe: "[...] In Bezug auf unsere Kunstbemühungen haben
+                            wir kürzlich eine ganz merkwürdige Erscheinung erlebt. Der wohlbekannte
+                            Hofrath Hirt kehrte, aus Italien kommend, bei uns ein. Wie im vorigen
+                            Herbst Hummel und Buri, so trat auch er anfangs mit den tollsten
+                            Widersprüchen gegen unsere Ansicht der altdeutschen Kunstgeschichte auf;
+                            ja er schalt jene, daß sie sich hatten überwinden lassen. / Es scheint,
+                            diese drei Herren haben in Berlin ein Triumvirat und Prävalenz der
+                            altitalienischen Kunst gebildet und sind ausgereist, um Beweise zu
+                            suchen, fanden aber gerade das Gegentheil. - Hirt als Hauptmann dieser
+                            Eidgenossenschaft hat sich's sauer genug werden lassen, er hat seit dem
+                            vorigen Sommer ganz Italien und jetzt auf der Rückreise das ganze
+                            südliche Deutschland in dieser Hinsicht durchreist. / In Italien,
+                            besonders in Venedig, wo er einige Gemälde von Antonella da Messina u.
+                            a. sah, überzeugte er sich freilich schon von dem entschiedenen großen
+                            Einfluß der Altniederländer aufs Colorit und Ausführung der Italiener;
+                            und in Wien, wo er einige altniederländische Werke mit Inschriften
+                            antraf, kam seine vorgefaßte Meinung noch mehr ins Gedränge. Indessen
+                            ein zäher Pedant, wie er ist, konnte er sich von seinem System der
+                            Kunstgeschichte, welches auf eine wahre Schachtelentwicklung hinaus
+                            läuft, immer noch nicht loswinden, und suchte überall nach
+                            untergeordneten und weniger bekannten Meistern, in der Hoffnung, sich so
+                            irgend Hülfsgründe zusammenzuflicken. / Diese Hoffnung nun sollte ihm
+                            bei uns vereitelt und überhaupt sein ganzes Gedankengedrechsel zu Grunde
+                            gerichtet werden. Je mehr nämlich einerseits alles seine Erwartung
+                            übertraf, was wir ihm vorsetzten, und je mehr er die Vortrefflichkeit
+                            und Herrlichkeit dieser Kunstwerke bewunderte, desto weniger wollte er
+                            sich mit der bloßen Betrachtung, worauf wir ihn wiederholt verwiesen,
+                            beruhigen, sondern er zwang uns durch sein ewiges Klagen über die
+                            Frühzeitigkeit der Entwicklung und durch sein Auskramen von allerlei
+                            vermeinten Gegengründen ihm die wahre historische Ansicht gleichsam
+                            einzubläuen. / Aus der italienischen Kunstgeschichte konnte er mir
+                            nichts vorbringen, worauf ich nicht schon durch meine Forschungen
+                            vorbereitet war, vielmehr that ich ihm noch manches Herzeleid an mit
+                            Nachweisungen bedeutender Sachen, die er unbeachtet gelassen. In
+                            Rücksicht der oberdeutschen Kunst ging es ihm nicht besser; ja hier
+                            wurde es sogar possierlich, denn er hatte sein ganzes Heil auf einen mit
+                            Joh. van Eyck sehr verwandten Maler der mittlern Klasse gesetzt, Namenes
+                            Fritz Herlein von Nördlingen, und wie wir jetzt hintennach hören, hatte
+                            er ihn unterwegs bereits als deutschen Raphael proclamirt. Dieser sollte
+                            ihm zu seinem ὑστερον προτερου dienen. Aber unglücklicherweise kannte
+                            ich nicht nur die Werke, sondern auch einige feste Zeitbestimmungen von
+                            der Geschichte dieses Meisters, woraus sich ergibt, daß er nicht ein
+                            Vorgänger, sondern ein Schüler und größtentheils Copist des Eyck war,
+                            dessen Compositionen er fast immer und nur mit Vermeidung desjenigen
+                            beibehalten, was bei seinem untergeordneten Talent der Ausführung
+                            ohnehin ganz fruchtlos gewesen wäre, nachzuahmen. Das hübscheste jedoch
+                            ist, daß wir von zweien der Nördlinger Gemälde die Eyck'schen Vorbilder
+                            besitzen. Genug, Meister Herlein ist derjenige, durch welchen sich der
+                            schon bei Martin Schön und Wohlgemuth erkennbare Einfluß der Eyck'schen
+                            Schule auf die oberdeutschen Maler am allerdeutlichsten offenbart. / Als
+                            nun unser antiquarischer Bär sah, daß ihm alle seine Nothwehr nichts
+                            half, so fing er an, sein Confiteor zu beten: wie er das kölnische
+                            Dombild bloß nach Copien beurtheilt und in Berlin für italienisch
+                            erklärt, wie er aber jetzt, nachdem, was er vom selbigen Meister bei uns
+                            sehe, in Italien nichts ähnliches kenne, wie er gleichfalls das Danziger
+                            Bild in Berlin bloß nach seinen veralteten italienischen Erinnerungen
+                            beurtheilt habe u. s. w.; er las mir dann den Brief von Hummel vor,
+                            worin dieser ihm schrieb, daß er und Buri sich in den Niederlanden
+                            vollends von der Richtigkeit unserer Ansicht überzeugt hätten; und so
+                            schloß endlich der Bußfertige mit der Versicherung, es sey ihm zwar eine
+                            große Qual, aber er müsse sein System fallen lassen, er finde, die Sache
+                            verhalte sich gerade umgekehrt: <hi rendition="#u">die
+                                altniederländische Kunst statt, wie er geglaubt, der gleichzeitig
+                                italienischen nachzustehen, sey dieser bis zum Leonardo und Raphael,
+                                besonders im Optischen und eigentlich malerischen Theil so
+                                außerordentlich überlegen, daß man es nicht hoch genug rühmen und
+                                preisen könne</hi>. Dieß feierliche Geständniß legte er
+                            unaufgefordert auch seinen übrigen hiesigen Bekannten ab, und reiste
+                            dann, nachdem wir ihn gehörig mit Notizen ausgestattet hatten, zur
+                            weitern Belehrung nach den Niederlanden. / Ich kann nicht läugnen, die
+                            Ungläubigkeit und Widerspenstigkeit, welche die Herren gegen die von
+                            Ihnen doch so trefflich entwickelte Wirkung des Genie's von Joh. v. Eyck
+                            gezeigt, wird mir eine wichtige Lebenserfahrung bleiben. Indessen hat
+                            die kleine Rebellion dadurch, daß sie die Sache unter den deutschen und
+                            selbst italienischen Kunstfreunden noch mehr zur Sprache gebracht,
+                            offenbar heilsame Folgen. Wir wir dann auch andererseits aus dem, was
+                            die seit kurzem häufig von Italien her zu uns kommenden Bekannten über
+                            das Bestreben der dortigen deutschen Künstler nach einer bessern Technik
+                            sagen, einen glücklichen Einfluß Ihres ersten Hefts entnehmen. - Die
+                            Disputation mit Hirt hat mich überzeugt, daß nun für die Bestimmung des
+                            Verhältnisses zwischen der niederdeutschen und oberdeutschen Kunst kein
+                            wesentlicher Punkt mehr fehlt. [...]". (Original im GSA Weimar, 28/206,2
+                            St. 38; zitiert nach: Sulpiz Boisserée. Zweiter Band: Briefwechsel mit
+                            Goethe. Stuttgart 1862, S. 184-186). - Friedrich Creuzer schreibt über
+                            Hirts Aufenthalt in Heidelberg am 10. September 1817 an Friedrich
+                            Münter: "Wir haben seit dem Spätsommer sehr viele Fremde hier gehabt
+                            [...]. Besonders angenehm und lehrreich war mir auch die nähere
+                            Bekanntschaft mit dem Herrn Hofrath Hirt von Berlin, der auf seiner
+                            Rückreise aus Italien sich mehrere Tage bei uns aufhielt. Er hat mir
+                            manches von den Aeginetischen Bildwerken erzählt, die jezt eben für den
+                            Kronprinzen von Baiern in Rom restaurirt werden." (Friedrich Münter,
+                            Briefwechsel, Bd. V, S. 186). </note>
+                    </seg> sehr schadlos. Ich brachte acht Tage bey ihnen zu. Die herrliche Lage des
+                        <seg type="comment">
+                        <orig>ruinirten Schloßes</orig>
+                        <note xml:id="nqfr_bxp_lw">Das Heidelberger Schloss wurde Ende des 17.
+                            Jahrhunderts zerstört und in der Folgezeit nur teilweise restauriert.
+                            Anfang des 19. Jahrhunderts konnte die Absicht der badischen Regierung,
+                            die Ruinen abtragen zu lassen, verhindert werden. Die Schlossruine wurde
+                            zur Projektionsfläche romantisch-nationaler Begeisterung. </note>
+                    </seg> gehört zu den Intereßantesten. Von da gieng mein Weg über<placeName key="prov_lfw_2bx_w5">
+                        <hi rendition="#aq">Manheim</hi>
+                    </placeName>, <hi rendition="#aq">
+                        <placeName key="ed_mjh_xyp_lw">Worms</placeName>
+                    </hi>, <placeName key="ed_b2v_zyp_lw">
+                        <hi rendition="#aq">Darmstadt</hi>
+                    </placeName> hieher, wo ich seit drey Tagen weile, und über morgen geht die
+                    weitere Reise den <placeName key="ed_mlj_dzp_lw">Rhein</placeName> abwärts. <seg type="comment">
+                        <orig>
+                            <persName key="ed_dmh_lwd_lw">Der Reisegefährte</persName>
+                        </orig>
+                        <note xml:id="nww3_3zp_lw">Vgl. 1817-06-10-a-Hummel.</note>
+                    </seg>, der mich hier erwarten, und nach den <placeName key="prov_hll_2st_y5">Niederlanden</placeName> begleiten wollte, <seg type="comment">
+                        <orig>hat mir abgeschrieben</orig>
+                        <note xml:id="ndgc_lzp_lw">Brief erschlossen:
+                            [1817-07-vor28x-v-Endell]</note>
+                    </seg>. In <hi rendition="#aq">
+                        <placeName key="ed_fsk_x1q_lw">Hanau</placeName>
+                    </hi> suchte ich <seg type="comment">
+                        <orig>meine Gönnerin, die <persName key="ed_tf5_31d_cw">Churprinzeß von
+                                Hessen</persName>, vergeblich auf. Sie hatte diesen Sommer auch eine
+                            Reise nach den <placeName key="prov_hll_2st_y5">Niederlanden</placeName>
+                            gemacht, um <persName key="ed_o5m_ncd_cw">die Königin, ihre
+                                Schwester</persName>, zu besuchen</orig>
+                        <note xml:id="nalj_fbq_lw">Hirt hatte sowohl Auguste von Hessen-Kassel wie
+                            auch Wilhelmine von Oranien-Nassau, zu dieser Zeit bereits Königin der
+                            Niederlande - beides Schwestern des preußischen Königs Friedrich Wilhelm
+                            III. - bei deren Aufenthalten in Berlin in Kunstgeschichte und
+                            Archäologie unterrichtet. </note>
+                    </seg>.</p>
+                <p>Sie werden die an sich unbedeutende antike <hi rendition="#aq">Gemme</hi>, welche ich schon in <placeName key="ed_jcb_v5d_lw">Freyburg</placeName> für Sie bestimmt hatte, die aber zum Herausholen zu
+                    tief in meinem Koffer lag, und nun dem Geldpaket beygefügt ist, als einen
+                    geringen <pb n="3"/> Beweis meiner Hochachtung und Freundschaft für Sie
+                    annehmen. Für einen Forstmann wird das Bild darauf nicht unpaßend seyn.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Sie wollen sich nun in die freie <placeName key="prov_org_jtr_js">Schweiz</placeName> zum Genuß einer philosophischen Ruhe
+                            zurückziehen.</orig>
+                        <note xml:id="nckk_lcq_lw">Laßberg hatte 1812 das Schlossgut Eppishausen in
+                            Erlen im Thurgau erworben, auf das er sich nach seiner Pensionierung
+                            1817 zurückzieht. Seitdem wählte er das Pseudonym „Meister Sepp von
+                            Eppishusen“, legte eine große Literatursammlung an und führte einen
+                            ausgedehnten Briefwechsel, u.a. mit Jakob Grimm, Ludwig Uhland, Gustav
+                            Schwab und Karl Lachmann. 1838 kauft er die Burg Meersburg am Bodensee
+                            und siedelt mit seiner Familie im September 1838 dorthin über.</note>
+                    </seg> Mögen Sie diese lange und zufrieden genießen! - Ich gebe die Hoffnung
+                    nicht auf, Sie dereinst noch zu sehen, sey es daß Sie sich selbst einmal zu
+                    einer Reise nach unsern Nordgegenden entschließen, oder mein gutes Schicksaal
+                    will, daß ich die freundlichen Umgebungen des <placeName key="ed_vjv_5bq_lw">Bodensees</placeName>, die mir von Jugend her noch erinnerlich sind, noch
+                    einmal werde besuchen können.</p>
+                <closer>
+                    <salute>Leben Sie wohl, und gedenken Sie manchmal <lb/>Ihres dankbar
+                        ergebensten</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_xzc_3dy_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An</title>
+                <title> Louise von Anhalt-Dessau. Rom, vor 22. Februar 1796]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky
+                    (Bearbeiter): Die originalen Tagebücher der Fürstin Louise Henriette Wilhelmine
+                    von Anhalt-Dessau. Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der
+                    Kulturstiftung DessauWörlitz, Bd. 1, Halle 2010, S. 189: Eintrag 22. Februar
+                    1796: "[...] fuhren wir durch eine Umweg längst den Haven nach Hause - ich fand
+                    einen Brief von Hirt aus Rom"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1796-02-01" notAfter="1796-02-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Schülerin und
+                        Freundin Hirts)</persName>
+                    <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                </correspAction>
+                <note>Anmerkung: Ihr Haus in Neapel beschreibt die Fürstin in ihrem Tagebuch,
+                    Eintrag 7. Februar 1796: "Und nun fährt man vierzig Meilen weit auf der Via
+                    Appia, wovon hier dieses Haus, was ich in Neapel bewohne, nehmlich nur der
+                    zweyte Stock gehört an verschiedene Herren, wie ich nach einigen Tagen meines
+                    Auffenthalts erfuhr. Der eigentlicher Erbauer war [Ronekronti?], und seine
+                    Gläubiger bezahlen sich mit diesem Hause, welches 4 Stockwerk hatt. Dieses
+                    zweyte, worin ich wohne, gehört einem Handelsmann aus Franckfurt, Ehrmann, der
+                    sehr sauber alles hatt außmeubliert und auch dafür sich bezahlen läßt, thäglich
+                    2 Ducati. Ich erkaufe theuer freylich das Vorrecht, von Leusen befreyet zu sein.
+                    Dieses Haus hatt eine schöne Lage auf der Straße Chiaja am Platze Villa Reale,
+                    welches eine öffentliche Promenade am Meer ist, von wo man vor sich 18 Meilen
+                    aufs Meer Capri siehet, links den Haven der Stadt bis zum Vorgebürge Sorrento
+                    und wenn man gerade vom Haven fährt, hatt man den Vesuv im Auge und zu seinem
+                    Fuß Portici, rechts von dieser Villa Reale liegt in der Krümmung der Berg
+                    Pausolipp, und man sieht bis hinaus die vorspringende Ecke im Meere von
+                    Pouzuola. Was aber von diesem Hause und von der Promenade die Ansicht des Havens
+                    benimmt, ist das Castell dell Novo, welches sonst eine Insel war, worauf
+                    Lucullus Gärten gehabt und was jezt durch eine Brücke mit der Stadt verbunden
+                    ist." (Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 175).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

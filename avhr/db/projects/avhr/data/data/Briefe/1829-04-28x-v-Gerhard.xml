@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ims_15z_zy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Eduard Gerhard. Rom, 28. April 1829. Dienstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1829-07-11-a-Gerhard: "Eben wo ich mich anschicke nach den Bädern von
+                    Böhmen abzureisen, erhalte ich noch Ihr erfreuliches Schreiben vom 28<hi rendition="#sup"> ten </hi> April aus Rom. Dasselbe muß also irgendwo
+                    aufgehalten worden seyn." "Angenehm ist mir zu hören: daß von der Beschreibung
+                    Roms bereits 12 Bogen gedruckt sind, u. der Druck nun regelmäßig fortgeht."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_szp_ntf_1y">Gerhard, Eduard (Friedrich Wilhelm Eduard)
+                        (1795-1867) (dt. Klassischer Archäologe, 1829 Gründer des Instituto di
+                        Corrispondenza Archeologia in Rom, 1833 Archäologe am königlichen Museum in
+                        Berlin, 1844 o. Prof. an der Universität Berlin)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1829-04-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_hvb_z4j_gy"/>
+                    <ref type="next" target="hirt_dpt_lzr_gy"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

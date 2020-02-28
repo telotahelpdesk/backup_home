@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_dpt_lzr_gy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Eduard Gerhard. Berlin, 11. Juli 1829.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>DAI, Berlin</institution>
+                        <collection>Nachlass Eduard Gerhard</collection>
+                        <idno>
+                            <idno type="shelfmark">Briefwechsel: Aloys Hirt</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1829-07-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_szp_ntf_1y">Gerhard, Eduard (Friedrich Wilhelm Eduard)
+                        (1795-1867) (dt. Klassischer Archäologe, 1829 Gründer des Instituto di
+                        Corrispondenza Archeologia in Rom, 1833 Archäologe am königlichen Museum in
+                        Berlin, 1844 o. Prof. an der Universität Berlin)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_ims_15z_zy"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Al / Signor Odoardo Gerhard / Professore Prussiano / <hi rendition="#u">Roma</hi>. / <hi rendition="#u">Caffé Greco</hi>. /
+                            Mit Siegel, mit Postvermerken und zwei Poststempeln (runder Stempel:
+                            "BERLIN 5-6 / 14 / 7"; "27 LUGLIO")</addrLine>
+                    </address>
+                    <dateline>Berlin 11 Julj 1829.</dateline>
+                    <salute>Mein verehrtester Herr Professor!</salute>
+                </opener>
+                <p>Eben wo ich mich anschicke nach den <placeName key="ed_rly_hjv_bw">Bädern von
+                        Böhmen</placeName> abzureisen, erhalte ich noch Ihr erfreuliches <seg type="comment">
+                        <orig>Schreiben vom 28<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> April</orig>
+                        <note xml:id="nkmf_bwz_zy">Brief erschlossen: <ref target="hirt_ims_15z_zy">[1829-04-28x-v-Gerhard]</ref>.</note>
+                    </seg> aus <placeName key="prov_vkl_ndl_js">Rom</placeName>. Dasselbe muß also
+                    irgendwo aufgehalten worden seyn. Etwas früher schon erhielt <ex>ich</ex> die
+                    sechs ersten Kupferblätter zugleich mit dem <bibl sameAs="ed_axv_nwz_zy">
+                        <hi rendition="#aq">Bulletino</hi>
+                    </bibl> durch <persName key="ed_xgn_yfn_1z">
+                        <hi rendition="#aq">Gerstinger</hi>
+                    </persName>. Ich sehe dadurch, so wie durch Ihren Brief, das erfreuliche
+                    Beginnen <seg type="comment">
+                        <orig>des großen Unternehmens</orig>
+                        <note xml:id="nphx_jb1_1z">Des Archäologischen Instituts in Rom mit der
+                            Herausgabe der "Annali" und des "Bullettino".</note>
+                    </seg>. - Ich nenne es groß der vielen Schwierigkeiten wegen, um Männer von so
+                    vielen Nationen vereinigt zu erhalten. Das <bibl sameAs="ed_axv_nwz_zy">
+                        <hi rendition="#aq">Bolletino</hi>
+                    </bibl> hat mich sehr angesprochen, besonders <seg type="comment">
+                        <orig>Ihr Aufsatz über die Ausgrabungen bey <placeName key="ed_dws_p5n_1y">
+                                <hi rendition="#aq">Corneto</hi>
+                            </placeName>
+                        </orig>
+                        <note xml:id="nfvl_4b1_1z">Eduard Gerhard: Scavi Etruschi. In: Bullettino
+                            degli Annali dell'Instituto di Corrispondenza Archeologica per l'anno
+                            1829, N. I, S. 1-18.</note>
+                    </seg>, wovon ich schon <seg type="comment">
+                        <orig>in der Staatszeitung</orig>
+                        <note xml:id="np4q_rqg_1z">Über die Ausgrabungen in Tarquini und Volci
+                            berichtet Gerhard (datiert: Rom, im Februar 1829) in der Beilage der
+                            "Allgemeinen preußischen Staatszeitung" 1829, No. 57, S. 170: "Ueber
+                            wichtige Sammlungen bemalter Vasen und merkwürdigen Erzgeräths, welche
+                            sich theils im Besitz der Stadt Corneto, theils ebendaselbst im
+                            Privatbesitz befanden, kam durch die Herren Kestner und v. Stackelberg
+                            gleichzeitig Kunde an römische Kunstliebhaber, unter denen sich damals
+                            der preussische Hofrath Dorow befand. Mit glücklicher Benutzung der
+                            erhaltenen Nachweisungen legte derselbe nicht bloss den Grund zu einer
+                            eignen reichhaltigen Antikensammlung, sondern veranlasste auch [...]
+                            neue und sehr ergiebige Nachsuchungen. Mit besonderem Glück wurden diese
+                            im Frühjahr 1828 auf Grundstücken der alten Stadt Volci ohnweit Canino
+                            versucht; heimliche Ausgrabungen eines seitdem geflüchteten Verwalters
+                            des Prinzen vn Canino brachten dort eine in der Umgegend Roms früher
+                            ungeahnte Masse von Vasenmalereien, in Art der grossgriechischen, ans
+                            Licht, und fielen dem vorerwähnten, bereits als Antikenkäufer bekannt
+                            gewordenen, Hofrath Dorow anheim. Ohne durch eigne Ausgrabungen oder
+                            gelehrte Nachsuchungen auf den Ruhm eines Kunstbeförderers oder
+                            Alterthumsforschers Anspruch machen zu wollen, hat Herr Dorow sonach das
+                            unbestreitbare Verdienst, durch den Ruf seiner Ankäufe wichtige
+                            Nachgrabungen veranlasst, und durch eine betriebsame Benutzung der
+                            mancherlei Kanäle des römischen Kunsthandels eine fortwährend höchst
+                            ausgezeichnete Vasensammlung erhalten zu haben. Fortgesetzte
+                            Nachgrabungen des Prinzen von Canino, der Herren Candelori, Campanari
+                            und Feoli sind seitdem gefolgt, und haben nun seit Jahresfrist, einer
+                            ungefähren Schätzung zufolge, an 800 jener grossgriechischen
+                            Vasengemälde zu Tage gefördert, die man früher dem Boden Etruriens
+                            völlig absprach. Keine dieser Sammlungen ist jedoch bis jetzt mit
+                            ausgezeichneten Stücken, selbst des schönsten Styls griechischer Kunst,
+                            in gleichem Grade ausgestattet, wie die ersterwähnte derselben, deren
+                            unbeschränkter Besitz nach angemessener Befriedigung der von Lucian
+                            Bonaparte über Unregelmässigkeit ihres Ankaufs geführten Beschwerden
+                            fortwährend dem Hofrath Dorow verbleibt." Die Aktenstücke des zu
+                            völliger Sicherstellung des Dorowschen Vasenbesitzes geführten Processes
+                            erschienen später in der Beilage zu No. 170 der Staatszeitung von
+                            1829.</note>
+                    </seg> mit Vergnügen las. <persName key="ed_v2p_zb3_nx">
+                        <hi rendition="#aq">Dorow</hi>
+                    </persName> ist zwar ein nebeliger Mensch; aber <seg type="comment">
+                        <orig>die <hi rendition="#aq">acquisition</hi> seiner Vasensammlung</orig>
+                        <note xml:id="nhyq_pzg_1z">Dorows Vasensammlung wurde 1831 für das
+                            Königliche Museum angekauft.</note>
+                    </seg> sehe ich für unser <placeName key="ediarum_rj2_kdc_sy">
+                        <hi rendition="#aq">Museum</hi>
+                    </placeName>als nothwendig an, besonders da wir <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_syj_q2h_yy">die  <hi rendition="#aq">Koller</hi>ische</rs>
+                        </orig>
+                        <note xml:id="nrwn_pyg_1z">Vgl. <ref target="hirt_pbv_sq1_by">1827-12-08-a-Gerhard</ref> und <ref target="hirt_pbv_sq1_by/#nct1_22l_cy">Sacherläuterung</ref>.</note>
+                    </seg> haben. Leztere Sammlung habe ich vor kurzem gesehen. Sie hat meiner
+                    Erwartung nicht entsprochen, obgleich ich einige Prachtstücke in derselben nicht
+                    verkenne, <add place="superlinear">so</add> ist doch das Meiste nur Ausschuß.
+                    Die Zeichnungen, welche mir <persName key="ed_v2p_zb3_nx">
+                        <hi rendition="#aq">Dorow</hi>
+                    </persName> zeigte, haben vielmehr Intereße, und ich glaube, daß man zu der
+                    Schätzung von 17000 r<ex>eichstaler</ex> wohl noch einige tausend beyfügen
+                    könnte, um diese Schäze eines so wichtigen Bodens nicht entgehen zu laßen. Nicht
+                    weniger intereßirt mich die neue Ernte von Zeichnungen, welche Sie von <hi rendition="#aq">Hetrurien</hi> erhielten; und doch, schreiben Sie, bleibt
+                    noch vieles zu thun. <persName key="ed_rhy_vs4_pw">
+                        <hi rendition="#aq">Boeckh</hi>
+                    </persName> und ich werden alles versuchen, um die <orgName key="ed_znn_dfc_b1b">Academie</orgName> dafür zu gewinnen. Ich habe bereits <seg type="comment">
+                        <orig>einen Aufsaz an <persName key="ed_rhy_vs4_pw">
+                                <hi rendition="#aq">Boeckh</hi>
+                            </persName> übergeben</orig>
+                        <note xml:id="ncd3_vzg_1z">Vgl. <ref target="hirt_sx5_2tf_1y/#nmdv_tdm_1y">1827-11-07-a-Gerhard und Sacherläuterung</ref> (dort aus den
+                            Akademieprotokollen zitiert)</note>
+                    </seg>, der ihn, <pb n="2"/> da ich wegen meiner Abreise es nicht selbst thun
+                    kann, in der <hi rendition="#aq">Classensizung</hi> vorlegen wird, und wir sind
+                    nicht ohne Hofnung, daß uns diesmal der vorschlag gelingen soll. Das <hi rendition="#aq">Resultat</hi> sollen Sie durch <persName key="ed_rhy_vs4_pw">
+                        <hi rendition="#aq">Böckh</hi>
+                    </persName> oder mich erfahren. Lezterer grüßt freundlichst, und hofft, daß Sie
+                    zur Zeit bereits sein Schreiben und den intereßanten <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_jwy_gwt_1bb">Aufsaz</bibl> für das <hi rendition="#aq">
+                                <orgName key="ed_efc_l4x_31b">istituto</orgName>
+                            </hi>
+                        </orig>
+                        <note xml:id="nscg_g1h_1z">Inscriptions greques publiées par M. Böckh. In:
+                            Annali dell'Instituto di Corrispondenza Archeologica per l'anno 1829, S.
+                            155-174.</note>
+                    </seg> erhalten haben sollen. - An <seg type="comment">
+                        <orig>die Übersezung <bibl sameAs="ed_ugc_sn1_by">meines Aufsazes über das
+                                    <hi rendition="#aq">Palladium</hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="ncmt_xgp_dz">Beim Druck in den "Annali" ist vermerkt:
+                            "Tradotto dal tedesco. / Dall'autore medesimo". </note>
+                    </seg> werde ich erst nach meiner Rückkunfft aus den <placeName key="ed_rly_hjv_bw">Bädern</placeName> denken können. Es ist mir lieb, daß
+                        <bibl sameAs="ed_o3k_l12_cy">die beiden andern Aufsäze</bibl> schon übersezt
+                    sind, und bald gedruckt werden sollen. -</p>
+                <p>
+                    <bibl sameAs="ed_uyt_fjv_1y">Die Jahrbücher für wißenschaftliche Kritik</bibl>
+                    <seg type="comment">
+                        <orig>werden iezt hier gedruckt</orig>
+                        <note xml:id="nct1_mhm_1z">Die "Jahrbücher" wurden bis Juli 1829 bei Cotta
+                            in Augsburg gedruckt; ab August 1829 bei J. F. Starcke in Berlin.</note>
+                    </seg>, und ich habe eben noch die <hi rendition="#aq">Correctur</hi> einer
+                        <bibl sameAs="ed_tqk_32m_1z">
+                        <hi rendition="#aq">Recension</hi>
+                    </bibl> durchgesehen, welche die <bibl sameAs="ed_mc2_3fm_1z">zweite Auflage der
+                        Kunstepochen</bibl> von  <persName key="ed_qnt_bnm_vw">Thiersch</persName>
+                    betrift. <seg type="comment">
+                        <orig>Der Autor ist gegen mich und <persName key="ed_rjs_jlw_ww">C<ex>arl</ex> O<ex>tfried</ex> Müller</persName> gewaltig
+                            hergefahren.</orig>
+                        <note xml:id="nfjx_5jm_1z">Thiersch hatte sich mit der Kritik von Hirt und
+                            von Karl Otfried Müller an seinen Abhandlungen "Ueber die Epochen der
+                            bildenden Kunst unter den Griechen" mit einer 1829 erschienenen
+                            erweiterten Neuauflage seiner drei Abhandlungen auseinandergesetzt und
+                            seine Positionen verteidigt, in der er "der Verfallsthese Winckelmanns
+                            widerspricht und zugleich behauptet, dass die griechische Kunst kein
+                            autochthones Erzeugnis sei, sondern aus Ägypten und Phönizien stamme. An
+                            die Stelle des Winckelmann'schen Modells einer in Stilperioden
+                            gegliederten Entwicklung der antiken Kunst nach dem Schema von Wachstum,
+                            Blüte und Verfall setzt Thiersch ein Modell, demzufolge die bildende
+                            Kunst unter den Griechen lediglich 'zwey Epochen, jede von beynahe
+                            gleicher mehr als funhundertjähriger Dauer', kenne, die beide durch eine
+                            dritte, in den Zeitraum um die fünfzigste Olympiade fallende
+                            'hundertjährige Epoche der Entwickelung voll hoher Eigenthümlichkeit
+                            verbunden' seien" (Martin Dönike: Altertumskundliches Wissen in Weimar,
+                            2013, S. 202). In der 2. Auflage schreibt Thiersch u.a. im "Ersten
+                            Nachtrag zur dritten Abtheilung": "Was aber von Hirt, angeblich nach
+                            Plinius, über das Aufhören der Kunst gesagt wird, beruht auf der ganz
+                            grundlosen Verwerfung derjenigen Ansicht, nach der Plinius, welcher in
+                            jenem ganzen Abschnitt von der Statuaria handelt, in cessavit deinde ars
+                            allein diese, demnoch die aeris fundendi scientia, verstehen konnte,
+                            keineswegs die ganze bildende Kunst. Wohin sofort Herr Hirt mit jenen
+                            willkürlichen Ausdehnungen komme, zeigt sich gleich darauf: die Kunst
+                            wird wieder belebt, also war sie todt, oder doch sterbend? Das geschieht
+                            durch Athenäer, also Künstler der attischen Werkstätte, die nach Rom
+                            kommen. Wie nun sollen wir das denken? War die Kunst in Athen todt, d.
+                            h. gab es damals in Athen keinen namhaften Künstler, wie kamen die Römer
+                            dazu, sie nach Rom zu rufen? und kamen sie als ausgezeichnete Künstler
+                            dahin, wie konnten sie die Kunst daselbst wieder beleben, welche in Rom
+                            zuvor nie gelebt hatte, in ihnen selbst aber nicht gestorben war?
+                            Anderes aber hat Herr Hirt gegen die Sache im Ganzen nicht vorgebracht"
+                            (S. 403). - Vgl. auch <ref target="hirt_pbv_sq1_by">1827-12-08-a-Gerhard</ref>. - Karl Otfried Müller hatte Thierschs
+                            Buch über die Epochen der bildenden Kunst unter den Griechen in einer
+                            Rezension in [Wiener] Jahrbücher der Literatur 1826, Bd. XXXVI, S.
+                            170-191, Bd. XXXVIII, S. 258-290 und 1827, Bd. XXXIX, S. 129-157,
+                            kritisiert (wieder abgedruckt in: Karl Otfried Müller's kleine deutsche
+                            Schriften über Religion, Kunst, Sprache und Literatur, Leben und
+                            Geschichte des Alterthums gesammelt und herausgegeben von Eduard Müller.
+                            Bd. II, Breslau 1848, S. 315-398). </note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>
+                            <persName key="ed_rjs_jlw_ww">Müller</persName> will ein ganzes Buch
+                            gegen ihn schreiben.</orig>
+                        <note xml:id="njwj_xqm_1z">Müller bekräftigte seinen Standpunkt in einer
+                            Abhandlung "Übersicht der griechischen Kunstgeschichte von 1829-1835",
+                            in: Hallische Allgemeine Literaturzeitung, Juni 1835, Nr. 97-110, Sp.
+                            145-256 (wieder abgedruckt in: Kleine deutsche Schriften (siehe oben),
+                            1848, S. 638-751, bes. S. 665ff.), und in seiner ebenfalls 1835
+                            erschienenen zweiten Ausgabe des "Handbuch der Archaeologie der Kunst".
+                            Eine direkte Polemik gegen Thiersch findet sich in den nach seinem Tod
+                            von Adolf Schöll in Frankfurt a.M. 1843 herausgegebenen
+                            "Archaeologische[n] Mittheilungen aus Griechenland nach Carl Otfried
+                            Müller's hinterlassenen Papieren".</note>
+                    </seg>
+                    <bibl sameAs="ed_tqk_32m_1z">Meine Recens<add place="sublinear">ion</add>
+                    </bibl> ist nur ein Bogen stark, aber ich glaube hinreichend, um diesen
+                    Brausekopf zur <hi rendition="#aq">Raison</hi> zu bringen.</p>
+                <p>Angenehm ist mir zu hören: daß von der <bibl sameAs="ed_tbb_1ck_sy">Beschreibung
+                        Roms</bibl> bereits 12 Bogen gedruckt sind, u. der Druck nun regelmäßig
+                    fortgeht. - wie steht es aber mit der Fortsezung <bibl sameAs="ed_ssf_p1n_1z">Ihrer Monumente</bibl>, und dann mit<bibl sameAs="ed_m54_t5z_xy">
+                        <placeName key="prov_myp_lbv_35">Neapels</placeName>
+                        <hi rendition="#aq">Museum</hi>
+                    </bibl>? - Es ist zum Verzweifeln,
+                    daß <persName key="ed_u21_xrv_bw">
+                        <hi rendition="#aq">Cotta</hi>
+                    </persName> iezt so fahrläßig wird.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Von der Commission für die Einrichtung des <hi rendition="#aq">
+                                <placeName key="ediarum_rj2_kdc_sy">Museum</placeName>
+                            </hi> bin ich abgegangen</orig>
+                        <note xml:id="ndbv_5cn_1z">Hirt war am 13. April 1829 aus der
+                            Einrichtungskommission für das neue königliche Museum ausgetreten; vgl.
+                            auch: <ref target="hirt_vlf_gbb_3y/#nmh3_y3n_my">1830-05-10-a-Goethe mit
+                                Sacherläuterung</ref>.</note>
+                    </seg>, und es freuet mich dieser Last los zu seyn, wobey ich nur mit sehr
+                    beschränkten und unwißenden Menschen zu thun hatte. Herr v. <persName key="ed_rwy_fbc_zx">Rumohr</persName>, der den Posten zu haben wünschte, ist
+                    abgeblizt, und <seg type="comment">
+                        <orig>von <placeName key="prov_ycp_cpr_js">Berlin</placeName> plötzlich
+                            wieder verschwunden</orig>
+                        <note xml:id="ndhc_5dn_1z">Rumohr unternahm 1828-1829 seine dritte
+                            Italienreise, verhandelte in Florenz und Mailand über Ankäufe für die
+                            Berliner Gemäldesammlung und diente dem preußischen Kronprinzen in
+                            Florenz und Siena als Cicerone.</note>
+                    </seg>. Ich habe ihn nicht <pb n="3"/> gesehen. Leben Sie wohl! nach meiner
+                    Rückkunft von <placeName key="ed_epd_kdn_1z">Teplitz</placeName> ein Mehrers
+                    <lb/>Ihr ergebenster</p>
+                <closer>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <persName key="ed_rhy_vs4_pw">
+                        <hi rendition="#aq">Boeckh</hi>
+                    </persName>, der mich eben verläßt, grüßt noch einmal freundlichst. -</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

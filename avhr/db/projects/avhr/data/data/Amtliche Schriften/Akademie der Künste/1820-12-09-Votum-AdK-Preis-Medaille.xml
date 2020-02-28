@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gtm_tnq_y3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votum Hirts in der außerordentlichen Sitzung des Senats der Akademie der
+                    Künste zur Anfertigung einer Preis-Medaille. Berlin, 9. Dezember 1820</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 13,
+                                unpaginiert (protokolliert von Sekretar C. Schumann; egh.
+                                unterzeichnet von G. Schadow)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-12-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_fyw_2vh_4fb">Akademie der Künste, Preußische: Senat</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Empfängerbemerkungen des Ministeriums: "pr d. 13/12 20 / Hr. p Uhden. / 1651."
+                    - "D. Rescript[?] daß die Akademie selbst Vorschläge zu Preis medaillen, wie sie
+                    sie ihren Zwecken angemessen hielte vorschlagen u. zugleich Zeichnungen davon
+                    mit passenden Umschriften einreichen möge. Berlin d. 18 December 1820 /
+                    Uhden"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 9<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        December 1820.</dateline>
+					<salute/>
+                </opener>
+				<p>Ausserorndtliche Sitzung.</p>
+                <p>1.) Die heutige Sitzung war bestimmt dem <orgName key="ed_xpk_5s3_f3b">Min<ex>isterial</ex></orgName> Rescripte vom 10.<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Nov<ex>ember</ex> c<ex>urrentis</ex>
+                    zufolge, über die Gegenstände, welche auf einer anzufertigenden Preis-Medaille
+                    dargestellt werden sollen zu debattiren. Es waren zu dem Ende mehrere
+                    Sachverständige besonders zu dieser Sitzung eingeladen worden.</p>
+                <p>2.) Herr Hoffrath <persName key="prov_ztg_3sx_sr">Hirt</persName>, war der
+                    Meinung, daß zuerst eine verbesserte Anstallt für den Zeichnenunterricht der
+                    Gewerkschulen vorhanden sein muß, ehe darauf gedacht wird, eine Preis medaille
+                    anfertigen zu lassen. Wenn indeß eine solche bis dahin angefertiget werden soll,
+                    so wäre Ein Hoh<ex>es</ex>
+                    <orgName key="ed_xpk_5s3_f3b">Min<ex>isterium</ex></orgName> zu ersuchen, den
+                    Zweck zu welchen eine solche gebraucht werden sollte, näher zu bestimmen;
+                    nemlich 1. ob <pb n="2"/> solche bloß zur Praemirung des Kunsthandwerkes? 2)
+                    oder zur praemirung der Kunst-Zöglinge der <orgName key="ed_u5s_1fc_b1b">Academie</orgName>? 3. oder auch zu höheren Zwecken, nemlich zur Belohnung
+                    oder Anerkennung solcher Kunstarbeiten welche entweder wirkliche Künstler
+                    anfertigten, oder aus Fabricken hervorgegangen sind dienen sollen <add place="left">(nemlich solcher, welcher der Academie vorgezeigt werden, u von
+                        derselben der praemirung würdig erachtet, und vorgeschlagen
+                    werden.)</add></p>
+                <p>Dieser Meinung traten ganz bei: Herr Pr: <persName key="ed_p41_xpz_lw">Rauch</persName>, <persName key="prov_n1f_vl5_tv">Hummel</persName>,
+                        <persName key="ed_xd5_bmp_thb">Niedlich</persName>, <persName key="ed_dqk_fnp_thb">Kuhbeil</persName>, <persName key="ed_qxv_1wq_y3b">Buchhorn</persName>, <persName key="prov_hfj_vk5_tv">Rabe</persName>,
+                        <persName key="prov_uny_4th_kv">Weitsch</persName>, v: Dir: <persName key="prov_jl3_gpd_4v">Berger</persName>. P. <persName key="ed_ed2_jjp_thb">Schuman</persName>: Dir: <persName key="prov_wsc_2hd_4v">Schadow</persName>
+                    war der Meinung daß baldmöglichst eine neue Medaille angefertiget werden möchte.
+                    <lb/>Hier mit ward geschloßen</p>
+				<closer>
+					<salute/>
+					<signed><persName key="prov_wsc_2hd_4v">GSchadow</persName>
+                        <persName key="ed_ed2_jjp_thb"><lb/>C. Schumann</persName> / g.
+                        Secretarius</signed>
+				</closer>
+            </div>
+            <postscript>
+                <p><ex>Anwesenheitsliste auf der linken Blatthälfte:</ex>
+                    <lb/>Gegenwärtig <lb/>Herr Director Schadow <lb/>---- vice Director Berger
+                    <lb/>---- Geheime oberRegier: Rath Uhden <lb/>---- Hoffrath Hirt <lb/>----
+                    Rector Weitsch. <lb/>---- Professores Niedlich. <lb/>----   -------------
+                    Buchhorn. <lb/>----   ------------- Kuhbeil. <lb/>Hoff Medailleur Jachtmann.
+                    <lb/>---- Professor Rabe. <lb/>----  ----------- Rauch <lb/>----  -----------
+                    Hummel</p>
+                <p><ex>auf der Rückseite:</ex>
+                    <lb/>Herr Geh. OberBaurath Becherer ließ sich Unpäßlichkeit halber
+                    entschuldigen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

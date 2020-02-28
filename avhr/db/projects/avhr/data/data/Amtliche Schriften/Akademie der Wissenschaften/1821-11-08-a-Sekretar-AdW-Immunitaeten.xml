@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_f53_1d4_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Sekretar der Akademie der Wissenschaften
+                    (Schleiermacher). Berlin, 8. November 1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1812-1945), II-III-18, Bl.
+                            142r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-11-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_sqb_xjq_bw">Schleiermacher, Friedrich Daniel Ernst (1768-1834)
+                        (ev. Theologe, Altphilologe, Philosoph, Staatstheoretiker, Kirchenpolitiker,
+                        1796-1802 Prediger an der Charité in Berlin, ab 1804 Prof. der Theologie und
+                        Philosophie in Halle, 1809 Prediger an der Dreifaltigkeitskirche in Berlin,
+                        1810 Mitglied der Akademie der Wissenschaften zu Berlin, 1815-1826 Sekretar
+                        der Philosophischen Klasse, 1826-1830 Sekretar der Historisch-philologischen
+                        Klasse)</persName>
+                    <orgName key="ed_znn_dfc_b1b">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische</orgName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_pxl_tpp_cjb"/>
+                </correspContext>
+                <note>Empfängerbemerkung auf dem oberen Rand: "pr.[äsentiert] 8.<hi rendition="#sup">r</hi> Nov. 21"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An den vorsitzenden <persName key="ed_sqb_xjq_bw">Sekretar</persName> in der K. Akademie der
+                            Wißenschaften.</addrLine>
+                    </address>
+                    <salute>Mein Herr!</salute>
+                </opener>
+				<p>Da ich im October 1796 die Ehre hatte in die <orgName key="ed_znn_dfc_b1b">Königliche
+                        Akademie</orgName> zu treten; so mache ich auf die Immunitäten Anspruch,
+                    welche das <hi rendition="#aq">Reglement</hi> § 26. für diejenigen ausspricht,
+                    welche durch 25 Jahre ordentliche Mitglieder derselben gewesen sind.</p>
+                <p>Ich bitte Sie, mein Herr! dies zur Kenntniß der K<ex>öniglichen</ex>
+                    <orgName key="ed_znn_dfc_b1b">Academie</orgName> bringen zu wollen.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Nov. 1821.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

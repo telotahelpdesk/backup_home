@@ -1,0 +1,869 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ivx_qdh_2jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Denkschrift von Schinkel und Hirt an den König zur Einrichtung des Museums.
+                    Berlin, [19. März 1827]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 9,
+                                Bl. 25r-45r und 57-77 (von Schreiberhand, das Anschreiben mit egh.
+                                Unterschriften von Schinkel und Hirt)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Reinhard Wegner: Die Einrichtung des Alten Museums in
+                            Berlin. Anmerkungen zu einem neu entdeckten Schinkel-Dokument, in: Jg.
+                            der Berliner Museen 31, 1989, S. 269-281</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Vogtherr, 1997, S. 270 (Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_bxf_jt5_fv">Preußen, Friedrich Wilhelm III. von (1770-1840)
+                        (Kronprinz, 16.11.1797-7.6.1840 König von Preußen)</persName>
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1827-03-19" cert="high"/>
+                </correspAction>
+                <note>Zur Datierung: Weder das Anschreiben noch die ausführliche Stellungnahme zur
+                    Einrichtung des Museums sind datiert. Deshalb wurde das Eingangsdatum (zugleich
+                    Datum der Präsentation bei Altenstein) übernommen. - Vogtherr datiert "wohl
+                    November 1826". - Das Schreiben wurde zuerst Altenstein vorgelegt: "An den
+                    Staats-Minister Frh. von Altenstein. / Berlin den 19ten März 1827." -
+                    Empfängerbemerkungen auf dem linken Rand: "B. / pr den 19/3 27. / G. v.
+                    Harlem."; "722. B. J. / II. Anl."; "Md: Nr. 1964. p. 30"; [mit Bleistift:] "auf
+                    Befehl S Excellenz mit Schreiben von H Hofr.[G Sekr.?] Credé mir vorgelegt d. 20
+                    Nov. 27 / Uhden" - Obwohl die Seiten 28v, 30v, 42r und 45r am unteren Rand mit
+                    der Unterschrift von Schinkel versehen sind, wurde die Denkschrift von Schinkel
+                    und Hirt gemeinsam verfasst. Dies belegen nicht nur ihre beiden Unterschriften
+                    unter dem Anschreiben, sondern kommt auch durch das wiederholte Vorkommen des
+                    Subjekts "wir" zum Ausdruck. Darüber hinaus geben die Abschnitte zur
+                    Organisationsstruktur des Museums stark den Tenor von Hirt wieder.</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_ljv_mnm_pgb">Kunstmuseum, königlich preuß.</term>
+                    <term key="ed_vsj_4nm_pgb">Kunstmuseum – Personalsachen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <opener>Aller Durchlauchtigster Großmächtigster <lb/>Aller Gnädigster König und Herr! </opener>
+            <div type="writingSession">
+                <p/>
+                <p>Von Euerer <persName key="prov_bxf_jt5_fv">Majestät</persName> beauftragt, mich
+                    über sämmtliche Einrichtungen des <placeName key="prov_fvj_2t1_5v">Königlichen
+                        Museums</placeName> zu <placeName key="prov_tnd_dt1_5v">Paris</placeName> an
+                    Ort und Stelle genau zu unterrichten, damit alles, was sich von denselben dort
+                    als vorzüglich zweckmäßig erwiese, bei dem durch die Gnade Euerer Majestät hier
+                    zu errichtenden <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> beachtet
+                    werden könne, habe ich mich auf alle Weise bemüht, dem Allerhöchsten Befehl
+                    möglichst vollständig Genüge zu leisten. Nachdem ich darauf über die gewonnenen
+                    Erfahrungen mit <pb n="2"/> dem, mir in der Königlichen <orgName key="ed_imk_ss2_gjb">Commißion</orgName> für Einrichtung des Museums
+                    zugeordneten Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName>, reiflich
+                    zu Rathe gegangen, wobei wir nicht versäumt haben auch das Zweckmäßige bei
+                    anderen Gallerien als zu <rs type="artwork" key="prov_exf_gs1_h3b">Dresden</rs>,
+                        <rs type="artwork" key="prov_ryb_3s1_h3b">München</rs> und <rs type="artwork" key="prov_hpg_js1_h3b">Wien</rs> in's Auge zu faßen, sind
+                    wird, mit beständiger Berücksichtigung der hiesigen Verhältniße, auf folgende
+                    Resultate gekommen, welche nach den vier Hauptpuncten, worauf es hier ankommt,
+                    in eben so viele Abschnitte zerfallen. <lb/>Nämlich:</p>
+                <p>A. Über die Gegenstände woraus das Museum zu bilden ist. <lb/>B. Ueber die
+                    Aufstellung der Kunstwerke im Museums-Gebäude. <lb/>C. Ueber das bei dem Museum
+                    anzustellende Personal und die demselben obliegenden Geschäfte. <lb/>D. Ueber
+                    die Art und Weise, wie das Museum dem Publicum und den Künstlern nutzbar zu
+                    machen ist.</p>
+                <p>Bei dem dritten Abschnitt ist eine Ab-<pb n="3"/>schrift der Statuten und des
+                    Etats vom <placeName key="prov_fvj_2t1_5v">Pariser Museum</placeName> beigefügt,
+                    woraus Eure Majestät Höchstselbst zu vergleichen geruhen wollen, wie weit darauf
+                    in dem Entwurf für das <placeName key="prov_up1_xwt_fv">hiesige Königliche
+                        Museum</placeName> Rücksicht genommen worden ist.</p>
+                <p>Indem Euerer Majestät ich, vereinigt mit dem Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName>, diese Ergebniße in tiefster
+                    Unterthänigkeit zu Füßen lege, glaube ich dem wichtigen Zwecke der auf
+                    Allerhöchsten Befehl unternommenen Reise, am besten zu entsprechen.</p>
+                <closer>
+                    <signed><ex>[Mit Respektsabstand gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt.<pb n="4"/></signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>A. <hi rendition="#u">Ueber die Kunstgegenstände, aus welchen das Museum zu
+                        bilden ist.</hi></p>
+                <p>Insofern in dem in <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <placeName key="prov_up1_xwt_fv">zu stiftenden Museum</placeName> nach dem
+                    Vorgange <placeName key="prov_fvj_2t1_5v">des zu Paris</placeName>, alles das
+                    Trefflichste und Ausgezeichneteste enthalten sein soll, was Eure Majestät an
+                    Denkmalen der bildenden Kunst in ihren verschiedensten Zweigen aus der Zeit der
+                    Alten, wie der Neueren besitzen, dürfte es aus vier Abtheilungen bestehen, deren
+                    jede Einzelne, um etwas Vollständiges und einem so hohen Zweck auf eine würdige
+                    Weise Entsprechendes zu sein, folgendermaaßen zusammen zu setzen sein
+                    möchte:</p>
+                <p>I. <hi rendition="#u">Die <rs type="artwork" key="prov_gky_hx2_gjb">Abtheilung
+                            der Gemälde</rs></hi> ist von einer Auswahl aus folgenden Sammlungen zu
+                    bilden: <lb/>1) aus der ehemaligen <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs>. <lb/>2) aus der ehemaligen <rs type="artwork" key="prov_a5d_5gl_jw">Giustinianischen Sammlung</rs>. <lb/>3) aus den <rs type="artwork" key="prov_lbt_t52_gjb">Gemälden</rs> im Königlichen
+                        <placeName key="prov_ulk_twt_fv">Schloße zu Berlin</placeName>. <lb/>4) aus
+                    der <placeName key="ediarum_gdv_3cz_w3b">Gallerie zu Sanssouci</placeName>.
+                    <lb/>5) aus den <placeName key="ediarum_ms2_rdz_w3b">Gemälden im neuen
+                        Palais</placeName> bei <placeName key="prov_lh2_hxd_2v">Potsdam</placeName>.
+                    <lb/>6) aus den <placeName key="ediarum_zl2_55t_ngb">Gemälden in
+                        Charlottenburg</placeName>. <lb/>Eine Auswahl aus diesen zu veranstalten,
+                    haben auch Eure <persName key="prov_bxf_jt5_fv">Majestät</persName> bereits
+                    früher nachgegeben. Die in den Schlößern entstehenden Lücken werden sich leicht
+                    aus der großen Bilderzahl der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen</rs> und <rs type="artwork" key="prov_a5d_5gl_jw">Giustinianischen Sammlung</rs> ersetzen laßen. Die definitive Auswahl <pb n="5"/> ist indeß jetzt bald zu treffen, da in dem Catalog, deßen Druck vor
+                    Eröffnung des Museums vollendet sein muß, jedes Bild seiner Classe und an seiner
+                    Stelle einzutragen ist.</p>
+                <p>II. <hi rendition="#u">Die <rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung
+                            der Sculpturen</rs></hi>, sowohl antiker, als aus der Zeit seit
+                    Wiederaufnahme der Künste, ist zu bilden: <lb/>1) aus den Monumenten antiker
+                    Sculptur, welche sich sowohl im <placeName key="ediarum_typ_4bs_5fb">Antikentempel</placeName>, als in den sämmtlichen Königlichen Schlößern
+                        <placeName key="prov_ulk_twt_fv">zu Berlin</placeName>, <placeName key="prov_ckg_snx_2v">Potsdam</placeName> und <placeName key="ediarum_zl2_55t_ngb">Charlottenburg</placeName> befinden. <lb/>2) Aus
+                    den zeither in der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>
+                    befindlichen größeren Antiken. <lb/>3) Aus mehreren, von Euerer <persName key="prov_bxf_jt5_fv">Majestät</persName> seit einigen Jahren gemachten
+                    Ankäufen, die zur Zeit im <placeName key="ediarum_drq_dw2_gjb">Lagerhause</placeName> und dem <placeName key="ediarum_qkl_1cw_jgb">Akademiegebäude</placeName> aufbewahrt werden. <lb/>4) Aus einer Auswahl
+                    unter den gegenwärtig im <placeName key="ediarum_qkl_1cw_jgb">Akademiegebäude</placeName> befindlichen <rs type="artwork" key="prov_gcx_hy3_y3b">Gypsabgüßen</rs>. <lb/>Auch von dieser Abtheilung ist
+                    die definitive Auswahl sehr dringend zur zeitigen Ausarbeitung des Catalogs.</p>
+                <p>III. <hi rendition="#u">Die Abtheilung des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinets</rs></hi>, ist aus dem Theil der
+                    bisherigen <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> zu bilden,
+                    welcher die kleinen Arbeiten in Stein und Bronze, die gebrannten Erden, die
+                    Vasen, Lampen, geschnittenen Steine und Münzen, kurz alle griechischen und
+                    römischen und demnächst die aegyptischen und germanischen Alterthümer enthält.
+                    <lb/>Obgleich in einem früheren Bericht an Euere <persName key="prov_bxf_jt5_fv">Majestät</persName>
+                    <pb n="6"/> wir uns dahin erklärt hatten, daß auch alle übrigen Gegenstände der
+                        <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>, theils künstliche
+                    Handwerksarbeiten, theils für Völkerkunde und vaterländische Geschichte
+                    merkwürdig, im Museum aufzunehmen wären, haben wir doch darüber unsere Meinung
+                    geändert; dieselben gewähren nämlich kein eigentliches Kunstinteresse und können
+                    daher wohl billig in dem Museo, als dem eigentlichen und ausschließlichen
+                    Aufbewahrungsort für Denkmähler bildender Kunst, keinen paßenden Platz erhalten.
+                    Dagegen ließe sich aus allem diesen in Verbindung mit den vorhandenen alten
+                    Waffen, nach dem Beispiel der berühmten <rs type="artwork" key="prov_dxy_sy2_gjb">Ambraser-Sammlung</rs> in <placeName key="prov_hrq_zzg_y5">Wien</placeName>, so wie der <rs type="artwork" key="prov_o23_jz2_gjb">Rüstkammer</rs> in <placeName key="prov_zj4_hc3_g5">Dresden</placeName>, ein für sich bestehendes und in historischer, wie
+                    ethnographischer Hinsicht höchst interessantes Ganze bilden, was an einem
+                    anderen Orte, wozu das untere Geschoß des <placeName key="prov_obz_4lv_3v">Bibliothekgebäudes</placeName> passend sein möchte, aufzustellen sein
+                    würde.</p>
+                <p>IV. <hi rendition="#u">Die <rs type="artwork" key="prov_qp2_rx2_gjb">Abtheilung
+                            des Kupferstich</rs>- und <rs type="artwork" key="prov_gbg_tx2_gjb">Handzeichnungs-Cabinets</rs></hi> ist zu bilden: <lb/>1) aus der alten
+                        <rs type="artwork" key="prov_u2v_g1f_gjb">Sammlung</rs> der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>. <lb/>2) aus der vormals
+                        <rs type="artwork" key="prov_ud4_s1f_gjb">Derschauschen Sammlung</rs>.
+                    <lb/>3) aus der vormals <rs type="artwork" key="prov_e4t_lbf_gjb">Gräflich
+                        Corneillan'schen Sammlung</rs>. <lb/>4) aus der vormalig <rs type="artwork" key="prov_cwv_whf_gjb">Gräflich Lepel'schen Sammlung</rs>. <lb/>Daß an die
+                    Stelle des eben bezeichneten Theils der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>, aus diesen großen Schätzen eine besondere
+                    Abtheilung des Museums gebildet werde, ist eben so wichtig als wünschenswerth.
+                    Gemälde auf der einen und Kupfer-<pb n="7"/>stiche und Handzeichnungen auf der
+                    andern Seite, sind nämlich wie zwei Hälften zu betrachten, die zusammen nur ein
+                    Ganzes bilden, und durch unmittelbare Vergleichung Forschung und Belehrung über
+                    einen jeden dieser Theile, ungemein befördern und erleichtern. Aus diesem Grunde
+                    ist auch in <placeName key="prov_fvj_2t1_5v">Paris</placeName> und <placeName key="ediarum_zqc_jjf_gjb">München</placeName> das Kupferstich- und
+                    Handzeichnungs-Cabinet ein integrirender Theil des Königlichen Museums.</p>
+                <p>Von der größten Wichtigkeit ist es sodann für die wißenschaftliche Forschung,
+                    über alle im Museum vorhandenen Kunstschätze, so wie für die daraus folgende
+                    gründliche Erklärung derselben, eine möglichst vollständige Kunstbibliothek
+                    anzulegen. Die Werke über antike Kunst, so wie über neuere Sculptur in allen
+                    ihren Zweigen würde an die dritte Abtheilung, des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinets</rs>; die Werke über Kupferstich- und
+                    Handzeichnungskunde, so wie über die Geschichte der neueren Malerei dagegen, an
+                    die <seg type="comment">
+                        <orig>vierte Abtheilung</orig>
+                        <note xml:id="nd1r_djg_gjb"><rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstichkabinett</rs> und <rs type="artwork" key="prov_gbg_tx2_gjb">Handzeichnungen</rs>.</note>
+                    </seg> anzuschließen sein. Durch die Erwerbung der <rs type="artwork" key="prov_cwv_whf_gjb">Gräflich Lepelschen Bibliothek</rs> würde für die
+                    vierte Abtheilung ein guter Grund gelegt werden können. Ja es dürften derselben
+                    paßend die eigentlichen kunsthistorischen Werke aus der Bibliothek der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName> einzuverleiben sein,
+                    indem es ja ohne Zweifel der Allerhöchste Wille Euerer <persName key="prov_bxf_jt5_fv">Majestät</persName> ist, daß das Museum mit allen
+                    seinen Schätzen vorzugsweise der freisten Benutzung aller Akademischen
+                    Mitglieder offen stehen soll. Aber auch die dritte Abtheilung, oder die des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinets</rs>, würde durch
+                    obige Erwerbung, zu den bereits auf der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> vorhandenen Büchern, einen bedeutenden Zuwachs
+                    erhalten.</p>
+                <p><ex>[gez.]</ex> Schinkel. <pb n="8"/></p>
+                <p>B. <hi rendition="#u">Ueber die Aufstellung der Kunstgegenstände im
+                        Museumsgebäude.</hi></p>
+                <p>I. <hi rendition="#u"><rs type="artwork" key="prov_gky_hx2_gjb">Abtheilung der
+                            Gemälde</rs>.</hi>
+                    <lb/>Dieselbe wird das obere Stockwerk einnehmen. Nachdem alle gesammelten
+                    Erfahrungen dafür sprechen, daß für Gemälde das Licht von einer Seite, allen
+                    anderen Arten von Beleuchtung vorzuziehen ist, werden die Bilder durch gezogene
+                    Querwande, auf diese Weise ihr Licht erhalten. Mit dieser Einrichtung ist
+                    überdem noch der Vortheil verbunden, daß der Beschauer nicht, wie in den meisten
+                    Gallerien, durch eine zu große Masse meist sehr ungleichartiger Bilder, welche
+                    er auf einemmal übersieht, zerstreut und dadurch in der Beobachtung des
+                    Einzelnen gestört, vielmehr immer nur eine mäßige Anzahl unter sich verwandter
+                    Bilder, auf einem Male vor Augen haben wird. Den <placeName key="prov_fvj_2t1_5v">in Paris</placeName> gemachten Erfahrungen zufolge ist
+                    es am passendsten, dem Grunde, worauf die Bilder hängen, einen dunk<supplied cert="high">el</supplied>rothen Anstrich zu geben. Ueber eine gewiße Höhe
+                    wird nicht hinausgegangen werden. In mäßiger Entfernung sind alle Bilderwände
+                    von einer eisernen Barriere zu umgeben. Auf jeder Bilderwand ist die jedesmalige
+                    Schule, auf den Bildern selbst die Namen der Meister anzubringen.</p>
+                <p>Die Aufstellung geschieht streng nach Schulen, deren <pb n="9"/> jede nach ihren
+                    Epochen chronologisch angeordnet wird. Zugleich wird indeß dafür Sorge getragen
+                    werden, daß jede Wand durch Symmetrie und angenehme Größenverhältniße der
+                    Bilder, einen gefälligen Eindruck macht, so wie durch mannigfaltige Gegensätze
+                    das Characteristische der verschiedenen Meister hervorzuheben ist.</p>
+                <p>II. <hi rendition="#u"><rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung der
+                            Sculpturen</rs></hi>. <lb/>Dieselbe wird das mittlere Stockwerk
+                    einnehmen. Auch diese werden, mit Ausnahme der in der Rotunde, fast alle das
+                    Licht von der Seite erhalten, und durch, jenen Querwänden für die Bilder,
+                    correspondirenden Säulen, zwischen welchen sie stehen, eine Anzahl einzelner
+                    Abtheilungen bilden, wodurch dieselben Vortheile gewährt werden.</p>
+                <p>Die Sculpturen zerfallen in: <lb/>a) Gypsabgüße. <lb/>b) Marmore. <lb/>Die
+                    Gypsabgüße werden in der Rotunde und der einen Seite des Gebäudes, die Marmore
+                    in der anderen Seite und in dem langen Raum längs der Hinterfronte, ihren Platz
+                    finden.</p>
+                <p>Das leitende Princip bei der Aufstellung wird zwiefacher Art sein, indem sie
+                    theils nach den Gegenständen, theils in historischer Folge geordnet werden.
+                    Zugleich wird wieder auf die architectonisch gefällige Vertheilung im Raum, die
+                    gehörige Rücksicht genommen werden. Die wenigen vorhandenen Denkmäler neuerer
+                    Sculptur sind <pb n="10"/> einstweilen im <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinet</rs> aufzustellen.</p>
+                <p>III. <rs type="artwork" key="prov_l1p_mx2_gjb"><hi rendition="#u">Abtheilung des
+                            Antikencabinets</hi></rs>. <lb/>Daßelbe wird die eine Seite des untern
+                    Stockwerks einnehmen.</p>
+                <p>Die kleineren Monumente von Bronze, Stein, gebrannter Erde oder Holz, sind in
+                    Glasschränken aufzustellen, wie dieses z. B. in <placeName key="prov_fvj_2t1_5v">Paris</placeName>, <placeName key="ediarum_xck_5lg_gjb">London</placeName>,
+                        <placeName key="ediarum_cdd_1mg_gjb">Florenz</placeName> und <placeName key="ediarum_fn3_x41_kw">Wien</placeName> der Fall ist. Auf dieselbe Weise
+                    sind auch die griechischen Gefäße und kostbaren Geräthe aufzuheben, jedoch so,
+                    daß die wichtigeren in der Mitte des Zimmers stehen, so daß man sie von allen
+                    Seiten sehen kann. Mosaiken, Gemälde, Papyrusrollen und kleine Reliefs sind an
+                    den Wänden aufzuhängen und einzulaßen. <lb/>Die geschnittenen Steine und Pasten,
+                    so wie sämmtliche Münzen, werden am besten schubladenweise in Schränken
+                    unterzubringen sein.</p>
+                <p>Sämmtliche Gegenstände zerfallen in folgende vier Hauptclassen, nach welchen ihre
+                    Anordnung zu treffen ist: <lb/>1) <rs type="artwork" key="prov_osn_2ng_gjb">Griechisch-römische Alterthümer</rs>. <lb/>2) <rs type="artwork" key="prov_of1_kng_gjb">Aegyptische Alterthümer</rs>, woran sich <rs type="artwork" key="prov_ewr_lng_gjb">die orientalischen</rs> anschließen.
+                    <lb/>3) Alte <rs type="artwork" key="prov_omh_hng_gjb">Germanisch-wendischen
+                        Alterthümer</rs>, welchen die anderer barbarischer Völkerschaften, wie z. B.
+                        <rs type="artwork" key="prov_nkg_nmg_gjb">der Mexicaner</rs> beizuordnen
+                    sind. <lb/>4) Kleinere Kunstgegenstände von der Zeit der Wiederaufnahme der
+                    bildenden Künste an, als Bronzen, Medaillen, Münzen, geschnittene Steine, Pasten
+                    u.s.w. <pb n="11"/></p>
+                <p>Diese vier Klassen erleiden wieder Unterabtheilungen, die sich leichtlich
+                    ergeben.</p>
+                <p>IV.<hi rendition="#u"> Abtheilung des <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstich</rs>- und <rs type="artwork" key="prov_gbg_tx2_gjb">Handzeichnungs-Cabinets</rs>.</hi>
+                    <lb/>Dieselbe wird die andere Seite des unteren Stockwerks, welche nach unserem
+                    früheren Bericht, für den jetzt auszuschließenden Theil der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> bestimmt war, einnehmen.</p>
+                <p>In dem Zimmer, welches zum Besehen bestimmt ist, sind nach dem Beispiel von
+                        <placeName key="prov_fvj_2t1_5v">Paris</placeName> und <rs type="artwork" key="prov_exf_gs1_h3b">Dresden</rs>, eine Anzahl ausgezeichneter Stücke in
+                    Glas und Rahmen aufzuhängen. Alle übrigen sind theils in Mappen, theils in
+                    Büchern aufzubewahren, welche wieder in wohlverschloßenen Schränken liegen, die
+                    mit so vielen Fächern versehen sind, daß in jedem eine Mappe oder ein Buch Platz
+                    findet.</p>
+                <p>Die Kupferstiche sind durchaus nach den Schulen, übrigens aber nach zwei Systemen
+                    zu ordnen. Von den Meistern aus der älteren Zeit, welche sehr häufig nach ihren
+                    eigenen Erfindungen gestochen haben, ist alles, auch was sie nach anderen
+                    gearbeitet, zusammen zu legen nach der Anweisung von <persName key="ed_ist_s4g_gjb">Bartsch</persName> im <bibl sameAs="ed_osr_1pg_gjb">Peintre graveur</bibl>, die Blätter von späteren Kupferstechern aber,
+                    welche fast ausschließlich nach fremden Meistern gestochen, sind unter den Namen
+                    dieser letzteren zusammen zu ordnen.</p>
+                <p>Die Handzeichnungen sind streng nach Schulen und Meistern zu ordnen.</p>
+                <p>In der Mitte zwischen der dritten und vierten Abtheilung ist die Bibliothek
+                    aufzustellen.</p>
+                <p><ex>[gez.]</ex> Schinkel. <pb n="12"/></p>
+                <p>C. <hi rendition="#u">Ueber das bei dem Museo anzustellende Personale und die
+                        demselben obliegenden Geschäfte.</hi></p>
+                <p>Daßelbe möchte folgendermaaßen zusammen zu setzen und die Geschäfte also unter
+                    ihnen zu vertheilen sein: <lb/><hi rendition="#u">Der General-Director.</hi>
+                    <lb/>1) Er hat die Oberaufsicht über und die Verantwortlichkeit für alle im
+                    Museo vorhandenen Kunstgegenstände. <lb/>2) Er steht in unmittelbarem Verhältniß
+                    mit der <orgName key="ed_xpk_5s3_f3b">höchsten Behörde</orgName> und referirt
+                    derselben über alles, was die Geschäfte der Direction betrifft. <lb/>3) Er
+                    ordnet alle Arbeiten, oder wesentliche Veränderungen, die im Museo vorgenommen
+                    werden, mit Zuziehung der vom <persName key="prov_bxf_jt5_fv">Könige</persName>
+                    niedergesetzten <orgName key="ed_imk_ss2_gjb">Commission</orgName> (Siehe unten)
+                    an, und hat darauf zu achten, daß alle Beamten des Museums gehörig ihre Pflicht
+                    thun. <lb/>4) Er schlägt nach Autorisation von Seiten der <orgName key="ed_xpk_5s3_f3b">höchsten Behörde</orgName> alle Ankäufe vor und bewirkt
+                    sie mit Zuziehung derselben <orgName key="ed_imk_ss2_gjb">Commißion</orgName>.
+                    <lb/>5) Er beruft das Personale des Museums, in sofern er über Anglegenheiten
+                    des Museums berathen will. <lb/>6) Er macht endlich, wenn eine Stelle erledigt
+                    ist, mit Zuziehung der <orgName key="ed_imk_ss2_gjb">Commißion</orgName>, der
+                        <orgName key="ed_xpk_5s3_f3b">höchsten Behörde</orgName> die Vorschläge zur
+                    Wiederbesetzung. <pb n="13"/></p>
+                <p><hi rendition="#u">Der General-Secretair.</hi>
+                    <lb/>Ist der eigentliche Geschäftsmann des Museums. <lb/>1) Er hat unter
+                    Anleitung des General-Directors die Correspondenz des Museums mit der <orgName key="ed_xpk_5s3_f3b">höchsten Behörde</orgName>, so wie die Verhandlungen
+                    deßelben mit anderen Museen oder Privatpersonen, schriftlich und mündlich zu
+                    führen. <lb/>2) Unter seiner Aufsicht steht das Archiv des Museums, worin alle
+                    Cataloge, Gutachten, Documente, Briefe und sonstige Papiere aufbewahrt werden.
+                    <lb/>3) Er hat ferner sämmtliche oeconomische Angelegenheiten des Museums zu
+                    besorgen, und die Anweisungen für die <orgName key="ed_g5x_nqg_gjb">Königliche
+                        Casse</orgName> auszufertigen. <lb/>4) Er führt die Oberaufsicht über den
+                    innern Dienst und ist dem General-Director verantwortlich, daß darin alles
+                    beständig in gehöriger Ordnung vor sich gehe. <lb/>5) Er ist verpflichtet alle
+                    Anliegen der Directoren der einzelnen Abtheilungen, sofort zur Kenntniß des
+                    General-Directors zu bringen, so wie die Correspondenz, welche sie in
+                    Museumsangelegenheiten zu führen haben, nach ihrer Angabe auszuarbeiten. <lb/>6)
+                    Er muß täglich gewiße Stunden auf dem Büreau des Museums zugegen sein. <lb/>7)
+                    Er giebt sämmtliche Einlaßkarten für das Museum aus, die nur durch seines
+                    Namens-Unterschrift Gültigkeit erhalten. <pb n="14"/></p>
+                <p><hi rendition="#u">Ein Spezial-Secretair.</hi>
+                    <lb/>Ist dem General-Secretair beizugeben. Er hat minder erhebliche Berichte
+                    nach Angabe des General-Secretairs auszufertigen, die wichtigeren zu mundiren,
+                    persönlich die Geschäfte mit der <orgName key="ed_g5x_nqg_gjb">Königlichen
+                        Casse</orgName> zu besorgen.</p>
+                <p><hi rendition="#u">Drei Directoren über die einzelnen Abtheilungen</hi>
+                    <lb/>und zwar: <hi rendition="#u"><lb/>Einer für die der <rs type="artwork" key="prov_gky_hx2_gjb">Gemälde</rs> und <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstiche</rs>.</hi>
+                    <lb/><hi rendition="#u">Einer für die der <rs type="artwork" key="prov_lvk_kx2_gjb">Sculpturen</rs>.</hi>
+                    <lb/><hi rendition="#u">Einer für die des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinets</rs>.</hi>
+                    <lb/>Da Gemälde mit Kupferstichen und Handzeichnungen in engster Beziehung
+                    stehen, und die Kenntniß von beiden ähnliche Studien erfordert, ist es uns
+                    zweckmäßiger erschienen, nach dem Beispiel <rs type="artwork" key="prov_ryb_3s1_h3b">von München</rs>, die Oberaufsicht von beiden nicht
+                    von einander zu trennen. <lb/>Den Directoren liegt Folgendes ob: <lb/>1) Sie
+                    haben für Erhaltung und wißenschaftlich-künstlerische Aufstellung aller
+                    Gegenstände ihrer Abtheilungen zu sorgen und dafür einzustehen. Dazu gehört, daß
+                    sie der <orgName key="ed_imk_ss2_gjb">Commißion</orgName> die nöthigen
+                    Restaurationen vorschlagen und über den guten Fortgang derselben wachen. <lb/>2)
+                    Sie müssen in dem ihnen untergebenen Gebiet in geschichtlicher und aestetischer
+                    Hinsicht gründliche Kenntniße besitzen, theils um über die Gegenstände des
+                    Museums mit gehörigem Erfolg erschöpfende Forschungen anstellen, theils durch
+                    mündliche und <pb n="15"/> schriftliche Belehrung richtige und gründliche
+                    Einsicht über bildende Künste im Publicum verbreiten zu können. <lb/>3) Bei
+                    Vorkomnißen untergeordneter Art veranlaßen sie das Nöthige auf ihre Hand, in
+                    wichtigen Angelegenheiten haben sie dem General-Secretair Anzeige zu machen, der
+                    darauf die gehörige Berathung mit dem General-Director und der <orgName key="ed_imk_ss2_gjb">Commißion</orgName> veranlaßt. <lb/>4) An den
+                    öffentlichen Tagen und bei besonderen Gelegenheiten müßen sie zugegen sein.</p>
+                <p>Da, um den wichtigsten Punkt ihrer Amtspflichten gehörig zu erfüllen, eine
+                    wißenschaftliche Bildung und gründliche Kenntniß unumgänglich erfordert wird,
+                    ist als Gesetz festzustellen, daß eine solche Directorstelle einer Abtheilung,
+                    nur von einem eigentlichen Kunstgelehrten bekleidet werden kann. Es müßte denn
+                    der höchst seltene Fall eintreten, daß ein bildender Künstler die nöthigen
+                    ausgebreiteten Kenntniße inne hätte, da dann eine Ausnahme Statt finden könnte.
+                    Nur der Director des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikencabinets</rs> muß durchaus jederzeit ein Archäolog sein, indem hier
+                    der wißenschaftliche Theil entschieden vorwaltet.</p>
+                <p><hi rendition="#u">Vier Inspectoren über die einzelnen Abtheilungen.</hi>
+                    <lb/>1) Haben sie in der ihnen untergeordneten Abtheilung die tägliche Aufsicht.
+                    Sie beobachten, ob die Galleriediener ihre Pflicht thun, und sehen auch auf das
+                    Verhalten der im Museo copirenden Künstler, wie auf das des besuchenden
+                    Publikums. Die Tage an welchen nur copirt, <pb n="16"/> oder nur ein
+                    ausgewähltes Publicum zugelassen wird, genügt es, wenn sie ab und zugehen und
+                    nur sonst in ihrem Zimmer immer zur Hand sind. An den zwei öffentlichen Tagen in
+                    der Woche, ist aber ihre beständige Gegenwart erforderlich. <lb/>2) In
+                    Abwesenheit des Directors vertreten sie seine Stelle und statten ihm von allem,
+                    was Erhebliches begegnet, Rechenschaft ab. <lb/>3) Sie müssen von allem, was in
+                    der ihnen untergebenen Abtheilung vorhanden ist, genau unterrichtet sein.
+                    <lb/>4) Sie sind verpflichtet, Jedermann auf seine die Sammlung betreffende
+                    Fragen, die gehörige Auskunft zu geben. <lb/>5) Die Inspectoren der <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstichsammlung</rs>, wie des
+                    Kunstcabinets haben zugleich die Bibliothekgeschäfte zu besorgen.</p>
+                <p>Es ist passend bei den drei Abtheilungen <rs type="artwork" key="prov_gky_hx2_gjb">der Gemälde</rs>, <rs type="artwork" key="prov_lvk_kx2_gjb">der Sculpturen</rs> und <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstiche</rs> bildende Künstler anzustellen,
+                    welche die nöthigen Kenntniße von der Sammlung und der Restauration haben. Nur
+                    wenn der seltene Fall eintreten sollte, daß der Director ein bildender Künstler
+                    wäre, müßte der Inspector nothwendig ein Gelehrter sein.</p>
+                <p>Auf diese Weise hoffen wir, daß am beßten, sowohl in Beziehung auf die
+                    Kunstwerke, als auf das Publicum, das wißenschaftliche wie das künstlerische
+                    Intereße vertreten werden soll. Der Inspector des <rs type="artwork" key="prov_l1p_mx2_gjb">Antikenkabinets</rs> muß jederzeit, wie der Director,
+                    ein Archäolog sein, weil in dieser Abtheilung, wie schon bemerkt, das Wißen-<pb n="17"/>schaftliche durchaus vorherrschend ist.</p>
+                <p><hi rendition="#u">Ein Restaurator für Gemälde.</hi>
+                    <lb/>Für die Sculpturen einen besonderen Restaurator anzustellen, wie dieses an
+                    anderen Orten der Fall ist, erachten wir nicht für nöthig, da hiezu nicht, wie
+                    bei dem Maler, eine besondere Kunst erforderlich ist, sondern jeder geschickte
+                    Bildhauer nach den richtigen Angaben Restaurationen zu machen im Stande ist.</p>
+                <p>Ueber jedes Kunstwerk, mit welchem eine bedeutendere Restauration vorzunehmen
+                    ist, müßen der Director und Inspector der jedesmaligen Abtheilung sich mit
+                    Zuziehung der <orgName key="ed_imk_ss2_gjb">Commißion</orgName> und des
+                    Restaurators, von dem Zustand des Kunstwerks überzeugen und der
+                    General-Sekretair hat über dieses gemeinschaftliche Gutachten ein Protokoll
+                    aufzunehmen. Nach Beendigung der Restauration ist dieses Protokoll in Gegenwart
+                    derselben Personen zu verlesen, darauf ein Gutachten über die Restauration
+                    abzugeben, worüber wieder ein Protokoll vom General-Sekretair aufzunehmen. Beide
+                    Protokolle sind sodann im Archiv des Museums niederzulegen.</p>
+                <p><hi rendition="#u">Der Castellan.</hi>
+                    <lb/>1) Ihm sind die Schlüßel des ganzen Hauses anvertrauet. <lb/>2) Er hat die
+                    Aufsicht über die ganze äußere Ordnung, Heitzung und Reinlichkeit des Hauses.
+                    <lb/>3) Er besorgt die kleinen Ausgaben aller Art für das Museum und legt
+                    wöchentlich dem General-Secretair die Quittungen darüber vor. <pb n="18"/>
+                    <lb/>4) Unter seinem Befehl stehen die Galleriediener, der Portier und ein
+                    Hausknecht. <lb/>5) Er selbst hat dem General-Sekretair von allem Rechenschaft
+                    zu geben und sowohl deßen, als der Directoren und Inspectoren Befehle
+                    auszuführen.</p>
+                <p><hi rendition="#u">Zwölf Galleriediener</hi> und zwar bei der größeren
+                    Weitläuftigkeit und schwereren Uebersichtlichkeit fünf für die <rs type="artwork" key="prov_gky_hx2_gjb">Abtheilung der Gemälde</rs>, vier für
+                    die <rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung der Sculpturen</rs>,
+                    zwei für die Abtheilungen des <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Kabinets</rs>, einer endlich für die <rs type="artwork" key="prov_qp2_rx2_gjb">Abtheilung der Kupferstiche</rs>. <lb/>Einer der
+                    Galleriediener in den drei ersten Abtheilungen ist der Decanus. Ob er gleich die
+                    nämlichen Geschäfte hat wie die Uebrigen, liegt es ihm ob die gemeinsamen
+                    Arbeiten in seiner Abtheilung gehörig zu vertheilen und zu leiten, und ist er
+                    für die gehörige Ausrichtung derselben, dem Castellan verantwortlich. <lb/>Allen
+                    Galleriedienern liegt Folgendes ob: <lb/>1) Sie haben nach Anweisung des
+                    Castellans täglich die Fußböden in allen Abtheilungen mit naßen Sägespähnen
+                    auszukehren, von Zeit zu Zeit zu bohnen, alle Kunstgegenstände mit Vorsicht
+                    abzustäuben. <lb/>2) Sie müssen nach den Befehlen des Directors oder Inspectors
+                    jeder Classe, die Aufstellung oder Wegnahme aller Kunstgegenstände besorgen.
+                    <lb/>3) Sie finden sich alle Morgen beim Castellan ein, welcher jedem seine
+                    Arbeit für den Tag anweist, und zwar im Sommer um 6, im Winter um 7 Uhr. Sie
+                    dürfen sich den <pb n="19"/> Tag über höchstens eine Stunde zum Mittagseßen
+                    entfernen. <lb/>4) In den eigentlichen Dienststunden darf sich kein
+                    Galleriediener entfernen, ohne dem Castellan eine genügende Ursache angegeben zu
+                    haben. Wer sich ohne Erlaubniß entfernt, zu spät oder gar nicht kömmt, muß eine
+                    bestimmte Geldstrafe erlegen, die der Castellan dem General-Secretair
+                    einzuliefern hat, welcher auch über die Verwendung dieser Strafgelder verfügt.
+                    <lb/>5) Sie sind verpflichtet, beständig in der Königlichen Livrée zu
+                    erscheinen, theils um die Anstalt immer als eine Königliche zu bezeichnen,
+                    theils damit sie für Jedermann sogleich erkenntlich sind. <lb/>6) Sie haben
+                    darauf zu achten, daß sowohl die copirenden Künstler als das anwesende Publicum,
+                    die für das Verhalten im Museo festgesetzten und in jeder Abtheilung
+                    angeschlagenen Reglements beobachten, und im Fall jemand dagegen verstößt, ihn
+                    höflich zu erinnern und auf den Anschlag zu verweisen. <lb/>7) Der Eintritt, so
+                    wie die Dienstleistungen im Museo, sind durchaus gratis, und die Galleriediener
+                    dürfen unter keinem Vorwande von einem Besuchenden etwas fordern oder annehmen.
+                    <lb/>8) Nur in dem Falle, daß sie den auf dem Museo studirenden Künstlern
+                    besondere Dienste geleistet haben, ist es ihnen gestattet etwas dafür
+                    anzunehmen. Jedoch ist jeder bei den ersten drei Abtheilungen verpflichtet,
+                    dieses in eine gemeinschaftliche Kasse zu thun, deren jede der drei ihre eigene
+                    hat, welche immer nach drei Monaten unter alle vertheilt wird. Wer etwas für
+                    sich <pb n="20"/> allein behält, verliert seine Stelle. <lb/>9) Unter den
+                    Galleriedienern muß die gehörige Eintracht herrschen und haben die übrigen auf
+                    den Decan ihrer Abtheilung zu horchen. Fallen Streitigkeiten oder Schlägereien
+                    vor; ziehen sie die Verabschiedung der Veranlassenden nach sich. <lb/>10)
+                    Folgende Vergehungen ziehen den Verlust der Stelle nach sich: <lb/>a) Jede
+                    erwiesene Veruntreuung. <lb/>b) Oefter vorkommende Betrunkenheit. <lb/>c) Das
+                    Verhelen eines Diebes. <lb/>d) Versäumniß seiner ihm vorgeschriebenen Dienste.
+                    <lb/>e) Ungehorsam oder Grobheit gegen den Castellan, oder gar gegen einen der
+                    höheren Beamten des Museums. <lb/>f) Wiederholte Klagen über Undienstfertigkeit
+                    oder Grobheit von Seiten der im Museo studirenden Künstler oder des Publikums.
+                    <lb/>11) Kein Galleriediener darf noch eine andere Anstellung oder Gewerbe
+                    haben, welche die Zeit in Anspruch nimmt, so für den Dienst im Museo bestimmt
+                    ist. Findet es sich, daß einer dergleichen hat, so muß er eins oder das andere
+                    aufgeben. <lb/>12) Das Avancement der Galleriediener von der zweiten zur ersten
+                    Ordnung, geschieht nach der Anciennität. Wer sich in dem Jahr vor der Erledigung
+                    der Stelle, einen von den oben bezeichneten Dienstfehlern hat zu Schulden kommen
+                    laßen, kann für das mal nicht berücksichtiget werden, auch wenn er der älteste
+                    in der <pb n="21"/> Dienstzeit sein sollte. Wer nicht wenigstens zwei Jahre in
+                    der zweiten Ordnung gedient hat, kann nicht zur ersten befördert werden.</p>
+                <p><hi rendition="#u">Der Portier.</hi>
+                    <lb/>1) Er hat die strenge Controlle über alle, welche das Museum besuchen.
+                    <lb/>2) Bei ihm werden immer den Tag zuvor die Eintrittskarten für die
+                    verschiedenen Abtheilungen zu den zwei öffentlichen Tagen in der Woche abgeholt.
+                    <lb/>3) Er hat sich von jedem Besuchenden die Eintrittskarte vorweisen zu laßen,
+                    und die für die öffentlichen Tage in Empfang zu nehmen. Von den Namen derer,
+                    welche für beständig Karten haben, befindet sich bei ihm eine Liste und sind ihm
+                    dieselben bei dem ersten Besuch von dem General-Secretair bekannt zu machen.
+                    Daßelbe findet auch in Betreff der Profeßoren der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName> statt, welchen der Zutritt ohne Karte
+                    freisteht. <lb/>4) Er hat alle an das Museum oder Beamte deßelben einkommende
+                    Briefe, Packete und Bestellungen vorzunehmen und weiter zu befördern. <lb/>5)
+                    Ihm liegt es ob alle Eintretenden höflich zu ersuchen, von den angebrachten
+                    Reinigungsanstalten Gebrauch zu machen, in sofern sie es versäumen sollten.
+                    <lb/>6) Seine Frau oder Verwandte hat alle Schirme, Stöcke, Hüthe und Mäntel
+                    gegen Nummern aufzuheben und dafür eine festzusetzende Kleinigkeit zu empfangen.
+                    <lb/>7) Bei ihm sind die Cataloge über die 4 Abtheilungen zu haben, über deren
+                    Verkauf er dem General-Secretair Rechenschaft abzulegen hat. <pb n="22"/></p>
+                <p><hi rendition="#u">Hausknecht.</hi>
+                    <lb/>Er steht unter dem Befehl des Castellans und ihm liegt ob: <lb/>1) die
+                    Reinigung des äußeren Bezirks vom Hause, so wie der Vorsäle, Treppen und
+                    Corridors. <lb/>2) die Heitzung.</p>
+                <p>Hiermit wäre die Zahl der aus dem Fond des Museums zu Besoldenden geschloßen,
+                    welche demnach folgende wären: <lb/>1. General-Director. <lb/>1.
+                    General-Secretair. <lb/>1. Spezial-Secretair. <lb/>3. Classen-Directoren.
+                    <lb/>4. Classen-Inspectoren. <lb/>1. Restaurator für Gemälde. <lb/>1. Castellan.
+                    <lb/>12. Galleriediener. <lb/>1. Portier <lb/>1. Hausknecht.</p>
+                <p>Außer diesen eigentlichen Beamten des Museums, dürfte es zweckmäßig sein, nach
+                    dem Beispiel <placeName key="prov_fvj_2t1_5v">von Paris</placeName> noch eine
+                    eigene Commißion niederzusetzen, die bei allen wichtigen Angelegenheiten, welche
+                    das Museum betreffen, als bei in Antrag gekommenen Ankäufen, Veränderungen in
+                    der Aufstellung, Restaurationen, unter dem Präsidio des General-Directors
+                    zusammenträte. Diese Commißion wäre auf folgende Weise zusammenzusetzen: <pb n="23"/>
+                    <lb/>die drei Claßen-Directoren des Museums; <lb/>der General-Secretair des
+                    Museums, welcher das Protokoll führen würde. <lb/>Eine nicht fest bestimmte
+                    Anzahl von bildenden Künstlern und Kunstgelehrten, welche aus dem <orgName key="ed_fyw_2vh_4fb">Senat der Akademie der Künste</orgName>, aus den
+                    Mitgliedern der <orgName key="ed_znn_dfc_b1b">Akademie der
+                        Wißenschaften</orgName> und den Profeßoren der hiesigen <orgName key="ed_jzs_dps_whb">Universität</orgName>, durch den General-Director der
+                        <orgName key="ed_xpk_5s3_f3b">höchsten Behörde</orgName> vorzuschlagen sind.
+                    <lb/>Sämmtliche Mitglieder erhalten für ihre Geschäfte kein Gehalt, sondern nur
+                    für jede Versammlung, in welcher sie erscheinen, einen Jetton. <lb/>Jedes
+                    Mitglied hat eine Stimme mit Ausnahme des General-Directors und des
+                    General-Secretairs, welche nicht mit stimmen. <lb/>Wenn beim Abstimmen über den
+                    Ankauf eines Kunstwerks, unter 4 Stimmen, welche sich dagegen erklären, die
+                    Künstler zu deren Fach das fragliche Kunstwerk gehört, und der Kunstgelehrte,
+                    welcher als Director der correspondirenden Abtheilung vorgesetzt ist, befinden,
+                    ist kein Antrag weiter darauf zu machen. Sonst ist eine absolute Stimmenmehrheit
+                    zur Annahme, oder zur Verwerfung erforderlich. </p>
+                <p>Für die drei Hauptzwecke eines Museums, Veranlaßung und Beförderung gründlicher
+                    Forschungen über den aestetischen und historischen Theil bildender Künste,
+                    höhere Ausbildung der jederzeit lebenden Künstler, Verbreitung eines richtigen
+                    Sinns und Kenntniße der <pb n="24"/> Kunst im Publicum, ist nächst den
+                    Gegenständen woraus das Museum besteht, das dabei angestellte Personal von der
+                    größten Wichtigkeit. Von der Wahl sich dazu qualificirender Personen hängt es
+                    daher vorzüglich ab, welche Stellung das Museum im Staate einnimmt. Eine solche
+                    Wahl glücklich zu treffen hat aber seine großen Schwierigkeiten, da außer der
+                    schon oben verlangten Gründlichkeit des Wißens, noch andere Eigenschaften
+                    vonnöthen sind, welche man nicht allezeit mit jenen vereinigt findet. So ist es
+                    erforderlich, daß ein Classen-Director oder Inspector in einem gewißen Grade die
+                    Gabe der Mittheilung besitzen, desgleichen sich wenigstens einigermaaßen in der
+                    französischen Sprache ausdrücken könne. Wir haben es uns daher ganz besonders
+                    angelegen sein laßen, diesen Punkt in reifliche Erwägung zu ziehen, damit diese
+                    großartige und längst ersehnte Anstalt auf eine würdige Weise ins Leben treten
+                    und den großen Erwartungen, welche man sich davon mit Recht macht, auch
+                    vollkommen entsprechen möge. Die Resultate unserer Erwägungen nehmen wir uns die
+                    Freiheit Eurer <persName key="prov_bxf_jt5_fv">Majestät</persName>
+                    allerunterthänigst vorzulegen, indem wir eine Reihe von Männern nennen, welche
+                    uns besonders geeignet scheinen, jene mannigfaltigen Anforderungen zu erfüllen.
+                        <lb/><hi rendition="#u">Der <seg type="comment">
+                            <orig>General-Director.</orig>
+                            <note xml:id="nelz_1pv_2jb">General-Direktor wurde Karl Friedrich Graf
+                                von Brühl (1772-1837), der ehemalige Generalintendant der
+                                Königlichen Schauspiele.</note>
+                        </seg></hi>
+                    <lb/>Die Bestimmung deßelben überlaßen wir dem höchsten Ermeßen Euerer <persName key="prov_bxf_jt5_fv">Majestät</persName> und begnügen <pb n="25"/> uns nur
+                    zu bemerken, daß diese wichtige Stelle wohl nach dem Vorgange <placeName key="prov_fvj_2t1_5v">von Paris</placeName>, am passendsten durch einen Mann
+                    von höherem Stande, der Sinn und Liebe zu den bildenden Künsten auf Reisen und
+                    noch anderweitig ausgebildet hat, zu besetzen sein möchte. <lb/><hi rendition="#u">Der <seg type="comment">
+                            <orig>Genereal-Secretair.</orig>
+                            <note xml:id="njsv_fpv_2jb">1830 wurde der Geheime Regierungsrat Dielitz
+                                zum Generalsekretär des Museums berufen.</note>
+                        </seg></hi><lb/>Hiezu dürfte am passendsten ein Jurist zu wählen sein,
+                    welcher mit allen Formen und dem ganzen Geschäftsgange genau bekannt, zugleich
+                    die Gerechtsame des Museums zu vertreten geeignet wäre. <hi rendition="#u"><lb/>Der Director über die Abtheilungen <rs type="artwork" key="prov_gky_hx2_gjb">der Gemälde</rs> und <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstiche</rs>.</hi>
+                    <lb/><seg type="comment">
+                        <orig><hi rendition="#u">G. F. <persName key="ed_jbn_mrv_2jb">Waagen</persName>, D<hi rendition="#sup"><hi rendition="#u">r</hi></hi><hi rendition="#sup"><hi rendition="#u">.</hi></hi> der Philosophie.</hi></orig>
+                        <note xml:id="nzwt_lpv_2jb">Waagen wurde bei Eröffnung des Museums Direktor
+                            der Gemäldegalerie.</note>
+                    </seg>
+                    <lb/>Durch seine litterarischen Arbeiten, welche sich zum Theil über einen der
+                    größten Schätze der <rs type="artwork" key="prov_vch_fyb_f3b">Königlichen
+                        Sammlungen</rs>, <seg type="comment">
+                        <orig>über die Gemälde der Brüder van Eyck</orig>
+                        <note xml:id="ncs3_byl_gjb"><persName key="ed_xsx_3yl_gjb">Hubert van
+                                Eyck</persName> und <persName key="ed_sdy_1zl_gjb">Jan van
+                                Eyck</persName>. Siehe: Gustav Friedrich Waagen: Über Hubert und
+                            Johann van Eyck. Breslau 1822.</note>
+                    </seg>, verbreiten, durch mehrere Kunstreisen, die er gemacht, so wie endlich
+                    durch seine, seit dem Juny 1823, der <orgName key="ed_imk_ss2_gjb">Commißion</orgName> für das Museum geleisteten Dienste, hat er sich als
+                    besonders qualificirt erwiesen. Zugleich ist ihm bei seinem Verhältniß in der
+                        <orgName key="ed_imk_ss2_gjb">Commißion</orgName>, die Gelegenheit geworden,
+                    sich mit den Gemälden der ehemaligen <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs>, mehr als irgend ein anderer vertraut zu machen.
+                        <lb/><hi rendition="#u">Der Director über die <rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung der Sculpturen</rs>.</hi>
+                    <hi rendition="#u"><seg type="comment">
+                            <orig><lb/>Friedrich <persName key="ed_pkl_5t1_wv">Tieck</persName>,
+                                Profeßor an der <orgName key="ed_u5s_1fc_b1b">Akademie der
+                                    Künste</orgName>.</orig>
+                            <note xml:id="nzp2_ppv_2jb">Friedrich Tieck übernahm 1830 die Leitung
+                                der Abteilung für Skulpturen und Gipsabgüsse.</note>
+                        </seg></hi><lb/>Bei ihm tritt der seltene Fall ein, daß er mit dem <pb n="26"/> für den technischen Theil der Kunst höchst gebildetem Auge, die
+                    nöthigen litterarischen Kenntniße in einem außerordentlichen Grade vereinigt.
+                    Zugleich ist er durch einen langen Aufenthalt in <placeName key="prov_vxr_xxr_js">Italien</placeName> und <placeName key="prov_tnd_dt1_5v">Paris</placeName> mit den meisten Sculpturwerken alter
+                    und neuer Kunst, aus eigener Anschauung vertraut, so wie er auch die, zum Theil
+                    unter seinen Augen restaurirten <rs type="artwork" key="prov_usp_jlw_jgb">Antiken aus den Königlichen Schlößern</rs> genau kennt. <lb/><hi rendition="#u">Der Director über die Abtheilung des <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinets</rs>.</hi>
+                    <lb/><seg type="comment">
+                        <orig><hi rendition="#u"><persName key="ed_ifk_ktj_xv">Levezow</persName>,
+                                Profeßor.</hi></orig>
+                        <note xml:id="nesl_spv_2jb">Levezow wurde 1830 zum Direktor des Antiquariums
+                            ernannt.</note>
+                    </seg>
+                    <lb/>Durch mehrere Arbeiten als gründlicher Gelehrter im Fache der Alterthümer
+                    und Archäologie rühmlich bekannt, hat er sich durch eifrige Beschäftigung, mit
+                    den Gegenständen der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>
+                    während der letzten 5 Jahre so vertraut gemacht, daß wir durch ihn für die
+                    Sammlung die besten Resultate zu erwarten berechtigt sind. <lb/><hi rendition="#u">Der Inspector über die <rs type="artwork" key="prov_gky_hx2_gjb">Abtheilung der Gemälde</rs>. </hi><seg type="comment">
+                        <orig><hi rendition="#u"><persName key="ed_f3k_bp5_2jb"><lb/>Xeller</persName>, Maler.</hi></orig>
+                        <note xml:id="nprt_5pv_2jb">Xeller wurde 1830 Assistent bei dem Restaurator
+                            Schlesinger.</note>
+                    </seg><lb/>Ist durch einen Aufenthalt in <placeName key="prov_vxr_xxr_js">Italien</placeName> und andere Reisen, im Besitz guter Kenntniße von
+                    Gemälden und hat sich, seit einem Jahre als Restaurator im Attelier für die
+                    ehemalige <rs type="artwork" key="prov_ggw_yml_vw">Sollysche Sammlung</rs>
+                    angestellt, auch über diesen wichtigen Theil die gründlichste Einsicht und die
+                    Handhabung der vollkomensten Technik erworben. <pb n="27"/>
+                    <hi rendition="#u"><lb/>Der Inspector über die <rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung der Sculpturen</rs>.</hi>
+                    <lb/><hi rendition="#u">Anmerkung:</hi>
+                    <lb/>Da die Directorstelle dieser Abtheilung in der Person des Profeßors
+                        <persName key="ed_pkl_5t1_wv">Tieck</persName>, durch einen Künstler besetzt
+                    ist, muß hier nach den oben festgestellten Grundsätzen der Inspector ein
+                    Gelehrter sein. <lb/><hi rendition="#u">E. <persName key="ed_mvj_4r5_2jb">Lange</persName>, Privatdocent an der hiesigen <orgName key="ed_jzs_dps_whb">Universität</orgName>.</hi>
+                    <lb/>Durch mehrere Arbeiten über mythologisch-historische Gegenstände als ein
+                    gründlicher Gelehrter bekannt, wird durch ihn in Verbindung mit dem Profeßor
+                        <persName key="ed_pkl_5t1_wv">Tieck</persName>, das wißenschaftliche und
+                    künstlerische Intereße, vollständig vertreten sein. <hi rendition="#u"><lb/>Der
+                        Inspector über die <rs type="artwork" key="prov_qp2_rx2_gjb">Abtheilung der
+                            Kupferstiche</rs>.</hi>
+                    <lb/><seg type="comment">
+                        <orig><hi rendition="#u"><persName key="ed_if4_rs5_2jb">Hampe</persName>,
+                                Lehrer an der Königlichen <orgName key="ed_u5s_1fc_b1b">Akademie der
+                                    Künste</orgName>.</hi></orig>
+                        <note xml:id="nevn_1qv_2jb">Erster Direktor des Kupferstichkabinetts wurde
+                            Wilhelm Eduard Schorn. Mit der Trennung von der Gemäldeabteilung 1832
+                            wurde er zum Direktor der Abteilung Kupferstiche ernannt.</note>
+                    </seg>
+                    <lb/>Ist ohne Zweifel unter den hiesigen Künstlern am meisten in dem
+                    weitläuftigen Gebiet der Kupferstich- und Handzeichnungskunde einheimisch, auch
+                    schon seit längerer Zeit bei dem <placeName key="ediarum_cjp_wbm_gjb">Kupferstichkabinet</placeName> beschäftigt, und wird gern aus den
+                    trefflichen Werken, welche wir über diese Gegenstände haben, ergänzen, was ihm
+                    an wißenschaftlicher Begränzung seiner Kenntniße etwa noch abgehen sollte.
+                        <lb/><hi rendition="#u">Der Inspektor über die Abtheilung des <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinets</rs></hi>: <hi rendition="#u"><lb/><seg type="comment">
+                            <orig><persName key="ed_rqx_j55_2jb">Boltzenthal</persName>. D<hi rendition="#sup"><hi rendition="#u">r.</hi></hi> der
+                                Philosophie.</orig>
+                            <note xml:id="nz2y_3qv_2jb">Bolzenthal wurde Inspektor, später
+                                Direktorial-Assistent im Antiquarium.</note>
+                        </seg></hi>
+                    <pb n="28"/>
+                    <lb/>Geht schon seit längerer Zeit dem Profeßor <persName key="ed_ifk_ktj_xv">Levezow</persName> zu seiner größten Zufriedenheit an die Hand, und ist
+                    beschäftigt über die zahlreichen Gegenstände des <rs type="artwork" key="prov_py3_thd_y3b">Antiken-Cabinets</rs> einen wißenschaftlichen Catalog
+                    auszuarbeiten, wodurch er mit denselben in einem hohen Grade vertraut werden
+                    muß. <lb/><hi rendition="#u">Der Restaurator für die Gemälde.</hi>
+                    <lb/><seg type="comment">
+                        <orig><hi rendition="#u"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi>.</orig>
+                        <note xml:id="ng23_mqv_2jb">Schlesinger wurde 1831 offiziell zum Restaurator
+                            der Gemäldegalerie berufen.</note>
+                    </seg>
+                    <lb/>Dieser steht bereits seit 2½ Jahr dem ganzen Restaurationsgeschäft der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs> zu unserer
+                    größten Zufriedenheit vor, und ist uns durchaus kein anderer bekannt, welcher
+                    ihm in Rücksicht der von uns erprobten Tüchtigkeit an die Seite zu setzen wäre.
+                    <lb/>In Rücksicht der übrigen untergeordneten Beamten, als: des
+                    Special-Secretairs, des Castellans, der Galleriediener, des Portiers und
+                    Hausknechts, ist es von großer Wichtigkeit durchaus Leute von anerkannter Treue
+                    und erprobtem Geschick anzustellen. Wir werden uns auch daher fortwährend
+                    bemühen uns nach solchen umzuthun. Bis jetzt ist es uns nur gelungen, drei
+                    taugliche Subjecte aufzufinden: <lb/><hi rendition="#u">Special-Secretair</hi>
+                    <lb/><hi rendition="#u"><persName key="ed_ok2_tcm_gjb">Lüdke</persName>.</hi>
+                    <lb/>hat sich als Expedient und Kalculator bei dem Bau des <placeName key="ediarum_rj2_kdc_sy">Museums</placeName> als ein sehr zuverläßiger und
+                    ausnehmend fleißiger und gewandter Mann <pb n="29"/> gezeigt, der sich für diese
+                    Stelle vorzüglich eignen würde. <lb/><hi rendition="#u">Galleriediener beim <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstich-Cabinet</rs>.</hi>
+                    <hi rendition="#u"><lb/><persName key="ed_qws_dfm_gjb">Vogel</persName>.</hi>
+                    <lb/>Seit mehreren Jahren in Diensten bei dem General-Postmeister Herrn
+                        <persName key="ed_bs2_xfm_gjb">von Nagler</persName>, hat er sich in der
+                    reichen <rs type="artwork" key="prov_h4c_mgm_gjb">Sammlung</rs> deßelben, große
+                    Geschicklichkeit in allen den mechanischen Arbeiten, welche bei Kupferstichen
+                    nöthig sind, als im Aufziehen, Mappen-machen u.s.w. erworben und ist daher auch
+                    schon gegenwärtig bei dem <placeName key="ediarum_cjp_wbm_gjb">Königlichen
+                        Kupferstich-Cabinet</placeName> beschäftigt. <hi rendition="#u"><lb/>Der
+                        Portier.</hi>
+                    <lb/><hi rendition="#u"><persName key="ed_nsf_thm_gjb">Noack</persName>:</hi>
+                    <lb/>Er hat sich durch Treue, Eifer und Geschick in vielen Dienstleistungen bei
+                    dem Bau des <placeName key="ediarum_rj2_kdc_sy">Museums</placeName> als zu einer
+                    solchen Anstellung besonders werth und tüchtig erwiesen.
+                    <lb/>______________________________________________________________________________________________________________________________________________________
+                    <lb/></p>
+                <p><hi rendition="#u">Etat des Museums.</hi><lb/>Bei der Feststellung der Gehalte
+                    haben uns vorzüglich folgende Rücksichten geleitet. Nach den oben
+                    ausgesprochenen Anforderungen an die Classen-Directoren und Inspectoren, können
+                    zu diesen Stellen nur in ihrer Art ausgezeichnete Leute genommen werden, welche
+                    also auch dem gemäß zu honoriren sind. Da <pb n="30"/> ferner nach dem
+                    nachahmungswürdigen Muster des <placeName key="prov_fvj_2t1_5v">Museums zu
+                        Paris</placeName>, dem Publicum die Benutzung des Museums durchaus gratis zu
+                    gestatten sein dürfte, haben die Beamten von dieser Seite keinen Zuschuß zu
+                    erwarten, so wie sie sich auch so ausschließlich dem Dienst im Museo widmen
+                    müßen, daß ihnen keine Zeit zu anderweitigem Erwerb übrig bleibt. Endlich
+                    glaubten wir die Art, wie Gelehrte und Künstler bei den übrigen höchsten
+                    Anstalten für Wißenschaft und Kunst im Staate, als bei den Universitäten, der
+                    Akademie der Wißenschaften und Künste gesetzt sind, womit zugleich der Etat des
+                        <placeName key="prov_fvj_2t1_5v">Pariser Museums</placeName> ziemlich nahe
+                    zusammentrifft, als einen Maaßstab annehmen zu dürfen. Hieraus hat sich denn
+                    Folgendes ergeben: <lb/>Der Director der Abtheilungen <rs type="artwork" key="prov_gky_hx2_gjb">der Gemälde</rs> und <rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstiche</rs> -------------------------- 1500
+                    rthlr <lb/>Der Director der <rs type="artwork" key="prov_lvk_kx2_gjb">Abtheilung
+                        der Sculpturen</rs> --------------------------------------------------- 1500
+                    ----- <lb/>Der Director der Abtheilung des <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinets</rs>:
+                    -------------------------------------------1500 ----- <lb/>Die vier Inspectoren
+                    der vier Abtheilungen, jeder - a 1000 r<ex>eichstaler</ex>
+                    ------------------------- 4000 ----- <lb/>Der General-Secretair
+                    -----------------------------------------------------------------------------------
+                    1500 ----- <lb/>Der Special-Secretair
+                    ------------------------------------------------------------------------------------
+                    900 ----- <lb/>Der Restaurator der Gemälde
+                    -------------------------------------------------------------------------- 800
+                    ----- <lb/>Der Castellan
+                    ---------------------------------------------------------------------------------------------
+                    600 ---- <lb/>Die 12 Gallerie-Diener; die Diener jeder 500
+                    ------------------------------------------------------- 1500 ----
+                    <lb/>----------------------------- die Uebrigen jeder 365
+                    ---------------------------------------------------- 3285 ---- <lb/>Der Portier
+                    -------------------------------------------------------------------------------------------------
+                    400 ---- <lb/>Der Hausknecht
+                    -------------------------------------------------------------------------------------------
+                    200 ---- <pb n="31"/>
+                    <lb/>Zwanzig bis Dreißig Haufen Holz entweder in natura oder die Summe dafür.
+                    Einstweilen <lb/>anzunehmen
+                    -----------------------------------------------------------------------------------------------
+                    1,000 rthlr: <lb/>Für andere kleinere Bedürfniße
+                    -------------------------------------------------------------------------- 500
+                    -----</p>
+                <p><hi rendition="#u">Vermehrung der Gegenstände des Museums.</hi>
+                    <lb/>Nächst diesem ist es von der höchsten Wichtigkeit, für jede der 4
+                    Abtheilungen, wenn nicht jede in einiger Zeit veralten soll, eine bestimmte
+                    Summe jährlich auszusetzen, um allmählig die Lücken auszufüllen. <lb/>1) <hi rendition="#u"><rs type="artwork" key="prov_gky_hx2_gjb">Die
+                        Gemälde</rs>.</hi> Ohngeachtet der großen Anzahl von Werken der
+                    nahmhaftesten Meister, fehlen dennoch einige von Wichtigkeit, von anderen aber
+                    sind, wenigstens wenn die Gelegenheit es darbiethet, bedeutendere Werke
+                    wünschenswerth. Zu diesem Zweck wäre die Summe von 2000 rthlr auszusetzen.
+                    <lb/>2) <hi rendition="#u"><rs type="artwork" key="prov_lvk_kx2_gjb">Die
+                            Sculpturen</rs>.</hi> Hier ist nicht allein der Ankauf einiger Antiken
+                    vom ersten Rang, so wie sich die Gelegenheit darbiethet, sondern auch von
+                    einigen bedeutenderen Werken der Sculptur seit Wiederaufnahme der Künste zu
+                    wünschen. Endlich ist die Anzahl ausgezeichneter Gypsabgüße zwar groß, um aber
+                    dergleichen nach dem Bedarf des Museums, von dem Vorzüglichsten, was wir aus dem
+                    Alterthum und neuerer Zeit besitzen, hier zu versammeln, sind demohngeachtet
+                    noch sehr beträchtliche Ankäufe zu machen. Da die Summe um die-<pb n="32"/>selben auf einmal zu machen, zu beträchtlich sein würde, ist es zweckmäßig,
+                    sie auf mehrere Jahre zu vertheilen. Nur um einiges höchst wichtige nicht mehr
+                    zu lange entbehren zu müßen, wäre es wünschenswerth alsbald wenigstens über die
+                    Summe von 6,000 rthlr: disponiren zu können. <lb/>Um dieses alles in's Werk zu
+                    richten, dürfte künftig mindestens die jährliche Summe von 2000 Rthl nöthig
+                    sein. <lb/>3) <hi rendition="#u">Das <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinet</rs>.</hi> Auch hier giebt es trotz des vorhandenen
+                    großen Reichthums, allezeit Reihefolgen z. B. von Münzen zu ergänzen, einzelne
+                    Gegenstände von besonders großer Bedeutung, so wie das Wichtigste erscheinender
+                    Medaillen anzukaufen, wozu der jährliche Fond von 2000 Rthlr festzusetzen sein
+                    würde. <lb/>4) <hi rendition="#u"><rs type="artwork" key="prov_qp2_rx2_gjb">Kupferstiche</rs> und <rs type="artwork" key="prov_gbg_tx2_gjb">Handzeichnungen</rs>.</hi> Durch die Ankäufe und Erwerbungen von Seiten
+                    Euerer <persName key="prov_bxf_jt5_fv">Majestät</persName> ist die
+                    Kupferstichsammlung so reich geworden, daß, wenn jetzt mit Sachkenntniß jährlich
+                    in den älteren Blättern einzelne Lücken ausgefüllt, so wie immer die wichtigsten
+                    erscheinenden Blätter gekauft werden, sie sich bald in die Reihe der
+                    trefflichsten Sammlungen dieser Art wird stellen laßen. An Handzeichnungen fehlt
+                    es freilich mehr, und ist die Gelegenheit, Ausgezeichnetes zu erwerben, sehr
+                    selten. Hiezu dürfte eine jährliche Summe von <seg type="comment">
+                        <orig>500</orig>
+                        <note xml:id="nwgl_mvx_fjb">Mit Bleistift eingetragen.</note>
+                    </seg> rthlr ausreichen. </p>
+                <p>Ein Theil der für die 3<hi rendition="#sup"><hi rendition="#u">te</hi></hi> und
+                        4<hi rendition="#sup"><hi rendition="#u">te</hi></hi> Abtheilung be-<pb n="33"/>stimmten Summe ist auf die zweckmäßige Vermehrung der Bibliotheken
+                    zu verwenden, welche daran angeknüpft sind.</p>
+                <p>Ueber die gewißenhafte und zweckmäßige Verwendung dieses jährlichen Etats hat die
+                    für das Museum niedergsetzte <orgName key="ed_imk_ss2_gjb">Commißion</orgName>
+                    zu wachen, und ist dafür verantwortlich.</p>
+                <p>Außerdem aber müßte es derselben <orgName key="ed_imk_ss2_gjb">Commißion</orgName> frei stehen, wenn sich die Gelegenheit giebt, für eine
+                    der vier Abtheilungen Erwerbungen von sehr großer Wichtigkeit zu machen, mögen
+                    sie in ganzen Sammlungen oder einzelnen ausgezeichneten Stücken bestehen, an
+                    Eure <persName key="prov_bxf_jt5_fv">Majestät</persName> ihre wohlerwogenen
+                    Vorschläge gelangen zu laßen, deren Berücksichtigung alsdann nicht von dem
+                    jährlichen Etat abhinge, sondern anderweitig zu bestreiten wäre.</p>
+                <p><hi rendition="#u">Uebersicht der sämmtlichen Etats für das Museum:</hi>
+                    <lb/>A. <hi rendition="#u">Gehalte des Personals.</hi>
+                    <lb/>Director der Gemälde
+                    -------------------------------------------------------- 1500 rthlr
+                    <lb/>Director der Sculpturen
+                    ----------------------------------------------------- 1500 --- <lb/>Director des
+                    Antiken-Cabinets --------------------------------------------- 1500 ---
+                    <lb/>Vier Insepectoren à 1000 rthlr
+                    ---------------------------------------------- 4000 --- <lb/>General-Secretair
+                    -------------------------------------------------------------- 1500 ---
+                    <lb/>Special-Secretair
+                    ---------------------------------------------------------------  900 ---
+                    <lb/>Restaurator der Gemälde
+                    -----------------------------------------------------  800 --- <pb n="34"/>
+                    <lb/>Castellan
+                    ------------------------------------------------------------------------  600
+                    rthlr. <lb/>Drei Decane à 500 rthlr
+                    ------------------------------------------------------ 1500 --- <lb/>Neun
+                    Galleriediener à 365 rthlr --------------------------------------------- 3285
+                    --- <lb/>Portier
+                    ---------------------------------------------------------------------------  400
+                    --- <lb/>Hausknecht
+                    ---------------------------------------------------------------------  200 ---
+                    <lb/>Für Holz angenommen -------------------------------------------------------
+                    1000 ---- <lb/>Für andere kleine Ausgaben
+                    -------------------------------------------------  500 ----
+                    <lb/>---------------------------------------------------------------------------------------------------
+                    <lb/>-------------------------------------------------------------------------------------
+                    19185 rthlr</p>
+                <p>B. <hi rendition="#u">Vermehrung der Kunstgegenstände</hi>: <lb/>Für die Gemälde
+                    ---------------------------------------------------------------- 2000 ---
+                    <lb/>Für die Sculpturen
+                    ------------------------------------------------------------- 2000 --- <lb/>Für
+                    das Antiken-Cabinett ----------------------------------------------------- 2000
+                    --- <lb/>Für die Kupferstiche
+                    ----------------------------------------------------------- 500 ---
+                    <lb/>------------------------------------------------------------------------------------------------
+                    <lb/>--------------------------------------------------------------------------------------
+                        <seg type="comment">
+                        <orig>6500 rthlr.</orig>
+                        <note xml:id="nxpt_fbz_fjb">Darunter mit Bleistift die Gesamtsumme "25685"
+                            eingetragen.</note>
+                    </seg>
+                    <ex>[gez.]</ex> Schinkel.<pb n="35"/></p>
+                <p>D. <hi rendition="#u">Ueber die Art und Weise wie das Museum dem Publicum und den
+                        Künstlern nutzbar zu machen ist.</hi></p>
+                <p>I. <hi rendition="#u">Das Publicum</hi>. <lb/>Mit Ausnahme der Sonn- und Festtage
+                    sind die verschiedenen Abtheilungen des Museums dem Publicum zugänglich, und
+                    zwar das ganze Jahr hindurch von 9 bis 3 Uhr. Kinder unter 14 Jahren werden
+                    nicht eingelaßen. Dienstag und Freitag sind öffentlich und es wird Jedermann
+                    hereingelaßen, welcher sich Tages zuvor bei dem Portier eine Karte, die er von
+                    einer bis zu acht Personen bekommen kann, geholt hat. <hi rendition="#u"><lb/>NB</hi>: Diese Einrichtung ist wenigstens so lange das Museum etwas
+                    Neues ist, bei der Schaulustigkeit der hiesigen Einwohner, etwas durchaus
+                    Nothwendiges, indem man nur so, nach einer ungefähren Berechnung des Raumes,
+                    bewirken kann, daß das Publicum sich nicht selbst zu sehr hindert, und die
+                    Kunstgegenstände nicht Gefahr laufen, da wenn das Gedränge einen gewißen Grad
+                    erreicht hat, jede Controlle unmöglich bleibt. Daher ist es auch nothwendig, daß
+                    für jede der vier Abtheilungen besondere Karten gelößt werden, indem sonst
+                    zufällig alles nach einer hindrängen und so dennoch den Raum überfüllen könnte.
+                        <pb n="36"/> Die übrigen vier Werkeltage, als Montag, Mittwoch, Donnerstag
+                    und Sonnabend, kann der Zutritt nur gegen Vorzeigung einer, mit dem Namen des
+                    Vorzeigers versehenen, und vom General-Director unterschriebenen, Karte
+                    gestattet werden, um welche jeder bei demselben schriftlich einzukommen hat, die
+                    indeß alsdann auch für immer gilt, mit Ausnahme jedoch der zwei öffentlichen
+                    Tage. Auch hier darf die Anzahl solcher Karten, welche überhaupt ausgegeben
+                    werden, ein gewißes Maaß nicht übersteigen und muß jede Abtheilung ihre
+                    besondere haben, indem z. B. das Local des Kupferstichcabinets lange nicht so
+                    viel faßt, als das der Gemäldesammlung. Bei Austheilung dieser Karten ist
+                    vorzugsweise auf das diplomatische Corps, die Mitglieder der <orgName key="ed_znn_dfc_b1b">Akademie der Wißenschafte</orgName>n, die Profeßoren
+                    der <orgName key="ed_jzs_dps_whb">Universität</orgName> und der Gymnasien, so
+                    wie auf andere Königliche höhere Militär- und Civil-Beamte Rücksicht zu nehmen.
+                    Solche Karte hat nur für die Dauer eines Jahres Gültigkeit, nach deßen Ablauf
+                    neue Karten ausgegeben werden, um welche also wieder einzukommen ist. <lb/>Alle
+                    Fremden werden gegen Vorzeigung ihrer Aufenthaltskarte an diesen 4 Tagen
+                    zugelaßen, haben aber Namen, Vaterland und Wohnung in einem Buche bei dem
+                    Portier einzutragen. <lb/>Niemand hat an irgend einem Beamten des <pb n="37"/>
+                    Museums irgend etwas zu entrichten, und wird Jedermann gebeten Anzeige zu
+                    machen, wenn ihm irgend etwas abgefordert werden sollte. <lb/>Hüthe, Stöcke,
+                    Regenschirme und Mäntel sind bei dem Portier gegen Empfang einer Marke abzugeben
+                    und dafür eine zu bestimmende Kleinigkeit zu entrichten.</p>
+                <p>II. <hi rendition="#u">Die Künstler</hi>. <lb/><hi rendition="#u">a.
+                        Zutritt.</hi>
+                    <lb/>Der Director und sämmtliche Profeßoren der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>, haben an allen Tagen der Woche freien
+                    Zutritt, ohne daß sie einer Karte bedürfen. Alle Mitglieder der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName> erhalten auf ihr Begehr
+                    eine mit ihrem Namen bezeichnete und vom General-Secretair unterschriebene
+                    Karte, worauf sie mit Ausnahme der beiden öffentlichen Tage beständig Zutritt
+                    haben. <lb/>Sämmtliche Schüler der <orgName key="ed_u5s_1fc_b1b">Akademie der
+                        Künste</orgName> aus der ersten oder Lebensclasse, haben mit Ausnahme
+                    derselben Tage, beständig Zutritt bei Vorzeigung einer mit ihrem Namen
+                    bezeichneten und vom Director der Akademie unterschriebenen Karte, welche indeß
+                    immer nur für einen Tag gültig ist, und sie daher bei dem Portier abzugeben
+                    haben; dieser läßt sie dem Director der Akademie wieder zustellen. <pb n="38"/>
+                    Von den Namen sämmtlicher Schüler befindet sich ein Verzeichniß bei dem
+                    General-Secretair.</p>
+                <p><hi rendition="#u">b. Studium.</hi>
+                    <lb/>Das Copiren kann nur Montags, Mittwochs, Donnerstags und Sonnabends Statt
+                    haben; Dienstags und Freitags, als an den beiden öffentlichen Tagen, muß ein
+                    jeder sein Malergeräth bei Seite schaffen. <lb/>Kein im Museo aufgestellter
+                    Kunstgegenstand kann unter welchem Vorwand es auch immer sei, des Copirens wegen
+                    von seiner Stelle entfernt werden. <lb/>Jeder Schüler der Königlichen <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName> wird auf ein Zeugniß des
+                    Directors derselben, daß er in seinen Studien so weit sei, um mit Nutzen zu
+                    copiren, in dieser Beziehung zugelaßen und ihm eine Karte darüber zugestellt.
+                    Dergleichen Karten kann eben so jeder von der Akademie zum Profeßor aufgenommene
+                    Künstler, welcher ein Attelier hält, für seine Schüler fordern. <lb/>Alle
+                    übrigen hiesigen Künstler haben dem Director und Inspector der Abtheilung aus
+                    welcher sie copiren wollen, Proben ihrer ausreichenden Geschicklichkeit
+                    vorzulegen, und erhalten alsdann eine mit ihrem Namen versehene, und vom
+                    General-Secretair unterzeichnete Karte, worauf sie immer zugelaßen werden.
+                    <lb/>Mit fremden Künstlern findet derselbe Fall Statt, <pb n="39"/> nur daß die
+                    Karte für eine bestimmte Frist ausgestellt wird. <lb/>Es kann niemals über eine
+                    gewiße festzusetzende Anzahl von Copirenden zugelaßen werden. <lb/>Ordnung, Ruhe
+                    und Anstand, wie sie sich an einem Orte ziemen, welcher der Kunst und dem
+                    Studium gewidmet ist, müßen jederzeit beobachtet werden. Jeder wer diesem
+                    zuwider handelt, oder gar sich den Zurechtweisungen der Galleriediener
+                    widersetzt, beraubt sich dadurch für die Zukunft des Vortheils, im Museum
+                    arbeiten zu dürfen. <lb/>Wenn Dilettanten im Museum etwas zu copiren wünschen,
+                    haben sie sich deshalb schriftlich an den General-Director zu wenden, der ihnen
+                    eine Karte zustellen läßt, in sofern es der Raum erlaubt. Sonst gelten bei ihnen
+                    dieselben Bedingungen, wie bei den Künstlern.</p>
+                <p><ex>[gez.]</ex> Schinkel</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

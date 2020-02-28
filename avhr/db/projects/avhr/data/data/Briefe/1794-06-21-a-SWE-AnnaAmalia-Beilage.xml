@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hjp_hdp_y1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beilage zum Brief Hirts an Anna Amalia von Sachsen-Weimar und Eisenach. Rom,
+                    21. Juni 1794. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <collection>Großherzogliches Hausarchiv</collection>
+                        <idno>
+                            <idno type="shelfmark">A XVIII Mr. 50, Bl. 17r-18v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1794-06-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar und Eisenach, Anna-Amalia von
+                        (1739-1807) (Herzogin/Herzoginmutter von Sachsen-Weimar-Eisenach,
+                        Komponistin, seit 1756 verh. mit Herzog Ernst August II. Konstantin, 1758
+                        verw. und bis 1775 Regentin, Mutter von (Groß-)Herzog Karl August von
+                        Sachsen-Weimar und Eisenach)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <note>Beilage zum <ref target="prov_ars_fkf_f5" type="attachedTo">Brief Hirts an
+                        Anna Amalia von Sachsen-Weimar und Eisenach, Rom, 21. Juni
+                    1794</ref>.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <div type="writingSession" n="2">
+                    <p>Empfindungen<lb/>über einige Gemälde in dem <lb/>Arbeitszimmer der Frau
+                            Angelika Kauffmann-Zucchi.</p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u"> I.</hi>
+                                <lb/>
+                                <seg type="critical">
+                                    <orig>
+                                        <rs type="artwork" key="prov_u22_1vs_lz">Euphrosine, von
+                                                Amor in eine Hand <lb/> verwundet, bringt ihre Klage
+                                                vor <lb/> die Mutter</rs>. <lb/>
+                                    </orig>
+                                    <note xml:id="nenn_lc4_y5">Euphrosyne complaining to Venus
+                                            of the Wound caused by Cupid's Dart. 1793, Öl auf
+                                            Leinwand, 24,6 x 16,5 cm, heute: National Trust
+                                            Collection, Attingham Park, Shropshire, Midlands.</note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>Euphrosine klage <del rendition="#s" next="der">dich</del>
+                                        der Wunde dich nicht,</l>
+                                <l>die dir dein loser Bruder versezt.</l>
+                                <l>Siehst nicht, wie er am Schooße der Mutter gelehnt,</l>
+                                <l>mit schlauen Blicken dich höhnt? – kein Mitleid,</l>
+                                <l>keine Mine der Ahndung blickt in dem Auge</l>
+                                <l>der holdlächelnden Mutter. – Beklage dich nicht –</l>
+                                <l>denn du selbst warst nie mehr grazie als iezt.</l>
+                            </lg>
+                        </lg>
+                    </p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u">II. </hi>
+                                <seg type="critical">
+                                    <orig>
+                                        <lb/>
+                                        <rs type="artwork" key="prov_lzq_kvs_lz">Psyche
+                                                wird von Amor am Ende ihrer <lb/> Leiden
+                                                getröstet</rs>. <lb/>
+                                    </orig>
+                                    <note xml:id="nk5z_wc4_y5">Amor und Psyche, 1792, Öl auf
+                                            Leinwand, 29,8 x 23,8 cm</note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>Zarte Psyche, du hast viel der Leiden erduldet,</l>
+                                <l>seitdem dir dein Geliebter entfloh.</l>
+                                <l>Doch sieh! er kehret ja wieder,</l>
+                                <l>schlinget um dich auf’s neue das magische Band:</l>
+                                <l>nicht von Ambrosia, von deinen Thränen</l>
+                                <l>sollen sie träufen – seine goldenen Locken –</l>
+                                <l>Blick auf von der blaßen Ermattung – Er ist’s</l>
+                                <l>mit dem holdblickenden Auge, in der Blüthengestalt. <pb n="8"/>
+                                </l>
+                            </lg>
+                        </lg>
+                    </p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u"> III.</hi>
+                                <lb/>
+                                <seg type="critical">
+                                    <orig>
+                                        <rs type="artwork" key="prov_xtv_4vs_lz">Besuch der
+                                                schönen Phryne <lb/> bey dem Weisen Xenocrates</rs>.
+                                            <lb/>
+                                    </orig>
+                                    <note xml:id="nkj2_hd4_y5">Frine seduce Senocrate, 1794, Öl
+                                            auf Leinwand, 43 x 47,5 cm. </note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>„Wollust bethörnt den menschlichen Sinn.“</l>
+                                <l>so lehrte Xenocrat Athens Jünglinge einst. </l>
+                                <l>Erfahrung hatte zuvor dieß den Weisen gelehrt. –</l>
+                                <l>Doch Phryne, über Herzen zu siegen gewöhnt,</l>
+                                <l>erscheint, im leichten Gewande geschürzt,</l>
+                                <l>zur Stunde der einsamen Ruhe –</l>
+                                <l>die braunlokigen Haare mit Rosen begränzt</l>
+                                <l>beginnt sie den Wettstreit –</l>
+                                <l>Zauber im Auge, Lächeln im Munde,</l>
+                                <l>Verlangendes Athmen des – versuche es nicht,</l>
+                                <l>o Phryne! Du zerstreuest den Weisen,</l>
+                                <l>du besiegest ihn nicht! –</l>
+                            </lg>
+                        </lg>
+                    </p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u"> IV.</hi>
+                                <lb/>
+                                <seg type="critical">
+                                    <orig>
+                                        <rs type="artwork" key="prov_nxg_5vs_lz">Praxiteles
+                                                übergiebt der schönen<lb/> Phryne das Bild des
+                                                Amors</rs>. <lb/>
+                                    </orig>
+                                    <note xml:id="nu5g_pd4_y5">Praxiteles giving Phryne his
+                                            Statue of Cupid, 1794, Öl auf Leinwand, 43,3 x 48,6
+                                            cm.</note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>- So – sprach zur schönen Zauberin Phryne</l>
+                                <l>der Bildner Praxiteles einst:</l>
+                                <l>„Du gabst mir vom Gotte, der Freuden und Schmerzen</l>
+                                <l>nach Launen ertheilt, das geistige Bild –</l>
+                                <l>nimm es nun wieder – im Steine zurück!“ – <pb n="9"/>
+                                </l>
+                            </lg>
+                        </lg>
+                    </p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u">V. </hi>
+                                <lb/>
+                                <seg type="critical">
+                                    <orig>
+                                        <rs type="artwork" key="prov_svc_zvs_lz">Numa Pompilius
+                                                mit der Nymphe<lb/> Egeria.</rs>
+                                        <lb/>
+                                    </orig>
+                                    <note xml:id="nzrt_xd4_y5">Egeria Handing Numa Pompilius His
+                                            Shield, 1794, Öl auf Leinwand, 43 x 47,5 cm. </note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>Ist dieß die hohe ernste Mine der Göttin,</l>
+                                <l>die im einsamen Hain, am leisesprudelnden Quell</l>
+                                <l>der dunkelbeschatteten Höhle, den Curischen Liebling</l>
+                                <l>zu hohen Bestimmungen weihet? –</l>
+                                <l>So sizend empfieng er mit tiefhorchendem Sinn</l>
+                                <l>die höhern Lehren, welche Rom’s rohtapfern</l>
+                                <l>Söhne an Ordnung und Sittlichkeit banden. –</l>
+                                <l>Bist du selbst eine Geweihte, die mit dem Zauber</l>
+                                <l>des Pinsels dich so tief in’s Heiligthum wagtest? –</l>
+                            </lg>
+                        </lg>
+                    </p>
+                    <p>
+                        <lg type="poem">
+                            <head>
+                                <hi rendition="#u">VI.</hi>
+                                <lb/>Auf das <seg type="critical">
+                                    <orig>
+                                        <rs type="artwork" key="prov_x5z_dws_lz">Bildniß der
+                                                <lb/>Dichtersängerin Bandettini.</rs>
+                                        <lb/>
+                                    </orig>
+                                    <note xml:id="ncr3_f24_y5">Bildnis der Stegreifvirtuosin
+                                            Teresa Bandettini-Landucci, 1794, Öl auf Leinwand, 128,5
+                                            x 95 cm.</note>
+                                </seg>
+                            </head>
+                            <lg>
+                                <l>Begeistert stehet sie da – den Wettstreit der Musen</l>
+                                <l>mit den Syrenen besingend – begeistert</l>
+                                <l>in Mine und stellung – <del rendition="#s" next="begeistert">gen</del> begeistert</l>
+                                <l>durch der Farben Zauber im Bilde – <lb/>Bandettini! Kauffman!
+                                        - kann der Euch sieht, <lb/>es weniger seyn? – <pb n="10"/>
+                                </l>
+                            </lg>
+                        </lg>
+                    </p>
+                </div>
+                <div type="writingSession" n="3">
+                    <p>Diese <persName key="prov_cnt_v5g_y5">Frau Bandettini</persName> von
+                                <placeName key="prov_tc1_l24_y5">Lucca</placeName> machte den ganzen
+                            vorigen Winter die <unclear>delicen</unclear> von allen empfindsamen
+                            Seelen und schönen Geistern <placeName key="prov_vkl_ndl_js">Roms</placeName>. Alle, die ehemals die berühmte <persName key="prov_okq_lxg_y5">Corilla</persName> in ihrer Blüthe hörten,
+                            glauben, daß <persName key="prov_cnt_v5g_y5">Bandettini</persName> diese
+                            weit an Leichtigkeit und gewandtheit des Geistes übertreffe. Ich hörte
+                            sie selbst mehrere malen, und obwohl ich sonst kein großer Bewunderer
+                            der Stegreifsängerey bin, so fand ich doch, daß sie alles weit
+                            übertrift, was ich in dieser Art vielfältig hörte. <persName key="prov_wmk_lxw_g5">Frau Angelica</persName> hatte sie sehr viel
+                            um sich, <add place="mBottom">und machte <seg type="critical">
+                                <orig>ihr Portrait</orig>
+                                <note xml:id="nh1m_cvg_y5">Angelika Kauffmann: Bildnis Teresa
+                                        Bandettini-Landucci, 1794, Öl auf Leinwand, Düsseldorf,
+                                        museum kunst palast.</note>
+                            </seg>,</add> da<subst>
+                            <del rendition="#ow">ß</del>
+                            <add>s</add>
+                        </subst>
+                        <subst>
+                            <del rendition="#s">durch</del>
+                            <add>in</add>
+                        </subst> attitude, Karakteristik und Farbe alles vereiniget, was
+                                <persName key="prov_wmk_lxw_g5">Angelica</persName> je gemacht hat.<lb/>
+                        <persName key="prov_cnt_v5g_y5">Diese Frau</persName> war ehedem eine
+                            Tänzerin, der weder ihre Figur, noch die Geschicklichkeit ihrer Beine
+                            großen Beyfall vom Publikum zuzogen. – </p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

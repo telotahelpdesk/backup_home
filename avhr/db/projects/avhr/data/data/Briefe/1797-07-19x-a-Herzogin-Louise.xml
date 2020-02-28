@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lcn_1jg_h1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Louise von Anhalt-Dessau. Dessau [?], 19. Juli 1797. Mittwoch]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 308: Eintrag 19. Juli 1797: „Ich bekam noch
+                    von Olb[erg] ein Bothen und Einlagen, wo H[IRT] MIT ZWO KALTEN WORTEN MIR SAGT,
+                    ER WÜRDE NACHMITTAG AUCH IN L[UISIUM] SEIN. [...] wenig, nach 3 uhr, [...]
+                    meldete Sonntag [= der Kutscher der Fürstin] mir H[irt] UND ICH SAHE IHN WIEDER.
+                    ABER GOTT UNBESCHREIBLICH WAR MIR DES WIEDERSEHENS EINDRUK. ES WAR FREUDE WOHL
+                    ABER MEHR WEMUTH ALS FROHEIT - SEINE REDEN SEINE BLIKE WARENS NOCH ABER ÄLTER
+                    FAND ICH IHN GEWORDEN; das Haar war vergangen von der Stirn UND ALS ER MIR
+                    FOLGENDS SAGTE, DIE RITZ SEI SEINE FREUNDINN UND ER IHR FREUND, DA ERWIDERTE ICH
+                    MANCHES wie das doch unmöglich sey, daß beyde in ein Herz wohnen könten. ER
+                    SAGTE ZWAR AUF VERSCHIEDENE WEISE und dann wurde Verschiedenes geredet. ER BLIEB
+                    HERZLICH UND ICH LIEBE ZUSEHR, UM WANN SEINE GEGENWART MICH BEZAUBERT ABBRECHEN
+                    ZU KÖNNEN."“</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_qht_zxr_js">Dessau</placeName>
+                    <date when="1797-07-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Hirts
+                        Kursteilnehmerin in Rom, Freundin Hirts)</persName>
+                    <placeName key="ediarum_gxf_pjg_h1b">Wörlitz - Luisium (Sommerschlösschen der
+                        Herzogin Louise von Anhalt-Dessau)</placeName>
+                </correspAction>
+                <note>Die in Versalien wiedergegebenen Textpassagen sind im Tagebuch der Fürstin
+                    chiffriert.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

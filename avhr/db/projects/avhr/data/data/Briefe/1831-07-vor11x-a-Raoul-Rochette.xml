@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_iqk_lnm_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Désiré Raoul-Rochette. Berlin, vor 11. Juli 1831</title>
+                <title>]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Raoul-Rochette an Karl August <persName key="prov_g5d_v2p_5r">Böttiger</persName>, Paris, 11. Juli 1831: "Ich habe von Herrn Hirt einen
+                    Brief erhalten, der mir aufgrund der Bezeugung seiner Achtung und seines
+                    Interesses, die ich darin finde, viel Vergnügen bereitet hat. [...] Seit
+                    Längerem habe ich die Wahl getroffen, den Ratschlag, ihm die Fortsetzung meines
+                        <bibl sameAs="ed_xvk_4fs_ngb">Werks</bibl> zu schicken, den Sie mir gegeben
+                    hatten, zu befolgen; und ich war bezaubert, zu sehen, dass seine gegenwärtigen
+                    Auffassungen mit den meinigen so gut übereinkamen. Bitten Sie ihn, mir <bibl sameAs="ed_w1v_wbn_ngb">seine Kritik</bibl>, die ich noch nicht kenne,
+                    zuzuschicken, und sagen Sie ihm, dass mir nicht die Kritik, wenn sie mit Wissen
+                    im wahren Interesse der Wissenschaft ausgeführt wird, Kummer bereitet, sondern
+                    vielmehr dieses System der Herabsetzung, dieser Anfall auf Personen, dieses
+                    schändliche letzte Hilfsmittel des Hasses, diese traurige Begabung der <persName key="ed_bdq_q42_cy">Panofkas</persName> und der <persName key="ed_vys_btw_nw">Köhlers</persName>. Ich weiß, dass etwas Derartiges von
+                    einem solchen Gelehrten wie Herrn Hirt nicht zu befürchten ist, und deshalb
+                    werde ich, weit davon entfernt, mich über seine Kritiken zu beklagen, immer
+                    davon profitieren können und immer dafür dankbar sein" (dt. Übersetzung des
+                    franz. Originalbriefes; zitiert nach: Karl August Böttiger Briefwechsel mit
+                    Désiré Raoul-Rochette. Hrsg. u. komm. von René Sternke und Klaus Gerlach.
+                    Berlin, Boston 2018, Brief Nr. 43, S. 299).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1830-10-06" notAfter="1831-07-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_m2j_ggy_zy">Raoul-Rochette, Désiré (1789-1854) (franz.
+                        Klassischer Archäologe)</persName>
+                </correspAction>
+                <note>Hirts Brief ist nach dem Schreiben Raoul-Rochettes an Böttiger vom 6. Oktober
+                    1830 (siehe zu 1829-04-vor14x-v-Raoul-Rochette) und vor dem Brief desselben an
+                    Böttiger vom 11. Juli 1831 einzuordnen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

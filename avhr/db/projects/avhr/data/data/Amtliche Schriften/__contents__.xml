@@ -1,0 +1,8 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/data/Amtliche%20Schriften" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:04+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <subcollection name="Museumskommission" filename="Museumskommission"/>
+    <subcollection name="Akademie%20der%20K%C3%BCnste" filename="Akademie der Künste"/>
+    <subcollection name="Bauakademie" filename="Bauakademie"/>
+    <subcollection name="Akademie%20der%20Wissenschaften" filename="Akademie der Wissenschaften"/>
+    <subcollection name="Sonstiges" filename="Sonstiges"/>
+</collection>

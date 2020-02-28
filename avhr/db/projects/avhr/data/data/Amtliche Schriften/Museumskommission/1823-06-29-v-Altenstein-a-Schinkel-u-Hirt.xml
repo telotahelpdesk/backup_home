@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_y4n_rgd_wjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    29. Juni 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 138r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_otc_wmd_wjb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, von Schreiberhand. Altensteins
+                    Unterschriftskürzel findet sich unter dem nachfolgenden Schreiben an den königl.
+                    Hofmarschall Freiherrn von Maltzahn auf demselben Blatt. - Bearbeitungsvermerk
+                        "<hi rendition="#u">citissime</hi>."; Mundierungs- und Absendevermerk "den
+                    30/6."; Aktenvermerk auf dem oberen Rand: "ad n°. 1,282 &amp; 1283 B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl. Geh: Ober-Bau-Raths, / Herrn <hi rendition="#u">Schinkel</hi> / Hochwohlgeboren / und / des Königl. Hofraths, Herrn
+                                <hi rendition="#u">Hirt</hi>. / Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 29<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Juny 1823.</dateline>
+                </opener>
+				<p>Des <persName key="prov_bxf_jt5_fv">Königs-Majestät</persName> haben den Hofmarschall,
+                    wirklichen Geheimen-Rath, Herrn Freiherrn von <persName key="ed_klc_r1s_k3b">Maltzahn</persName>, zu beauftragen geruht, alle Säle und Zimmer im
+                        <placeName key="ediarum_anp_pjd_wjb"><seg type="comment">
+                            <orig>Anspachschen Palais</orig>
+                            <note xml:id="nmlb_skd_wjb">Das Palais des preußischen Königshauses in
+                                der Wilhelmstraße diente, nach vorherigen anderweitigern Nutzungen,
+                                1790 bis 1806 als Wohnung des letzten Markgrafen Alexander von
+                                Anspach-Bayreuth. 1812 wurde das Luisenstift dorthin verlegt, in
+                                einzelnen Räumen waren Malerateliers und eine Musikschule
+                                untergebracht. Seit 1823 diente es als Aufstellungsort eines Teils
+                                der Sollyschen Gemäldesammlung, bis es 1830 Prinz Albrecht, der
+                                jüngste Sohn Friedrich Wilhelms III., übernahm und durch Schinkel
+                                umbauen ließ.</note>
+                        </seg></placeName>, die nicht unumgänglich zu andern Bestimmungen nothwendig
+                    sind, zur Aufnahme des Theils der vormaligen <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs>, welcher für die <rs type="artwork" key="prov_dmb_fmd_wjb">König<ex>lichen</ex> Schlößer</rs>
+                    bestimmt ist, zu überweisen, und nach einer mir so eben zugegangenen
+                    Benachrichtigung des Herrn <persName key="ed_klc_r1s_k3b">Hofmarschalls</persName> hat derselbe bereits den Kastellan des genannten
+                        <placeName key="ediarum_anp_pjd_wjb">Palais</placeName> angewiesen, zu jenem
+                    Zwecke vorläufig sogleich die, zwischen den beiden großen Sälen in der 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Etage nach dem Garten zu
+                    liegenden, drei Zimmer einzuräumen.</p>
+                <p>Ewr Hochwohl- und Wohlgeboren eile ich hiervon mit dem Ersuchen ergebenst zu
+                    benachrichtigen, jene Zimmer gefälligst in Augenschein nehmen und Sich wegen
+                    deren baldiger Einräumung an den Kastellan des Palais gefälligst wenden,
+                    hiernächst aber auch für die gute und sichere Aufstellung der Gemälde <pb n="2"/> Sorge tragen laßen zu wollen.</p>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

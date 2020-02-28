@@ -1,0 +1,36 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/web/resources/xslt" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="content-grid.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="content-grid.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="content.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="content.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="kritischerText.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="kritischerText.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="textFaksimile.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="textFaksimile.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="transcr-teaser.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="transcr-teaser.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="transcription.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="transcription.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="html.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:41+01:00" modified="2020-02-28T10:18:41+01:00" filename="html.xsl" mimetype="application/xslt+xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="lesetext.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:42+01:00" modified="2020-02-28T10:18:42+01:00" filename="lesetext.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="datum.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:42+01:00" modified="2020-02-28T10:18:42+01:00" filename="datum.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="alleTexte.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:42+01:00" modified="2020-02-28T10:18:42+01:00" filename="alleTexte.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="header.xsl" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:42+01:00" modified="2020-02-28T10:18:42+01:00" filename="header.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>

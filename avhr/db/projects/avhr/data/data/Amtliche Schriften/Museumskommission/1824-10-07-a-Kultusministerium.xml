@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sgk_rfq_hkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Ministerium für Geistliche, Unterrichts- und
+                    Medizinalangelegenheiten. Berlin, 7. Oktober 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 96 r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-10-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_ivw_kzp_hkb"/>
+                </correspContext>
+                <note>Egh. von Hirt verfasst. - Empfängerbemerkungen: "prs: d. 7/10 24. / Herr GORR
+                    v Harlem / 73."; "Coref. Hr. Diterici."; Aktenvermerk auf dem oberen Rand
+                    "15073", auf dem unteren Rand "U. A. 8/10. / Berlin Wiss S N 114 V III"; Vermerk
+                    unter dem Text: "Ad acta, dan[?] zu N. 2269 BJ das Erforderliche verfügt ist. /
+                    [gez.] v Harlem / 8/1 25."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Unter dem 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Sept<ex>ember</ex> machet
+                    mir ein hohes <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi> auf meine Eingabe bekannt, daß ich meine für
+                    den Dienst des Königs zu zwey verschiedenen Malen gemachten Auslagen aus den zur
+                    Einrichtung des <hi rendition="#aq"><rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs></hi> bestimmten Geldern wieder erhalten könne: mit der
+                    Bedingung jedoch, daß ich hiezu eine vollständige mit Belegen versehene <hi rendition="#aq">Liqu<supplied cert="high">id</supplied>ation</hi>
+                    einreichte.</p>
+                <p>Belege aber zu einer solchen <hi rendition="#aq">Liquidation</hi> habe ich nicht,
+                    und ich kann nur mein Wort verbürgen, eine solche Auslage gemacht zu haben. Ich
+                    muß es also einem hohen <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi> anheim stellen, ob ich, die Formalitäten in
+                    solchen Fällen nicht kennend, meiner Auslagen verlustigt gehen soll.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 7<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> October 1824.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

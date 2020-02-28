@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fbf_zdf_2z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl Philipp Moritz. Berlin, 1789]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt: 1789-a-Lavater: "Die erste Nachricht, daß etwas von m<ex>einen</ex>
+                    Aufsäzen in <placeName key="prov_ycp_cpr_js">Berlin</placeName> erschienen sey,
+                    war die Ihrige, u. erst lezten Posttag schrieb mir
+                                <persName key="prov_j22_nb3_g5">Moritz</persName>
+                        darüber"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_j22_nb3_g5">Moritz, Karl Philipp (1756-1793)
+                        (Schriftsteller, Prof. in Berlin)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1789-01-01" notAfter="1789-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Zur Datierung: Die Datierung ist abhängig von der des Bezugsbriefes an
+                    Lavater. ???</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bgx_4qg_h1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Johann Friedrich Ritz. Wörlitz, 28. Juli 1797. Freitag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 311: Eintrag 28. Juli 1797: „da trat
+                    unerwartet Olberg [= Arzt in Dessau] ein, der mit Rindfleisch [= Bediensteter in
+                    Dessau] gekommen war, um von H[irt] ein Brief für den Ritz sich außzubitten.
+                    H[irt] kam und dann nach einer halben Stunde ging Olb[erg]“</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="ediarum_gxf_pjg_h1b">Wörlitz - Luisium (Sommerschlösschen der
+                        Herzogin Louise von Anhalt-Dessau)</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_yjw_krg_h1b">Ritz, Johann Friedrich (1755-1809) (Kammerdiener,
+                        später Geh. Kämmerer des preuß. Königs Friedrich Wilhelm II., seit 1782
+                        verheiratet mit dessen Mätresse Wilhelmine Enke (Gräfin Lichtenau), April
+                        1796 Scheidung)</persName>
+                    <placeName key="prov_lh2_hxd_2v">Potsdam</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

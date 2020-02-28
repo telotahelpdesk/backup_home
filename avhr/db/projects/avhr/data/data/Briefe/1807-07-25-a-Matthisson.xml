@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gkt_4kf_1w">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich von Matthisson. Berlin, 25. Juli 1807.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Anhaltische Landesbücherei Dessau, Wissenschaftliche Bibliothek
+                            und Sammlungen</institution>
+                        <collection>Matthisson Nachlass</collection>
+                        <idno>
+                            <idno type="shelfmark">MN Mappe 12</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1807-07-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                </correspAction>
+                <note>Der Briefschluss mit der Unterschrift wurde vermutlich abgeschnitten.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 25<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Jul. 1807.</dateline>
+                </opener>
+                <p>Wie ich aus <seg type="comment">
+                        <orig>Ihrer Beylage</orig>
+                        <note xml:id="nwry_ztf_1w">Brief erschlossen: Von Matthisson,
+                            1807-07-vor25.</note>
+                    </seg> ersehe, haben Sie, mein lieber M<ex>atthisson</ex>, die Gefälligkeit
+                    gehabt, mir den <persName key="ed_s3n_x1n_yv">Buchhändler Voss</persName> in
+                        <placeName key="prov_lxk_b4b_z5">Leipzig</placeName> für <bibl sameAs="prov_e1l_pjv_pv">mein architektonisches Werk</bibl> vorzuschlagen.
+                    Ich bin hiezu keinesweges abgeneigt. Indeßen da ich denselben nicht näher kenne,
+                    so gestehe ich, daß ich mich nicht gerne unmittelbar an ihn wenden möchte, ehe
+                    ich nicht ungefähr wüßte, ob er sich auf ein solches Unternehmen einlaßen
+                    dürfte. Die Frage ist also: ob Sie vielleicht denselben persönlich kennen, und
+                    in diesem Falle vorläufige Erkundigungen einziehen wollten? - Sie könnten
+                    ungefähr die Wendung gebrauchen, daß ich mein architektonisches Werk fertig
+                    habe, u. hiefür <seg type="comment">
+                        <orig>einen Verleger suche</orig>
+                        <note xml:id="nwwn_54f_1w">Hirts „Die Baukunst nach den Grundsätzen der
+                            Alten“ erschien 1809 in der Realschulbuchhandlung in Berlin.</note>
+                    </seg>, da ich die Idee des Selbstverlages aufgegeben hätte. Meine Bedingungen
+                    würden zwar äußerst billig, aber das Werk doch nicht geringe Unkosten
+                    verursachen. Der Kupfertafeln - jede 12. zoll hoch, und neunthalbzoll breit -
+                    wären an der Zahl fünfzig, wofür sich meine baaren Auslagen auf 1500.
+                        R<ex>eichs</ex>th<ex>aler</ex> beliefen, obwohl das meiste nur in Umrißen
+                    gestochen ist. Der Text, wenn das Buch in 4<hi rendition="#sup">
+                        <hi rendition="#u">to</hi>
+                    </hi>, und mit lateinischen Lettern, so wie <bibl sameAs="ed_pzc_mtf_yv">mein
+                        Bilderbuch</bibl> gedruckt würde, etwas über zwey <seg type="comment">
+                        <orig>Alphabete</orig>
+                        <note xml:id="nhtb_xpv_k1b">Vgl. <ref target="prov_br2_k22_qv/#nqmj_ndk_qv"/>
+                        </note>
+                    </seg> betragen <add place="superlinear">könnte.</add> Die Kupfer würden
+                    besonders gebunden, zugleich mit der Erklärung jeder Kupferplatte, die für jedes
+                    Kupfer eine Seite <del rendition="#s">Erklär</del> in Folio betragen würde, daß
+                    also 25. gedruckte Folioblätter zwischen den Kupfern eingebunden seyn würden.
+                        <pb n="2"/>
+                </p>
+                <p>Die lezte Correctur müßte ich auf jedenfall selbst besorgen, wo auch immer das
+                    Manuscript gedruckt würde. Das Honorar für jeden Bogen wäre drey Fred. d'or.
+                    Überhaupt würde ich für das ganze Manuscript mich mit 150 Fred. d'or, <del rendition="#s">und</del> nebst Bezahlung der Kupfer von 1500. Reichsthaler -
+                    begnügen. Sie wißen, daß ich das Werk nicht des Gewinnes wegen schrieb, sondern
+                    einzig fordere ich eine solche Summe, um einige Entschädigung für meine vielen
+                    Auslagen - die bey einem [!] solcher Arbeit nicht zu berechnen sind<subst>
+                        <del rendition="#ow">,</del>
+                        <add place="across">-</add>
+                    </subst> zu erhalten. </p>
+                <p>Das Werk führt den einfachen Titel: <del rendition="#s">Xxxx</del>
+                    <hi rendition="#aq">Die Baukunst nach den Grundsätzen der Alten</hi>. - Der
+                    Verleger könnte meinetwegen den Text auch in folio, in Größe der Kupferplatten,
+                    anstatt in 4<hi rendition="#sup">
+                        <hi rendition="#u">to</hi>
+                    </hi> drucken laßen. Dieß würde mir gleichgültig seyn. Indeßen soll es kein
+                    Prachtwerk bloß für Biblioteken, und reiche Privatleute werden. Der Text muß nur
+                    mit guten Lettern, und starkem Papier; so wie auch die Kupfer, abgedruckt
+                    werden. Denn das Werk ist bestimmt in die Hände vieler zu kommen, und besonders
+                    soll es jedem Architekten, u. Zöglinge der Architektur das werden, was der <seg type="comment">
+                        <orig>Codex der Landesgeseze</orig>
+                        <note xml:id="nm3g_xpf_1w">Z. B. für Preußen die „Gesetzsammlung für die
+                            Königlichen Preussischen Staaten“; der „Codex Saxonicus“ für das
+                            Königreich Sachsen oder für Bayern das „bayerische Landrecht oder Codex
+                            Maximil. bav. civ.“ </note>
+                    </seg> für den Juristen, und <bibl sameAs="ed_w2r_kpf_1w">die Bibel</bibl> für
+                    den Theologen sind. Die Architektur soll hier zum erstemal auf ihre
+                    ursprünglichen, ewigen, und unwandelbaren Grundsäze zurückgebracht erscheinen.
+                        <pb n="3"/> Das Werk wird übrigens auch für jeden Archæologen, u. Freund der
+                    Kunst wichtig seyn. Der Verleger erhält also ein Buch, das <add place="superlinear">nicht</add> nur für eine gewiße Zeitepoche paßt, u.
+                    verkäuflich wäre, sondern welches (wenn mich nicht die höchste Eigenliebe für
+                    mein Kind blendet) für alle Jahrhunderte das bleiben muß, was es für die
+                    gegenwärtige Zeit ist. Die Kupferplatten sind so eingerichtet, daß sie auch für
+                    die Übersezung in jede andere Sprache taugen. Besonders wünschte ich sehr, daß
+                    das Werk bald <seg type="comment">
+                        <orig>in's französische übersezt</orig>
+                        <note xml:id="nivt_1rf_1w">Eine französische Übersetzung erschien
+                            nicht.</note>
+                    </seg> würde. Es müßte aber unter meinen Augen geschehen. Ich würde für eine
+                    solche Bemühung nichts fordern, und der Buchhändler hätte hierwegs bloß die
+                    Übereinkunft mit dem Übersezer zu treffen. [<ex>Schluss fehlt</ex>]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

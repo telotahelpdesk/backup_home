@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_g2k_xmt_xy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Paul Mila an den Kronprinzen Friedrich Wilhelm (IV.) von Preußen. Berlin,
+                    29. Juni 1837.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>BPH</collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 50J Nr. 499, Bl. 52r</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_zb3_klg_f5">Mila, Auguste Paul Emile (gen. Paul) (1798-1865)
+                        (Historien- und Porträtmaler, unehelicher Sohn von Hirt, galt als Sohn von
+                        Wilhelm (de) Mila und Charlotte Savary, (Halb-)Bruder von Maximilian
+                        Mila)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1837-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_rrj_mk5_fv">Preußen, Friedrich Wilhelm (IV.) von (1795-1861)
+                        (Kronprinz, 1840-1861 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der Brief ist nicht datiert. Hirt starb am 29. Juni
+                    1837.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute>Durchlauchtigster Kronprinz <lb/>Allergnädigster Kronprinz und
+                        Herr!</salute>
+                </opener>
+                <p>Euer Königlichen Hoheit nehme ich mir die Freiheit unterthänigst anzuzeigen, daß
+                    der Hofrath Hirt heute Mittags 12 ½  Uhr an den Folgen eines Schlagflusses
+                    verschieden ist.</p>
+                <closer>
+                    <salute>In tiefster Unterwürfigkeit ersterbe ich <lb/>Euer Königlichen
+                        Hoheit</salute>
+                    <salute>aller unterthänigster</salute>
+                    <signed>Paul Mila. Maler.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

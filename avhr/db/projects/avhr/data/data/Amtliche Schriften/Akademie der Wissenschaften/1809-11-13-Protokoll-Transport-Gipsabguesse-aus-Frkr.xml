@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kfz_tds_5hb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Protokoll der Akademie der Wissenschaften, betreffend den Transport der
+                    Gipsabgüsse aus Frankreich. Berlin, 13. November 1809 (Hirt ist
+                    Mitunterzeichner)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-XV-8a, Bl.
+                            52r-53r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Von Schreiberhand, mit egh. Unterschriften</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ffk_snl_cv">Uhden, Wilhelm (1763-1835) (preuß. Beamter und
+                        Diplomat, Gesandter beim Vatikan, Archäologe, Mitbegründer der Berliner
+                        Universität, 1790-1802 in Rom, Freund Georg Zoegas)</persName>
+                    <persName key="ed_kjn_mcz_vv">Gerhard, Carl Abraham (1738-1821) (preuß.
+                        Mineraloge, Bergbeamter, 1770 Gründer der Bergakademie Berlin, 1779 preuß.
+                        Geh. Bergrat mit den Rechten eines Finanzrates, seit 1786 preuß. wirkl.
+                        Finanzrat, seit 1768 Mitglied der Berliner Akademie der Wissenschaften,
+                        1805-1812 Direktor der Physikal. Klasse der Akademie; seit 1770 Mitglied der
+                        Leopoldina, seit 1783 Mitglied der Gesell. Naturforschender Freunde zu
+                        Berlin)</persName>
+                    <persName key="ed_gll_v5z_ngb">Castillon, Friedrich Adolf Maximilian Gustav von
+                        (Frédéric de) (1747-1814) (1797 Prof. für Philosophie an der Ritterakademie
+                        in Berlin, 1786 OM der Akademie der Wissenschaften zu Berlin, 1801-1812
+                        Direktor der Philosophischen Klasse der Akademie, Übersetzer,
+                        Freimaurer)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-11-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_znn_dfc_b1b">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische</orgName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_b2c_rnm_pgb">Napoleonischer Kunstraub</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Zufolge des in dem Schreiben des p. <orgName key="ed_jh3_2fc_b1b">Directorii</orgName> der
+                        K<ex>öni</ex>gl<ex>ichen</ex> Akademie der Wißenschaften vom 6. Aprill
+                        d<ex>ieses</ex> J<ex>ahres</ex> geschehenen Antrages <lb/>über den itzt
+                    negirten Transport der von der Französischen Regierung der <orgName key="ed_znn_dfc_b1b">Akademie</orgName> zugedachten Gypsabdrücke von
+                    Statuen, Münzen und Gemmen zu conferiren, <lb/>hat der unterzeichnete <persName key="prov_ffk_snl_cv">Staatsrath</persName> bei der <orgName key="ed_xdh_drs_5hb">Section des Cultus und öffent<ex>lichen</ex>
+                        Unterrichts</orgName> die <seg type="comment">
+                        <orig>beiden Hn: Directoren</orig>
+                        <note xml:id="nsbd_grs_5hb"><persName key="ed_gll_v5z_ngb">Castillon</persName> und <persName key="ed_kjn_mcz_vv">Gerhard</persName></note>
+                    </seg> und H: Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName> der in der
+                    genannten Angelegenheit vielfach zu Rathe gezogen worden, zu einer Conferenz
+                    eingeladen, um über die Maasregeln die nunmehr <seg type="comment">
+                        <orig>in Ansehung des Transports jener Gypsabdrücke</orig>
+                        <note xml:id="ni21_krs_5hb">Vgl. auch Hirts Schreiben vom 30.03.1808 an das
+                            Direktorium der Akademie der Wissenschaften</note>
+                    </seg> zu ergreifen sind, zu besprechen.</p>
+                <p>H: Director <persName key="ed_gll_v5z_ngb">Castillon</persName> war Unpäßlichkeit
+                    wegen verhindert, gegenwärtig zu sein, ihm wird aber das Conferenz-Protocoll zur
+                    Einsicht und Unterschrift zugeschickt werden.</p>
+                <p>Nachdem in Ueberlegung genommen, daß die <orgName key="ed_znn_dfc_b1b">Akademie</orgName> von Anfang an jede durch numerairen Werth zu bestimmende
+                    Entschädigung für alle die von <placeName key="prov_ycp_cpr_js">Berlin</placeName> weggefürten<ex>[!]</ex> Kunstwerke deren Aufsicht und
+                    Unterhaltung die Akademie gleichsam als ihr Eigenthum anvertrauet war, abgelehnt
+                    hat und darauf angetragen worden, eine aber vollständige Sammlung von
+                    Gypsabdrücken alter Statuen, Relifs<ex>[!]</ex> Broncen u.s.w. des <placeName key="prov_fvj_2t1_5v">Musée Napoléon</placeName> als eine der Academie
+                    würdigere Entschädigung zu erhalten; daß dieser Antrag auch von S<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Majestät dem <persName key="prov_ilt_bml_tv">Kaiser</persName> der Franzosen angenommen worden und
+                    also ein jeder etwa noch in Gelde anzurechnenden Entschädigung nunmehr
+                    abstrahirt werden müßte, - da aber ferner bewirkt worden daß die, auf das
+                        Franz<ex>ösische</ex> Kaiserl<ex>iche</ex> Decret wegen Auslieferung der
+                    gedachten Gypsabdrücke an die Königl<ex>iche</ex><orgName key="ed_znn_dfc_b1b">
+                        Academie</orgName>, <pb n="2"/> wirklich durch H. <persName key="ed_z1g_hls_dhb">Denon</persName> eingepackten Sachen, nach den darüber
+                    angefertigten und eingesandten Listen auch nach der Anzeige des Hrn. <persName key="prov_b12_lbh_3v">Alexandre von Humboldt</persName> den Erwartungen und
+                    den Anträgen der Akademie ganz und gar nicht entsprechen, im Gegentheil, die 46.
+                    davon vollgepackten Kisten Dinge enthalten, von denen sehr viele, wie z. B. eine
+                    Menge nach der Natur geformter Hände und Beine, und neue Buesten u.
+                        d<ex>er</ex>gl<ex>eichen</ex> m<ex>ehr</ex> gar nicht der Mühe und der
+                    Kosten des Transports werth sind, so vereinigte man sich dahin, auf Mittel zu
+                    denken, wie da keine Aenderung in der Art der Entschaedigung zu hoffen ist, doch
+                    wenigstens zum Vortheil und Nutzen der Akademie der Sinn des gegebenen Worts des
+                        franz<ex>ösischen</ex>
+                    <persName key="prov_ilt_bml_tv">Kaisers</persName> ganz erfüllt würde; der nach
+                    einer durch Hr. Ober Cons<ex>istorial</ex> Rath <persName key="ed_o2v_153_yfb">Ermann</persName> gemachter Anzeige ist. <lb/>que les ordres sont donnés a
+                        M<hi rendition="#sup"><hi rendition="#u">r</hi></hi>
+                    <persName key="ed_z1g_hls_dhb">Denon</persName> pour arranger le tout selon la
+                    demande de l'academie. <lb/>als vollkommen officiell angesehen werden und das
+                    deshalb erlaßene Decret des franz<ex>ösischen</ex>
+                    <persName key="prov_ilt_bml_tv">Kaysers</persName> ist nicht hier mitgeschicket
+                    worden. Allein es scheint nöthig deßen wörtlichen Inhalt genau zu wißen, um
+                    darauf einen neuen Antrag zu gründen, durch welchen die gewünschten
+                    Gyps-Abdrücke aus den franz<ex>ösischen</ex> Muséen in ihrer Anzahl und innerm
+                    Werthe zu einer würdigen Entschädigung der <orgName key="ed_znn_dfc_b1b">Akademie</orgName> für den Verlust ihrer Kunstwerke und Antiquitaeten,
+                    erhoben würden.</p>
+                <p>Man hält daher für rathsam <pb n="2"/></p>
+                <p>1) durch das <orgName key="ed_ohq_2ss_5hb">Departement der auswärtigen
+                        Angelegenheiten</orgName> die K<ex>öni</ex>gl<ex>iche</ex> Gesandschaft in
+                        <placeName key="prov_tnd_dt1_5v">Paris</placeName> beauftragen zu laßen, das
+                    in Rede stehende Decret des franz<ex>ösischen</ex>
+                    <persName key="prov_ilt_bml_tv">Kaisers</persName> in einer eidimirten Kopey zu
+                    erhalten, und an die <orgName key="ed_znn_dfc_b1b">Akademie der
+                        Wißenschaften</orgName> zu senden. <lb/>2) die Absendung der hieher
+                    bestimmten <persName key="prov_hjb_ykd_sv">Mionnetschen</persName>
+                    <rs type="artwork" key="prov_a4v_wzz_ghb">Münz-Abdrücke</rs> und
+                    Schwefel-Abdrücke von geschnittenen Steinen deren Transport nicht große Kosten
+                    verursachen kann, durch die Gesandschaft beschleunigen zu laßen. <lb/>3) HErrn
+                        <persName key="prov_b12_lbh_3v">Alexander v Humboldt</persName> anzuzeigen,
+                    daß man die Miethe für das nöthige Magacin zur Aufbewahrung der übrigen Kisten
+                    noch bis auf weitere Verfügung fortzalen werde. <lb/>4) den unterzeichneten
+                        <persName key="prov_ffk_snl_cv">Staats Rath</persName> aufzutragen, der
+                        <orgName key="ed_xdh_drs_5hb">Section des öffentl<ex>ichen</ex>
+                        Unterrichts</orgName> zu <placeName key="ed_rhx_dhd_cw">Koenigsberg</placeName> diese Vorschläge vorzutragen und zugleich
+                    anzufragen: ob es nach Eingang des obgenannten franz<ex>ösischen</ex>
+                        Kaiser<ex>lichen</ex> Decrets der Academie erlaubt sein dürfte, ihre
+                    Antraege in der obangezeigten Art in Ansehung der als Entschädigung zu
+                    erwartenden Gypsabdrücke bei der Persohn des Franz<ex>ösischen</ex>
+                    <persName key="prov_ilt_bml_tv">Kaysers</persName> einzureichen.</p>
+                <p>Nachdem das Protokoll vorgelesen und auf Befragen nichts weiter für jetzt zu
+                    erinnern befunden worden, so ist daßelbe geschloßen und von den Anwesenden und
+                    von H: <persName key="ed_gll_v5z_ngb">Castillon</persName> eigenhändig
+                    unterschrieben. <lb/>g. —r.</p>
+				<closer>
+					<salute/>
+					<signed><persName key="prov_ffk_snl_cv">Uhden</persName>
+                        <lb/><persName key="ed_gll_v5z_ngb">Castillon</persName>
+                        <persName key="ed_kjn_mcz_vv">Gerhardt</persName>
+                        <persName key="prov_ztg_3sx_sr">Hirt</persName>.</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

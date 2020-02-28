@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_aqs_fjf_f5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 17. August 1798. Freitag.</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Archiv</repository>
+                        <collection>Hirt</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 9</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">NTM 1798, Bd. 3, S. 211-213, mit redaktionellen
+                            Eingriffen Böttigers: "Berlin, den 17. August 1798." [Sie wissen ....
+                            nichts vorzügliches."]. - Der Nachtrag am Schluss des Briefes befindet
+                            sich auf Bl. 3 quer auf dem linken Rand. (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys
+                        (1759-1837)</persName>
+                    <placeName key="o?">Berlin</placeName>
+                    <date when="1798-08-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_nqf_xhg_vz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 17<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Aug. 98.</dateline>
+                </opener>
+                <p>Je länger man seine Buße verschiebt, desto schwerer wird der Entschluß, sein <hi rendition="#aq">Peccavi</hi> zu bekennen. Allein <seg type="critical">
+                        <orig>wenn <hi rendition="#u">ein</hi> reumüthiger Sünder dem Herrn
+                            angenehmer ist, als 99. Gerechte</orig>
+                        <note xml:id="nwdj_nfq_3v">NT, Lukas 15, 7.</note>
+                    </seg>, so gebe der Himmel, daß dieses glückliche Loos mich auch treffe: und Sie
+                    gleich dem Herrn mit mir Sünder verfahren. Vor’s erste also Abtragung einer
+                    meiner vielen Schulden durch Übersendung <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_yst_rl3_3v">des mir anvertrauten Buches</bibl>
+                        </orig>
+                        <note xml:id="nidd_l1g_vz">Siehe 1798-02-10-a-Böttiger mit
+                            Sachkommentar.</note>
+                    </seg>, und der mir anvertrauten Schriften, welches Sie alles durch Herrn v.
+                        <persName key="prov_dln_f3z_x5">Egloffstein</persName> erhalten werden. Noch
+                    habe ich meinen <seg type="comment">
+                        <orig>Aufsaz über die Encaustik</orig>
+                        <note xml:id="nm1z_t1g_vz">Zu Hirts Vortragsreihe "Ueber die verschiedenen
+                            Arten zu mahlen der Alten" in der Akademie der Wissenschaften vgl.
+                            1798-02-10-a- Böttiger mit Sachanmerkung.</note>
+                    </seg> nicht fertig geschrieben, theils weil ich nicht gerne <del rendition="#s" next="eher">vo</del>eher damit erscheinen möchte, bis Sie nicht selbst Ihren
+                    Zweck in dieser Materie vollführt hätten; und zweytens weil mich andere, und zum
+                    theil ganz fremde Geschäfte <del rendition="#s" next="seither">mich</del>
+                    seither occupirten. Unter diese gehört vorzüglich der <seg type="critical">
+                        <orig>Entwurf</orig>
+                        <note xml:id="nxm2_nhq_3v">Vgl. u.a. Hirts Schreiben an Berger und Genelli,
+                            14. März 1798 (GStA PK, I. HA, Rep. 76 alt III, Nr. 40, fol. 25-26);
+                            Anmerkungen Hirts zu den Bemerkungen Genellis über die Redakzion des
+                            Rapports der Revisions-Commission, 17. Juni 1798 (GStA PK, I. HA, Rep.
+                            76 alt III, Nr. 40, fol. 9-12).</note>
+                    </seg>, welchen ich zur neuen Organisation der <orgName key="ed_u5s_1fc_b1b">Academie der Künste</orgName> machte. Die Sache war der vielen Details
+                    wegen eine Hundearbeit. Sie ist nun seit geraumer Zeit in den Händen des
+                        <persName key="prov_gtp_ppt_fv">Ministers</persName>, aber der Himmel weiß,
+                    ob je etwas zur Ausführung kommen wird: obwohl ich mir vorzüglich dabey zum
+                    Augenmerk machte, nichts vorzuschlagen, was nicht sogleich in Wirkung gesezt
+                    werden könnte. <pb n="2"/>
+                </p>
+                <p>Eine andere nicht minder mühevolle, und undankbare Beschäftigung hatte ich mit
+                    den Denkmälern, und Graburnen der alten nordischen Völker. Ein Ungefähr warf
+                    mich in dieß sterile Feld hinein: und seit mehrern Monaten war mein Geist mit
+                    nichts anderm, als Gothen, Herulern, Wandalen, Slawen, Wenden, Preußen und
+                    Letten occupirt. Ich schrieb eine lange <bibl sameAs="prov_osd_djq_3v">Dissertation</bibl> hierüber, welche ich in 14. Tagen in der <orgName key="ed_znn_dfc_b1b">Academie der Wißenschaften</orgName>
+                    <seg type="critical">
+                        <orig>vorlesen werde</orig>
+                        <note xml:id="ne2w_xjq_3v">Hirt trug am 30. August 1798 in der Akademie der
+                            Wissenschaften "Ueber die Denkmähler und TodtenUrnen der Nordischen
+                            Völker"vor und las über dasselbe Thema am 14. Juli 1798 in der
+                            "Gesellschaft der Freunde der Humanität"</note>
+                    </seg>. – </p>
+                <p>Von Ihren Sachen lese ich immer manches, und zwar immer mit Vergnügen, weil Ihr
+                    Geist immer Biegungen, Wendungen und Ressourcen findet, das mindeste
+                    herauspuzen, und den Lesern auf eine schmakhafte Art <del rendition="#s" next="vorzulegen">f</del>vorzulegen. Ich bewundere, und beneide Sie oft,
+                    lieber Freund, um dieses talent der Leichtigkeit, Grazie, und guten Humors bey
+                    Ihren überhäuften, und zum Theil sterilen Beschäftigungen. Sie haben wohl bey
+                    dem Journal <bibl sameAs="ed_djh_jkw_dw">London u. Paris</bibl>
+                    <seg type="critical">
+                        <orig>den meisten Antheil</orig>
+                        <note xml:id="ncj2_5fv_3v">Im 1. Jg. 1798 sind keine Beiträge von Böttiger
+                            enthalten; die meisten stammen von J. C. Hüttner.</note>
+                    </seg>?</p>
+                <p>Was machet <persName key="prov_hwd_hmp_5r">Göthe</persName>? Es sollte mir leid
+                    thun, wenn er wegen <subst>
+                        <del rendition="#s">den</del>
+                        <add> unseren</add>
+                    </subst> unbedeutenden <seg type="critical">
+                        <orig>Differenzien</orig>
+                        <note xml:id="nxqx_chv_3v">Hinsichtlich der von Hirt in seinen beiden
+                            Laokoon-Aufsätzen geäußerten ästhetischen Prinzipien.</note>
+                    </seg> übeln Humors geworden wäre, und <add place="superlinear" hand="">Sie</add> denselben meinetwegen <del rendition="#s" next="hätten">Ihnen</del> hätten empfinden müßen. <seg type="critical">
+                        <orig>Er schrieb mir</orig>
+                        <note xml:id="ns2x_sgv_3v">1798-02-01-v-Goethe</note>
+                    </seg> vor mehrern Monaten: daß es ja sehr gut angehe, daß man solche Materien
+                    aus verschiedenen Gesichtspunkten ansehe, und ein jeder sie nach seiner Art
+                    behandle. Er wäre daher gesinnt, auch <bibl sameAs="prov_syr_nyh_gv">seinen
+                        Laokoon</bibl> drucken zu laßen, damit ein jeder nach seinem Geschmack
+                    hierüber denken möge. - Zufolge <pb n="3"/> deßen war ich in Erwartung noch
+                    etwas davon in den <bibl sameAs="prov_erl_txj_gv">Horen</bibl> zu lesen, und war
+                    daher verwundert, nur <bibl sameAs="prov_u3g_fyh_gv">meinen Nachtrag</bibl>
+                    darin zu finden. – Sagen Sie mir, <del rendition="#s" next="ist">war es
+                        gerade</del> ist der abgedruckte <seg type="comment">
+                        <orig>Auszug meines Aufsatzes</orig>
+                        <note xml:id="nhrw_vbg_vz">Der in den "Horen" veröffentlichte "Nachtrag zu
+                            Laokoon" stellt nur einen Teil des an Böttiger gelangten
+                            handschriftlichen Textes von Hirt dar; vgl. dazu 1797-10-31-a-Böttiger
+                            mit Sachanmerkung.</note>
+                    </seg> gerade derjenige, den Sie hievon machten? Die Sache ist bloß Neugierde,
+                    denn alles Wesentliche meines Raisonnement ist darhin <ex>[!]</ex> enthalten:
+                    nur möchte er für das nicht inizirte Publikum nicht ganz verständlich seyn.
+                    Wißen Sie nicht, ob <persName key="prov_hwd_hmp_5r">Göthe</persName> wirklich
+                    noch an einem Laokoon arbeitet? oder ob er überhaupt den gemachten Aufsaz
+                    publiziren dürfte? – Was machet <persName key="prov_tsc_grz_v5">Mayer</persName>? wird er bald mit etwas hervorrücken? </p>
+                <p>Ihr <bibl sameAs="prov_bjq_czj_gv">zweytes Heft der Vasengemälde</bibl> sah ich
+                    noch nicht: habe aber diesen Moment darnach gesendet. Die <bibl sameAs="prov_csp_vs1_z5">Allgem<ex>eine</ex> L<ex>iteratur</ex>
+                            Z<ex>eitung</ex>
+                    </bibl>
+                     verlangt hierüber meine <seg type="critical">
+                        <orig>Recension</orig>
+                        <note xml:id="nuc5_z3v_3v">Hirt verfasste keine Rezension. Eine nicht
+                            unterzeichnete Sammelrezension eines Buches über altgriechische
+                            Vasenmalerei und eines dazugehörigen Bildbandes erschien in der A.L.Z.,
+                            Jg. 1799, Bd. 1, Nr. 102, Sonnabend, 30. März 1799, Sp. 809-816, und Nr.
+                            103, Sp. 817-821. Rezensiert werden: 1. K. A. Böttiger: Griechische
+                            Vasengemälde. Bd. 1, H. 2. Mit archäologischen und artistischen
+                            Erläuterungen der Originalkupfer. Weimar: Industrie-Comptoir, 1798. - 2.
+                            K. A. Böttiger: Umrisse griechischer Gemälde auf Antiken in den Jahren
+                            1789 und 1790 in Campanien und Sicilien ausgegrabenen Vasen, jetzt im
+                            Besitz des Ritters Hamilton. Bd. 1, H. 2. Weimar: Industrie-Comptoir,
+                            1798. Nebent.: Kupfer zu K. A. Böttigers griechischen Vasengemälden. -
+                            Auch Chr. G. Heyne rezensierte das Heft in den Göttingischen Anzeigen
+                            von gelehrten Sachen, 1798, 156. Stück, S. 1548-1551.</note>
+                    </seg>, welche ich auch annehmen werde. – Hingegen sende ich Ihnen durch
+                        <persName key="prov_dln_f3z_x5">Egloffstein</persName>
+                    <seg type="critical">
+                        <orig>das französische architektonische Buch</orig>
+                        <note xml:id="nobt_p3v_3v">Eine Neuausgabe von Marie Joseph Peyres erstmals
+                            1765 erschienenen"Oeuvres d'Architecture"; vgl.
+                            1799-04-11-a-Böttiger.</note>
+                    </seg> für die <bibl sameAs="prov_csp_vs1_z5">A<ex>llgemeine</ex>
+                            L<ex>iteratur</ex> Z<ex>eitung</ex>
+                    </bibl> zurück. Ich kann nichts
+                    hierüber sagen, weil sowohl <seg type="comment">
+                        <orig>die Riße</orig>
+                        <note xml:id="ndrm_t5d_xz">Das Buch enthält u.a. zwei große Grundrisse der
+                            Diokletian- und Caracalla-Thermen.</note>
+                    </seg>, als der Text unter aller Kritik <add place="superlinear" hand="sind">sind</add>: dabey ist es ein lang vorlegenes Buch, welches man bey dieser
+                    Gelegenheit nur wieder in Umlauf bringen wollte. </p>
+                <p>
+                    <seg type="critical">
+                        <orig>Ihren <persName key="prov_mpb_byv_y5">Herzog</persName> sah ich</orig>
+                        <note xml:id="nelw_v5v_3v">Karl August hatte die Absicht, angesichts eines
+                            bevorstehenden Krieges wieder in das Preußische Heer einzutreten. In
+                            Berlin nahm er an den österreichischen und russischen Unterhandlungen
+                            teil, wodurch Preußen zum Eintritt in die Koalition bewogen werde
+                            sollte. An Voigt schreibt er am 17. August 1798 aus Berlin: "Eine
+                            wichtige Zeit habe ich hier erlebt; in dieser ist mir das hiesige System
+                            sehr bekannt geworden, und Östreich nebst Rußland habe ich hier auf eine
+                            Art negaziieren sehn, die jedem Ununterrichteten unglaublich vorkommen
+                            muß. Wo der Schaden bei ihnen sitzt, konnte man bei dieser Gelegenheit
+                            klar erkennen. […] Zustande ist eigentlich nichts gekommen; indessen,
+                            man sage, was man wolle, sind die großen Mächte alleweile einander näher
+                            als vorher. Östreich und Rußland glaubten, Preußen hinge an Frankreich,
+                            und hiervon wollten sie sich überzeugen; da sie hiervon das Gegenteil
+                            erkannten, so sind sie ins ganze nicht unzufrieden, obwohlen man in alle
+                            ihre Plane nicht einging" (Politischer Briefwechsel des Herzogs und
+                            Großherzogs Carl August von Weimar. Hrsg. von Willy Andreas, bearbeitet
+                            von Hans Tümmler, Bd. 2, Stuttgart 1958, Nr. 252, S. 211). Vgl. auch
+                            Carl August an Friedrich August von Sachsen, 27. August 1798: Bericht
+                            über Erfahrungen seines Aufenthalts in Berlin: guter Eindruck des
+                            Charakters Friedrich Wilhelms III.; maßvolles politisches System; nicht
+                            ungünstige Beziehungen zu Österreich; möglichst Vermeidung von
+                            Säkularisationen und Entschädigungn; Verhältnis zu Frankreich;
+                            Kleinmütigkeit Haugwitz'. Wiedereintritt Carls Augusts ins preußische
+                            Militär (zitiert nach: ebd., Nr. 254, S. 212).</note>
+                    </seg> erst diesen morgen: Sein Betragen ist freundlich. Ich stellte mir seine
+                    Figur sowohl als seine Gesichtszüge immer in festern Umrißen vor. Seine Abreise
+                    scheinet auf den Montag fest gesezt zu seyn. </p>
+                <p> Sie wißen, daß der <persName key="prov_bxf_jt5_fv">König</persName> der <orgName key="ed_znn_dfc_b1b">Academie der Wißenschaften</orgName> die <placeName key="prov_obz_4lv_3v">königl<ex>iche</ex> Bibliotek</placeName>, und die
+                    sogenannte <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>
+                    untergeordnet hat. Ich ward von dem <orgName key="ed_jh3_2fc_b1b">Direktorium
+                        der Akademie</orgName> zugleich mit <persName key="prov_ohn_5lv_3v">Meierotto</persName> zum Oberaufseher über die Medaillen allda ernannt: das
+                    ich auch mit der <seg type="critical">
+                        <orig>Bedingung</orig>
+                        <note xml:id="nbrt_cpv_3v">Vgl. Hirts Schreiben an das Direktorium der
+                            Akademie der Wissenschaften, 28. Mai 1798 (BBAW, Archiv, PAW I-XV-3,
+                            fol. 6).</note>
+                    </seg> annahm, wenn die Medaillen, u. Gemmen von <placeName key="prov_lh2_hxd_2v">Potsdam</placeName> damit verbunden würden. Der
+                        <persName key="prov_bxf_jt5_fv">König</persName> hat nun meinen Vorschlag
+                    hierüber genehmiget, – und <persName key="prov_kds_gnv_3v">Henry</persName> ist
+                    wirklich in <placeName key="prov_lh2_hxd_2v">Potsdam</placeName>, um den ganzen
+                    Plunder abzuholen. Dieß wäre nun der erste Schritt in dieser Art von Anstalten.
+                    Ich wünsche <pb n="4"/> nur, daß iezt die <orgName key="ed_u5s_1fc_b1b">Akademie
+                        der Künste</orgName> eben so glücklich seyn möge, in Errichtung eines
+                    Museums der Statuen, und der Gemälde Gallerie. Ich bin iezt mit der Endigung
+                    dieses <bibl sameAs="prov_vmw_ynv_3v">Planes</bibl>, wozu ich von unserm
+                        <persName key="prov_gtp_ppt_fv">Curator</persName>
+                    <seg type="comment">
+                        <orig>den Auftrag</orig>
+                        <note xml:id="ntl4_xcg_vz">Vgl. 1798-01-31-a-Goethe mit
+                            Sachanmerkung.</note>
+                    </seg> habe, beschäftiget, und bey der öffentlichen Sizung künftigen Monats
+                    werde ich ihn vorlegen. </p>
+                <p> Herr <persName key="prov_gdd_kpv_3v">Hawkins</persName>, der von <placeName key="prov_hrm_rbq_2v">Griechenland</placeName> auf seiner Rückreise nach
+                        <placeName key="prov_npf_ydx_w5">England</placeName> einige Tage hier
+                    verweilte, hat mir einige sehr schöne Sachen gezeigt (ich machte schon ehedem in
+                        <placeName key="prov_vkl_ndl_js">Rom</placeName> seine Bekanntschaft, als er
+                    das erstemal vom <placeName key="prov_ir1_prv_3v">Orient</placeName> zurükkam).
+                    Diese seine lezte Reise dauerte fünf Jahre: beschränkte sich einzig auf das
+                    innere von <placeName key="prov_hrm_rbq_2v">Griechenland</placeName>, einige
+                    Inseln, u. <placeName key="prov_lgv_trv_3v">Troya</placeName>: alles bloß in
+                    antiquarischer Rücksicht <add place="superlinear" hand="">in</add> Topographie,
+                    u. Geognostik hat er sehr viel gethan. Er war 4. mal in <placeName key="prov_dcl_5rv_3v">Olympia</placeName>: seine Riße sind genau hierüber:
+                    aber keine Spur mehr weder vom <placeName key="prov_myp_1sv_3v">Hippodrom</placeName>, noch <placeName key="prov_rlx_bsv_3v">Stadium</placeName>. Für mich waren folgende Zeichnungen besonders
+                    merkwürdig. <hi rendition="#u">a.</hi> der <rs type="artwork" key="prov_ozh_dxv_3v">Tempel</rs> bey Phygalia  von <persName key="prov_wnt_5xv_3v">Ictinus</persName> erbaut, wovon die meisten Säulen
+                    stehen: sein Plan ist genau hierüber. <hi rendition="#u">b.</hi> Ein <rs type="artwork" key="prov_ccr_tyv_3v">Thor</rs> von <placeName key="prov_npb_xyv_3v">Mycene</placeName>, <seg type="critical">
+                        <orig>das <persName key="prov_tvl_wzv_3v">Pausan<ex>ias</ex>
+                            </persName> beschreibt</orig>
+                        <note xml:id="nglf_d1w_3v">
+                            <bibl sameAs="prov_lg4_h1w_3v">Paus. 2.16.5.</bibl>
+                        </note>
+                    </seg>: <hi rendition="#u">c.</hi> unweit von da das sogenannte <rs type="artwork" key="prov_s5t_m1w_3v">Grabmal</rs> der <persName key="prov_xfm_v1w_3v">Clytemnestra</persName> . <hi rendition="#u">d.</hi>
+                    <seg type="critical">
+                        <orig>Ein Tempel</orig>
+                        <note xml:id="nphn_gdw_3v">Evtl. der Tempel des Apollon Daphnephoros in
+                            Eretria auf der Insel Euböa???</note>
+                    </seg> zwischen zwey hohen Bergspizen im <placeName key="prov_m2n_kdw_3v">Negropont</placeName> ohne Säulengang. - Leztere drey sind höchst
+                    merkwürdig wegen ihrem hohen Alter, das der Erfindung der Wölbung vorangieng,
+                    und so deutlich den Marsch zeigen, den diese Erfindung genommen hat. - Es ist
+                    nun bestätiget, daß die bemalten Vasen durch ganz <placeName key="prov_hrm_rbq_2v">Griechenland</placeName> gefunden werden. Er fand sie
+                    überall: ich sah aber nur Fragmente hievon, die <del rendition="#s" next="in">gan</del> in jeder Rücksicht den Großgriechenlandischen gleich sind. Die
+                    größern Gefäße konnte er nicht auspacken laßen. – Das Schönste, was er mir
+                    zeigte, war ein kleines <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_l1j_zdw_3v">Basrel<ex>ief</ex>
+                            </rs>
+                        </orig>
+                        <note xml:id="nd41_42w_3v">Hirt beschreibt das Relief besonders hinsichtlich
+                            des Materials in seinem Aufsatz "Ueber das Material, die Technik und den
+                            Ursprung der verschiedenen Zweige der Bildkunst bei den griechischen und
+                            den damit verwandten italischen Völkern", in: Amalthea, Bd. 1, 1820:
+                            "[…] getriebene Werke in Erz […] ein unvergleichliches Relief im Besitz
+                            des Herrn John Hawkins, welches er auf seiner zweiten Reise in
+                            Griechenland im J. 1797 zu Dodona gekauft hat. Es stellt einen phrygisch
+                            gekleideten Jüngling und eine neben ihm sitzende, bis auf die Hüften
+                            entkleidete, weibliche Figur mit zwei Liebesgöttern dar. Wahrscheinlich
+                            der Besuch der Venus bei Anchises. Das Erz hat kaum die Dicke eines
+                            Pergamentblattes, und die Farbe spielt in das Gold. Ungeachtet der
+                            Dünnheit des Erzes sind doch kleine Zierden, wie Armbänder, in Silber
+                            darauf eingelegt. Die Arbeit, mit der höchsten Zartheit ausgeführt,
+                            zeigt dabei einen Charakter von Größe und Schönheit, wie man sich
+                            dieselbe nur im schönsten Zeitalter der Kunst denken kann" (S. 250-251).
+                            - Heinrich Wilhelm Tischbein zeichnet das Relief nach einem Gipsabguß,
+                            in: Homer nach Antiken gezeichnet [mit Erläuterungen von Dr. Ludwig
+                            Schorn], Heft 7, 1821, S. 26ff). Auf dessen Darstellung nimmt Goethe
+                            Bezug in: Ueber Kunst und Alterthum, 4. Bd., 1. Heft, Stuttgart 1823, S.
+                            31-34: "Taf. Nro III. Venus und Paris, erhobene Arbeit einem Gypsabguß
+                            nachgezeichnet, der wahrscheinlicher Vermuthung nach von einem zu Dodona
+                            in Griechenland durch John Hawkins erstandenen Original von getriebener
+                            Bronze genommen ist. Ein Jüngling, phrygisch gekleidet, sehr geschmückt,
+                            die Füße übereinander geschlagen, den rechten Arm über das Haupt gelegt,
+                            auf den linken Ellbogen gelehnt, sitzt und betrachtet mit frohem
+                            Erstaunen eine neben ihm sitzende schöne Frau, welche ihn hinwieder
+                            liebevoll anschaut. Ihr ganzer Oberleib ist unbekleidet […] Über ihrer
+                            linken Schulter sieht man einen Liebesgott bemüht die Schöne dem
+                            staunenden Jünglinge zuzuwenden und anzunähern; ihr zur Rechten sitzt
+                            ein größerer Amor, abgewandt und wie mit Unwillen das beginnende
+                            Liebesverhältniß zwischen der Frau und dem phrygischen Jünglinge
+                            betrachtend. Beyde Liebesgötter sind mit großen Flügeln versehen, und zu
+                            den Füßen des Phrygiers liegt sein Hund. […] Herr Hofrath Hirt hat von
+                            diesem Denkmal in der Amalthea gesprochen (Th. I, S. 251.) und vermeint:
+                            der Besuch der Venus bey Anchises sey in demselben dargestellt, Herr
+                            Schorn ist dieser Ansicht entgegen und will in dem phrygisch gekleideten
+                            Jüngling lieber den Paris erkennen, wogegen wohl keine Einwendung statt
+                            findet. Nach ihm also wäre die Bedeutung folgende: "Aphrodite, begleitet
+                            von zwey Liebesgöttern, hat der verhängnißvolle Apfel der Eris auf den
+                            Ida geführt und sie erwirbt sich ihm von Paris als Preis der Schönheit."
+                            Ist nun auch uns eine Vermuthung erlaubt, so möchten wir, dem Herrn
+                            Schorn über den Jüngling beypflichtend, glauben: der Künstler habe den
+                            Paris und die Helena darstellen wollen. Sie sieht ihn an mit
+                            Liebesblicken, erscheint ihm in ihrer göttlichen Schöne; das
+                            unheilbringende Liebesverhältniß hebt eben an. In dem Amor über den
+                            beyden Liebenden ist nach unserer Meinung der Gelust bedeutet, die
+                            aufkeimende Neigung nährend und begünstigend. In dem andern sich
+                            wegwendenden, der auch, was wohl zu merken, als ein älterer Knabe
+                            dargestellt ist, möchten wir die frühere pflichtmäßige Liebe zum
+                            Menelaus erkennen, durch die Buhlschaft mit Paris beleidigt und
+                            verletzt". - Siehe auch die Erwähnung bei Gustav Friedrich Waagen:
+                            Kunstwerke und Künstler in England und Paris. 1. Bd., Berlin 1837, S.
+                            66: "[…] Hawkins, der das wunderbar schöne, zu dem Fund bei Dodona
+                            gehörige, bronzene Relief in getriebener Arbeit besitzt, welches Paris
+                            und Helena vorstellt, und in Gypsabgüssen allen Kunstfreunden bekannt
+                            ist". - Vgl. auch Hirts Brief an F. A. Wolf 1818-03-02-a-Wolf(?).</note>
+                    </seg>in getriebenem Bronze: das höchste, was ich in dieser Art je sah. Es
+                    stellt <persName key="prov_kdb_rdw_3v">Paris</persName> u. <persName key="prov_wvm_rdw_3v">Helena</persName> mit zwey Liebesgöttern vor. Es ist
+                    im vorigen Winter zu <placeName key="prov_fm5_f2w_3v">Dodona</placeName>
+                    gefunden. Seine Sammlung griechischer Münzen besonders vom <placeName key="prov_glr_2vw_3v">Pelopones</placeName> ist einzig: unter den Gemmen
+                    besizt er nichts vorzügliches. Ich bedauere seine schnelle Abreise (vorigen
+                    mittwoch) ich hatte nur 4. Stunden mit ihm einzeln zu verplaudern, und seine
+                    Schäze zu schauen. –</p>
+                <closer rend="within the line">Ihr <lb/>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Nb. mein Bedienter ist in 20. Buchladen herumgelaufen, um das 2<hi rendition="#sup">
+                        <hi rendition="#u">te</hi>
+                    </hi> Heft der <bibl sameAs="prov_bjq_czj_gv">Vasengemälde</bibl> zu haben: aber nirgends ist es
+                    zu finden. Wie soll man es bekommen?</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

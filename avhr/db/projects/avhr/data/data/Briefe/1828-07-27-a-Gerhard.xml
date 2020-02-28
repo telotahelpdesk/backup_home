@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_x41_wnb_by">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Eduard Gerhard. Berlin, 27. Juli 1828. </title>
+                <title>Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>DAI, Abt. Rom, Archiv</institution>
+                        <collection>Sachgruppe II (Gelehrtenbriefe)</collection>
+                        <idno>
+                            <idno type="shelfmark">Hirt an Gerhard</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1828-07-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_szp_ntf_1y">Gerhard, Eduard (Friedrich Wilhelm Eduard)
+                        (1795-1867) (dt. Klassischer Archäologe, 1829 Gründer des Instituto di
+                        Corrispondenza Archeologia in Rom, 1833 Archäologe am königlichen Museum in
+                        Berlin, 1844 o. Prof. an der Universität Berlin)</persName>
+                    <placeName key="prov_bfn_t1v_35">Mailand</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_pq3_ggz_xy"/>
+                    <ref type="prev" target="hirt_kvr_bhz_xy"/>
+                    <ref type="next" target="hirt_v4h_sjs_zy"/>
+                </correspContext>
+                <note>Die sich in Rom befindende Handschrift konnte nicht im Original eingesehen
+                    werden. Einige Worte bzw. Wortteile auf den brüchigen, leicht eingerollten
+                    Blatträndern waren auf dem zur Verfügung stehenden Scan nicht deutlich lesbar;
+                    fragliche Transkriptionen sind in eckige Klammern gesetzt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>
+                            <hi rendition="#aq">Al / Signore Gerhard / Professore di Berlino / </hi>
+                            <hi rendition="#u">
+                                <hi rendition="#aq">Napoli</hi>
+                            </hi> / links daneben: <hi rendition="#aq">Posta / restante /
+                                S</hi>
+                            <hi rendition="#sup">
+                                <hi rendition="#u">
+                                    <hi rendition="#aq">tr</hi>
+                                </hi>
+                            </hi>
+                            <hi rendition="#aq"> Lucia</hi> [Strada Santa Lucia] N. 21. /
+                            Mit Postvermerken und einem schwarzen sowie zwei roten Poststempeln
+                            (u.a. mit der Angabe "14. AGO[STO]"</addrLine>
+                    </address>
+                    <dateline>Berlin den 27 Jul. 28.</dateline>
+                </opener>
+                <p>Ich bin, mein verehrter Herr Profeßor, in Ihrer großen Schuld. Ich habe schon
+                        <seg type="comment">
+                        <orig>Briefe aus <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                        </orig>
+                        <note xml:id="nwcl_d3z_xy">Briefe erschlossen: <ref target="hirt_pq3_ggz_xy">[1828-07-vor27x-v-Gerhard]</ref>.</note>
+                    </seg> und <seg type="comment">
+                        <orig>den lezten aus <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                        </orig>
+                        <note xml:id="ngbf_g3z_xy">Brief erschlossen: <ref target="hirt_kvr_bhz_xy">[1828-07-vor27xx-v-Gerhard]</ref>.</note>
+                    </seg> richtig erhalten. Ich habe so lange nicht geantwortet, weil ich in
+                    Wahrheit nichts wesentliches zu antworten wußte, und ich Briefe ohne
+                    wesentlichen Inhalt nicht gerne schreibe. Jüngsthin erhielt ich auch den längst
+                    erwarteten ersten Theil des <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_m54_t5z_xy">
+                                <hi rendition="#aq">Museums</hi>
+                            </bibl> aus[zu?] <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                        </orig>
+                        <note xml:id="nnn2_ftz_xy">Neapels antike Bildwerke, beschrieben von E.
+                            Gerhard und Th. Panofka. I. Teil, Stuttgart und Tübingen 1828. - Die
+                            Marmorwerke sind von Gerhard, die Vasen von Panofka, die anderen
+                            Gegenstände gemeinsam beschrieben.. - Ein geplanter zweiter Teil ist
+                            nicht erschienen.</note>
+                    </seg>, und dann <seg type="comment">
+                        <orig>Ihre Blätter aus dem <bibl sameAs="ed_gjg_fgg_yy">Kunstblatt</bibl>
+                        </orig>
+                        <note xml:id="nns2_j2b_yy">Vermutlich ein Beitrag von Friedrich Thiersch
+                            gemeint, in dem auch Gerhard erwähnt wird: Ueber die neuentdeckten
+                            Gemälde in den Gräbern von Tarquinii. (Ein Vortrag, in der Sitzung der
+                            philosophisch-philologischen Klasse der königlichen Akademie der
+                            Wissenschaften zu München, gehalten am 1sten December dieses Jahrs.).
+                            In: Kunst-Blatt. Achter Jahrgang 1827. Hrsg. von Ludwig Schorn, Nr. 104
+                            vom 27. Dez. 1827, und Nr. 105 vom 31. Dez. 1827. </note>
+                    </seg>. Beide(?) geben Beweise Ihrer rühmlichen Studien, so wie auch des
+                    Freundes <hi rendition="#aq">
+                        <persName key="ed_bdq_q42_cy">Panofka</persName>
+                    </hi>. - Für das Erste eine Neuigkeit, wenn [es] anders noch eine Neuigkeit
+                    für Sie ist, nämlich es ist so wie gewiß, daß wir noch in dem Laufe dieses
+                    Sommers <seg type="comment">
+                        <orig>die <persName key="ed_uy5_zgl_cy">
+                                <hi rendition="#aq">Koller</hi>ische</persName>
+                            <rs type="artwork" key="prov_syj_q2h_yy">Sammlung</rs>
+                        </orig>
+                        <note xml:id="njqd_2lg_yy">Vgl. <ref target="hirt_pbv_sq1_by/#nct1_22l_cy">1827-12-08-a-Gerhard und Sacherläuterung</ref>.</note>
+                    </seg> als unser Eigenthum sehen werden. <hi rendition="#aq">
+                        <persName key="ed_ifk_ktj_xv">Levetzow</persName>
+                    </hi> ist <seg type="comment">
+                        <orig>hingesandt</orig>
+                        <note xml:id="nxvb_hlg_yy">Ins Schloss Obrzistwy in Böhmen, wo die Sammlung
+                            aufgestellt war.</note>
+                    </seg>, um den Kauf abzuschließen, und die Sammlung herzubringen. Sie sehen
+                    also, daß wir auf einmal erhalten, was uns noth[ig(?)] aber auch für die Zukunft
+                    die Ankäufe dieser Art ziemlich als geschloßen anzusehen sind. <seg type="comment">
+                        <orig>Die Briefe, die mir <hi rendition="#aq">
+                                <persName key="ed_ifk_ktj_xv">Levezow</persName>
+                            </hi> schreibt</orig>
+                        <note xml:id="nb2f_mlg_yy">Die Briefe sind nicht überliefert und wurden
+                            erschlossen: 1828-07-vor27x-v-Levezow.</note>
+                    </seg>, machen mich äußerst neugierig. Dazu komt nun noch <seg type="comment">
+                        <orig>die <persName key="ed_g5y_kt2_cy">
+                                <hi rendition="#aq">Bartholdy</hi>sche</persName>
+                            <rs type="artwork" key="prov_yt1_x2h_yy">Sammlung</rs>
+                        </orig>
+                        <note xml:id="nuyz_j4g_yy">
+                            <rs type="artwork" key="prov_yt1_x2h_yy">Vgl. 1827-12-08-a-Gerhard und
+                                Sacherläuterung</rs>.</note>
+                    </seg>. Wir erhalten des Guten so viel, daß man schon daran denkt, <seg type="comment">
+                        <orig>ein zweytes <hi rendition="#aq">Museum</hi> einzurichten,
+                            nämlich <placeName key="ediarum_efd_w4g_yy">
+                                <foreign xml:lang="fra">Mon bijou</foreign>
+                            </placeName>, wo vor der Hand schon die <hi rendition="#aq">Aegypt[iaca]</hi> aufgestellt sind</orig>
+                        <note xml:id="nwgy_mpg_yy">Nachdem Schloss Monbijou nicht mehr als höfische
+                            Residenz genutzt wurde, wurden dort um 1820 die sogenannten
+                            "Germanisch-slawischen Alterthümer" aus der Königlichen Kunstkammer
+                            untergebracht. 1822 zog die noch kleine Ägyptische Sammlung des Königs
+                            in den Westflügel des Schlosses. Stark erweitert wurde diese durch den
+                            Ankauf der Sammlung Minutoli 1823 und der Sammlung des Italieners
+                            Giuseppe Passalacqua 1827. Passalacqua wurde am 7. Juli 1828 auch der
+                            erste Direktor des Museums. 1827 wurden die Aegyptica, die in den Jahren
+                            zuvor unter der Leitung von Konrad Levezow geordnet worden waren,
+                            erstmals öffentlich gezeigt (vgl. Leopold von Ledebur: Das Königliche
+                            Museum vaterländischer Alterthümer im Schlosse Monbijou zu Berlin.
+                            Berlin 1838). 1856 zog die Sammlung in das von Friedrich August Stüler
+                            erbaute Neue Museum um. "Die zweite archäologische Sammlung, die
+                            vorübergehend in Monbijou eingelagert wurde, war das im Jahr 1830
+                            gegründete Museum Vaterländischer Alterthümer (heute Museum für Vor- und
+                            Frühgeschichte.) Wie die Ägyptica waren auch die Prähistorica der
+                            brandenburgisch-preußischen Kunstkammer, die seit 1829 in einer
+                            speziellen Sammlung zusammengefasst waren, im Berliner Schloss
+                            untergebracht gewesen. Leopold von Ledebur (1799-1877) wurde zum
+                            Direktor des Museums Vaterländischer Alterthümer und der Königlichen
+                            Kunstkammer ernannt" (Thomas Kemper: Schloss Monbijou: von der
+                            königlichen Residenz zum Hohenzollern-Museum. Berlin 2005, S.
+                            85).</note>
+                    </seg>. Einiges Bedeutende <hi rendition="#aq">hetruris[cher</hi>]
+                    Werke wünschte ich noch hinzu. -</p>
+                <p>Ich bin seit länger als einen Monat nicht wohl, so daß ich unfähig zu jeder Art
+                        <ex>[Textverlust durch Siegelaufriss]</ex>ung zu Hause sitzen muß. <bibl sameAs="ed_a3q_gxg_yy">Meine <hi rendition="#aq">Recension</hi>
+                    </bibl> über <bibl sameAs="ed_csk_whv_1y">das
+                        Werk</bibl> von <persName key="ed_jqh_dhv_1y">Inghirami</persName>  ist
+                    abgedruckt, und auch <bibl sameAs="ed_zhr_nzg_yy">die über die <hi rendition="#aq">Phigalearia</hi>
+                    </bibl> von <persName key="ed_jbs_cbn_1y">Baron  v. Stackelberg</persName>. Iezt wird eben an
+                    einer etwas <bibl sameAs="ed_qyf_m1h_yy">scharfen <hi rendition="#aq">Recension</hi>
+                    </bibl> über die neuesten Erzeugniße von <persName key="ed_rjs_jlw_ww">C<ex>arl</ex> Otfried Müller</persName> gedruckt. Ich
+                    wünschte: Sie könnten dieselben noch in <placeName key="prov_vxr_xxr_js">
+                        <hi rendition="#aq">Italien</hi>
+                    </placeName> lesen. Aber wahrscheinlich erreichen die critischen B[erichte??]
+                    die Grenzen von <placeName key="prov_vxr_xxr_js">
+                        <hi rendition="#aq">Italien</hi>
+                    </placeName> nicht. Über die hetruskischen Denkmäler habe ich mich umständlich
+                    expectorirt. Auch B<ex>aron</ex> v. <persName key="ed_jbs_cbn_1y">
+                        <hi rendition="#aq">Stackelberg</hi>
+                    </persName> möchte mit mir wenig zufrieden seyn, obwohl ich ihm möglichste
+                    Gerechtigkeit wiederfahren ließ. <pb n="2"/>
+                </p>
+                <p>Ich fühle allerdings, <seg type="comment">
+                        <orig>daß Sie mit <hi rendition="#aq">
+                                <persName key="ed_u21_xrv_bw">Cotta</persName>
+                            </hi> zufrieden zu seyn wenig Ursache haben</orig>
+                        <note xml:id="nrr3_41b_yy">Wegen der Herausgabe von Gerhards "Antiken
+                            Bildwerken" war es mit Cotta zu Differenzen gekommen. "Die antiken
+                            Bildwerke waren gross angelegt. Auf 300 Tafeln sollten etwa 600 noch
+                            nicht, oder ungenügend herausgegebene Bildwerke in getrennten, unter
+                            Gerhards Aufsicht gemachten Zeichnungen publicirt werden. [...] Ein
+                            Anhang von 100 Tafeln sollte Zusammenstellungen von meist publicirten
+                            Monumenten zur Erläuterung und Abrundung geben, das Ganze einen
+                            archäologischen Thesaurus als Grundlage monumentaler Forschung jeder Art
+                            bilden. Leider kam das in den Zeichnungen vollendete Werk nicht zur
+                            Ausführung. Da die ersten Hefte (80 Tafeln) keinen grossen Absatz
+                            fanden, liess Cotta die Unternehmung ruhen; später fand sich, dass die
+                            Zeichnungen zum Theil verloren, fertige Platten abgeschliffen waren,
+                            ohne schon abgezogen zu sein - das Werk war nicht mehr herzustellen.
+                            Gerhard sorgte, dass wenigstens die noch vorhandenen Platten abgedruckt
+                            und 1839 publicirt wurden" (Otto Jahn: Eduard Gerhard: ein Lebensabriss,
+                            S. 74). - Zusammen mit seinen hyperboreisch-römischen Freunden wollte
+                            Gerhard in regelmässigen Heften interessante archäologische Denkmäler
+                            publizieren. "Cotta hatte den Verlag übernommen, schon waren die Kupfer
+                            für ein Heft 'Monumenti inediti' [Monumenti antichi inediti della
+                            societa iperboreo-romana] gestochen, Aufsätze für die
+                            hyperboreisch-römischen Studien gschrieben und angekündigt; da wurde
+                            Cotta die Sache leid, er sagte den Contract auf und das ganze
+                            Unternehmen unterblieb" (ebd., S. 75/76). - Nach dem Zerwürfnis mit
+                            Cotta hörte Gerhards rührige Teilnahme an Cottas "Kunstblatt", für das
+                            er zahlreiche Aufsätze und Rezensionen verfasst hatte, auf. </note>
+                    </seg>; und da Ihr Plan bey demselben nicht vorwärts gehen will; so würde es mir
+                    angenehm seyn, wenn Sie die Rücksendung <seg type="comment">
+                        <orig>meiner drey Beyträge</orig>
+                        <note xml:id="nifq_cbh_yy">Die ursprünglich für die geplanten "Monumenti
+                            antichi inediti della societa iperboreo-romana" vorgesehen Beiträge
+                            Hirts, wurden, da die Zeitschrift nicht zustande kam, in den im Jahr
+                            darauf begründeten "Annali dell'Instituto di Corrispondenza
+                            Archeologica" gedruckt: Die drei "Dipinti Pompeiani" in Bd. 1, Rom 1829;
+                            Die "Vases peints. Sopra un dipinti d' un vaso fittile rappresentante il
+                            ratto del Palladia" in Bd. 2, Paris 1830. - Vgl. dazu auch: <ref target="hirt_sx5_2tf_1y">1827-11-07-a-Gerhard</ref>, <ref target="hirt_pbv_sq1_by">1827-12-08-a-Gerhard</ref>. </note>
+                    </seg> veranlaßen könnten. Doch überlaße ich die Sache Ihrer Beurtheilung. Ich
+                    wünsche nur, daß die Papiere nicht verschleppt werden, und anständig mit den
+                    Zeichnungen zugleich im Druck erschienen.</p>
+                <p>Iezt ein Wort über Ihren neuesten <seg type="comment">
+                        <orig>Plan einer <hi rendition="#aq">Archaeolog</hi>ischen
+                            Zeitschrift</orig>
+                        <note xml:id="nsgz_bfh_yy">Der späteren "Annali dell'Instituto di
+                            Corrispondenza Archeologica". Die Aufgabe des im April 1829 gegründeten
+                            archäologischen Instituts bestand darin, "durch zuverlässige und
+                            sachkundige, möglichst über alle Gegenden des orbis antiquus
+                            ausgebreitete Correspondenzen von allen bedeutsamen Entdeckungen im
+                            Gebiet der alten Kunst, Epigraphik, Chorographie und Topographie
+                            regelmässige und zusammenhängende Kenntniss zu erlangen, und durch
+                            Fundberichte, Beschreibungen, Zeichnungen, Pläne und Karten, welche im
+                            Archiv des Instituts ihren Sammelplatz finden sollten, die unübersehbare
+                            Masse der täglich zuwachsenden Facta der Wissenschaft zu sichern. Von
+                            diesen sollte alles Wesentliche und Bedeutende in den monatlich
+                            erscheinenden Blättern des BULLETTINO den Archäologen mitgetheilt
+                            werden, die nicht weniger als die Naturforscher auf zuverlässige und
+                            rasche Kundmachung des Factischen angewiesen sind; eine zusammenfassende
+                            Uebersicht jedes Jahr den Status der wissenschaftlichen Erwerbungen
+                            darlegen. Ausführlichere wissenschaftliche Erörterungen blieben den
+                            jährlichen Bänden der ANNALI zugewiesen, hauptsächlich in der Form
+                            gelehrter Erläuterungen auserlesener noch nicht bekannt gemachter
+                            Kunstwerke, welche theils in den grossen, sorgfältig ausgeführten Tafeln
+                            der MONUMENTI INEDITI, theils in den kleineren Hülfstafeln der ANNALI zu
+                            publiciren waren. / In Rom selbst, das schon durch die Menge der
+                            Reisenden ein Mittelpunkt archäologischer Studien und Liebhaber war und
+                            ist, sollte das Institut während des Winters unmittelbar für die
+                            Wissenschaft wirken theils durch wöchentliche Versammlungen (adunanze),
+                            um neue Entdeckungen mitzutheilen, interessante Monumente vorzulegen,
+                            die Resultate wissenschaftlicher Forschungen zu discutiren, theils durch
+                            Vorlesungen, theils durch Curse in den Museen. Zwei öffentliche
+                            Festsitzungen an Winckelmanns und Roms Geburtstag (9. Dec. 21. April)
+                            waren für die würdige Repräsentation bestimmt. / Die Mitglieder des
+                            Instituts sollten theils zahlende (associati) sein, denen die
+                            Institutsschriften geliefert wurden, theils correspondirende (soci
+                            corrispondenti) und ordentliche (membri ordinari), welche in irgend
+                            einer Weise sich an der wissenschaftlichen Arbeit betheiligten. Die
+                            Verwaltung war unter dem Kronprinzen als Protector einer Direction
+                            übergeben. Präsident derselben war der Duc de Blacas, Secretär Bunsen,
+                            Vicesecretäre Gerhard und Panofka, Secretäre der deutschen,
+                            französischen und englischen Sectionen Welcker und O. Müller, Duc de
+                            Luynes, Millingen, der den Winter in Rom zubrachte, ordentliche
+                            Mitglieder Fea, Nibby, Thorwaldsen. Ausserdem gab es Ehrenmitglieder der
+                            Direction und des Instituts" (Paul Jahn: Eduard Gerhard: ein
+                            Lebensabriss Berlin 1868, S. 80-81).</note>
+                    </seg>, welchen ich auch  <persName key="ed_rhy_vs4_pw">
+                        <hi rendition="#aq">
+                            <hi rendition="#u">Boeckh</hi>
+                        </hi>
+                    </persName>  (der Sie sehr grüßen läßt) mittheilte, und mit mir hierüber eines
+                    Sinnes ist, nämlich daß der Plan zwar herrlich, aber so complizirt ist, daß er
+                    keinen Fortgang haben kann. Es müßten zu viele, und dabey sehr <hi rendition="#aq">heterogene</hi> Menschen concurriren, auf welche man
+                    sich wenig verlaßen <add place="superlinear">kann</add>, theils die Geldbeyträge
+                    richtig zu erhalten, und noch schwieriger würde die Auswahl und Beurtheilung der
+                    zu erscheinenden gelehrten Arbeiten, und der Monumente seyn. Ich von meiner
+                    [Se]ite wäre nicht dagegen. Den Geldbeytrag wollte ich gerne leisten, und die
+                        <rs type="artwork" key="prov_syj_q2h_yy">
+                        <persName key="ed_uy5_zgl_cy">
+                            <hi rendition="#aq">Koller</hi>sche</persName> Sammlung</rs>
+                    (außer meinen [üb]rigen Vorräthen) würde mir Stoff genug zu nicht unwichtigen
+                    Ausarbeitungen für die Zeitschrift geben. Doch wenngleich ich durch Länge der
+                    Zeit die Übung in fremden Sprachen zu schreiben <del rendition="#s">so
+                        ziemlich</del> verlernt habe: so möchte es doch im Französischen noch
+                    ziemlich gehen. Nur zu einem <hi rendition="#aq">Mitredacteur</hi> paße
+                    ich nicht. - Aber wie ich schon sagte[, glaube] ich nicht, daß der schöne Plan
+                    [so] in's Leben treten wird. <seg type="comment">
+                        <orig>Auch in <placeName key="prov_tnd_dt1_5v">
+                                <hi rendition="#aq">Paris</hi>
+                            </placeName> ist nicht alles Gold, was glänzt</orig>
+                        <note xml:id="nq1k_3fh_yy">Die archäologische Zeitschrift sollte in Rom und
+                            in Paris erscheinen und Panofka in Paris Redaktion und Druck der
+                            Zeitschrift leiten. Da Panofka aber in die Dienste des Duc de Blacas
+                            getreten war, stand er für diese Aufgaben nicht mehr zur Verfügung.
+                            Nachdem der Kronprinz die Protektion des geplanten archäologischen
+                            Instituts übernommen hatte, wurde am 9. Dezember 1828 die Gründung des
+                            Instituts in Rom beschlossen und am 21. April 1829 das "Instituto di
+                            corrispondenza archeologica" feierlich eröffnet. Der Duc de Luynes
+                            (siehe die folgende Anmerkung) war Mitbegründer des Instituts und fast
+                            20 Jahre lang dessen Sekretär der französischen Sektion. </note>
+                    </seg>. wie wenig man sich in solchen Dingen auf die Italiener verlaßen kann,
+                    wißen Sie auch. - Noch eine Frage, worüber Sie mich vielleicht auslachen: <seg type="comment">
+                        <orig>wer ist der <foreign xml:lang="fra">
+                                <persName key="ed_myj_w13_yy">Duc de Lucques</persName>
+                            </foreign>?</orig>
+                        <note xml:id="nytb_ltj_gy">Obwohl in der Handschrift eindeutig "Duc de
+                            Lucques" steht, ist von einem Irrtum Hirts auszugehen. Gemeint ist
+                            sicher nicht das Herzogtum Lucca (Le duché de Lucques / Ducato di
+                            Lucca), das von 1805 bis 1815 und nochmals nach dem Wiener Kongress bis
+                            1847 als Nachfolger der Lucchesischen Republik bestand und dessen erster
+                            Fürst ab 1815 Karl Ludwig von Bourbon (Carlo Ludovico di Borbone) war.
+                            Vielmehr ist es sehr wahrscheinlich, dass Gerhard in diesem Zusammenhang
+                            vom Duc de Luynes berichtet hatte, der, in Italien ansässig, mit Gerhard
+                            in Kontakt gekommen und "geneigt [war], den von Cotta aufgegebenen Plan
+                            [einer archäologischen Zeitschrift] aufzunehmen und zu erweitern, und es
+                            wurden Verabredungen, die im Juli in Neapel zum Abschluss kamen, zu
+                            einem 'Journal universel de l'archéologie' getroffen, welches in Paris
+                            erscheinen, Aufsätze in französischer, italienischer und lateinischer
+                            Sprache enthalten und von einem 'Bulletin' begleitet sein sollte, das
+                            fortlaufenden Bericht über neue Entdeckungen zu geben hatte". Der Herzog
+                            von Luynes wurde in der Folge zu einem großen Unterstützer und Förderer
+                            des Instituts und der Zeitschrift (Otto Jahn: Eduard Gerhard: ein
+                            Lebensabriss, Berlin 1868, S. 77). </note>
+                    </seg> - wahrscheinlich ein sehr bekannter Mann; aber ich kenne ihn nicht. - Daß
+                    Sie die Reise nach <placeName key="prov_kw2_j4g_w5">Sizilien</placeName>
+                    aufgegeben haben, daran thun Sie wohl. Ich wüßte nicht, was [Be]sonderes Sie
+                    dort finden sollten, was nicht schon bekannt [wä]re. -</p>
+                <p>[Ich] komme iezt mit Ihnen über etwas anderes zu sprechen. <pb n="3"/> Sie sehen,
+                    daß die Aufträge, zu denen Sie sich angeboten haben, wenig berücksichtigt
+                    werden. Man komt hier schwer zu einem Entschluß, so sehr die Sachen an sich von
+                    Kennern auch empfohlen werden. Dann denken Sie wohl darauf über kurz oder lang
+                    wieder zu uns zurückzukehren, und <seg type="comment">
+                        <orig>sich wohl auch anstellen zu laßen</orig>
+                        <note xml:id="nnvc_4y1_yy">Erst Anfang März 1833 erhält Gerhard eine
+                            Anstellung als Archäologe des Königlichen Museums. 1843 wird Gerhard
+                            außerordentlicher und 1844 ordentlicher Professor an der Berliner
+                            Universität; 1855 wird er zum Direktor der Antikensammlung des
+                            Königlichen Museums berufen.</note>
+                    </seg>. wobe[y] könnte dies aber füglicher und beßer geschehen, als be[y]
+                        <placeName key="ediarum_rj2_kdc_sy">unserm <hi rendition="#aq">Museum</hi>
+                    </placeName>? und zwar bey der Abtheilung welcher die antiken Marmor betrift.
+                    Hiezu fehlt der <hi rendition="#aq">Archaeolog</hi>. Ich würde daher
+                    wünschen, daß Sie kei[ne] zeit versäumten, hierwegen an den <persName key="ed_iwb_fpx_lw">Minister</persName> zu schrei[ben,] auch allenfalls an
+                    den <persName key="prov_bxf_jt5_fv">König</persName> selbst. Berufen Sie s[ich]
+                    aber nicht speziell auf mich, da ich nicht immer in Gu[nst?] stehe. befragt
+                    möchte ich wohl werden, und dann soll [es] an mir nicht fehlen. Als Beweis Ihrer
+                    Befähigung gen[ügt] auf <bibl sameAs="ed_m54_t5z_xy">Ihr <hi rendition="#aq">Museum</hi> von Neapel</bibl>, und auf <seg type="comment">
+                        <orig>Ihre Beschreibung des <hi rendition="#aq">Museo Vaticano</hi>
+                        </orig>
+                        <note xml:id="nt2s_2n3_yy">Die Beschreibung der Vatikanischen Sammlungen von
+                            Gerhard und Platner erschienen in: Beschreibung der Stadt Rom, Zweiter
+                            Band: Das vaticanische Gebiet und die vaticanischen Sammlungen. Zweite
+                            Abtheilung oder der Beschreibung zweites Buch, Stuttgart und Tübingen
+                            1834, S. 1-283. - Gerhards Arbeiten zu diesem Thema waren schon früher
+                            mehrfach angekündigt worden. </note>
+                    </seg> aufmerksam zu [machen.] Werden Sie solches thun; so bitte ich mir
+                    zugle[ich] einen Wink davon zu geben. - Hätten Sie hier eine feste Lage; so
+                    würde sich manches Nützliche verabreden laßen. Suchen Sie aber auf jeden Fall
+                    mit den Män[nern] in <placeName key="prov_vxr_xxr_js">
+                        <hi rendition="#aq">Italien</hi>
+                    </placeName>, die Ihnen in der Folge nützlich seyn könn[en,] in verbindung zu
+                    bleiben. - <seg type="comment">
+                        <orig>Mit <persName key="ed_z3b_x43_by">Bunsen</persName> konnte [ich] mich
+                            hier nicht befreunden.</orig>
+                        <note xml:id="nu5h_tqz_xy">Bunsen hatte sich im Spätherbst 1827 in Berlin
+                            aufgehalten (vgl. <ref target="hirt_sx5_2tf_1y">1827-11-07-a-Gerhard</ref>). - Gerhard war mit Bunsen befreundet,
+                            wohnte im Herbst 1824 sogar einige Zeit in demselben Haus wie der
+                            preußische Ministerresident, im Palazzo Caffarelli, und stand in
+                            geselligem Verkehr mit dessen Familie.</note>
+                    </seg> Ich weiß nicht, was er eigentlich gegen mich hat. Mir ist die Sache an
+                    sich sehr gleichgül[tig,] aber ich halte dafür, daß bey einer guten
+                    verständigung die Sache hätte gewinnen können. - Leben Sie wohl, bester
+                    [Herr?]Professor, laßen Sie mich bald wieder Einiges Intereßa[nte] aus jenen
+                    Gegenden vernehmen, u. besonders über Ihr eigenes Denken u. Treiben. Ihr
+                    aufrichtig ergebner</p>
+                <closer>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

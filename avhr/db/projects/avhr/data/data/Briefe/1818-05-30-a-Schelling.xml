@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_yjq_jrf_cy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Wilhelm Joseph Schelling. Berlin, 30. Mai 1818.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection>NL Schelling</collection>
+                        <idno>
+                            <idno type="shelfmark">Nr. 345</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-05-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_xzs_sml_jw">Schelling, Friedrich Wilhelm Joseph (1775-1854)
+                        (ab 1812 Ritter von Schelling, Philosoph, Hauptvertreter des Deutschen
+                        Idealismus)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 30 May 18.</dateline>
+                    <salute>Mein verehrtester <seg type="comment">
+                            <orig>Director</orig>
+                            <note xml:id="nfln_mwf_cy">Schelling war seit 1806 Generalsekretär der
+                                Akademie der Bildenden Künste in München und seit 1817 Sekretar der
+                                philologisch-philosophischen Klasse der Akademie der
+                                Wissenschaften.</note>
+                        </seg>!</salute>
+                </opener>
+                <p>Spät erfolgt hiemit der <bibl sameAs="ed_gp2_xdf_mw">Aufsaz über die <hi rendition="#aq">Aeginetica</hi>
+                    </bibl>, <seg type="comment">
+                        <orig>welchen ich Ihnen versprach</orig>
+                        <note xml:id="nxpm_cxf_cy">Da
+                            dies auch mündlich, beispielsweise bei Hirts Aufenthalt in München im
+                            Sommer 1817, oder über Dritte erfolgt sein kann, wurde kein Brief
+                            Schellings an Hirt erschlossen.</note>
+                    </seg>. Indeßen haben Sie bereits
+                        <seg type="comment">
+                        <orig>eine Abschrift</orig>
+                        <note xml:id="nvz3_zzf_cy">Hirt hatte eine Abschrift seiner Abhandlung über Klenze an den
+                            Kronprinzen von Bayern nach Italien geschickt (vgl.
+                            1817-12-23-a-Klenze).</note>
+                    </seg> davon gesehen, und sich dadurch
+                    überzeugt, daß die Verspätung des Druckes nicht meine Schuld ist. Ich hatte mich
+                    bereden laßen, die Schrift an <persName key="ed_jzw_xhq_bw">
+                        <hi rendition="#aq">Wolf</hi>
+                    </persName> für die <bibl sameAs="ed_ayp_4fk_jw">
+                        <hi rendition="#aq">Analecten</hi>
+                    </bibl> zu
+                    geben, anstatt sie sogleich einzeln abdrucken zu laßen. - Indeßen wünsche ich
+                    nur, daß Sie darin die aufrichtige Achtung, die ich Ihnen gewiedmet habe,
+                    erkennen mögen, und daß es keinesweges Geist des Widerspruches ist, wo meine
+                    Meinung von der Ihrigen abgeht. Ich hoffe, daß dies nicht das lezte Wort über so
+                    wichtige Denkmäler seyn wird, und ich erwarte, daß, <seg type="comment">
+                        <orig>wenn sie einmal in <placeName key="prov_rhf_xzg_y5">München</placeName> aufgestellt <add place="superlinear">sind</add>
+                        </orig>
+                        <note xml:id="nzqw_5xf_cy">Vgl. dazu auch
+                            1817-12-23-a-Klenze.</note>
+                    </seg>, Sie selbst zugleich mit der
+                    Zeichnung, ein ein Ausführlicheres darüber bekannt machen werden. Überhaupt
+                    freut es mich, daß ein Mann wie Sie, auch unsere Alterthümlichen Studien
+                    ergriffen hat. Das Feld ist groß genug, um viele nebeneinander nach
+                    verschiedenen Richtungen zu beschäftigen, und wer das Studium aufrichtig liebt,
+                    wird sich über jede neue Erörterung freuen, gesezt auch, daß man nicht immer
+                    ganz derselben Ansicht beytreten kann. - <pb n="2"/>
+                </p>
+                <p>obwohl ich vermuthe, daß Ihnen der sonderbare <seg type="comment">
+                        <orig>Streit über die <persName key="ed_d2v_bkt_1x">
+                                <hi rendition="#aq">Hierodulen</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nu1z_xxf_cy">Vgl. 1818-04-21-a-Rauch: Sachanmerkung.</note>
+                    </seg> schon bekannt sey, so lege ich doch <bibl sameAs="ed_qkt_hpc_nw">ein
+                        Exemplar</bibl> bey, da es die Sendung weiter nicht beschwert. Zu meiner
+                        <bibl sameAs="ed_yxy_4kk_jw">Abhandlung über den <hi rendition="#aq">Canon</hi>
+                    </bibl> bedauere ich, daß die Kupfer so über alle Maßen schlecht ausgefallen
+                    sind, indeßen doch <supplied cert="high">kommt</supplied> es wesentlich auf die
+                    dabey vorgezeichnete Maaße an; und so mag sich der Künstler, für den ich
+                    besonders dies geschrieben habe, selbst eine beßere Figur darnach zeichnen, und
+                    das Gezeichnete prüfen. Ich bitte sie auch den <seg type="comment">
+                        <orig>Herrn <persName key="ed_aqs_pyf_cy">
+                                <hi rendition="#aq">Langer</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nybd_1zf_cy">Hier ist wohl Johann Peter von Langer gemeint und
+                            nicht dessen Sohn Robert von Langer (1783-1846), ebenfalls Maler und
+                            seit 1806 Professor an der Akademie der Bildenden Künste in
+                            München.</note>
+                    </seg> u. andern denkenden Künstlern mitzutheilen.</p>
+                <p>Von den drey Exemplaren <bibl sameAs="ed_gp2_xdf_mw">der <hi rendition="#aq">Aeginetica</hi>
+                    </bibl> ersuche ich auch eines an Herrn <hi rendition="#aq">
+                        <persName key="ed_qnt_bnm_vw">Tiersch</persName>
+                    </hi> zu
+                    geben, und das andere an den Architekten Herrn<persName key="ed_f4n_jqc_zw">
+                        <hi rendition="#aq">Klenze</hi>
+                    </persName>, deßen <seg type="comment">
+                        <orig>Rückkunft</orig>
+                        <note xml:id="ndrs_kzf_cy">Aus
+                            Italien.</note>
+                    </seg> bald erfolgen möchte, da der <del rendition="#s">Prin</del>
+                    <persName key="ed_uhy_32p_nw">Kronprinz</persName> selbst wie ich höre, seine
+                    griechische Reise aufgegeben hat.</p>
+                <closer>
+                    <salute>Indem ich um die Fortdauer Ihres Andenkens bitte, <subst>
+                            <del rendition="#ow">erg</del>
+                            <add place="across">ver</add>
+                        </subst>bleibe ich mit wahrer Hochachtung <lb/>mein verehrtester Herr
+                        Director <lb/>Ihr ergebenster <lb/>D<ex>iener</ex>
+                    </salute>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_iqt_3mq_1jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Grafen Albert von Sack. Berlin, 30. September
+                    1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3, Bl. 44r-46r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-09-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_vm2_w3b_fhb">Sack, Sebastian Albert Freiherr von (ab 1821 Graf
+                        von) (1757 (n.a. um 1753)-1829) (schlesischer Forschungsreisender (Suriname,
+                        Nordamerika, Naher Osten), königl.-preuß. Kammerherr, Ritter des
+                        Johanniterordens; übergab zahlreiche auf seinen Reisen erworbene antike
+                        Artefakte an die Berliner Antikensammlung; vererbte sein Vermögen an das
+                        Waisenhaus der Franckeschen Stiftungen in Halle)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Das Anschreiben ist egh. von Hirt verfasst; die Beilage ist als "Copie der
+                    Handschrift des Herrn Hofrath Hirt" überliefert.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+					<salute>Hochgeborner Herr Graf!</salute>
+                </opener>
+				<p>Indem ich das Verzeichniß der Münzen mit Dank zurücksende, übergebe ich zugleich das
+                    Verzeichniß ihrer höchst intereßanten <rs type="artwork" key="prov_gsc_kcp_1jb">Athenischen Alterthümer</rs>.</p>
+                <p>Würden Sie eine Abschrift von meinen beiden Verzeichnißen machen laßen wollen,
+                    und mir dieselben zurücksenden, würden Ew. Hochgebornen mich sehr verbinden.</p>
+                <p>Ich wünsche, daß Sie, mein verehrtester Herr Graf, bald wieder eine zweyte Reise
+                    in den Orient unternehmen mögen. Die Ausbeute Ihrer ersten Reise ist so groß und
+                    schön, daß wir Studirende, die wir hier am Boden kleben müßen, nur wünschen
+                    können, daß es viele Patrioten Ihresgleichen geben möge, die uns so vielfach,
+                    wie Sie, bereichern; und unsere vaterländischen <hi rendition="#aq">Musea</hi>
+                    bedenken.</p>
+				<closer>
+                    <salute>Ich verbleibe wie immer mit ausgezeichneter Hochachtung <lb/>Ihr
+                        gehorsamster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin den 30<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Sept. / 1821. <pb n="2"/></dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p><hi rendition="#u">Vorläufiges Verzeichniß.</hi>
+                    <lb/>der <rs type="artwork" key="prov_gsc_kcp_1jb">Alterthümer</rs>
+                    <lb/>welche Herr <persName key="ed_vm2_w3b_fhb">Graf <hi rendition="#aq">v
+                            Sack</hi></persName> in <placeName key="ed_el2_k1x_5w"><hi rendition="#aq">Athen</hi></placeName> gesammlet hat.
+                    <lb/>______________________________________</p>
+                <p>Diese Denkmäler bestehen theils in <hi rendition="#aq">Marmora</hi>, theils in
+                    gebrannter Erde. Manches ist durch schlechte Packung auf dem Transport
+                    gebrochen, doch so daß das wesentliche sich wieder herstellen läßt. Wir zeichnen
+                    zuerst:</p>
+                <p><hi rendition="#u">A. Die <hi rendition="#aq">Terre cotte</hi>.</hi>
+                    <lb/>1. Ein gemaltes Gefäß in vielen Scherben. Es hat mehrere Figuren, deren
+                    Zustand sich aber erst näher bestimmen läßt, wenn die Stücke erst wieder genau
+                    vereinigt sind. Es scheint, daß <hi rendition="#aq"><persName key="prov_pvd_4jb_w5">Achilles</persName></hi> unter den Töchtern des
+                        <hi rendition="#aq"><persName key="ed_vq3_dwz_bjb">Lecomedes</persName></hi>
+                    darauf vorgestellt sey. <lb/>2. Mehrere Fragmente von einem Gefäß mit schwarzen
+                    Figuren - wie es scheint der alte <hi rendition="#aq"><persName key="ed_kvd_5ws_jw">Bacchus</persName></hi>, <hi rendition="#aq"><persName key="prov_ctb_wmy_cv">Hercules</persName></hi> und eine
+                    weibliche Göttin. <lb/>3. Der Hals, wie es scheint von einem Gefäß mit gemalten
+                    Streifen u.s.w. <lb/>4. Der Bauch von einem Gefäße mit schwarzen Figuren, wie es
+                    scheint, der alte <hi rendition="#aq"><persName key="ed_kvd_5ws_jw">Bacchus</persName></hi>, <hi rendition="#aq"><persName key="prov_ctb_wmy_cv">Hercules</persName></hi> und eine weibliche
+                    Göttin. <lb/>5. Ein großes Gefäß mit gemalten Streifen u.s.w. <lb/>6. Kleines
+                    schwarzes Gefäß mit schwarzen Figuren, wie es scheint den Kampf mit <hi rendition="#aq"><persName key="ed_h2n_q43_d1b">Minotaurus</persName></hi>
+                    vorstellend. <lb/>7. Verschiedene Schaalen mit Henkeln ohne Figuren. <lb/>8.
+                    Ungefähr zwölf Stück kleinere Gefäße von dieser Form derer, welche zu Salbungen
+                    dienten, und andere. <lb/>9. Eine Taube von gebrannter Erde. <lb/>10.
+                    Desgleichen ein unförmlicher Eber. <lb/>11. Ein runder Deckel mit drey Reutern.
+                    <lb/>12. Eine sitzende weibliche Figur, etwa 4 Zoll hoch, in ihre Drapperien
+                    sehr schön eingewickelt. Der Kopf und der linke Fuß fehlen. Die Rückseite wie
+                    gemacht. <lb/>13. Eine weibliche Figur gerade stehend, etwa 6 Zoll hoch, die
+                    Drapperie hat Aehnlichkeit mit der athenischen <seg type="comment">
+                        <orig>Caulphorre</orig>
+                        <note xml:id="np35_hwx_1jb">Kanephore?</note>
+                    </seg>. Es fehlen der linke Vorderarm die rechte Hand und der Kopf. <lb/>14.
+                    Eine thronende weibliche Gottheit im ältesten Styl - aegyptisch-aeginetisch, die
+                    ganze Figur war bemalt, das Gewand mit allerley Auszierungen, aber ohne
+                    bestimmten Charackter. Der Kopf ist von der Statue abgebrochen und auch der
+                    untere Theil der Büste, doch sind beide leicht wieder zu vereinigen. - Ein
+                    seltenes Stück. - <lb/>15. Ein ganz rothes Gefäß mit drey kleinen Henckeln noch
+                    mit Knochen ausgefüllt. <pb n="3"/></p>
+                <p><hi rendition="#u">B. Marmor und Alabaster.</hi>
+                    <lb/>16. Ein gebrochenes Salbengefäß von <seg type="comment">
+                        <orig>pentalischen</orig>
+                        <note xml:id="nqjf_lyx_1jb">pentelischen</note>
+                    </seg> Marmor. <lb/>17. Fragmente von einem andern in Alabaster. <lb/>18. Ein
+                    rundes flaches Gefäß, mit gebrochenem Deckel, wunderschön gedrehte Arbeit in
+                    Marmor. <lb/>19. Mehrere verrostete Stücke von Erz. <lb/>20. Ein ausgehöhltes
+                    Salbengefäß. <lb/>21. Zwey ähnliche aber noch nicht ausgehöhlt. <lb/>22. Zwey
+                    Mündungen von Salbengefäßen, das eine von Marmor das andere von Alabaster.
+                    <lb/>23. Ein Stück grauen Marmor. <lb/>24. Ein anderes mit einem Gesimschen und
+                    dem Worte. <foreign xml:lang="grc">ΔΟΚΙΜΟ</foreign> - <lb/>25. Mehrere
+                    Marmorfragmente, welche als Füße zu einem Throne gedient zu haben scheinen. Noch
+                    ist um den untern Theil eines Fußes das Bley anhangend, mit dem es vergoßen
+                    wurde. <lb/>26. Ein weiblicher Zeigefinger. <lb/>27. Eine rechte weibliche Hand
+                    ohne Finger. <lb/>28. Ein rechter weiblicher Fuß. <lb/>29. Eine Streifen Marmor,
+                    worauf ein <hi rendition="#aq">Relief</hi>, eine im Mantel gehüllte
+                    Jünglingsfigur, in der linken eine Rolle haltend, der rechte Arm nackt
+                    herabhängend. Zu den Füßen eine runde Scheibe (<hi rendition="#aq">Discus</hi>)
+                    und ein Malteser Hündchen, an dem Jüngling aufspringend: über die Figur der Name
+                        <foreign xml:lang="grc">ΓΑΜΦΙΛΟΣ</foreign> - <lb/>30. Fragment eines
+                    Gefäßes, worüber abgebildet eine Urne mit einem <hi rendition="#aq">relief</hi>
+                    in drey Figuren, welche zwey Alte vorstellen, die voneinander Abschied nehmen;
+                    ein Jüngling steht trauer<supplied cert="high">n</supplied>d hinter einen
+                    derselben. <lb/>31. Ungefähr 3 Fuß hohe Marmorurne mit <hi rendition="#aq">relief</hi>: Eine Matrone sitzt auf dem Stuhle, die kleinere Tochter hinter
+                    ihr, ein alter bärtiger Mann nimmt Abschied, hinter ihm wie es scheint die
+                    ältere Tochter: über dem Kopf der Sitzenden ist der Name <foreign xml:lang="grc">ΕΥΘΥΜΑΧΗ</foreign>. - <lb/>32. Eine ähnliche Urne: in <hi rendition="#aq">relief</hi> drey weibliche Figuren, wovon die eine von der in der Mitte
+                    stehenden Abschied nimmt. <lb/>33. Noch eine ähnliche Urne: in <hi rendition="#aq">Relief</hi> drey Figuren, Vater und Mutter, wovon die
+                    Tochter Abschied nimmt. <lb/>34. Das Fragment einer sitzenden weiblichen Statue
+                    in Lebens-<pb n="4"/>größe. Der verschleierte Kopf ist erhalten bis auf die
+                    Nase, und das Gewand bis auf den Sitz; doch ist von der Brust an das Bild
+                    abwärts beschädigt. Nicht unwahrscheinlich gehörten die Fragmente N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 25 zu dem Throne. Schwer ist
+                    der Gegenstand zu errathen, indessen ist das Gesicht mehr <hi rendition="#aq">ideal</hi>, als <hi rendition="#aq">Portrait</hi>, und erinnert an die <hi rendition="#aq"><persName key="ed_ohs_d11_cjb">Vesta</persName></hi>.
+                    <lb/>35. Ein rohgearbeitetes würfelförmiges Stück Marmor, ungefähr 18 Zoll hoch,
+                    und 24. Zoll breit, bestehend aus einem Untersatz, ist keßelförmig vertieft, und
+                    mit Knochen gefüllt. Der Deckel schließt genau darüber, vermittelst eines
+                    Pfalzers. <lb/>36. Der Deckel eines Sarges in Giebelform unter dessen
+                    Kranzgesimse die Inschrift steht: <foreign xml:lang="grc"><lb/>ΝΙΚΑΡΕΤΗ Κ
+                        ΤΗΣΙΚΛΕΟΥ ΣΑΤΝΟ ΣΙΟΚ ΘΥΓΑΤΗΡ</foreign>. -</p>
+                <p><hi rendition="#aq">Berlin</hi> den 30<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">September</hi> 1821.</p>
+                <p>Copie der Handschrift des Herrn Hofrath <lb/><hi rendition="#aq">Hirt</hi></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

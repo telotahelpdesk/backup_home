@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_msn_hws_whb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an die Sektion des Kultus betreffend den Unterricht an der
+                    Bauakademie. Berlin, 2. Januar 1810</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 3,
+                                Bl. 17r-18v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1810-01-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xdh_drs_5hb">Sektion des Kultus und öffentlichen
+                        Unterrichts</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_hqk_z5y_whb"/>
+                </correspContext>
+                <note>Mit Sichtungsvermerken "Nach Rückkehr des Herrn Sections Chefs??? wieder
+                    vorzulegen. / Berlin den 8 Januar 10. / Uhden.", "factum den 25 e."; "pr. d. 5
+                    Jan. 10. / N° 5. pro Febr: 10. Kunst-Acad-Prot."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_f1n_1nm_pgb">AdK - Neuorganisation</term>
+                    <term key="ed_a1p_2nm_pgb">Bauakademie</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An eine hochlöbl. <hi rendition="#aq">Section</hi> des <hi rendition="#aq">Cultus</hi> - in Sachen, die Kunstakademie
+                            betreffend.</addrLine>
+                    </address>
+                    <dateline/>
+                </opener>
+				<p>Mir ist das Schreiben der <orgName key="ed_xdh_drs_5hb"><hi rendition="#aq">Section</hi></orgName> an den <orgName key="ed_fyw_2vh_4fb">academischen
+                            <hi rendition="#aq">Senat</hi></orgName> vom 11<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Nov<ex>ember</ex> 1809 mitgetheilt worden,
+                    nach welchem für den mit der <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName> zu verbindenden Unterricht in der Baukunst ein
+                    besonderer Ausschuß ernannt ist, wovon ich auch die Ehre haben soll, eines der
+                    Mitglieder zu seyn.</p>
+                <p>Ich gestehe, daß in diesem <hi rendition="#aq">Rescript</hi> mir <add place="intralinear">manches</add> ganz unerwartet ist, und <add place="superlinear">ich</add> es mit frühern Anordnungen nicht zusammen
+                    reimen kann. Bevor ich mich also auf eine Funktion einlaße, deren Zweck und
+                    Umfang mir keinessweges klar ist, bitte ich mir zu erlauben, einige Bemerkungen
+                    unmittelbar zur Einsicht der <hi rendition="#aq">Section</hi> bringen zu
+                    dürfen.</p>
+                <p>1) Nach frühern <hi rendition="#aq">Rescripten</hi> der <hi rendition="#aq"><orgName key="ed_xdh_drs_5hb">Section</orgName></hi> ward der <orgName key="ed_fyw_2vh_4fb">academische <hi rendition="#aq">Senat</hi></orgName>
+                    aufgefordert, über eine beßere Organisation des Kunstunterrichtes Vorschläge zu
+                    thun. Dies ist von Seite des <orgName key="ed_fyw_2vh_4fb">akademischen <hi rendition="#aq">Senats</hi></orgName> geschehen, und die <hi rendition="#aq">Protocolle</hi> hierüber bereits der <orgName key="ed_xdh_drs_5hb"><hi rendition="#aq">Section</hi></orgName> eingesendet
+                    worden. Der <orgName key="ed_fyw_2vh_4fb">akademische <hi rendition="#aq">Senat</hi></orgName>, der seine bisher sehr schwankende Zusammensezung,
+                    Rechte und Befugniße einsah, glaubte zugleich auch einen Plan vorlegen zu müßen,
+                    wie die Oberaufsicht über die Kunststudia, welche bis iezt der <orgName key="ed_fyw_2vh_4fb">academische <hi rendition="#aq">Senat</hi></orgName>
+                    hatte, in Zukunft zweckmäßiger eingerichtet werden könnte, wenn dieser <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi></orgName> ganz aufhörte,
+                    und eine gewiße Anzahl Mitglieder desselben unter dem Namen der Kunstclasse mit
+                    der <orgName key="ed_znn_dfc_b1b">Akademie der Wißenschaften</orgName> verbunden
+                    würden. Die wechselseitigen Vortheile, die hieraus sich ergeben könnten, sind im
+                    Plane selbst angedeutet, so wie auch die nähern Verhältniße, in welchen diese
+                    Kunstclasse einerseits zur Gesammt-<pb n="2"/>akademie, und anderseits zur
+                    Kunstschule stehen sollte. Enthielte nun dieser Plan Ideen, welche einer reifern
+                        <hi rendition="#aq">Reflexion</hi> der <hi rendition="#aq">Section</hi>
+                    würdig wären, so dürfte der Sinn des leztern Rescriptes leicht eine andere
+                    Anwendung erhalten, und die künftige Oberaufsicht über das Kunststudium
+                    zweckmäßiger eingerichtet werden.</p>
+                <p>2) Wird die <hi rendition="#aq">Section</hi> aus dem neuen Organisationsplan des
+                        <orgName key="ed_fyw_2vh_4fb">akademischen <hi rendition="#aq">Senats</hi></orgName> ersehen, daß die Fächer, welche in Zukunft den
+                    Kunstunterricht <hi rendition="#aq">constituiren</hi> sollten, einen ganz andern
+                    Gang und Einrichtung erhalten, daß die Lehrer in der Baukunst nur auf drey
+                    Mitglieder <hi rendition="#aq">reducirt</hi> sind, und in's besondere die
+                    Hydrotechnik kein besonders LehrFach an der Kunstschule seyn würde. Alles, was
+                    hievon zur Baukunst gehört, würde theils in der Lehre der Baukunst, theils in
+                    der Lehre der Gebäude vorgetragen. Der physische und mathematische Theil der
+                    Hydrotechnik ist allgemein wißenschaftlich, und gehört, so wie jede
+                    Hülfswißenschaft, nicht mehr für die Kunstschule, sondern für die <orgName key="ed_jzs_dps_whb"><hi rendition="#aq">Universität</hi></orgName>.
+                    Hiernach würde Herr p. <persName key="ed_rmd_spd_jx">Eitelwein</persName> viel
+                    paßender als Lehrer der angewandten Mathematik, wovon die Mechanik und Hydraulik
+                        <add place="intralinear">besondere</add> Theile sind, zur <hi rendition="#aq"><orgName key="ed_jzs_dps_whb">Universität</orgName></hi>
+                    gezogen werden. Überhaupt haben sich die Mathematiker heut zu tage viel zu weit
+                    in die Kunst, und in's besondere in die Baukunst eingemischt. Man muß nie
+                    vergeßen, daß die Kenntniß der Mathematik bis auf einen gewißen Grad eine rein
+                    nüzliche Hülfswißenschaft für den praktischen Künstler ist. Physik und
+                    Mathematik sind allgemeine Lehren; sie greifen überall ein; also natürlich auch
+                    in die Kunstfächer. Aber warum solche Hülfswißenschaften in's besondere in die
+                    Kunstschulen einführen, da <subst>
+                        <del rendition="#ow">selbst</del>
+                        <add place="intralinear">sie</add>
+                    </subst> ohnedem an der <hi rendition="#aq"><orgName key="ed_jzs_dps_whb">Universität</orgName></hi> müßen gelehrt werden, und der Künstler, so
+                    wie jeder andere Student, sie an lezterer Anstalt hören kann? -</p>
+                <p>3) In Rücksicht der Gelder für die Matrikel, und des <hi rendition="#aq">Honorarium</hi>s für den Unterricht, wovon das Rescript Meldung <pb n="3"/>
+                    thut, ist der <orgName key="ed_fyw_2vh_4fb">academische <hi rendition="#aq">Senat</hi></orgName> der Meinung, daß beide fortdauren sollten. Jedoch
+                    um allen Mißbrauch zu hindern, über den man häufig klagen hörte, sollten solche
+                    Gelder nicht von den Lehrern eingenommen werden, sondern unmittelbar in die
+                    allgemeine <hi rendition="#aq">Casse</hi> fließen. Daher sollte es auch den
+                    Mitgliedern der technischen <orgName key="ed_dvs_ykp_tgb">Ober<hi rendition="#aq">baudeputation</hi></orgName> für immer verboten seyn,
+                    unter irgend einem Vorwande <hi rendition="#aq">Privatcollegia</hi> zu
+                    lesen.</p>
+                <p>Überhaupt da mir das Beste der Kunst sowohl in der Theorie als in der Ausübung am
+                    Herzen liegt, kann ich nicht umhin, eine Anmerkung über die Einrichtung der
+                    neuen technischen <orgName key="ed_dvs_ykp_tgb">Ober<hi rendition="#aq">baudeputation</hi></orgName> zu machen. Diese soll nämlich unter anderm
+                    auch die für die Baukunst anzustellenden <hi rendition="#aq">Subjecte</hi>
+                    prüfen. Wie soll aber dies geschehen, wenn die Mitglieder derselben bloß aus so
+                    genannten Land- und Waßerbaumeistern bestehen? - Die wahre Kunst und
+                    Kunstrichtung muß von dem Höhern und Gesammten ausgehen. Dies umfaßt aber allein
+                    der Architekt in dem wahren Sinne des Wortes, aber nicht solche, welche nur
+                    einzelne Hülfswißenschaften und Praktiken hievon verstehen. Übrigens ist aus der
+                    Erfahrung bekannt, daß solche <hi rendition="#aq">Examinatoren</hi> und <hi rendition="#aq">Censoren</hi> nur zu vielen Einfluß sowohl auf das Studium
+                    der Zöglinge, als auf die Ausübung der angestellten Bauleute haben, indem die
+                    ersten nichts studiren, als den <hi rendition="#aq">Examinatoren</hi> in den
+                    Fächern, wovon sie selbst etwas verstehen, zu genügen und die zweyten nicht die
+                    wirkliche Verbeßerung des Bauwesens zum Zweck haben, sondern bey Führung ihrer
+                    Werke einzig trachten, gewiße vorgeschriebene Formeln zu erfüllen. Ich darf
+                    hierüber frey sprechen, da kein Verdacht auf mir ruhen kann, als wenn ich selbst
+                    eine solche Stelle <hi rendition="#aq">ambitionirt</hi>e.</p>
+                <p>4) Nach dem <hi rendition="#aq">Rescript</hi> sollen die bißherigen <pb n="4"/>
+                    Büchersammelungen der <orgName key="ed_tc3_hfc_b1b">Bau</orgName>- und <orgName key="ed_u5s_1fc_b1b">Kunstakademien</orgName> auch mit der künftigen
+                    Akademie (doch ohne Vermischung der Bücher) verbunden bleiben. Allein ich muß
+                    gestehen, daß ich dies nicht zweckmäßig finde, und ich es für beßer hielte, daß
+                    alle Bücher mit der großen <placeName key="prov_obz_4lv_3v">königl<ex>ichen</ex>
+                        <hi rendition="#aq">Bibliotek</hi></placeName> vereinigt würden. Erstlich
+                    wäre es dann nicht nöthig, so viele kostbare Werke doppelt und dreyfach
+                    anzuschaffen, wo dann aus Mangel an Fond gewiße sehr wichtige Werke gar nicht,
+                    oder doch nur sehr spät angekauft werden können. Zweytens werden bey mehrern
+                    Büchersammlungen auch mehrere Lokale und Aufseher erforderlich. Drittens weiß
+                    ich aus Erfahrung, daß es sehr umständlich ist, und man immer mehrmal hin- und
+                    her schicken muß, bis man aus diesen beiden Sammlungen der <orgName key="ed_u5s_1fc_b1b">Kunst</orgName>- und <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> ein Buch haben kann. Daher dann das ewige Klagen über
+                    die Unordnung dieser Biblioteken. Sind hingegen alle Werke auf der großen
+                        <placeName key="prov_obz_4lv_3v">könig<ex>lichen</ex>
+                        <hi rendition="#aq">Bibliotek</hi></placeName> versammelt, wo die Aufseher
+                    alle Tage zu gesezten <add place="superlinear">Stunden</add> gegenwärtig sind,
+                    so verursachet weder das Holenlaßen der Bücher, noch das Lesen oder Nachschlagen
+                    auf der <hi rendition="#aq">Bibliotek</hi> selbst die geringste
+                    Umständlichkeit.</p>
+                <p>5) Am Ende des <hi rendition="#aq">Rescriptes</hi> redet die <hi rendition="#aq"><orgName key="ed_xdh_drs_5hb">Section</orgName></hi> auch von einem
+                    ähnlichen mit dem <orgName key="ed_fyw_2vh_4fb">akademischen <hi rendition="#aq">Senate</hi></orgName> zu verbindenden Ausschuße für die Musik. In dem
+                    neuen von dem <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senate</orgName></hi> eingereichten Plan ist auch dieser Zweig der schönen
+                    Künste nicht vergeßen, doch zugleich in Verbindung mit der <hi rendition="#aq">Mimik</hi>. Es wäre zu wünschen, daß die <hi rendition="#aq"><orgName key="ed_xdh_drs_5hb">Section</orgName></hi> auch auf leztere Rücksicht
+                    nähme.</p>
+                <p>Überhaupt wäre zu wünschen, daß die neue Organisation der <orgName key="ed_znn_dfc_b1b">Akademien der Wißenschaften</orgName> und <orgName key="ed_u5s_1fc_b1b">Kunst</orgName>, so wie die <hi rendition="#aq"><orgName key="ed_jzs_dps_whb">Universität</orgName></hi> mit allen dem,
+                    was dazu gehört, nicht stückweise vor sich gienge, sondern jedes bevor genau in
+                    Beziehung auf das andere gesezt würde, so daß alle Theile in genauer Harmonie zu
+                    einander <del rendition="#s">stünden</del> zu stehen kämen.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Jan. 1810.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

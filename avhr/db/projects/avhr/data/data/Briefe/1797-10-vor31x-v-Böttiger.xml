@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mft_ngv_rz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Weimar, vor 31. Oktober 1797]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1797-10-31-a-Böttiger: "Zuförderst dem Freunde der traute Handschlag,
+                    und mein Dank für seine mir so lieben Briefe. - nun zuerst von der Toilette des
+                    Visconti. [...] Es wäre ja schön, wenn Mademoiselle Jagemann hieher käme: was
+                    ich thun könnte, sollte meinerseits von Herzen geschehen. Da ich aber seit einem
+                    Monate die Gräfin v. Lichtenau gar nicht sahe, da sie immer in Potsdam ist, so
+                    konnte ich ihr nichts hievon sagen: indeßen wenn sonst keine Änderungen
+                    vorfallen: würde ich für ihre gute Aufnahme repondiren. / Wahrlich ich habe
+                    bißher in den neuesten Produkten von Goethe und Schiller nur geblättert, nicht
+                    gelesen [...]"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date notBefore="1797-09-26" notAfter="1797-10-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_skt_lzh_gv"/>
+                </correspContext>
+                <note>Es handelt sich um mehrere, mindestens aber zwei Briefe von Böttiger.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

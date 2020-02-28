@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ikc_qqw_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an Staatsminister v. Altenstein. Berlin, 12. Februar
+                    1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SBB-PK</institution>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno><idno type="shelfmark">Slg. Darmstädter 1914.27</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GStA PK</institution>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4
+                                        Bd. 1, Bl. 98r-100r (beglaubigte Abschrift, Verf. v. 3. März
+                                        1914, B, No 377)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Robert Skwirblies: Altitalienische Malerei als
+                            preußisches Kulturgut. Gemäldesammlungen, Kunsthandel und Museumspolitik
+                            1797-1830. Berlin, Boston 2017 (= Ars et Scientia, Bd. 13), S. 328-329
+                            (Zitate und Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-02-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Empfängerbemerkungen: "Cito / pr[äsentiert] den 13/2 22"; "296. B. J."; "Brief
+                    an H. Geh. OR. Rath Schultz zu gefälliger Kenntnißnahme und Berücksichtigung
+                    vorzulegen. / Vorerst scheint es mir blos darauf anzukommen ungefähr voraussagen
+                    zu können ob wohl von Herrn De Lahante auch sein Geschxxx Gebrauch zu machen
+                    seyn dürfte und unter welchen Bedingungen er sich zu einem Geschäfft verstehen
+                    würde ingleichen ob es möglich seyn dürfte künftig ein Kauf-Geschäfft mit ihm
+                    einzuleiten. p / Altenstein / 13/2. - Die Abschrift mit Stempel: "Original zu
+                    der Autographen-Sammlung Darmstaedter b. d. Kgl. Bibliothek genommen / Verf. v.
+                    3. Maerz 1914 / B. No 377"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Den Herrn <persName key="ed_wbt_wvy_djb"><hi rendition="#aq">Delahante</hi></persName> habe
+                    ich persönlich kennen lernen, und in Beziehung seiner auch Rücksprache mit dem
+                        H<ex>errn</ex> Geh<ex>eimen</ex> O<ex>berregierungs</ex> R<ex>at</ex>
+                    <persName key="ed_kbw_cgy_lw"><hi rendition="#aq">Schultz</hi></persName>
+                    genommen.</p>
+                <p>Allerdings bedarf die <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>sche Sammlung</rs> geschickter und mehrer <hi rendition="#aq">Restauratoren</hi>; und so würde es gut seyn, den Herrn
+                        <persName key="ed_wbt_wvy_djb"><hi rendition="#aq">Delahante</hi></persName>
+                    zu diesem Zweck hier zu behalten, wenn er sich als tauglich erwiese, allein ich
+                    muß Ew. <hi rendition="#aq">Excellenz</hi> aufrichtig gestehen, daß ich für mich
+                    allein die Verantwortlichkeit in Hinsicht der <hi rendition="#aq">Restauration</hi> der <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>schen Bilder</rs> nicht übernehmen kann. Dies
+                    Geschäft ist von der größten Wichtigkeit und Schwierigkeit. Schlechte <hi rendition="#aq">Restauratoren</hi> können die ganze Sammlung rein zu Grunde
+                    richten. Daher muß ich wünschen, daß ein Ausschuß von Technikern in Verein mit
+                    H. <hi rendition="#aq"><persName key="ed_kbw_cgy_lw">Schultz</persName></hi> und
+                    mir niedergesezt werde, um nicht bloß die Geschicktheit der <hi rendition="#aq">Restauratoren</hi> zu prüfen, sondern auch jedes zu <hi rendition="#aq"><hi rendition="#aq">restaurir</hi></hi>ende Bild genau zu untersuchen, und
+                    im voraus mit den <hi rendition="#aq">Restauratoren</hi> zu besprechen, was an
+                    einem solchen zur Ausbeßerung gethan weden soll und kann. - Dann hat jedes zu
+                        <hi rendition="#aq">restaurir</hi>ende Bild zwey Momente: erstlich das
+                    eigentliche Reinigen, und zweytens wenn alles gut gereinigt ist, und man genau
+                    alle Stellen sieht, wo das Bild gelitten hat, das Ausbeßern der schadhaften
+                    Stellen, und das in Harmonie setzen des Neuen mit dem Alten. Über beide Momente
+                    hat der <orgName key="ed_yxr_sxj_4jb">Ausschuß</orgName> genau zu wachen, <pb n="2"/> daß der <hi rendition="#aq">Restaurator</hi> nicht willkührlich, und
+                    tölpisch - wie es nur zu oft geschieht - verfahre.</p>
+                <p>Früher als die Sammlung noch Herrn <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi> gehörte, hatte ich nichts
+                    weder zu dem Putzen, noch dem Hineinmalen zu sagen; sonst würde ich mich vielem,
+                    was geschah, sehr opponirt haben, sowohl dem, was <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi> selbst machte, als dem, was er
+                    durch andere ungeschikte Hände machen ließ.</p>
+                <p>Aus Technikern muß aber ein solcher <orgName key="ed_yxr_sxj_4jb">Ausschuß</orgName> hauptsächlich bestehen, denn hier handelt es von genauer
+                    Kenntniß des Farbenmaterials, der Oele und Firniße, der Auflösungsmittel, und
+                    der zweckmäßigen Temperaturen, welche nur der erfahrne Praktiker genauer inne
+                    haben kann. Ich würde also zu diesem Behuf Männer zu dem Ausschuße vorschlagen,
+                    wie <persName key="prov_uny_4th_kv"><hi rendition="#aq">Weitsch</hi></persName>,
+                        <persName key="prov_n1f_vl5_tv"><hi rendition="#aq">Hummel</hi></persName>,
+                        <persName key="ed_y23_xjy_2y"><hi rendition="#aq">Wach</hi></persName> und
+                        <hi rendition="#aq"><persName key="ed_dqk_fnp_thb">Kubeil</persName></hi>.</p>
+                <p>Zu <hi rendition="#aq">Restaurotoren</hi> scheint mir allerdings der Römer <hi rendition="#aq"><persName key="ed_lq4_gbz_djb">Teoli</persName></hi> viel
+                    Geschick zu haben. Manches würde auch können an <persName key="ed_ttq_cdz_djb"><hi rendition="#aq">Bock</hi></persName> übergeben werden. Auch scheint
+                    Herr <persName key="ed_wbt_wvy_djb"><hi rendition="#aq">Delahante</hi></persName> nach dem, was ich mit ihm sprach, nicht
+                    ungeschickt zu seyn, so daß man ihn allerdings unter der Aufsicht des Ausschußes
+                    zu einem Versuche zulaßen könnte. Ferner schienen mir die Gemälde in <placeName key="ed_lsl_rtm_b3b"><hi rendition="#aq">Cöln</hi></placeName> gröstentheils
+                    gut <hi rendition="#aq">restaurirt</hi>, wozu man den dortigen Mahler <persName key="ed_akq_dqz_djb"><hi rendition="#aq">Fuchs</hi></persName>, wie ich
+                    hörte, gröstentheils gebrauchte; und daher würde es vielleicht nicht
+                    unzweckmäßig seyn, denselben sondiren zu laßen, ob er zu einem solchen Zweck an
+                    den <hi rendition="#aq">Restaurationen</hi> der <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>schen Sammlung</rs>
+                    Antheil nehmen möchte. <pb n="3"/></p>
+                <p>Noch muß ich beyfügen: daß gewöhnlich die <hi rendition="#aq">Restauratoren</hi>
+                    wunderliche Geheimnißkrämer sind, und manchmal ihre Unwißenheit durch die
+                    Kenntniß von <hi rendition="#aq">Arcana</hi> decken wollen. - Dergleichen würde
+                    ein solcher Ausschuß verhüten, so wie auch die Impudenz von Forderungen, die
+                    solche <hi rendition="#aq">Restauratoren</hi> ganz ungemeßen machen. Auch über
+                    die Preise müßte der Ausschuß sich gehörig mit den <hi rendition="#aq">Restauratoren</hi> abfinden.</p>
+                <p>All dies zeiget, wie vorsichtig das ganze Werk der <hi rendition="#aq">Restauration</hi> angegriffen werden muß, und daß man die Leute hiezu nur
+                    bedingungsweise annehmen kann. Dann glaube ich, daß ordentlich ein jährlicher
+                        <hi rendition="#aq">Etat</hi> festgesezt werde, bis die volle <hi rendition="#aq">Restauration</hi> zu Ende komt. Ohne dies würde alles zu
+                    einer ermüdenden Länge gezogen werden, und die Unkosten sich um vieles
+                    vermehren.</p>
+                <p>Dies sind die Ansichten, welche ich in solcher Beziehung zur Kenntniß Ew. <hi rendition="#aq">Excellenz</hi> ganz gehorsamst kommen laßen wollte, und was
+                    überhaupt meine Meinung über ein so wichtiges Geschäft ist.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">Feb</hi>. 1822.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

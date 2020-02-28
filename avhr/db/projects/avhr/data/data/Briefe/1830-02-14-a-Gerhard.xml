@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nlx_d3f_hy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Eduard Gerhard. Berlin, 14. Februar 1830.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>DAI, Rom, Archiv</institution>
+                        <collection>Sachgruppe II (Gelehrtenbriefe)</collection>
+                        <idno>
+                            <idno type="shelfmark">Hirt an Gerhard</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1830-02-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_szp_ntf_1y">Gerhard, Eduard (Friedrich Wilhelm Eduard)
+                        (1795-1867) (dt. Klassischer Archäologe, 1829 Gründer des Instituto di
+                        Corrispondenza Archeologia in Rom, 1833 Archäologe am königlichen Museum in
+                        Berlin, 1844 o. Prof. an der Universität Berlin)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Al Signor Odoardo / Gerhard Professore / di Berlino - / <hi rendition="#u">Roma</hi>. / Caffé Greco / Strada dei / <hi rendition="#u">Condotti</hi> / Mit Siegel, mit Postvermerken und
+                            zwei Poststempeln (runder Stempel: "BERLIN 6-7 / 20 / 2"; "8
+                            MARZO")</addrLine>
+                    </address>
+                    <dateline>Berlin 14 Februar 1830.</dateline>
+                    <salute>Mein sehr verehrter Herr Professor!</salute>
+                </opener>
+                <p>Nach langem Stillschweigen freuet es mich, Ihnen melden zu können, daß die
+                        <orgName key="ed_znn_dfc_b1b">k<ex>önigliche</ex> Akademie der
+                        Wißenschaften</orgName>
+                    <seg type="comment">
+                        <orig>Ihnen einen Zuschuß von 700 r<ex>eichstalern</ex> bewilligt hat</orig>
+                        <note xml:id="nv1b_2dn_cz">Vgl. auch den Brief an Gerhard vom 7. November
+                            1827 mit Sacherläuterung.</note>
+                    </seg>, um <bibl sameAs="ed_ssf_p1n_1z">Ihr Zeichnungswerk</bibl> der
+                    Etrurischen Denkmäler fortzusetzen. Die Akademie hat mir aufgetragen, dies Ihnen
+                    offiziel bekannt zu machen, und daß Sie gegen Quittung gedachte Summe von der
+                    Casse der k<ex>öniglichen</ex> Akademie (bey dem <seg type="comment">
+                        <orig>
+                            <hi rendition="#aq">Ministerio</hi>
+                            <persName key="ed_iwb_fpx_lw">
+                                <hi rendition="#aq">v. Altenstein</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nkcv_cdn_cz">Dem Kultusministerium.</note>
+                    </seg>) erheben können.</p>
+                <p>Ich verbinde hiemit zugleich die Anfrage: auf welche Weise Sie gedenken, <bibl sameAs="ed_ssf_p1n_1z">Ihre gesammelten <hi rendition="#aq">hetrur</hi>ischen Alterthümer</bibl> in Publikum zu bringen? Denn
+                    ich gestehe, daß ich gerne bald etwas davon zu sehen wünschte. Wäre es nicht
+                    zweckmäßig, daß Sie Ihre Zeichnungen irgend an einen Deutschen Buchhändler gegen
+                    baare Bezahlung käuflich abließen, damit dieselben <hi rendition="#aq">lithographirt</hi>, mit einer kurzen Inhaltsanzeige begleitet, und so
+                    käuflich gemacht würden? - <del rendition="#s">Ich</del> Könnte ich Ihnen hiebey
+                    behülflich seyn, würde ich es gerne thun. Ich bitte, mir bald ein Wort hierüber
+                    zu melden.</p>
+                <p>Von dem <bibl sameAs="ed_axv_nwz_zy">
+                        <hi rendition="#aq">Bullettino</hi>
+                    </bibl> sind die Hefte bis <hi rendition="#aq">inclusive</hi> October
+                    in meinen Händen, so wie auch die <bibl sameAs="ed_e5f_xb2_cy">
+                        <hi rendition="#aq">Annali</hi>
+                    </bibl>: <hi rendition="#aq">Fascicoli</hi> I. II. Ich bewundere dabey
+                    Ihre Thätigkeit, und sehe, daß es hauptsächlich von Ihrer Gewandtheit abhängt,
+                    die Sache fortzuführen. Indeßen ist alles so geschickt begonnen, und <pb n="2"/>
+                    beide neben einander laufenden Publicationen so intereßant, daß Sie sich einen
+                    guten Erfolg für Ihre Beziehungen (?) versprechen können. Über manches möchte
+                    ich mit Ihnen <hi rendition="#aq">conferiren</hi>, was aber für Briefe
+                    zu lang seyn würde. Mit <bibl sameAs="ed_o3k_l12_cy">den beiden in den Annalen
+                        publizirten Aufsätzen</bibl> bin ich in Hinsicht der Übersezung zufrieden,
+                    doch muß ich erinnern, daß die Gemälde in <placeName key="ed_atq_q41_by">
+                        <hi rendition="#aq">Pompei</hi>
+                    </placeName> nicht <hi rendition="#aq">a fresco</hi>, <del rendition="#s">sind</del> sondern auf die trockene Mauer gemalt sind. Dies
+                    habe ich früher <seg type="comment">
+                        <orig>in einem <bibl sameAs="prov_y21_1ht_hv">Academischen Aufsatz</bibl>
+                        </orig>
+                        <note xml:id="nlxf_nmn_cz">In der ersten Abhandlung der Vortragsreihe "Ueber
+                            die Mahlerey bey den Alten", vorgelesen in der Königl. Akademie der
+                            Wissenschaften den 1. August 1799, heisst es dazu: "Nachdem der letzte
+                            Anwurf der Mauer von Kalk und Marmorstaub gegeben war, so wurde die
+                            Mauer, während dem sie noch feucht war, mit einer beliebigen Farbe
+                            angestrichen, welche dann in die Oberfläche des Anwurfes eindrang, und
+                            dadurch ihre Haltbarkeit bekam. Die eigentlichen Gemählde mahlte man
+                            dann erst auf diesen einfarbigen Grund, nachdem er vollkommen trocken
+                            war. Auf diese Weise übertüncht, und hernach mit Figuren, Landschaften,
+                            oder andern Verzierungen bemahlt, zeigen sich noch fast alle Wände,
+                            welche in den Ruinen von Rom, oder in den ausgegrabenen Städten bey
+                            Neapel auf uns gekommen sind." (in: Sammlung der deutschen Abhandlungen
+                            welche in der Königlichen Akademie der Wissenschaften (und schönen
+                            Künste) zu Berlin, vorgelesen worden in den Jahren 1798-1800 - Schöne
+                            Wissenschaften. Berlin 1803, S. 216). - Bereits 1790 hatte Hirt in
+                            seinem Aufsatz "Über Pompeja" (in: Italien und Deutschland, 1. Bd., 3.
+                            St., S. 59) bemerkt: "Die Wände haben durchaus über dem Backstein noch
+                            drey verschiedene Anwürfe, wovon der letzte immer von Marmorstaub war.
+                            Dieser letzte Anwurf ward, ehe er ganz trocknete, mit einer allgemeinen
+                            Tinte bald roth, gelb, oder blau angestrichen. War aber die Mauer ganz
+                            ausgetrocknet, bemalte man sie mit allen Arten arabesker Verzierungen
+                            und mit kleinen Gemälden theils in Figuren, Landschaften, oder
+                            Thieren."</note>
+                    </seg> ausführlich dargethan. Ich wünsche, daß dies <seg type="comment">
+                        <orig>durch einen Zusaz</orig>
+                        <note xml:id="nnyv_d4n_cz">Dergleichen konnte nicht ermittelt werden.</note>
+                    </seg> könnte berichtigt werden. - Ferner wünsche ich, daß der <bibl sameAs="ed_ugc_sn1_by">Aufsatz über die <hi rendition="#aq">Palladiumvase</hi>
+                    </bibl> baldmöglichst könnte publizirt werden. Doch überlaße ich alles Ihrem
+                    Gutdünken.</p>
+                <p>Ich bin sehr neugierig, den Erfolg <seg type="comment">
+                        <orig>Ihrer Reise in das untere <hi rendition="#aq">
+                                <placeName key="prov_vxr_xxr_js">Italien</placeName>
+                            </hi>
+                        </orig>
+                        <note xml:id="nwv4_k3p_dz">Im März und nochmals im Juni 1829 war Gerhard in
+                            die Gegend des alten Vulci gereist, um die dortigen Nachgrabungen (vor
+                            allem des Fürsten von Canino) zu besichtigen, die wertvolle bemalte
+                            Vasen zum Vorschein gebracht hatten. Im Mai 1830 und 1831 wiederholte er
+                            dieselbe Reise. Ein ausführlicher Bericht "Rapporto intorno i vasi
+                            Volcenti" erschien im dritten Band der "Annali dell'Instituto", 1831.
+                            Vgl. auch "Rapporto intorno i vasi Volcenti diretto all'Instituto di
+                            corrispondenza archeologica da Odoardo Gerhard", Rom 1831. - Im Oktober
+                            1829 unternahm Gerhard eine Reise nach Basilicata und Puglien, die ihn
+                            bis Tarent führte, "hauptsächlich um die unteritalischen Vasen an den
+                            Fundorten zu studiren und dem Institut auch hier Verbindungen zu
+                            eröffnen" (Otto Jahn: Eduard Gerhard: Ein Lebensabriss, 1868, S.
+                            85).</note>
+                    </seg> zu hören, u. was Sie über die Vasenfabriken sagen werden. Das wichtigste
+                    vor der Hand sind die in der Gegend von <placeName key="ed_dws_p5n_1y">
+                        <hi rendition="#aq">Corneto</hi>
+                    </placeName> gefundenen Gegenstände. -<seg type="comment">
+                        <orig>
+                            <persName key="ed_m2h_swp_dz">
+                                <hi rendition="#aq">Magnus</hi>
+                            </persName> ist seit längerer Zeit hier.</orig>
+                        <note xml:id="nqrj_yxp_dz">Magnus hatte von Mai 1826 bis 1829 eine
+                            Studienreise über Paris nach Italien unternommen und war danach zu
+                            seiner Familie nach Berlin zurückgekehrt. Ab 1831 schloss sich ein
+                            mehrjähriger England-Aufenthalt an. </note>
+                    </seg> Er hat sich aber bey mir nicht sehen laßen. Sehr wünschte ich, daß seine
+                    Sammlung angekauft würde. <seg type="comment">
+                        <orig>Die Karte der Gegend von <placeName key="ed_axy_zbq_dz">
+                                <hi rendition="#aq">Westphal</hi>
+                            </placeName>
+                        </orig>
+                        <note xml:id="nqml_4bq_dz">Die "Topographische Karte von Westphalen" von
+                            Carl Ludwig von Le Coq. 20 Kartenblätter waren 1815 bei Simon Schropp
+                            und Co. zu Berlin erschienen (vgl.
+                            http://www.lwl.org/westfaelische-geschichte/portal/Internet/finde/langDatensatz.php?urlID=828&amp;url_tabelle=tab_websegmente).
+                        </note>
+                    </seg> möchte ich sehr gern sehen. - <hi rendition="#aq">
+                        <persName key="ed_rhy_vs4_pw">Boeckh</persName>
+                    </hi>
+                    <seg type="comment">
+                        <orig> sprach mir von Ihrem Wunsche</orig>
+                        <note xml:id="nkn4_jcx_dz">Vgl. Hirts Brief an Gerhard vom 7. November 1827
+                            mit Sachkommentar.</note>
+                    </seg>; und <seg type="comment">
+                        <orig>daß er Ihnen geantwortet habe</orig>
+                        <note xml:id="nenx_cfq_dz"/>
+                    </seg>. <seg type="comment">
+                        <orig>Er ist kürzlich Geheimer Rath geworden</orig>
+                        <note xml:id="nyms_ndq_dz">August Boeckh bedankt sich mit einem Schreiben
+                            vom 23. Januar 1830 an den Staatsminister für die Ernennung zum Geheimen
+                            Regierungsrat durch den König (GStA PK, I. HA, Rep. 76 Kultusministerium
+                            Va Sekt. 2 Tit. IV Nr. 16, Bl. 25).</note>
+                    </seg>, was übrigens seine Verhältniße nicht ändert.</p>
+                <p>Ich beschäftige iezt mich hauptsächlich mit der Ausarbeitung der <bibl sameAs="ed_tdh_xpw_ry">Geschichte der bildenden Künste bey den Alten</bibl>.
+                    Indeßen laß ich eben <bibl sameAs="ed_mhm_snl_vw">eine Schrift über <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                    </bibl> drucken: über das
+                        <placeName key="ediarum_jhd_3b5_4x">
+                        <hi rendition="#aq">Augusteum</hi>
+                    </placeName> sowohl, als die <placeName key="ediarum_osm_fgb_5y">Bildergallerie</placeName>. Gelegentlich werde ich
+                    Ihnen das Buch zusenden. - Für iezt weiß ich Ihnen nichts Näheres zu
+                    berichtigen. Leben Sie recht wohl, und laßen Sie bald wieder von sich hören.</p>
+                <closer>
+                    <salute>Ihr ergebner</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

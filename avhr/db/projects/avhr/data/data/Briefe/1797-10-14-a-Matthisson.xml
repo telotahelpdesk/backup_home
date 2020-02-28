@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich von Matthisson. Berlin, den 14. Oktober 1797. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <idno>nicht überliefert </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Friedrich v. Matthisson's Literarischer Nachlaß
+                            nebst einer Auswahl von Briefen seiner Freunde. Ein Supplement zu allen
+                            Ausgaben seiner Schriften. Vierter Band. Berlin, bei August Mylius.
+                            1832, S. 13-16 (Teilabdruck).</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys
+                        (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-10-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761 - 1831)
+                    </persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                </correspAction>
+                <note>Über den Erhalt des Briefes vermerkt Louise von Anhalt-Dessau in ihrem
+                    Tagebuch: 16. Oktober 1797: "und dann den erwünschten Brief von H[IRT] bekommen
+                    für M[ATTHISSON] und für MICH" (Tagebücher, Bd. 1, S. 320).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">(Nach <placeName key="prov_uvd_str_js">Wörlitz</placeName>.)<lb/> Berlin, den 14. Oktober 1797.</dateline>
+                    <salute/>
+                </opener>
+                <p>Mit dem Händedruck wahrer Freundschaft danke ich für <seg type="critical">
+                        <orig>Ihren letzten Brief</orig>
+                        <note xml:id="nssy_ksc_gv">Brief erschlossen: 1797-10-vor14
+                            -von-Matthisson</note>
+                    </seg>. Es würde vergeblich seyn, Ihnen mit Worten schildern zu wollen, wie sehr
+                    es mich freut, <seg type="critical">
+                        <orig>Sie jetzt in Ihrer neuen Lage und Stimmung zu wissen.</orig>
+                        <note xml:id="nank_lzc_gv">Hier vermutlich die schwierige Scheidung
+                            Matthissons von seiner ersten Frau Luise, geb. von Glaffey, einer
+                            Hofdame der Fürstin Louise von Anhalt-Dessau, gemeint, die wohl im
+                            Oktober 1797 erfolgte. Die Forderungen Luise Matthissons und die
+                            Versorgung des Sohnes Ludwig, hatten bei Matthisson zu schweren
+                            psychischen Belastungen geführt. Hirt war in die Scheidungsgeschichte
+                            involviert, wie das Tagebuch der Fürstin Louise von Anhalt-Dessau
+                            belegt: 13. August 1797: "[…] zwey Briefe von M[atthisson] […] ER LEGTE
+                            DABEI GLEICH DAS SCHREIBEN AN SEINEN WEIBE NACH H[IRTS] VORSCHLAG, UND
+                            SCHRIEB FROHER UND GLÜCKLICHER AUF HOFFNUNG DER ZUKUNFT ALS SEIT LANGE"
+                            (Tagebücher, Bd. 1, S. 314). - 15. September 1797: "[…] gleich alle die
+                            Declaration von der M[atthisson] abgeschrieben, um solche an H[irt] zu
+                            senden und an M[atthisson] geschrieben nebst den Originalen und die 30
+                            Rtl. geld, die Er noch bedurfte […]" (ebd., S. 317).</note>
+                    </seg>
+                </p>
+                <p>Es ist schön, daß <seg type="critical">
+                        <orig>sie</orig>
+                        <note xml:id="ndgl_psc_gv">Die Kleinschreibung ist vermutlich ein
+                            Setzerfehler.</note>
+                    </seg> wieder so eifrig zur Arbeit greifen. Niemand kann ein günstiger
+                    Vorurtheil für <seg type="critical">
+                        <orig>das unternommene <bibl sameAs="prov_ajf_lth_gv">Werk</bibl>
+                        </orig>
+                        <note xml:id="nfjz_x1d_gv">Wohl die "Erinnerungen", die in 5 Bänden
+                            1810-1816 erscheinen. -  Am 17. September 1797 vermerkt Louise von
+                            Anhalt-Dessau in ihrem Tagebuch: "laß in die Briefe über Italien, die
+                            M[atthisson] mir geschickt hatte" (Tagebücher, Bd. 1, S. 317). Dass. am
+                            18. September: "Vormittag wie gewöhnlich und fleißig in den Briefen über
+                            Italien gelesen" (ebd.).</note>
+                    </seg> haben, als ich. Der <seg type="critical">
+                        <orig>Genius der hohen <placeName key="prov_vkl_ndl_js">Roma</placeName>
+                        </orig>
+                        <note xml:id="nch3_1tc_gv">Genius urbis Romae.</note>
+                    </seg> möge über Ihnen walten bis ans Ende!</p>
+                <p>Ihre "<bibl sameAs="prov_pvb_hth_gv">Briefe</bibl>", die ich noch nicht las,
+                    werden mir in der <bibl sameAs="prov_zwz_4lq_3v">neuen Ausgabe</bibl> sehr
+                    willkommen seyn. Ich hoffe, daß Sie in den Zusätzen und Vermehrungen doch auch
+                        <seg type="critical">
+                        <orig>etwas über <placeName key="prov_vxr_xxr_js">Italien</placeName> sagen
+                            werden</orig>
+                        <note xml:id="npdx_tsh_gv">In den "Briefen" finden sich keine Schilderungen
+                            von Italien; diese erst in den "Erinnerungen", ab Ende des 3. Bandes
+                            ("Umrisse aus Italien").</note>
+                    </seg>, und ich würde mir, ohne Schmeicheley, mehr davon versprechen, als die
+                    meisten unsrer Vielschreiber hierüber gesagt haben. Versuchen Sie es: gewiß wird
+                    es wohl gelingen, und so werden Sie dem Publikum, das mitunter doch auch gerecht
+                    seyn kann, Freude bereiten. Es ist ja nicht nöthig vollständig zu seyn, sich an
+                    strenge Ordnung zu binden, Beschreibungen von ganzen Museen und Gallerien zu
+                    geben, nein! man schreibt itzt von diesem, itzt von jenem Kunstwerke, itzt von
+                    dieser, itzt von jener Naturscene, man betrachtet einzelne Gattungen oder
+                    einzelne Epochen der Kunst, stellt da und dort einzelne Studien der Künstler in
+                    den gehörigen Gesichtspunkt und erhellet den klassischen Boden durch neue Ideen
+                    und neue Zusammenstellungen. Haben Sie Zweifel, ist Ihrem Gedächtnisse oder
+                    Ihrer Aufmerksamkeit dieser oder jenes entflohen, so überschicken oder bringen
+                    Sie mir das Manuskript, und was aus meinem Vorrathe Ihnen dienen kann, darüber
+                    dürfen Sie disponiren und als ein braver Nachbar zusprechen.</p>
+                <p>Meinem <seg type="critical">
+                        <orig>Aufenthalte in <placeName key="prov_qht_zxr_js">Dessau</placeName>
+                        </orig>
+                        <note xml:id="nbg2_mvh_gv">Vgl. dazu 1797-07-12-a-A.H.Schütz</note>
+                    </seg> verdanke ich der schönen und guten Stunden gar viele. <seg type="critical">
+                        <orig>Nächstes Frühjahr</orig>
+                        <note xml:id="nh5h_xvh_gv">Hirt kam erst im Mai 1799 wieder nach
+                            Wörlitz.</note>
+                    </seg> werde ich trachten, es möglich zu machen, dort einige Wochen zuzubringen.
+                    Die Bekanntschaft mit <persName key="prov_ams_xtr_js">
+                        <hi rendition="#g">Rode</hi>
+                    </persName>achte ich für einen wahren Gewinn. Auch die mit <persName key="prov_kyr_yvr_js">
+                        <hi rendition="#g">Tischbein</hi>
+                    </persName>. Grüßen Sie doch diese wackern Männer, besonders auch Herrn
+                        <persName key="prov_amk_hvr_js">
+                        <hi rendition="#g">von Erdmannsdorf</hi>
+                    </persName>, dem ich nächstens schreiben werde.</p>
+                <p>In den "<bibl sameAs="prov_erl_txj_gv">Horen</bibl>" ist ein <bibl sameAs="prov_mlp_kxh_gv">Aufsatz von mir über das Kunstschöne</bibl>, den
+                        <hi rendition="#g">
+                        <persName key="prov_mq3_mvr_js">Schiller</persName>
+                    </hi> wider meinen Willen abdrucken ließ, indem derselbe noch unvollendet ist,
+                    und noch überdem durch ärgerliche Druckfehler entstellt ward.</p>
+                <p>Ich liege itzt mit <persName key="prov_hwd_hmp_5r">
+                        <hi rendition="#g">Goethe</hi>
+                    </persName> in Streit über <rs type="artwork" key="prov_u2q_dhc_z5">Laokoon</rs>. Ich
+                    gab ihm diesen Sommer <bibl sameAs="prov_b1g_1yh_gv">meinen Aufsatz</bibl>
+                    über die berühmte Gruppe, den Sie kennen, zu lesen. <bibl sameAs="prov_syr_nyh_gv">Er schrieb seitdem ebenfalls Bemerkungen</bibl> über das
+                    nämliche Kunstwerk. Ich habe bereits <bibl sameAs="prov_u3g_fyh_gv">meine
+                        Erörterungen</bibl> darüber zu Papier gebracht, um sie ihm nebst seinem
+                    Aufsatze zu senden. Er ist auf der <seg type="critical">
+                        <orig>Rückreise von <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                        </orig>
+                        <note xml:id="nwsp_2zh_gv">Zu Goethes Schweiz-Reise vgl.
+                            1797-09-26-a-Böttiger</note>
+                    </seg> begriffen, und wird gegen Ende Oktobers wieder in <hi rendition="#g">
+                        <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    </hi> seyn.</p>
+                <p>Sehr angenehm ist es mir zu hören, <seg type="critical">
+                        <orig>daß <persName key="prov_w4b_lwr_js">
+                                <hi rendition="#g">Fernow</hi>
+                            </persName> sich zum Antiquar bestimmt.</orig>
+                        <note xml:id="npkn_fqb_3v">Diese Tätigkeit sagte Fernow anfangs nicht zu. An
+                            Baggesen schreibt er am 15. Dezember 1796 aus Rom: "Hirt hat sein
+                            Schicksal nach Berlin geführt, wo er als Professor der sämmtlichen
+                            theoretischen Wissenschaften der bildenden Künste bei der Akademie
+                            angestellt ist. Wenn es mir möglich wäre, am Antiquariat Geschmack zu
+                            finden, so hätte ich jetzt die beste Gelegenheit, mir die vakante Stelle
+                            als res nullius zuzueignen; aber es hat ungeachtet seiner
+                            Einträglichkeit, so wenig Reiz, und so viel Widriges für mich, daß ich
+                            mich nicht dazu entschließen kann. Ich will lieber dürftig leben und
+                            meine Zeit mit dem Studium der Kritik, der Geschichte der Kunst, meiner
+                            Neigung gemäß zubringen, als der Leithammel reicher, meistens
+                            geschmackloser Fremden seyn. Ich habe bis jetzt über zwei Jahre mit sehr
+                            Wenigem in Rom gelebt, und bin damit ausgekommen, und hoffe noch länger
+                            auf diese Weise meinem Zwecke glücklich entgegen zu gehen." (Carl Ludwig
+                            Fernow's Leben. Zweiter Theil. In: Sämmtliche Schriften von Johanna
+                            Schopenhauer. Leipzig 1830, S. 41). "Zum ersten und einzigen Mal", so
+                            schreibt Johanna Schopenhauer , habe Fernow "das Amt eines römischen
+                            Cicerone" übernommen, als die regierende Fürstin von Rudolstadt Rom
+                            besuchte (ebd., S. 56). - Allerdings berichtet Fernow an Johann Pohrt,
+                            Rom, 8. Juli 1797: "Der Erstling, den ich in Rom auf die antiquarische
+                            Weide treiben werde, ist ein Landsmann von Dir, ein gewisser v. Knorring
+                            aus Reval […]. Nach seiner Zurückkunft [aus Neapel] werde ich ihn in die
+                            Cur nehmen, und auf diese Art im eigentlichen Sinne meine <hi rendition="#g">Laufbahn</hi> eröffnen. Diese Veranlassung erhält
+                            mich in Athem, meinen Kursus noch einmahl auf der Stube zu durchlaufen;
+                            denn du weißt wohl, daß ein s. v. Antiquar auf keine Frage eine Antwort
+                            schuldig bleiben darf" (Karl Ludwig Fernow: Römische Briefe an Johann
+                            Pohrt 1793-1798. Berlin 1944, S. 253-254). Und an Denselben, Rom, 5.
+                            August 1797: "Nachgerade wird das Antiquarische Studium eine wahre
+                            Delice für mich, aber ich werde auch mit glänzenden - Hoffnungen
+                            gespeist, einmahl ein zweyter Hirt zu werden u. dann eine Königshure zu
+                            finden die sich meiner erbarmt, u. mich wie ein Engel den Profeten
+                            Habacuc beym Schopf davon führt u. zum Professor einer Kunstakademie
+                            macht. Was will man mehr in dieser heillosen Zeitlichkeit" (ebd., S.
+                            260).</note>
+                    </seg> Meinerseits werde ich gewiß allen Wallfahrern nach der heiligen <hi rendition="#g">
+                        <placeName key="prov_vkl_ndl_js">Roma</placeName>
+                    </hi>, die sich Raths halber an mich wenden sollten, den wackern Mann eifrigst
+                    empfehlen. Ich bin vorläufig überzeugt, daß er seinem gewiß <hi rendition="#aq">con amore</hi> erwählten Beruf alle Ehre machen werde. [...]</p>
+                <closer rend="paragraph">
+                    <salute/>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

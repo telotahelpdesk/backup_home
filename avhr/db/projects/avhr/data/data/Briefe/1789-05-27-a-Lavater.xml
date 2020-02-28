@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_j44_bfj_s5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Kaspar Lavater. Rom, den 27. Mai 1789. Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Zentralbibliothek Zürich</institution>
+                        <repository>Nachlass Lavater</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">FA Lav. Ms. 513.225</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Claudia Sedlarz: Morgenröte der Berliner Kunstgeschichte.
+                            Aloys Hirt an der Berliner Akademie der Künste und seine Zusammenarbeit
+                            mit Karl Philipp Moritz und Friedrich Rambach. In: Aloys Hirt in Berlin.
+                            Hrsg. von Astrid Fendt, Claudia Sedlarz und Jürgen Zimmer. Berlin,
+                            München 2014, S. 157 (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759 - 1837) </persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1789-05-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_zqn_wx5_35">Lavater, Johann Kaspar (1741 - 1801) </persName>
+                    <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_sl4_g43_s5"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 27<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> May 1789.</dateline>
+                    <salute/>
+                </opener>
+                <p>Ich muß durch mein langes Stillschweigen, mein lieber Herr Pfarrer, bereits den
+                    Verdacht bey Ihnen erwecken, daß ich Sie weniger verehre, als ich wirklich thue.
+                    Nein! ich schäze nicht <add place="superlinear">weniger</add> Ihr Herz, als Ihre
+                    Geisteskräfte.</p>
+                <p>Daß Sie mich ganz der Hofnung berauben, Sie iemals in <placeName key="prov_vkl_ndl_js">Rom</placeName> zu sehen, ich gesteh' es, thut mir
+                    weh. Was ich Ihnen hierüber schrieb, waren keine Complimente; es war und ist ein
+                    Wunsch, der aus meinen eigenen Forschungen entstand.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Seit fünf Jahren ist <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                            mein Aufenthalt, und wird es auch ferner bleiben</orig>
+                        <note xml:id="nhxf_wfy_z5">Hirt kam Ende des Jahres 1782 nach Rom und
+                            verließ die Stadt am 27. Mai 1796 im Gefolge der Fürstin Louise von
+                            Anhalt-Dessau.</note>
+                    </seg>. Ich habe mich in das Studium der Kunst, und der Alterthumskunde
+                    eingelaßen, und ich werde auch fortfahren es zu cultiviren. Da ich als ein
+                    wahrer Laye nach <placeName key="prov_vkl_ndl_js">Rom</placeName> kam, und wenig
+                    Anlage habe, so wollte ich mich nie in das Praktische der Kunst einlaßen. <seg type="comment">
+                        <orig>Physiognomik</orig>
+                        <note xml:id="nnqj_bcm_2z">Bereits aus dem Altertum sind Quellen zur
+                            Physiognomik erhalten (Aristoteles, Cicero, Plinius, Seneca, Galenus u.
+                            a.). Zu einem großen Erfolg, die eine regelrechte Mode auslösten, wurden
+                            Lavaters vierbändige "Physiognomische Fragmente zur Beförderung der
+                            Menschenkenntnis und Menschenliebe" (Leipzig, Winterthur 1775-1778), zu
+                            denen zahlreiche Künstler wie Daniel Chodowiecki, Johann Rudolh
+                            Schellenberg und Johann Heinrich Lips Vorlagen lieferten.</note>
+                    </seg> ist in so weit ein Hauptstudium für mich, als sie den wesentlichsten
+                    Theil der Kunst ausmachet. Ich habe eine schwere, langsame Perception. mein
+                    Gefühl ist noch über weniges deutlich. Aber ich verzweifle nicht. - <seg type="comment">
+                        <orig>Ich habe auch angefangen, über eines und das andere zu
+                            schreiben</orig>
+                        <note xml:id="noyh_kdm_2z">Die Beiträge erschienen in der von Karl Philipp
+                            Moritz und Hirt herausgegebenen Zeitschrift "Italien und Deutschland".
+                            Im ersten Jahrgang 1789, Stück 1 und 2, erschienen folgende Beiträge von
+                            Hirt: [Anonym]: I. Leben eines jungen Mahlers Germain-Jean Drouais. In:
+                            Italien und Deutschland in Rücksicht auf Sitten, Gebräuche, Litteratur
+                            und Kunst. Eine Zeitschrift. Hrsg. von K. P. Moritz und A. Hirt. [Bd. 1]
+                            Stück 1, Berlin 1789, S. 3-32 mit 1 gestoch. Falttaf., unbez. -
+                            [Anonym]: II Historisch-architektonische Beobachtungen über die
+                            christlichen Kirchen. An H. v. G. in W. In: Ebd. [Bd. 1] Stück 1, Berlin
+                            1789, S. 33-74 mit 1 gestochenen Falttafel, unbez. - [Anonym]: IV. Über
+                            einige Freskogemälde in einer Kapelle des Vatikanischen Palastes, nebst
+                            einer vorläufigen Betrachtung über Giorgio Vasari. In: Ebd., [Bd. 1]
+                            Stück 1, Berlin 1789, S. 89-96; Fortsetzung in: Ebd., [Bd. 1] Stück 2,
+                            Berlin 1789, S. 3-13 mit 1 radierten Falttaf. - [Anonym]: II.
+                            Bildhauerey. Über zwey Statuen von den Herrn Danekker und Scheffauer.
+                            In: Ebd., [Bd. 1] Stück 2, Berlin 1789, S. 14-29, mit 1 radierten
+                            Falttaf. - [Anonym]: VI. Beschreibung eines von Hrn. Alexander Trippel
+                            verfertigten Denkmals des Grafen Tzernichew. Rom, im Februar 1789. In:
+                            Ebd., [Bd. 1] Stück 2, Berlin 1789, S. 55-68. - [Anonym]: VII. Die
+                            Ausstellung auf der französischen Akademie in Rom vom Jahre 1789. In:
+                            Ebd., [Bd. 1] Stück 2, Berlin 1789, S. 69-73. - [Anonym]: IX. Ueber zwei
+                            Gemälde von den Herrn Pitz und Schmid. An Herrn B. zu F. Rom, den 30.
+                            April 1788. In: Eb d., [Bd. 1] Stück 2, Berlin 1789, S. 81-90. - Im 3.
+                            Stück 1790 folgten die Beiträge: [Anonym] I. Uebersicht der Geschichte
+                            der Denkmäler bey älteren und neueren Völkerschaften. In: Ebd., [Bd. 1]
+                            Stück 3, Berlin 1790, S. 3-26. - II. Über den wirklichen Zustand der
+                            Pomtinischen Sümpfe, an Fräulein von G. (Rom, 8. Jenner 1790). In: Ebd.,
+                            [Bd. 1] Stück 3, Berlin 1790, S. 27-46. - III. Über Pompeja. Neapel, im
+                            Oktober 1789. In: Ebd., [Bd. 1] Stück 3, Berlin 1790, S. 47-69. - V.
+                            Über Paestum. Neapel, im October 1789. In: Ebd., [Bd. 1] Stück 3, Berlin
+                            1790, S. 80-100. </note>
+                    </seg>, wann und wo es das Tageslicht sehen wird, weiß ich noch nicht. <seg type="comment">
+                        <orig>
+                            <persName key="prov_mrl_wby_g5">Lips</persName> hat mir hiezu einige
+                            Platten gestochen</orig>
+                        <note xml:id="ndrh_jdm_2z">Lips lieferte ein Platte zu Hirts Aufsatz "Über
+                            einige Freskogemälde in einer Kapelle des Vatikanischen Palastes" (siehe
+                            die vorige Anmerkung). Die Falttafel ist bezeichnet: "Predigt [des Hl.
+                            Stephanus] in der Kapelle des Fra Giovanni Angelico von Fiesole", Pl.
+                            147 x 197 mm, bez.: "Joh: Ang: Fiesolanus pinx: - H: Lips del: et
+                            sculp:". Weiterhin für Hirts Beitrag "Bildhauerey. Über zwey Statuen von
+                            den Herrn Dannekker und Scheffauer" (siehe die vorige Anmerkung); eine
+                            radierte Falttafel, Pl. 176 x 220 mmm, unbez. [Stecher: Johann Heinrich
+                            Lips].</note>
+                    </seg>, und wird es auch künfthin thun; wenn anders kein Querstrich unsere
+                    Projekte vernichtet. <seg type="comment">
+                        <orig>Ich verliere ihn mehr als in einer Rücksicht sehr ungern.</orig>
+                        <note xml:id="nevq_ldm_2z">Lips lebte von 1782-1784 und 1786-1789 in Rom.
+                            Danach ging er (bis 1794) als Lehrer an die Weimarer
+                            Zeichenschule.</note>
+                    </seg>
+                    <pb n="2"/>
+                </p>
+                <p>
+                    <seg type="comment">
+                        <orig>Da ich mir ein Geschäft daraus mache, fremde Reisende bey Besehung der
+                            Merkwürdigkeiten <placeName key="prov_vkl_ndl_js">Roms</placeName> zu
+                            leiten, oder ich den sogenannten Antiquar mache</orig>
+                        <note xml:id="nfbz_c2m_2z">Hirt lebte in Rom von seinen Einnahmen als
+                            Cicerone. Er zeigte zahlreichen Reisenden u.a. aus Deutschland, England,
+                            Russland und Polen die Kunstschätze Roms und unterrichtete sie in
+                            kunsthistorisch-archäologischen Kursen, darunter Goethe, Herder, Anna
+                            Amalia von Sachsen-Weimar und Eisenach, Louise von Anhalt-Dessau, die
+                            Gräfin Lichtenau, Prinz August von England. Einige begleitete er auch
+                            nach Neapel und in die dortigen Gegenden. Vgl. dazu auch ...</note>
+                    </seg>, hatte ich diesen Winter Gelegenheit verschiedene Fremde von Ihrer
+                    Bekanntschaft kennen zu lernen. Sie denken, ob die Rede oft von Ihnen war. Den
+                    H. <persName key="prov_xxm_2sb_z5">Gervinus</persName> mit dem <persName key="prov_wd2_xqb_z5">jungen Boreel</persName>, und Baron v. <persName key="prov_ll4_nnb_z5">Schack</persName> nebst andern Herrn begleitete ich
+                    zusammen. Mit dem Grafen <persName key="prov_ubw_l4g_w5">Bielinski
+                        Vater</persName> und <persName key="prov_pdb_5hy_z5">Sohn</persName> bin ich
+                    wirklich noch beschäftiget. Das meiste Vergnügen machte mir aber die <persName key="prov_kzw_mly_z5">Frau von Kroock </persName> mit Ihren <persName key="prov_abh_fmy_z5">drey Kindern</persName>, und einem jungen Gelehrten
+                        <seg type="critical">
+                        <orig>
+                            <persName key="prov_lpn_3my_z5">Schoell</persName>
+                        </orig>
+                        <note xml:id="nrvf_cny_z5">Friedrich Schöll reiste mit der Generalin von
+                            Kroock und deren drei Kindern 1788-1789 durch Italien und Südfrankreich.
+                            Nach kurzen Aufenthalten in Paris begleitete er die Familie nach St.
+                            Petersburg. - Frau von Kroock ließ sich später in Dresden nieder und war
+                            dort Mittelpunkt eines geselligen Kreises. - 1787 hatte sie anonym
+                            "Briefe einer reisenden Dame aus der Schweiz" herausgegeben. </note>
+                    </seg>. Ich brachte zwey Monate mit Ihnen zu. Mit mehr Liebe, mit mehr
+                    Vorbereitung und richtigerm Gefühl kann man nicht nach <placeName key="prov_vkl_ndl_js">Rom</placeName> kommen. Die Frau ist wirklich ein
+                    Wunder als Weib und Mutter. Sie sagte mir viel von Ihnen, und trug mir ernstlich
+                    auf, sie in Ihr Andenken zurückzurufen. Ihre älteste Tochter ist noch eine
+                    seltnere Erscheinung, ein so weises Mädchen in jeder Rücksicht. Sie zeichnet
+                    Portraits mit einer Ähnlichkeit, Schärfe, und Bestimmtheit, daß Sie jeden
+                    Künstler beschämt. Mehr Anlage kann die Natur nicht gebe. Der <persName key="prov_ec2_sry_z5">junge Narischkin</persName>, der mit ungleichen
+                    Kräften mit dem Fräulein in die Wette zeichnete, fand sich mit <persName key="prov_ec2_sry_z5">seinem Begleiter</persName> in der nemlichen Zeit
+                    hier.</p>
+                <p>
+                    <persName key="prov_hy4_jx2_rs">Herdern</persName> werden Sie wahrscheinlich in
+                        <placeName key="prov_fqy_my5_35">Zürch</placeName> sehen, <seg type="comment">
+                        <orig>obwohl er bey seiner Abreise noch keinen sichern Plan seines Weges
+                            hatte</orig>
+                        <note xml:id="ngtf_ptr_2z">Herder kam auf seiner Rückreise von Rom nach
+                            Weimar nicht über Zürich. Am 22. April 1789 schreibt er an seine Frau
+                            Karoline: "Wohin Du unterwegs Deine Br. adressierst, weiß ich selbst
+                            nicht, am besten ists wohl à poste restante: Florenz, Bologna, Parma,
+                            Mailand, sind die gewissen Örter, über die ich reise. Ob ich nach
+                            Venedig komme oder über die Schweiz gehe, zur Rechten oder zur Linken,
+                            weiß ich selbst nicht" (Herder-Briefe, Bd. 6, Nr. 75, S. 143, Z. 7-10).
+                            Am 21. Mai 1789 schreibt er an Dieselbe aus Florenz: "Über meine
+                            Reiseroute bin ich bis auf diese Stunde nicht Eins. Nach der Schweiz
+                            gehe ich nicht, das ist gewiß, und Mailand lasse ich also auch liegen"
+                            (ebd., Nr. 81, S. 151, Z. 47-48). Und am 31. [30.!] Mai 1789 heisst es
+                            an Dieselbe aus Bologna: "Ich gehe nach Venedig [...], gehe nach Pavia
+                            und sodann [...] nach Modena, Parma, Mailand, [...]. Von Mailand über
+                            Brescia nach Trident. Sodann In[n]spruck, München, Nürnberg. Nach der
+                            Schweiz gehe ich nicht; ich bin zu voll von Eindrücken und kann jetzt
+                            nichts mehr sehen" (ebd., Nr. 85, S. 157, Z. 59-64).</note>
+                    </seg>. Er ließ mir einen hohen Begriff <subst>
+                        <del rendition="#ow">seines <pb n="3"/> Geistes </del>
+                        <add>von seinem Geiste</add>
+                    </subst>, den persönlicher Umgang mehr als Schriften giebt, und seine
+                    Freundschaft zurück.</p>
+                <p>Die <persName key="prov_qn2_zhp_5r">Herzogin von Weimar</persName> nahm Ihr
+                    Andenken sehr wohl auf. Sie lobte mich, daß ich Ihnen hiehier zu kommen schrieb,
+                    und ward traurig über die abschlägige Antwort. Sie ist seit acht Tagen wieder in
+                        <placeName key="prov_myp_lbv_35">Neapel</placeName>, oder vielmehr
+                        <placeName key="prov_tgf_hsy_z5">Portici</placeName>, <seg type="critical">
+                        <orig>wo sie ein Landhaus hat</orig>
+                        <note xml:id="ng3y_msy_z5">Anna Amalia weilte seit 21. Mai 1789 wieder in
+                            Neapel und wohnte in einer Villa in Portici mit schöner Aussicht und
+                            einem Garten mit Grotte. Zusätzlich mietete man noch eine Unterkunft in
+                            der Stadt Neapel am Pizzafalcone-Hügel.</note>
+                    </seg>; <seg type="critical">
+                        <orig>ich werde auf ihr Geheiß bis nach S. Peter auch dahin folgen</orig>
+                        <note xml:id="nr5k_sty_z5">Hirt reiste erst am 21. September von Rom ab und
+                            traf am 24. September in Neapel ein. In ihrem Tagebuch vermerkt Luise
+                            von Göchhausen: "Den 24 [September 1789] [...] Auch kamen Abends Hird,
+                            Bury, Burmann [= der Maler und Kunsthändler Peter Birmann] und Robert
+                            mit Knieb, erstere waren von Rom angekommen" (Juliane Brandsch,
+                            Tagebuch, S. 104). Hirt war von Einsiedel mehrfach nach Neapel
+                            eingeladen worden, vgl. 1789-04-04-a-Goethe. - Der Gedenktag für St.
+                            Peter und Paul wurde am 29. Juni gefeiert.</note>
+                    </seg>, um den Sommer im dortigen <seg type="critical">
+                        <orig>Museum</orig>
+                        <note xml:id="nynj_zty_z5">"Der Palazzo Reale in Neapel diente zwar
+                            gelegentlich als Sommerresidenz Ferdinands IV., grundsätzlich war er
+                            über lange Jahre hinweg ein Geheimmuseum, in dem man die Grabungsfunde
+                            von Herculaneum barg. Im Hof des Schlosses war das Lapidarium
+                            eingerichtet, wohin man z.B. die korinthischen Kapitelle der Villa di
+                            Giulia Felice aus Pompeji oder die Marmorstatuen der Balbi aus
+                            Herculaneum brachte. Büsten, Statuen, Mosaike, Malereien,
+                            Gebrauchsgegenstände usw. waren im ehemaligen Palazzo Caramanico
+                            versammelt. Sie befinden sich heute zum großen Teil im Museo
+                            Archeologico Nazionale in Neapel (nach: Juliane Brandsch,
+                            Göchhausen-Reisetagebuch, Anm. S. 325). </note>
+                    </seg> zuzubringen.</p>
+                <closer rend="paragraph">
+                    <salute>Ich zähle, mein lieber Herr Pfarrer, auf Ihre Freundschaft, wenn Sie
+                        mich nicht unwürdig finden sollen. Befehlen Sie<lb/>Ihrem ergebensten
+                        Diener<lb/>
+                    </salute>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

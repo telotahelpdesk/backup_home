@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_udh_fxk_3fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Friedrich Anton von Heynitz. Berlin, 18. Januar 1798.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>oo</institution>
+                        <collection>oo</collection>
+                        <idno><idno type="shelfmark">oo</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Stock, 1929, S. 83. - Vgl. Jürgen Zimmer, Hirt II, S.
+                            53</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_gtp_ppt_fv">Heynitz, Friedrich Anton von (1725-1802)
+                        (Freiherr, Oberberghauptmann, Mitgründer der Bergakademie Freiberg, preuß.
+                        Minister, seit 1786 Reformator der Berliner Kunstakademie, Mitbegründer der
+                        Berliner Bauakademie, 1792 EM der Akademie der Wissenschaften)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-01-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Offizieller Auftrag zur Ausarbeitung eines vorläufigen Plans für ein
+                    königliches Kunstmuseum.</note>
+                <note>Adresse: An / den Herrn Hofrath Hirt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 18<hi rendition="#sup">t</hi> Januar 1798</dateline>
+                </opener>
+				<p>Da des <persName key="prov_bxf_jt5_fv">Königs</persName> Majestät die Anlage und Errichtung
+                    eines <placeName key="prov_up1_xwt_fv">Musæi</placeName>, so nützlich
+                    solches auch seyn mögte, bis auf günstigere Zeiten auszusetzen befohlen, dabey
+                    aber geäußert haben, daß es gantz gut seyn würde, einen vorläufigen Plan dazu
+                    auszuarbeiten, welcher, bis zum Augenblick der Ausführung, vollkommen reifen und
+                    diese erleichtern könnte, So ersuche ich den Herrn Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName>, einen solchen Plan dazu auszuarbeiten
+                    und mir zu seiner Zeit zu weiterer Beförderung vorzulegen.</p>
+                <p>Berlin p</p>
+				<closer>
+                    <signed>Nomine S<hi rendition="#sup">r</hi> Hochfreyh<ex>err</ex>l<ex>ichen</ex>
+                        <lb/>Excellenz von Heinitz</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

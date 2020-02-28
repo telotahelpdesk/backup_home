@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ijf_ghf_qfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von George Meinecke an Aloys Hirt, Daniel Berger und Hans Christian Genelli.
+                    Berlin, 28. März 1798.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt III Nr. 40, Bl. 93
+                                r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_h1b_ng1_qfb">Meinecke, George (?-?) (Architekt, Bauinspektor
+                        und Prof. an der Königl. Akademie der Künste in Berlin)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-03-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="prov_qps_ktj_sv">Genelli, Hans Christian (1763-1823) (dt.
+                        Architekt, zusammen mit seinen Brüdern Rom-Aufenthalt)</persName>
+                    <persName key="prov_jl3_gpd_4v">Berger, Daniel (1744-1825) (Kupferstecher, 1778
+                        OM der Akademie der Künste zu Berlin, 1787 Rektor und Prof. für
+                        Kupferstichkunst, 1816 Vizedirektor der Akademie)</persName>
+                </correspAction>
+                <note>Der Brieftext befindet sich auf den frei gelassenen linken Blattseiten des
+                    Vorgängerbriefes. Die nummerierten Textpassagen sind räumlich den nummerierten
+                    Fragen des Vorgängerbriefes zugeordnet.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>Der Kürtze wegen, habe ich meine Beantwortungen, bey jeder Frage <hi rendition="#aq">ad
+                        marginem</hi> gestelt.</p>
+                <p>1.) In den Vorlesungen nehme ich die Anfertigung und Berechnungen der Bau
+                    Anschläge vor; In der Zeichnungsschule die <hi rendition="#aq">Construction</hi>
+                    der Gebäude.</p>
+                <p>2.) Es fehlt an nichts.</p>
+                <p>3.) Die Anzahl der Schüler beträgt nach einen Durchschnitt 70 in den
+                    Zeichenstunden. In den Vorlesungen habe ich jetzt 30 Zuhörer. Des Dienstags u
+                    Donnerstags von 2. bis 4. Uhr habe ich Zeichenstunde, u jeden Donnerstag von 4½.
+                    bis 6½. Uhr die Vorlesungen. Dieser Unterricht ist überhaupt nur in den 6.
+                    Wintermonathen, nehmlich im Octbr: Nvbr: Dcbr: Januar Febr: u März. Im Sommer
+                    ist kein Unterricht.</p>
+                <p>ad 4.) Jedes halbe Jahr reicht der Schüler eine Probe-Arbeit, seinen Fähigkeiten
+                    angemessen, zur Ausstellung ein, welche vorher der Direktor dieses Instituts,
+                    Herr Ober-BauRath <persName key="ed_hlj_3pd_jx">Becherer</persName> beurtheilet.
+                        <pb n="2"/>
+                </p>
+                <p>ad 5. Keine</p>
+                <p>ad 6.) Es werden einem jeden Schüler in dem Fach, worin er dereinst seine
+                    Bestimmung zu erreichen gedenkt; seinen Fähigkeiten angemeßene Zeichnungen
+                    vorgelegt, welche er theils copirt, theils selbst ausarbeiten muß, u auf diese
+                    Art wird sowohl Künstler als Handwercker gebildet.</p>
+                <p>Berlin am 28.<hi rendition="#sup">sten</hi> März 98.</p>
+				<closer>
+                    <signed>GMeinecke</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

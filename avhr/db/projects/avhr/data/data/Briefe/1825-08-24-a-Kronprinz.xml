@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_wkp_yql_vx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An den Kronprinzen Friedrich Wilhelm (IV.) von Preußen. Berlin, 24. August
+                    1825.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Heruasgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>BPH</collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 50 J Nr. 499, Bl. 27 r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-08-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_rrj_mk5_fv">Preußen, Friedrich Wilhelm (IV.) von (1795-1861)
+                        (Kronprinz, 1840-1861 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>Da <persName key="ed_rcd_yvw_ww">Schinkel</persName> erst <seg type="comment">
+                        <orig><?oxy_comment_start author="motschmann" timestamp="20170809T095841+0200" comment="1825 reiste die Kronprinzessin zur Kur nach Bad Ems am Rhein, wohin ihr Gemahl ihr folgte. - Das war allerdings etwas früher: sie werden schon am 16. Juli in Frankfurt a. M. erwartet; danach Rüdesheim und Schiffahrt auf dem Rhein. - Als Hochzeitsgeschenk der Stadt Koblenz erhalten sie die Ruine der Burg Stolzenfels am Rhein."?>nach
+                            der Abreise Ew. Königlichen Hoheit<?oxy_comment_end?>
+                        </orig>
+                        <note xml:id="nyv3_qz2_v1b"/>
+                    </seg>
+                    <seg type="comment">
+                        <orig>mit der <hi rendition="#aq"><?oxy_comment_start author="motschmann" timestamp="20161107T092812+0100" comment="Schloss Neu-Augustusburg bei Weißenfels??? gehörte ab 1815 zu Preußen und wurde zur Kaserne umgebaut
+oder:
+Schloss Augustusburg bei Brühl am Rhein???
+was hat Schinkel damit zu tun?"?>Augustusburg<?oxy_comment_end?></hi>
+                            zu Stande kommen möchte</orig>
+                        <note xml:id="nvqt_t2m_vx"/>
+                    </seg>; so würde ich vor der Hand gern eine Ansicht von den <seg type="comment">
+                        <orig>gestochenen Plänen des <hi rendition="#aq">Museums</hi>
+                        </orig>
+                        <note xml:id="ns4n_qkh_wx">Schinkels Pläne zum Kunstmuseum im
+                            Kupferstichkabinett, Staatliche Museen zu Berlin, PK, Schinkel-Mappe M.
+                            - Vgl. Karl Friedrich Schinkel: Sammlung architektonischer Entwürfe:
+                            enthaltend theils Werke welche ausgeführt sind theils Gegenstände deren
+                            Ausführung beabsichtigt wurde. Neue vollständige Ausgabe in CLXXIV
+                            Tafeln. Berlin 1858, Tafelband 1, Blatt 37 bis 48: "Das neue Museum in
+                            Berlin". "Die Blätter 37, 38, 39, 40, 41, 43 dieser Entwürfe, welche im
+                            Jahre 1825 erschienen, enthalten die Pläne zum Bau des Museums in
+                            Berlin, dessen Ausführung im Jahre 1824 begonnen hatte [...]": Blatt 37.
+                            Perspectivische Ansicht des neuen Museums vom Standpunkte zwischen dem
+                            Zeughaus und der neuen Schlossbücke, Blatt 38. Drei Grundrisse, vom
+                            Unterbau, vom ersten und zweiten Geschoss, Blatt 39. Façade der
+                            Hauptfronte, Blatt 40. Durchschnitt des Gebäudes und Verhältniss der
+                            Säulen in der Vorhalle, Blatt 41. Façade der Hinterfronte, Ansicht der
+                            Haupttreppe und Details, Blatt 42. Situationsplan aller durch den Bau
+                            des Museums herbeigeführten Veränderungen in der Stadt, und Details der
+                            inneren Säulen-Ordnungen. </note>
+                    </seg> nehmen. Vielleicht daß diese schon genügten. In Wahrheit liegt mir die
+                    Angelegenheit des <hi rendition="#aq">
+                        <placeName key="prov_up1_xwt_fv">Museums</placeName>
+                    </hi> sehr am Herzen. Als ein Heide muß ich die Antiken und als ein Christ
+                    (woran Ew. Königliche Hoheit sehr unchristlicher Weise zu zweifeln scheinen) die
+                    kirchlichen Kunstgegenstände in Schuz nehmen und lieben.</p>
+                <p>Daß Ew. Königliche Hoheit sich für meinen <seg type="comment">
+                        <orig>
+                            <persName key="ed_wjt_j4j_xw">theologischen Zögling</persName>
+                        </orig>
+                        <note xml:id="nw1f_mtl_vx">Hirts Ziehsohn Max Mila, der um die Pfarrstelle
+                            in Schwanebeck gebeten hatte; vgl. <ref target="hirt_rtd_rpx_5x">1825-08-13-a-Kronprinz</ref>.</note>
+                    </seg> intereßiren, dafür kann ich nicht genug mit Worten danken. In der That
+                    kennt er nichts Höheres als das Predigeramt, und die Verbreitung der Ehre <pb n="2"/> deßen, der an der Stelle des alten <seg type="comment">
+                        <orig>
+                            <persName key="ed_swh_rwl_vx">Kroniden</persName>
+                        </orig>
+                        <note xml:id="nxmx_fxl_vx">Der göttliche Titan Kronos galt in der
+                            griechischen Mythologie nach der Entmachtung seines Vaters Uranos als
+                            Herrscher der Welt in der Zeit des "goldenen Geschlechts" (Hesiod). Er
+                            war der Vater des Zeus. </note>
+                    </seg> die neuere Welt in Obhut hat. -</p>
+                <p>Nur einige <hi rendition="#aq">Archaeologen</hi> und - Prinzen streuen manchmal
+                    dem alten Herrn noch einige Kernchen Weihrauch. Wie wenig übrigens <hi rendition="#aq">
+                        <seg type="comment">
+                            <orig>Sire Jupin</orig>
+                            <note xml:id="np3n_1ch_wx">Vgl. Jean de La Fontaine: Fable XIII. Jupiter
+                                et le Passager. - In der Fabel wird Jupiter, dem ein Wandersmann 100
+                                Ochsen gelobt hatte, lediglich mit dem Rauch einiger verbrannter
+                                Knochen abgespeist. </note>
+                        </seg>
+                    </hi> mehr gilt, zeigt iezt die mißliche Lage der Bewahrer jener Gegenden, die
+                    ihm früher tausend goldene Heiligthümer errichteten. <hi rendition="#aq">
+                        <persName key="ed_lnx_tyl_vx">Mahomet</persName>
+                    </hi>, scheint es, bleibt <hi rendition="#aq">Mahomet</hi>, und überläßt gerne
+                    den heidnischen Christen alle Reliquien, die von <placeName key="prov_hrm_rbq_2v">dem ehemaligen Reiche</placeName> des großen <persName key="ed_swh_rwl_vx">Kroniden</persName> noch übrig sind. <seg type="comment">
+                        <orig>Der <hi rendition="#aq">Muselman</hi> begnügt sich, auch ferner über
+                            die Köpfe der Griechen zu disponiren</orig>
+                        <note xml:id="nkhb_lzl_vx">Seit dem 25. März 1821 führte Griechenland einen
+                            Unabhängigkeitskrieg gegen die Jahrhunderte lange Herrschaft der
+                            Osmanen. Nach einem ersten Sieg der Griechen auf der Peloponnes trat am
+                            20. Dezember 1821 die erste griechische Nationalversammlung zusammen,
+                            doch die Frontlinien im Süden Griechenlands waren verhärtet und blieben
+                            bis 1825 unverändert, bis die europäischen Großmächte eingriffen. In der
+                            Seeschlacht von Navarino (20.10.1827) wurde die türkisch-ägyptische
+                            Flotte vernichtend geschlagen und das osmanisch-ägyptische Heer zog sich
+                            zurück. Infolge der sogenannten Griechischen Revolution wurde die Erste
+                            Hellenische Republik gegründet, 1832 abgelöst durch das Königreich
+                            Griechenland mit Otto von Wittelsbach als König. - </note>
+                    </seg>. <seg type="comment">
+                        <orig>O Schicksaal! O Jupiter!</orig>
+                        <note xml:id="nzcv_ghm_vx">Epiktet: Handbüchlein der Moral, [Erster Teil],
+                            Cap. 52: "So leite mich, o Zeus, und du, o Schicksal, / wohin mir euer
+                            Wink zu gehn befiehlt; / Ich bin bereit zu folgen; wollt' ich nicht, /
+                            So wär' ich feig und müßte dennoch folgen."</note>
+                    </seg> - </p>
+                <closer>
+                    <salute>Mit den Gesinnungen der tiefsten Verehrung geharre ich <lb/>Ew.
+                        Königlichen Hoheit, <lb/>Meines Gnädigsten Herrn
+                        <lb/>unterthänigster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin 24 Aug. 1825.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

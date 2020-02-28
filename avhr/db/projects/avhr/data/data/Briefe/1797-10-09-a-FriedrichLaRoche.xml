@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_mtf_st1_gv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Karl und Elsina von La Roche. Berlin, den 9. Oktober 1797.
+                    Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">56/108, Bl. 1-2</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-10-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_mzn_gcx_w5">La Roche, Friedrich Karl (Fritz) von</persName>
+                    <placeName key="prov_znx_shc_gv">Philadelphia (Amerika)</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>An Herrn v. LaRoche - / in / <placeName key="prov_znx_shc_gv">
+                            <hi rendition="#u">
+                                <hi rendition="#u">
+                                    <hi rendition="#u">Philadelphia</hi>
+                                </hi>
+                            </hi>
+                        </placeName>
+                    </addrLine>
+                    <addrLine>Mit Siegel und Bemerkung von fremder Hand (wahrscheinlich des
+                        Überbringers): Vom H: Hofrath Hirt / in <hi rendition="#u">Berlin</hi>
+                    </addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 9<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> Octob. 1797.</dateline>
+                    <salute>Meine Freunde!</salute>
+                </opener>
+                <p>Gestern Abend machte ich durch einen glücklichen Zufall die Bekanntschaft eines
+                    sehr artigen jungen Mannes, <seg type="critical">
+                        <orig>Herrn <persName key="prov_l4c_lkc_gv">Laffert</persName>
+                        </orig>
+                        <note xml:id="nlvy_rkc_gv">Möglicherweise einer der vier Brüder Laffert, die
+                            1801 in die mecklenburgische Ritterschaft aufgenommen wurden: Gotthard
+                            Wilhelm (v.) Laffert (1765-1814) auf Dammereez; Karl (v.) Laffert auf
+                            Groß Weltzien (1770-1840); Ludolph Friedrich (v.) Laffert auf Lehsen =
+                            braunschw.-lüneburg. Hof- und Kanzleirat in Celle, besaß seltene
+                            nordamerikan. Baumarten); Ernst (v.) Laffert auf Schwechow</note>
+                    </seg> - der eben aus <placeName key="prov_elj_xhc_gv">Amerika</placeName>
+                    herkomt. Sie können denken, welche Freude mich überflog, aus dem Munde eines
+                    Mannes, der Sie erst vorigen Junius glücklich und munter verließ, die beßten
+                    Nachrichten von dem <seg type="critical">
+                        <orig>Schicksaal</orig>
+                        <note xml:id="ndyy_3mc_gv">Nachdem Fritz von La Roche bereits 1780 als
+                            Offizier des französischen Regiments "Royal Deux-Ponts" zwei Jahre in
+                            Amerika verbracht hatte, wanderte er 1792 zusammen mit seiner Familie
+                            nach Amerika aus. Doch schon 1797 kehrte er mittellos zu seiner Mutter
+                            Sophie von La Roche nach Offenbach zurück, die, um ihren Sohn finanziell
+                            unterstützen zu können, den Amerika-Roman "Erscheinungen am See Oneida"
+                            (Leipzig 1798) verfasste. (Diese Angaben sind dem Aufsatz von Konstanze
+                            Bäumer entnommen: Die Bettina-Siedlung in Texas, in: Heinz Härtl und
+                            Hartwig Schultz (Hrsg.): "Die Erfahrung anderer Länder", Beiträge eines
+                            Wiepersdorfer Kolloquiums zu Achim und Bettina von Arnim. Berlin [u.]
+                            1994, S. 356). - Während Hirt den vorliegenden Brief schrieb, muß sich
+                            Fritz von La Roche bereits auf der Rückreise nach Europa befunden haben.
+                            Auch seine Frau kehrte nach Europa zurück und kam bei ihrer Schwester in
+                            Nieule unter. Sophie von La Roche, die voll auf Seiten ihrer verlassenen
+                            Schwiegertochter stand, schreibt am 17.10.1797 an dieselbe: "Meine liebe
+                            und würdige Tochter! Ich werde Ihnen den Schmerz nicht schildern, den
+                            mir Ihr Brief vom 17. August aus Philadelphia bereitet hat. O meine
+                            Elsy! Ein Blitz, der in mein Haus geschlagen hätte, hätte mich nicht
+                            mehr in Schrecken versetzen können. Nach den Briefen, die Herr Hess
+                            gebracht hatte, war ich in vollkommener Sicherheit, und nun dieser
+                            schreckliche Umsturz! Den detaillierten Brief, von dem Sie sprechen,
+                            habe ich nicht erhalten, meine Freundin! So sehe ich mich in einem
+                            Abgrund von Schmerzen und zerreißenden Unsicherheiten, meine schätzbare
+                            Elsy. Und die unglücklichen Kinder, und das durch meinen Sohn! Es gibt
+                            keinen Ausdruck für meinen Schmerz, der um so größer ist, als Sie
+                            hinzufügen, ich solle etwas für meinen Sohn tun, den Sie nicht wieder
+                            sehen können. O meine Elsy! Er hat sich also schwer persönlich an Ihnen
+                            vergangen, sonst hätte Ihr Herz und Ihr Charakter es nicht zugelassen,
+                            daß Sie sich von ihm trennten. Meine Freundin, ich bin sicher, daß er es
+                            ist, der im Unrecht ist. […] Wie froh bin ich, daß ich nicht mit Ihnen
+                            die Reise nach Italien gemacht habe, daß ich es zurückgewiesen habe,
+                            Ihnen diese Unkosten zu machen. […] O meine Tochter! Meine liebe und
+                            tugendhafte Elsy! Schreiben Sie mir bald. Ich weiß noch nichts von - wie
+                            soll man ihn nennen, denjenigen, der Sie ins Unglück brachte, der mir
+                            mein Grab schaufelt […]" (zitiert nach: Maurer, 1985, Nr. 230, S.
+                            364-365). </note>
+                    </seg> meiner unvergeßlichen Freunde zu erfahren. - Ich schreibe Ihnen dieß in
+                    der Überzeugung, daß ich auch nicht ganz von Ihnen vergeßen bin, und daß das
+                    große Weltmeer, welches die beiden Hemiphaeren trennet, nicht ganz <seg type="comment">
+                        <orig>Ihr Andenken an <placeName key="prov_vkl_ndl_js">Rom</placeName> und
+                            Hirt</orig>
+                        <note xml:id="nipp_qsp_rz">Fritz von La Roche hielt sich vor seiner Ausreise
+                            nach Amerika mit seiner Familie 1792 in Rom auf.</note>
+                    </seg> weggewaschen hat. Sie haben sich also ganz dahin ergeben, im Schooße
+                    amerikanischer Frey<subst>
+                        <del rendition="#ow">frey</del>
+                        <add>heit</add>
+                    </subst> Ihre Tage zuzubringen, und zu beschließen? - In der Überzeugung, daß
+                    die dortige Freyheit mehr werth ist, als unsere neuere europeische - die noch
+                        <del rendition="#s" next="immer">noch</del> immer<del rendition="#s" next="zu">zu</del> zu niederreißen fortfährt, ohne Aussicht, daß es je
+                    wieder zum ordentlichen Aufbauen kommen werde - kann ich Ihren Entschluß nicht
+                    mißbilligen - und am Ende wo sollte sich eine Familie unglücklich finden, welche
+                    die Zufriedenheit, und das innere Glück in Ihrer mitte, in ihrer wechselseitigen
+                    Liebe bewahret? - ich hatte noch immer Hoffnung, Sie noch einmal wo auf diesem
+                    Erdenrund <pb n="2"/> zu begegnen; aber ich sehe iezt, daß dieß nur geschehen
+                    könnte, wenn ich mich zur Überfahrt nach der <placeName key="prov_elj_xhc_gv">neuen welt</placeName> verstehen würde. So wenig indeßen mein ieztiges
+                    Schicksaal <add place="superlinear">mir</add> auch Hofnung hiezu läßt, so kann
+                    man doch bey den iezigen Zeitumständen doch nichts als unmöglich betrachten: und
+                    der Himmel weiß, ob ich - da mich das Geschick aus meinem römischen Wohnsiz
+                    ausgeworfen hat - nicht durch einen zweyten Stoß von hier nach <placeName key="prov_znx_shc_gv">Philadelphia</placeName> geschleudert werde.</p>
+                <p>Bis 1796 - im Frühjahr war <placeName key="prov_vkl_ndl_js">Rom</placeName> mein
+                    Wohnort, und die leztern Jahre her lebte ich da in einer mehr als erträglichen
+                    Lage. Bey dem ersten Einfalle der Franzosen verließ ich <placeName key="prov_vxr_xxr_js">Italien</placeName> - gleichsam mit der Vorempfindung
+                    alles <unclear>de</unclear>ßen, was die Folge zeigte - zwar einzig in der
+                    Absicht, eine Tour durch <placeName key="prov_xym_pdx_w5">Deutschland</placeName> zu machen, und dann wieder auf meinen Standpunkt
+                    zurückzukehren. - Als ich nach <placeName key="prov_ycp_cpr_js">Berlin</placeName> kam, entschied sich meine iezige Lage ganz unerwartet.
+                    Man bot mir eine <seg type="critical">
+                        <orig>Stelle bey der <orgName key="ed_znn_dfc_b1b">Akademie der
+                                Wißenschaften</orgName>, und eine zweyte bey der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>
+                        </orig>
+                        <note xml:id="npvt_l3c_gv">Zu Hirts Mitgliedschaften vgl.
+                            1796-10-26-v-FriedrichWilhelmII.</note>
+                    </seg> mit einem jährlichen Gehalt von 1800 Thalern an - zugleich mit dem
+                    Karakter eines königl<ex>ichen</ex> Hofrathes. Ich schlug zu und nun ist
+                        <placeName key="prov_ycp_cpr_js">Berlin</placeName> schon seit einem vollen
+                    Jahre mein Aufenthalt. Meine Geschäfte sind wenige, und ganz litterarisch - so
+                    daß ich nach meiner ganzen Neigung wirken kann. <placeName key="prov_ycp_cpr_js">Berlin</placeName> zählet viele gebildete Leute von beiden Geschlechten,
+                        <pb n="3"/> der Ton der Geselligkeit ist gut: und dieß muß ich als den Ersaz
+                    betrachten - für die Aufopferung des milden Klimas, der schönen Natur, und der
+                    Ansicht der herrlichen Monumente des alten u. neuen <placeName key="prov_vkl_ndl_js">Roms</placeName>. - Alles vereiniget zu besitzen, ist
+                    nicht möglich, und so kann ich mich eben durch meinen Tausch nicht unglücklich
+                    schäzen - Gesund an Leib, und Seele, und mit dem nöthigen versehen, gehe ich den
+                    stillen weg des Lebens fort, mehr als Zuschauer, als - als Theilnehmer. Das
+                    einzige, was ich noch nicht gefunden habe, ist Häuslichkeit, dieses Bedürfniß
+                    meines Gemüthes fange ich immer mehr an, stärker zu empfinden. Die Bücher, die
+                    mich umgeben, diese Gesellschaft hoher Todten, ist nicht hinreichend, die
+                    stillen Wünsche des Herzens zu befriedigen. Ich fühle, daß, <del rendition="#s" next="je">wie</del> je älter man wird, je mehr sehnet man sich nach einem
+                    Hausfreund: und das Gefühl sagt wieder, daß ein weiblicher beßer seyn würde, als
+                    ein männlicher. Dieß Gefühl liegt aber in mir noch dunkel: mein Auge hat <hi rendition="#u">die</hi> noch nicht erblickt, welche mich zu einer Annäherung
+                    bestimmen könnte. Nicht Liebe, sondern ehliche Freundschaft, harmonische stille
+                    Häuslichkeit würde mich glücklich machen. - Sie vergeben, meine Freunde! daß ich
+                    Sie in einer so großen Entfernung von Zeit und Raum - so vertraulich über meine
+                    innerste Gemüthslage unterhalte, als wenn wir uns erst gestern verlaßen, und
+                    morgen wieder sehen sollten. - Leben Sie recht wohl! könnte ich doch dann und
+                    wann durch einen so angenehmen Bothen, wie Herr <persName key="prov_l4c_lkc_gv">Laffert</persName> ist, erfahren, wie es Ihnen geht - wie Sie, und Ihre
+                    Kinder leben! groß und Schön soll <persName key="prov_o4j_nhc_gv">die
+                        Kleine</persName>, die in <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    war, heranwachsen: und <seg type="comment">
+                        <orig>
+                            <persName key="prov_yl2_hhc_gv">Etzy</persName>
+                        </orig>
+                        <note xml:id="nhjn_mtp_rz">Wohl Schreibversehen statt "Elsy".</note>
+                    </seg> soll unter der Hand der sorgenden <persName key="prov_wnb_5cx_w5">Mutter</persName> eine Blume unter den Mädchen geworden seyn - - Leben Sie
+                    wohl! </p>
+                <closer rend="paragraph">
+                    <salute>ich bin unwandelbar / Ihr Freund</salute>
+                    <signed>Hirt, k<ex>öniglich</ex> preuß<ex>ischer</ex> Hofrath.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

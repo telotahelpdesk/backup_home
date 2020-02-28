@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_icc_1nr_hkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Ministeriums für Geistliche, Unterrichts- und
+                    Medizinalangelegenheiten an Hirt. Berlin, 18. Oktober 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4,
+                                Bl. 97r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-10-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_z5m_b3x_hkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio. Der Entwurf ist nicht unterzeichnet; die
+                    Unterschrift befindet sich unter dem nachfolgenden Schreiben des Ministeriums an
+                    Frau Fouquet auf demselben Blatt. - Bearbeitungsvermerke: "H Uhden / 693. / exp.
+                    d. 19/10."; "Correfl. Herr GORR v Halem. 22/10."; "28/10 abges"; Aktenvermerk
+                    "u.a. 17,393"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_vxb_nnm_pgb">Kunstmuseum – Angebote / Ankäufe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Herrn Professor Hirt</addrLine>
+                    </address>
+                    <dateline>Berlin den 18<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Oktbr: 1824.</dateline>
+                </opener>
+				<p>Die <persName key="ed_nrf_4ww_hkb">Frau</persName> des <persName key="ed_nrf_4ww_hkb">Professors Fouquet</persName> aus <placeName key="prov_tnd_dt1_5v">Paris</placeName>, große Friedrichs-Straße No: 90. wohnhaft, hat des
+                        <persName key="prov_bxf_jt5_fv">Königes Majestaet</persName> mehrere
+                    angeblich vorzügliche <rs type="artwork" key="prov_y3q_bxw_hkb">Original-Gemählde von alten Meistern</rs>, die sie von <placeName key="prov_tnd_dt1_5v">Paris</placeName> mit <placeName key="prov_ycp_cpr_js">hieher</placeName> gebracht, <seg type="comment">
+                        <orig>zum Kauf angeboten</orig>
+                        <note xml:id="ninc_jxw_hkb">Vgl. Fouquet an Friedrich Wilhelm III.,
+                            9.10.1824 (GStA PK, I. HA, 76 Ve 15 I Nr. 3 Bd. 4, fol. 96)</note>
+                    </seg>.</p>
+                <p>Das <orgName key="ed_xpk_5s3_f3b">Ministerium</orgName> benachrichtigt Sie
+                    hievon, und giebt Ihnen anheim, <seg type="comment">
+                        <orig>zu beurtheilen</orig>
+                        <note xml:id="ntkf_1yw_hkb">Ein Ankauf wurde von Hirt nicht
+                            empfohlen.</note>
+                    </seg>: ob unter den angebotenen Gemählden einige für das <rs type="artwork" key="prov_p5w_rw2_gjb">König<ex>liche</ex> Museum</rs> wünschenswerth und zu
+                    welchen Preisen solche naher zu berücksichtigen seyn möchten?</p>
+				<closer>
+                    <dateline>Berlin p</dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p>_________________________________________________________________________________________________________
+                    <lb/>Schreiben des <orgName key="ed_xpk_5s3_f3b">Ministeriums</orgName> an
+                        "<persName key="ed_nrf_4ww_hkb">Frau Professorin Fouquet</persName> geborne
+                    Hermann (große Fr: Str: No: 90.)":<lb/>Das Ministerium benachrichtiget Sie
+                    hierdurch, daß des Königes Majestaet Ihre Immediat-Eingabe vom 4<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d<ex>ieses</ex>
+                        M<ex>onats</ex> ohne resolution an Dasselbe haben abgeben lassen, und das
+                    Ministerium es der, von Sr: Majestaet zum Ankauf für das König<ex>liche</ex>
+                    Museum bestellten <orgName key="ed_imk_ss2_gjb">Commission</orgName> zu
+                    beurtheilen überlassen hat, ob unter den zum Kauf angebotenen Gemählden einige
+                    für die König<ex>liche</ex> Sammlung wünschenswerth seyn möchten. <lb/>Berlin p
+                    <lb/>Ministerium p <ex><lb/>[gez.]</ex> Kamptz</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

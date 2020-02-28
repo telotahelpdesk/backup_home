@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_j2p_4dv_35">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Kaspar Lavater. Rom, 1789. </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>Zentralbibliothek Zürich</institution>
+                        <repository/>
+                        <collection>Nachlass Lavater</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">FA Lav. Ms. 599.22</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Claudia Sedlarz: Morgenröte der Berliner Kunstgeschichte.
+                            Aloys Hirt an der Berliner Akademie der Künste und seine Zusammenarbeit
+                            mit Karl Philipp Moritz und Friedrich Rambach. In: Aloys Hirt in Berlin.
+                            Hrsg. von Astrid Fendt, Claudia Sedlarz und Jürgen Zimmer. Berlin,
+                            München 2014, S. 157 (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759 - 1837) </persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1789-01-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_zqn_wx5_35">Lavater, Johann Kaspar (1741 - 1801) </persName>
+                    <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_plv_cpr_2z"/>
+                </correspContext>
+                <note>H: Verbleib unbekannt. - Textgrundlage: Abschrift (Exzerpt) von Schreiberhand.
+                    - Zur Datierung: In h ohne genaue Datumsangabe. Der Brief ist nach Hirts
+                    Schreiben vom 27. Mai 1789 einzuordnen; es ist von einem Datum "etwa
+                    Sommer/Herbst 1789" auszugehen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute/>
+                </opener>
+                <p>
+                    <hi rendition="#u">Hirt v: <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                        89.</hi>
+                </p>
+                <p>Niemand besizt die Kunst in wenigen Zeilen so viel zu sagen wie Sie. Die
+                    eingefaßten Billets v. <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                    sollen mir immer angenehme Besuche seyn, u. deren Inhalt immer den langsten
+                    Briefen l<ex>ieber</ex> Freünden gleichgehalten werden. Die erste Nachricht, daß
+                    etwas von <seg type="comment">
+                        <orig>m<ex>einen</ex> Aufsäzen</orig>
+                        <note xml:id="nxyf_53n_fz">Zu Hirts Aufsätzen in der Zeitschrift "Italien
+                            und Deutschland" vgl. 1789-05-27-a-Lavater.</note>
+                    </seg> in <placeName key="prov_ycp_cpr_js">Berlin</placeName> erschienen sey,
+                    war die Ihrige, u. erst lezten Posttag <seg type="comment">
+                        <orig>schrieb mir <persName key="prov_j22_nb3_g5">
+                                <hi rendition="#u">Moritz</hi>
+                            </persName> darüber</orig>
+                        <note xml:id="ntmj_sdf_2z">Brief erschlossen: [Von Karl Philipp Moritz,
+                            Berlin, 1789].</note>
+                    </seg>, unerachtet einiger Schwierigkeiten habe ich ihm zugesagt, diese Beytrage
+                        vort<ex> [!]</ex> zusezen. Ich wünsche sehr, wenn Sie zuweilen diese
+                    unbedeutenden Sachen durchsehen, daß Sie fortfahren mir Ihre Meinung (wäre es
+                    möglich mehr im Detail) zu sagen. Tadel soll immer das liebste seyn. Dies sind
+                    die ersten Versuche auf m<ex>einer</ex> Laufbahn die weitschichtig u:
+                    gefährlich, u: es doppelt für m<ex>eine</ex> Kräfte ist - der gänzliche Mangel
+                    des Praktischen in dem sich in so viele Zweige verbreitenden Kunstfache, das
+                    Weitläuffige der Erudition alterer u. neuerer Zeiten in so viel Rüksichten u:
+                    Verbindungen wird für mich <pb n="2"/> ofters drükend, u. gesezt auch, daß die
+                    natürlichen Anlagen zu sehen, zu meßen, u: zu vergleichen einem zu weilen [hier
+                    Zeichen für "nicht" einfügen] gebräche, wie oft wird diese Kraft durch den
+                    Umfang jener zweien [hier Zeichen für "nicht" einfügen] gehemt, irrgefuhrt,
+                    erdrückt? dazu kömt bey mir der Mangel mich leicht u: bestimmt auszudrüken
+                    theils wegen zu wenig Üebung, theils wegen dem schwäbischen Dialekt u: der
+                    wenigen Gelegenheit, die ich iezt habe, vaterländische Autoren zu lesen. Diese
+                    Beyträge sind also Exercitien eines jungen Athleten, die correktion des
+                    Publikums, u. besonders seiner Freünden werden den Prüfstein seiner Kräfte
+                    abgeben, ob es einmal wird mit Etwas in sich vollendetem auf dem Schauplaz
+                    auftretten dürfen. Hiebey habe ich die <hi rendition="#u">besondere</hi> Bitte
+                    an Sie, nemlich mir zuweilen die Wahl des Wichtigern, des fürs Publikum [hier
+                    Zeichen für "nicht" einfügen] so wohl intreßantern, als nüzlichern zu
+                    bedeuten.</p>
+                <closer rend="paragraph"/>
+            </div>
+        </body>
+    </text>
+</TEI>

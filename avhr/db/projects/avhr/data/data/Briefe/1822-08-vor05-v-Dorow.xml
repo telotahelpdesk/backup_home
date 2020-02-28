@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_tms_3d3_nx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Wilhelm Dorow. Bonn, vor 5. August 1822]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1822-08-05-a-Dorow: "Ew. Wohlgeboren habe ich hiemit die Ehre, das
+                    Kästchen mit den 35 Gemmen zugleich mit den Abgüßen, das Buch über Cleve
+                    zurückzusenden, und Ihnen für Ihre Mittheilung und Ansicht zu danken. / In
+                    Rücksicht des Serapis bleibe ich bey der Meinung, daß zwar der Stein antik, aber
+                    retouchirt durch eine andere Hand zu seyn scheint. / Die Nachrichten über Cleve
+                    waren mir schon früher bekannt. [...] Die vierflügelige Figur mit der
+                    ägyptischen Krone ward mir zuerst durch die neueste Reise des Ker Porter
+                    bekannt"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_v2p_zb3_nx">Dorow, Karl Friedrich Ferdinand Wilhelm
+                        (1790-1845) (Altertumsforscher, preuß. Beamter, 1819 Hofrat, 1820 Direktor
+                        der Verwaltung für Altertumskunde im Rheinland und in Westfalen, Gründer des
+                        Altertumsmuseums in Bonn)</persName>
+                    <placeName key="ed_jjj_lh4_pw">Bonn</placeName>
+                    <date notBefore="1821-01-01" notAfter="1822-08-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_fhk_fyt_mx"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

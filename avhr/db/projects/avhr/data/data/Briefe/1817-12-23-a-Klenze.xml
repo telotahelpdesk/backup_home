@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kzg_bqc_zw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Leo von Klenze. Berlin, 23. Dezember 1817.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>Staatliche Archive Bayerns, Geh. Hausarchiv
+                            München</institution>
+                        <collection>Nachlass König Ludwig I.</collection>
+                        <idno>
+                            <idno type="shelfmark">I A 36/I</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1817-12-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_f4n_jqc_zw">Klenze, Leo von (1784-1864)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_wsb_nyc_zw"/>
+                </correspContext>
+                <note>H: Verbleib unbekannt. - Am oberen rechten Rand als "Abschrift"
+                    gekennzeichnet. - Der Brief wurde vermutlich einem Schreiben Leo von Klenzes an
+                    Kronprinz Ludwig von Bayern, München, 9. Januar 1818 (GHA München, NL Ludwig I.,
+                    I A 36 I, Nr. 88) beigelegt. Darin schreibt Klenze: "[...] 6.° Einliegend bin
+                    ich so frey Ew Königlichen Hoheit einen Brief des Hofraths Hirt in Abschrift
+                    mitzutheilen wegen der Aeginetischen Werke. Das Werk und die Zeichnung
+                    Cockerells hat er mir voll Besorgniß das etwas gegen seine Ansicht über diesen
+                    Gegenstand entschieden werde auch schon geschickt um es Ew. Königlichen Hoheit
+                    zur gnädigen Beurtheilung mitzuschicken. Die Ueberzeugung der Nothwendigkeit und
+                    Möglichkeit der Aufstellung nach der ursprünglichen Ordnung wird mir durch Hirts
+                    Schrift und Cockerells Zeichnung immer deutlicher. Gewiß ist das Wagener
+                    [Wagner] die letzte nicht oder vielleicht nur durch Beschreibung kennt, bekannt
+                    ist daß er des Verfaßers (Cockerell's) persönlicher Feind ist, und wie einseitig
+                    und partheyisch sein Urtheil ist davon war wohl jener Brief [Dieser Brief
+                    Wagners an Klenze ist nicht erhalten. - Gegen die Vorschläge Cockerells und
+                    Hirts zur Aufstellung der Ägineten äußerte sich Wagner eindringlich bereits in
+                    GHA, NL Ludwig I., I A 34 II, Wagner an Ludwig, Nr. 172, 16.8.1817] der
+                    allerbeste Beweiß. Ich wage also nochmals die unterthänigste Bitte, nichts über
+                    diesen Gegenstand zu entscheiden, bis Ew. Königliche Hoheit jene Schrift und
+                    Zeichnung gesehen. Da aber die Eile nicht so groß ist so will ich statt Ew.
+                    Königlichen Hoheit die in Händen habende höchstunleserliche Zeichnung und
+                    Manuscript zu schicken, das Erscheinen der Druckschrift abwarten." (Zitiert
+                    nach: Hubert Glaser: König Ludwig I. von Bayern und Leo von Klenze: der
+                    Briefwechsel, Teil 1, Bd. 1: 1815-1818, S. 400).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Mein werther Freund!</salute>
+                </opener>
+                <p>Sie haben recht, mich meines Versprechens wegen, daß ich Ihnen <seg type="comment">
+                        <orig>im verflossenen Sommer</orig>
+                        <note xml:id="nbxv_gyc_zw">Hirt hielt sich auf seiner Rückreise aus Italien
+                            auch in München auf. - Klenze kannte Hirt seit seinem Architekturstudium
+                            an der Bauakademie in Berlin, wo er von 1800 bis 1803 Hirts Vorlesungen
+                            besucht hatte. Er schätzte Hirts Fachwissen sehr und war zeit seines
+                            Lebens stark von ihm beeinflusst (Klose: Klassizismus (1999), S. 11).
+                        </note>
+                    </seg> machte, <seg type="comment">
+                        <orig>zu mahnen</orig>
+                        <note xml:id="nrst_jyc_zw">Brief erschlossen
+                            [1817-12-vor23x-v-Klenze].</note>
+                    </seg>. Auch habe ich dessen nicht vergessen, die erste Musse, welche ich nach
+                    meiner Rückkunft fand, habe ich dazu verwandt, <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_gp2_xdf_mw">meine Ansichten</bibl> über die <rs type="artwork" key="prov_lhs_svw_ww">Eginetischen Bildwerke</rs> in
+                            Beziehung auf <bibl sameAs="ed_hpb_1bd_zw">die Schrift</bibl> von <hi rendition="#aq">
+                                <persName key="ed_adp_k1d_zw">Wagner</persName>
+                            </hi> und <hi rendition="#aq">
+                                <persName key="ed_xzs_sml_jw">Schelling</persName>
+                            </hi> niederzuschreiben </orig>
+                        <note xml:id="nekx_cnd_zw">Hirts Aufsatz beginnt mit den Worten: "Ich
+                            benutze die ersten Augenblicke der Musse, welche mir nach meiner
+                            Rückkunft in Berlin zu Theil werden, verehrter Herr Director [=
+                            Schelling], meine versprochenen Bemerkungen über Hrn. Wagner's
+                            Nachricht, die Aeginetischen Denkmäler betreffend, so wie über Ihre
+                            Zusätze, niederzuschreiben."</note>
+                    </seg>, und die <seg type="comment">
+                        <orig>Zeichnung von <persName key="ed_fxs_4xc_zw">
+                                <hi rendition="#aq">Cockerell</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nmws_3bd_zw">Cockerell hatte sich auf einer 1810 bis 1816
+                            unternommenen Studienreise durch Kleinasien, Griechenland und Italien an
+                            den Ausgrabungen des Apollon-Epikuriostempels von Bassae beteiligt und
+                            gehörte zusammen mit Carl Haller von Hallerstein zu den Entdeckern der
+                            Giebelskulpturen des Aphaiastempels auf Ägina, den sogenannten
+                            äginetischen Bildwerken. Hirt vertrat hinsichtlich der Deutung,
+                            Rekonstruktion und Aufstellung der Skulpturen die gleiche Ansicht wie
+                            Cockerell und veröffentlichte 1818 als Erster dessen
+                            Rekonstruktionszeichnung der ursprünglichen Anordnung der
+                            Giebelskulpturen. Cockerell selbst publizierte seinen Entwurf für beide
+                            Giebelfelder 1819 im "Journal of science and the arts", VI, 327-341 und
+                            VII, 229-238.</note>
+                    </seg> in einem kleineren Maaßstabe zum Stich <hi rendition="#aq">copieren</hi>
+                    zu lassen, worauf ich das Ganze bereits d. 20 Nov<ex>em</ex>b<ex>e</ex>r in
+                    einer Sitzung der <orgName key="ed_znn_dfc_b1b">Königlichen Akademie der
+                        Wissenschaften</orgName> meinen Collegen <seg type="comment">
+                        <orig>vortrug</orig>
+                        <note xml:id="nelh_hqh_j3b">In den Gesamt-Sitzungs-Protokollen ist zu der
+                            Versammlung aller Klassen am 20. November 1817 vermerkt: "1) Herr Hirt
+                            las über die Aeginetischen Denkmäler" (Archiv der BBAW, PAW (1812-1945),
+                            II-V-2, Bl. 225).</note>
+                    </seg>. Nur hat sich bis jetzt der Stich und der Druck verspätet, und noch kann
+                    ich die Zeit der Vollendung von beiden nicht bestimmt angeben. Allein soviel
+                    verspreche ich Ihnen, daß ich die ersten Exemplare nach <placeName key="prov_rhf_xzg_y5">München</placeName> an Sie übersenden werde. Denn mir
+                    liegt der Sache wegen sehr viel daran, daß diese seltenen Kunstwerke nicht nur
+                    allseitig richtig erkannt, sondern auch wieder in jenem bedeutenden Zusammenhang
+                    restaurirt und aufgestellt werden, wodurch die ursprüngliche Idee des Ganzen
+                    wieder in ihrem wahren Glanze hervorgeht. Wenn mich nicht alles trügt, und der
+                        <persName key="ed_uhy_32p_nw">Kronprinz</persName> sowohl als andere Freunde
+                    der Kunst sich durch meine Abhandlung überzeugen, daß die Monumente nur nach der
+                    Idee, worüber wir schon mündlich sprachen, gehörig können aufgestellt werden.
+                        <seg type="comment">
+                        <orig>Daß Herr <hi rendition="#aq">
+                                <persName key="ed_adp_k1d_zw">Wagner</persName>
+                            </hi> einer solchen Idee nicht günstig ist,</orig>
+                        <note xml:id="nacn_vgd_zw">Hinsichtlich der Deutung und der späteren
+                            Aufstellung der Ägineten gab es zwischen Wagner und Thorvaldsen
+                            einerseits und Cockerell und Hirt wie auch Klenze andererseits
+                            erhebliche Differenzen. Wagner schreibt am 16. August 1817 an den
+                            Kronprinzen Ludwig: "die von [...] Hirt gefasste Meinung, daß die Grupe
+                            des einen Giebels den Streit um den Leichnahm des Patroclos, und die
+                            andere den Hercules im Gefechte mit Leomedon vorstellen soll, ruht auf
+                            sehr seichten Gründen, [...] denn mit gleichem Rechte hätte man jede
+                            andere Heldenthat darin suchen und finden können [...]. Ich versprach
+                            mir wirklich etwas mehr Scharfsinn von unsern Antiquarischen Hirten"
+                            (Hubert Glaser: König Ludwig I. von Bayern und Leo von Klenze: der
+                            Briefwechsel, Teil 1, Bd. 1: 1815-1818, S. 344-345). - In einem
+                            Schreiben an den Kronprinzen vom 12. September 1817 äussert sich
+                            wiederum Klenze gegen Wagners vorgeschlagene Aufstellung der Ägineten:
+                            "Was die übrigen antiquarischen Gründe anbelangt die H. Wagener gegen
+                            die Sache anführt, so sind sie meiner unmaßgeblichen Meinung nach um
+                            nicht mehr zu sagen anmaaßungsvoll und irrig; denn mich deucht wo ein
+                            Mann wie Cockerell deßen antiquarische Kenntniße wenigstens, fast ganz
+                            Europa anerkennt, der griechischen Kunst und Art jahrelang an Ort und
+                            Stelle sah gesprochen, wo Hirt deßen Ruf als Antiquar, Phylologe und
+                            Critiker schon seid einem vierthel Jahrhundert besteht und wächst
+                            entschieden, da sollte H. Wagener wenigstens nicht spötteln und
+                            witzelen, und seine Meinung mit geziemender Bescheidenheit sagen. / Daß
+                            z. B. in dem hinteren Aetos nicht wie H. Wagener meint über den 10
+                            vorhandenen noch ein halbes Dutzend Figuren gestanden haben, wird Ew.
+                            Königlichen Hoheit der erste Anblick von Cockerells Zeichnung
+                            überzeugen; Hirts Erklärung hat mir und den hiesigen Gelehrten,
+                            Schelling, Thirsch etc. etc. höchst wahrscheinlich frappant und schön
+                            geschienen, und nur der ich wage es zu sagen höchst partyische Sinn des
+                            H. Wagener kann sich <hi rendition="#u">so</hi> dawider erklären.
+                            Telamon der Sohn des Aeacos dieses Stammvaters Aeginetischer Helden und
+                            Herrscher spielt in dem einen Giebel eine Hauptrolle, Ajax dieses
+                            Telamons Sohn und Held Aeginas beim Kampfe um Troja ist gewißermaaßen
+                            die Hauptperson in dem anderen Giebelfelde, indem er den Körper des
+                            Patroclos gegen Hector vertheidiget, und von Athenä beschützt erringt;
+                            wenn also auf einem Aeginetischen Tempel, deßen Erbauung, eine der
+                            Hauptkatastrofen des Aeacos verewigte, die 12 Hauptbilder, mit den
+                            merkwürdigsten Geschichtsepochen seiner nächsten Nachkommen genau
+                            übereinstimmen, wenn anerkannt gelehrte Männer dieses bis zur Evidenz
+                            beweisen, so kann man wenigstens so viele Gründe nicht mit dem seichten
+                            unbestimmten Satze abfertigen: diese Gruppen stellen nicht die in Frage
+                            stehenden Momente dar, <hi rendition="#u">weil man eine jede Heldenthat
+                                darin suchen kann</hi>. / Doch glaube ich daß Ew. Königliche Hoheit
+                            die Sache mit Ruhe einstweilen dahin gestellt sein laßen können. In
+                            wenig Wochen wird Hirt seine Gedanken über diese Werke mit Cockerells
+                            Zeichnungen begleitet öffentlich bekannt machen, und dann wird es ja dem
+                            H. Wagener wohl leicht werden <hi rendition="#u">seinem antiquarischen
+                                Hirten</hi> wie er ihn zu nennen beliebt zu widerlegen und zu paaren
+                            zu treiben. Die Sache hat meiner unmaßgeblichen nach [!] Meinung keine
+                            Eile, der Saal [in der neu zu erbauenden Glyptothek] wird erst in 1 ½
+                            Jahre angefangen, bis dahin ist ja wohl die antiquarische Frage
+                            entschieden [...]" (ebd., S. 339-340). - Am 2. Dezember 1817 schreibt
+                            Klenze nochmals eindringlich an den Kronprinzen: "[...] So eben als ich
+                            diesen Brief schließen wollte empfing ich aus Rom von H. Wagener einen
+                            Brief worin er mir schreibt daß sich Ew. Königliche Hoheit durch den
+                            Anblick der Aeginetischen Werke von der <hi rendition="#u">Unmöglichkeit</hi> dieselben in ihrer ursprünglichen Gruppierung
+                            aufzustellen überzeugt hätten, daß Cockerells Ideen hierüber eine
+                            grundlose Hypothese sei, und daß Ew. Königliche Hoheit nach Höchstdero
+                            Zurückunft aus Sicylien in diesem Sinne über die oftbesprochene Frage
+                            entscheiden würden. Obwohl Ew. Königliche Hoheit mir Höchstdero Absicht
+                            vor dieser Entscheidung erst Hirts und Cockerells nähere Meinung und
+                            Zeichnungen abzuwarten schon zu erkennen gaben, so wage ich doch diese
+                            unterthänige Bitte nochmals zu wiederholen, und glaube nicht <hi rendition="#u">unredlich</hi> zu handeln wenn ich vorschlage in
+                            einer so wichtigen Sache die einen reinen Kunstgegenstand betrifft, jede
+                            Stimme zu hören und wenn ich selbst nicht voreilig und ohne das
+                            gründlichste Erforschen von einer Ansicht abgehe welche Männer wie Hirt
+                            und Cockerell mit mir theilen. Von beiden erwarte ich Antwort auf die
+                            technischen und Mythologischen Fragen welche ich ihnen gemacht habe und
+                            ich werde dann nicht ermangeln dieselben Ew. Königlichen Hoheit
+                            unterthänigst mitzutheilen. [...]" (ebd., S. 382). - "Trotz Wagners
+                            Kritik wurden die Skulpturen entsprechend Hirts thematischer Erklärung
+                            identifiziert und aufgestellt, seine inhaltliche Deutung der
+                            Giebelfelder ist noch heute gültig" (Hubert Glaser, a.a.O., S.
+                            345).</note>
+                    </seg> begreife ich um so leichter, da er sich schon zu <placeName key="prov_vkl_ndl_js">Rom</placeName> mit der Arbeit des Herrn <persName key="ed_fxs_4xc_zw">
+                        <hi rendition="#aq">Cockerell</hi>
+                    </persName> (die er übrigens nicht sah) nicht zufrieden zeigte. Ich schätze
+                    Herrn <persName key="ed_adp_k1d_zw">
+                        <hi rendition="#aq">Wagner</hi>
+                    </persName> sehr, aber gewissen höhern Einsichten ist er nicht gewachsen, wie
+                    dies <bibl sameAs="ed_hpb_1bd_zw">seine Schrift</bibl> zur Genüge zeigt </p>
+                <p>Ich kann nicht sagen, wie sehr ich wünschte, daß die Schrift noch in die Hände
+                        <pb n="2"/> Seiner Königlichen Hoheit des <persName key="ed_uhy_32p_nw">Kronprinzen</persName> käme, während er noch in <placeName key="prov_vxr_xxr_js">Italien</placeName> ist, damit er selbst sehen,
+                    urtheilen und anordnen möchte, auch so manches noch, was <seg type="comment">
+                        <orig>die Restaurationen</orig>
+                        <note xml:id="nf3b_zcd_zw">Vgl.
+                            1818-04-21-a-Rauch und Sachanmerkung.</note>
+                    </seg> betrift. Indessen
+                    möchte sich die Vollendung des Druckes und Stiches noch einen Monath bis sechs
+                    Wochen hinziehen. Sollten Sie glauben, daß die Sache bis dahin nicht Zeit hätte,
+                    so erbiete ich mich, Ihnen eine Abschrift von dem <hi rendition="#aq">Manuscript</hi> und eine <hi rendition="#aq">Copie</hi> der
+                    Zeichnung machen zu lassen, und dieselben Ihnen durch die Post zuzusenden. Von
+                        <placeName key="prov_rhf_xzg_y5">München</placeName> aus, würden Sie dann
+                    die Sendung nach <placeName key="prov_vkl_ndl_js">Rom</placeName> befördern.
+                        <seg type="comment">
+                        <orig>Sollten Sie dies wünschen</orig>
+                        <note xml:id="nudg_jzc_zw">Wie aus Hirts Brief an Rauch vom 21. April 1818
+                            hervorgeht, schickte er eine Abschrift seiner Abhandlung: "Ich habe
+                            meine Beschreibung [von den äginetischen Bildwerken] dem Kronprinzen in
+                            Manuskript nach Rom geschickt.“ </note>
+                    </seg>, und glauben, daß es dem
+                        <persName key="ed_uhy_32p_nw">Kronprinz</persName> angenehm seyn würde, <seg type="comment">
+                        <orig>so schreiben Sie mir mit umgehender Post</orig>
+                        <note xml:id="nzsg_zzc_zw">Ein solcher Brief ist nicht
+                        überliefert.</note>
+                    </seg>. Sie haben keine andern Unkosten, als die der
+                    Post. - Ich schließe um den Abgang der Post nicht zu versäumen, mit wahrer
+                    Hochachtung, verbleibend <lb/>Ihr ergebenster</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin den 23 Xbr 1817.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

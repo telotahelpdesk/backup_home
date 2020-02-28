@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lg1_zds_5fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Das Direktorium der Akademie der Wissenschaften an Aloys Hirt. Berlin, 31.
+                    Mai 1798.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-XV-3, fol. 7 r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebenes Folio</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_vpl_13s_5fb">Borgstede, Albrecht August Heinrich (von)
+                        (1757-1824) (Geh. Finanz-, Kriegs- und Domänenrat in Berlin, 1798 OM der
+                        Preuß. Akademie der Wissenschaften, 1798-1812 Direktor der Akademie, 1812
+                        EM; 1807 Generalzivilkommissar von Pommern und der Neumark, 1823 Mitglied
+                        des Staatsrates)</persName>
+                    <persName key="ed_qng_bhs_5fb">Merian, Johann Bernhard (1723-1807) (schweiz.
+                        Philosoph, 1750 OM der Preußischen Akademie der Wissenschaften, 1757
+                        Bibliothekar der Akademie, 1769 zugleich Inspektor und Prof. für Philosophie
+                        am Französ. Kollegium in Berlin; 1771-1807 Direktor der Philologischen
+                        Klasse der Akademie, 1797-1807 Beständiger Sekretar der Akademie)</persName>
+                    <persName key="ed_nkr_2gs_5fb">Achard, Francois Charles (Franz Karl) (1753-1821)
+                        (dt. Naturwissenschaftler (Physiker, Chemiker, Biologe), Nachkomme französ.
+                        Hugenotten, entwickelte die Technik zur Herstellung von Zucker aus
+                        Zuckerrüben; 1776 OM der Preußischen Akademie der Wissenschaften, 1782-1810
+                        Direktor der Physikalischen Klasse der Akademie)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-05-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Konzept, mit Korrekturen und den egh. Unterschriften von Achard, Merian und
+                    Borgstede. - Adresse: An / des Hn: Hofraths Hirt Wohlgeb: - Vermerk links:
+                    Mundirt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 31<hi rendition="#sup">ten</hi> Mai 1798.</dateline>
+					<salute/>
+                </opener>
+				<p>Wir finden in dem von Ew: Wohlge<ex>boren</ex> an Uns erlassnen geehrten Schreiben vom 28<hi rendition="#sup">ten</hi> v. <ex>[!]</ex> M<ex>onats</ex> Ihre Bemerkungen
+                    wegen des <hi rendition="#aq">Arrangements</hi> u. Aufstellung des <rs type="artwork" key="prov_bfc_wcs_5fb">K<ex>öniglichen</ex> Münz- u. <hi rendition="#aq">Medaillen-Cabinets</hi></rs>, sehr gegründet, u. werden
+                    in der Folge auch alle Gebrauch, insofern es thunlich seyn wird, davon zu machen
+                    suchen. Vorjezt aber müssen wir, ehe zum wirklichen <hi rendition="#aq">Arrangement</hi> geschritten wird, noch die nähern Befehle Sr: <persName key="prov_bxf_jt5_fv">Majestät</persName> darüber erwarten, bis zu deren
+                    Eingang Ew: Wohlgeb<ex>oren</ex> sich gedulden wollen.</p>
+                <p>Berlin den 31<hi rendition="#sup">ten</hi> Mai 1798.</p>
+				<closer>
+					<salute/>
+					<signed>Achard   Merian   Borgstede</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

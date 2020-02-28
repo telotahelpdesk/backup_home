@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_efn_xlw_dw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Aubin Louis Millin de Grandmaison</title>
+                <title>. Berlin, 15. (?) Juli 1809</title>
+                <title>]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-07-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o42_5tg_yv">Millin de Grandmaison, Aubin Louis (1759-1818)
+                        (franz. Archäologe)</persName>
+                    <placeName key="prov_tnd_dt1_5v">Paris</placeName>
+                </correspAction>
+                <note>Bezeugt in: 1809-07-15-a-Böttiger: „Da ich nun weiß, daß Sie mit diesem
+                    trefflichen und g<unclear reason="illegible">xxx</unclear> Manne
+                    fortdaurend im Verkehr sind, so nehme ich mir die
+                        Freyheit, hier ein Schreiben an ihn
+                        beyzuschließen, mit der Bitte, bey ersterer Gelegenheit desselben an ihn ergehen zu
+                    laßen.“
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

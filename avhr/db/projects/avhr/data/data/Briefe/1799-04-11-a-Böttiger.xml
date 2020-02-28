@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_b3v_qrm_4v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 11. April 1799. Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr.Dresd. h 37, 4°, Bd. 87, Nr. 14</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-04-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_qt5_zbd_xz"/>
+                    <ref type="next" target="hirt_lpr_hr2_xz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 11<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> April 99.</dateline>
+                    <salute/>
+                </opener>
+                <p>Gott im Himmel! welche entsezliche Pause schon wieder – ich habe <seg type="comment">
+                        <orig>Ihr leztes Blatt</orig>
+                        <note xml:id="napw_tbd_xz">Brief erschlossen:
+                            [1798-12-25x-v-Böttiger].</note>
+                    </seg> vor mir, lieber Freund! und sehe das es vom 25. Dec<ex>ember</ex>
+                    <ex>17</ex>98. datirt ist – daß ich seit so lange in Ihrer Schuld seyn soll,
+                    hätte ich doch nicht gedacht. Beynahe sollte ich glauben, der harte Winter hätte
+                    mehr erstarrenden Einfluß auf mich gehabt, als ich selbst mir bewußt war.</p>
+                <p>Auch sind die verschiedenen Punkte, über welche Sie mir damals schrieben so alt,
+                    daß ich nicht weiß, ob es noch Intereße für Sie haben würde, dieselben zu
+                    beantworten. – und dann wie viel neues! es drängt eines das andere so schnell,
+                    und gewaltsam fort, daß die Erscheinungen immer entschwinden, und in ein Chaos
+                    verlieren.</p>
+                <p>Ich weiß nicht, <seg type="comment">
+                        <orig>ob Sie etwas aus <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                            wißen:</orig>
+                        <note xml:id="nc5p_gqd_xz">Fernow hatte bereits Ende 1798 auf die schwierige
+                            Lage der Künstler in Rom hingewiesen: "Seit dem Eintritt der Franzosen
+                            in Italien sind fast keine fremden Reisende über die Alpen, und seit
+                            länger als zwey Jahren ist kein neuer Künstler mehr nach Rom gekommen.
+                            Noch vor einigen Jahren lebten hier über 50 teutsche Künstler, jetzt
+                            mögen kaum noch 15 hier seyn, und auch unter diesen haben die wenigen,
+                            die von ihrer Kunst leben, sehr wenig zu thun" (Fernow: Ueber den
+                            gegenwärtigen Zustand der Kunst in Rom. In: NTM, 1798, 3. Bd., S.
+                            279-289, hier S. 281). Ausländer waren aufgefordert worden, die Stadt
+                            und die Römische Republik zu verlassen oder mußten sich legitimieren, um
+                            Aufenthaltsgenehmigungen zu erhalten.</note>
+                    </seg> meine Neuigkeiten von da her <add place="superlinear" hand="">sind</add>
+                    nicht <del rendition="#s" next="frisch">nicht</del> frisch: aber ein paar Worte
+                    will ich Ihnen doch davon sagen. Ende Januars haben wieder drey deutsche
+                    Künstler, nemlich <persName key="prov_xsn_1cg_f5">Büry</persName>, <persName key="prov_n1f_vl5_tv">Hummel</persName>, und <persName key="prov_qzl_qqh_kv">Müller</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName> verlaßen. Ich habe aber seither
+                    keine Nachrichten vom erstern, von dem ich schon lange etwas näheres erwartete,
+                    erhalten. <persName key="prov_xt1_tnh_kv">Reinhardt</persName> soll sich,
+                    anstatt mit Mahlen, iezt besonders mit den Offizieren der polnischen Legion
+                    abgeben, so daß man glaubt, er würde sich am Ende selbst (aus noth) <pb n="2"/>
+                    darunter engagiren laßen. – <persName key="prov_ijp_xvr_xr">Zoega</persName> ist
+                    in Verdacht, und nicht ohne Furcht, exportirt zu werden: an der Publication
+                    seines <bibl sameAs="prov_m3m_4cj_3v">Obelisken Werks</bibl> verzweifelt er,
+                    weil alle Künstler, die an den Kupfern hiezu arbeiteten, aus Noth Militärs
+                    geworden sind. <seg type="comment">
+                        <orig>Das Verkaufen der Privatsammlungen</orig>
+                        <note xml:id="ng3l_jdd_xz">Vgl. auch 1798-12-07-a-Böttiger mit
+                            Sachanmerkung.</note>
+                    </seg> soll allgemein, um ein Spottgeld – und größtentheils an französische
+                    Commissärs seyn, die Kunstwerke für geringe für Contributionen zuentrichtende
+                    Summen annehmen.</p>
+                <p>Von <persName key="prov_i1d_yqr_cv">Hackert</persName> u. <persName key="prov_kyr_yvr_js">Tischbein</persName> weiß ich nichts, als was die
+                    Zeitungen sagten. <placeName key="prov_myp_lbv_35">Neapel</placeName> ist nun
+                    geleert, und <placeName key="prov_hp5_gbv_35">Florenz</placeName> wird es nun
+                    werden, wenn es noch nicht geschehen. Um <placeName key="prov_vxr_xxr_js">Italien</placeName> ist es nun geschehen – Aber was steht uns noch bevor?
+                    Kunstsachen werden nicht leicht zu fischen seyn; aber an Pferden u. Kühen etc.
+                    wird das arme <placeName key="prov_mqv_5zg_y5">Schwaben</placeName> bald ganz
+                    leer seyn. Was Proknostiziren von der <placeName key="prov_org_jtr_js">Schweiz</placeName>? wird sie Parthey nehmen, wenn die <placeName key="ed_th1_t2d_xz">Östreicher</placeName> eindringen? ich gestehe es: ich
+                    glaube kaum. Der Geist allda scheinet mir eben so ausgesogen, und erschlafft,
+                    als in <placeName key="prov_xym_pdx_w5">Deutschland</placeName>. – Lesen Sie das
+                        <bibl sameAs="ed_i43_2fd_xz">hist<ex>orische</ex> journal</bibl> von
+                        <persName key="prov_zlq_1cx_gv">Gentz</persName>? – Für mich ist es äußerst
+                    intereßant; hier aber sind von 20. nicht einer, der auf genzische Art über die
+                    Zeitläufe denkt: der Haufen – der hiesigen politischen Seilschaften – schreyet
+                    gewaltig wi<del rendition="#s">e</del>der ihn. wie denkt man in jenen Gegenden
+                    davon? –</p>
+                <p>Von <bibl sameAs="prov_cdv_zvy_jv">Tischbein Homers</bibl> sah ich eine ziemliche
+                    Anzahl Blätter: es ist so viel heterogenes Zeug darunter, daß aus dem ganzen so
+                    viel als nichts werden muß. <pb n="3"/>
+                    <persName key="ed_e4w_dgd_xz">Der Erklärer</persName> nimmt daher ein trauriges
+                    Loos auf sich.</p>
+                <p>Niemand kann mehr, als ich, bedauren, daß <bibl sameAs="prov_bjq_czj_gv">Ihr
+                        Vasenwerk</bibl> in Stecken gerathen – aber mein Rath, und thun ist zu
+                    unvermögend, um bey den furchtsamen Verlegern etwas zu bewirken, besonders in
+                    unsern verwirrten Zeiten. Das Beßere ist, däucht mich, nur von der Zukunft zu
+                    hoffen.</p>
+                <p>Was sagen Sie zum <seg type="comment">
+                        <orig>3<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> St<ex>ück</ex>
+                        </orig>
+                        <note xml:id="nzyh_bhd_xz">Gemeint ist des Zweiten Bandes Erstes Stück, das
+                            1799 erschien. Es enthält die Beiträge "Ueber die Philosophie. An
+                            Dorothea" von Friedrich Schlegel, "Die Gemählde. Gespräch" von August
+                            Wilhelm und Caroline Schlegel mit eingestreuten Gedichten August Wilhelm
+                            Schlegels und "Ueber die natürliche Gleichheit der Menschen" von August
+                            Ludwig Hülsen. Besonders der zweite Beitrag könnte Hirt interessiert
+                            haben. Friedrich Schlegel schreibt an A. W. Schlegel, Berlin, Frühmärz
+                            1799: "Vom Athen.[äum] habe ich hier noch nicht viel Interessantes
+                            gehört. Hirt hat sich sehr gewundert, daß nichts gegen ihn darin ist."
+                            Und Derselbe an seinen Bruder, Berlin, 8. März 1799: "Ueber das
+                            Athen.[äum] habe ich noch eben nichts Interessants gehört. Hirt wundert
+                            sich, daß wir ihm nicht antworten. Hier wird es nicht viel verkauft."
+                            (Digitale Edition der Korrespondenz August Wilhelm Schlegels, URL:
+                            http://www.august-wilhelm-schlegel.de/briefedigital/). - Im Ersten
+                            Bandes Zweites Stück bezog sich eines der "Fragmente" auf Hirts
+                            Laokoon-Aufsatz in den "Horen"; vgl. dazu 1798-09-18-a-Böttiger.</note>
+                    </seg> des <bibl sameAs="prov_eck_mb1_kv">Athenæums</bibl>? mir scheinen die
+                    Menschen platterdings verrückt. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Die Sachen</orig>
+                        <note xml:id="nxdl_whd_xz">Die von dem Maler Johann Peter Langer und dem
+                            Unternehmer Johann Böninger in ihrem "Mechanographischen Institut" in
+                            Duisburg hergestellten Tapeten erregten große Aufmerksamkeit. Proben
+                            davon waren auf der Berliner Akademieausstellung 1797 ausgestellt
+                            worden. Vgl. 1797-12-02-a-Goethe mit Sachanmerkung.</note>
+                    </seg> von <persName key="ed_qwk_fzd_xz">Böninger</persName> u. <persName key="ed_aqs_pyf_cy">Langer</persName> mögen in <placeName key="prov_tnd_dt1_5v">Paris</placeName>, als etwas neues – im ersten Moment
+                    Aufsehen machen: Allein die Sache bleibt als Fabrikwaare immer zu theuer: ich
+                    glaube daher, daß die Unternehmer dabey eben so wenig, als die Kunst durch die
+                    Erfindung selbst selbst [!] – gewinnen werden. –</p>
+                <p>
+                    <persName key="prov_hwd_hmp_5r">Göthe's</persName>
+                    <bibl sameAs="ed_jdc_n1v_vz">Zusäze zu Diderot</bibl> sind sehr schön
+                    geschrieben; aber wahrscheinlich für wenige Leser intereßant u. verständlich. –
+                    wo <persName key="prov_tsc_grz_v5">Mayer</persName>
+                    <bibl sameAs="ed_oqy_mrs_vz">mit den Gegenstanden</bibl> etc. hinauswill, weiß
+                    nicht. Ich möchte es ein wahres Strohdreschen nennen.</p>
+                <p>Ich spähe seit langem, wer <persName key="ed_cqg_z3d_xz">der Verfaßer</persName>
+                    – <bibl sameAs="ed_rsd_m3d_xz">Fragmente über Italien aus dem Tagebuch eines
+                        jungen Deutschen</bibl> – <seg type="comment">
+                        <orig>ohne Druckort</orig>
+                        <note xml:id="nc4t_ljd_xz">Die Reisebeschreibung erschien anonym und ohne
+                            Angabe des Druckorts, d.i. Tübingen bei Cotta.</note>
+                    </seg> – seyn könnte. Wüßten Sie nicht, mir auf die Spur zu helfen. Der
+                        Verf<ex>asser</ex> ist nicht ohne Kopf, aber unverschämt lügend.</p>
+                <p>Gestern erhielt ich den Einschluß. Ich hoffe doch, daß Sie <persName key="ed_imh_wkd_xz">Peyre</persName> erhalten haben, <seg type="comment">
+                        <orig>den ich Ihnen durch <pb n="4"/>
+                            <persName key="prov_dln_f3z_x5">Herrn v. Egloffstein</persName>
+                            zusandte</orig>
+                        <note xml:id="nq4j_xyd_xz">Vgl. 1798-08-17-a-Böttiger.</note>
+                    </seg>, um <bibl sameAs="ed_f1t_xtd_xz">das Buch</bibl> gelegentlich den
+                    Unternehmern der <bibl sameAs="prov_csp_vs1_z5">Allge<ex>meinen</ex>
+                            L<ex>iteratur</ex> Z<ex>eitung</ex>
+                    </bibl> zuzustellen. Das Buch ist so elend, daß ich mich nicht getraute, eine
+                    Recension davon zu machen: folglich möchte ich es um keinen Preis behalten. Ich
+                    würde Sie daher bitten, meine Sache mit der Expedition abzumachen – und etwa
+                    auch das Geld für mich zu empfangen. – ich bin nicht ohne Hoffnung, <seg type="comment">
+                        <orig>daß ich Sie dieses Frühjahr werde sehen können</orig>
+                        <note xml:id="njz1_qmd_xz">Hirt kommt vorerst nicht nach Weimar (vgl.
+                            1799-07-27-a-Böttiger) und auch Böttiger kann einen geplanten Besuch in
+                            Berlin nicht realisieren (vgl. 1799-08-15-a-Böttiger).</note>
+                    </seg>. – </p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie wohl, bester Freund! – Ich möchte noch so manches mit Ihnen
+                        plaudern – aber für heute genug <lb/>unwandelbar <lb/>der Ihrige</salute>
+                    <signed>Hirt. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

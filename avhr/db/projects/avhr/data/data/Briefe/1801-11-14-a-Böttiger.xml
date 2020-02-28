@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_orj_cvt_vv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 14. November 1801. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 24</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1801-11-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_dnq_vyw_d1b"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 14<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        Nov. 1801.</dateline>
+                </opener>
+                <p>Ich habe nur noch ein paar Momente, ehe unsere wackern <seg type="comment">
+                        <orig>
+                            <persName key="prov_at2_4rw_gv">
+                                <persName key="prov_zlq_1cx_gv">Brüder Genz</persName>
+                            </persName>
+                        </orig>
+                        <note xml:id="nesp_ypw_d1b">Johann Heinrich Gentz und sein Bruder Friedrich
+                            reisten nach Weimar, wo sie sich vom 18. bis 25. November aufhielten.
+                            Goethe vermerkt den Besuch von "Prof. Gentz" und "Hrn. Kriegsrath Gentz"
+                            am 18. November 1801 in seinem Tagebuch. Friedrich Gentz schreibt am 18.
+                            November in sein Tagebuch: "Après le dîner nous avons d'abord été chez
+                            M. Böttiger, ensuite chez Schiller, chez M. de Luck, chambellan de
+                            service, qui s'est chargé de m'annoncer à la cour, ensuite chez Goethe,
+                            puis encore chez Böttiger." (zitiert nach: Goethe: Begegnungen und
+                            Gespräche. Hrsg. von Ernst Grumach und Renate Grumach, Bd. 5, 1985, S.
+                            199). </note>
+                    </seg> abreisen: und ich kann daher auf <seg type="comment">
+                        <orig>Ihr werthes Leztes</orig>
+                        <note xml:id="nyfg_ryw_d1b">Brief erschlossen:
+                            [1801-11-vor14x-v-Böttiger].</note>
+                    </seg> Ihnen nur ein paar Worte sagen.</p>
+                <p>Erstlich empfangen Sie hier meine <bibl sameAs="ed_tgk_4z1_wv">Abhand<ex>lung</ex> über die Mosaik</bibl>, welche ich aber sehr bitte,
+                    mir mit der Rückkehr des <persName key="prov_zlq_1cx_gv">Kriegsrathes
+                        Genz</persName> zurückzusenden. Ich bitte mir Ihre Kritik darüber aus. </p>
+                <p>In Rücksicht des griechischen Hauses hätte<del rendition="#s">n</del> ich Ihnen
+                    auch gerne sogleich gewillfahrt – aber die Zeit zu dieser Arbeit war zu kurz.
+                    Indeßen habe ich bereits den ganzen Plan hiezu entworfen: und <seg type="comment">
+                        <orig>I<persName key="prov_om4_sjk_sv">hr ehemaliger
+                            Schüler</persName>
+                        </orig>
+                        <note xml:id="nmf2_31x_d1b">Möglicherweise Karl Christian Gottlob Sturm
+                            gemeint.</note>
+                    </seg>
+                    <pb n="2"/> wird meinen Plan für Sie copiren, so daß Sie denselben in zeit 14.
+                    Tagen längstens erhalten sollen. – Den <persName key="ed_s3n_x1n_yv">Vossischen</persName>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_emg_x2x_d1b">Entwurf zu Ulysses Haus</bibl>
+                        </orig>
+                        <note xml:id="ncnd_mdx_d1b">Die Übersetzung der "Odyssee" von J. H. Voß
+                            enthält einen Grundriss vom Haus des Odysseus. Hirt schreibt später in
+                            seiner "Geschichte der Baukunst bei den Alten", Bd. 1, Kap. "Von den
+                            Wohnhäusern": "Das Ausführlichste über diesen Gegenstand liefern uns die
+                            Stellen, welche das Haus des Ulysses in Ithaca betreffen. Der treffliche
+                            Voss hat seiner Uebersetzung der beiden grossen homerischen Gedichte
+                            einen Grundriss dieses Hauses beigefügt, den wir im Ganzen nicht anders
+                            als billigen können" (S. 208 f.).</note>
+                    </seg> sah ich noch nicht.</p>
+                <p>
+                    <persName key="prov_htp_dkz_jv">Schlegel</persName> ist wieder erschienen. Er
+                    wollte mich besuchen: <add place="superlinear">ich</add> war aber nicht zu Haus.
+                    Es scheint, daß <seg type="comment">
+                        <orig>seine Vorlesungen</orig>
+                        <note xml:id="nnhf_v3j_5z">August Wilhelm Schlegel hielt seit dem
+                            Wintersemester 1801/02 (bis 1804) eine Vorlesungsreihe "Über schöne
+                            Literatur und Kunst", zu der er Hirt eingeladen hatte, was Hirt im
+                            umgekehrten Falle ebenfalls tat. An Goethe schreibt Schlegel am 19.
+                            Januar 1802: "Mein Verhältniß gegen das hiesige Publicum im Ganzen ist
+                            durch meine Vorlesungen einigermaßen zu meinem Vortheil verändert. Sie
+                            haben beträchtliche Sensation gemacht, und verschiedne Menschen für mich
+                            gewonnen, die sonst gegen mich waren. [...] Hirt hält Vorlesungen, die
+                            aber nur von akademischen Schülern und einigen Freunden besucht werden,
+                            wie sie denn auch in der That nicht wohl zu hören sind. Er hat mich dazu
+                            eingeladen, wie ich ihm zuvor eine Carte zu den meinigen geschickt:
+                            vielleicht urtheilt er über diese nicht günstiger als ich über seine,
+                            jedoch beehrt er sie fleißig mit seinem Zuspruch" (Digitale Edition der
+                            Korrespondenz August Wilhelm Schlegels <ref target="http://august-wilhelm-schlegel.de/briefedigital/letters/view/3446?left=text&amp;right=manuscript&amp;query_id=59393a52bf43a"/>). </note>
+                    </seg> nicht gedeihen wollen: wenigstens soll die Liste der Subscribenten noch
+                    sehr gering seyn.</p>
+                <p>Grüßen Sie bey der <persName key="prov_qn2_zhp_5r">Herzogin</persName> und in
+                    Ihrem <seg type="comment">
+                        <orig>neuadelichen Hause</orig>
+                        <note xml:id="ntqq_23x_d1b">Herder wurde am 8. Oktober 1801 vom bayerischen
+                            Kurfürsten Maximilian IV. Joseph in den Adelsstand erhoben.</note>
+                    </seg> welches mich wegen der Familie des <persName key="prov_hy4_jx2_rs">wackern Mannes</persName> sehr freuet –</p>
+                <closer>
+                    <salute>Leben Sie wohl, bald sage ich Ihnen mehr <lb/>Ihr</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

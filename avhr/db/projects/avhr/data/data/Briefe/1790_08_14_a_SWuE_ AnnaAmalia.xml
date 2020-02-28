@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_nhx_tyf_w5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Rom, den 14. August 1790.
+                    Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50, Bl.
+                                3-5</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys(1759 - 1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1790-08-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia von (1739 -
+                        1807)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>An Ihre Durchlaucht</addrLine>
+                    <addrLine>die</addrLine>
+                    <addrLine>Herzogin Amalie</addrLine>
+                    <addrLine>zu</addrLine>
+                    <addrLine>Sachsen-Weimar.</addrLine>
+                    <addrLine>Mit Siegel</addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 14t<hi rendition="#sup">
+                            <hi rendition="#u">en</hi>
+                        </hi> August 1790</dateline>
+                    <salute>Herzogliche Durchlaucht<lb/>Gnädigste Fürstin!<lb/>
+                    </salute>
+                </opener>
+                <p>Ew. Durchlaucht erlauben, Ihnen meine Freude über Ihre glückliche <seg type="comment">
+                        <orig>Rückkunft</orig>
+                        <note xml:id="nqwn_hh4_fz">Anna Amalia
+                            war nach fast 2-jährigem Aufenthalt in Italien am 18. Juni 1790 nach
+                            Weimar zurückgekehrt.</note>
+                    </seg> ins <placeName key="prov_xym_pdx_w5">Vaterland</placeName> zu bezeigen, mit dem herzlichen Wunsche, daß Sie in
+                    der Rück<subst>
+                        <del rendition="#s">erinnrung</del>
+                        <add>erinnerung</add>
+                    </subst> an das schöne <placeName key="prov_vxr_xxr_js">Italien</placeName> noch
+                    lange den frohen genuß von Ihrem angenehmen Aufenthalte in diesem Lande haben
+                    mögen. Lange wird Ihr Name in der <placeName key="prov_vkl_ndl_js">Stadt der 7.
+                        Hügel</placeName>, eben so wie an den <placeName key="prov_myp_lbv_35">Gestaden der <persName key="prov_lrc_flt_y5">Partenope </persName>
+                    </placeName>blühen, und ein jeder, der sich Ihrer hohen Person zu nähern das
+                    Glück hatte, ein süßes Andenken von Ihrer huldvollen Herablaßung, Ihrem
+                    cultivirten Geiste, und Ihrem sichern Gefühl für alles was schön ist,
+                    beybehalten. <seg type="critical">
+                        <orig>Das <placeName key="prov_gt1_jlt_y5">Belvedere</placeName> welches Ew.
+                            Durchlaucht iezt bewohnen</orig>
+                        <note xml:id="nnvx_bxf_1v">Das im Süden von Weimar gelegene Schloss
+                            Belvedere mit großem Park wurde von Herzog Ernst August von
+                            Sachsen-Weimar und Eisenach zwischen 1724 und 1748 als barocke
+                            Sommerresidenz errichtet. Anna Amalia hielt sich regelmäßig in den
+                            Sommermonaten dort (wie auch im Schloss Tiefurt) auf.</note>
+                    </seg>, mag Ihnen freylich keinen Himmel, und keine Aussicht wie der <seg type="critical">
+                        <orig>
+                            <placeName key="prov_wn1_plt_y5">Pizzofalcone</placeName>
+                        </orig>
+                        <note xml:id="nxjh_3bg_w5">Hügel in Neapel, direkt am Meer, in der Nähe des
+                            Königspalastes. In dem vornehmen Wohngebiet hatte die Reisegesellschaft
+                            von Anna Amalia bei ihrem zweiten Aufenthalt in Neapel neben einer Villa
+                            in Portici noch eine Unterkunft westlich des Palazzo Reale am
+                            Pizzofalcone-Hügel Monte Echia gemietet.</note>
+                    </seg> anbieten: hingegen haben Sie schöne Waldung, grüne Wiesen, und eine
+                    Anzahl gewählter Freunde <pb n="2"/> um sich, welche Ihnen die Ruhe nach einer
+                    zweyjährigen Lärmvollen <seg type="critical">
+                        <orig>Reise</orig>
+                        <note xml:id="nrsb_tlt_y5">Die Reise von Anna Amalia nach Italien dauerte
+                            vom 15. August 1788 bis zum 18.Juni 1790. Am 4. Oktober 1788 war sie mit
+                            ihrer Gesellschaft in Rom eingetroffen. Zum Jahreswechsel 1788/89 reiste
+                            sie erstmals für sieben Wochen nach Neapel (Abreise aus Rom am 1. Januar
+                            1789; Ankunft in Neapel: in der Nacht vom 4. zum 5. Januar 1789; Abfahrt
+                            von Neapel: 18. Februar 1789; Rückkehr nach Rom: 20. Februar 1789). Ein
+                            zweites Mal hielt sich die Herzogin vom 21. Mai 1789 bis 12. April 1790
+                            in Neapel auf.</note>
+                    </seg> sehr erwünscht machen müßen.</p>
+                <p>In der Kunst ist seither nicht viel merkwürdiges erschienen, außer einem
+                        <placeName key="prov_dhs_vfg_w5">Gemälde</placeName> von dem Thiermahler
+                        <persName key="prov_arp_z2g_w5">
+                        <hi rendition="#u">Wenzelaus Peter</hi>
+                    </persName>, <seg type="critical">
+                        <orig>das <hi rendition="#u">Paradies</hi> vorstellend</orig>
+                        <note xml:id="nf2r_t5t_y5">Wenzel Peter: Adam und Eva im Irdischen Paradies,
+                            Öl auf Leinwand, 336 x 247 cm, Vatikanische Museen, Inv. 41266. - Auf
+                            dem großformatigen Bild sind mehr als 200 Tiere aus aller Welt um die
+                            Figuren von Adam und Eva versammelt. Papst Gregor XVI. kaufte 1831 20
+                            Werke des Malers für die Ausstattung der Sala del Concistoro in dem für
+                            Empfänge bestimmten Päpstlichen Wohnbereich. - Graf Friedrich Leopold zu
+                            Stolberg beschreibt einen Besuch im Atelier des Malers: "Wenzeslaus
+                            Peter, ein Böhme, hat durch entschiedenes Talent sein Schicksal selber
+                            gemacht. Noch im sieben und zwanzigsten Jahre war er ein Büchsenschmied.
+                            Ein vornehmer Mann lernte ihn kennen und ließ ihn im Zeichnen
+                            unterrichten. Er begann die Bildhauerkunst zu lernen. Der Pinsel verhieß
+                            ihm schnelleres Glück, reizte auch mehr seinen Geschmack. Als die
+                            Loggien Rafael's im Vatican für die Kaiserin von Rußland copirt wurden,
+                            half er an den Arabesken arbeiten. Bald wurden diese nur ihm anvertraut.
+                            Aber sein Hang zog ihn zur Thiermalerei. Er malte Thiere aller Art und
+                            ist nun ohne Zweifel der erste Maler in dieser Gattung. Ich sah bei ihm
+                            ein großes Gemälde, das Paradies. Die Landschaft ist schön. Die Thiere
+                            hat er fast alle in Handlung zu setzen gewußt. Die Menschen zeigt er im
+                            Augenblick, da Eva den Apfel an Adam reicht. / Zwei Zimmer sind voll von
+                            abgebildeten Thieren. Die meisten sind in Lebensgröße. Der Löwe geräth
+                            diesem Meister wie die Taube, der Fuchs wie das Lamm. Jedes einzelne
+                            Thier scheint mir fast ein größeres Meisterstück als das große, zwar
+                            schöne, doch vielleicht überladene Gemälde des Paradieses." (Reise in
+                            Deutschland, der Schweiz, Italien und Sicilien. Von Friedrich Leopold
+                            Graf zu Stolberg. 1. Bd., Mainz 1877, S. 384-385).</note>
+                    </seg>. Man kann dieses Stück in seiner Art klassisch nennen, und gewiß haben
+                    die berühmtesten <placeName key="prov_hll_2st_y5">niederländischen</placeName>
+                    Thiermaler nichts aufzuweisen, welches in Rücksicht der Composition, der
+                    Zeichnung und Karaktere der Thiere, und der Ausführung an die Seite gestellt
+                    werden könnte. Aber der Künstler verlangt auch den Preis von 1000 Zecchinen
+                    davor. <persName key="prov_tlx_cyr_xr">Trippel</persName> hat die zweyte <seg type="critical">
+                        <orig>Büste von <persName key="prov_hy4_jx2_rs">Herder</persName>
+                        </orig>
+                        <note xml:id="ncx1_wst_y5">Zur Herder-Porträtbüste vgl.
+                            1790-05-21-a-Herder.</note>
+                    </seg>, da ihm die erste durch einen unglücklichen Schlag eines seiner Arbeiter
+                    verunglückt ist, wieder weit avancirt.</p>
+                <p>Vorigen Mittwoch kam ein Courier aus den Bädern von <placeName key="prov_tc1_l24_y5">Lucca</placeName>, der die Nachricht von dem <seg type="critical">
+                        <orig>Tode des <persName key="prov_lxv_vvt_y5">Card<ex>inal</ex>
+                                Buoncompagni</persName>
+                        </orig>
+                        <note xml:id="nb4r_qwt_y5">Der Kurienkardinal war am 9. August 1790 in den
+                            Bädern von Lucca gestorben.</note>
+                    </seg> überbrachte. Jederman bedauert diesen Mann, als den Aufgeklärtesten, <pb n="3"/> den das heil<ex>ige</ex> Collegium hatte. Seine Krankheit war sehr
+                    complizirt, und viele glauben, daß der Disgusto wegen seiner abgelegten Würde
+                    als Staatssekretär viel dazu beygetragen.</p>
+                <p>Von <seg type="critical">
+                        <orig>
+                            <persName key="prov_mp4_dxt_y5">Cagliostro</persName>
+                        </orig>
+                        <note xml:id="nx2g_xxt_y5">Der auf Sizilien geborene Giuseppe Balsamo hatte
+                            unter dem Namen Graf Cagliostro als Okkultist und Alchemist ganz Europa
+                            bereist und an vielen Höfen Vertrauen erlangt und Geldzuwendungen
+                            erhalten, was ihm einen aufwändigen Lebensstil erlaubte. Er gab sich
+                            u.a. als Begründer einer ägyptischen Freimaurerei aus. Durch seine
+                            Verwicklung in die sogenannte Halsbandaffaire musste er Frankreich
+                            verlassen und ließ sich in Rom nieder, wo er im Dezember 1789 von der
+                            päpstlichen Polizei verhaftet und wegen Häresie, Zauberei und
+                            Freimaurerei angeklagt wurde. Cagliostro war seit Dezember 1789 in der
+                            Engelsburg eingesperrt, im April 1790 begann der Prozess gegen ihn. Das
+                            am 21. März 1791 verkündete Todesurteil wurde in lebenslange
+                            Freiheitsstrafe umgewandelt. Er starb 1795 im Gefängnis von San Leo bei
+                            San Marino.- Angelika Kauffmann schreibt am 16. Juni 1790 an Carl
+                            Ulysses von Salis-Marschlins: "von Cagliostro kann ich Ihnen gar nichts
+                            sagen, die ganze sache ist hier ein geheimnus - schon lange wirt er
+                            täglich examiniert, die zeit wirt es zeigen was daraus erfolgt. seine
+                            frau ist in einem kloster sehr zu frieden. Ihme aber wirt die zeit lange
+                            werden, und es wollen einige daß er seine wohnung so bald nicht änderen
+                            wirt, gesteren sagte mier jemand daß er alle die fragen mit
+                            stillschwigen beantworte" (Maierhofer: Angelica Kauffmann. Briefe, S.
+                            151-152).</note>
+                    </seg> höret man wie gewöhnlich nichts. Vor zwey Tagen kam ein <seg type="critical">
+                        <orig>Courier an <seg type="critical">
+                                <orig>
+                                    <persName key="prov_t2j_gzt_y5">Card<ex>inal</ex> de
+                                        Bernis</persName>
+                                </orig>
+                                <note xml:id="npvx_m15_y5">Nach der Französischen Revolution wurde
+                                    er seines Gesandtschaftspostens entsetzt und verlor sein hohes
+                                    Gehalt, blieb aber in Rom, wo er von seinem Freund, dem
+                                    spanischen Diplomaten José Nicolás de Azara, finanziell
+                                    unterstützt wurde.</note>
+                            </seg>, um die Geschäfte mit <placeName key="prov_jlj_b15_y5">Avignon</placeName> wieder in Ordnung zu bringen</orig>
+                        <note xml:id="nwzf_jd5_y5">Avignon und die Grafschaft Venaissin standen
+                            unter Verwaltung eines päpstlichen Gesandten. Nach der Französischen
+                            Revolution sollten die päpstlichen Gebiete an Frankreich angegliedert
+                            und ein neues Département Vaucluse gebildet werden, was in Avignon zu
+                            einer papsttreuen Konterrevolution führte. Der Papst ließ daraufhin dem
+                            Cardinal Bernis, der zugleich Frankreichs Angelegenheiten am Römischen
+                            Hof bisher besorgt hatte, folgende Depesche zustellen: "Die von den
+                            Feinden der Religion, der Souvränitätsrechte, und der öffentlichen Ruhe
+                            gepredigten, und mit Wuth verbreiteten Grundsätze der Unabhängigkeit,
+                            und einer zügellosen Freyheit, haben die Einwohner der Stadt Avignon zu
+                            den schrecklichsten Verbrechen, zu der aufscheuwürdigsten Treulosigkeit
+                            verleitet. Dieß Volk, das seit mehrern Jahrhunderten unter der
+                            glücklichen und gemäßigten Regierung des heil. apostolischen Stuhles
+                            lebte, hat sich unbesonnener Weise verbleibenden, und durch die
+                            Verwegenheit und List einiger Aufwiegler verführen lassen, welche,
+                            mitten im Tumulte und in der Anarchie, endlich eine offenbare Rebellion
+                            erreget haben. Vergeblich überhäufte Seine Heiligkeit diese so übel
+                            geleiteten Unterthanen, um allem Vorwande zu Klagen und Unruhen zuvor zu
+                            kommen mit Beweisen seines Wohlwollens, schickte ihnen auf eigene
+                            Unkosten beträchtliche Getreidelieferungen, befahl die Verminderung der
+                            Auflagen, erleichterte die Gerechtigkeitspflege, und lud sie väterlich
+                            ein, alle Mängel und Mißbräuche, welche sich in die Gesetzgebung
+                            eingeschlichen haben könnten, anzuzeigen, um denselben abzuhelfen, und
+                            die nöthigen Gegenmittel vorkehren zu können. Weit entfernt, daß alle
+                            diese sorgsamen Vorkehrungen Seiner Heiligkeit, alle diese
+                            Nachgiebigkeit den Herzen dieser Unterthanen Empfindungen der
+                            Dankbarkeit und Mäßigung hätten einflößen, und tiefe Wurzel schlagen
+                            lassen sollen, dienten sie nur, sie hartnäckiger und unverschämter zu
+                            machen, so daß sie Tag vo Tag fortfuhren, Verbrechen auf Verbrechen,
+                            Ausschweifung auf Ausschweifung zu häufen. Nachdem sie das bisherige
+                            System der Magistratur und Gerichtsstellen umgestürzt und vernichtet,
+                            das Militär verführet und aufgewiegelt, die Rechte der Souveränetät und
+                            des Heiligthums gemißbrauchet, den Repräsentanten des heiligen Vaters
+                            und seiner Minister beschimpft, die höchste Gewalt antastende Schriften
+                            verbreitet, geistliche und weltliche Rechte verletzet und mit Füßen
+                            getreten, und Eidschwur und Treue gebrochen hatten; gelangten sie
+                            endlich zu dem Ziele ihres Unternehmens, und drückten das Siegel auf
+                            alle ihre Schandthaten. Am 12. und 13. des verflossenen Monaths Junius
+                            war es, da sie mit Händen, die noch vom Blute ihrer Mitbürger trieften,
+                            den Vicelegaten des heil. Stuhls Msgr. Casoni zwangen, die Stadt und das
+                            Gebieth von Avignon zu verlassen und es wagten, die Wapen des
+                            regierenden Papstes, ihres rechtmäßigen Souveräns, tumultuarisch
+                            abzureißen, um dafür jene des allerchristlichsten Königs anzuheften;
+                            allein die bekannte Gerechtigkeit dieses Monarchen, seine Regierung, und
+                            seine Ehrfurcht für den Apostolischen Stuhl, sind uns sichre Bürgen, daß
+                            Se. Majestät, weit entfernt dergleichen ungerechte Schritte zu billigen,
+                            vielmehr solche Verbrechen nicht angeahndet lassen werde. / Diese kurze
+                            Schilderung des Aufstandes und der Revolution zu Avignon hat der
+                            Cardinal Staatssecretär, auf Befehl des heil. Vaters die Ehre Eurer
+                            Eminenz mitzutheilen, damit es Ihnen belieben möge, selbige an Ihren Hof
+                            gelangen zu lassen: er zweifelt nicht, daß dieser Hof denjenigen
+                            Antheil, der der Wichtigkeit der Sache, welche die gemeinschaftliche
+                            Sache aller Souveräns ist, und der besondern Freundschaft, welche Se.
+                            Majestät für die geheiligte Person des heil. Vaters hägen, angemessen
+                            ist, daran nehmen werden. Den 17. Jul. 1790." (Zitiert nach: Carl
+                            Christian Viktor: Chronicon Viennense oder neueröffneter
+                            Österreichischer Bildersal vom Jahre 1790 […]. Bd. 2, Wien 1791, S.
+                            203-205).</note>
+                    </seg>. Die römische Licenz zu sprechen ist seit einiger Zeit sehr restringirt,
+                    und mehrere Franzosen sind wegen zu freyer Zunge theils exilirt, theils gewarnet
+                    worden. Sonst ist in diesen und den angränzenden Staaten alles sehr ruhig.</p>
+                <p>Das wichtigste was ich diesen Sommer schrieb, ist eine
+                    historisch-architektonische <bibl sameAs="ed_gsd_hcp_fz">Abhandlung über das
+                            <placeName key="prov_lyp_n35_y5">Pantheon</placeName>
+                    </bibl>. Meine
+                    Freunde, worunter auch <persName key="prov_ic3_xk5_y5">Card<ex>inal</ex>
+                        Borgia</persName> ist, wollen, daß ich diese Schrift <seg type="critical">
+                        <orig>in Rom italienisch herausgebe</orig>
+                        <note xml:id="ng5r_jzf_1v">Luigi Hirt: Osservazioni Istorico-Architettoniche
+                            sopra il Panteon. Roma MDCCXCI [1791] Nella Stamperia Pagliarini. Con
+                            Licenza die Superiori. (VI), 40 S., 1 Bl. "Spiegazione Rami", 3
+                            gestochene Taf.</note>
+                    </seg>, allein es giebt noch Hinderniße wegen den Unkosten der hiezu
+                    erforderlichen Kupferplatten, ohne welche ich sie nicht in die Welt geben
+                    kann.</p>
+                <closer rend="paragraph">
+                    <salute>Ich empfehle mich der fernern Huld Ew. Durchlaucht, und verbleibe in
+                        tiefester Verehrung</salute>
+                    <lb/>Ihr dankbarester u gehorsamster Diener - <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

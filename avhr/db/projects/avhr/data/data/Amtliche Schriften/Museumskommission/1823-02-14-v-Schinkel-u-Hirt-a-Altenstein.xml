@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_e4x_tpx_vkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    14. Februar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Kultusministerium Ve Sekt. 15 Abt. I Nr. 4 Bd. 2, Bl. 51r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Von Schreiberhand mit egh. Unterschriften. - Empfängerbemerkungen: "pr den
+                    15ten Febr 23. / H v Seydewitz / 471. b. m. n."; Aktenvermerke "u.a. 16/2";
+                    "Berlin Wiss S N 114"; "2971."; Bemerkungen von Seydewitz: "1. Nach der anhängl.
+                    Absicht Sr. Exc. soll für dies. Zweck für jetzt überhaupt eine Summe von 6000 r.
+                    Vorschuß xxxx bestimmt werden, deren Bewilligung aus einem angemessenen Fond Sie
+                    demnächst Sr Maj. anheimstellen werden. Entschließlich der früher unterm 1/8. u
+                    25/9. zu ihrer Verf. gestellten 3000 r. wollte Se Exc. nunmehr hiemit die ganze
+                    Summe der 6000 r. zu ihrer Desposit. stellen. - Aus der abschr. Anlage werden
+                    sie übrigens sehn, in welcher Lage sich dieser Fond befinde, u daß hirnach
+                    zuletzt noch 3020. 3. 1. disponibel gewesen sei. / xxxx der Gen. Casse daß das
+                    Min. beschlossen habe, zunaechst den ganzen Ueberrest des bei der G. C. durch
+                    Post v. 29/6 eröffneten Vorschusses von 6000 r. zur Disposit. des Hrn S. u. H.
+                    zu stellen. Ueber xxx xxxichtl. Anzeige des H Dannem. zu Abschr., wornach bis
+                    zum 17/2. hierauf theils von den xxx theils von Hn S. u H. überhaupt 9,974.
+                    26.11. angewiesen gewesen sei, werde sie unter die fernern Anweisgn der
+                    Letzteren bis zu den Gesammtbetrage von 6000 r. zu honoriren xxx Ueberschreitg
+                    des Letztern darf aber unter allen Umständen nicht stattfinden. / Brl. 28/2. 23.
+                    / [gez.] Seydewitz"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Koenigl: wirklichen Geheimen Staats / Minister, Minister
+                            der Geistlichen, / Unterrichts und Medizinal Angelegenheiten pp / Herrn
+                            FreyHErrn von Altenstein / Excellenz</addrLine>
+                    </address>
+                </opener>
+				<p>Den Credit, welchen Euer Excellenz nach dem sehr verehrlichen Schreiben vom 25ten Septbre un:
+                    pr: (N° 14,971) Behufs Einrichtung des Kunst Museums und der Restauration und
+                    demnächstigen Aufstellung der Koenigl<ex>ichen</ex> Gemaelde Sammlung bei
+                    Hochverehrlichen General Casse nach unserm Antrage vom 10<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Septbr: v. J. von 1500
+                    r<ex>eichs</ex>Thaler auf 3000 r<ex>eichs</ex>Thaler haben erhöhen lassen, ist
+                    die angewiesene Zahlungen beinahe erschöpft, und verpflichten xx bedeutenden
+                    Zahlungen, welche jezt für das xxxtives Geschäft geleistet werden müssen, bei
+                    Euer Excellenz gehorsamst anzutragen, den bei der gedachten Casse zur
+                    Disposition gestellten Fonds auf 6000 r<ex>eichs</ex>Thaler erhöhen lassen zu
+                    wollen.</p>
+				<closer>
+                    <dateline>Berlin den 14<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Februar 1823.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

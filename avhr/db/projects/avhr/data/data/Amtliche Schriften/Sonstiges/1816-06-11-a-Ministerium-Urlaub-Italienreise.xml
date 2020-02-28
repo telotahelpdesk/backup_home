@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hh1_5hb_f3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Departement für Kultus und öffentlichen Unterricht mit
+                    Bitte um Urlaub für eine Kunstreise nach Italien. Berlin, 11. Juni 1816</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SPP-PK</institution>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno><idno type="shelfmark">Slg. Darmstädter 1913.31</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1816-06-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_lbq_ytw_13b">Departement für den öffentlichen
+                        Unterricht</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Empfängerbemerkungen: [über dem Text] "II. 2827. / D. Referatur Regi mit
+                    Unterstützung des Gesuchs; mit dem Anheimstellen ob S. M. in Ansehung der
+                    Bereicherung Ihrer Samlungen von Antiken u Gemähldegallerien dem Hirt Auftrage
+                    ertheilen lassen wollen, dagegen man diesfals bedacht seyn werde, ihn in
+                    Ansehung der Bibliotheken nach Befinden, mit Aufträgen zu versehen. Berlin den
+                    13 Jun. 1816 Uhden" - [auf dem linken Rand] "pr. d. 11. Jun. 16. / Uhden." -
+                    [auf dem unteren Rand] "2051."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An ein Hohes Ministerium des Innern. / Abtheilung für den Kultus
+                            und / öffentlichen Unterricht. Mit Siegel</addrLine>
+                    </address>
+                </opener>
+				<p>Ich wünschte vom künftigen Herbst an bis auf den October 1817 auf ein Jahr Urlaub zu haben,
+                    um eine lang ersehnte wißenschaftliche Kunstreise zu machen.</p>
+                <p>Meine Absicht wäre, sieben bis acht Monate in <placeName key="prov_vxr_xxr_js">Italien</placeName> zuzubringen, und auf der Rückreise die Denkwürdigkeiten
+                    der <placeName key="ed_kzz_brn_fw">Rheingegenden</placeName>, und die von mir
+                    noch nie besehenen Kunstschäze der <placeName key="prov_hll_2st_y5">Niederlande</placeName> und von Holland in Augenschein zu nehmen. Ja wenn
+                    es die beschränkte Zeit zuließe, wünschte ich von <hi rendition="#aq"><placeName key="ed_bjv_jvb_f3b">Brabant</placeName></hi> nach <placeName key="prov_npf_ydx_w5">Engeland</placeName> überzusetzen, bloß um in <hi rendition="#aq"><placeName key="prov_efv_ssv_rv">London</placeName></hi> die
+                        <rs type="artwork" key="prov_nhj_vyk_jw">Athenischen Denkmäler</rs> von <hi rendition="#aq"><persName key="ed_tyt_lwk_jw">Lord Elgin</persName></hi> und
+                        <rs type="artwork" key="prov_tbw_wwb_f3b">die <hi rendition="#aq">Phigalischen</hi></rs> auf einige Tage zu sehen.</p>
+                <p>Diese Reise hat keinen <add place="superlinear">andern</add> Zweck, als mich
+                    durch eine neue Ansicht von so vielem Bekannten, und durch das Studium manches
+                    noch nie Gesehenen in den Stand zu sezen, meinen größern litterarischen
+                    Arbeiten, welche von jeher das Streben meines Lebens waren, die lezte
+                    Bearbeitung und Vollendung geben zu können.</p>
+                <p>Die <hi rendition="#aq">liberale</hi> Denkart, durch welche sich unsere Regierung
+                    von jeher für die Aufnahme der Künste und Wißenschaften auszeichnete, läßt mich
+                    hoffen, daß mir eine Bitte gewährt werde, die einzig dahin zielt, den Kreis
+                    meiner Kenntniße in jenen Fächern zu <subst>
+                        <del rendition="#s">vervollkommnen</del>
+                        <add place="superlinear">erweitern</add>
+                    </subst>, worin ich hier seit zwanzig Jahren als Lehrer und Schriftsteller
+                    nüzlich zu werden mich bemühte.</p>
+                <p>Würde mir diese meine gehorsamste Bitte gewährt, so wäre ich so frey, mich einer
+                    hohen Behörde zugleich für Aufträge anzubieten, theils für Bücher und
+                    Kupferwerke, theils auch für bedeutendere Ankäufe im Fache antiker Denkmäler und
+                    moderner Kunstwerke. Ich kenne die <rs type="artwork" key="prov_vch_fyb_f3b">Königlichen Sammlungen</rs>, und weiß also, was Noth thäte, diese und jene
+                    Lücke in denselben aus-<pb n="2"/>zufüllen, wenn sich hiezu schickliche
+                    Gelegenheiten darböten. Auch kenne ich <placeName key="prov_vxr_xxr_js">Italien</placeName> und die Preise, so daß eine hohe Behörde sich verlaßen
+                    dürfte, daß wohl Niemand wohlfeiler und beßer kaufen würde. </p>
+                <p>Die Reise machte ich in Gesellschaft des Herrn Grafen von <hi rendition="#aq"><persName key="ed_kzt_2ll_jw">Ingenheim</persName></hi>, und so könnte
+                    der Kredit auf die Summe, welche etwa für dergleichen Ankäufe bestimmt werden
+                    dürfte, dem <persName key="ed_kzt_2ll_jw">Grafen</persName> übergeben werden,
+                    welcher überall bey dem Kaufen gegenwärtig seyn würde. Dies hätte in so fern
+                    sein Gutes, da es das Ansehen haben würde: Der <persName key="ed_kzt_2ll_jw">Graf</persName> kaufe für sich, und ziehe mich dabey blos zu Rath. Wäre es
+                    dagegen bekannt, daß man für eine hohe <orgName key="ed_lbq_ytw_13b">Landesbehörde</orgName> handle, so dürften die Vorschläge von Seite der
+                    Verkäufer leicht höher gemacht werden.</p>
+                <p>Ich schreibe so früh, weil eine solche Reise zu ihrer wahren Benutzung natürlich
+                    längerer Zeit bedarf, um sich gehörig auf dieselbe vorzubereiten.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 11<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Junius 1816.</dateline>
+                    <signed>Der Hofrath Hirt <lb/>lezte Str. N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 2.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

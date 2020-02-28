@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nbz_wbm_5fb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Schlatzer an Aloys Hirt. Berlin, 30. März 1798.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt III Nr. 40, Bl. 94
+                                r-v</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebene Folio.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_id3_dcm_5fb">Schlatzer, ? (?-?) (Lehrer für architektonisches
+                        Zeichnen an der Akademie der Künste)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1798-03-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Adresse: Des / Herrn Hofrath Hirt. / Wohlgebohren. [auf Bl. 94r, oberer linker
+                    Rand]</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Der <hi rendition="#aq">Director</hi> der Academisch Architectonischen Lehr Anstalt Herr Ober
+                    Bau Rath <persName key="ed_hlj_3pd_jx"><hi rendition="#aq">Becherer</hi></persName> hat mir den Wunsch der Hochzuverehrenden Herrn
+                    Comissari Eines Hochlöblichen <hi rendition="#aq">Curatoriums</hi> königlicher
+                        <hi rendition="#aq">Academie</hi>, bekandt gemacht, die mir gütigst
+                    vorgelegten Fragen selbst zu beantworten, welches ich hiedurch zu vollziehn die
+                    Ehre habe.</p>
+                <p>ad 1. Der Theil meines Unterrichts bezieht sich bloß auf der <ex>[!]</ex>
+                    <hi rendition="#aq">Architecton</hi><ex>ischen</ex> Classe.</p>
+                <p>ad 2. Die Hülfsmittel beim Unterricht bestehn aus Zeichnungen, Kupferstichen und
+                        <hi rendition="#aq">Modellen</hi>; doch wäre ihre Anzahl zu vergrößern und
+                    auch zu verbessern höchst nötig.</p>
+                <p>ad 3. Der Mittwoch und Sonabend Nachmittag von 2 bis 4 Uhr waren die Stunden
+                    meines Unterrichts, und dauerte die 6 Wintermonate vom 1.<hi rendition="#sup">ten</hi> Oct<ex>o</ex>b<ex>e</ex>r bis ult<ex>i</ex>m<ex>o</ex> Märtz.
+                    <lb/>Die Anzahl der Schüler war an dießen Tage vermindert, weil viele der
+                    Zöglinge so die andern Tage dieße Classe besuchten, die <ex>[!]</ex> Zeichen
+                    Schule beiwohnten.</p>
+                <p>ad 4. Zu Ende der Lehrzeit jedes Jahres <pb n="2"/> fertigen die Schüler Probe
+                    Zeichnungen, welche meines Wissens durch den <hi rendition="#aq">Director</hi>
+                    Herrn p <hi rendition="#aq"><persName key="ed_hlj_3pd_jx">Becherer</persName></hi> dem Hochlöblichen <hi rendition="#aq">Curatorium</hi> vorgelegt werden.</p>
+                <p>ad 5. Solte es bei dießer Lehr Anstalt beim vorgesezten Ziel bleiben, so wüßte
+                    ich keine wesentliche Verbeßerung Vorschläge zu machen.</p>
+                <p>Berlin den 30.<hi rendition="#sup">ten</hi> Märtz 1798.</p>
+				<closer>
+                    <signed>Schlatzer.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

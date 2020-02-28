@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_tzr_f12_2w">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Joseph von Laßberg. </title>
+                <title>Schloss Heiligenberg (?), vor 18. Dezember 1809]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1809-12-18-a-Lassberg: "[...] daß selbst Ihre Durchlaucht, die
+                    Fürstin, meine literarischen Versuche in Ihrer Bibliotek, welche Sie für den
+                    öffentlichen Gebrauch bestimmt haben, zu besizen wünschen, und daß Ew.
+                    Hochwohlgeb. sich hierwegen unmittelbar an mich wenden wollten. [...] Ew.
+                        Hochwohlgeb<ex>oren</ex> haben nun durch Ihr verbindliches Schreiben meine
+                    Zweifel gehoben, und dem Wunsche der gnädigsten Fürstin entgegenkommend,
+                    übersende ich hiemit ein Exemplar meiner Baukunst, zugleich mit einigen andern
+                    meiner kleinern Schriften [...] Sie thun, mein Herr Baron, am Schluße Ihres
+                    Briefes eine Frage an mich, welche mir ein Beweis von hohem Zutrauen ist:
+                    nämlich ob ich nach einigen Jahren der Reisegesellschafter eines Fürsten - seyn
+                    könnte?"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_stp_kmd_2w">Laßberg, Joseph Maria Christoph Freiherr von
+                        (1770-1855) (Forstmann, Germanist und Schriftsteller, Oberforstmeister im
+                        Fürstentum Fürstenberg, Lebensgemeinschaft mit Fürstin Elisabeth zu
+                        Fürstenberg, geb. Thurn und Taxis (1767-1822), ab 1838 Besitzer der Burg
+                        Meersburg am Bodensee, Schwager von Annette von Droste-Hülshoff)</persName>
+                    <placeName key="ed_s21_wnj_lw">Heiligenberg (Bodensee-Hinterland)</placeName>
+                    <date from="1809-01-01" to="1809-12-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_hzt_xld_2w"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vbs_mvb_5z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Weimar, vor 12. Dezember 1797]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1797-12-12-a-Böttiger: "Ich danke Ihnen für die Bekanntschaft des
+                    Herrn Weyland's. [...] Mich freuet es, daß Göthe mit dem Bildchen zufrieden ist
+                    [...] Sie sagen mir: "Göthe habe sich iezt noch geäußert, daß ich in Absicht der
+                    Karakteristik Recht habe: nur erhübe ich das zur ersten Potenz, was einem höhern
+                    Gesez der Schönheit untergeordnet sey." [...] über Ihre Fragen, die Gr[äfin]
+                    v[on] Lichtenau betreffend, weiß nichts zu sagen"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date notBefore="1797-11-18" notAfter="1797-12-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_hz3_gyx_gv"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

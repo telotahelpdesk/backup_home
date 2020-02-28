@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_dbq_yqy_2y">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Prinz Wilhelm von Preußen (Bruder des Königs). Berlin, 20. März
+                    1828.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Hess. StA Darmstadt</institution>
+                        <collection>D 22 ("Fischbacher Archiv")</collection>
+                        <idno>
+                            <idno type="shelfmark">12/78, Bl. 16 r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1828-03-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_vpp_kmx_2v">Preußen, Friedrich Wilhelm Karl, Prinz von
+                        (1783-1851) (jüngster Sohn von König Friedrich Wilhelm II. und Prinzessin
+                        Friederike Luise von Hessen-Darmstadt, Bruder von Friedrich Wilhelm III.,
+                        1799 Stabskapitän, General, Generalgouverneur der Rheinprovinzen und
+                        Gouverneur der Bundesfestung Mainz, seit 1804 verh. mit Marianne von
+                        Hessen-Homburg)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>Ich bin in dem unangenehmen Falle, Ew. Königlichen Hoheit mit einer sehr
+                    angelegenen Bitte beschwerlich zu fallen.</p>
+                <p>Der Mahler <hi rendition="#aq">
+                        <persName key="prov_zb3_klg_f5">Paul Mila</persName>
+                    </hi> hat seit länger her alles vorbereitet, um in den nächsten Tagen eine
+                    Kunstreise nach <hi rendition="#aq">
+                        <placeName key="ed_qs2_qxz_2y">Riga</placeName>
+                    </hi> und <hi rendition="#aq">
+                        <placeName key="ed_pcz_2hj_xv">Petersburg</placeName>
+                    </hi> anzutreten. Aber da derselbe sich eben nun um den Reisepaß bemühet, <seg type="comment">
+                        <orig>wird ihm der Urlaub von der Militärbehörde dazu verweigert</orig>
+                        <note xml:id="nojg_tvf_fy">Vgl. auch das <ref target="hirt_lys_q11_fy">Schreiben v. Lützows an Prinz Wilhelm vom 29. März 1828 (= Beilage
+                                zum Brief 1828-03-31-a-Prinz-Wilhelm).</ref>
+                        </note>
+                    </seg>. - Der <persName key="prov_zb3_klg_f5">
+                        <hi rendition="#aq">Mila</hi>
+                    </persName> hat bereits vom September 1818 bis Sept<ex>ember</ex> 1819 als
+                    Freywilliger seinen Militärdienst gemacht, und ist im 20<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Landwehrregiment, deßen <hi rendition="#aq">Commandeur</hi> Herr Oberst<hi rendition="#aq">lieutenant</hi>
+                    <persName key="ed_e2x_ysf_fy">von <hi rendition="#aq">Gädike</hi>
+                    </persName> ist, eingeschrieben, und mit dem künftigen September <seg type="comment">
+                        <orig>tritt er in das zweite Aufgebot</orig>
+                        <note xml:id="nixp_kvf_fy">Nach Einführung der allgemeinen Wehrpflicht
+                            gehörte der Wehrpflichtige bis zum 32. Lebensjahr zum 1. Aufgebot der
+                            Landwehr und vom 33. bis 39. Lebensjahr zum 2. Aufgebot.</note>
+                    </seg>. Iezt wird er aufgefordert, hier den kommenden Sommer <seg type="comment">
+                        <orig>die Kriegsübungen</orig>
+                        <note xml:id="ngdp_ttf_fy">Die jährlich stattfindenden Herbstmanöver im
+                            August und September.</note>
+                    </seg> mitzumachen.</p>
+                <p>Ich darf Ew. Königlichen Hoheit nicht erst schildern, wie sehr der <persName key="prov_zb3_klg_f5">
+                        <hi rendition="#aq">Mila</hi>
+                    </persName>
+                    betrübt ist, sich durch eine solche Aufforderung in seinem Reiseplan
+                    zurückgesezt zu sehen, und seine Aussichten für seine Kunstübungen nicht
+                    verfolgen zu können. Je unerwarter desto betrübter ist iezt seine Lage. <pb n="2"/>
+                </p>
+                <p>Ich wage es daher bey Ew. Königlichen Hoheit unterthänigst einzukommen, und Ihre
+                    höchste Vermittlung anzurufen:</p>
+                <p>"Daß für den bevorstehenden Fall der <persName key="prov_zb3_klg_f5">
+                        <hi rendition="#aq">Mila</hi>
+                    </persName> von den Kriegsübungen
+                    dispensirt würde, um den Paß zu seiner vorhabenden Kunstreise erhalten zu
+                    können."</p>
+                <p>Ich füge bloß bey, daß der <hi rendition="#aq">Commandeur</hi> des
+                    Regiments Herr Oberst<hi rendition="#aq">lieutenant</hi>
+                    <persName key="ed_e2x_ysf_fy">von <hi rendition="#aq">Gaedike</hi>
+                    </persName> ist, und Herr <persName key="ed_gzd_ytf_fy">Oberst von <hi rendition="#aq">Lützow</hi>
+                    </persName> in
+                    Abwesenheit <persName key="ed_vkv_nzz_2y">S<ex>einer</ex> K<ex>öniglichen</ex>
+                        Hoheit des Prinzen <hi rendition="#aq">Wilhelm</hi>
+                    </persName> die Verfügungen bey dem Armeechor besorgen soll.</p>
+                <p>Vergeben Ew. Königliche Hoheit einem alten Diener eine Bitte, welche, wenn sie
+                    gewährt werden könnte, mich von einer großen Gemüthsunruhe befreien würde.</p>
+                <closer>
+                    <salute>Mit tiefester Ergebenheit und treuester Anhänglichkeit geharre ich
+                        <lb/>Ew. Königlichen Hoheit <lb/>unterthänigster</salute>
+                    <signed>A. Hirt</signed>
+                    <dateline>Berlin den 20 März / 1828.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

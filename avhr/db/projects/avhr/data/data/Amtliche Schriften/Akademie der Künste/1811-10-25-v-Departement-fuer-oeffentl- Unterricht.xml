@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_iyk_qnx_13b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Departements für den öffentlichen Unterricht an Hirt betreffend
+                    seine Vorlesungen an der Kunstakademie und der Universität. Berlin, 25. Oktober
+                    1811</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 3,
+                                Bl. 220r-v</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Aktenentwurf von Schreiberhand, mit Änderungen und Mundierungsvermerken:
+                            "2950.", "<hi rendition="#u"><hi rendition="#u">Citissime!</hi>"</hi>,
+                            "3748 / mdt. / xxx 28."</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_lbq_ytw_13b">Departement für den öffentlichen
+                        Unterricht</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1811-10-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_vy4_ntw_13b"/>
+                    <ref type="next" target="hirt_hkj_3wx_13b"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An den Herrn Hofrath u Prof. Hirt</addrLine>
+                    </address>
+                    <dateline>Berlin den 25 October 1811.</dateline>
+                </opener>
+				<p>Dem Herrn Hofrath u Prof. Hirt wird auf seine Vorstellung vom 20<hi rendition="#sup">t</hi>
+                        d<ex>ieses</ex> M<ex>onats</ex> hiemit eröffnet, daß er, als angestellter
+                    Lehrer bey der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName> gegen
+                    die Zöglinge derselben allerdings verpflichtet ist, ihnen ein angefangenes <bibl sameAs="ed_ixd_btv_xgb">Collegium</bibl>, unter derselben Bedingung, wie
+                    dasselbe im ersten Semester gelesen worden auch im zweyten fortzulesen, da er er
+                    verpflichtet ist ihnen ein ganzes Collegium u nicht ein Fragment zu lesen u daß
+                    diese nicht durch seine Verhältnisse bey der <orgName key="ed_jzs_dps_whb">Universität</orgName> kein <unclear reason="illegible" cert="">xxxxxtiget</unclear> erwarten dürfen und da sie auf den Grund ihrer
+                    Matrikeln allein, die bey der <orgName key="ed_u5s_1fc_b1b">Akademie</orgName>
+                    gehaltenen Vorlesungen besuchen, sie auch nicht angehalten werden können, zu
+                    dergleichen Vorlesungen, wie Studirende u. andre Zuhörer, Karten etc vom
+                    Quaestor der <orgName key="ed_jzs_dps_whb">Universität</orgName> sich zu
+                    verschaffen.</p>
+                <p>Das unterzeichnete Departement welches die Ver-<pb n="2"/>pflichtungen der
+                        <unclear reason="illegible" cert="">Xxxxxxxxx</unclear> kennt und nach
+                    Billigkeit beurtheilt, zweifelt nicht, daß er diesen Verfügungen nunmehr Folge
+                    leisten und die angekündigte Vorlesung anfangen werde.</p>
+                <p>Berlin -</p>
+				<closer>
+                    <signed>Dep. d. C. u. ö. U. <lb/><ex>[Unterschriftskürzel]</ex> Hg  Ns / 26.
+                            <persName key="prov_ffk_snl_cv"><lb/>Uhden</persName></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

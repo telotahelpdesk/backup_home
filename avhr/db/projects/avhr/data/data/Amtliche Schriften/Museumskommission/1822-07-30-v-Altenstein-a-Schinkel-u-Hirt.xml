@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lfd_44q_4jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    30. Juli 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 143r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-07-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Bearbeitungsvermerke auf dem linken Rand: "<hi rendition="#u">Briefbogen</hi>."; "mundiert den 31 Juli 22 / abges eodem / F."; "<hi rendition="#u">mitges</hi> 7"; auf dem oberen Rand: "ad N° 1578 B.
+                    J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An /Des Königl. Geheimen Ober-Bau-Raths, / Herrn <hi rendition="#u">Schinkel</hi> / Hochwohlgeboren. / und / Des
+                            Königlichen Hofraths, Herrn <hi rendition="#u">Hirt</hi>. /
+                            Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 30<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        July 1822.</dateline>
+                </opener>
+				<p>Der Maler und Restaurator <persName key="ed_rjp_3sq_4jb">Schrader</persName> hierselbst hat
+                    mich in dem originaliter beifolgenden Schreiben um Beschäftigung bei der
+                    Restauration der Königl<ex>ichen</ex>
+                    <rs type="artwork" key="prov_ggw_yml_vw">Gemälde-Sammlung</rs> gebeten. Indem
+                    ich Ewr. Hochwohl- und Wohlgeboren die Berücksichtigung dieses Gesuchs ergebenst
+                    anheim stelle, bemerke ich zugleich, daß ich den p <persName key="ed_rjp_3sq_4jb">Schrader</persName> deshalb an Sie gewiesen habe.</p>
+				<closer> </closer>
+            </div>
+            <postscript>
+                <p><ex>Schreiben <persName key="ed_iwb_fpx_lw">Altensteins</persName> an Schrader.
+                        Berlin, 30. Juli 1822 (Bl. 143r-v):</ex></p>
+                <p>An / den Maler und Restaurator, Herrn / <persName key="ed_rjp_3sq_4jb"><hi rendition="#u">Schrader</hi></persName> / <hi rendition="#u">Hier</hi>.</p>
+                <p>Auf Ihre Eingabe vom 27. d. M. stelle ich Ihnen anheim, Sich wegen der darin
+                    gewünschten Beschäftigung bei der Restauration der Königl. Gemälde-Sammlung an
+                    die Herren Ge. Ober-Bau-Rath <persName key="ed_rcd_yvw_ww">Schinkel</persName>
+                    und Hofrath <persName key="prov_ztg_3sx_sr">Hirt</persName>, welchen die obere
+                    Leitung der Restauration übertragen <pb n="2"/> worden ist und denen ich daher
+                    Ihr Gesuch übersandt habe, zu wenden. <lb/>Berlin, w. o. <lb/>Der Minister pp.
+                        <lb/><ex>[Namenskürzel]</ex>
+                    <persName key="ed_iwb_fpx_lw">Altenstein</persName></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

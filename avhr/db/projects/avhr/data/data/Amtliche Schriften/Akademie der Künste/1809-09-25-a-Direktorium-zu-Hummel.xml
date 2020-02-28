@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_dql_hrq_thb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Direktorium der Akademie der Künste betreffend die
+                    Anstellung von J. E. Hummel. Berlin, 25. September 1809</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 3,
+                                unpaginiert</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-09-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_rgl_rbr_thb">Akademie der Künste, Preußische:
+                        Direktorium</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_apn_zmm_pgb">AdK - Direktorium</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Ich habe hiemit die Ehre, ein hochlöb<ex>liches</ex>
+                    <hi rendition="#aq">Directorium</hi> der könig<ex>lichen</ex>
+                    <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName> zu benachrichtigen, daß
+                    ich dem Mahler <hi rendition="#aq"><persName key="prov_n1f_vl5_tv">Hummel</persName></hi> den Beschluß des akademischen <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senats</orgName></hi> vom
+                    vorigen Sonnabend, vermöge deßen derselbe zum Unterricht in der Perspektiv und
+                        <hi rendition="#aq">Optik</hi> einstimmig vorgeschlagen worden ist,
+                    mitgetheilt habe, zugleich mit den gegenseitigen Bedingungen.</p>
+                <p>Herr <hi rendition="#aq"><persName key="prov_n1f_vl5_tv">Hummel</persName></hi>,
+                    obwohl er glaubt, daß die jährliche Besoldung von 350
+                        R<ex>eichs</ex>th<ex>a</ex>l<ex>er</ex> weder der Stelle überhaupt
+                    entspreche, noch eine hinreichende Entschädigung für den Zeitaufwand sey, hat
+                    jedoch den Vorschlag angenommen, aus dem Grunde, theils weil er es für ehrenvoll
+                    hält, dadurch mit der königlichen <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> in Verbindung zu kommen, theils weil er glaubt, für die
+                    Zöglinge <seg type="comment">
+                        <orig>beider Akademien</orig>
+                        <note xml:id="nm2z_1cr_thb">Der <orgName key="ed_u5s_1fc_b1b">Akademie der
+                                Künste</orgName> und der <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName>.</note>
+                    </seg> in einem Theile des Unterrichtes nüzlich zu werden, den er als das
+                    Fundament aller Zeichnung betrachtet, und den man doch so häufig selbst bey
+                    Künstlern von Namen vernachläßigt findet.</p>
+                <p><hi rendition="#aq">Herr <persName key="prov_n1f_vl5_tv">Hummel</persName></hi>
+                    wird daher dem Wunsche des akademischen <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senats</orgName></hi> gemäß in möglichst kurzer
+                    Zeit einen Plan einreichen, nach welchem er glaubt, daß der Gesammtunterricht in
+                    der Perspektiv und <hi rendition="#aq">Optik</hi> ertheilt werden müste. Da ich
+                    indeßen gegen ihn äußerte, daß bey den Akten der Akademie bereits verschiedene
+                    Plane, den Unterricht in der Perspektiv betreffend, vorhanden wären, so wünscht
+                    er, daß ihm dieselben auf einige Tage zur Ansicht auf dem kürzesten Wege
+                    mitgetheilt werden könnten. - Herr <hi rendition="#aq"><persName key="prov_n1f_vl5_tv">Hummel</persName></hi> würde den Unterricht in
+                    drey, spätestens vier Wochen anfangen können.</p>
+                <p>Hiernach kann also ein hochlöb<ex>liches</ex>
+                    <hi rendition="#aq"><orgName key="ed_rgl_rbr_thb">Directorium</orgName></hi> den
+                    Antrag bey dem Staatsrathe machen, und wenn weiter keine Bedenklichkeit
+                    obwaltet, den perspektivischen Unterricht unter dem Namen<hi rendition="#aq">
+                        <persName key="prov_n1f_vl5_tv">Hummel</persName></hi> in das zu
+                    publizirende Verzeichniß aufnehmen.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 25 Sept. 1809</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

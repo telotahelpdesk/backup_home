@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_rhc_qgm_fw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Friedrich Weinbrenner. Berlin, vor 28. Mai 1810]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Es handelt sich um eine unbestimmte Anzahl von Briefen. Bezeugt in:
+                    1810-05-28-a-Böttiger: „Mit Weinbrenner habe ich seitdem ein paar Briefe
+                    gewechselt. [...] Dem Weinbrenner habe ich Privatim über sein Theater, so wie
+                    auch über seine architektonische Schule geschrieben.“ </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1809-09-30" notAfter="1810-05-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_gj1_zn4_pv">Weinbrenner, Friedrich (1766-1826) (Architekt,
+                        Stadtplaner und Baumeister des Klassizismus, 1792-1797 als Stipendiat des
+                        Großherzogs von Baden in Italien, danach Bauinspektor in Karlsruhe,
+                        1799-1800 freier Architekt in Straßburg, 1799-1802 Verhandlungen über eine
+                        Anstellung in Hannover, 1802 Churfürstl. Baadenscher Ober-Bau-Direktor in
+                        Karlsruhe)</persName>
+                    <placeName key="ed_hwt_zgm_fw">Karlsruhe</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

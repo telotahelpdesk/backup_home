@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ijy_bh4_fw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 5. Oktober 1810.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 29</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1810-10-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <note>Von fremder Hand (Bibliothekar?) vor und nach der Unterschrift ergänzt:
+                    „Hofrath“ und „in Berlin.“</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 5<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Octob. 1810.</dateline>
+                </opener>
+                <p>Das Geschenk, mein theuerster Freund, welches Sie mir durch <persName key="prov_ffk_snl_cv">Uhden</persName> zukommen ließen, war mir sehr
+                    willkommen, und eine eben so angenehme, als in vieler Hinsicht unterrichtende
+                    Lecture. Sie verstehen die Kunst des Schaffens, denn nie hätte ich geglaubt, daß
+                    man über einen Gegenstand wie die <bibl sameAs="prov_yhm_vfk_bs">Aldob<ex>randinische</ex> Hochzeit</bibl>, so viel Intereßantes sagen
+                    könnte. Auch die <seg type="comment">
+                        <orig>Nachschrift von<persName key="prov_tsc_grz_v5"> Mayer</persName>
+                        </orig>
+                        <note xml:id="nudg_vpt_fw">“Die Aldobrandische Hochzeit von Seiten der Kunst
+                            betrachtet von Heinrich Meyer.“ (ebd., S. 173-206). </note>
+                    </seg> ist im
+                    ganzen verständig geschrieben, obwohl ich manchen seiner Ansichten nicht
+                    beytreten kann. Da ich bey Durchlesung wichtiger Schriften dieser Art die Feder
+                    immer in der Hand habe, um<seg type="comment">
+                        <orig> einige Noten</orig>
+                        <note xml:id="nkpv_lqt_fw">Nicht überliefert.</note>
+                    </seg> zu machen; so
+                    übersende ich Ihnen dieselben so roh und kurz, wie sie während des Lesens aus
+                    der Feder floßen. Sie werden sie als keine Recension ansehen, sondern bloß als
+                    beyläufige Bemerkungen, die der Freund dem Freunde gerne mittheilt, um ihm seine
+                    Aufmerksamkeit für das Mitgetheilte zu erwiedern, und dadurch seinen Antheil an
+                    dem Geleisteten zu erkennen zu geben. Eben so finden Sie einige Noten über den
+                    Aufsaz von <persName key="prov_tsc_grz_v5">Mayer</persName>.</p>
+                <p>Über die architektonischen Monumente <placeName key="prov_oxg_n4j_2v">Ägyptens</placeName> habe ich iezt meine Akten geschloßen, wenn mich anders
+                        <seg type="comment">
+                        <orig>das Pariser große Werk</orig>
+                        <note xml:id="nrf3_zd5_fw">Vermutlich die umfangreiche Text- und
+                            Bildsammlung gemeint, die als Ergebnis von Napoleons Feldzug nach
+                            Ägypten in seinem Auftrag seit 1809 veröffentlicht wurde: Description de
+                            l'Égypte ou recueil des observations et des recherches qui ont été
+                            faites en Égypte pendant l'expedition de l'Armée Franςaise publié par
+                            les ordres Sa Majesté l'empereur Napoléon le Grand. Paris, Impr.
+                            Impériale, 1809-1822.</note>
+                    </seg> nicht zu neuer Arbeit auffordert; was ich aber kaum glaube, <del rendition="#s">es</del> doch nichts desto weniger mit großer Ungedult zu
+                    sehen erwarte. <bibl sameAs="ed_wx4_3mm_fw">Was ich über den Tempel<add place="superlinear">bau</add> der Ägypter schrieb</bibl>, ist keine
+                    besondere Abhandlung, sondern in die Geschichte der Baukunst dieses volkes
+                    verflochten. Indeßen hat der Gegenstand mir viel zu thun <pb n="2"/> gegeben,
+                    und kürzlich las ich diesen Abschnitt in der <seg type="comment">
+                        <orig>
+                            <orgName key="ed_o3c_pgc_b1b">Philomathischen Gesellschaft</orgName>
+                        </orig>
+                        <note xml:id="nafp_tqt_fw">Die Philomatische Gesellschaft wurde am 16.
+                            Oktober 1800 in Berlin gegründet und bestand bis zum 9. März 1828; man
+                            traf sich in den ersten Jahren wöchentlich zu wissenschaftlichen
+                            Vorträgen und Diskussionen. Sie verstand sich als gelehrte
+                            Privatgsellschaft, die sich mit allen Gegenständen des Wissens,
+                            besonders aber mit Naturgeschichte, Physik, Chemie und Philosophie
+                            befassen wollte; keine bedeutsame Erscheinung der Zeit sollte
+                            unbesprochen bleiben. Erster Direktor war der Chemiker Martin Heinrich
+                            Klaproth, Sekretär der jüdische Privatgelehrte Lazarus Bendavid und
+                            Rendant der Mathematiker und Physiker Ernst Gottfried Fischer. Viele
+                            Naturwissenschaftler, so auch A. v. Humboldt und Chamisso, traten der
+                            Gesellschaft bei. Hirt wurde am 25. Juni 1807 als Mitglied aufgenommen.
+                            (vgl. die Sitzungsprotokolle in: SBB PK, Handschriftenabteilung, Sign.:
+                            Ms. germ. fol. 1034; weiterhin: Uta Motschmann (Hrsg.): Handbuch der
+                            Berliner Vereine und Gesellschaften 1786-1815. Berlin [u.a.] 2015, S.
+                            195-201; zu den Vorlesungen Hirts in der Philomatischen Gesellschaft
+                            vgl. Uta Motschmann, in: Astrid Fendt, Claudia Sedlarz, Jürgen Zimmer
+                            (Hrsg): Aloys Hirt in Berlin, 2014, S. 216-221). – Hirt las am 7. Juni
+                            1810 in der Philomatischen Gesellschaft“„Über die Ägyptischen Pyramiden
+                            und über ihren Bau insbesondere“.</note>
+                    </seg> vor. <bibl sameAs="ed_wgw_vmm_fw">Die wichtigste Abhandlung die ich bey
+                        dieser Art von Untersuchungen schrieb, betrifft den Waßerbau
+                        Aegyptens</bibl>. <seg type="comment">
+                        <orig>Ich werde sie nächstens <orgName key="ed_znn_dfc_b1b">in der
+                                Akademie</orgName> vorlesen</orig>
+                        <note xml:id="njlk_w5t_fw">Am 1. November 1810.</note>
+                    </seg>, <seg type="comment">
+                        <orig>dann aber mit andern Sachen besonders bekannt machen</orig>
+                        <note xml:id="nxbp_nf5_fw">In seiner „Geschichte der Baukunst bei den
+                            Alten“, besonders Bd. 1 (Berlin 1821).</note>
+                    </seg>.</p>
+                <p>Iezt beschäftigt sich <placeName key="prov_ycp_cpr_js">Berlin</placeName> mit der
+                        <seg type="comment">
+                        <orig>neuen Anstalt der <placeName key="ediarum_tzx_1vt_fw">Universität</placeName>
+                        </orig>
+                        <note xml:id="nozz_pc5_fw">Die Universität wurde auf Initiative Wilhelm von
+                            Humboldts und unter maßgeblicher Beteiligung von Johann Gottlieb Fichte
+                            und Friedrich Schleiermacher durch König Friedrich Wilhelm II. im Zuge
+                            der preußischen Reformen als Alma Mater Berolinensis am 16. August 1809
+                            gegründet und nahm am 10. Oktober 1810 den Lehrbetrieb auf. Zum ersten
+                            Rektor wurde am 28. September 1810 Theodor von Schmalz berufen. Sitz war
+                            das ehemalige Prinz Heinrich-Palais Unter den Linden.</note>
+                    </seg>, an der ich <seg type="comment">
+                        <orig>als Prof<ex>essor</ex> ord<ex>inarius</ex>
+                        </orig>
+                        <note xml:id="nnzr_gxt_fw">Hirt wurde ordentlicher Professor an dem für ihn
+                            eingerichteten Lehrstuhl „Theorie und Geschichte der zeichnenden Künste“
+                            und damit „Inhaber des ersten archäologischen Lehrstuhls überhaupt“
+                            (Adolf H. Borbein: Aloys Hirt, der Archäologe, in: Claudia Sedlarz
+                            (Hrsg.): Aloys Hirt. Archäologe, Historiker, Kunstkenner. Hannover 2004,
+                            S. 173-189, hier S. 175).</note>
+                    </seg> auch Antheil nehmen soll. <seg type="comment">
+                        <orig>Ich werde mit Anfang kommenden Monats meine Vorlesungen
+                            eröffnen</orig>
+                        <note xml:id="nyv5_2yt_fw">Nach Wolfgang Virmond (Die Vorlesungen der
+                            Berliner Universität 1810-1834 nach dem deutschen und lateinischen
+                            Lektionskatalog sowie den Ministerialakten. Berlin 2011) hielt Hirt im
+                            Wintersemester 1810/11 eine öffentliche Vorlesung zu „Die Geschichte der
+                            bildlichen Monumente mit Rücksicht auf Kunsttheorie und
+                            Kunstgeschichte“. Eine für denselben Zeitraum angekündigte
+                            Privatvorlesung „Die Baukunst“ ist vermutlich ausgefallen. – Die
+                            für das Sommersemester 1811 angekündigte Vorlesung „Die Geschichte der
+                            bildlichen Monumente“ fiel „wegen zu geringer Hörerzahl“ aus.</note>
+                    </seg>. –</p>
+                <p>Die <seg type="comment">
+                        <orig>diesjährige Ausstellung</orig>
+                        <note xml:id="nxfn_tf5_fw">Die Berliner Kunstausstellung fand ab dem 23.
+                            September in den Sälen des Akademie-Gebäudes statt.</note>
+                    </seg> wird sehr besucht. <seg type="comment">
+                        <orig>
+                            <persName key="ed_c3g_jg5_fw">Kügelchens</persName> Übersendungen</orig>
+                        <note xml:id="ncqv_sh5_fw">Von Gerhard von Kügelgen waren folgende fünf
+                            Werke ausgestellt: „334. Apollo und Hyazinth. / 335. Die Verkündigung
+                            Mariens. / 336. Porträt von Göthe. / 337. Porträt von Wieland. / 338.
+                            Eignes Bildniß des Künstlers“ (Börsch-Supan: Die Kataloge der Berliner
+                            Akademie-Ausstellungen 1786-1850. Bd. 1, Berlin 1971, S. 45 </note>
+                    </seg> finden vielen Beyfall, und man bedauert nur, daß <persName key="prov_hwd_hmp_5r">Goethe</persName>, <seg type="comment">
+                        <orig>
+                            <persName key="prov_hy4_jx2_rs">Herder</persName>
+                        </orig>
+                        <note xml:id="nwxh_41v_fw">Wohl Schreibversehen, statt: Meyer (Herder war
+                            bereits 1803 gestorben). Goethe, Meyer und Schiller standen hinter den
+                            „Weimarer Preisaufgaben“, die 1799 im 3. Heft der 'Propyläen' zum ersten
+                            Mal ausgeschrieben und bis 1805, über das Ende der Zeitschrift hinaus,
+                            fortgeführt wurden.</note>
+                    </seg> u. <persName key="prov_mq3_mvr_js">Schiller</persName> ausblieben.
+                    Porträte giebt es in großer Anzahl, des Historischen weniger. <seg type="comment">
+                        <orig>Die Meinungen über <seg type="comment">
+                                <orig>
+                                    <rs type="artwork" key="prov_uyx_mz5_fw prov_pmc_rz5_fw">die hieroglyphischen
+                                            Landschaften</rs> von <persName key="ed_chd_wg5_fw">
+                                        <hi rendition="#aq">Friedrich</hi>
+                                    </persName>
+                                </orig>
+                                <note xml:id="ndtn_f35_fw">Caspar David Friedrich stellte drei Werke
+                                    aus: „339. Zwei Landschaften in Öl. / 340. Eine Zeichnung in
+                                    Bistre“ (ebd., S. 45). - Mit den beiden Landschaften ist das
+                                    Bildpaar „Der Mönch am Meer“ und „Abtei im Eichwald“ gemeint.
+                                    Das erste Bild wurde von Heinrich von Kleist, der Friedrich 1807
+                                    in Dresden kennengelernt hatte, am 13. Oktober 1810 in den
+                                    „Berliner Abendblättern“ lobend, aber auch seine Verwirrung bei
+                                    Betrachtung des Bildes eingestehend, besprochen (“Empfindungen
+                                    vor Friedrichs Seelandschaft“, gez. „cb.“). Kleist hatte dabei
+                                    eine längere Vorlage von Clemens Brentano und Achim von Arnim
+                                    redaktionell stark gekürzt und in seiner Aussage verändert (vgl.
+                                    Christian Begemann: Brentano und Kleist vor Friedrichs 'Mönch am
+                                    Meer'. Aspekte eines Umbruchs in der Geschichte der Wahrnehmung.
+                                    Vgl. <ref target="http://www.goethezeitportal.de/db/wiss/epoche/begemann_wahrnehmung.pdf">Goethezeitportal</ref> - Version vom 8.6.2016). - Auf
+                                    Veranlassung des Kronprinzen Friedrich Wilhelm (IV.) wurde das
+                                    Bildpaar durch den preußischen König erworben.</note>
+                            </seg> sind getheilt wie es dort der Fall scheint gewesen zu
+                            seyn.</orig>
+                        <note xml:id="nnwv_b55_fw">Hirt bezieht sich hier wohl auf Weimar, wo
+                            Friedrich für seine beiden für die Weimarer Preisaufgaben 1805
+                            eingereichten Landschaften „Wallfahrt bei Sonnenuntergang“ und
+                            „Herbstabend am See“ die Hälfte des ersten Preises der Weimarer
+                            Kunstfreunde zugesprochen worden war. Obwohl die Bilder den Vorgaben,
+                            eine antike Sage zu illustrieren, nicht entsprachen, verfügte Goethe die
+                            Auszeichnung. Der begehrte Preis schloss die Präsentation in einer
+                            Ausstellung und eine Besprechung durch Heinrich Meyer oder Schiller in
+                            den 'Propyläen' ein (nach: Wikipedia, Art. 'Caspar David Friedrich';
+                            Version vom 8.6.2016). Nach Einstellung der 'Propyläen' erschienen die
+                            Rezensionen ab 1802 in einem Beiblatt der J.A.L.Z.; die zu Friedrichs
+                            Bildern u.a. im Beiblatt der J.A.L.Z. 1809: Programm zur Jenaischen
+                            Allgemeinen Literatur-Zeitung. Jahrgang 1809, S. III-IV, gezeichnet:
+                            Weimar, den 1. Januar 1809 / W. K. F.</note>
+                    </seg>
+                </p>
+                <p>Ich bin iezt erst dazu gekommen, das <bibl sameAs="ed_vvh_s5v_bw">
+                        <persName key="prov_hwd_hmp_5r">Goethesche</persName> Farbenwerk</bibl> zu
+                    lesen. <seg type="comment">
+                        <orig>Noch bin ich nicht weiter als zu den chemischen Farben gekommen</orig>
+                        <note xml:id="nmqv_pgv_fw">Im I. Didaktischen Teil seiner „Farbenlehre“
+                            unterscheidet Goethe drei Arten von Farben: Physiologische Farben;
+                            Physische Farben und Chemische Farben. Die „Dritte Abteilung - Chemische
+                            Farben“ findet sich S. 186ff.</note>
+                    </seg>. Die Sache intereßirt mich sehr und ich bin auf das Kommende sehr
+                    begierig. Er schreibt derb, und wahrscheinlich nicht ohne Erfolg in mehr als
+                    einer Rücksicht.</p>
+                <closer>
+                    <salute>Leben Sie wohl, u. bleiben Sie von meiner dauernden Freundschaft
+                        überzeugt</salute>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

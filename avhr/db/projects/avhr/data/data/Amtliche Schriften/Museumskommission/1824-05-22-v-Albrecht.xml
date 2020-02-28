@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_c5f_hwv_zjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Daniel Ludwig Albrecht an Hirt. Berlin, 22. Mai 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 89 Geh. Zivilkab. j. P. Nr. 20441,
+                                Bl. 74r (Konzept)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_c11_qcg_sjb">Albrecht, Daniel Ludwig (1765-1835) (preuß.
+                        Staatsbeamter, 1798 Kammergerichtsrat in Berlin und 1807 in Königsberg, 1808
+                        Vortragender Rat für Rechtsangelegenheiten beim König, 1809 Geh.
+                        Oberjustizrat im Justizministerium, 1810 Leiter des Königl. Zivilkabinetts,
+                        1817 Mitglied des neu errichteten Staatsrates, Ratgeber des
+                        Königs)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-05-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_mqy_tp4_zjb"/>
+                </correspContext>
+                <note>Korrigierter und unterzeichneter Entwurf, mit Mundierungs- und Abgangsvermerk
+                    "den 23<hi rendition="#sup">ten</hi>"; Aktenvermerk auf dem unteren Rand: "864.
+                    May"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Hofrath Hirt / hieselbst.</addrLine>
+                    </address>
+                    <dateline/>
+                </opener>
+				<p>Ich habe Ihre Eingabe vom 15<hi rendition="#sup">ten</hi> d<ex>ieses</ex> M<ex>onats</ex>,
+                    nach welcher Sie eine andere Anordnung des Innern des <rs type="artwork" key="prov_p5w_rw2_gjb">Museums</rs> wünschen als die, für die darinn
+                    aufzustellende Kunstwerke nach dem genehmigten <rs type="artwork" key="prov_lqs_fjq_tjb">Bau-Plan</rs> bestimmt ist, empfangen und genehmige
+                    es gern, daß Sie Ihre Ansichten darüber Sr Königlichen Hoheit dem <persName key="prov_rrj_mk5_fv">KronPrinzen</persName> zu deßen weiterer Veranlaßung
+                    vorlegen.</p>
+				<closer>
+                    <dateline>Berlin den 22ten May 1824.</dateline>
+                    <signed><unclear reason="illegible" cert="">Zdv[</unclear>???]
+                        <lb/>Albrecht</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

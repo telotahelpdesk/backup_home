@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fww_rxz_pjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Wilhelm Dorow. Berlin, 14. Oktober 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska, Krakow</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">vormals Preußische Staatsbibliothek Berlin,
+                                acc.ms.1923.29.</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Wilhelm Dorow: Die Denkmale germanischer und römischer
+                            Zeit in den Rheinisch-Westfälischen Provinzen, untersucht und
+                            dargestellt von Dr. Dorow, Königlich Preussischem Hofrathe im
+                            Ministerium der auswärtigen Angelegenheiten, Direktor der Verwaltung für
+                            Alterthumskunde in den Rheinisch-Westfälischen Provinzen; Mitgliede der
+                            Gesellschaft für nützliche Untersuchungen in Trier. Erster Band, mit
+                            XXXVI Kupfer- und Steindrucktafeln. Stuttgart und Tübingen 1823, S.
+                            66-68</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-10-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_v2p_zb3_nx">Dorow, Karl Friedrich Ferdinand Wilhelm
+                        (1790-1845) (Altertumsforscher, preuß. Beamter, 1819 Hofrat, 1820 Direktor
+                        der Verwaltung für Altertumskunde im Rheinland und in Westfalen, Gründer des
+                        Altertumsmuseums in Bonn)</persName>
+                    <placeName key="ed_jjj_lh4_pw">Bonn</placeName>
+                </correspAction>
+                <note>Bei dem vorliegenden Text handelt es sich wahrscheinlich nur um eine Beilage
+                    zu dem eigentlichen, nicht überlieferten, Brief. Darauf weisen die fehlende
+                    Anrede und abschließende Grußformel sowie die verkürzte Unterschrift hin. Auch
+                    fehlt die Anmerkung Hirts, die deshalb hier nach der Fußnote des Drucks
+                    wiedergegeben wird. - Mit großer Wahrscheinlichkeit ging Hirts Erklärung ein
+                    Brief Dorows mit einer entsprechenden Anfrage voraus.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                </opener>
+				<p><seg type="comment">
+                        <orig>Das <rs type="artwork" key="prov_tbd_4gb_qjb">Denkmal</rs></orig>
+                        <note xml:id="nph1_d1b_qjb">Es handelt sich um den Grabstein des Marcus
+                            Caelius, der 1820 im Königlichen Museum vaterländischer Altertümer in
+                            Bonn aufgestellt worden war, zu dessen Direktor der Hofrat Dorow von
+                            Hardenberg resp. dem preußischen König berufen worden war. Dazu schreibt
+                            Dorow in seiner Einleitung (siehe D): "Uebrigens glaube ich die
+                            anschauliche Darstellung der Abtheilung der römischen Monumente am Rhein
+                            nicht passender beschliessen, und zugleich die Betrachtung
+                            altgermanischer Monumente in Westfalen nicht schicklicher vorbereiten zu
+                            können, als durch Beschreibung und Abbildung eines Denkmals (Tab. XXI.),
+                            worauf der Römer Niederlage und Vertreibung aus Deutschland, durch
+                            deutschen Muth und Einigkeit, von Römern selbst geschrieben steht. Der
+                            Centurio Marcus Cälius mag uns zu den schauerlichen Höhlen und
+                            Opferaltären der Deutschen geleiten, an denen er selbst - ein Sühnopfer
+                            für eigenen Hochmuth und Unterdrückungsgeist - fiel. Er mag es uns von
+                            Neuem ins Gedächtniss bringen, dass seit jeher die fremden Legionen der
+                            grössten und mächtigsten Herrscher schmachvoll aus Deutschland fliehen,
+                            und ihre Adler, Trophäen und erpresste Schätze zurücklassen mussten. Und
+                            so werden wir durch die hehren Denkmäler der kraftvollen Vorfahren in
+                            der festen Ueberzeugung gestärkt, dass an deutscher Treue zu den
+                            angestammten Fürsten, und an kraftvoller Ausdauer, des Auslandes
+                            bösliches Beginnen stets gescheitert ist und scheitern wird! /
+                            geschrieben im Mai 1822." (S. XVI). - Den Grabstein selbst beschreibt
+                            Dorow ebd., S. 64-66.: "Tab. XXI. zeigt das für Deutschland wichtige und
+                            unschätzbare Monument, dessen ich in der Einleitung erwähnte; - den
+                            Grabstein des in der Herrmannsschlacht gebliebenen M. Cälius. Es ist,
+                            wie beinahe alle Bildwerke der Römer in Deutschland, aus Muschelkalk
+                            oder jüngerem Flötzkalk gearbeitet, und hat 4 Fuss 3 Zoll Höhe, 8 Fuss 4
+                            ½ Zoll Breite und 11 ½ Zoll Dicke. Dieser Grabstein stand früher auf dem
+                            Hause Wissem und wurde von dem Eigenthümer, Freiherrn von Loe, dem
+                            Churfürsten Friedrich Wilhelm dem Grossen geschenkt, welcher ihn in das
+                            Schloss nach Kleve bringen liess. Hier blieb er bis 1667, ward dann vom
+                            Fürsten Moritz von Nassau zur Verzierung seines an Berg und Thal bei
+                            Kleve errrichteten Grabmahls gebraucht, woselbst er, jeder Witterung
+                            ausgesetzt, gelitten hat. Der würdige Präsident von Buggenhagen liess
+                            1792 mit den übrigen Alterthümern auch diesen Stein im Schlosse von
+                            Kleve auf passende Art aufstellen. Der treffliche kunstliebende Mann,
+                            welcher uns in einem eigenen schon selten gewordenen Werke die Notizen
+                            über den Fundort der Klevischen Alterthümer, aufbewahrt hat, - starb;
+                            der von ihm gegründete sogenannte Antikensaal stürzte zusammen und bei
+                            dieser Gelegenheit ist auch unser Grabstein in zwei Stücke gebrochen. Im
+                            Jahr 1820 liess ich denselben mit allen in Kleve noch vorhandenen
+                            Alterthümern, - die Staatseigenthum sind, - in das Königliche Museum
+                            vaterländischer Alterthümer transportiren, wo er jetzt eine Hauptzierde
+                            desselben sein wird. / Der Grabstein zerfällt in zwei Abtheilungen; die
+                            obere zeigt uns das Bild des M. Cälius mit seinen zwei Freigelassenen,
+                            welche sich zu beiden Seiten, büstenartig, auf Postamenten befinden; die
+                            untere Abtheilung enthält die Inschrift. Das Ganze ist oben durch ein im
+                            edlen Baustil verziertes Frontispice begränzt, welches auf zwei Säulen
+                            ruht. // Die Inschrift des Denkmals lautet: / M. CAELIO T. F. LEM. BON.
+                            / O. LEGXIIX. ANN. LIII. S. / CIDIT. BELLO VARIANO OSSA. / NFERRE.
+                            LICEBIT. P. CAELIUS. TF / LEM. FRATER. FECIT. / Die holländischen und
+                            deutschen Antiquare, welche der Präsident v. Buggenhagen in Kleve, bei
+                            Erklärung dieses Steines zu Rathe zog, ergänzten das Fehlende zu Anfange
+                            der zweiten Zeile mit LTO (Legato), und lasen die Inschrift: / Marco
+                            Caelio, Titi filio, Lemovici bono, Legato Legionis duodevigesimae,
+                            annorum quinquaginta trium et semis. Cecidit bello Variano; ossa inferre
+                            licebit. Publius Caelius, Titi Filius, Lemovicis frater fecit. / Auf den
+                            Postamenten zur Rechten und Linken des Caelius würde zu lesen sein: /
+                            Marcus Caelius / Marci Libertus / Privatus. / - / Marcus Caelius / Marci
+                            Libertus / Thiaminus. / Die Lesung: Lemovici bono Legato - würde wohl
+                            auf jeden Fall zu verwerfen und das bono auf die Provinz Bononien zu
+                            beziehen sein, aus welcher die Familie des Caelius gestammt haben mag. /
+                            Alte und neue Philologen haben das O zu Anfange der zweiten Zeile für
+                            kein O wollen gelten lassen, sondern es für das Centurionen Zeichen
+                            [...] genommen, - dieses ist aber ein Irrthum, welcher aus flüchtiger
+                            Betrachtung oder Erklärsucht entstanden sein muss, indem ein O durchaus
+                            nicht zu verkennen ist. In dem Museum Veronense befindet sich CXXI. fig.
+                            4. die Abbildung eines Centurio, welcher zwar stehend, jedoch in den
+                            Zierrathen // und in dem reichen Schmuck sehr viel Uebereinstimmendes
+                            mit demjenigen unsers Kriegers hat. / Der der hochverehrte Hofrath Hirt
+                            mir nicht allein über die Inschrift dieses merkwürdigen Denkmals seine
+                            Ansichten mittheilt, sondern auch über das Bildwerk selbst, so erwähne
+                            ich desselben nicht weiter, und lasse den desfalsigen Brief an mich hier
+                            folgen:" [Es folgt der hier vorliegende Hirt-Text]. </note>
+                    </seg> ist in mancher Beziehung merkwürdig. Die Architektur trägt den guten Stil
+                    des Augusteischen Zeitalters an sich, eben so die Sculptur, und die schöne Form
+                    der Buchstaben in der Inschrift. Ueber leztere sind die Philologen nicht ganz
+                    einig:</p>
+                <p>1. <hi rendition="#aq">LEM</hi>. bezieht sich ohne Zweifel auf die <hi rendition="#aq">tribus lemonia (Festus</hi>), zu welcher <hi rendition="#aq"><persName key="ed_dvg_khb_qjb">Caelius</persName></hi> gehörte.</p>
+                <p>2. <hi rendition="#aq">BON. O</hi>; bleibt zweifelhaft. wer liest <hi rendition="#aq">Bononia orto</hi>: wer <hi rendition="#aq">bono viro</hi>:
+                    wer <hi rendition="#aq">Bono</hi>, und glaubt: daß es ein Beyname des <hi rendition="#aq">Caelius</hi> seyn möchte; und daß vor dem <hi rendition="#aq">O</hi> die Buchstaben <hi rendition="#aq">P. P. Primipilo
+                        (Centurioni primi pili</hi>) gestanden haben könnten. Lezteres gewinnt
+                    einige Wahrscheinlich<supplied cert="high">keit</supplied> aus der Nachricht
+                        <persName key="ed_btz_ljb_qjb"><hi rendition="#aq">Frontin</hi>'s</persName>
+                        (<hi rendition="#aq">Strateg</hi>.[emata] 4, 7. §. 8.), wo ein <hi rendition="#aq">Caelius primipilaris</hi> vorkommt, <hi rendition="#aq">qui
+                        in Germania post Varianam cladem etc</hi>., welcher leicht unser <hi rendition="#aq">Caelius</hi> hier seyn möchte. auch scheint es, daß die
+                    Stelle, welche <hi rendition="#aq">Caelius</hi> bey der 18<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Legion</hi> hatte, nicht bloß durch den Rebstock (<hi rendition="#aq">vitis</hi>) angedeutet, sondern auch durch das Wort
+                    ausgedrückt seyn müßte.</p>
+                <p>3. <hi rendition="#aq">ANN. LIII. S</hi>. muss das <hi rendition="#aq">S.</hi>
+                    wohl <hi rendition="#aq">semis</hi> - gelesen werden.</p>
+                <p>4. (<hi rendition="#aq">CE) CIDIT BELLO VARIANO</hi>: hieraus ersieht man: daß,
+                    wenngleich der von <hi rendition="#aq"><persName key="ed_btz_ljb_qjb">Frontin</persName></hi>
+                    <add place="superlinear">oben</add> genannte <hi rendition="#aq">Caelius</hi>
+                    (vorausgesezt, daß er mit dem unsrigen hier derselbe sey) die Niederlage des <hi rendition="#aq"><persName key="ed_tds_vkb_qjb">Varus</persName></hi> selbst
+                    überlebte, er doch in der Folge dieses Krieges auch umkam. Wahrscheinlich
+                    rettete er anfänglich einen Theil <pb n="2"/> der Truppen, und vertheidigte sich
+                    auf dem Rückzuge eine Zeit lang mit List und Muth gegen die Übermacht, aber ohne
+                    dem endlichen Schicksaal der andern zu entgehen. <ex>[Anmerkung:</ex> Bei der
+                    Wuth der Germanier gegen ihre Gefangenen gab Caldus Cälius, ein Mann von altem
+                    Geschlecht und seiner Ahnen durch seine Denkungsart werth, ein rühmliches
+                    Beispiel. Er faßte die Ketten, mit denen er gefesselt war, zusammen, und schlug
+                    sie mit solcher Heftigkeit gegen seinen Kopf, daß sogleich Blut und Hirn aus der
+                    Wunde hervordrang, und er den Geist augenblicklich aufgab. / Vellejus Paterkulus
+                    II. Buch CXXI. Kapitel. / Un jeune Romain d'un nom illustre, Caelius Caldus,
+                    voyant à quel sort il étoit reservé, étendit sa chaîne, et s'en donna un coup si
+                    violent dans la tête, qu'il se brisa le crane; la cervelle avec le saug coula
+                    par terre, et il expira sur-le-champ. / Hist. des Empereurs Romains par Crevier
+                    t. I. p. 451.<ex>]</ex></p>
+                <p>5. <hi rendition="#aq">OSSA (I)NFERRE LICEBIT</hi> - diese Worte befremden. Es
+                    scheint: daß damals als das Denkmal gemacht ward, die Gebeine des Erschlagenen
+                    noch nicht gefunden waren, aber daß man über ihre Auffindung und die ehrenvolle
+                    Beysetzung derselben nicht ohne Hoffnung war. Daher das <hi rendition="#aq">Licebit</hi>.</p>
+                <p>6. In dem lezten Satz ist <del rendition="#s">wohl das TF</del> wieder T. F. <hi rendition="#aq">Titi Filius</hi>, und das <hi rendition="#aq">LEM</hi>.
+                    wieder <hi rendition="#aq">Lemonia</hi> zu lesen. So viel über die
+                    Inschrift.</p>
+                <p>Merkwürdiger als die Inschrift ist die Bildliche vorstellung. <hi rendition="#aq">Caelius</hi> hat eine sizende Stellung zwischen zwey Fußgestellen, worauf
+                    die Büsten zwey seiner Freygelaßenen gesezt sind, wovon der eine <hi rendition="#aq">Privatus</hi> und der andere <hi rendition="#aq">Thiaminus</hi> hieß, wahrscheinlich Begleiter des <hi rendition="#aq">Caelius</hi>, und das Schicksaal ihres Herrn theilend.</p>
+                <p>Der <hi rendition="#aq">Centurio Caelius</hi> selbst hält als Zeichen seiner
+                    Würde den Rebstock, und erscheint <add place="superlinear">anderweitig</add> mit
+                    so vielen Zeichen seiner Tapferkeit ausgeschmückt, wie man nicht leicht ein
+                    anderes Denkmal dieser <add place="superlinear">Art</add> finden wird. Man
+                    erblickt hier alle Gattungen von <hi rendition="#aq">Decoration</hi>en, mit
+                    denen die Feldherrn die Tapfern zu schmücken pflegten. Er trägt den Eichenkranz:
+                        <hi rendition="#aq">corona civica</hi> - zugleich mit einer großen <hi rendition="#aq">Gemme</hi> über der Stirn. Um den Hals hat er den von Silber
+                    gedrehten Strick - <hi rendition="#aq">torques</hi> - über den Schultern, rechts
+                    und links, ragen die Löwenköpfe der Ehren-<hi rendition="#aq">fibulae</hi> empor
+                    zur Befestigung des Kriegsmantels (<hi rendition="#aq">sagum</hi>); zur Rechten
+                    und Linken <pb n="3"/> des Halses hängen an besondern Schnüren die
+                    Ehrenarmbänder - <hi rendition="#aq">Armillae</hi> - herunter, und dann <subst>
+                        <del rendition="#s">sind</del>
+                        <add place="superlinear">glänzen</add>
+                    </subst> auf dem Panzer an einem besondern Kreuzriemen fünf medaillenartige
+                    Köpfe, <add place="superlinear"><hi rendition="#aq">Phalerae</hi> genannt,</add>
+                    gleichfalls Zierden, welche die Brust der Tapfern schmückten (die Hauptstelle
+                    bei <persName key="ed_jln_zvg_qjb"><hi rendition="#aq">Silius</hi></persName>
+                    15, 255.). In der Mitte ist das Schreckenhaupt der <hi rendition="#aq">Gorgo</hi> kenntlich, nicht aber die beiden Köpfe rechts und links, welche
+                    im Monumente zu viel gelitten zu haben scheinen. Deutlich ist ferner das andere
+                    Schreckenbild, der Löwenkopf. - Ein mit so viel Zierden ausgeschmückter
+                    römischer Krieger dürfte sich auch in der besten Gesellschaft unserer Tage
+                    zeigen.</p>
+                <p>Noch ist das Merkwürdige unseres Denkmales nicht erschöpft. Von dem Kriegsmantel
+                    komt bloß ein Stückchen auf der linken Schulter und in der Hand zum Vorschein.
+                    Unter dem Panzer erscheint wie gewöhnlich am Oberarm das Ende des Ärmels <add place="superlinear">der <hi rendition="#aq">Tunica</hi></add>, und so auch
+                    unter den Hüften der Saum derselben. Aber hier sieht man, daß unter der <hi rendition="#aq">Tunica</hi> der Mann noch ein anderes knapp anschließendes
+                    Kleid von dickem Zeuge trug. Dies zeigen die Ärmel, welche bis an das
+                    Handgelenke vorreichen, und mit einer Art Überschlag, vielleicht von anderer
+                    Farbe, versehen <subst>
+                        <del rendition="#s">sind</del>
+                        <add place="superlinear">waren</add>
+                    </subst>. <del rendition="#s">Fer</del>Wahrscheinlich waren auch die Schenkel
+                    und Beine von ähnlichem Zeuge bekleidet. Diese Bekleidung mag sich auf den
+                    rauhern Himmelstrich beziehen, in welchem der Krieg geführt ward. Es ist indeßen
+                    nicht unbemerkt zu laßen, daß man bey der römischen Reiterey gewöhnlich
+                    Beinkleider bis auf die Hälfte der Waden herab bemerkt, wozu dann noch die
+                    Schnürstiefel kommen.</p>
+				<closer>
+                    <signed>H.</signed>
+                    <dateline>den 14<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> oct.
+                        22.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

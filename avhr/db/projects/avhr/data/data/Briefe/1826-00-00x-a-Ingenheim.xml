@@ -1,0 +1,72 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gfb_33q_n1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Gustav Adolf Wilhelm Graf von Ingenheim. Berlin, 1826]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Friedrich Eggers: Christian Daniel Rauch. Bd. 2, Berlin 1878, S.
+                    265-266: "Dem Hofrath Hirt scheinen die Bemühungen Wolff's und Ingenheim's über
+                    den Kopf zu wachsen. Er schreibt dem letzteren, daß man in Berlin fortan nur
+                    Skulptur-Werke kaufen würde, welche man selbst dort gesehen habe."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1796-01-01" notAfter="1796-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_kzt_2ll_jw">Ingenheim, Gustav Adolf Wilhelm Graf von
+                        (1789-1855) (Sohn von König Friedrich Wilhelm II. von Preußen aus seiner
+                        morganatischen Ehe mit Julie von Voß, 1810 königl. Kammerherr und 1816
+                        Wirkl. Geh. Rat im Dienst seines Halbbruders, König Friedrich Wilhelm III.,
+                        Kunstsammler und Mäzen, viele Jahre in Italien wohnhaft)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Zur Datierung: Unbestimmt; nach Eggers lediglich auf das Jahr 1826 zu
+                    datieren. - Zum Kontext: Bezieht sich auf die Ankäufe, die Emil Wolff im Auftrag
+                    Rauchs in Italien tätigte: "Während Graf Ingenheim sich noch in Rom aufhielt,
+                    hatte Wolff auch eine ganze Anzahl von Gipsabgüssen auf Rauchs' Veranlassung
+                    angekauft [...]. Er machte weitere Vorschläge für den Ankauf von Abgüssen des
+                    Apollo Belvedere, Kapitäle und Zierrathen vom Vesta-Tempel, des Diskuswerfers,
+                    der kapitolinischen Venus und der Amazone des Kapitols. Außerdem kontrolirte er
+                    alle in Rom und dessen Umgebung vorgenommenen Ausgrabungen, theils um alle
+                    gefundenen, scheinbar unbrauchbaren Marmor-Fragmente sofort für Rauch
+                    anzukaufen, der für die demnächst vorzunehmenden Restaurationsarbeiten mehr oder
+                    minder verwitterten Marmor brauchte, theils um schleunigst über die Funde zu
+                    berichten und etwaige Ankäufe zu befürworten. So zählt er die ergiebigen
+                    Resultate der Ausgrabungen auf, welche die Herzogin von Chabley in der Nähe der
+                    Kirche domine quo vadis, Vescovali bei Santa Lucia in felce und in Cività
+                    Castellana, Bröndstedt in Palestrina, die man ferner auf dem Palatin, im Sabiner
+                    Gebirge beim Lago di Fucino und in den Thermen des Caracalla vornahm, und meldet
+                    außerdem, was aus dem Palazzo Barberini, Chigi, Mattei käuflich zu haben ist."
+                    (Eggers, a.a.O., S. 265).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

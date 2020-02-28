@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bbr_2s3_f3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anfrage des Kultusministeriums an Hirt</title>
+                <title> betreffend Kaufangebot von Artaria: Gemälde von Carlo Dolci. Berlin, 2. März
+                    1818</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt 15 Abt. I Nr. 3 Bd. 1,
+                                fol. 4r (genehmigtes Konzept)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-03-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tq5_2dk_f3b"/>
+                </correspContext>
+                <note>Mit Bearbeitungsvermerken [auf dem oberen Rand]: "248. d[em]H[errn]
+                    StR[Staatsrat] Uhden."; [auf dem linken Rand]: "<hi rendition="#uu">Cito</hi>";
+                    "md: / insin d. 2/3 / StR U / <hi rendition="#u">1706</hi>."; [auf dem unteren
+                    Rand]: Ns /2. Uhden./2."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                </opener>
+				<p>Berlin den 2 März 1808 <lb/>An den Herrn Hofrath Hirt. / Hier</p>
+                <p>Der hier anwesende Kunsthändler <persName key="ed_v5m_czj_f3b">Artaria</persName>, hat unter andern Kunstsachen ein Gemählde des <persName key="ed_m4h_r1k_f3b">Carlo Dolci</persName>, <rs type="artwork" key="prov_oxf_hbk_f3b">Johannes der Evangelister</rs> vorstellend, für den
+                    Preis von 3000 Thaler <seg type="comment">
+                        <orig>angeboten</orig>
+                        <note xml:id="nbvr_4ck_f3b">Das Gemälde wurde für Berlin angekauft; vgl.
+                            GStA PK I 76 Ve 15 I Nr. 3 Bd. 1, fol. 20: Altenstein an Schadow,
+                            Konzept, 28. 3. 1818; fol. 42: Jacoby an Altenstein, 1.5.1818.</note>
+                    </seg>. Ehe auf diesen Antrag weiter eingegangen wird wünscht das <orgName key="ed_xpk_5s3_f3b">Ministerium</orgName> p auch Ihr Urtheil über dieses
+                    Gemählde zu erhalten und ersucht Sie daher, sowohl über den Kunstwerth
+                    desselben, über den Werth den es für die <rs type="artwork" key="prov_vch_fyb_f3b">hiesige Sammlungen</rs> haben möchte als auch über
+                    den dafür geforderten Preis gutachtlich zu berichten.</p>
+				<closer>
+					<salute/>
+					<signed>Ministerium pp <ex><lb/>[Namenskürzel]</ex>
+                        <persName key="ed_iwb_fpx_lw">Altenstein</persName></signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

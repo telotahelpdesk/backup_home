@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_x3v_xth_3w">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Georg Andreas Reimer (Vertragsentwurf für Hirts „Geschichte der Baukunst
+                    bei den Alten“). Berlin, 1. Oktober 1820.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Verlagsarchiv Walter de Gruyter, Depositum in SBB PK,
+                            Handschriftenabteilung</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Dep. 42 (Briefarchiv de Gruyter) R 1: Hirt,
+                                Aloys</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-10-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_oy5_xy4_bw">Reimer, Georg Andreas (1776-1842) (Verleger in
+                        Berlin, ab 1800 Leiter der Buchhandlung der Königlichen Realschule in Berlin
+                        (ab 1817 Reimersche Buchhandlung), kaufte u.a. später die Weidmannsche
+                        Buchhandlung in Leipzig, politisch engagiert in der preuß.
+                        Reformbewegung)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Egh. Vertragsentwurf von Hirt mit egh. Korrekturen von Reimer.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An Herrn Buchhaendler / Reimer / Wohlgeb. / Mit Siegel</addrLine>
+                    </address>
+                </opener>
+                <p>Als im Jahre 1808 Ew. Wohlgeboren den <seg type="comment">
+                        <orig>Verlag <bibl sameAs="prov_e1l_pjv_pv">meiner Baukunst</bibl>
+                        </orig>
+                        <note xml:id="nhng_rvc_jw">Vgl. den Verlagsvertrag
+                            1808-04-30-VertragReimer.</note>
+                    </seg> übernahmen; so ward in dem
+                    Contract § 14. die Anzeige beygefügt, daß ich Ihnen auch die <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Baukunst bey den
+                                Völkern des Alterthumes</bibl>
+                        </orig>
+                        <note xml:id="nshy_wvc_jw">Zum
+                            endgültigen Vertrag, der die Korrekturen Reimers aufnimmt, vgl.
+                            1820-10-09-VertragReimer</note>
+                    </seg>, wenn sie vollendet seyn würde,
+                    vorzugsweise zum Verlag anbieten würde.</p>
+                <p>Diese liegt nun in der Handschrift vollendet zugleich mit dem grösten Theile der
+                    dazu gehörigen Zeichnungen, so daß der Druck so gleich anfangen kann, und eben
+                    so die Zeichnungen an die Kupferstecher übergeben werden können.</p>
+                <p>Meine Bedingungen sind:</p>
+                <p>1. Das Werk wird in <hi rendition="#aq">quarto</hi> gedruckt in der Größe und mit
+                    den Lettern, wie die <bibl sameAs="ed_i32_gwl_hw">Schriften der <orgName key="ed_znn_dfc_b1b">K<ex>öniglichen</ex> Akademie d<ex>er</ex>
+                                W<ex>issenschaften</ex>
+                        </orgName>
+                    </bibl> erscheinen. </p>
+                <p>2. Das Ganze wird zwey mäßige Bände ausmachen. </p>
+                <p>3. Die Zeichnungen sind zum Theil sehr groß, aber nur linearisch. Wollte man sie
+                    nicht radiren; könnten sie sich auch recht gut zum Steindruck eignen.</p>
+                <p>4. Zu dem ersten Bande, welcher die Baugeschichte bey den Ägyptern, den
+                    Phoeniziern u. ihren Colonien, bey den Israeliten, Babyloniern und Persern,
+                    ferner die ersten zwey Zeiträume der Baugeschichte bey den Griechen und den
+                    damit verwandten Völkern des mittlern Italiens enthält, kommen elf Tafeln, alles
+                    merkwürdige der großen Bauwerke dieser Völker in einer sehr großen Menge von
+                    Figuren darstellend.</p>
+                <p>5. Zu dem zweyten Bande <subst>
+                        <del rendition="#ow">kommen</del>
+                        <add place="across">kommt</add>
+                    </subst> ungefähr dieselbe<del rendition="#s">n</del> Anzahl von Tafeln und
+                    Figuren, und enthält den 3<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi>, 4<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> und 5<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Zeitraum der Baugeschiche bey den Griechen, und Römern, und bey allen den
+                    Völkern, welche durch Griechen u. Römer ihre Bildung erhielten. Die Handschrift
+                    für diesen zweyten Band beträgt etwas mehr als bey dem erst4en.</p>
+                <p>6. Für den Druckbogen beträgt der Preis zwey wollwichtige
+                        Fried<ex>richs</ex>d'or.<pb n="2"/>
+                </p>
+                <p>7. Die Zeichnungen in's gesammt liefere ich frey, und der Verleger hat nur die
+                    Unkosten des Stechens u.s.w. zu tragen.</p>
+                <p>8. Der Druck muß mit der Vollziehung des Contractes beginnen, und dann
+                    unausgesezt fortgehen, so daß wenigstens alle vierzehn Tage drey Bogen fertig
+                    werden.</p>
+                <p>9. Gleichzeitig und anhaltend muß auch der Kupferstich betrieben werden, so daß
+                    die Kupfer zu jedem Bande gleichzeitig fertig werden.</p>
+                <p>10. Ich setze die Arbeit des Ganzen auf ein Jahr: so daß der erste Band <seg type="comment">
+                        <orig>auf Ostern</orig>
+                        <note xml:id="nt3b_3xs_s1b">Zur Leipziger Oster- oder Jubilatemesse, die am
+                            3. Sonntag nach Ostern begann.</note>
+                    </seg>, und der zweyte <seg type="comment">
+                        <orig>auf <hi rendition="#aq">Michaelis</hi>
+                        </orig>
+                        <note xml:id="nzmk_mxs_s1b">Zur Leipziger Michaelismesse (29.
+                            September).</note>
+                    </seg> 1821 erscheinen können. Geschähe in diesen Terminen eine Versäumung, so
+                    müßte eine festzusetzende Strafe eintreten.</p>
+                <p>11. Die Zahlung für das Manuscript muß regelmäßig in vier Terminen erfolgen, und
+                    zwar fünf und zwanzig Fr<ex>i</ex>ed<ex>richs</ex>d'or auf Neujahr 1821., dann
+                    die gleiche Summe den 1<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> April, dann die gleiche Summe den 1<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Julius, und ferner den 1<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> October die restirende Summe vom ganzen Werke, sey es, daß diese Summe
+                    mehr oder weniger als fünf und zwanzig Fr<ex>i</ex>ed<ex>richs</ex>d'or
+                    betrage.</p>
+                <p>12. Jede zu stechende Platte muß der vorgelegten Zeichnung entsprechen, und keine
+                    wird angenommen, und als vollendet angesehen, worauf ich nicht meine approbation
+                    geschrieben habe.</p>
+                <p>13. Das Papier für den Druck muß wenigstens von der Güte desjenigen seyn, worauf
+                    die besondern Exemplare <ex>die</ex> ich von den <bibl sameAs="prov_zkr_zgv_pv">akademischen Abhandlungen</bibl> zu empfangen pflege. Das Papier für die
+                    Kupferstiche hingegen muß beßer und stärker seyn, als dasjenige ist, worauf die
+                    Kupfer in den Abhandlungen erscheinen. Mir muß ein Probebogen hievon im voraus
+                    gegeben werden.</p>
+                <p>14. Außer dem bezeichneten Honorar <del rendition="#s">erhalte ich</del> erhalte
+                    ich Dreyßig Freyexemplare, und darunter sechs auf Velinpapier. <pb n="3"/>
+                </p>
+                <p>Sind Ew. Wohlgeboren geneigt auf mein Anerbieten einzugehen, so kann ich jeden
+                    Tag sowohl Handschrift, als Zeichnungen vorlegen, und das nähere besprechen. Im
+                    andern Falle ersuche ich Sie, mich zu benachrichtigen, damit ich anderweitige
+                    Einrichtungen treffen kann.</p>
+                <p>Anderes will ich nicht beyfügen. <bibl sameAs="ed_ahk_qy5_dw">Die
+                        Baugeschichte</bibl> gehört zu den Werken meines Lebens, und Sie wißen, daß
+                    ich nichts verabsäume, solchen Arbeiten jene Anordnung, Vervollständigung, Kürze
+                    und Feile zu geben, welche die Wichtigkeit eines noch nie behandelten
+                    Gegenstandes erheischt.</p>
+                <closer>
+                    <signed>Berlin den 1 October 1820. <lb/>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

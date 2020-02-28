@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_wdp_3nl_qz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Johann Gottfried Herder. Rom, 30. Oktober 1788.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt: Johann Gottfried Herder an Karoline Herder, Rom, 4. November 1788:
+                    "[...] Ich [...] war eben auf der Straße, um nach der Villa Pamfili und der
+                    Verklärung Raphaels mit Hirt zu gehen, als ich ein Billet von ihm eines
+                    sonderbaren Inhalts erhielt. Er beschwerte sich nämlich über meine unerklärliche
+                    Art, mit ihm zu existiren, wobei wir alle zu Grund gehen müßten, u. s[o] f[ort].
+                    Er sinne alle Augenblicke drauf, mir Freude zu machen. (NB: seit der Endigung
+                    oder vielmehr dem Abbrechen unsres elenden Cursus waren wir völlig getrennt, und
+                    hingen blos durch den jämmerlichen Tisch an einander: er fuhr mit der
+                    Seckendorf[f] aus, und war ihr Demonstrator, ohne mir je einen Antrag zu thun
+                    mitzufahren.) Sobald der Banquier in die Stadt käme, fuhr er fort, wolle er mir
+                    die verlangte Summe Geldes auf einmal zustellen u. s[o] f[ort]. (Ich bringe dies
+                    Billet wie alle mit.) [...] Das war Donnerstag den 30. October." (Herder,
+                    Briefe, hrsg. von Günter Arnold, Bd. 6, S. 76).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1788-10-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hy4_jx2_rs">Herder, Johann Gottfried (1744-1803)
+                        (Generalsuperintendent)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hqk_z5y_whb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Wilhelm von Humboldts (Leiter der Sektion für den öffentlichen
+                    Unterricht) an Hirt (als Mitglied des Senats der Akademie der Künste). Berlin,
+                    31. Januar 1810</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>[vorgefertigtes Antwortschreiben] GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 3,
+                                Bl. 20r-v</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Entwurfsschreiben mit Korrekturen und egh. Unterschrift; halbseitig
+                            beschriebene Folio; mit Mundierungsvermerken auf dem linken Rand: "mund:
+                            13ter Febr: 10. / abgeg: den 14ten [Febr.]" [mit unleserlichem
+                            Unterschriftskürzel] / "Section für den öffentl: Unterricht."; [unten
+                            links] "ad N° 5. pro Febr: 10."</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_p4m_q1h_3v">Humboldt, Wilhelm von (Friedrich Wilhelm
+                        Christian Karl Ferdinand von) (1767-1835) (preuß. Staatsmann, Publizist,
+                        Sprachforscher, Gründer der Berliner Universität, 1797-1801 in Paris, ab
+                        1802 preuß. Gesandter am Heiligen Stuhl in Rom)</persName>
+                    <orgName key="ed_xdh_drs_5hb">Sektion des Kultus und öffentlichen
+                        Unterrichts</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1810-01-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <orgName key="ed_fyw_2vh_4fb">Akademie der Künste, Preußische: Senat</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_msn_hws_whb"/>
+                </correspContext>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_f1n_1nm_pgb">AdK - Neuorganisation</term>
+                    <term key="ed_a1p_2nm_pgb">Bauakademie</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>/Kunst-Academie) / An / den Herrn Hofrath Hirt</addrLine>
+                    </address>
+                    <dateline>Berlin, den 31<hi rendition="#sup">sten</hi> Januar 1810</dateline>
+                </opener>
+				<p>Die unterzeichnete Section dankt dem Herrn Hofrath Hirt für dessen unterm 2<hi rendition="#sup">ten</hi> d<ex>ieses</ex> M<ex>onats</ex> mitgetheilten
+                    einsichtsvollen Bemerkungen über eine zweckmäßige Einrichtung der Königlichen
+                        <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName> in Verbindung mit der
+                        <orgName key="ed_tc3_hfc_b1b">Bau-Académie</orgName>, und hält solche ihrer
+                    Aufmerksamkeit sehr werth.</p>
+                <p>Die Section wird sich ein ernstes Geschäft daraus machen, die erwähnten von der
+                        <orgName key="ed_fyw_2vh_4fb">Académie</orgName> zu ihrer neuen Organisation
+                    gethanen Vorschläge genau zu prüfen; es versteht sich jedoch von selbst, daß
+                    eine solche Organisation nur im Ganzen, und in beständiger Rücksicht auf die
+                    anderen neben der <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName>
+                    stehenden wissenschaftlichen Institute gemachen werden kann. Gerade eben weil
+                    eine solche durchgreifende Reform sehr reifliche Ueberlegung erfordert, ist es
+                    auch nothwendig gewesen, für jetzt unmittelbar für die Aufsicht auf die <orgName key="ed_tc3_hfc_b1b">Bau-Académie</orgName> zu sorgen, und immer <pb n="2"/>
+                    wird auch künftig von der Idee, welche die Errichtung des Architectonischen
+                    Comité herbeigeführt hat, das bleiben müssen: daß die Aufsicht auf Malerey und
+                    Bildhauerey, auf Architectur und auf Music, verschiedenen Abtheilungen der
+                        <orgName key="ed_u5s_1fc_b1b">Académie</orgName> wird anzuvertrauen
+                    seyn.</p>
+                <p>Aus diesen Gründen ist es überflüssig, hier auf die einzeln aufgestellten Punkte
+                    gedachten Schreibens einzugehen; nur muß die Section jedoch auf die Aeusserung:
+                    daß die technische <orgName key="ed_dvs_ykp_tgb">Ober Bau-Deputation</orgName>
+                    bloß aus sogenannten Land- und Wasser-Bau-Meistern bestehe, bemerken, daß solche
+                    dieselbe in hohem Grade befremdet hat, da diese Behörde, nach ihrer neuen
+                    Organisation, immer einen eigenen Rath auch für den eigentlich ästhetischen
+                    Theil der BauKunst besitzen soll. Berlin p p</p>
+				<closer>
+					<salute/>
+					<signed><orgName key="ed_xdh_drs_5hb">Section im Ministerio des Innern für den öffentl:
+                            Unterricht</orgName>
+                        <lb/>Humboldt.</signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

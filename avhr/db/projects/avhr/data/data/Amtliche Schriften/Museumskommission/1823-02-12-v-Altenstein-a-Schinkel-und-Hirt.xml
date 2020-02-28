@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ed5_pkp_vjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    [12.] Februar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 33r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_dhf_xjf_sjb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio; von Schreiberhand mit egh. Korrekturen und
+                    Unterschriftskürzel von Altenstein. - Der Brief ist nicht datiert. Mundiert und
+                    abgeschickt wurde er am 12.2.23; in der Aktenablage befindet er sich vor dem
+                    Schreiben vom 22. Februar 1823.</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des K. Geh. Ober-Bauraths Herrn / Schinkel Hochwohlgeboren /
+                            und / des K. Hofraths Herrn Hirt / Wohlgeboren.</addrLine>
+                    </address>
+                </opener>
+				<p>Eure p und Eure p benachrichtige ich auf das gefallige Schreiben vom 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d<ex>ieses</ex> M<ex>onats</ex> daß
+                    ich die in dem <placeName key="ediarum_tbl_n3n_5jb">Hause</placeName> N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 67. in der Wilhelmsstraße
+                    noch befindlichen Gemälde aus der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs> zu dem von Ihnen angegebenen Werthe von 420,000
+                        r<ex>eichstaler</ex> noch auf 4 Monate habe versichern lassen und S<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Königlichen <persName key="prov_bxf_jt5_fv">Majestät</persName> hiervon vorläufig Anzeige gemacht
+                    habe. Ich ersuche Ewr. die Maasregeln wegen anderweiter Unterbringung der ganzen
+                        <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Gemälde Sammlung</rs> in
+                    der nächsten Sitzung der zur Begutachtung der zum Museumsbau niedergesezten
+                    Imediat <orgName key="ed_imk_ss2_gjb">Kommission</orgName> gefalligst zur
+                    Sprache zu bringen.</p>
+                <p>Es wird sich zeigen ob eine Möglichkeit vorhanden ist das <placeName key="ediarum_tbl_n3n_5jb">Haus</placeName> in der Wilhelmsstraße mit dem
+                    Monath May zu räumen und ist solches nicht der Fall ob und in welcher Art die
+                    Versicherung gegen Feuersgefahr verlangert werden muß.</p>
+				<closer>
+                    <dateline>Berlin p N. S. E.</dateline>
+                    <signed><ex>[gez.]</ex> Al<ex>[tenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

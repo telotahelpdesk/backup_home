@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_hvg_chs_2v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Wilhelm Uhden. Berlin, vor 29. Juli 1797]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-07-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ffk_snl_cv">Uhden, Wilhelm</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Bezeugt in: Wilhelm Uhden an Wilhelmine Rietz (Gräfin Lichtenau), Rom, 29.
+                    Juli 1797: "Mit unbeschreiblicher Freude habe ich aus einem Briefe des Herrn
+                    Hofraths Hirt erfahren, daß Ihr Porträt glücklich in Berlin angekommen ist."
+                    (Atzenbeck, 1925, S. 145). - Gemeint ist das Bildnis der Gräfin Lichtenau von
+                    Angelika Kauffmann (vgl. dazu 1796-04-15-a-Gräfin Lichtenau).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

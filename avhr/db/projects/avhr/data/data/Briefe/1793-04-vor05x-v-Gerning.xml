@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jx4_sng_qgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Empfehlungsschreiben für Johann Isaak Gerning von Unbekannt an Hirt und J.
+                    F. Reiffenstein, vor 5. April 1793]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Johann Isaak <persName key="prov_zqd_xc4_wr">Gerning</persName> an
+                        <persName key="prov_hwd_hmp_5r">Goethe</persName>, Frankfurt am Main, 5.
+                    April 1793: Für seine Reise nach Italien sei "er mit Empfehlungsschreiben unter
+                    anderem an Hirt und J. F. <persName key="prov_ald_mvr_xr">Reiffenstein</persName> bestens versehen" (Goethe, Regestausgabe, Bd.
+                    1/553).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ww2_hv1_wv">Unbekannt, (-)</persName>
+                    <date notBefore="1793-01-01" notAfter="1793-04-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Es ist sehr wahrscheinlich, dass Gerning bei seinem Eintreffen in Rom das/die
+                    Empfehlungsschreiben zusammen mit einem eigenen Anschreiben an Hirt gelangen
+                    ließ.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

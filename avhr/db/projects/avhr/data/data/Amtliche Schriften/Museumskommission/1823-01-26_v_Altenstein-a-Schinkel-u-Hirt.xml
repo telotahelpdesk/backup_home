@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jsv_zsz_rjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    26. Januar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 4v-5r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-01-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_dhf_xjf_sjb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschriftskürzel sowie Korrekturen von
+                    Altenstein. - Das Schreiben ist nicht eigens datiert. Es bezieht sich auf das
+                    vorangehende Schreiben an den König mit der Datierung"Berlin, den 26 Januar
+                    1823.". - Mundierungs- und Absendevermerk auf dem linken Rand: "den 26/1
+                    23."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Königl. Geh. OberbauRath Herrn / Schinkel u den Königl.
+                            Hofrath / Herrn Hirth Hochwohl- u Wohlgeboren</addrLine>
+                    </address>
+                    <dateline/>
+                </opener>
+				<p>Behufs der von des <persName key="prov_bxf_jt5_fv">Königs Maj<ex>estät</ex></persName>
+                    vielleicht zu bestellenden fernerweiten Versicherung der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen GemähldeSammlung</rs> gegen FeuersGefahr
+                    wünsche ich des schleunigsten unterrichtet zu sein, auf wie hoch ungefähr, der
+                    Werth der ganzen <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> zu
+                    500,000 r<ex>eichstaler</ex> angenommen, der Werth der <pb n="2"/> in dem Hauß
+                    N°. 67. der WilhelmsStraße annoch befindlichen Gemählde sich beläuft, u wieweit
+                    dagegen auf die bereits anderweit untergebrachten Gehmählde gerechnet werden
+                    muß. Ob sogleich noch eine bedeutende Zahl von Gemälden mehr in den
+                        Konig<ex>lichen</ex>
+                    <placeName key="ediarum_qkl_1cw_jgb">Akademie-Gebäude</placeName> ohne
+                    anderweiten Nachtheil untergebracht werden könnte und wie hoch in diesem Fall
+                    der Werth der in dem Hause n. 67. der Wilhelmsstraße noch zurückbleibenden
+                    Gemälde anzunehmen seyn dürfte? Endlich <lb/>3) Ob wohl anzunehmen seyn dürfte
+                    daß bis zu dem zur Räumung des vorgedachten Hauses bestimmten Termin sämtliche
+                    Gemälde in Königlichen Gebäuden untergebracht werden können oder ob noch immer
+                    ein Theil in Privatgebäuden wird untergebracht werden müssen und wie hoch dieser
+                    anzuschlagen seyn dürfte.</p>
+                <p>Um Sr <persName key="prov_bxf_jt5_fv">Majestät</persName> Befehl über die
+                    Versicherung entweder der ganzen <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> oder doch wenigstens des in öffentlichen Gebäuden noch nicht
+                    aufbewahrten Theils demnächst sofort befolgen zu können, ersuche ich Ew p um
+                    möglichst schleunige gefällige Aeusserung hierüber. wobey es nicht auf die
+                    großtmögliche Genauigkeit der Abschätzung oder Angabe des Werthes ankommen
+                    kann.</p>
+				<closer>
+                    <signed>Namens Sr. Excellenz. <lb/><ex>[Unterschriftskürzel]</ex>
+                        Altenstein</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>___________________________________________________</p>
+                <p><ex>Das vorausgehende Schreiben Altensteins an den König vom 26. Januar 1823 hat
+                        folgenden Wortlaut:</ex></p>
+                <p>Die von Ew. Königl. Maj. erkaufte Sollysche GemähldeSammlung ist früher von deren
+                    Eigenthümer, hiernächst aber für Haftung des Staats gegen Feuers Gefahr
+                    dergestalt versichert gewesen, daß deren Werth überhaupt zu 500,000
+                        r<ex>eichstaler</ex> angenommen u daher <lb/>100000 r<ex>eichstaler</ex>
+                    Preuß. Courant bei der hiesigen u <lb/>100000 r<ex>eichstaler</ex> Preuß.
+                    Courant bei der Leipziger FeuerVersicherungsGesellschaft, dagegen aber
+                    <lb/>250000. Mark Banko bei der 5<hi rendition="#sup">ten</hi> Hamburger
+                    Assecuranzgesellschaft, <lb/>100000. Mark Banko bei der 2<hi rendition="#sup">ten</hi> Hamburger See- u Feuer Assecuranz Compagnie u <lb/>250000. Mark
+                    Banko bei der Londoner Phönix Assecuranz Compagnie versichert wurden. Das
+                    Handlungshaus der Gebrüder Beneke hierselbst besorgte das ganze Geschäft, u es
+                    war damit für das letzte Jahr, welches am 11. d. M. abgelaufen ist, bei Zahlung
+                    einer Prämie von ¾ pro Cent einschließlich der übrigen Unkosten eine Ausgabe von
+                    4,301 r<ex>eichstaler</ex> 11 s<ex>ilber</ex>gr<ex>oschen</ex> 3 d. verbunden. </p>
+                <p>Ew. Königl. Maj. Befehl allergnädigstlich erbitte ich mir hiermit nunmehr
+                    allerunter-//thänigst, ob die erwähnte Sammlung auch fernerhin für ein Jahr
+                    gegen FeuersGefahr in der bisherigen Art versichert werden soll, oder ob dies
+                    wenigstens hinsichts der in dem Privat Gebäude in der WilhelmsStraße annoch
+                    befindlichen Gemählde nach deren verhältnißmäßigen Werth geschehen soll.
+                    <lb/>Das Letztere würde meines ehrfurchsvollsten Dafürhaltens zur Sicherstellung
+                    gegen jede etwaige Gefahr wünschenswerth sein, u würde ich für den Fall, daß Ew.
+                    Königl. Maj. die ganze oder theilweise Versicherung der Samlung zu befehlen
+                    geruhen sollten, nur noch allerunterthänigst bitten müssen, Allerhöchstdero
+                    Ministerium des Schatzes u für das Real-Kreditwesen anzuweisen, den hierdurch
+                    entstehenden Kostenbetrag auf das Extraordinarium seiner HauptCasse zu
+                    übernehmen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

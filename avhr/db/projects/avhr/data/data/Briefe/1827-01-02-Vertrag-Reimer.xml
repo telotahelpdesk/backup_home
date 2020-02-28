@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ikw_2kd_jw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verlagsvertrag zwischen Hirt und Georg Andreas Reimer über Hirts „Die Gebäude
+                    bei den Griechen und Römern“. Berlin, 2. Januar 1827.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Verlagsarchiv Walter de Gruyter, Depositum in SBB PK,
+                            Handschriftenabteilung</institution>
+                        <collection>Dep. 42 (Briefarchiv de Gruyter) </collection>
+                        <idno>
+                            <idno type="shelfmark">R 1: Hirt, Aloys</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_oy5_xy4_bw">Reimer, Georg Andreas (1776-1842) (Verleger in
+                        Berlin, ab 1800 Leiter der Buchhandlung der Königlichen Realschule in Berlin
+                        (ab 1817 Reimersche Buchhandlung), kaufte u.a. später die Weidmannsche
+                        Buchhandlung in Leipzig, politisch engagiert in der preuß.
+                        Reformbewegung)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1827-01-02" cert="high"/>
+                </correspAction>
+                <note>Schreiberhand mit egh. Unterschriften</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Die Unterzeichneten haben sich über den Druck und Verlag einer Handschrift unter
+                    dem Titel: <lb/>
+                    <hi rendition="#u">
+                        <bibl sameAs="ed_cdf_ffp_dw">Die Gebäude bei den Griechen und
+                        Römern</bibl>
+                    </hi>
+                    <lb/>unter folgenden Bedingungen vereinigt.</p>
+                <p>1. Das für das genannte Werk stipulirte Honorar ist bei Ueberlieferung der
+                    Handschrift dem Herrn Verfasser sogleich baar vom Verleger entrichtet worden,
+                    und wird über den Empfang desselben hiemit zugleich quittirt.</p>
+                <p>2. Die Handschrift enthält 182 halb gebrochene Bogen, und 18 Erläuterungstafeln
+                    begleiten dieselbe.</p>
+                <p>3. Die lithographirten Blätter kommen nicht eher zum Abdruck als nach erhaltener
+                    Genehmigung des Herrn Verfassers, so wie derselbe auch von jedem Bogen gleich
+                    nach Vollendung des Drucks demselben ein Aushänge Exemplar geliefert wird.</p>
+                <p>4. Der Herr Verfasser liefert unaufgehalten das M<ex>anu</ex>s<ex>cri</ex>pt und
+                    die nöthigen Zeichnungen, wie solches die fortschreitende Beendigung des Werks
+                    erfordert. Sollte dagegen der Druck durch Schuld des Verlegers Verzögerung
+                    finden, oder auch die Tafeln durch dessen Verschulden nicht im Verlaufe von 15
+                    Monaten, vom heutigen Tage an gerechnet, vollendet seyn, so unterwirft sich
+                    dieser einer Conventionalstrafe von zwei Fried<ex>richs</ex>d'ors für jeden
+                    Monat des Verzugs, welche nach Verfügung d<ex>es</ex> Herrn Verfassers an die
+                        <orgName key="ed_vzj_jfc_b1b">städtische Armenkasse</orgName> zu zahlen
+                    sind.</p>
+                <p>5. An Freiexemplaren erhält der Herr Verfasser Fünf und Zwanzig einschließlich
+                    des eben erwähnten Aushängeexemplars, unter diesen Sechs auf Velinpapier</p>
+                <p>Zur Bestättigung obiger Vergleichspunkte ist diese Uebereinkunft von beiden
+                    Theilen bestättigend unterschrieben</p>
+                <closer>
+                    <signed>Berlin am 2<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Januar / 1827
+                        A. Hirt. G Reimer </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_x21_jz5_y5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Isaak Gerning. Rom, den 24. Juni 1794. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Freies Deutsches Hochstift, Fankfurter
+                            Goethe-Museum</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">41953-54</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1794-06-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_zqd_xc4_wr">Gerning, Johann Isaakvon</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Die nicht sicher zu entziffernde Empfängerbemerkung Gernings erweckt den
+                    Anschein, als habe dieser Hirts Brief am 16. November 1794 von Jena aus
+                    beantwortet. (Gerning studierte im Winter 1794/95 Geschichte, Staats- und
+                    Rechtswissenschaften in Jena.) Auf Grund der unsicheren Belegstelle wurde jedoch
+                    kein entsprechender Brief von Gerning an Hirt erschlossen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>Á Monsieur / Monsieur J. I. Gerning / de Francfurt / au / <hi rendition="#u">Palais farnese</hi> / chez Mr. le <hi rendition="#u">chev. Ramette</hi>. / Mit Siegel / Empfängerbemerkung: Rom 24 Juny 1794
+                        / Hirt. / E<ex>[rhalten]</ex> 4 July dort / ? ? <ex>[Beantwortet?]</ex>
+                            16<hi rendition="#sup">ten.</hi> 9br <ex>[November]</ex> / v
+                        Jena.</addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 24<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Junj – 94.</dateline>
+                    <salute/>
+                </opener>
+                <p>Wie, mein lieber Herr Gerning! Sie in <placeName key="prov_vxr_xxr_js">Italien</placeName>? <seg type="critical">
+                        <orig>Sie in <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                        </orig>
+                        <note xml:id="nlpp_4vm_1v">Gerning weilte im Sommer 1794 am Hof des Königs
+                            von Neapel.</note>
+                    </seg>? und Sie <add place="superlinear">haben</add> mir vorher dieß durch ein
+                    Schreiben wißen laßen? – Alles ist mir neu, alles befremdet mich. Gewiß ist, daß
+                    ich das erste bis zur Stunde nicht wußte, und das zweyte nicht empfieng. – Ihre
+                    Durchreise wird so schnell seyn, daß man Sie auch nicht für einen Augenblick
+                    wenigstens grüßen kann. – <seg type="comment">
+                        <orig>Was Sepia und Pinsel einzeln kosteten</orig>
+                        <note xml:id="nam3_jwr_lz">Vgl. dazu den Brief Hirts an Anna Amalia von
+                            Sachsen-Weimar und Eisenach vom 21. Juni 1794: "Die kleinen Aufträge
+                            suchte ich gleich zu besorgen [...]. Die Sepia und Pinsel sandte ich auf
+                            Verlangen des Herrn Gernings selbst nach Neapel an Hn. Heigelin."</note>
+                    </seg>, kann ich Ihnen in Wahrheit nicht sagen. <persName key="prov_xsn_1cg_f5">Büry</persName>, der iezt bey dem <persName key="prov_o12_bfx_w5">Prinzen
+                        August v. England</persName>
+                    <seg type="critical">
+                        <orig>
+                            <placeName key="prov_vdf_qzg_y5">auf dem Lande</placeName> ist</orig>
+                        <note xml:id="nnsj_rmv_y5">Der Prinz zog sich während der heißen
+                            Sommermonate in das etwa 20 km südöstlich von Rom am Abhang der
+                            Albanerberge gelegene Städtchen Grottaferrata zurück.</note>
+                    </seg>, machte die Bestellung; ich bezahlte seine Rechnung alles zusammen 9
+                    Scudi romani, und assignirte dann Herrn <persName key="prov_kyr_yvr_js">Tischbein</persName>, dieselben wieder von H. <persName key="prov_pjy_l5r_xr">Heigelin</persName> auszahlen zu laßen. Weiter <pb n="2"/> weiß ich nichts. – <del rendition="#s" next="Also">J</del>
+                    Also ist Hoffnung, daß man Sie künftigen Winter wieder in diesen Gegenden sieht?
+                    Aber doch länger – werde ich die <persName key="prov_wmk_lxw_g5">Frau
+                        Angelica</persName> sehen, so werde ich Ihren Gruß bestellen. Es ist lange,
+                    daß ich sie nicht sah. – <seg type="critical">
+                        <orig>Ich schrieb vor kurzer Zeit an <persName key="prov_dyh_pnv_w5">Mad<hi rendition="#sup">
+                                    <hi rendition="#u">me</hi>
+                                </hi> De La Roche</persName>
+                        </orig>
+                        <note xml:id="nxdh_s3v_y5">Brief erschlossen: [An Sophie von La Roche,
+                            1794-06-kurz vor 24]. - Gerning war ein Neffe von Sophie von La
+                            Roche.</note>
+                    </seg>, der ich mich sehr zu empfehlen bitte. Gute Reise, bis auf Wiedersehen – </p>
+                <closer rend="paragraph">
+                    <salute>Ihr ergebner Diener</salute>
+                    <signed>A. Hirt.</signed>
+                    <dateline rend="align(right)"/>
+                </closer>
+            </div>
+            <postscript>
+                <p/>
+            </postscript>
+        </body>
+    </text>
+</TEI>

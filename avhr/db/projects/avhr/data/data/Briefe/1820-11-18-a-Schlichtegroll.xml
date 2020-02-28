@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hxd_2jy_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich von Schlichtegroll. Berlin, 18. November 1820.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiello´nska, Krakow (vormals: Preußische
+                            Staatsbibliothek Berlin)</institution>
+                        <collection>Autographensammlung</collection>
+                        <idno>
+                            <idno type="shelfmark">[keine Signatur vergeben]</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-11-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ehm_zjy_xw">Schlichtegroll, Adolf Heinrich Friedrich von
+                        (1765-1822) (Philologe, Numismatiker, Archäologe, Lehrer am Gymnasium
+                        Illustre in Gotha und sachs.-gothaischer Bibliothekar, 1807 Generalsekretar
+                        der Bayerischen Akademie der Wissenschaften in München, 1813 geadelt, Mitgl.
+                        der Preuß. Akademie der Wissenschaften)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_x5k_jmy_xw"/>
+                </correspContext>
+                <note>Vermutlich mit den beiden Schreiben an Thiersch vom selben Datum nach München
+                    geschickt, da die Adresse keine Postvermerke und kein Siegel aufweist.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Herrn v. Schlichtegroll / Generalsecretar der K. Bayerischen
+                            / Akademie der Wißenschaften / in / München.</addrLine>
+                    </address>
+                    <dateline>Berlin den 18 Nov. 20.</dateline>
+                    <salute>Mein hochzuverehrender Herr <hi rendition="#aq">Collega</hi>!</salute>
+                </opener>
+                <p>Ich erhalte gestern <seg type="comment">
+                        <orig>Ihr Schreiben von [!] 24 October</orig>
+                        <note xml:id="nzys_tmy_xw">Brief erschlossen
+                            [1820-10-24x-v-Schlichtegroll].</note>
+                    </seg>, worin Sie mich auffordern, Ihnen Nachricht über eine
+                    calligraphisch-lithographische Arbeit <seg type="comment">
+                        <orig>eines dortigen Künstlers <persName key="ed_q13_5ry_xw">
+                                <hi rendition="#aq">Mittenleiter</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nhhb_jqy_xw">Hier könnte der Münchner Zeichner und Lithograf
+                            Johann Michael Mettenleiter (1765-1853) oder dessen Schüler und Neffe
+                            Johann Evangelist Mettenleiter (1792-1870) gemeint sein. Da der ältere
+                            zu dieser Zeit bereits ein erfolgreicher Zeichner, Radierer und
+                            Buchillustrator und kurfürstlich baierischer Hofkupferstecher war, der
+                            eine lithografische Anstalt für den königlich bayerischen Staatsrat wie
+                            auch 1818 eine lithografische Anstalt und Felddruckerei für den
+                            russischen Zaren eingerichtet hatte, ist hier wohl eher an den jüngeren
+                            Neffen zu denken, der eine Arbeit für einen "Concurs" einreichen wollte;
+                            möglicherweise für den Berlinischen Künstler-Verein.</note>
+                    </seg>, welche an mich gesandt seyn sollte, um sie zu einem <seg type="comment">
+                        <orig>Concurs</orig>
+                        <note xml:id="nx5p_zmy_xw">Wettbewerb, Aufnahmeprüfung.</note>
+                    </seg> abzugeben - zu ertheilen. Allein ich bedauere, Ihnen sagen zu müßen: daß
+                        <add place="left">weder</add> eine solche Arbeit, noch ein Brief von Ihnen
+                    in dieser Beziehung an mich eingegangen ist; auch überhaupt nicht hievon gehört
+                    habe. Ich bedauere zugleich, daß Sie mir keine nähere Anzeige geben, auf welchem
+                    Wege mir eine solche Arbeit hätte zukommen sollen; denn in diesem Falle würde
+                    ich vielleicht im stande seyn, mich hiernach zu erkundigen. Ich erkenne, daß der
+                    Fall für Sie, wie für den Künstler sehr unangenehm seyn muß. Indeßen sollten Sie
+                    glauben, daß ich etwas beytragen könnte, der Sache auf die Spur zu kommen, so
+                    bitte ich ferner mich mit Ihrer Zuschrift zu beehren, und sich von der
+                        aus<ex>ge</ex>zeichneten Hochachtung zu überzeugen, mit der ich verbleibe
+                    <lb/>Ihr <lb/>ganz ergebenster</p>
+                <closer>
+                    <signed>A. Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

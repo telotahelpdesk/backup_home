@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_qkv_thb_ygb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votum Hirts zur Verbesserung des Zeichenunterichts an öffentlichen Schulen.
+                    Berlin, 16. April 1806</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Akademie der Künste Berlin</institution>
+                        <collection>Historisches Archiv</collection>
+                        <idno><idno type="shelfmark">PrAdK 664, Bl. 35r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-04-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_fyw_2vh_4fb">Akademie der Künste, Preußische: Senat</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Vor Hirt gaben Friedrich Becherer, Daniel Berger und Schadow ihre Voten ab:
+                    "Der ungenannte Verfasser hat seinen Gegenstand nach der Natur geschildert, und
+                    ich glaube daß wir wohl alle, leider! von der Wahrheit seiner Schilderung
+                    überzeugt sind. / Aber ich hoffe auch daß, wenn gleich nicht ganz nach den Ideen
+                    des Verfassers, doch zweckmäßig, durch die Herausgabe des
+                    Elementar-Zeichenwerkes, dem Uebel vorerst und zum Theil kan gesteuert werden. /
+                    Wenn alsdann durch die kräftige Anordnung des p Departements, dem gelehrten p
+                    Verfahren der Schüler, die Weisung, der Künstler zu folgen zur Pflicht gemacht
+                    wird, so läßt sich wohl ein guter Fortschritt in dieser Partie für
+                    Menschenbildung erwarten. / Um das Nähere hierüber abzufassen, schlage ich
+                    geh[orsamst] vor, daß die Herrn Mitglieder des Senats zwar Ihre resp: Meinungen
+                    samlen, aber daß das Resultat derselben in einer anzustellenden Conferenz ge-
+                    und abgefaßt werde. / Berlin den 15 April 1806 / FBecherer" - "Ich bin der
+                    Meinung des Geh. Rath Herrn Becherer / D. Berger / den 16 aprill. 6." -
+                    "Derselben Meinung ist G Schadow / Berlin den 16 aprill c." - Nach Hirt folgen
+                    die Voten von Gentz (23. April 1806), Weitsch (undatiert), D. Berger (26. April
+                    1806), Uhden (undatiert) und Frisch (10. Mai 1806). - Zur Beschlussfassung siehe
+                    das Sitzungsprotokoll des Akademischen Senats vom 10. Mai 1806 (ebenda, Bl. 44
+                    ff.).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Daß die jungen Leute <pb n="2"/> bey der bisherigen Art und Weise das Zeichnen zu erlernen,
+                    ihre Zeit verlieren - <lb/>Daß die Lehrer im Durchschnitt weder das Zeichnen
+                    verstehen, noch irgend einen systematischen Gang des Unterrichtes haben.
+                    <lb/>Und daß dieß der Fall nicht bloß bey dem Privatunterricht und bey den
+                    gewöhnlichen Bürger- und Gelehrten-Schulen, sondern selbst bey den
+                    Kunstinstituten und Akademieen der Fall sey. <lb/>weiter: daß es überall an
+                    guten u. zweckmäßigen Vorschriften, - und zwar in jeder Gattung des
+                    Zeichnungsunterrichtes mangelt</p>
+                <p>bin ich mit dem ungenannten Verfaßer der Vorschläge <unclear reason="illegible" cert="">pp</unclear> ganz einverstanden - nicht aber so mit den Ideen, wie
+                    er meint, daß dem Übel gesteuert werden könnte.</p>
+                <p><seg type="comment">
+                        <orig>Die vorstehenden drey <hi rendition="#aq">vota</hi></orig>
+                        <note xml:id="ntqj_4vb_ygb">Von <persName key="ed_hlj_3pd_jx">Becherer</persName>, <persName key="prov_jl3_gpd_4v">Berger</persName> und <persName key="prov_wsc_2hd_4v">Schadow</persName>, siehe oben: Anmerkungen zum Brief.</note>
+                    </seg> sagen und hoffen indeßen, daß das <hi rendition="#aq">Elementar</hi>-Zeichen-Werk dem Mangel sofort auf eine zweckmäßige Weise
+                    abhelfen werde. Dieß ist sehr zu wünschen. Ich kann aber nicht hierüber
+                    Opiniren, bis mir das Werk wird vorgelegt worden seyn, bisdahin muß ich mein <hi rendition="#aq">Votum</hi> hierüber <hi rendition="#aq">suspendiren</hi>.</p>
+				<closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 16<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April
+                        1806.</dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p><ex>Die Voten beziehen sich auf einen im Senat der Kunstakademie zirkulierenden
+                        Aufsatz eines ungenannten Verfassers aus dem Oberschulkollegium zur
+                        Verbesserung des Unterrichts im Zeichnen an den öffentlichen Schulen.
+                        Valentin von Massow hatte am 27. März 1806 den <orgName key="ed_fyw_2vh_4fb">Senat der Kunstakademie</orgName> gebeten, die darin enthaltenen Ideen
+                        und Vorschläge auf ihre "Ausführbarkeit" zu prüfen und ein Gutachten
+                        abzugeben (PrAdK 664, Bl. 26-33):</ex></p>
+                <p>Es giebt keinen Gegenstand des öffentlichen Unterrichts, der seiner hohen
+                    Wichtigkeit ungeachtet, so unter aller Kritik zweck- und planlos auf den Schulen
+                    behandelt wurde, als es, einige wenige Ausnahmen abgerechnet, mit dem
+                    Unterrichte im Zeichnen der Fall ist, und ob es gleich paradox klingt, wenn man
+                    einen Knaben der drey, vier und mehrere Jahre die gewöhnlichen Uebungen im
+                    Zeichnen getrieben und ganz und gar nichts gelernt hat, noch Glück wünschen muß,
+                    wenn er nur nicht seinen Geschmack auf Lebenszeit, verderbt hat, so wird doch
+                    diese Bemerkung denjenigen, der mit dem Innern unserer UnterrichtsAnstalten
+                    bekannt ist, und welcher namentlich weiß, was er von den gewöhnlichen Lehrern
+                    der Zeichenkunde zu erwarten hat, nicht im mindesten auffallen. Tausende von
+                    Stunden werden jährlich mit der Beschäftigung, die man mit dem Namen des
+                    Zeich[n]ens beehrt, im eigentlichsten Sinn des Worts verschwendet, und ist es
+                    eine wahre Seltenheit, wenn unter Hundert jungen Leuten einmal ein einziger
+                    gefunden wird, welcher von demjenigen, was er von der in Rede stehenden Kunst
+                    auf Schulen erlernet hat, auch nur einigen Gebrauch im bürgerlichen Leben machen
+                    kann. Und doch giebt es so wenige Verhältnisse des Lebens, in welchen man die
+                    Unbekanntschaft mit der Zeichenkunde nicht oft schwerlich büssen mußte, und was
+                    Handwerker und Künstler betrift, so können wohl nur sehr wenige genannt werden,
+                    dem die Kenntniß derselben // ohne die nachtheiligsten Folgen ganz fremd sein
+                    dürften, bei den meisten macht sie gar einen wesentlichen Theil ihrer
+                    Beschäftigung aus. Oder kann man sich etwa einen geschickten Mauer oder
+                    ZimmerMeister, einen tüchtigen Tischler, Formschneider, Wagenbauer, oder selbst
+                    einen guten Schlösser, Töpfer, Drechsler, Gärtner u.s.w. denken, der des
+                    Zeich[n]ens ganz unkundig wäre? Der matematischen Instrumentenmacher,
+                    Jouveliere, Gold- und Silber Arbeiter pp gar nicht einmal zu gedenken. Kommen
+                    dergleichen Männer nicht täglich in die Lage, etwas zu zeichnen? Ist es ihnen
+                    möglich ihre eigene Ideen auszuführen oder von den oft gemeinschaftlich mit
+                    ihnen an demselben Werke arbeitenden Handwerkern und Künstlern ausführen zu
+                    laßen, oder nach den ihnen vorgelegten, zum Theil perspectivischen Zeichnungen
+                    zu arbeiten, wenn sie selbst nicht zeichnen können, selbst keine Idee von
+                    perspectivischen Zeichnungen haben? Leider giebt es der Handwerker und Künstler
+                    viele, die vom Zeichnen gar nichts verstehen. Die natürliche Folge ist dann aber
+                    auch diese, daß sie sich bei jeder Gelegenheit von geschickten Einländern und
+                    noch häufiger von den vielen tüchtigen Ausländern den Rang ablaufen sehen.
+                    Geschmackvolle neue Formen zu ersinnen liegt vollends über dem Horizont solcher
+                    Menschen. Indem sie gestern wie heute ihre gestaltlosen Geräthschaften, deren
+                    Absatz ihnen den nothdürftigsten Unterhalt sichert, anfertigen, rügen sie nicht
+                    selten den gebildeten Ein-//länder, seines sonstigen Patriotismus ungeachtet,
+                    sich um jeden Preis die geschmackvollen gearbeiteten Waaren des Auslandes zu
+                    erschaffen. Ich bin überzeugt, daß wenn Zeichenkunde und die damit in genauer
+                    Verbindung stehende Bildung des Geschmacks allgemeiner verbreitet wäre, dies von
+                    unübersehbar guten Folgen für unsere inländischen Manufacturen und Fabriken, für
+                    den gesammten inländischen Kunstfleiß und mithin auch für den National-Wohlstand
+                    sein würde. Und daß es mit der Kenntniß des Zeichnens bei unsern Handwerkern und
+                    zum Theil selbst bei unsern Künstlern nicht beßer bestellt ist, darin liegt der
+                    Grund lediglich in der fehlerhaften Methode, nach welcher das Zeichnen in den
+                    bei weitem größeren Theile der öffentlichen UnterweisungsAnstalten des
+                        Preuß<ex>ischen</ex> Staats gelehrt wird. Denn wie anders soll der künftige
+                    Handwerker und Künstler den ersten Grund in der Erlernung der vorgenannten
+                    Geschicklichkeit legen? Hat er dazu wärend seiner Lehrjahre Zeit? Kann er als
+                    Gesell das Versäumte nachholen? oder wird er etwa als Meister annoch Zirkel,
+                    Lineal und Bleifeder in die ungeübte Hand nehmen? In der Regel gewiß nicht, das
+                    dringende Bedürfniß des Zeichnens zwingt indessen dann und wann, selbst den
+                    rohen Handwerksburschen, in dieser Kunst zu thun, was er vermag. So ist es z. B.
+                    bekannt, daß die Tischler-Gesellen gewöhnlich einen Theil des Sonntags zu den
+                    Uebungen im Zeichnen mit Lineal und Zirkel, oder // zu den sogenannten Reissen
+                    verwenden, daß sie und andere Handwerker die Kunstschulen zu Berlin, Magdeburg,
+                    Breslau pp besuchen. / Auf alle diese späte Uebungen ist aber im Durchschnitt
+                    nicht viel zu rechnen, da der Grund im Zeichnen frühzeitig gelegt, der Sinn für
+                    schöne Formen frühzeitig in der Seele des Knaben geweckt werden muß, wenn
+                    angemessene Früchte erfolgen sollen. / Wie aber ist es möglich, wird man fragen,
+                    auf Schulen den so zweckwidrig betriebenen Unterricht im Zeichnen eine
+                    zweckmäßigere Einrichtung zu geben? / Mich dünkt, dies ist so schwer eben nicht.
+                    Doch bevor ich mich hierüber erkläre, sei es mir erlaubt, die Ursachen
+                    aufzuführen, weshalb nach meinem Erachten so herzlich wenig in Betreff des
+                    Zeichnens auf unsern Schulen geleistet wird. / 1) Die Knaben beschäftigen sich
+                    in der Schule mehr mit dem <hi rendition="#u">Malen</hi>, als mit dem <hi rendition="#u">Zeichnen</hi>. Kaum haben sie einen Theil des menschlichen
+                    Körpers, Nasen, Ohren und dergleichen mit Röthel, Bleystift oder schwarzer
+                    Kreide eine kurze Zeit hindurch eilfertig hingetuscht, so greifen sie den
+                    Eingebungen ihres kindischen Geschmacks folgend, unvermehrt nach den bunten
+                    Bilderchen, und nun besteht ihre einzige Beschäftigung darinn, daß sie
+                    gewöhnlich nach eigener Wahl, Jahre hindurch Häuschen und Blumenstücke,
+                    Landschaften und // geschichtliche Darstellungen, - von welchen letzteren sie,
+                    beiläufig gesagt, in der Regel gar nichts verstehen - abkonterfeien. / Der
+                    Lehrer seiner Seits glaubt seine Pflicht gethan zu haben, wenn er von Zeit zu
+                    Zeit die zerrißenen oder beschmutzten Vorschriften wieder herstellt, hier und da
+                    einige Striche in der Kopie des Lehrlings anbringt und am Ende des Schuljahres
+                    die sogenannten Probezeichnungen überarbeitet. Was Wunder, wenn ein auf diese
+                    Weise unterrichteter Zögling, nach mehrjähriger Unterweisung nicht einmal im
+                    Stande ist, einen runden Huth, welcher an einem Fenster hängt, kenntlich
+                    darzustellen. / 2) Man läßt unsere Knaben in der Schule durchaus nicht solche
+                    Gegenstände zeichnen, die künftig ihren Kunstfleiß beschäftigen werden. Denn was
+                    hilft es den meisten unter ihnen, wenn sie auch noch so fertig Landschaften,
+                    Scenen aus der Geschichte, Frucht- und Blumen-Stücke zu kopiren gelernt haben?
+                    Hievon können nur die künftigen Maler - deren doch immer verhältnißmäßig nur
+                    sehr wenige sind -, die bei weitem größere Zahl der künftigen Handwerker und
+                    Künstler fast gar keinen Gebrauch machen. Letztere müssen, und so viel es
+                    möglich in Hinsicht auf ihre muthmaßliche Bestimmung geübt werden, Auf- und
+                    Grundriße // von Gebäuden, Maschinen, geschmackvollen Hausrath u.s.w. zu
+                    zeichnen, und das wird ihnen dereinst treflich zu Statten kommen. / 3) Man läßt
+                    ferner nur gewöhnlich Handzeichnungen anfertigen; an die, fast jedem Handwerker
+                    und jedem Künstler höchst unentbehrliche Unterweisung im Zeichnen mit Lineal und
+                    Zirkel wird gar nicht gedacht, und vielleicht ist das hiesige Friedrich
+                    Wilhelms-Gymnasium die einzige Anstalt in den Preuß<ex>ischen</ex> Staaten, wo
+                    es an einer Anleitung zu der zuletzt gedachten Beschäftigung nicht fehlt. / 4.)
+                    Es fehlt auf allen nur bekannten Unterweisungs-Anstalten ganz und gar an
+                    Anleitung zu perspectivischen Zeichnungen, und doch ist einige Kenntniß hievon
+                    den meisten Handwerkern und Künstlern ganz unentbehrlich. Wie oft ist es z. B.
+                    nicht der Fall, daß dem mechanischen Instrumentenmacher nicht wirkliche Modelle
+                    sondern Zeichnungen von Maschinen, mit der Auflage zugeschickt worden, darnach
+                    die Maschinen selbst anzufertigen? Ist sein Auge an diese Art der Darstellung
+                    nicht gewöhnt; so wird es ihm unmöglich, dem Auftrage zu genügen. / 5) Bei dem
+                    Unterrichte im Zeichnen, wie er dermalen auf den Schulen beschaffen ist, fehlt
+                    es ganz und gar an einem zum Zweck führenden Plan. / Man giebt den Lehrlingen
+                    die Vorschriften in keiner // gehörigen Folge, wartet nicht, bis sie den
+                    erforderlichen Grad von Fertigkeit in den Elementen erlangt haben, und geht
+                    rasch zu solchen Gegenständen über, die eigentlich noch gar nicht den Anfänger
+                    vorgelegt werden sollten. / 6) Man läßt hiernächst auch nur immer Kopieen von
+                    Kopieen machen; nach der Natur oder nach Gyps wird fast nirgends gezeichnet.
+                    Daher kommt es dann, daß es dem Handwerker, so äußerst schwer wird, entweder
+                    einen Körper auf einer Fläche darzustellen, oder umgekehrt, ein Halb- oder ganz
+                    erhabenen oder einen frei stehenden Gegenstand nach einer Zeichnung
+                    anzufertigen. Endlich wird / 7.) Für die Bildung des Geschmacks der Zöglinge gar
+                    nicht gesorgt. Wenn es unleugbar ist, daß der Geschmack in Gegenständen der
+                    bildenden Künste durch Ansicht schöner Formen gebildet wird, warum legt man dem
+                    Auge des Jünglings nicht überall die schönsten Formen vor? Fehlt es dem Lehrer
+                    in der Zeichenkunde selbst an der Fertigkeit, wenigstens einigermaaßen
+                    vollendete Vorschriften zu liefern; warum bedient er sich nicht lieber
+                    derjenigen Werke, welche auf Kupfertafeln, Abbildungen solcher <unclear reason="illegible" cert="">Statuen</unclear> und anderer Kunstsachen
+                    enthalten, die seit Jahrtausenden für die vorzüglichsten gehalten werden, welche
+                    der menschliche Kunstfleiß hervor gebracht hat. // Daß es äußerst leicht sey,
+                    auf die Bildung des Geschmacks bei den meisten Kindern zu wirken, und ihnen auf
+                    die Lebenszeit ein feines Gefühl für das, was wirklich schön ist, zu geben, ist
+                    keinem practischen Erzieher unbekannt. Und diese Bildung des Geschmacks kann bei
+                    der Mehrzahl der Schüler nur durch das Zeichnen bewirkt werden, da bekanntlich
+                    der jungen Leute nur wenige sind, welche zu den gelehrten Schulen, wo sie
+                    Gelegenheit erhalten, sich durch die Lectüre der Klassiker zu üben, übergehen. /
+                    Der einzige, mir bekannte Mittel, nicht allein der erwähnten Mängeln ein Ende zu
+                    machen, sondern auch einen zweckmäßigen Unterricht im Zeichnen auf unsern
+                    öffentlichen Schulen allgemein zu machen, ist die unter <hi rendition="#u">öffentlicher Auctoritaet zu bewirkende Anfertigung und Einführung eines
+                        guten Zeichenbuchs</hi>. / Man ist berechtigt, ein solches Werk von der
+                    hiesigen Akademie der Künste zu erwarten und ich wüßte in der That nicht,
+                    wodurch sich dieselbe ein größeres und bleibenderes Verdienst erwerben könnte.
+                    Ich nehme mir nicht heraus, genau den Plan vorzuzeichnen, nach welchem dasselbe
+                    angefertiget werden müßte; sondern begnüge mich, nur im Allgemeinen anzugeben,
+                    wie meiner Meinung nach, daßelbe eingerichtet werden müßte, wenn es dem,
+                    wirklich Statt findenden Bedürfniße entsprechen solle. Vorläufig muß ich noch //
+                    bemerken, daß ich, wie sich schon aus dem Obigen ergiebt, hiebei gar nicht und
+                    wenigstens nicht vorzüglich, die Bildung des künftigen Malers oder solchen
+                    Personen, welche die Beschäftigung mit der Zeichenkunst als Sache des Vergnügens
+                    betreiben, vor Augen habe, - wiewol es auch diesen frommen würde, den zu
+                    bezeichnenden Weg zurückzulegen; meine Absicht ist vielmehr, künftige
+                    Profeßionisten und Künstler jeder Art auf Schulen zweckmäßiger und überall so
+                    mit den Zeichnen beschäftigt zu sehen, daß sie von dem Erlernten, sei deßen auch
+                    noch so wenig, einen reellen Gebrauch im wirklichen Leben machen, und sich durch
+                    fortgesetzte Applikation weiter helfen können. / Das angeregte Zeichenbuch
+                    könnte aus drei verschiedenen Heften bestehen: / Das erste sei dem Anfänger in
+                    der Kunst bestimmt, und enthalte auf etwa zehn Kupfertafeln in Quer-Folio gerade
+                    und krumme Linien, Dreiecke, Quadrate, Kreise, Ovale und andere mathematische
+                    Figuren, und zwar jedesmal mit Bezeichnung der Größe, damit dem Lehrling, um die
+                    anschauliche Erkenntniß der Maaßverhältniße zu befördern, aufgegeben werden
+                    könne, die vorliegenden Gegenstände bald um einige Male zu vergrößern bald um
+                    einige Male zu verkleinern; es gebe // eine Anleitung senkrechter Linien zu
+                    errichten, Quadrate und Dreiecke p zu theilen. Stoff zu diesen Uebungen liefert
+                    folgendes <seg type="comment">
+                        <orig>Werk</orig>
+                        <note xml:id="nizm_5w2_zgb">Unterricht zur praktischen Rechenkunst, zu
+                            geometrischen, perspectivischen und optischen Zeichnungen und
+                            Berechnungen nützlich für Anfänger und Liebhaber dieser Wissenschaften
+                            ehemals durch Schübler und Rost verfasset, nunmehr aber umgeändert und
+                            mit Zusätzen vermehrt von J. T. M[ayer]. Mit 23 Kupfertafeln. Nürnberg
+                            und Leipzig 1786.</note>
+                    </seg>: Unterricht zur practischen Rechenkunst zu geometrischen,
+                    perspectivischen und optischen Zeichnungen von J. T. M. Nürnberg und Leipzig
+                    1786; es liefere ferner die Umriße verschiedener einfacher Werkzeuge und solcher
+                    Maschinen, deren man sich im gemeinen Leben häufig bedient, desgl. eine Reihe
+                    von Verzierungen, einige geschmackvolle Muster des gewöhnlichen Hausraths u.s.w.
+                    Den Beschluß mögen einige Vorschriften zu freien Handzeichnungen machen. /
+                    Diesem Hefte kann die Einrichtung gegeben werden; daß davon in jeder niedern
+                    Bürgerschule, selbst wenn der Lehrer des Zeichnens ganz unkundig wäre, und nur
+                    gesunde Augen hätte, Gebrauch gemacht werden könnte. / Wohl dem jungen
+                    Handwerker, wenn er auch nur diese kurze Bahn durchwandelt hat; er wird
+                    wenigstens eine einigermassen sichere Faust, einige Bekanntschaft mit Lineal und
+                    Zirkel, - denn diese beiden Werkzeuge dürfen bei obigem Geschäft keinen
+                    Augenblick aus den Händen gelegt werden - und einen unverdorbenen Geschmack zu
+                    seiner Profeßion mitbringen. / 2) <hi rendition="#u">Das zweyte</hi> aus etwa
+                    15. bis 20. Kupfertafeln bestehende Heft, sei denjenigen gewidmet, die sich
+                    durch fleißige und wiederholte Benutzung des ersten // Hefts die nöthige
+                    Fertigkeit in den ersten Elementen des Zeichnens erworben haben, mithin solchen
+                    Schülern, die zu den kunstvolleren von Gewerken oder den eigentlichen bildenden
+                    Künstlern übergehen wollen, und gewöhnlich eine längere Zeit die Schule
+                    besuchen. Es enthalte / a) eine Sammlung verschiedener Noten des
+                    geschmackvollsten, antiken und modernen Hausraths z. B. Tische, Schränke,
+                    Stühle, Uhrgehäuse pp / b) eine Samlung geschmackvoller Verzierungen für
+                    Gebäude, Hausrath pp / c) Maschinen verschiedener Art, z. B. Mühlen und davon
+                    einzelne Theile, das innere Getriebe von Uhren, Schlößern u.s.w. / d) Einzelne
+                    Theile von Gebäuden, z. B. die Säulen-Ordnung, Auf- und Grundriße von Gebäuden
+                    pp nicht minder Dachstühle, Façaden von Häusern, Brücken pp / e) Allerhand zum
+                    Schmuck dienende Geräthschaften, als Wasen, Kron- und Wandleuchter, Dekorationen
+                    von Zimmern, selbst Ofen und andere dergleichen Geräthschaften. / f) Einige
+                    perspectivische Zeichnungen und / g) Eine fortgesetzte, an das erste Heft sich
+                    genau anschließende Uebung in freien Handzeichnungen. / 3) Das dritte Heft
+                    endlich enthalte die Anleitung zum Zeichnen der schönen menschlichen Gestalt und
+                    liefere eine Reihe von Abbildungen von den Meisterstücken // des Alterthums, und
+                    zwar in der Art, daß dem Zögling jedesmal zuvörderst die einzelnen Theilen der
+                    Figur, als Augen, Nase, Arme pp abbilden muß, ehe er zur Abbildung des Ganzen
+                    übergehen darf. Die Darstellung der vorzüglichsten mythologischen Figuren muß in
+                    diesem Hefte durchaus nicht fehlen, denn es giebt keinen Künstler und selbst nur
+                    wenige Handwerker, welchen einige Kenntniß von der Art, wie die Alten sich ihre
+                    Gottheiten und Heroen dachten, entbehren könnten. Erlaubt es der Raum, so mögen,
+                    wie in dem ersten Hefte einige Landkarten, so in dem gegenwärtigen, einige
+                    Scenen aus der Geschichte, desgleichen einige Landschaften, ihre Stelle finden.
+                    Vorzüglich nützlich aber würde es sein, wenn aus den antiquarischen Werken von
+                    Montfaucon und andern, die verschiedenen Arten von Kleidungsstücken, deren die
+                    Alten sich bedienten, dargestellt würden. Uebrigens würde der geschickte Lehrer
+                    nicht unterlassen müssen, seinen weiter vorgeschrittenen Zöglingen eine
+                    Anleitung zum Zeichnen nach der Natur und nach Gips nebenher zu ertheilen. / An
+                    Stoff zu einem Werke dieser Art fehlt es so wenig, daß vielmehr zu befürchten
+                    ist, die Reichhaltigkeit der freilich in sehr vielen Werken zerstreuten und in
+                    sofern für den gewöhnlichen Lehrer für verlohren zu achtenden Gegenstände werden
+                    den Sammler in // Verlegenheit setzen. / Schließlich bemerke ich nur noch, daß
+                    eine kurze Beschreibung der abgebildeten Gegenstände und eine, von einem Kenner
+                    aufgesetzte Anleitung zum Gebrauche dieses Zeichenbuchs, den Werth desselben
+                    sehr erhöhen würde. Vielleicht könnte bei dieser Gelegenheit, aber in einem
+                    besondern Hefte, auf die Bedürfnisse des andern Geschlechts, Rücksicht genommen,
+                    und eine Sammlung geschmackvoller Muster zum Stricken, Sticken pp veranstaltet
+                    werden. Bei der ganzen Unternehmung würde meines Erachtens in merkantilischer
+                    Hinsicht keine Gefahr sein, da eines Theils schon der Name der Akademie, unter
+                    deren Auspicien dieses Werk in die Welt käme, einen ansehnlichen Absatz eben so
+                    sehr, als das dringende Bedürfniß sichert, andern Theils die Schulen angehalten
+                    werden könnten, sich dasselbe aus ihren Fonds anzuschaffen. / Noch muß ich
+                    anführen, daß es auch solchen jungen Leuten, welche sich nicht den Handwerken
+                    oder den bildenden Künsten widmen, sondern zu den Studien auf Universitaeten
+                    übergehen, sehr nützlich sein würde, wenn sie den bezeichneten Weg durchwandelt
+                    hätten. Sie würden dadurch als künftige Juristen und vorzüglich als Kameralisten
+                    um so besser in den Stand gesetzt werden, die Obliegenheiten ihres Amts, bei
+                    welchem es nicht selten vorkömmt, über Grundriße von Gebäuden, Plane // von
+                    Ländereien u.s.w. zu ertheilen, hinlänglich zu genügen.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

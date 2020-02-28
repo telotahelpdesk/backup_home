@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kgs_bnc_mgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Kuratoriums der Bauakademie. Berlin, 20. April 1799</title>
+                <title>. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp><note type="remarkResponsibility">Editor</note></resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno type="shelfmark">I. HA Rep. 76 alt Ältere Oberbehörden für
+                            Wissenschaft, Kunst, Kirchen- u. Schulsachen IV Nr. 30: Acta wegen des
+                            dem Herrn Hofrath Hirt übertragenen Unterrichts der critischen
+                            Geschichte der Baukunst 1799/1800, fol. 1r-v (Aktenabschrift)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebene Folio</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Christiane Salge, Hirt-Bd. II, S. 129 (Regest)</bibl>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GStA PK</institution>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark">I. HA, Rep. 76 alt IV Nr. 1, fol. 154r-v
+                                        (Aktenabschrift mit 4 Unterschriften "Nomine
+                                        Curatorii")</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_ufl_3jc_mgb">Bauakademie zu Berlin - Kuratorium</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-04-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Adresse: An / den Herrn Hofrath Hirt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine/>
+                    </address>
+                    <dateline>Berlin den 20<hi rendition="#sup"><hi rendition="#u">sten</hi></hi>
+                        April 1799.</dateline>
+                    <salute/>
+                </opener>
+				<p>Der Unterricht bei der <orgName key="ed_tc3_hfc_b1b">Königlichen Bau-<hi rendition="#aq">Academie</hi></orgName>, wird mit dem 1<hi rendition="#sup"><hi rendition="#u">sten</hi></hi>
+                    <hi rendition="#aq">October</hi> d<ex>iesen</ex> J<ex>ahres</ex> seinen Anfang
+                    nehmen und es ist dabey festgesetzt worden, daß vom 1<hi rendition="#sup"><hi rendition="#u">sten</hi></hi>. <hi rendition="#aq">October</hi> bis Ende
+                        <hi rendition="#aq">Maertz</hi> jeden Jahres, die erste Hälfte, in dem
+                    darauf folgenden Jahre aber und zwar in dem nemlichen Zeitraum die 2<hi rendition="#sup"><hi rendition="#u">te</hi></hi> Hälfte von der <bibl sameAs="ed_exn_cqb_kgb">critischen Geschichte der Bau-Kunst</bibl>, nach
+                    Anleitung des <hi rendition="#aq">academischen <orgName key="ed_fwf_4q3_mgb">Directorii</orgName></hi>, wöchentlich 3 Tage, nemlich Dienstags,
+                    Freytags und Sonnabends Nachmittags von 3 bis 4 Uhr gelesen werden soll.</p>
+                <p>Da nun nach Seiner König<ex>lichen</ex>
+                    <persName key="prov_bxf_jt5_fv">Majestät</persName> allerhöchsten Befehl, dem
+                    Herrn Hofrath <hi rendition="#aq">Hirt</hi> die Lesung dieses <hi rendition="#aq">Collegii</hi> für das ihm bereits von seiner
+                        König<ex>lichen</ex>
+                    <persName key="prov_bxf_jt5_fv">Majestät</persName> ausgesetzte Gehalt
+                    übertragen werden soll; so wird demselben solches zur Nachricht und Achtung
+                    bekannt gemacht, und will das <orgName key="ed_ufl_3jc_mgb"><hi rendition="#aq">Curatorium</hi> der König<ex>lichen</ex> Bau-<hi rendition="#aq">Academie</hi></orgName> seine versprochene Uebersicht der critischen
+                    Geschichte der Bau-Kunst, nach welcher er seine <bibl sameAs="ed_exn_cqb_kgb">Vorlesungen</bibl> halten wird, des baldigsten erwarten. <pb n="2"/></p>
+                <p>Uebrigens soll von der <orgName key="ed_fwf_4q3_mgb"><hi rendition="#aq">Direction</hi> der Bau-<hi rendition="#aq">Academie</hi></orgName> dem
+                    p <hi rendition="#aq">Hirt</hi> zu seiner Zeit die Liste derjenigen mitgetheilt
+                    werden, welchen der freye Zutritt zu diesen Vorlesungen vom <hi rendition="#aq"><orgName key="ed_ufl_3jc_mgb">Curatorio</orgName></hi> gestattet
+                    worden.</p>
+                <p>Berlin p</p>
+				<closer>
+					<salute/>
+					<signed><hi rendition="#aq">Nomine <orgName key="ed_ufl_3jc_mgb">Curatorii</orgName></hi>
+                        <lb/><hi rendition="#aq"><persName key="prov_gtp_ppt_fv">Fr v
+                                Heinitz</persName></hi>
+                        <hi rendition="#aq"><persName key="ed_c4s_vqd_jx">v
+                            Schroetter</persName></hi></signed>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

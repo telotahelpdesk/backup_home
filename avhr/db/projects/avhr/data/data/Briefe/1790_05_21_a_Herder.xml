@@ -1,0 +1,390 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_w32_jry_v5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Gottfried Herder. Rom, den 21. Mai 1790. Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska, Krakow; vormals: Preußische
+                            Staatsbibliothek zu Berlin</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">[keine Signatur vergeben]</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys(1759 - 1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1790-05-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hy4_jx2_rs">Herder, Johann Gottfried(1744 - 1803)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>P Italie</addrLine>
+                    <addrLine>An</addrLine>
+                    <addrLine>Herrn GeneralSuperintendent</addrLine>
+                    <addrLine>Herder</addrLine>
+                    <addrLine>in</addrLine>
+                    <addrLine>
+                        <placeName key="prov_u24_mmg_f5">
+                            <hi rendition="#u">Weimar</hi>
+                        </placeName>
+                    </addrLine>
+                    <addrLine>P. <hi rendition="#u">
+                            <placeName key="prov_m44_bm2_1v">Nürnberg</placeName>.</hi>
+                    </addrLine>
+                    <addrLine> Mit Postvermerken und Siegel.</addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 21<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> May 1790.</dateline>
+                    <salute/>
+                </opener>
+                <p>Wie oft ich mich Ihrer erinnere, darf ich Ihnen wohl nicht sagen. Es ist mein
+                    angenehmster Traum, wenn ich mir die theuren Augenblicke in meine Phantasie
+                    zurückrufen kann, welche ich mit Ihnen hier so offen und vertraulich durchlebt
+                    habe. Nicht selten suche ich Trost und Aufmunterung in dem Gedanken, Herdern
+                    persönlich gekannt zu haben, und gewiß nicht ganz von ihm vergeßen zu seyn. Wenn
+                    ich Ihnen bißher nicht schrieb, so geschah es blos aus Furcht, Ihnen unter der
+                    Menge von Beschäftigungen nicht beschwerlich zu fallen; aber zuweilen müßen Sie
+                    es schon dulden, daß ich es thue, daß ich mich <unclear>Rathes</unclear> bey
+                    Ihnen erhole, und den Zauber festhalte, der meinen Geist und mein Herz so eng an
+                    Ihre Person knüpfet. Vor allem muß ich Sie an das mir so theuere Sprechen
+                    erinnern, bey vorkommender Gelegenheit mir den I. und II<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Band der <bibl sameAs="prov_h1p_5mz_v5">Ideen</bibl>, und iezt wohl auch
+                    den <seg type="critical">
+                        <orig>IV<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> Band</orig>
+                        <note xml:id="nijv_pnz_v5">Der 4. Band erschien erst im Herbst 1791. Ein
+                            geplanter 5. Band kam nicht zustande.</note>
+                    </seg> derselben zu übersenden. Wie sehr ich auch die <bibl sameAs="prov_z45_p4z_v5">zerstreuten Blätter</bibl> dabey wünschte, darf ich
+                    Ihnen nicht sagen.</p>
+                <p>Ich habe einen <seg type="critical">
+                        <orig>kleinen Aufsatz</orig>
+                        <note xml:id="nww5_km2_1v">Möglicherweise ist Hirts Aufsatz "Übersicht der
+                            Geschichte der Denkmäler bey ältern und neuern Völkerschaften" gemeint,
+                            der in der Zeitschrift "Italien und Deutschland", 1. Bd., 3. Stück,
+                            1790, S. 3-26, erschien. Allerdings enthält er keine Widmung für Herder.
+                            Entweder war eine solche von Herder nicht gewünscht, oder es handelt
+                            sich um einen anderen, nicht im Druck erschienenen Aufsatz. </note>
+                    </seg> gemacht, den ich Ihnen zuschrieb, und den <persName key="prov_oxg_rvh_55">Fräulein von Goechhausen</persName> Ihnen übergeben wird. Ich glaubte, daß
+                    der Gegenstand <pb n="2"/> Sie intereßiren könnte; und in Wahrheit ich fand ein
+                    Bedürfniß in mir, eine Gelegenheit zu haben, mich mit Ihnen wieder einmal über
+                    einen intereßanten Gegenstand zu unterhalten. Finden Sie den Aufsaz der
+                    öfentlichen Bekanntmachung werth, so bitte ich Sie denselben <seg type="critical">
+                        <orig>an H. <persName key="prov_j22_nb3_g5">Moritz</persName> zu
+                            übersenden</orig>
+                        <note xml:id="nmd1_zm2_1v">Für die Zeitschrift "Italien und
+                            Deutschland"</note>
+                    </seg>.</p>
+                <p>Seit meiner Rückreise von <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                    machte ich verschiedene andere Aufsäze, obwohl mir diesen Winter bis iezt wenig
+                    Muße gelaßen ward. Dieselben betreffen meistens Gegenstände meiner Reise, als
+                        <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_bwx_1fz_v5">Pæstum</bibl>
+                        </orig>
+                        <note xml:id="ntjt_ybz_v5">Aloys Hirt: V. Über Paestum. Neapel, im October
+                            1789. In: Italien und Deutschland in Rücksicht auf Sitten, Gebräuche,
+                            Litteratur und Kunst. Eine Zeitschrift. Hg. von K[arl] P[hilipp] Moritz
+                            und A[loys] Hirt. 1. Bd., 3. Stück, Berlin: Im Verlag der Königlich
+                            Preußischen akademischen Kunst- und Buchhandlung, 1790, S.
+                            80-100.</note>
+                    </seg>, <seg type="critical">
+                        <orig>
+                            <seg type="critical">
+                                <orig>
+                                    <bibl sameAs="prov_dyg_5fz_v5">die Pomptinischen Sümpfe</bibl>
+                                </orig>
+                                <note xml:id="nck3_r1z_v5">Aloys Hirt: II. Über den wirklichen
+                                    Zustand der Pomtinischen Sümpfe. An Fräulein von G. [Rom, den 8.
+                                    Jenner 1790.] In: Italien und Deutschland in Rücksicht auf
+                                    Sitten, Gebräuche, Litteratur und Kunst. Eine Zeitschrift. Hg.
+                                    von K[arl] P[hilipp] Moritz und A[loys] Hirt. 1. Bd., 3. Stück,
+                                    Berlin: Im Verlag der Königlich Preußischen akademischen Kunst-
+                                    und Buchhandlung, 1790, S. 27-46.</note>
+                            </seg>, <bibl sameAs="prov_slg_yfz_v5">Pompeja</bibl>
+                        </orig>
+                        <note xml:id="ns2m_hbz_v5">Aloys Hirt: III. Über Pompeja. Neapel, im Oktober
+                            1789. In: Italien und Deutschland in Rücksicht auf Sitten, Gebräuche,
+                            Litteratur und Kunst. Eine Zeitschrift. Hg. von K[arl] P[hilipp] Moritz
+                            und A[loys] Hirt. 1. Bd., 3. Stück, Berlin: Im Verlag der Königlich
+                            Preußischen akademischen Kunst- und Buchhandlung, 1790, S. 47-69.</note>
+                    </seg>, eine <seg type="critical">
+                        <orig>Sammlung sogenannter hetrurischer Gefäße in <placeName key="prov_b1g_4pz_v5">Nola</placeName>
+                        </orig>
+                        <note xml:id="nppb_swy_v5">Im Besitz des Marchese Vivenzio (nicht wie Hirt
+                            fälschlich angibt: Juvenzio) in Nola befand sich eine der bedeutendsten
+                            Sammlungen altgriechischer Vasen, darunter eine der schönsten Vasen, auf
+                            der die "Eroberung von Troja" dargestellt ist.</note>
+                    </seg> u. f. Ich habe die Manuscripte bereits an <persName key="prov_j22_nb3_g5">Moritz</persName> abgeschickt. Wenn Sie wohl je ein Blatt dieses
+                    unglücklichen <bibl sameAs="prov_xwk_spz_v5">Journals</bibl> zu sehen bekommen,
+                    wünschte ich wohl sehr, von Ihnen ein ganz aufrichtiges Wort, wie Sie es gewöhnt
+                    sind, darüber zu vernehmen. Diesen Sommer soll mit ganzer Kraft an der <seg type="critical">
+                        <orig>Geschichte der Architektur der Alten</orig>
+                        <note xml:id="nds3_5qz_v5">Das grundlegende Werk von Hirt erschien erst
+                            1809: Die Baukunst nach den Grundsätzen der Alten. Von A. Hirt,
+                            königlich preussischem Hofrath, ordentlichem Mitgliede der königlichen
+                            Akademie der Wissenschaften, und Professor an den Akademieen der
+                            bildenden Künste und der Baukunst. Mit 50 erläuternden Kupfertafeln.
+                            Berlin: In der Realschulbuchhandlung 1809. XXII, 242 S., 2°.</note>
+                    </seg> gearbeitet werden. <persName key="prov_ijp_xvr_xr">Zoega</persName>
+                    intereßirt sich dafür, und will mir darin so viel er kann, seinen Beystand
+                    leisten. <seg type="critical">
+                        <orig>
+                            <persName key="prov_tsc_grz_v5">Prof. Meyer</persName>
+                        </orig>
+                        <note xml:id="nds3_5qz_v6">Johann Heinrich Meyer lebte seit 1784 in Rom,
+                            arbeitete als Kopist und Cicerone und gehörte zur "deutschen Kolonie".
+                            1786 traf er Goethe in Rom, später in Neapel auch die Herzogin Anna
+                            Amalia von Sachsen-Weimar und Eisenach und Herder. Goethe vermittelte
+                            ihm 1789 ein zweijähriges Stipendium Herzog Carl Augusts von
+                            Sachsen-Weimar und Eisenach und bot ihm eine Stellung als Lehrer an der
+                            Freien Zeichenschule in Weimar an, die Meyer 1795 antrat. 1807 wurde er
+                            deren Direktor. 1795/96 reiste Meyer zu Studienzwecken erneut nach
+                            Italien. </note>
+                    </seg> und Ich sind viel bey ihm, und nicht selten sind Sie der Gegenstand
+                    unserer Gespräche. <persName key="prov_ijp_xvr_xr">Zoega</persName> ist ein
+                    Koloß von Kenntnißen, je näher man an <pb n="3"/> ihn kömt, desto größer wird
+                    er. Der poetische <persName key="prov_ijp_xvr_xr">Meyer</persName> verläßt uns
+                    am Ende dieses Monats, er will mit drey Mahlern den Sommer in den Alpen
+                    zubringen.</p>
+                <p>Ich war gestern bey <persName key="prov_tlx_cyr_xr">Trippel</persName>. <seg type="critical">
+                        <orig>Ihre <rs type="artwork" key="prov_vtb_fxn_fz">Büste</rs>
+                        </orig>
+                        <note xml:id="nywl_gvz_v5">Es handelt sich um die 2. Fassung der
+                            Marmor-Büste von Herder von 1790, die gegenüber der ersten Fassung von
+                            1789/90 Herder stark idealisiert als antiken Philosophen zeigt. Mit der
+                            Arbeit an der ersten Fassung, die der Herzog Karl August über seine
+                            Mutter Anna Amalia in Rom in Auftrag gegeben hatte und die ein Pendant
+                            zur Goethe-Büste darstellen sollte, begann Trippel Ende Februar 1789.
+                            Herder war mit seiner Darstellung allerdings unzufrieden und verlangte
+                            von Trippel Nachbesserungen (siehe dazu seinen Brief an Trippel in der
+                            folgenden Anmerkung). Die neu gearbeitete Büste kam beschädigt in Weimar
+                            an und gelangte in Goethes Besitz. Für den Herzog wurde eine Replik
+                            angefertigt, 1796 fertiggestellt. Diese Porträtbüste von Herder fand
+                            ebenso wie die Büste von Goethe später Aufstellung in der herzoglichen
+                            Bibliothek in Weimar (im Besitz der Klassik Stiftung Weimar, Herzogin
+                            Anna Amalia Bibliothek). Vgl. auch:
+                            http://www.goethezeitportal.de/wissen/projektepool/goethe-italien/rom-kuenstler/rom-trippel.html.
+                            - Eine Büste Herders von Trippel befindet sich ebenfalls im Schloss
+                            Arolsen; eine Bronzebüste in Mohrungen/Ostpreußen (Sign.: ALEX. TRIPPEL
+                            FECIT IN ROMA. 1790).</note>
+                    </seg> ist bis auf das Schleiffen fertig. Er hat in dem Marmor die <seg type="critical">
+                        <orig>Erinnerungen benüzt, die er in einem Briefe aus <placeName key="prov_bfn_t1v_35">Mayland</placeName> von Ihnen selbst
+                            empfieng</orig>
+                        <note xml:id="nqpw_rfv_w5">Der Brief von Herder an Alexander Trippel,
+                            Mailand, 15. Juni 1789, hat folgenden Wortlaut: "Hochgeschätzter,
+                            HochzuEhrender Herr, / Ehe ich Italien verlaße, kann ich nicht umhin,
+                            noch einige Zeilen an Euer HochEdel<ex>geboren</ex> zu erlaßen, u. Sie
+                            bei meiner Buste um einige kleine Änderungen zu bitten, über die ich vor
+                            meiner Abreise gern mit Ihnen gesprochen hätte, wozu aber die Zeit zu
+                            kurz war. Ich lege sie Ihnen, als dem Schöpfer u. Künstler der Buste,
+                            zur Beurtheilung vor, u. diese allein mag darüber entscheiden, ob meine
+                            Bitte statt haben könne, oder nicht. / Zuerst wünschte ich, daß die
+                            Schultern nicht so breit ausfielen: der Kopf bekommt dadurch etwas
+                            koloßalisches u. Gigantisches, welches in einer großen Höhe zwar Wirkung
+                            machte, aber in einer Höhe, wie unsre Busten meistens gesetzt werden,
+                            scheint es mir drückend u. schwer zu werden. Ich weiß nicht, ob Göthe
+                            seine Buste coloßal bestellt hat; meine ist aber selbst größer geworden,
+                            als die seine. Meine Bitte ist vielleicht unnöthig, weil E<ex>uer</ex>
+                                H<ex>ochedelgeboren</ex> bei dem Marmor vielleicht eine etwas
+                            kleinere Form zu nehmen gesonnen waren; u. in diesem Fall bitte ich um
+                            Verzeihung. / Zweitens auf der Stirn wünschte ich etwas mehr Haar. Jetzt
+                            ist sie fast kahl in der Buste, welches mich gar zu philosophisch macht;
+                            das Haar, das über das Ohr in einer Locke fällt, wünscht' ich dagegen
+                            etwas dünner gehalten, damit es mit dem Haar auf der Stirn in Verhältniß
+                            käme. - Drittens dünkt mich die Augenbrane [!] etwas zu gespannt, u.
+                            schräg sich hinaufziehend; ich habe sie, wie mich dünkt, etwas gerader
+                            u. sanfter. Auch wird das ganze Gesicht dadurch etwas Einnehmenderes
+                            bekommen, wenn diese Spannung aufhöret. - Verzeihen Sie, bester Mann,
+                            daß ich die Bitten an Sie thue. Jedem ist doch sein Gesicht u. seine
+                            Person lieb; man ärgert sich, wenn darüber etwas gesagt, u. freuet sich
+                            in die Seele des Künstlers, wenn es in Allem, Allem als Muster der
+                            Vollkommenheit gelobt wird. Insonderheit wünscht man doch immer, daß das
+                            Bild einen guten Eindruck von der Person gebe, woran es schon 2.
+                            früheren Busten, die in Weimar von mir existiren, sehr fehlet. Mich
+                            dünkt, der Contrast zwischen mir u. Göthe sei etwas zu stark: er sieht
+                            wie ein junger Alexander oder Apollo aus, u. ich gegen ihn wie ein
+                            kahler, trockner Alter. Verzeihen Sie, bester Mann, meine Bitte; Sie
+                            wißen, wie hoch ich Sie schätze u. wie eifrig-gut ichs mit einem so
+                            braven Künstler als Sie sind meine. Ich sehe Ihr Werk ordentlich als das
+                            Meinige an, u. ich möchte gern, daß Ihr Ruhm auch durch meine geringe
+                            Buste in Deutschland ein lebendiges, ewiges Monument erhielte. Dies wird
+                            auch gewiß seyn: denn so vortreflich die Ähnlichkeit, so fein die Züge,
+                            so glücklich die Drapperie ist: so wird sich auch durch diese
+                            angedeuteten kleinen Stücke im Marmor das Gesicht noch mehr beleben, daß
+                            jeder es mit Freude betrachtet. Leben Sie wohl, H<ex>ochgeschätzter</ex>
+                                H<ex>err</ex>, haben Sie Dank für Ihre an mich gewandte Mühe, u. für
+                            Ihre mancherlei mir erzeigte zutrauliche Güte. Wenn ich je etwas zu
+                            Ihrem Vortheil thun kann, will ichs gern thun, u. werde immer mit
+                            Hochachtung an Sie gedenken. Uebermorgen gehe ich von hier weiter; aber
+                            nicht über die Schweiz, sondern über die Alpen; indeßen werde ich mich
+                            Ihres jungen braven Schweizers doch erinnern, so gut ich kann. Leben Sie
+                            wohl, würdiger Mann, verzeihen Sie die Freiheit dieses Briefes u.
+                            bleiben mir wohl gewogen. / Ihr ergebenster Herder" (Herder Briefe, Bd.
+                            6, 1981, Nr. 91, S. 162-163). - In der Antwort Trippels aus Rom vom 9.
+                            September 1789 heisst es dazu: "Dero schätzbare Zuschrifft habe ich zu
+                            seiner Zeit richtig erhalten vom H[errn] R[at] Reiffenstein, würde sie
+                            gleich beantwort haben wenn ich nicht durch ville umstände währe dafon
+                            verhindert worden. Die anmerckungen die Sie gemacht haben über Ihre
+                            Buste, sind wir zimlich übereins, und das meiste dafon habe ich schon im
+                            Modell verendert, oben auf dem Kopff habe ich mehre Harre aufgetragen,
+                            und hat die Würckung gethan, das die seitten Harre nicht mehr zu foll
+                            scheinen, in deme sie sich mit einander vereinigen, und macht, das das
+                            gantze dadurch ein Jüngeres ansehen bekomt. Die Schultern werde ich ein
+                            wenig schmeiller halten, für al das das sie nicht breitter ist als des
+                            H. von Goeden seine, die höhe ist gleich, und ich glaube, das sie
+                            Colasaisch aussehen kan der schade nicht groß sein, und besser that als
+                            wan sie klein und Mager aussehen würden, die Köpffe sind um keinen
+                            Viertels Zoll größer als die Natur. Die Augenbraun sind schon verendert
+                            und thut gutte würckung, es würd alles in Marmor weicher und sanfter
+                            gehalten, das das gantze, ein gantz anderes ansehen bekommen würd. Dero
+                            HochEdlen können versichert sein, das ich mein möglichsten Fleiß dabey
+                            anwenden werde, weillen es mir eben so vill daran gelegen ist wie Ihnen
+                            und meine Ehre würde darunter leiden. Sie ist schon in Marmor
+                            angefangen, und allem anschein nach so würd es vortrefflich ausfallen,
+                            bis dahin hat sich noch nicht den geringsten Fleck entdeckt, die Farb
+                            ist Wahre und geht in den Gelblichten Thon aus, das sie mit dem H. von
+                            Göthe seiner, gutt Harmonieren würd" (zitiert nach: Günter Arnold:
+                            Ungedruckte Briefe aus Herders Nachlaß. In: Impulse. Aufsätze, Quellen,
+                            Berichte zur deutschen Klassik und Romantik, Folge 13, Berlin und
+                            Weimar1990, S. 289-290). </note>
+                    </seg>. Er arbeitet iezt an einem <rs type="artwork" key="prov_dhr_wzn_fz">kleinen Monumente</rs> für <seg type="critical">
+                        <orig>
+                            <persName key="prov_erg_rvz_v5">Geßner</persName>
+                        </orig>
+                        <note xml:id="nds3_5qz_v7">Trippel schuf das Denkmal für Salomon Geßner
+                            1792/93 . Es wurde im Züricher Platzspitz-Park aufgestellt als eines der
+                            ersten patriotischen Denkmäler der Schweiz</note>
+                    </seg>. <persName key="prov_wmk_lxw_g5">Frau Angelica</persName> hat diese Woche
+                        <seg type="critical">
+                        <orig>
+                            <persName key="prov_h52_5vl_1v">drey englische Mädchen</persName>, <rs type="artwork" key="prov_c33_s24_fz">drey
+                                            Schwestern
+                            
+                            auf ein Tuch vortrefflich
+                                gemalt</rs>
+                        </orig>
+                        <note xml:id="nkks_q5f_1v">An William Hamilton in Neapel schreibt Angelika
+                            am 17. Mai 1790: "[…] have just finished the heads of the 3 Miss Coutts.
+                            all 3 in one picture" (Maierhofer: Angelica Kauffmann. Briefe, S. 150,
+                            mit folgendem Kommentar: "anscheinend Studien zu dem Gruppenbildnis der
+                            Töchter des Londoner Bankiers Thomas Coutts (1790, Privatbesitz […] sie
+                            stellte das große Gemälde im Januar 1791 fertig und schickte es am 4.
+                            Juni ab, nachdem es am 8. April bezahlt worden war […]. Die drei jungen
+                            Frauen sind alle gleich in Weiß gekleidet, geschmückt als Musen und
+                            Grazien; sie sitzen bzw. stehen in einer Parklandschaft am Ufer eines
+                            Sees vor einer Minerva-Büste, eine hält einen Efeukranz […]" (zitiert
+                            nach ebd., S. 421).</note>
+                    </seg>. Ich sah <subst>
+                        <del rendition="#ow">S</del>
+                        <add>s</add>
+                    </subst>ie diesen morgen; sie ist immer die bescheidene, arbeitsame, geschickte
+                        <persName key="prov_wmk_lxw_g5">Angelica</persName>. <seg type="critical">
+                        <orig>Sie hat seit Ihrer Abreise eine neue Gallerie von Gemälden
+                                    verfertigt</orig>
+                        <note xml:id="nthq_bjf_1v">Angelika Kauffmann schreibt am 5. August 1788 an
+                            Goethe: "Sie verlangen zu wissen was ich arbeite -. folgende stücke
+                            denke ich, habe ich fertig - das Portrait vor die Lady Harvey - die
+                            Kalmücken - das portrait von dem Cardinal Rezzonico vor den Senator, und
+                            heute bin ich mit dem Virgil zu ende gekommen, […] die zwey aus
+                            Shakespear habe ich auch angefangen, auch eins vor den Herzog von
+                            Churland - und bald mus ich auf das grosse stück bedacht sein vor die
+                                R<ex>ussische</ex> Keis<ex>erin</ex>. ich habe so ziemlich
+                            gearbeitet und suche es so gut zu machen als mier möglich" (Maierhofer:
+                            Angelica Kauffmann. Gesammelte Briefe, S. 113). - Die Herausgeberin der
+                            Briefe, Waltraud Maierhofer, hat die erwähnten Gemälde wie folgt
+                            identifiziert: "das Portrait vor die lady Harvey] laut "Memoria" wurde
+                            das Porträt der Lady Hervey mit ihrer Tochter Anfang Mai abgeschlossen
+                            und Ende August nach London geschickt ("Memoria", S. 44, Nr. 147) […]
+                            die Kalmücken] hier für russische Reisende und Maler? […] das Portrait
+                            von dem Cardinal Rezzonico] Bildnis Giovanni Battista Rezzonico (nicht
+                            ermittelt), der bereits 1783 gestorben war, für dessen Bruder A. F.
+                            Rezzonico […] dem Virgil] 'Vergil liest Octavia und Augustus aus der
+                            Aeneis vor' (St. Petersburg, Eremitage […] die zwey aus Shakespear] s.
+                            Brief vom 24. Januar 1789 [dort : Das "Memorandum" verzeichnet im
+                            Februar 1789 den Verkauf von 'Valentine und Proteus mit Sylvia' (aus
+                            'Two Gentlemen of Verona') und 'Troilus und Cressida' an Boydell in
+                            London bzw. an Thomas Jenkins. […] Die Gemälde 'Valentine, Proteus,
+                            Sylvia und Julia imWald' (1788, Wellesley College, Massachusetts, Jewett
+                            Art Center) […] und 'Troilus und Cressida' (West Sussex, Petworth House
+                            Collection, The National Trust)] […] eins vor den Herzog von Churland]
+                            Das 'Memorandum' verzeichnet im Oktober zwei Gemälde für Peter Biron:
+                            'Telemachus und die Nymphen' und 'Venus und Adonis' […] das grosse
+                            Stück...] 'Deidameia hält Achill zurück' mit lebensgroßen Figuren für
+                            Katharina II. (heutiger Ort nicht ermittelt, Ölbozzetto, 1789 […] Das
+                            Original war ungewöhnlich groß, laut 'Memoria' 'grande largo palmi
+                            romani 14 ½, alto palmi 12' ('Memoria', S. 50, Nr. 168. Laut ebd. Anfang
+                            Juli (1789) nach Russland verschickt, am 8. Mai 1790 bezahlt […]; dort
+                            auch folgende Beschreibung: '….representing Achilles being discovered
+                            whilst disguised in Feminine attire, he is with the maidens of Deidameia
+                            were showing some valuable merchandise to the Princess amongst which are
+                            an helmet, a shield and a sword; whilst the maidens were admiring the
+                            rich wares und jewels, young Achilles suddendly picked up the shield and
+                            brandished the sword, threatening playfully the maidens, and in this way
+                            he was found out by Ulysses who had been trying to find him. The moment
+                            of the picture is when Princess Deidamaia, half kneeling is holding back
+                            Achilles and begging Ulysses not to take him away from her court, some
+                            of the maidens are rightened and the other's surprised. The group is
+                            well formed and expresses the subject clearly. The said picture is a
+                            pendant to another one of Servius Tullius …' (Ebd., S. 157; s.
+                            'Memoria', S. 50f., Nr. 168f.)" (zitiert nach: Maierhofer: Angelica
+                            Kauffmann. Gesammelte Briefe, S. 394-395). - In einem Brief an William
+                            Hamilton, 17. Mai 1790, wird desweiteren ein Portrait des Earl of
+                            Bristol erwähnt (Maierhofer: Angelica Kauffmann. Briefe, S. 150, mit
+                            folgendem Kommentar: "Kauffmann porträtierte Frederik Hervey, Bischof
+                            von Derry, IVth Earl of Bristol (1790; 1950 bei Christie's an Unbekannt
+                            versteigert) […] In nachdenklicher Pose sitzt er neben einer Marmorbüste
+                            des Mäcenas auf einem reliefverzierten Podest […]" (zitiert nach ebd.,
+                            S. 420-421). </note>
+                    </seg>; unter andern ein Stück für die <persName key="prov_gvp_4wz_v5">Kaiserin
+                        von Rußland</persName>, wo die Figuren in Lebensgröße. Es stellet den <seg type="critical">
+                        <orig>
+                            <persName key="prov_pvd_4jb_w5">Achilles </persName>unter den
+                            Mädchen</orig>
+                        <note xml:id="nhkd_h5f_1v">Siehe die vorangehende Anmerkung.</note>
+                    </seg> vor. Befragen Sie die <persName key="prov_qn2_zhp_5r">Gnädigste
+                        Herzogin</persName> darüber.</p>
+                <p>Behalten Sie mich in Ihrem Andenken, und Glauben, daß <persName key="prov_ijp_xvr_xr">Zoega</persName> und ich nicht wenig neugierig sind,
+                    was Sie in der Welt von Ihrer italienischen Reise liefern werden. Disponiren Sie
+                    mit mir, denn ich bin unwandelbar Ihr wahrer</p>
+                <closer rend="paragraph">
+                    <salute>Verehrer u. Freund</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

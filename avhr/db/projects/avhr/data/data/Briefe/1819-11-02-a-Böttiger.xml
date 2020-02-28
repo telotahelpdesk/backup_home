@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_j3d_3bf_vw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 2. November 1819.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 34</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1819-11-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_tm3_npk_vw"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Herrn Hofrath / Böttiger / in / <hi rendition="#u">Dresden</hi>. /
+                            Mit Poststempel "BERLIN / 2 NOV" / mit Postvermerken / mit
+                            Siegel</addrLine>
+                    </address>
+                    <dateline>Berlin den 2 Nov. 19.</dateline>
+                    <salute>Lieber alter Freund!</salute>
+                </opener>
+                <p>Auf <seg type="comment">
+                        <orig>Ihre Zuschrift vom 29 Oct<ex>ober</ex>
+                        </orig>
+                        <note xml:id="nrmw_gkw_m1b">Brief erschlossen:
+                            [1819-10-29x-v-Böttiger].</note>
+                    </seg>antworte ich sogleich, aber mit der Post, weil ich iezt keine Gelegenheit
+                    weiß, und sie in dieser Jahreszeit seltener wird. <bibl sameAs="ed_r5b_psk_vw">Ihr Unternehmen für bildliche Alterthumskunde</bibl> gefällt mir, und es
+                    ist zu wünschen, daß das Publikum Liebe dafür faße. Gerne werde ich mein Weniges
+                    dazu beytragen. Noch habe ich meinen Vorrath nicht gesichtet, und möchte nur
+                    bald erfahren, was Sie etwa für <seg type="comment">
+                        <orig>das erste Heft</orig>
+                        <note xml:id="ny4g_c5k_vw">Das erste Heft erschien 1820 und enthält zwei
+                            Aufsätze von Hirt: Medea und die Peliaden (S. 161-168); Ueber Material,
+                            Technik und den Ursprung der verschiedenen Zweige der Bildkunst bei den
+                            Griechischen und damit verwandten Völkern (S. 207-266).</note>
+                    </seg> bedürfen könnten, sowohl in Bogenzahl, als in Hinsicht des Stoffes. Ich
+                    könnte Ihnen Erklärungen – eine – zwey – mit den Zeichnungen zum Stich
+                    zuschicken - Dann Beyträge zur alten Kunstgeschichte. Ich müßte es aber bald
+                    wißen, um die lezte Hand anzulegen, damit das verlangte noch vor Ablauf des
+                    Jahres in Ihren Händen seyn könnte. Dann wie soll ich die Zusendung - wenn
+                    gerade keine Gelegenheit ist – machen? – an mannigfaltigem und wichtigem Stoff
+                    fehlt es nicht, und <seg type="comment">
+                        <orig>die Mitarbeiter</orig>
+                        <note xml:id="nqm1_mvk_vw">Neben Texten von Hirt und dem Herausgeber
+                            Böttiger enthält der erste Band Beiträge von F. A. W. Spohn, Georg
+                            Friedrich Grotefend, Karl Otfried Müller, Friedrich Thiersch, Konrad
+                            Levezow, Fr. Jacobs, Heinrich Meyer, Heinrich Karl Ernst von Köhler,
+                            Arnold H. L. Heeren, Friedrich Schlichtegroll und Friedrich
+                            Osann.</note>
+                    </seg> laßen eine gute Verarbeitung erwarten, besonders bey der Thätigkeit und
+                    der Umsicht, die Sie als Redakteur, dabey haben werden.</p>
+                <p>Sie fragen über die Costume unseres <persName key="prov_czz_vjg_f5">Gr<ex>afen</ex> Brühl</persName>? – Die Sache gehört nicht für mich,
+                    sondern für ein anderes Publikum; – und <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_xn1_3dm_vw">das Unternehmen</bibl>
+                        </orig>
+                        <note xml:id="nxjm_w4l_vw">Neue Kostüme auf den beiden Königlichen Theatern
+                            in Berlin unter der General-Intendantur des Herrn Grafen von Brühl.
+                            Berlin: Wittich, 1819-1830. – 1819 erschien der Erste Band oder Erstes
+                            bis Achtes Heft, 4°, jedes Heft zu acht Tafeln. – Graf Brühl setzte
+                            damit die Bemühungen August Wilhelm Ifflands um historisch getreue
+                            Theaterkostüme fort. Iffland hatte 1805 bis 1812 erstmals eine Sammlung
+                            von handkolorierten Radierungen in 22 Heften "Kostüme auf dem
+                            königlichen National-Theater in Berlin" für ein großes Publikum
+                            veröffentlicht (vgl. dazu: Klaus Gerlach (Hrsg.): Das Berliner
+                            Theaterkostüm der Ära Iffland. Berlin 2009). - In einer Rezension des 1.
+                            Bandes im Ergänzungsblatt zur Jenaischen A.L.Z. 1819, Nr. 96, Sp.
+                            582-583, heisst es: "Wie nach dem Sprichwort kein Unglück ohne ein Glück
+                            ist, so ging es auch nach dem Brande des Berliner Schauspielhauses. Die
+                            Garderobe war ein Raub der Flammen geworden; eine neue musste
+                            angeschafft werden. Dadurch war eine Übereinstimmung zu erhalten, die
+                            ehedem gefehlt hatte. Dass die Welt diess schriftlich und bildlich
+                            erfährt, ist eben so angenehm als erwünscht. Der, um die
+                            Schauspielunternehmungen verdiente Intendant der Berliner Theater, Hr.
+                            Graf von Brühl selbst, hat für die Bekanntmachung der Kostüms gesorgt,
+                            und diese acht Hefte, welche des Werkes Ersten Band ausmachen, mit einer
+                            Vorrede begleitet, in welcher ungemein viel Passendes gesagt wird, was
+                            die am besten zu würdigen wissen werden, welche die Bühne und die
+                            Schauspieler, besonders die Gefallsucht der Schauspielerinnen, kennen.
+                            In der Kostüms-Angelegenheit ist, wie in allen anderen Dingen das
+                            Halbthun das Nachtheiligste, wie der Hr. Graf von Brühl richtig bemerkt.
+                            [...] Die grösstentheils sehr fleißig gemachten Zeichnungen sind von
+                            Stürmer. Vor dem Bande befindet sich das sehr ähnliche Portrait des
+                            Herrn Grafen."</note>
+                    </seg> ist gut, wenn es hinreichende Käufer findet. Bey dergleichen
+                    Theaterspäßen – ich meine Decorationen, und Costüme – läßt sich die Sache nicht
+                    so strenge nehmen. <seg type="comment">
+                        <orig>Ich bin einigemal zur Angabe ähnlicher Belustigungen hinein-<pb n="2"/>gezogen worden,</orig>
+                        <note xml:id="nwkj_nf4_kz">Vgl. dazu u.a. ein Schreiben von Johann Friedrich
+                            Reichardt an August Wilhelm Iffland, Berlin, 27. März 1802, worin
+                            Reichardt für die Zusage dankt, dass "Der Tod des Herkules" am 10. April
+                            aufgeführt werde. Da Verona selbst von "Hirt die Angabe des antiken
+                            Schiffes und der Ara verlangt" habe, so werde Verona nichts dagegen
+                            haben, "wenn Hirt bei der Conferenz die Decoration betreffend zugegen
+                            ist" (Klaus Gerlach: August Wilhelm Ifflands dramaturgisches und
+                            administratives Archiv", Editionsprojekt an der BBAW); siehe auch seine
+                            Mitarbeit an dem Festspiel "Die Weihe des Eros Uranios" (1818) und
+                            seinen Kostümentwurf für Friederike Unzelmann als Iphigenie auf Tauris,
+                            deren Abbild Dieselbe auf eine Tasse malen ließ, die sie Goethe zum
+                            Geschenk machte (Karl Emil Franzos: Deutsche Dichtung 9 (1890), S.
+                            154).</note>
+                    </seg> aber nie mit Gusto. Es hieß aber: <hi rendition="#aq">bonne mine à
+                        mauvais jeu</hi> zu machen. Auch iezt noch fehlt es nie an Anfragen von
+                    Seite des Theaters. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Über den mir zugesandten Abdruck</orig>
+                        <note xml:id="ndzd_x4l_vw">Wohl für das geplante, aber nicht realisierte
+                            "Neue Tischbeinische Vasen-Werk", das auch Kupferstiche von Vasen aus
+                            dem Besitz des Grafen von Lamberg in Wien enthalten sollte; darunter
+                            eine noch unedirte Lambergischen Vase, auf der "ein geflügelter
+                            weiblicher Genius, auf dem Capitäl einer ionischen Säule sitzend, einen
+                            Schwan in der Rechten hält [Fussnote: wenn es nicht etwa eine Gans
+                            ist.], den sie einem zur Reise gerüsteten vor ihr stehenden Jüngling
+                            darbietet" (C. A. Böttiger's Kleine Schriften archäologischen und
+                            antiquarischen Inhalts, hrsg. von Julius Sillig, Bd. 2, 1838, S. 189;
+                            zuerst veröffentlicht u.d.T. "Venus Urania, auf dem Schwan sich
+                            emporschwingend", im Taschenbuch Urania, 1824).</note>
+                    </seg> läßt sich manches rathen: und recht haben Sie zu glauben: daß ich
+                    allegorischen Auslegungen nicht hold sey. Ich würde bey der sizenden Figur mit
+                    dem Schwan allerdings nur an eine <persName key="ed_if5_pcl_vw">
+                        <hi rendition="#aq">Leda</hi>
+                    </persName>denken; und bey dem Jüngling mit der Strigilis der seine <seg type="comment">
+                        <orig>
+                            <hi rendition="#aq">chlamys</hi>
+                        </orig>
+                        <note xml:id="nfmc_4dl_vw">In der Antike ein kurzer Reisemantel.</note>
+                    </seg> auf seinen Reisestock gehangen hält – auf einen heroischen Wanderer, der
+                    Gastfreundlich aufgenommen, von weiblicher Hand in dem Bade bedient wird. Aber
+                    welcher <hi rendition="#aq">heros</hi>? – Denken Sie sich meinetwegen einen
+                        <persName key="prov_vwp_d4c_sv">
+                        <hi rendition="#aq">Telemach</hi>
+                    </persName> bey <persName key="ed_jtl_wcl_vw">
+                        <hi rendition="#aq">Menelaus</hi>
+                    </persName>, oder wen Sie wollen. – Haben Sie aber Lust sich eine Verbindung mit
+                    der sizenden Figur zu denken, so nehmen Sie den <hi rendition="#aq">Heros</hi>
+                    für den Bräutigam <persName key="ed_ab4_12l_vw">
+                        <hi rendition="#aq">Tyndarus</hi>
+                    </persName>[!], der sich zur Brautnacht kräftiget, dem aber der schlaue Schwan
+                    schon zuvorgekommen ist, doch <seg type="comment">
+                        <orig>daß er zu den göttlichen Zwillingen noch <subst>
+                                <del rendition="#s">zwey</del>
+                                <add place="superlinear">ein</add>
+                            </subst> sterbliches Paar hinzu<add place="sublinear">zu</add>fügen
+                            vermochte</orig>
+                        <note xml:id="nadq_w3l_vw">In der griechischen Mythologie zeugte Zeus in
+                            Gestalt eines Schwans mit Leda die Dioskuren Kastor und Polydeukes
+                            (Castor und Pollux), die aus einem Ei entschlüpften (nach anderen ist
+                            Tyndareos der Vater von Kastor). Leda gebar noch noch ein weiteres Ei
+                            sowie eine Tochter. Das zweite Ei barg Helena, ebenfalls eine Tochter
+                            von Zeus. Die Tochter, die zusammen mit den Eiern geboren wurde, war
+                            Klytämnestra, eine Tochter von Tyndareos. </note>
+                    </seg>. Indeßen sollen diese Einfälle nicht hindern Ihre allegorische Erklärung
+                    zu hören. –</p>
+                <p>Was ich vom Gedruckten zusammenfinde, was Sie noch nicht haben, <seg type="comment">
+                        <orig>werde ich Ihnen nächstens mit Gelegenheit
+                            zusenden</orig>
+                        <note xml:id="nymz_g3m_vw">Vgl.
+                            1819-11-15-a-Böttiger</note>
+                    </seg>.</p>
+                <p>Ich habe mich amüsirt, theils die Musse in Bädern, theils die Nebenstunden
+                    Stunden [!] hier zu benüzen: meine lezte Reise zu schreiben, nämlich in
+                    Beziehung auf Alterthum und Kunst. Ich spreche vom <placeName key="ediarum_edm_pll_vw">Dom</placeName> und den <placeName key="ediarum_tgk_qll_vw">Gemälden</placeName> zu <placeName key="ed_ynt_4ll_vw">
+                        <hi rendition="#aq">Meißen</hi>
+                    </placeName> und <placeName key="ed_z2t_wll_vw">
+                        <hi rendition="#aq">Wittenberg</hi>
+                    </placeName>, von <placeName key="ed_uk3_cml_vw">
+                        <hi rendition="#aq">Prag</hi>
+                    </placeName> und <hi rendition="#aq">
+                        <placeName key="ed_ez3_zll_vw">Carlstein</placeName>
+                    </hi>, besonders aber von Ihren großen Sammlungen zu <placeName key="prov_zj4_hc3_g5">
+                        <hi rendition="#aq">Dresden</hi>
+                    </placeName>. <seg type="comment">
+                        <orig>Es könnte ein artiges <bibl sameAs="ed_mhm_snl_vw">Bändchen</bibl>
+                            werden</orig>
+                        <note xml:id="nhsh_nnl_vw">Hirts "Kunstbemerkungen auf einer Reise über
+                            Wittenberg und Meissen nach Dresden und Prag (1819)" erschienen erst
+                            1830.</note>
+                    </seg>; doch ehe ich <add place="superlinear">es</add> dem Drucke zu übergeben
+                    gedenke <pb n="3"/> möchte ich noch die <seg type="comment">
+                        <orig>Beschreibung der 
+                                <persName key="ed_dgx_jml_vw">
+                                <hi rendition="#aq">Solly</hi>schen</persName>
+                            <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs>
+                        </orig>
+                        <note xml:id="nh5f_mnl_vw">Ein Gutachten zum Ankauf der Sollyschen
+                            Gemäldesammlung erstellte Hirt am 8. September 1819 (GStA PK, I. HA,
+                            Rep. 76 Ve Sekt. 15 Abt. 8 Nr. 13 Bd. 1, fol. 20); s. unter Amtliche
+                            Schriften. </note>
+                    </seg> hinzufügen. Hiezu habe ich aber iezt keine Zeit. Das Ausputzen meiner
+                        <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Architektur</bibl>, die ich
+                    endlich auch möchte erscheinen laßen, beschäftigt mich zu sehr. Dazu kommen noch
+                        <hi rendition="#aq">Collegia</hi>, und academische Abhandlung. Ich
+                    finde täglich mehr, daß die Zeit immer kürzer, und der Mensch immer älter wird
+                    – und dann kann nur selten ein Mensch mit der Leichtigkeit wie Sie
+                    arbeiten. Diese Ihre beständige Heiterkeit und Aufgelegtheit ist wahrhaft
+                    bewunderungswerth.</p>
+                <closer>
+                    <salute>Bald ein mehrers von <lb/>Ihrem</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

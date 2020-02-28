@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zjl_g2g_lkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 3.
+                    Dezember 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 161r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-12-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_vdj_bln_lkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, nicht unterzeichnet. Das Unterschriftskürzel
+                    findet sich unter dem letzten diesbezüglichen Schreiben Altensteins auf Bl.
+                    162r; Bearbeitungsvermerke: "vHarlem / 3. Decbr.", Mundierungs-und
+                    Absendevermerk "6/12."; Aktenvermerk auf dem oberen Rand "B. J. 2176."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren, Geheimen Oberbaurath / Schinkel und Hofrath Hirt,
+                            / Hochwohl- und Wohlgeboren, / hier.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 3. December, 1825.</dateline>
+                </opener>
+				<p>Der Gehülfe im <placeName key="ediarum_nqx_rnh_lkb">Restaurations-Atelier</placeName>
+                    <persName key="ed_kd2_lwc_1kb">Kromayer</persName> hat mich um einen Vorschuß
+                    von 100 r<ex>eichs</ex>th<ex>a</ex>l<ex>er</ex> ersucht mit dem Bemerken, daß
+                    Ew. Hochwohl- und Wohlgeboren geneigt seyn würden, diese Bitte zu befürworten.
+                    Es wird von der Brauchbarkeit des Mannes für seine Geschäfte bei dem
+                    Restaurations-Atelier und von dessen Zuverlässigkeit abhangen, in wie fern ihm
+                    dieser Vorschuß unter dem Bedinge der Erstattung durch einen angemessenen
+                    monatlichen Abzug von seinen Diäten zu gewähren ist. Wenn diese Verhältniße
+                    günstig für ihn sprechen genehmige ich gerne, daß seiner Verlegenheit durch den
+                    nachgesuchten Vorschuß abgeholfen werde. In diesem Falle würden Ew. — ihm Ihre
+                    Bewilligung hierüber unter Beifügung des eintretenden monatlichen Abzugs zu
+                    ertheilen haben, worauf die <orgName key="ed_pfj_35s_pjb">General-Kasse</orgName> meines <orgName key="ed_xpk_5s3_f3b">Ministeriums</orgName>, die ich mit der nöthigen Anweisung versehen werde,
+                    die Zahlung des Vorschuß leisten und die Zurükbehaltung <pb n="2"/> des
+                    bemerkten Abzugs besorgen wird.</p>
+				<closer>
+                    <signed/>
+                </closer>
+            </div>
+            <postscript>
+                <p>[Es folgen die Schreiben Altensteins an die Generalkasse des Ministeriums und an
+                    Kromayer auf demselben Blatt, beide ebenfalls mundiert und abgesendet am
+                    6.12.1825.]</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

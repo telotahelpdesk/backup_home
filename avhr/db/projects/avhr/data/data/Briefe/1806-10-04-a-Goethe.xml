@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bzg_clp_zv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe. Berlin, 4. Oktober 1806</title>
+                <title>. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/416, St. 3</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Ludwig Geiger, in: Goethe-Jb. 15, 1894, S. 73f.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Goethe, Briefe, Regestausgabe 5/465 (Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-10-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749-1832)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_yby_kdr_zv"/>
+                </correspContext>
+                <note>Anlage: Diplom über die Ernennung Goethes zum Mitglied der Preußischen
+                    Akademie der Wissenschaften zu Berlin vom 3. August 1806</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Was ich Ihnen dießmal zu berichten habe, ist Ihnen bereits durch die öffentlichen
+                    Blätter bekannt, nemlich daß Sie an der Geburtsfeier unseres <persName key="prov_bxf_jt5_fv">Königes</persName> im August als Mitglied der <orgName key="ed_znn_dfc_b1b">Königl<ex>ichen</ex> Akademie der
+                        Wißenschaften</orgName> ausgerufen worden sind. Es ist gebräuchlich, daß
+                        <seg type="comment">
+                        <orig>der Vorschlagende</orig>
+                        <note xml:id="nccj_25p_zv">Hirt hatte als „Mitglied der litterarischen
+                            Classe“ dem Direktorium der Akademie der Wissenschaften am 15. Juli 1806
+                            fünf Gelehrte zu auswärtigen Mitgliedern der Akademie vorgeschlagen: 1.
+                            Goethe, 2. Georg Zoega, 3. Heinrich Voß, 4. Arnold Heeren, 5. Ennio
+                            Quirino Visconti (Archiv der BBAW, Sign.: PAW (1700-1811), I-III-6, Bl.
+                            54r). Einer Aufforderung des Direktoriums der Akademie vom 21. Juli 1806
+                            nachkommend, die Zuwahl auf höchstens zwei auswärtige Mitglieder zu
+                            beschränken, wurden die beiden Erstgenannten - Goethe und Zoega - zur
+                            Wahl vorgeschlagen, von dem Gremium angenommen und am 5. August durch
+                            den König bestätigt. - Auch A. v. Humboldt schlug in einer Denkschrift
+                            vom 25. Juli 1805 „Über die auswärtigen Mitglieder der Königlichen
+                            Akademie der Wissenschaften“ 58 Naturforscher und sieben berühmte
+                            Männer, darunter Goethe, zur Aufnahme in die Akademie vor (ebd., I-I-11,
+                            Bl. 2-5).</note>
+                    </seg> die Ehre erhält, dem neuen Mitgliede die Aufnahme zu notifiziren; und
+                    diesem gemäß ist mir eben iezt von Seiten des <orgName key="ed_jh3_2fc_b1b">Directorium's der königl<ex>ichen</ex> Akademie</orgName> das Diplom zur
+                    Übersendung zugestellt worden. (an dieser Verspätung nemlich haben die Ferien
+                    Schuld, welche gleich nach der Öffentlichen Sizung im August einzufallen
+                    pflegen)</p>
+                <p>
+                    <orgName key="ed_znn_dfc_b1b">Die königl<ex>iche</ex> Akademie</orgName>, indem
+                    sie durch dieses öffentliche Zeugniß Ihnen ihre besondere Hochachtung zu
+                    erkennen giebt, thut zwar nichts, als sich selbst ehren, und einen Akt
+                    vollziehen, der schon längstens hätte geschehen sollen. Indeßen hat sich bey dem
+                    Vorschlage etwas zugetragen, was mich mit inniger Freude erfüllte, und
+                    gewißermaßen das lange Säumen entschuldigen möchte. Die <seg type="comment">
+                        <orig>Anwesenden Mitglieder</orig>
+                        <note xml:id="nqtb_rtp_zv">Für Goethe votierten am 22. bzw. 23. Juli 1806
+                            die Mitglieder der philologischen Klasse J. P. Erman, Hirt, J. von
+                            Müller, G. L. Spalding und Ph. K. Buttmann. In der Gesamtsitzung der
+                            Berliner Akademie der Wissenschaften vom 31. Juli 1806 wurde Goethe
+                            (neben Zoega, G. Cuvier, J. Banks und K. F. Hindenburg) zum auswärtigen
+                            Akademiemitglied gewählt. Anwesend waren 21 Akademiemitglieder:
+                            Direktion: Merian, Bernouilli (Johann (III.)), von Castillon;
+                            Mitglieder: Gerhard, Walter (Vater), Klaproth, Walter (Sohn), Bode,
+                            Burja, Trembley, Gruson, Ancillon (Johann Peter Friedrich), Klein,
+                            Biester, Ancillon (Louis Frédéric), Erman, Hirt, J. von Müller, Fischer,
+                            A. v. Humboldt, Buttmann (Archiv der BBAW, Sign.: PAW (1700-1811),
+                            I-IV-35, Bl. 14). </note>
+                    </seg> äußerten sich gleichsam mit Einer Stimme gegen mich: „Goethe müßte seit
+                    lange Mitglied seyn!“ Ich erwiederte, daß ich selbst auch lange in diesem
+                    Glauben gewesen sey: aber nach näherer Erkundigung (wie auch der
+                    Adresse-Calender zeige) sey Goethe zwar <seg type="comment">
+                        <orig>Mitglied von der <orgName key="ed_u5s_1fc_b1b">Akad<ex>emie</ex> der
+                                Künste</orgName>
+                        </orig>
+                        <note xml:id="nqcb_ttp_zv">Goethe war seit 1789 EM der Preußischen Akademie
+                            der Künste.</note>
+                    </seg>, nicht aber von der der Wißenschaften. Daß <seg type="comment">
+                        <orig>die Kugelung</orig>
+                        <note xml:id="nh5k_3q1_k1b">Die Wahlabstimmung mit schwarzen und weißen
+                            Kugeln.</note>
+                    </seg> allgemein günstig ausfiel, war freylich, was ich im voraus bestimmt
+                    erwarten durfte.</p>
+                <p>Ihnen habe ich die erste Aufmunterung in den Studien, die von meinem Leben
+                    unzertrennlich sind, und <seg type="comment">
+                        <orig>den ersten Ehrennahmen, der mich der Welt näher <pb n="2"/> empfehlen
+                            sollte</orig>
+                        <note xml:id="nj15_zgq_zv">
+                            <note xml:id="nssp_smf_ks">Goethe bezog sich in seinem Aufsatz „Der
+                                Sammler und die Seinigen“ (in: Propyläen 2,2 (1799), S. 26-122.) auf
+                                Hirts Aufsätze "Versuch über das Kunstschöne" (in: Die Horen 11
+                                (1797), Nr. 7, S. 1-37), "Laokoon" (in: Die Horen 12 (1797), Nr. 10,
+                                S. 1-26) und "Nachtrag über Laokoon" (in: Die Horen 12 (1797), Nr.
+                                12, S. 19-28), in denen Hirt seine These vom "Charakteristischen"
+                                dargestellt hatte, und zitierte zum Teil wörtlich aus Hirts
+                                Aufsätzen.</note> Außerdem hatte er den Römischen Cicerone an Herder
+                            und die Herzogin Anna Amalia empfohlen. </note>
+                    </seg>, zu verdanken. Sie haben der Welt gleichsam die erste Hoffnung von mir
+                    gegeben. Wenn ich bis iezt zur Erfüllung derselben nur weniges habe leisten
+                    können, so hat es an meinem besten Bestreben nie gefehlt. Und wenn ich mit
+                    gewißen Arbeiten vor dem Publikum zu erscheinen forthin zögere; so liegt
+                    hauptsächlich der Wunsch zum Grunde, etwas zu geben, das vor Ihrem Urtheil
+                    einiger Maßen bestehen möchte. - So ist mein<del rendition="#s">e</del>
+                    Innerstes gegen Sie erfüllt: und mit diesen Gesinnungen machte ich die Motion zu
+                    Ihrer Aufnahme in eine Gesellschaft, in der Sie eben so viele Verehrer, als
+                    Mitglieder finden.</p>
+                <p>Zugleich übersendet Ihnen Herr  <persName key="prov_n1f_vl5_tv">Hummel</persName>
+                    das erste Exemplar der eben fertig gewordenen <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_g42_gpp_zv">Verherrlichung Luther's</rs>
+                        </orig>
+                        <note xml:id="nf5c_ppp_zv">1807 erschien von den „W.K.F.“ [Weimarer
+                            Kunstfreunden] eine Rezension in der JALZ 1807, Bd. 1: Unterhaltungen
+                            über Gegenstände der Bildenden Kunst als Folge der Nachrichten von den
+                            Weimarischen Kunstausstellungen, Nr. VII. Darin heisst es u.a.: „Nachdem
+                            die dramatische Poesie Luthers Leben und Thaten zum Gegenstand ihrer
+                            Bemühungen gemacht hatte, war es leicht vorauszusehen, dass auch die
+                            bildenden Kunst bald in ähnlichem Bestreben auftreten werde, und
+                            wirklich liegen in der Geschichte von Luther grosse und interessante
+                            Momente genug, welche der bildende Künstler zur Darstellung benutzen
+                            kann. Hr. Erdmann Hummel verdient darum, dass er es unternommen, die
+                            bedeutendsten Scenen aus Luthers Leben mit dessen Verherrlichung oder
+                            Apotheose auf 12 Blättern, in Kupfer gestochene Umrisse, herauszugeben,
+                            gerechtes Lob. Ihm gelang verschiedenes in Hinsicht auf Erfindung,
+                            mehreres hat er mit Geschicklichkeit und mit Geist ausgeführt, auch ist
+                            die Arbeit im Ganzen sehr reinlich. / Wir halten übrigens die Aufgabe,
+                            Luthers Leben und Thaten cyklisch zu bearbeiten, für ungemein schwer.
+                            [...]“.</note>
+                    </seg>, mit der Bitte, es als einen Beweis seiner vorzüglichen Hochachtung
+                    anzunehmen. Hiemit folgen noch ein paar Aufsäze von mir.</p>
+                <closer>
+                    <dateline>Berlin den 4<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> octob. 1806.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

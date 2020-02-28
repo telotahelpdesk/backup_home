@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bgn_wtw_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Wilhelmine Rietz (Gräfin Lichtenau). Rom, 5. Mai 1796. Donnerstag]
+                </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Tagebücher der Fürstin Louise von Anhalt-Dessau: Eintrag 5. Mai 1796:
+                    " ...] und Nachmittags blieb Hirt hier bekam ein Brief von der Ritz, u Er
+                    erzehlte mir so manches von seinen Begegnißen" (LHASA, Abt. Dessau, A 9 e Nr. 15
+                    (4))</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_qvp_1gm_cv">Lichtenau, Wilhelmine Gräfin von, geb. Enke
+                        (Encke), verh. Rietz (1753-1820) (Mätresse, Vertraute und Beraterin
+                        Friedrich Wilhelms II. von Preußen)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-05-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

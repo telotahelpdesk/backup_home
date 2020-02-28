@@ -1,0 +1,1433 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sl5_fpy_k3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Denkschrift Hirts über die Einrichtung des Museums an das Ministerium der
+                    Geistlichen-, Unterrichts- und Medizinangelegenheiten. Berlin, 6. Dezember
+                    1820</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve, Ministerium der Geistlichen-
+                                Unterrichts- und Medicinalangelegenheiten, Sekt. 15 Abt. I Nr. 4 Bd.
+                                1, Bl. 9r-37v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Stock, 1930, S. 216-217, Anm. 9 (Teilabdruck)</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Stock, 1937, S. 62-63, Anm. 29, S. 72
+                            (Teilabdrucke)</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Vogtherr: Das königliche Museum in Berlin, Berlin 1997,
+                            S. 261-269 (ohne die Beilagen und die Passagen, die die beiden Akademien
+                            betreffen)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-12-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_igc_5br_k3b"/>
+                    <ref type="next" target="hirt_tz5_nxq_y3b"/>
+                </correspContext>
+                <note>Aktenvermerke auf dem linken Rand von Bl. 9r: "B. <hi rendition="#u">Citissime</hi> / prs den 13/12 1820."; "<hi rendition="#u">Citissime </hi>/
+                    Es ist hiervon schleunigst eine neue Abschrift auf schonen Papier zu 2/3 Stxxx
+                    geschrieben zu fertigen[.] Die Beylagen sind jede besonders und gleicher Art und
+                    auf gleichen Papier zu schreiben / Altenstein 13/12"; "13930."; "Es sind nunmehr
+                    schleunigst noch 2 Abschriften zu fertigen / Altenstein 18/12"; "Fact. /
+                    B."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qhn_nnm_pgb">Kunstmuseum – Auswahl der Objekte</term>
+                    <term key="ed_bdv_nnm_pgb">Kunstmuseum – Lokal</term>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+                <p>Einer allerhöchsten Cabinetsordre vom 12<hi rendition="#sup">ten</hi> October
+                    gemäß, welche ein hohes <orgName key="ed_xpk_5s3_f3b"><hi rendition="#aq">Ministerium</hi></orgName> am 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> mir kundmachte; "jene Werke alter und neuer Kunst in den
+                    königlichen Schlößern, <hi rendition="#aq">Palais</hi>, Gallerien und Gärten,
+                    welche sich zur Aufstellung in dem unter den Linden hiezu erbauten<placeName key="prov_up1_xwt_fv"> königlichen <hi rendition="#aq">Museum</hi></placeName> eignen würden, auszuwählen:" habe ich sogleich
+                    angefangen, alle jene Orte, die mir als solche Werke enthaltend bekannt sind, zu
+                    besuchen, und vorläufig alles aufzuzeichnen, was ich für eine solche Bestimmung
+                    würdig erachtete.</p>
+                <p>Ich habe hiemit die Ehre, einem hohen <orgName key="ed_xpk_5s3_f3b"><hi rendition="#aq">Ministerium</hi></orgName> hierüber gehorsamsten Bericht
+                    zu erstatten, und meine fernern Gedanken über die Einrichtung des <hi rendition="#aq"><placeName key="prov_up1_xwt_fv">Museum</placeName></hi>
+                    beyzufügen. <lb/>Nie hat ein Auftrag mich mehr gefreut; denn dem wahren
+                    Kunstfreunde kann wohl nichts erwünschter seyn, als die <hi rendition="#aq">Residenz</hi>stadt <hi rendition="#aq"><placeName key="prov_ycp_cpr_js">Berlin</placeName></hi>, gleich andern Hauptstädten von <placeName key="prov_xym_pdx_w5">Deutschland</placeName>, und vom Auslande, mit einem
+                    öffentlichen <hi rendition="#aq">Museum</hi> geziert zu sehen. Nicht weniger
+                    erfreulich für mich war das Zutrauen S<hi rendition="#sup"><hi rendition="#u">er</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName>, mir das Geschäft der
+                    Auswahl allein zu übertragen. Dadurch bin ich in Stand gesezt worden, möglichst
+                    schnell, und so zu operiren, daß ich für das, was ich thue, mit meiner Ehre
+                    verantwortlich seyn kann. Da mir indeß der Auftrag erlaubte, nach Belieben die
+                    Hülfe anderer aufzufordern; so haben sich hiezu zwey Künstler bereit gefunden,
+                    ein Bildhauer in der Person des Herrn <hi rendition="#aq">Professor <persName key="ed_p41_xpz_lw">Rauc</persName></hi><persName key="ed_p41_xpz_lw">h</persName>, und ein Mahler in der Person des Herrn Prof. <hi rendition="#aq"><persName key="ed_dqk_fnp_thb">Kubeil</persName></hi>.
+                        <lb/><persName key="ed_p41_xpz_lw">Den erstern</persName> wählte ich in
+                    Rücksicht der alten Denkmäler in Marmor, theils um mit ihm die nothwendigen
+                    Ergänzungen zu überlegen, so wie auch die zweckmäßige Art der Aufstellung in
+                    Hinsicht <pb n="2"/> der Piedestalle und anderer Stützen, wobey eine vielfache
+                    Ausbeßerung und Umänderung nöthig wird. <persName key="ed_dqk_fnp_thb"><lb/>Den
+                        zweyten</persName> wählte ich zu ahnlichen Zwecken für die Gemälde: um mit
+                    ihm zu überlegen, welche Bilder etwa einer Ausbeßerung oder Reinigung bedürftig
+                    seyn möchten; auch was allenfalls in Hinsicht der Rahmen vorzuschlagen seyn
+                    dürfte. <lb/>Ich bin zwar sehr entfernt, daß man in solchen Sachen große
+                    Unkosten aufbiete; aber das Benöthigte darf auch nicht fehlen, und überhaupt ein
+                        <placeName key="prov_up1_xwt_fv">königliches <hi rendition="#aq">Museum</hi></placeName> nicht das Ansehen haben, als wenn in Rücksicht des
+                    Zweckmäßigen und Anständigen etwas versäumt wäre.</p>
+                <p>In der Begleitung genannter <seg type="comment">
+                        <orig>beiden Künstler</orig>
+                        <note xml:id="nqsx_1cz_w3b"><persName key="ed_p41_xpz_lw">Rauch</persName>
+                            und <persName key="ed_dqk_fnp_thb">Kuhbeil</persName>.</note>
+                    </seg> besah ich zu <placeName key="prov_lh2_hxd_2v">Potsdam</placeName>: die
+                        <placeName key="ediarum_gdv_3cz_w3b">Gallerie von <hi rendition="#aq">Sanssouci</hi></placeName>, das <placeName key="ediarum_gd5_kcz_w3b">Schloß von <hi rendition="#aq">Sanssouci</hi></placeName> mit den dazu
+                    gehörigen <placeName key="ediarum_hd4_ldz_w3b">Gärten</placeName>, das
+                        <placeName key="ediarum_k2s_slw_jgb">Cavalierhaus</placeName> mit der davor
+                    liegenden Terrasse, das <placeName key="ediarum_ms2_rdz_w3b">neue <hi rendition="#aq">Palais</hi></placeName> nebst den davor aufgestellten
+                    Kunstwerken, worunter die vierzehn Statuen in dem Halbzirkel, und dann den
+                        <placeName key="ediarum_typ_4bs_5fb">Antikentempel</placeName>; ferner das
+                        <placeName key="ediarum_xgz_twc_5z">Marmorpalais</placeName> am <placeName key="ediarum_n44_mxj_kfb">heiligen See</placeName>.</p>
+                <p>In <placeName key="prov_exj_j2r_gv">Charlottenburg</placeName> besahen wir das
+                        <placeName key="ediarum_zl2_55t_ngb">Schloß</placeName>, und was von
+                    Kunstwerken im Äußern aufgestellt ist.</p>
+                <p>In <placeName key="prov_ycp_cpr_js"><hi rendition="#aq">Berlin</hi></placeName>
+                    ließen wir uns im <placeName key="prov_ulk_twt_fv">Schloße</placeName> zuerst
+                    die Kunstwerke in dem Hauptschloße der königlichen Zimmer zeigen, dann die
+                    Gallerie mit allen daran stoßenden Zimmern und Sälen, und ferner die in der
+                        <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> vorhandenen
+                    Denkmäler.</p>
+                <p>Die theils auf der <hi rendition="#aq"><placeName key="ediarum_tzx_1vt_fw">Universität</placeName></hi>, theils in der <placeName key="ediarum_qkl_1cw_jgb">Academie</placeName> vorhandene <rs type="artwork" key="prov_a5d_5gl_jw"><hi rendition="#aq">Giustian</hi>ische Sammlung</rs>
+                    war gleichfalls genau in Augenschein genommen.</p>
+                <p>Daß irgendwo noch anderes zu dem Zwecke des <placeName key="prov_up1_xwt_fv"><hi rendition="#aq">Museum</hi></placeName>'s vor-<pb n="3"/>handen seyn
+                    möchte, ist mir nicht bekannt, außer einiges von Mahlerey, wovon ich in der
+                    Folge Anzeige machen werde.</p>
+                <p>Aus den hier angezeigten Sammlungen bestimmte ich die Auswahl, und zeichnete
+                    alles auf, was mir zur Aufstellung in ein <hi rendition="#aq"><placeName key="prov_up1_xwt_fv">Museum</placeName></hi> würdig schien.</p>
+                <p>I. <lb/>Die Antiken. <lb/>--------------------------<lb/>In Rücksicht der antiken
+                    Monumente war mein Grundsatz: keine Wahl zu treffen, sondern alles ohne
+                    Unterschied der Arbeit, selbst die altgermanischen Aschentöpfe nicht
+                    ausgenommen, für das <hi rendition="#aq"><placeName key="prov_up1_xwt_fv">Museum</placeName></hi> aufzuzeichnen. Alle Monumente des Alterthums
+                    gehören dem Studium an, theils als belehrende Werke für die Kunst, theils für
+                    Mythologie und Geschichte überhaupt, theils für die Kunstgeschichte in's
+                    Besondere. Selbst das Unscheinbarste kann zu wichtigen Aufschlüßen führen.
+                    <lb/>Alles was im Großen, sey es von <hi rendition="#aq">Marmor</hi>, oder von
+                    Erz vorhanden ist, bestimmte ich zur ersten Abtheilung des <hi rendition="#aq">Museum</hi>s. Hierunter begreife <add place="superlinear">ich</add> alle
+                    Statuen, große, mittelgroße und kleinere, dann alle Büsten und Köpfe nebst den
+                    in geringerer Anzahl vorhandenen <hi rendition="#aq">Reliefs</hi>. <lb/>Die
+                    kleinern antiken Gegenstände bestimmte ich für eine zweyte Abtheilung. Darunter
+                    begreife ich: <lb/>a. alle kleinern Statuen und Geräthschaften von Erz. <lb/>b.
+                    alle ganz kleinen Gegenstände in <hi rendition="#aq">Marmor</hi> und andern
+                    harten Steinen <lb/>c. alle Gefäße, Figuren und <hi rendition="#aq">Relief</hi>s
+                    in Porzellan und andern gebrannten Erden; - alle Lampen figurirt, <pb n="4"/>
+                    und nicht-figurirt. <lb/>d. alle Mosaike, und die Überreste gemalter
+                    Mauerstücke. <lb/>e. alle Mumien, Mumienkasten und Mumiendecken. <lb/>f. alle
+                    antiken <hi rendition="#aq">Gemmen</hi>, und Glaspasten, nebst einer nicht
+                    geringen Zahl moderner <hi rendition="#aq">Gemmen</hi>, so wie auch die
+                    Schwefelabgüße anderer berühmter <hi rendition="#aq">Gemmen</hi>sammlungen.
+                    <lb/>g. Die antiken Münzen zugleich mit der großen Zahl der <persName key="prov_hjb_ykd_sv"><hi rendition="#aq">Mionet</hi>schen</persName>
+                    <rs type="artwork" key="prov_a4v_wzz_ghb">Abgüße</rs>. dann <lb/>h. alle
+                    modernen Münzen seit dem Mittelalter bis auf die neueste Zeit, worunter auch die
+                    berühmte <rs type="artwork" key="prov_f1j_pkc_y3b">Sammlung</rs> von <persName key="ed_sxg_33c_y3b"><hi rendition="#aq">Adler</hi></persName>
+                    berücksichtigt ist.</p>
+                <p>Die Gegenstände, welche zur ersten Abtheilung des <hi rendition="#aq">Museum</hi>s gehören, sind: <lb/>1. große Statuen -------- 44. <lb/>2.
+                        mitt<supplied cert="high">l</supplied>ere -------------- 26. <lb/>3.
+                    kleinere ---------------- 27. <lb/>4. Köpfe und Büsten --- 225. <lb/>5. <hi rendition="#aq">Reliefs</hi> ------------------- 6. <lb/>Die Folge, in
+                    welcher diese Gegenstände neben einander zu ordnen und aufzustellen wären, kenne
+                    ich keine andere als zweckmäßig, denn die, welche durch das mythologische und
+                    historische System gegeben ist. Nur auf diesem Wege gewinnt man eine richtige
+                    Übersicht, und schöpfet daraus jenes Belehrende, was sich durch die Vergleichung
+                    des Gleichartigen ergiebt. Der Versuch die Werke nach den Kunstepochen
+                    aufzustellen, ist nicht möglich, denn die Anzahl der Monumente, deren Epoche
+                    sich mit Sicherheit bestimmen laßen, ist zu gering. Übrigens giebt die
+                    historische Aufstellung <pb n="5"/> so vieler Gegenstände an sich schon eine
+                    gewiße Epocheneintheilung. </p>
+                <p>In der Beylage A. <lb/>habe ich nach dem <placeName key="ediarum_qkl_1cw_jgb"><hi rendition="#aq">Lokal</hi>e des <hi rendition="#aq">Museum</hi>'s</placeName> die Ordnung der Aufstellung aller vorhandenen <hi rendition="#aq">Marmor</hi> angegeben, so daß jedes Monument, wie es dahin
+                        <hi rendition="#aq">transportirt</hi> wird, sogleich sein <hi rendition="#aq">Lokal</hi> erhält, und in der Folge die unangenehme Arbeit
+                    der Umstellungen nicht nöthig ist. <lb/>Aber eine große Anzahl der <hi rendition="#aq">Marmor</hi> bedürfen einer Reinigung und <hi rendition="#aq">Restauration</hi>. Dahin gehören hauptsächlich die, welche durch lange
+                    Jahre im Freyen stehend, durch den Ansatz von Moosflecken verunstaltet, und die
+                    Fugen der alten <hi rendition="#aq">Restaurationen</hi> durch Näße und Frost
+                    gesprengt wurden. Solche sind von ihren ietzigen Stellen zuerst in die Werkstatt
+                    des <hi rendition="#aq">Restaurator</hi>'s zu bringen, und dann erst in das <hi rendition="#aq">Museum</hi>. <lb/>Zweytens machen die Fußgestelle einige
+                    Vorarbeit nöthig. Manche bedürfen einer <hi rendition="#aq">Restauration</hi>,
+                    manche eine Umarbeitung, oder ganz neue Stützen, weil sie bis iezt in Nischen
+                    stehend, keiner Piedestalle bedurften. Das Vorhandene wird man indeßen auf's
+                    beste benützen, selbst auch die sogenannten <hi rendition="#aq">Consolen</hi>,
+                    in so weit es angehen wird. Für die Aufstellung vieler Köpfe laßen sich ohne
+                    viele Unkosten und sehr zweckmäßig <hi rendition="#aq">Estagen</hi> von Holz
+                    machen, wie im <placeName key="ediarum_fwr_bxh_hhb"><hi rendition="#aq">Museum</hi> des <hi rendition="#aq">Kapitol</hi>s</placeName>.
+                    <lb/>Ferner giebt es mehrere Monumente, die sehr ungeschickt und ganz falsch <hi rendition="#aq">restaurirt</hi> sind, und also einer neuen und zweckmäßigern
+                        <hi rendition="#aq">Restauration</hi> bedürftig wären. Da indeßen diese <hi rendition="#aq">Restaurationen</hi> mit den Fugen wenigstens gehörig
+                    zusammenhängen; so wäre ich der Meinung, daß solche Monumente, wie sie iezt
+                    sind, sogleich aufgestellt würden. In der Folge ließe sich dann beurtheilen, in
+                    wie fern es zweckmäßig wäre, dieselben einzeln und nach und nach auch zum <hi rendition="#aq">Restaur</hi>-<pb n="6"/><hi rendition="#aq">ator</hi> zu
+                    bringen. Dergestalt würden im <hi rendition="#aq">Museo</hi> nur auf kurze Zeit
+                    einzelne Lücken entstehen, die man indeßen mit dem Gipsabguß ausfüllen könnte.
+                    <lb/>Ferner wäre besonders zu berücksichtigen, daß <supplied cert="high">man</supplied> manche größern Statuen, die römische Matronen vorstellen,
+                    iezt aber ihre Köpfe verloren haben, oder mit einem neuen falschen versehen
+                    sind, wieder zu Würde brächte, indem man denselben Köpfe von römischen
+                    Kaiserinnen, deren in der Sammlung so viele vorhanden sind, wieder aufsezte. Ein
+                    solches Verfahren ist von jeher üblich gewesen, und dadurch erhält vieles ein
+                    beßeres Ansehen und einen bedeutendern Werth. Auch ließen sich diese
+                        Umänderun<supplied cert="high">gen</supplied> ohne bedeutende Unkosten
+                    bewerkstelligen. <lb/>Aus dem Gesagten geht hervor: daß nichts hindern würde,
+                    die <hi rendition="#aq">Marmor</hi>monumente so bald wie möglich ihren ietzigen
+                    Stellen zu entheben, und sie nach dem <hi rendition="#aq">Museo</hi> zu
+                    versetzen; nur die zu reinigenden und zu restaurirenden würden vorher in die
+                    Werkstatt des Bildhauers wandern. <lb/>Zu solchen Zwecken hielte ich es für das
+                    Bequemste und Kürzeste, daß man Herrn Professor <hi rendition="#aq"><persName key="ed_p41_xpz_lw">Rauch</persName></hi> den Auftrag gäbe, das Geschäft
+                    des Abnehmens, <hi rendition="#aq">Transport</hi>irens, und <hi rendition="#aq">Restaurir</hi>ens über sich zu nehmen, doch so daß die Ordnung des <hi rendition="#aq">Transport</hi>es, und die Weise des <hi rendition="#aq">Restaurir</hi>ens immer unter meiner Aufsicht und Berathung geschähe. Ich
+                    schlage Hr. <hi rendition="#aq">Prof. <persName key="ed_p41_xpz_lw">Rauch</persName></hi> vorzugsweise hiezu vor, nicht bloß als einen
+                    geschickten Meister, sondern weil ihm auch das beßere <hi rendition="#aq">Lokal</hi>e seiner Werkstatt, und die Menge geschickter Leute, die unter
+                    ihm arbeiten, und mit der Versezung und dem <hi rendition="#aq">Transporte</hi>
+                    Bescheid wißen, zu Gebot stehen. Dann dürften sich die Marmor und andere
+                    Steinarten, <pb n="7"/> welche bey dem <hi rendition="#aq">Restaurir</hi>en
+                    nöthig wären, auch leichter bey ihm, als sonst irgendwo finden. Schneller und
+                    zweckmäßiger glaube ich kaum, daß das ganze Geschäft befördert werden könnte. -
+                    Nach einer vorläufigen Verabredung mit <persName key="ed_p41_xpz_lw">demselben</persName> würde er sich einer solchen Übernahme auch gern
+                    unterziehen. Doch wünschte er, verschiedener Voreinrichtungen wegen, daß er in
+                    Zeit hierwegen beschieden werden könnte.</p>
+                <p>II. <lb/>Die kleinern antiken Gegenstände.
+                    <lb/>------------------------------------<lb/>Die kleinern Gegenstände antiker
+                    Kunst, als <hi rendition="#aq">Gemmen</hi>, Münzen, kleine Erze, gebrannte
+                    Erden, Lampen, Gefäße, Geräthe, Mosaike, gemalte Mauerstücke, Mumien und andere
+                    Gegenstände <rs type="artwork" key="prov_fsz_czc_y3b">ägyptischer Kunst</rs>,
+                    u.s.w. bestimmen wir für eine besondere und zweyte Abtheilung des <hi rendition="#aq">Museum</hi>'s. <lb/>Das wesentlichste hievon ist bis iezt in
+                    der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> aufbewahrt, und in
+                    drey besondern Kammern allda mehr zusammengehäuft, als aufgestellt; die Gemmen
+                    und Münzen ausgenommen, die besondere Schränke haben. Ich wäre aber der Meinung,
+                    daß auch für die andern Gegenstände besondere Schränke gemacht würden, theils um
+                    die kleinern Gegenstände sicherer zu bewahren, und größere vor Staub und Unrath
+                    zu sichern. Glasthüren zu solchen Schränken würden die paßendsten seyn. <lb/>Die
+                    Zahl der kleinen Erze und andern Gegenstände habe ich vorläufig selbst
+                    aufgezeichnet. Über die Münzen, Gemmen und die Zahl der Gefäße und Lampen habe
+                    ich aber von dem ietzigen Aufseher, Herrn Prediger <hi rendition="#aq"><persName key="prov_kds_gnv_3v">Henry</persName></hi>, ein <hi rendition="#aq">summari</hi>sches Verzeichniß verlangt, welches er <pb n="8"/> mir auch
+                    sehr willfährig zustellte, wie die Beylage B. ausweiset. <lb/>Hierüber vorläufig
+                    nur noch folgendes: <lb/>1. Zu wünschen wäre es, daß genannte <rs type="artwork" key="prov_usp_jlw_jgb">Antikensammlung</rs> auch möglichst bald in das
+                        <placeName key="ediarum_qkl_1cw_jgb">neue <hi rendition="#aq">Lokal</hi>e</placeName> des <hi rendition="#aq">Museum</hi>'s versezt
+                    würde. Dies würde am besten unter der Aufsicht des <persName key="prov_kds_gnv_3v">ietzigen Aufsehers</persName> geschehen, wobey der <hi rendition="#aq">Substitut</hi>, Herr <hi rendition="#aq">Prof. <persName key="ed_ifk_ktj_xv">Lewezow</persName></hi>, Hülfe reichen könnte.
+                    <lb/>2. Das <hi rendition="#aq">Lokal</hi>e aber, welches der Architekt hiefür
+                    bestimmte, würde nicht hinreichen. Daher bin ich der Meinung, daß der
+                    daranstoßende runden Saal dazu genommen würde. <lb/>3. welche Schränke von den
+                    alten beyzubehalten, und welche neu zu machen wären, müßte mit dem Aufseher noch
+                    genauer überlegt werden. Die <rs type="artwork" key="prov_f1j_pkc_y3b"><hi rendition="#aq">Adler</hi>ische Sammlung</rs> müßte dabey auch
+                    berücksichtiget werden. <lb/>4. würde bey dieser Versetzung eine genaue <hi rendition="#aq">Revision</hi> über den ganzen Bestand der Sammlung
+                    vorzunehmen, und gleichsam eine neue Übergabe an den <hi rendition="#aq">Custos</hi> erforderlich seyn. <lb/>5. Erst nach einer solchen genauen <hi rendition="#aq">Revision</hi> des ganzen Bestandes könnten bestimmte
+                    Maßregeln über die zweckmäßige Ordnung und Vereinigung aller Theile unter sich
+                    verabredet werden. Hiernach müßte dann das Ganze <hi rendition="#aq">catalog</hi>isirt und beschrieben werden, indem man dasjenige, was hierin
+                    schon zweckmäßig geschehen ist, zu Grunde legte. <lb/>6. Dann wäre gehörig zu
+                    ermeßen, auf welche Weise die Sammlung dem Publikum zugänglich gemacht, und für
+                    Gelehrte und Künstler brauchbar und nützlich werden könnte.<pb n="9"/>
+                    <lb/>7. Ferner bin ich der Meinung, daß hiemit alles verbunden würde, was man in
+                    Abgüßen von Münzen und Gemmen theils schon besitzt, theils in Zukunft <hi rendition="#aq">acquirirt</hi> würde. Dahin gehören die Abdrücke der <rs type="artwork" key="prov_a4v_wzz_ghb"><hi rendition="#aq">Mionet</hi>schen
+                        Münzen</rs>, die sich iezt in der <orgName key="ed_znn_dfc_b1b">Akad<ex>emie</ex> der Wißenschaften</orgName> vorfinden, dann die
+                        <persName key="ed_tm4_y1d_y3b">Lippertsche</persName>
+                    <rs type="artwork" key="prov_cxw_g1d_y3b"><hi rendition="#aq">Daktyliothek</hi></rs>, und die 600 Abdrücke der <rs type="artwork" key="prov_qdm_fcd_y3b">Pariser Gemmensammlung</rs>: beide bis iezt in der
+                        <orgName key="ed_u5s_1fc_b1b">Akad<ex>emie</ex> der Künste</orgName>.
+                    <lb/>8. Auch würde dann zu überlegen seyn, in wie fern von allem Wichtigern
+                    Schwefelabdrücke zu nehmen wären, theils für das <hi rendition="#aq">Museum</hi>
+                    selbst, theils zum Austausch, und auch zum Verkauf. <lb/><hi rendition="#u">Anmerkung 1.</hi>: Die <rs type="artwork" key="prov_usp_jlw_jgb">Antikensammlung</rs>, von der wir bis iezt sprachen, ausgenommen, würde der
+                    ganze Inhalt der sogenannten <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> für iezt noch in ihrem <hi rendition="#aq">Lokal</hi>e verbleiben. Die Gegenstände, obwohl sie eigentlich nicht in's
+                    Kunstfach gehören, haben zwar auch ihr vielseitiges Intereße. Aber hiefür ist in
+                    dem bisherigen Bau des <hi rendition="#aq">Museum</hi>'s nicht das geringste <hi rendition="#aq">Lokal</hi>e vorhanden. <lb/><hi rendition="#u">Anmerkung
+                        2.</hi>: Bis iezt standen die <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>, und die ange<supplied cert="high">ge</supplied>bene <rs type="artwork" key="prov_usp_jlw_jgb">Sammlung antiker
+                        Gegenstände</rs> unter demselben <persName key="prov_kds_gnv_3v"><hi rendition="#aq">Custos</hi></persName>. In Zukunft würde aber solches
+                    schwer angehen. jede Sammlung beschäftigt für sich seinen Mann. Dabey scheint
+                    aber natürlich, daß man es dem Manne, der bis iezt <hi rendition="#aq">Custos</hi> von beiden war, frey stellte, zwischen den beiden
+                    Aufseherschaften zu wählen; die andere aber dem <persName key="ed_ifk_ktj_xv"><hi rendition="#aq">Substitut</hi>en</persName> übergäbe. <pb n="10"/></p>
+                <p>III. <lb/>Die Gemälde. <lb/>------------------------------<lb/>Die dritte
+                    Abtheilung des <hi rendition="#aq">Museum</hi>'s machen die Gemälde. <lb/>Ich
+                    habe aus den reichen <rs type="artwork" key="prov_jlr_2lw_jgb">königlichen
+                        Sammlungen</rs>, mit Inbegriff der <rs type="artwork" key="prov_a5d_5gl_jw"><hi rendition="#aq">Giustinian</hi>ischen</rs>, vorläufig an 650 Stücke
+                    aufgezeichnet, als solche, die mir würdig schienen, in das <hi rendition="#aq">Museum</hi> versetzt zu werden. Ich sage vorläufig: Denn über verschiedene
+                    Werke kann erst entschieden werden, wenn sie von den hohen und finstern Stellen,
+                    wo sie iezt hängen, herunter genommen, näher vor das Auge treten werden. Manches
+                    wird dann wohl zurückblieben, als unpaßend für das <hi rendition="#aq">Museum</hi>, wo nur classische Werke, oder solche, welche für die
+                    Kunstgeschichte wichtig sind, aufgenommen werden können. Überhaupt kann ich
+                    schon vorläufig beurtheilen, daß so viel zurückbleiben wird, um daraus eine
+                    zweyte Gallerie zu füllen, entweder die hiesige im <placeName key="prov_ulk_twt_fv">Schloße</placeName>, oder den hiezu schön
+                    eingerichteten Raum von <hi rendition="#aq"><placeName key="ediarum_gdv_3cz_w3b">Sanssouci</placeName></hi>. Doch hierüber mag dann ein <orgName key="ed_l55_3dd_y3b">Königl<ex>iches</ex> Hofmarschallamt</orgName>
+                    beschließen. <lb/>Ich gebe zuerst die Liste der Auswahl aus den verschiedenen
+                    Sammlungen: </p>
+                <p><hi rendition="#u">1.</hi> Aus der <placeName key="ediarum_gdv_3cz_w3b">Gallerie
+                        von <hi rendition="#aq">Sanssouci</hi></placeName>
+                    <lb/>von etwa 168 Nummern: -----------------------117. Stücke <lb/>worunter
+                    Italiener --------------------------------43. ----<lb/>Niederländer, Holländer
+                    und Deutsche ------ 74. --<hi rendition="#u"><lb/>2.</hi> Aus den verschiedenen
+                    Zimmern <lb/>und Sälen des <placeName key="ediarum_ms2_rdz_w3b">neuen <hi rendition="#aq">Palais</hi></placeName> -------------------- 70. St. <pb n="11"/>
+                    <lb/><hi rendition="#u">3.</hi> Aus <hi rendition="#aq"><placeName key="ediarum_zl2_55t_ngb">Charlottenburg</placeName></hi>
+                    -------------------------- 16. Stück <lb/>4. Aus dem Hauptgeschoße des
+                        <lb/><placeName key="prov_ulk_twt_fv">Schloßes in <hi rendition="#aq">Berlin</hi></placeName>. ------------------------------- 64. --<lb/>5.
+                    Aus der Gallerie des <placeName key="prov_ulk_twt_fv">K<ex>öniglichen</ex>
+                        Schloßes</placeName> 290. --<lb/>6. Aus der <rs type="artwork" key="prov_a5d_5gl_jw">Sammlung <hi rendition="#aq">Giustiniani</hi></rs> mit
+                    <lb/>Inbegriff der nachher gekauften -------------- 100.
+                    <lb/>-----------------------------------------------------------------<lb/>zusammen:
+                    Stücke: ------------------------------ 657.</p>
+                <p>Hievon gebe ich nun die Liste nach den Kunstepochen, und Schulen: <hi rendition="#u"><lb/>I.</hi>
+                    <rs type="artwork" key="prov_xjy_5fd_y3b">alte Italiener</rs> der II<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>, oder der
+                    <lb/>Bildungsepoche ---------------------------------- 8. Stücke <lb/><hi rendition="#u">II.</hi> Italiener der III<hi rendition="#u"><hi rendition="#sup">ten</hi></hi> Epoche: <hi rendition="#u"><lb/>a.</hi>
+                    <rs type="artwork" key="prov_fdq_1fd_y3b">Florentinische Schule</rs>
+                    ----------------------- 13. <lb/><hi rendition="#u">b.</hi>
+                    <rs type="artwork" key="prov_krc_dfd_y3b">Römische</rs> ------------
+                    ------------------------ 10. <hi rendition="#u"><lb/>c.</hi>
+                    <rs type="artwork" key="prov_klb_ffd_y3b"><hi rendition="#aq">Lombard</hi>ische</rs> ------- ------------------------ 17. <lb/><hi rendition="#u">d.</hi>
+                    <rs type="artwork" key="prov_v5v_gfd_y3b"><hi rendition="#aq">Venezian</hi>ische</rs> ------- ------------------------ 41. <hi rendition="#u"><lb/>III.</hi> Italiener IV<hi rendition="#sup"><hi rendition="#u">te</hi></hi> Epoche: <lb/><hi rendition="#u">a.</hi>
+                    <rs type="artwork" key="prov_fhw_3fd_y3b">Eklektiker</rs>
+                    --------------------------------------- 35. <hi rendition="#u"><lb/>b.</hi>
+                    <rs type="artwork" key="prov_ghp_kfd_y3b">Naturalisten</rs>
+                    ------------------------------------ 18. <hi rendition="#u"><lb/>IV.</hi>
+                    Italiener und Franzosen der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche: <lb/>zusammen:
+                    -----------------------------------------49. <lb/><hi rendition="#u">V.</hi>
+                    <rs type="artwork" key="prov_l2n_pfd_y3b">alte Deutsche</rs> und alte <rs type="artwork" key="prov_x2h_rfd_y3b">Niederlander</rs> ------34. <lb/><hi rendition="#u">VI.</hi> Deutsche u. <rs type="artwork" key="prov_x2h_rfd_y3b">Niederländer</rs> der <lb/>III<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche
+                    --------------------------------------- 31. <hi rendition="#u"><lb/>VII.</hi>
+                    <rs type="artwork" key="prov_x2h_rfd_y3b">Niederländer</rs> und Deutsche der
+                        <lb/>IV<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche
+                    --------------------------------------- 135. <lb/>VIII. <rs type="artwork" key="prov_x2h_rfd_y3b">Holländer</rs> u. Deutsche der <lb/>V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche
+                    ---------------------------------------- 230. <lb/>Unter diesen leztern giebt
+                    es: <pb n="12"/>
+                    <lb/><hi rendition="#u">a.</hi> historische und gesellschaftsstücke ---------
+                    70. <lb/>b. <hi rendition="#aq">Bambocciad</hi>en
+                    ----------------------------------35. <lb/>c. Architekturstücke
+                    ------------------------------- 9. <lb/>d. Seestücke
+                    ---------------------------------------- 8. <lb/>e. Schlachten, Gefechte, Jagden
+                    -----------------25. <lb/>f. Landschaften (worunter einige Italiener) --- 59.
+                    <lb/>g. Früchte, Blumen, Fische, Geflügel u. Stillleben 24.</p>
+                <p>In der Beylage C. sind die Namen der Meister, und die Zahl ihrer Gemälde
+                    angegeben. Man wird hieraus ersehen, daß die Zahl gewißer Epochen und Schulen
+                    sehr gering; in andern hingegen die Zahl der Stücke, selbst von einzelnen
+                    Meistern, sehr bedeutend ist. </p>
+                <p>In Rücksicht der Aufstellung erkenne ich keine andere Anordnung als zweckmäßig,
+                    als diejenige nach Epochen und nach Schulen; und hiernach würde ich sie nach dem
+                    gegebenen <placeName key="ediarum_qkl_1cw_jgb">Lokale</placeName> in dem <hi rendition="#aq">Museo</hi> auf folgende Weise anordnen in dem: <lb/>I. Saal
+                    auf der Ecke an der <hi rendition="#aq">Universität</hi>sstraße: die <rs type="artwork" key="prov_l2n_pfd_y3b">alten Deutschen</rs> und <rs type="artwork" key="prov_x2h_rfd_y3b">Niederländer</rs> der II<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> und III<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche. <lb/>II. Saal: die
+                    alten <rs type="artwork" key="prov_d4b_ngd_y3b">Italiener</rs> der II<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche, und die vier
+                    Hauptschulen italienischer Meister der dritten Epoche. <lb/>III. Saal: die
+                    Italiener der IV<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche
+                    sowohl <rs type="artwork" key="prov_fhw_3fd_y3b">Eklektiker</rs>, als <rs type="artwork" key="prov_ghp_kfd_y3b">Naturalisten</rs>. <pb n="13"/><lb/>IV. Saal: die <rs type="artwork" key="prov_d4b_ngd_y3b">Italiener</rs>
+                    und <rs type="artwork" key="prov_rkz_nfd_y3b">Franzosen</rs> der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche. <lb/>V. und VI.
+                    Saal: die <rs type="artwork" key="prov_x2h_rfd_y3b">Niederländer</rs> und
+                    Deutschen der IV<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche.
+                    <lb/>In den kleinern Abtheilungen und Zimmern aber an den großen Sälen hin gegen
+                    die <hi rendition="#aq">Universität</hi>sstraße wären aufzuhängen alle kleinern
+                    Gemälde der <rs type="artwork" key="prov_x2h_rfd_y3b">Holländer</rs> und
+                    Deutschen der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche, und
+                    zwar so daß immer eine jede der sieben Gattungen sich in der Ordnung folgte. </p>
+                <p>Hieraus ergiebt sich, daß vorläufig auch die Hauptanordnung zur Aufstellung der
+                    Gemälde getroffen wäre. Nach den Epochen und Schulen wären die Säle und kleinern
+                    Zimmer eingetheilt. Bey der Versetzung würde sogleich jedes Gemälde seinen Saal
+                    finden, und dann in demselben zugleich seine paßende Stelle. <lb/>Die Zögerung
+                    in der Aufstellung dürfte um so geringer seyn, da nach der vorläufigen Ansicht
+                    nur weniges an den Rahmen auszubeßern wäre, und wenige Gemälde nur einer
+                    Reinigung bedürften. Das Reinigen selbst aber müßte allmählig, und <placeName key="ediarum_qkl_1cw_jgb">im Lokale selbst</placeName> geschehen (nämlich in
+                    einem hiezu bestimmten Nebenzimmer). Auf solche Weise könnte das Reinemachen und
+                    Putzen der Gemälde unter Aufsicht geschehen. <pb n="14"/>
+                    <hi rendition="#u"><lb/>Anmerkung 1.</hi> Ich habe zwar für jede <hi rendition="#aq">Classe</hi> von Gemälden die Lokalität in dem <hi rendition="#aq">Museo</hi>
+                    <hi rendition="#aq">designirt</hi>; aber schwerlich möchten alle aufgezeichneten
+                    Bilder in jedem Saale hinreichenden Platz finden. Dies kann aber wenig Störung
+                    geben, indem manche Gemälde von den aufgezeichneten bey näherer Besichtigung
+                    noch in Ausschuß kommen werden. Ferner ist die Anzahl der Gemälde von gewißen
+                    Meistern so groß, daß es unpaßend seyn würde, alle aufnehmen zu wollen. Indeßen
+                    kann hierüber erst entschieden werden, wenn man alle zum Vergleich neben
+                    einander aufstellen und dann sehen kann, was sich wesentlich für das <hi rendition="#aq">Museum</hi> paßt und was nicht. Was dann irgend aus einem
+                    Grunde nicht aufgenommen wird, kann dann zur weitern <hi rendition="#aq">Disposition</hi> an ein <orgName key="ed_l55_3dd_y3b">königl<ex>iche</ex>
+                        Hofmarschallamt</orgName> zurückgesandt werden. Einen kürzern Weg des
+                    Verfahrens bey einer, zweckmäßigen <hi rendition="#aq">definitiv</hi>en Auswahl
+                    läßt sich nicht vorschlagen. <lb/><hi rendition="#u">Anmerkung 2.</hi> Jedes
+                    Gemälde trägt iezt den Namen irgend eines Meisters; aber offenbar sind nicht
+                    selten solche Benennungen sehr willkührlich gegeben. Falsche Namen dürfen aber
+                    in einem <hi rendition="#aq">Museo</hi> nicht bleiben; und die Rüge würde bald
+                    und mit Recht dagegen auftreten. Indeßen kann die Beurtheilung, welchem Meister
+                    und welcher Zeit jedes zuzuschreiben sey, erst dann statt finden, wenn man die
+                    Gemälde zu der genauen Vergleichung vor Augen hat. Indeßen sind voläufig schon
+                    viele solcher falscher Benennungen bezeichnet, und die wahren ihnen wieder
+                    zugetheilt worden. <lb/><hi rendition="#u">Anmerkung 3.</hi> Bey der gemachten
+                    Auswahl wird man bemerken, <pb n="15"/> daß <rs type="artwork" key="prov_ttn_dhd_y3b">von noch lebenden Künstlern</rs> keine Arbeiten
+                    aufgenommen sind. Ich nehme dieses Verfahren als Grundsatz an; weil sonst schwer
+                    zu vermeiden wäre, daß nicht Arbeiten aufgenommen würden, worüber ein kommendes
+                    Zeitalter uns eines voreiligen Urtheils bezüchtigen würde. Die Werke der
+                    lebenden Künstler, so vortrefflich sie auch seyn mögen, gehören nicht in <hi rendition="#aq">Musea</hi>, sondern sind zur Zierde in königliche und andere
+                    öffentliche Gebäude und Kirchen aufzustellen. Erst unsern Nachkommen steht das
+                    Urtheil zu, solche als Muster auch in den Museen zu weihen. <lb/><hi rendition="#u">Anmerkung 4.</hi> So wie ich für die <hi rendition="#aq">Deplacirung</hi>, und Wiederaufstellung der Antiken in Marmor und in Erz
+                    den Herrn <hi rendition="#aq">Prof. <persName key="ed_p41_xpz_lw">Rauch</persName></hi> vorschlug; so würde ich zu demselben Zwecke in
+                    Hinsicht der Gemälde einen sachkundigen Mahler in der Person des Herrn <hi rendition="#aq">Prof. <persName key="ed_dqk_fnp_thb">Kubeil</persName></hi>,
+                    der mir bis iezt treulich beygestanden hat, und das Wesen meines Verfahrens
+                    kennet, in Vorschlag bringen. Er würde mit zwey bis drey Handlanger-Gehülfen,
+                    die Gemälde sorgsam von ihren ietzigen Stellen abnehmen, <hi rendition="#aq">transportir</hi>en, und dann unter meiner Aufsicht sie wieder an den
+                    gehörigen Orten in dem <hi rendition="#aq">Museo</hi> aufstellen. Andere Leute,
+                    die dem Abnehmenden nicht untergeordnet wären, würden nicht gut helfen, und
+                    nicht gehörig die Hand bieten. Die einfachste Leitung bleibt auch hierin die
+                    beste; und so kann man seine Ehre verbürgen: alles auf's zweckmäßigste, mit den
+                    geringsten Unkosten und auf dem kürzesten Wege zu Stande zu bringen. <hi rendition="#u"><lb/>Anmerkung 5.</hi> Um Verwirrung zu vermeiden, würde bey
+                    dem Abnehmen jedes Gemälde seine Nummer bekommen, und der Namen des früheren
+                    Lokals darauf gesetzt werden. Dann <pb n="16"/> würde der Beauftragte ein
+                    Verzeichniß der Gemälde machen, und dem <orgName key="ed_l55_3dd_y3b">Hofmarschallamt</orgName> als Empfangschein zustellen. Dies würde bey jeder
+                    Sammlung geschehen. Im Falle der Rücksendung mancher Stücke würde man auf
+                    gleiche Weise einen Rückschein vom <orgName key="ed_l55_3dd_y3b">Hofmarschallamt</orgName> erbitten.</p>
+                <p><hi rendition="#u">Aufsicht, und Benutzung des <placeName key="prov_up1_xwt_fv"><hi rendition="#aq">Museum</hi></placeName>'s.</hi>
+                    <lb/>Die künftige Aufsicht und Benutzung des <hi rendition="#aq">Museum</hi>'s
+                    steht mit meinem Auftrage in so genauer Beziehung, daß ich es wagen darf, auch
+                    hierüber meine Ansichten anzugeben. <lb/>1. Nach unserer Angabe würde das <hi rendition="#aq">Museum</hi> aus drey Abtheilungen bestehen, wovon jede seine
+                    besondere Aufsicht haben müßte. <lb/>2. Zur Aufsicht über die größern Monumente
+                    in Marmor und in Erz würde ein Mann erfordert, der sich mit dem Studium der
+                    Alterthümer beschäftigt; und einen ähnlichen in den Alterthümern erfahrnen Mann
+                    fordert die Aufsicht über das <rs type="artwork" key="prov_py3_thd_y3b">Antikencabinet</rs>, oder die Antikensammlung der kleinern, aber sehr
+                    wichtigen antiken Gegenstände. <lb/>Die dritte Aufsicht fordern <rs type="artwork" key="prov_jlr_2lw_jgb">die Gemälde</rs>, und hiezu wird ein
+                    Kunstkenner oder Mahler erfordert, der das geschichtliche Studium der Mahlerey
+                    mit Liebe betrieben hat. <hi rendition="#u"><lb/>Anmerkung</hi>: Das <rs type="artwork" key="prov_py3_thd_y3b">Antikencabinet</rs> hat iezt schon
+                    seinen Aufseher in der Person des Herrn Prediger <persName key="prov_kds_gnv_3v"><hi rendition="#aq">Henry</hi></persName>, und in seinem <hi rendition="#aq">Substitut</hi>en, Herrn <hi rendition="#aq">Professor
+                            <persName key="ed_ifk_ktj_xv">Levezow</persName></hi>. <lb/>Zur Aufsicht
+                    über die Marmor würde sehr zweckmäßig Herr <pb n="17"/>
+                    <hi rendition="#aq">Professor <persName key="ed_kmv_v5d_n1b">Tölken</persName></hi> in Vorschlag zu bringen seyn. <lb/>Für <rs type="artwork" key="prov_jlr_2lw_jgb">die Gemälde</rs>, kenne ich unter den
+                    Künstlern, die sich zugleich das Studium der verschiedenen Meister und Schulen
+                    angelegen seyn ließen, hauptsächlich den Herrn <hi rendition="#aq">Prof.
+                            <persName key="ed_dqk_fnp_thb">Kubeil</persName></hi>, der zu einer
+                    solchen Aufsicht paßen würde. Zugleich würde er auch die Aufsicht über die
+                    Sammlung der Kupferstiche führen, die sich iezt bey der <orgName key="ed_u5s_1fc_b1b">Kunstakademie</orgName> befindet. <lb/>Ferner ist zu
+                    bemerken: daß auch die Sammlung der Gipsabgüße die Aufsicht eines Kunstgelehrten
+                    fordert, welche am besten mit der Aufsicht über die Marmor verbunden werden
+                    könnte. <lb/>3. Als Gehülfen bey der Aufsicht müßten mehrere Diener - und diese
+                    zwar in beständiger <hi rendition="#aq">Livrée</hi> - angestellt werden. Denn an
+                    den Tagen, wo der Zugang öffentlich ist, können wenige den Dienst nicht gehörig
+                    versehen. <lb/>Ich setze: <lb/>1. den Portier, <lb/>2. einen bey den Marmorn,
+                    <lb/>3. zwey bey den Gipsabgüßen. <lb/>4. drey für die <rs type="artwork" key="prov_jlr_2lw_jgb">Gemäldesammlung</rs> und Kupferstiche, <lb/>5. einen
+                    für das <rs type="artwork" key="prov_py3_thd_y3b">Antikencabinet</rs>.
+                    <lb/>Weniger als acht Unterdiener könnten nicht wohl seyn. <lb/>4. Öffentliche
+                    Tage zum Besehen in jeder Woche könnten im Sommer zwey, auch drey seyn, und dies
+                    von 9 Uhr bis 4 Uhr; im Winter aber bloß zwey Tage von 10 bis 2 Uhr. <lb/>Die
+                    Zahl der Besehenden müßte <hi rendition="#aq">limitirt</hi> seyn, damit keine
+                    Überfüllung statt fände, wo die Beschauer sich unter einander selbst hinderten,
+                    und die Aufsicht schwer zu handhaben wäre. <pb n="18"/>
+                    <lb/>5. Das <hi rendition="#aq">Museum</hi> müßte gegen Karte für das ganze
+                    Publikum zugänglich seyn, und wer nach seinem Stande gekleidet ist, dürfte nicht
+                    abgewiesen werden. Mit Vergnügen erinnere ich mich, in <placeName key="prov_hp5_gbv_35">Florenz</placeName> und in <placeName key="ediarum_fn3_x41_kw">Wien</placeName> Gruppen von Landleuten und Bauern
+                    gesehen zu haben, die die Statuen und Gemälde auch in Augenschein nahmen, und
+                    solche nach ihrer Weise beurtheilten. <lb/><hi rendition="#u">6.</hi> Künstlern,
+                    die man kennt, und mit der <orgName key="ed_u5s_1fc_b1b">Akademie</orgName>
+                    verbunden sind; ferner Zöglingen der <orgName key="ed_u5s_1fc_b1b">Akademie</orgName>, welche vom <hi rendition="#aq">Director</hi> eine Carte
+                    haben, steht der Zugang immer frey, auch an den Tagen, die nicht öffentlich
+                    sind. <lb/>7. Für Zeichnende und Copirende ist ein besonderes <hi rendition="#aq">Reglement</hi> abzufaßen. <lb/>8. das gleiche für die
+                    Besuchenden überhaupt: was am Eingange anzuschlagen ist. <lb/>9. Ein <hi rendition="#aq">Reglement</hi> müßte ferner die Rechte und Pflichten der
+                    Aufseher, und der Unterbedienten festsetzen. <lb/><hi rendition="#u">10.</hi>
+                    Allein zur Handhabung des Innern in allen Geschäften ist es nicht genug, daß
+                    jede der drey Abtheilungen seine besondere Aufsicht habe; es müßte auch eine <hi rendition="#aq"><orgName key="ed_l55_3dd_y3b">Generaldirection</orgName></hi> seyn, unter welcher die Leitung des Ganzen
+                    steht, und die dem Minister für das Ganze verantwortlich ist. Die <orgName key="ed_qzd_53d_y3b"><hi rendition="#aq">Generaldirection</hi></orgName>
+                    verlangt einen mit dem Alterthume und den Künsten überhaupt vertrauten Mann, der
+                    nicht bloß die Ordnung zu halten versteht, sondern auch die innere Thätigkeit
+                    zur <hi rendition="#aq">Illustration</hi> des <hi rendition="#aq">Museum</hi> zu
+                    leiten weiß. Alle Veränderungen im <hi rendition="#aq">Museo</hi>, so wie <pb n="19"/> auch alle neu zu machenden <hi rendition="#aq">acquisition</hi>en
+                    müßten durch ihn gehen. Auch müßte dem <hi rendition="#aq">Generaldirector</hi>
+                    ein bedeutender Rang gesichert werden. <hi rendition="#u"><lb/>Anmerkung</hi>:
+                    Nach dem, was ich bis iezt von einer <hi rendition="#aq"><orgName key="ed_qzd_53d_y3b">Generaldirection</orgName></hi> des <hi rendition="#aq">Museum</hi> gesagt habe, möchte es den Anschein haben, als
+                    wenn ich mich selbst für einen solchen Posten <hi rendition="#aq">designirt</hi>e. Allein ich erkläre feierlichst: daß ich eine solche Stelle
+                    keinessweges ambitionire. Meine Ambition beschränkt sich einzig auf meine
+                    gelehrten Arbeiten, welche sich mit einer Geschäftsführung nicht vertragen. Mit
+                    Vergnügen würde ich aber auch ferner alles beytragen, um die ganze Einrichtung,
+                    und die innere Organisation zu vervollständigen. Selbst was ich zur Verfertigung
+                    der Catalogen, und den nähern Beschreibungen der verschiedenen Abtheilungen des
+                        <hi rendition="#aq">Musei</hi> würde beytragen können, würde ich gerne
+                    übernehmen, und nicht abstehen, bis nicht das Ganze in jener Organisation
+                    dasteht, wie man sie mit Billigkeit wünschen kann. Zufrieden mit der Lage, in
+                    welche ich bey meiner Aufnahme allhier durch des <persName key="prov_sqc_swd_2v">hochseligen Königs Mayestät</persName> versezt worden bin, glaube ich mir
+                    bewußt zu seyn, meine Studien treu und nicht ohne Erfolg <hi rendition="#aq">cultivirt</hi> zu haben, und ich wünsche dasselbe noch ferner zu thun, so
+                    viel und so lange es mir die Kräfte erlauben. Auf höhere Belohnung und Ehre
+                    werde ich nie Anspruch machen. <lb/>Man lege dies Wort über mich günstig aus! -
+                    <lb/>___________________________________ <pb n="20"/>
+                    <lb/><lb/>Ein <orgName key="ed_xpk_5s3_f3b">hohes <hi rendition="#aq">Ministerium</hi></orgName> hat nebst dem Herrn Geheimen
+                    Oberregierungsrath <persName key="ed_kbw_cgy_lw">Schultz</persName> zugleich
+                    mich aufgefordert, über den gesammten Akademiebau zu berichten. Auch ohne diese
+                    ehrenvolle Aufforderung würde ich mich genöthigt gesehen haben, in Beziehung auf
+                    das <hi rendition="#aq">Museum</hi> Einiges in dieser Hinsicht zu berichten, was
+                    zwar nicht unmittelbar, doch mittelbar mit meinem Auftrage zusammenhängt. Mit
+                    dem H. Geh<ex>eimen</ex> O<ex>ber</ex> R<ex>egierungs</ex> Rath <persName key="ed_kbw_cgy_lw"><hi rendition="#aq">Schultz</hi></persName> habe ich
+                    vorläufig freundliche Rücksprache hierüber genommen, und er wird wohl im Ganzen
+                    nicht mißbilligen, was ich hier näher zur Sprache bringe. </p>
+                <p><placeName key="ediarum_qkl_1cw_jgb">Der Bau</placeName>, wie ihn S<hi rendition="#sup"><hi rendition="#u">e</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName> bis iezt haben ausführen
+                    laßen, soll dienen: <lb/>1. für die Aufnahme der Gegenstände des <hi rendition="#aq">Museum</hi>'s, <hi rendition="#u"><lb/>2.</hi> für das
+                    Lokale der <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>, <hi rendition="#u"><lb/>3.</hi> und für das der <orgName key="ed_znn_dfc_b1b">Akademie der Wißenschaften</orgName>.</p>
+                <p>I. <hi rendition="#u">Das <hi rendition="#aq">Museum</hi></hi>.<lb/>Die Räume des
+                        <hi rendition="#aq"><placeName key="prov_up1_xwt_fv">Museum</placeName></hi>'s, wie sie iezt sind, mögen für die bezeichneten
+                    Gegenstände, welche darin aufzustellen sind, hinreichen; doch nicht ohne eine
+                    gewiße Häufung; welche das Gefühl der Beengung erregen möchte, so wie anderseits
+                    bey einer solchen Engheit der Reichthum der Monumente sich mehr zeiget.
+                    Vielleicht wäre es aber nicht zu kühn, eine Erweiterung des Lokals <persName key="prov_bxf_jt5_fv">von der Hand</persName>, die großmüthig schon so
+                    vieles gab, zu erwarten. In solchem Falle würde es aber sehr zu wünschen seyn,
+                    daß die Fortsetzung des Baues genau mit der Aufsicht des <hi rendition="#aq">Museum</hi>'s berathen würde. Denn die Wahrheit gebietet zu gestehen, daß
+                    manches in dem bisher geführten Bau nicht so vortheilhaft <pb n="21"/> ist, wie
+                    man wünschen möchte. Die Lichtöffnungen sind in den Sälen zu hoch und zu breit
+                    angelegt, und daher das Spiel der Wiederscheine, welches dem guten Sehen sehr
+                    nachtheilig ist. Auch haben die hohen Lichter noch andere Nachtheile, welche
+                    auseinander zu setzen hier zu langwierig seyn würde. Ferner haben Lichter,
+                    welche durch eine Glasdecke in der Mitte der Dachung einfallen, wenig
+                    Vortheilhaftes in unserm <hi rendition="#aq">Clima</hi>; man scheut sich, sie
+                    selbst in mittäglichen Gegenden anzubringen, und da wo der Nothfall sie fordert,
+                    geschieht es nie, ohne eine Laterne aufzusetzen. Dann fürchte ich, daß der
+                    Architekt in Hinsicht der Dachung große Unkosten für jährliche <hi rendition="#aq">Reparatur</hi>en auf den Bau gewälzt habe. <lb/>Beyläufig
+                    erinnere ich noch, daß es auffällt, für die Aufstellung der Gemälde die Ost- und
+                    Westseite, und dagegen für die Marmor die Nordseite gewählt zu sehen. Das
+                    Umgekehrte wäre natürlicher gewesen. Außerdem daß iezt das Licht für die Gemälde
+                    nicht vortheilhaft ist, entsteht noch der Nachtheil, der schwer zu vermeiden
+                    ist, daß nicht das Sonnenlicht auf die Gemälde falle, besonders da bey so hoch
+                    angebrachten Fenstern keine Laden anzubringen sind. <lb/>In Hinsicht der Marmor
+                    hätte man geglaubt, daß ihre Aufstellung zweckmäßiger in dem untern Geschoße
+                    gewesen wäre. Denn es hat allerdings seine Bedenklichkeit, so viele schwere
+                    Körper in einem obern Stockwerke aufzustellen, obwohl man glauben muß, der
+                    Architekt habe in Hinsicht der Festigkeit alles bedacht. Eine vorläufige
+                    Untersuchung hierwegen würde jedoch nicht überflüßig seyn. <lb/>In Rücksicht der
+                    Erdgeschoße hatte der Baumeister allerdings eine große Aufgabe, nämlich die
+                    Nachtheile zu vermeiden, welche ein <hi rendition="#aq">Lokal</hi>e <pb n="22"/>
+                    mit sich bringt, wo lange Pferde gestanden haben. Feuchtigkeit und die Erzeugung
+                    von Salpeter sind in solchen Fällen schwer zu vermeiden. Hiedurch aber wird
+                    alles Holzwerk, als die Dielung und die Thüreinfaßungen, sogleich angegriffen;
+                    aber nicht nur dies, sondern das Mauerwerk selbst. Schwer läßt sich darauf einen
+                    haltbaren Anwurf geben, der nicht gar bald unansehnlich würde, und zwar nicht
+                    bloß im Äußern, sondern auch in dem Innern. Die Folgen hievon sind unaufhörliche
+                        <hi rendition="#aq">Reparatur</hi>en. <lb/>Ich erinnere all dies, um bey
+                    einem künftigen Fortbau darauf zu denken, solche Nachtheile zu vermeiden.
+                    <lb/>In Rücksicht der Erdgeschoße würde ich vorschlagen: den Grund zwischen den
+                    Mauern vier bis fünf Fuß tief auszugraben, und dann von Stelle zu Stelle
+                    Pfeilrechen mit Bohlen zu mauern, und dann erst auf solche Holung den Fußboden
+                    zu legen. Dabey müßte dies niedere Kellergeschoß von beiden Seiten kleine
+                    Luftöffnungen haben, damit alle Feuchtigkeit weggeblasen wird. Dergestalt würde
+                    nicht nur Stockung, sondern auch der Ansatz des Salpeter verschwinden. Auch nach
+                    dem man ein solches Verfahren als zweckmäßig erprobt hätte, könnte man späterhin<choice>
+                        <sic>,</sic>
+                        <corr type="deleted"/>
+                    </choice> den bisher geführten Bau berücksichtigen, und allmählig den Grund auf
+                    gleiche Weise ausgraben, und das Nachtheilige des ietzigen Baues zu entfernen
+                    suchen.</p>
+                <p>II. <hi rendition="#u"><lb/>Die <orgName key="ed_u5s_1fc_b1b">Akademie der
+                            Künste</orgName>. </hi><lb/>Für die k<ex>önigliche</ex> Akademie der
+                    Künste als Lehr<hi rendition="#aq">institut</hi> ist in dem gegenwärtigen Lokale
+                    nur dürftig gesorgt; und sie hat an Raum viel <pb n="23"/> mehr verloren als
+                    gewonnen. Sie bedarf einer bedeutenden Erweiterung, wenn sie thätig und lebendig
+                    fortwirken soll. <lb/>Bekannt mit den Bedürfnißen eines für den Staat so
+                    wichtigen <hi rendition="#aq">Institut</hi>s, deute ich hier die nothwendigen
+                    Räume an, welche es bedarf. Hiebey schließe ich aber gewiße Fächer aus, die nach
+                    einem verbeßerten Unterrichtsplan nicht in eine Akademie gehören, und anderwärts
+                    zweckmäßiger unterzubringen sind.</p>
+                <p>Die Bedürfniße sind: <lb/>1. ein Saal für den Unterricht der Figurenzeichnung.
+                    <lb/>2. ein noch größerer Saal für die Architektur und die Lehre der Perspektiv.
+                    Dieser Saal muß der Natur der Sache gemäß der besuchteste seyn, weil dieser
+                    Unterricht für jeden Zögling unerläßlich ist. <hi rendition="#u"><lb/>3.</hi>
+                    ein Saal für Vorlesungen: in der Theorie der Künste, in Mythologie und
+                    Geschichte - und dann für die verschiedenen Lehren in der Baukunst, wobey ich
+                    aber nur die eigentliche Architektur, und nicht ihre mathematischen und
+                    physischen Hülfswißenschaften berücksichtige. <lb/><hi rendition="#u">Anmerkung
+                        1.</hi> Für den Unterricht in der Figurenzeichnung waren bis iezt zwey Säle
+                    bestimmt. Dies ist aber unnütz, wenn dieser Unterricht eine zweckmäßigere
+                    Einrichtung erhält, als er bis iezt hatte; - und dann wenn man Tage und Stunden
+                    des Unterrichts gehörig mittheilt. <lb/><hi rendition="#u">Anmerkung 2.</hi>
+                    Bisher machte die Lehre in den Verhältnißen des menschlichen Körpers und der
+                    Anatomie, in so fern sie nur nach Zeichnungen und Gipsen gelehrt wird, ein
+                    eigenes <pb n="24"/> Fach des Unterrichtes. Dies darf aber bey einem verbeßerten
+                    Unterrichtsplan nicht mehr seyn; sondern der erste Unterricht - die erste Classe
+                    in der Figurenzeichnung - muß vielmehr hiemit beginnen das ist: alle
+                    Figurenzeichnung muß von der Verhältnißlehre und der anatomischen Kenntniß
+                    ausgehen. <lb/>Hiemit wollen wir aber einen zweyten <hi rendition="#aq">Cursus</hi> für Anatomie nicht ausschließen, nämlich jenen gegründetern,
+                    den man durch das Zeichnen nach den Cadavern mache. Ja keinem Zöglinge der
+                    Akademie, der sich auf Bildnerey oder Mahlerey legt, dürfte dieser Unterricht
+                    erlaßen werden. Aber ein Lokal in der Akademie selbst würde ich hiefür nicht
+                    annehmen; und paßender würde es seyn, einen Raum für die Kunstzöglinge zu diesem
+                    Zweck in der <placeName key="ediarum_act_vw3_y3b">Schule der
+                        Anatomie</placeName> selbst einzurichten. <lb/><hi rendition="#u">Anmerkung
+                        3.</hi> Bis iezt war der Zeichnungsunterricht für alle <hi rendition="#aq">Classen</hi> von Gewerksleuten auch mit der Akademie verbunden. Aber
+                    zweckmäßig gehört ein solcher Unterricht in eine <hi rendition="#aq">Real</hi>-
+                    oder in eine sogenannte polytechnische Schule, wozu man vorläufig das bisherige
+                    Lokale der <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> bestimmen könnte.
+                    Auch dieser Unterricht für gewerktreibende bedarf übrigens einer <hi rendition="#aq">Totalreform</hi>, wenn je etwas daraus werden soll. Aber
+                    Vorurtheil und Gemächlichkeit sind schwer zu besiegen. <lb/>4. ein zweckmäßig
+                    eingerichteter Saal für das Zeichnen nach dem Leben theils in den Winterabenden
+                    bey Licht, theils im Sommer in den Frühstunden, um auch nach dem Leben zu
+                    mahlen. <lb/>5. ein anderer ähnlicher Raum ist nöthig: um in den Winterabenden
+                    bey Licht nach der Gipsfigur zu zeichnen, und in den Frühstunden <pb n="25"/>
+                    des Sommers nach dem drappirten Gliedermann. <lb/><hi rendition="#u">6.</hi> Ein
+                    großes Zimmer mit ein paar kleineren Abtheilungen sind erforderlich <add place="left">für die Versammlung</add> der <hi rendition="#aq">Professoren</hi>, worunter man bis iezt den <orgName key="ed_fyw_2vh_4fb">academischen <hi rendition="#aq">Senat</hi></orgName> begrif, dann für den
+                        Oeconomie<hi rendition="#aq">inspector</hi>, auch etwa für <hi rendition="#aq">Director</hi> u. <hi rendition="#aq">Secretar</hi>. <lb/>7.
+                    bedarf die Akademie einer Reihe größerer Säle für die Kunstausstellung - welche
+                    wohl in der Folge alle Jahre, und nicht bloß jedes zweyte Jahr statthaben müßte
+                    -. Solche Ausstellungen gehören zum wahren Leben einer Kunstakademie; hiedurch
+                    tritt sie in Verbindung mit den Beschützern und Freunden der Kunst, ja mit dem
+                    ganzen Publikum. <lb/>Diese Säle würden aber nicht bloß für die Ausstellung
+                    dienen, sondern auch für jene Zöglinge der Kunstakademie, welche ihre Arbeiten
+                    für den großen Concurs zu verfertigen haben. Leider <hi rendition="#aq">existirt</hi> bis iezt ein solcher Preisconcurs nicht; aber wenn die
+                    Akademie je in eine Art von Blüthe kommen soll; so kann ein so wesentlicher
+                    Theil für die Ermuthung der Zöglinge nicht fehlen. Besondere Breterabschläge zu
+                    solchem Zwecke würden leicht aufzustellen und wegzunehmen seyn. <lb/><hi rendition="#u">8.</hi> ein paar größere Gelaße würden erfordert, um manches
+                    wegzustellen. Hiezu dürfte sich Raum in den <hi rendition="#aq">Entresols</hi>
+                    finden. <lb/>9. dann wären zugleich schickliche Wohnungen für den Kastellan, den
+                    Pedell, und den Hausknecht einzurichten: dann Gelaße für Holz u. andere
+                    Bedürfniße. <lb/>Ein größeres Lokale wäre für die Kunstakademie nicht nöthig;
+                    aber das angegebene nicht nur zweckmäßig, sondern nothwendig. <pb n="26"/></p>
+                <p>III. <hi rendition="#u"><lb/>Die <orgName key="ed_znn_dfc_b1b">Akademie der
+                            Wißenschaften</orgName>.</hi>
+                    <lb/>Die Akademie der Wißenschaften findet sich iezt fast noch mehr beengt, als
+                    die <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>, und sie hat ein
+                    großes Lokale aufgegeben. Ihre wahren Bedürfniße sind folgende:</p>
+                <p>1. Ein großer dem Quadrat sich annähernder Saal für die Gesammtsitzungen sowohl,
+                    als für die Tage der öffentlichen Sizung. <lb/>2. Ein anständiger Vorsaal, wo
+                    während der Sizung sich der Castellan aufhält. <lb/>3. ein geraumiger Saal für
+                    die <hi rendition="#aq">Bibliothek</hi>. <lb/>4. Ein geräumiges Zimmer oder
+                    kleinerer Saal für die <hi rendition="#aq">Classen</hi>sitzungen. <lb/><hi rendition="#u">5.</hi> Ein großer Raum für das Archiv und zur Aufstellung
+                    der Modelle und anderer Gegenstände, welche der Akademie zur Beurtheilung
+                    eingesandt werden. <lb/>6. eine anständige Wohnung für den <hi rendition="#aq">Castellan</hi>. <hi rendition="#u"><lb/>Anmerkung:</hi> Früher war manches
+                    mit der Akademie verbunden, was seitdem anders eingerichtet ist, besonders seit
+                    der <hi rendition="#aq">Existenz</hi> der <hi rendition="#aq"><orgName key="ed_jzs_dps_whb">Universität</orgName></hi>. <lb/>erstlich hatte man
+                    ein <hi rendition="#aq">Lokal</hi> für das <hi rendition="#aq">Herbarium</hi>,
+                    das iezt beßer nach dem <placeName key="ediarum_yzg_cnr_yhb">Botanischen
+                        Garten</placeName> verlegt ist. Zweytens waren zwey Säle zur Aufstellung
+                    physisch-chemischer Apparate, <hi rendition="#aq">Instrument</hi>e, modelle.
+                    Aber da die Academie als solche kein Lehr<hi rendition="#aq">institut</hi> ist,
+                    so sind alle Sammlungen beßer und billig nach andern <hi rendition="#aq">Institut</hi>en verwiesen worden. <lb/>Der Akademie ist nur die <orgName key="ed_mrs_pdw_jgb">Sternwarte</orgName> und die Wohnung des <hi rendition="#aq">Astron</hi>-<pb n="27"/><hi rendition="#aq">om</hi>en in
+                    einem nahe gelegenen Hause, worin auch noch die Wohnung für einen akademischen
+                    Chemiker, oder für solche ist, die allda chemische und <hi rendition="#aq">physical</hi>ische Versuche machen wollen, verblieben. Vielleicht ließe
+                    sich in der Folge auch hiefür eine zweckmäßigere Einrichtung treffen. Beßer
+                    würde die Wohnung des <hi rendition="#aq">Astronom</hi>en in den Thurm selbst
+                    verlegt werden. Und da die Akademie und die <orgName key="ed_jzs_dps_whb"><hi rendition="#aq">Universität</hi></orgName> an einem <hi rendition="#aq">Astronom</hi>en genug hat; würden hiedurch zwey Wohnungen frey werden, die
+                    eine, die der ietzige <hi rendition="#aq">Astronom</hi> der Akademie inne hat,
+                    und die andere auf der <hi rendition="#aq"><orgName key="ed_jzs_dps_whb">Universität</orgName></hi>, seitdem aufgegeben ist, allda eine zweyte
+                    Warte zu bauen.</p>
+                <p><hi rendition="#u">IV.</hi>
+                    <lb/><hi rendition="#u">Die <rs type="artwork" key="prov_gcx_hy3_y3b">Sammlung
+                            der Gipsabgüße</rs>.</hi>
+                    <lb/>Eine große Berücksichtigung verdient die Gipssammlung; und es gehört so
+                    wohl für das Studium des Alterthumsforschers, als des Künstlers zu dem
+                    Wichtigsten, daß die Anzahl der Abgüße in der neuesten Zeit so sehr vermehrt
+                    worden ist. Hiemit ist es aber noch nicht genug, sondern es muß eine ernste
+                    Anlegenheit bleiben, die Sammlung noch immer zu vermehren, welches ja mit leicht
+                    zu erschwingenden Unkosten geschehen kann, wenn man durch eine Reihe von Jahren
+                    jährlich eine geringe Summe hiefür festsetzet, in der Art, wie ich es früher in
+                    einer Eingabe aus einander setzte. Aber die Summe muß fest und bestimmt seyn,
+                    und der Leitung der <hi rendition="#aq">Generaldirection</hi> des <hi rendition="#aq">Musei</hi> in die Hände gegeben seyn. <lb/>Diese Abgüße
+                    verlangen aber auch ein geräumiges <hi rendition="#aq">Lokal</hi>e, um alles
+                    gehörig aufzustellen. Das bis iezt hiefür bestimmte <hi rendition="#aq">Lokal</hi> ist aber viel zu gering und kaum hinlänglich, dasjenige einiger
+                    maßen schicklich zu stellen, was iezt schon in der Akademie ist. Vor der Hand
+                    können <pb n="28"/>die vielen Abgüße in <hi rendition="#aq"><placeName key="ediarum_efd_w4g_yy">Monbijou</placeName></hi> noch nicht nach dem
+                        <hi rendition="#aq">Museum transportirt</hi> werden.</p>
+                <p>________________________________________________________________________________________________________</p>
+                <p><hi rendition="#u">Der fernere Bau.</hi>
+                    <lb/>Nachdem, was wir bis iezt angaben, wäre bey einem fernern Bau zu
+                    berücksichtigen: <lb/>I. Das für die <orgName key="ed_u5s_1fc_b1b">K<ex>önigliche</ex> Akademie der Künste</orgName> einzurichtende Lokale
+                    nach dem von mir bezeichneten Maaßstabe. <lb/>II. Eben so das Lokale für die
+                        <orgName key="ed_znn_dfc_b1b">K<ex>önigliche</ex> Akademie der
+                        Wißenschaften</orgName>. <lb/>III. Das zu erweiternde Lokale für das
+                    Aufstellen der <rs type="artwork" key="prov_gcx_hy3_y3b">Gipsabgüße</rs>. <hi rendition="#u"><lb/>IV</hi>. Die Erweiterung des <placeName key="prov_up1_xwt_fv"><hi rendition="#aq">Musei</hi></placeName> selbst, und
+                    zwar vorzüglich die Abtheilung für die <rs type="artwork" key="prov_jlr_2lw_jgb">Gemälde</rs>. </p>
+                <p><lb/>Man wird mir erlauben, hierüber zu sprechen, wie es demjenigen zusteht, der
+                    das Studium der Alterthümlichen Wißenschaften und die Kultur der Künste in einem
+                    wohleingerichteten Staate als ein wesentliches ansieht, und die Ehre des
+                    Vaterlandes auch in solchen Beziehungen von jeher mit ganzer Seele beherzigt
+                    hat. <lb/>Der Willen ist nicht zu verkennen. Wieviel haben S<hi rendition="#sup"><hi rendition="#u">e</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName> schon unmittelbar in dieser
+                    Beziehung gethan? - Dieser Liebe und Einsicht des <persName key="prov_bxf_jt5_fv">Königes</persName> verdanken wir, außer andern großen
+                    Bauen für die Zierde der <placeName key="prov_ycp_cpr_js">Stadt</placeName>,
+                    auch den Bau des <hi rendition="#aq"><placeName key="prov_up1_xwt_fv">Museum</placeName></hi>'s, zu deßen Ausschmückung der <persName key="prov_bxf_jt5_fv">König</persName> nicht bloß neue Kunstschätze
+                    ankaufte, sondern auch das älter Erworbene, und zwar das vorzüglichste hieraus,
+                    bestimmte. Ich lege also mit wahrem Zutrauen meine fernern Ansichten dar. <pb n="29"/><lb/>Nachdem iezt <rs type="artwork" key="prov_jlr_2lw_jgb">alle
+                        Gemälde</rs> in den Königlichen Sammlungen gesichtigt, und die für das <hi rendition="#aq">Museum</hi> geeigneten aufgezeichnet sind, so tritt klar
+                    hervor, daß die Sammlung an gewißen Schulen und Meistern sehr reich, an andern
+                    aber sehr mangelhaft und schwach ist. Dieser Mangel zeiget sich hauptsächlich in
+                    den Grundschulen sowohl der italienischen, als niederländischen und deutschen
+                    Meister. Die Werke aus den drey ersten Epochen vermögen aber erst einer Sammlung
+                    den wahren Werth und das höhere Gewicht zu geben, sowohl in Kunsthistorischer
+                    Rücksicht, als in Beziehung auf das Wesen der Kunst selbst. <lb/>Aber gerade
+                    dasjenige, was wir als mangelnd angeben, steht zu Gebote. Es ist die <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> des Herrn <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi>. Durch
+                    eine besondere Neigung dieses Sammlers enthält dieselbe gerade nur Gemälde aus
+                    solchen Epochen, Schulen und Meistern, welche uns mangeln, oder von denen nur so
+                    viel vorhanden ist, um die gegenwärtige <rs type="artwork" key="prov_jlr_2lw_jgb">königliche Sammlung</rs> anzuschließen. Wirklich wenn
+                    man bloß in solcher Absicht hätte sammeln wollen; wäre es nicht möglich gewesen,
+                    zweckmäßiger und glücklicher zu sammeln. Man möchte es als ein Geschick ansehen,
+                    daß ein Ausländer gerade in <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    diese reiche <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> anlegte, und
+                    diese nun durch eine Verkettung der Umstände unserer Regierung vorzugsweise
+                    angeboten wird. <lb/>Ich habe schon früher mein Gutachten an ein hohes <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi>
+                    eingesandt, und ich bin iezt mehr, als jemals im Stande zu sagen, daß durch eine
+                    solche <hi rendition="#aq">Acquisition</hi> unser <hi rendition="#aq">Museum</hi> erst, als ein <hi rendition="#aq">Coloss</hi> erster Größe
+                    dastehen würde: als eine Sammlung, die sich nicht nur mit denen zu <rs type="artwork" key="prov_exf_gs1_h3b">Dresden</rs>, <rs type="artwork" key="prov_hpg_js1_h3b">Wien</rs>, und <rs type="artwork" key="prov_ryb_3s1_h3b">München</rs>, sondern auch mit den größten
+                    Ausländischen meßen könnte. <pb n="30"/> Ja in Beziehung auf das Ganze würde sie
+                    jeder andern vorzuziehen seyn. In Belehrung könnte sich keine andere in
+                        <placeName key="prov_ebw_npv_rv">Europa</placeName> mit ihr meßen. <lb/>Ich
+                    wiederhole, was ich schon so oft gesagt habe: eine <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs>, wie die des Herrn <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi>, machet sich nicht
+                    wieder, wenn man auch das Doppelte und Dreyfache dafür verwenden wollte. Wenn
+                    ich also einem hohen <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerio</orgName></hi> diese Ankaufsangelegenheit auf's neue und
+                    aufs feierlichste an's Herz lege; so thue ich nichts anders, als was die Pflicht
+                    eines jeden ist, der die Ehre und den Glanz seines Vaterlandes lieb hat.
+                    <lb/>Ich mußte diese Erwerbung der <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>schen Sammlung</rs> als wünschenswerth
+                    vorausschicken, um auf die Erweiterung des <hi rendition="#aq">Museum</hi>'s
+                    durch einen neuen Bau zurückgekommen <ex>[zurückzukommen]</ex>, und um meine
+                    Ansichten über den fernern Fort- und Ausbau des gesammten <placeName key="ediarum_qkl_1cw_jgb">Akademiegebäudes</placeName> zur Kenntniß eines
+                    hohen <orgName key="ed_xpk_5s3_f3b"><hi rendition="#aq">Ministerii</hi></orgName> pflichtmäßig zu bringen. <hi rendition="#u"><lb/>I.</hi> Zum Bau des eigentlichen <hi rendition="#aq">Museum</hi>'s
+                    würde noch zu nehmen seyn; die Seite an der Charlottenstrasse von dem runden
+                    Saale bis und <hi rendition="#aq">inclusive</hi> an das ietzige Wachgebäude und
+                    von da den ganzen Querbau durch die beiden Höfe mit Einschluß der <hi rendition="#aq">Pavillon</hi>'s an der <hi rendition="#aq">Universitäts</hi>straße. Das obere zu bauende Stockwerk des ganzen Querbaues
+                    würde für die <rs type="artwork" key="prov_ggw_yml_vw"><hi rendition="#aq">Solly</hi>sche Sammlung</rs> zu bestimmen seyn, die sich dergestalt an
+                    die <rs type="artwork" key="prov_jlr_2lw_jgb">andere Gemäldesammlung</rs>
+                    anschließen würde. Die Seite aber von dem runden Saale bis zum Wachgebäude
+                    könnte zur Aufstellung für die mancherley Gegenstände, die iezt unter dem Namen
+                    der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> bekannt sind,
+                    eingerichtet werden. Denn wenn gleich diese Gegenstände wenig Intereße in
+                    Beziehung der Kunst haben, so sind sie doch in vielen andern Beziehungen
+                    merkwürdig. <lb/>Das untere oder Erdgeschoß aber würde ich im ganzen Quadrat des
+                    ersten Hofraumes - wo im obrigen Stockwerke die verschiedenen Abtheilungen<pb n="31"/> des <hi rendition="#aq">Museum'</hi>s sich befänden - einzig für
+                    die Aufstellung der vorhandenen und noch zu acquirenden<ex> [!]</ex>
+                    <rs type="artwork" key="prov_gcx_hy3_y3b">Gipsabgüße</rs> bestimmen. Ich
+                    verstehe hiemit auch alle die Räume, die iezt interimistisch von den <orgName key="ed_u5s_1fc_b1b">Akademien der Künste</orgName>, und <orgName key="ed_znn_dfc_b1b">der Wißenschaften</orgName>
+                    <hi rendition="#aq">occupirt</hi> sind. <lb/>Hieraus geht hervor: daß auch das
+                    zweyte Quadrat des <placeName key="ediarum_qkl_1cw_jgb">Akademiegebäudes</placeName> noch ganz zu bebauen wäre, als:</p>
+                <p>II. für die <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>.
+                    <lb/>Hiefür würde ich bestimmen: den Raum vor dem mittlern <hi rendition="#aq">Pavillon</hi> an der <hi rendition="#aq">Universität</hi>sstraße bis zum
+                        Eck<hi rendition="#aq">pavillon</hi>, und von da bis zum Thurm der <orgName key="ed_mrs_pdw_jgb">Sternwarte</orgName>. <lb/>In dem Erdgeschoße dieser
+                    Abtheilung würden alle die Lehrsäle, und andere für die Akademie nöthigen Räume,
+                    wie wir sie angegeben haben, zugleich mit den Wohnungen des Aufseherpersonals
+                    eingerichtet werden. <lb/>In dem obern Geschoße aber würden die Säle angelegt
+                    werden für die jährlichen Ausstellungen, welche zugleich auch als temporäre
+                    Arbeitsstellen für die concurirenden Zöglinge der Akademie dienen würden.
+                    Alleinfalls könnte auch einer der Säle der Akademie der Musik für ihre
+                    Abendübungen eingeräumt werden.</p>
+                <p>III. für die <orgName key="ed_znn_dfc_b1b">Akademie der Wißenschaften</orgName>.
+                    <lb/>Hiefür würde das obere Stockwerk von dem mittlern <hi rendition="#aq">Pavillon</hi> an der Charlottenstraße bis an den Eck<hi rendition="#aq">pavillon</hi> gehen; und dann von da die Schule der Anatomie anfangen bis
+                    an den Thurm der <orgName key="ed_mrs_pdw_jgb">Sternwarte</orgName>. <lb/>Das
+                    untere Geschoß dieser Abtheilungen aber würde als Wohnung für die verschiedenen
+                    Aufseher des <hi rendition="#aq">Museum</hi>'s, für <hi rendition="#aq">Castellan</hi> und Pedelle einzurichten seyn. <lb/>Der Thurm der <orgName key="ed_mrs_pdw_jgb">Sternwarte</orgName> selbst <pb n="32"/> könnte
+                    zugleich sehr wohl gemächlich als Wohnung für den Astronomen eingerichtet
+                    werden. <lb/>Zweckmäßiger glaube ich kaum, daß der ganze Bau einzutheilen seyn
+                    möchte. Übrigens habe ich nichts angegeben, was nicht Bedürfniß wäre; aber alles
+                    Bedürfniße für höhere Zwecke, die eben so ehrenvoll für die Regierung, als
+                    glänzend für die <placeName key="prov_ycp_cpr_js">Hauptstadt</placeName> des
+                    Reiches sind.</p>
+                <p>__________________________________________________________________________________________________________________________</p>
+                <p>Über / die Ausführung des hier / in Vorschlag gebrachten Fortbaues. </p>
+                <p>1. Wären die Risse genau nach den Zwecken zu entwerfen, wovon hier gesprochen
+                    worden ist. <lb/><hi rendition="#u">2.</hi> Müßte man mit aller Sorgfalt streben
+                    die Fehler zu vermeiden, die sich in den ietzigen Bau eingeschlichen haben.
+                    Hiezu zähle ich: <hi rendition="#u"><lb/>a.</hi> Die Feuchtigkeit und die
+                    Erzeugung des Salpeters in den Mauerwerk. Zu diesem Zweck würde der Grund
+                    zwischen den Mauern auf 4 bis 5 Fuß auszugraben und niedere Kellergeschoße mit
+                    Luftzügen anzubringen seyn. <hi rendition="#u"><lb/>b.</hi> Keine Fenster in der
+                    Dachung, und keine hohen halbrunden Fenster überhaupt, sondern eine natürliche
+                    Beleuchtung nach Art der gewöhnlichen Wohngebäude. <lb/>c. Keine vorspringenden
+                    Pfeiler in den obern Geschoßen. Ein solcher Bau gehört nur für Kellerräume.
+                    <lb/>d. Die Wölbung wäre auf das Erdgeschoß zu beschränken; und in dem obern
+                    Geschoß Balkendecken anzubringen. <lb/><hi rendition="#u">e.</hi> Daher auch
+                    eine gewöhnliche Dachrüstung, und Eindeckung aus Ziegeln. Die Zinkeindeckung
+                    verursachet große Unkosten, und das Ausflicken solcher Dächer nimmt nie ein
+                    Ende. <pb n="33"/>
+                    <lb/>f. Auch müßte das Unbehülfliche mit den Fensterflügeln, wie sie iezt
+                    gemacht sind, gänzlich vermieden werden.</p>
+                <p>Überhaupt bin ich der Meinung, daß der Staat gewöhnlich viel zu theuer baut, und
+                    ich habe mich oft gewundert, daß man hierin nicht die Maximen der Griechen und
+                    Römer, die sie bey ihren öffentlichen Bauen beobachteten, zur Regel nimmt.
+                    <lb/>Diese Maximen waren, durch die Hände der Architekten nie Geld paßiren zu
+                    laßen, und die zu führenden Baue an Unternehmer zu verdingen. So gab es bey den
+                    Alten große Unternehmer, die jeden Bau bedungen bis zur Ausführung jedes
+                    Wandnagels. Die Bedingung geschah nach den Rissen des Architekten, und nach der
+                    Verschiedenheit des zu verwendenden Materials. Man bedung die Zeit, in welcher
+                    der Bau fortschreiten und wann er ganz fertig seyn soll. Der Unternehmer, der
+                    die billigsten Bedingungen machte, erhielt die Unternehmung. Nach Terminen
+                    wurden die <hi rendition="#aq">stipulirt</hi>en Gelder bezahlt, nachdem eine <hi rendition="#aq">Commission</hi> zuvor den Bau untersucht, und gehörig
+                    gefunden hatte. Diese <hi rendition="#aq">Commission</hi> bestand aus
+                    willkührlich gewählten Männern u. Bauverständigen, und es war nicht nöthig, daß
+                    hiebey der Architekt, welcher die Risse und die vorläufigen Bauanschläge machte,
+                    mit zugegen war. <lb/>Auf solche Weise erreichte man: 1<hi rendition="#sup"><hi rendition="#u">mo</hi></hi> daß der Bau nothwendig gut von Anfang bis zu
+                    Ende geführt ward; 2<hi rendition="#sup"><hi rendition="#u">do</hi></hi> daß
+                    alles in gehöriger Zeit geschah; das heißt: daß der Bau allmählig und in
+                    bestimmten Fristen fortschritt, und beendigt ward; 3<hi rendition="#sup"><hi rendition="#u">io</hi></hi> daß der Bau keinen Groschen mehr kostete,
+                    als die Bedingung angab. <lb/>Dadurch daß man in der Regel die öffentlichen Baue
+                    durch Verdingung führte, geschah es: daß es große Unternehmer, oder ganze
+                    Gesellschaften von Unternehmern gab, welche sich im Voraus mit <pb n="34"/>
+                    jeder Art von Material versahen und hiezu eigene große Vorräthe hatten: hier
+                    Bauholz, dort Mauersteine, Quadern von gemeinen Steinarten, und von Marmor. Die
+                    Unternehmer hatten dann unter sich ganze Gesellschaften von Zimmerleuten,
+                    Ziegelstreichern, Steinbrechern, und Steinmetzen, von Maurern, Tischlern,
+                    Schlößern, <hi rendition="#aq">Stucco</hi>arbeitern, Anwerfern, Anstreichern und
+                    selbst bis auf die <hi rendition="#aq">Decoration</hi>smahler. Alles ward im
+                    großen und fabrikmäßig betrieben; wobey jeder Theil seine Aufseher, Meister und
+                    Obergesellen hatte. Daher verhältnißmäßig die Güte, die Schönheit und
+                    Wohlfeilheit der Arbeiten.<lb/>Auf ähnliche Weise bedungen sich die Unternehmer
+                    auch Privatbaue, oft <add place="left">bauten sie auch</add> auf ihre eignen
+                    Kosten, und verkauften die Gebäude dann an Eigenthümer. <lb/>Man werfe nicht
+                    ein: ein solches konnte man im Alterthume thun, wo die Dienstbarkeit war, und
+                    die Unternehmer ganze Heere von Sklaven zu solchen Zwecken aushalten konnten:
+                    dagegen steht bey uns ein jeder frey, und Niemand verstehe sich zu
+                    Zwangarbeiten. <lb/>Allein wir haben ja so viele andere fabrikmäßige Betriebe:
+                    warum nicht auch im Fache der Bauführung, und dann sehen wir nur auf's rohe
+                    Mittelalter zurück: auf welch anderm Wege sind so viele große Kirchen, Thürme,
+                    Klöster, Schlößer geführt worden, als durch ganze Gesellschaften von Bauleuten,
+                    welche oft mehrere Baue und an verschiedenen Orten zugleich führten, indem sie
+                    gleichsam Colonien ihrer Leute an andere Orte absandten, wo sie dann die
+                    nöthigen Lehrlinge bedungen und zusammen brachten? - <pb n="35"/>
+                    <lb/>Ich bin überzeugt, daß wenn der Staat sich auf ähnliche Bedingungen
+                    einlaßen wollte, sich bald auch ähnliche Baugesellschaften bilden würden, und
+                    zwar zum großen Vortheil des Bauwesens im Staate. <lb/>Nicht nur Stadtgebäude
+                    würden auf diesem Wege zu führen seyn, sondern auch große Oekonomiegebäude auf
+                    dem Lande, Hafen-Fluß-Kanal- und andere Waßerbaue, der Straßen- und Brückenbau
+                    u.s.w. <lb/>Der Staat muß nicht selbst alles thun; er muß auch thun laßen.
+                    Hiedurch würde sich die Thätigkeit in manchen Gegenden sehr vermehren. So tritt
+                    bey den Bauhandwerkern der eigene Umstand ein, daß in Winterszeit sie nur wenige
+                    Beschäftigung haben, und sich mit andern Arbeiten abgeben müßen.
+                    Gebirgsbewohner, die wenig Ackerbau haben, würden vorzüglich zu Bauhandwerken
+                    taugen, indem sie dann zur Winterszeit in ihre Heimath zurückzögen, und dort
+                    sich mit Weben und ähnlichen Arbeiten beschäftigten, bis die zum Bau günstige
+                    Jahreszeit wieder einträte. Sie ständen mit den großen Bauunternehmern in
+                    Verbindung, und dürften dann nicht auf Gerathewohl das Land durchziehen, um
+                    irgend eine Arbeit zu finden.<lb/><lb/>Übrigens bitte ich um Nachsicht, wenn ich
+                    mich hier über einen Gegenstand ausführlicher erklärt habe, als hiefür der Ort
+                    gewesen seyn möchte.</p>
+                <closer>
+                    <dateline>Berlin den 6 December 1820.</dateline>
+                    <signed>Hirt. <pb n="36"/></signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Beylage A. <lb/><hi rendition="#u">Aufstellung / der Marmor in dem <hi rendition="#aq">Museo</hi>.</hi>
+                </p>
+                <p>Zum Aufstellen der <rs type="artwork" key="prov_ez1_1qj_y3b">antiken Monumente in
+                        Marmor und in Erz</rs> sind folgende Räume bestimmt: <lb/>1. der große
+                    Eingangssaal, wo iezt die beiden Badewannen stehen, <lb/>2. der lange Saal
+                    rechts, und dann <lb/>3. der gleich lange Saal links. <lb/>Diese beiden langen
+                    Säle sind durch stark vorspringende Pfeiler gleichsam in Fächer eingetheilt.
+                    Jeder Saal hat derer sechs an der Licht- und sechs an der Schattenseite. Jeder
+                    Saal hat also zwölf, und beide zusammen vierundzwanzig solcher Fächer. <lb/>In
+                    jedes dieser Fächer <add place="left">und so auch gegen die vortretenden
+                        Pfeiler</add> wird nun nach der mythologischen und historischen Ordnung eine
+                    Anzahl Monumente aufgestellt, theils Statuen, theils Hermen, theils Büsten oder
+                    Köpfe; - und zwar wie folget:</p>
+                <p><hi rendition="#u">I. Fach</hi>: eine stehende und eine sitzende <hi rendition="#aq">Ceres</hi>: zwey Köpfe Jupiters, zwey Köpfe und eine Maske
+                    des <hi rendition="#aq">Jupiter Ammon</hi>; und zwey Köpfe der <hi rendition="#aq">Juno</hi>. <hi rendition="#u"><lb/>II. Fach</hi>: zwey
+                    stehende und eine sitzende Statue des <hi rendition="#aq">Apollo
+                        Citharoedus</hi>: und zwey Köpfe.<lb/><hi rendition="#u">III. Fach</hi>:
+                    eine Statue des <hi rendition="#aq">Apollo Musagetes</hi>, zwey Statuen der <hi rendition="#aq">Musen</hi>, und zwey Köpfe. <hi rendition="#u"><lb/>IV.
+                        Fach</hi>: wieder eine Statue des <hi rendition="#aq">Apollo Musagetes</hi>,
+                    und zwey Statuen der <hi rendition="#aq">Musen</hi>: nebst zwey Köpfen. <lb/><hi rendition="#u">V. Fach</hi>: noch eine Statue des <hi rendition="#aq">Apollo
+                        Musagetes</hi>, u. zwey Statuen der <hi rendition="#aq">Musen</hi> nebst
+                    zwey Köpfen. <lb/><hi rendition="#u">VI. Fach</hi>: eine Statue des <hi rendition="#aq">Apollo</hi>, zwey Statuen der <hi rendition="#aq">Diana</hi>: dann gegen die Pfeiler noch eine Statue der <hi rendition="#aq">Diana</hi>, und eine andere von einer <hi rendition="#aq">Nymphe</hi> der
+                        <hi rendition="#aq">Diana</hi>. <pb n="37"/>
+                    <lb/><hi rendition="#u">VII. Fach</hi>: zwey Statuen der <hi rendition="#aq">Minerva</hi> und drey Büsten derselben. <lb/><hi rendition="#u">VIII.
+                        Fach</hi>: zwey Statuen des <hi rendition="#aq">Mercur</hi>, ein Kopf
+                    desselben, und ein Kopf der <hi rendition="#aq">Vesta</hi>. <hi rendition="#u"><lb/>IX. Fach</hi>: drey Statuen der <hi rendition="#aq">Venus</hi>, und
+                    acht Köpfe, wovon einige zu <hi rendition="#u">Fach VIII</hi> zu nehmen sind.
+                        <hi rendition="#u"><lb/>X. Fach</hi>: Gruppe von <hi rendition="#aq">Amor</hi> und <hi rendition="#aq">Psyche</hi> nebst fünf andern Statuen vom
+                        <hi rendition="#aq">Amor</hi>, und dann von einer Grazie. <lb/><hi rendition="#u">XI. Fach</hi>: Statue des <hi rendition="#aq">Bacchus</hi>,
+                    vier <hi rendition="#aq">Herm</hi>en und vier Köpfe desselben. <lb/><hi rendition="#u">XII. Fach</hi>: drey Statuen von Faune, und dann zwey andere
+                    an die Pfeiler sechs Köpfe worunter zwey <hi rendition="#aq">Hermaphroditen</hi>. <hi rendition="#u"><lb/>XIII. Fach</hi>: Statue des <hi rendition="#aq">Vertumnus</hi>, eine Statue des männlichen und eine des
+                    weiblichen Herbstes, <hi rendition="#aq">Bacchantin</hi> und Faun: andere <hi rendition="#aq">Faunus</hi>köpfe. <lb/><hi rendition="#u">XIV. Fach</hi>:
+                    Drey Statuen des <hi rendition="#aq">Aesculapius</hi>, ein Kopf desselben, und
+                    zwey Köpfe des <hi rendition="#aq">Serapis</hi>. <lb/><hi rendition="#u">XV.
+                        Fach</hi>: Statue der <hi rendition="#aq">Hygea</hi> und noch zwey andere
+                    des <hi rendition="#aq">Aesculapius</hi> nebst drey Köpfen. <lb/><hi rendition="#u">XVI. Fach</hi>: eine Statue der <hi rendition="#aq">Fortuna</hi>, zwey der <hi rendition="#aq">Victoria</hi>: zwey andere <hi rendition="#aq">Victorien</hi> an den Pfeilern, Statue des <hi rendition="#aq">Plutus</hi>, u. Kopf der <hi rendition="#aq">Spes</hi>. <hi rendition="#u"><lb/>XVII. Fach</hi>: zwey Statuen der Töchter der <hi rendition="#aq">Niobe</hi>: drey Köpfe der Töchter, und einer eines Sohnes.
+                        <lb/><hi rendition="#u">XVIII. Fach</hi>: drey Statuen von <hi rendition="#aq">Heroen</hi>, dann mehrere Köpfe von den <hi rendition="#aq">Dioscuren</hi>, <hi rendition="#aq">Hercules</hi>, <hi rendition="#aq">Achilles</hi>, Pyrrhus, <hi rendition="#aq">Amazone</hi>, <hi rendition="#aq">Adonis</hi>. <lb/><hi rendition="#u">XIX. Fach</hi>: drey
+                    Statuen von <hi rendition="#aq">Athlet</hi>en, nebst sechs dahin gehörigen
+                    Köpfen. <pb n="38"/>
+                    <hi rendition="#u"><lb/>XX. Fach</hi>: zwey Statuen der ägyptischen <hi rendition="#aq">Minerva</hi> oder <hi rendition="#aq">Neith</hi>, Statue
+                    einer ägyptischen <hi rendition="#aq">Hierodule</hi>; ägyptische Köpfe: zwey
+                    Statuen der <hi rendition="#aq">Camilli</hi> des <hi rendition="#aq">Mithras</hi>. <hi rendition="#u"><lb/>XXI. Fach</hi>: Statue des
+                    Anbetenden: dann Köpfe berühmter Griechen: <hi rendition="#aq">Pericles,
+                        Alexander</hi>, zwey <hi rendition="#aq">Socrates, Epicurus,
+                    Metrodorus</hi>, drey <hi rendition="#aq">Demosthenes</hi>, und mehrere
+                    Unbekannte. <lb/><hi rendition="#u">XXII. Fach</hi>: drey Statuen von Römischen
+                        <hi rendition="#aq">Togati</hi>: mit zwölf Römerköpfen. <hi rendition="#u"><lb/>XXIII. Fach</hi>: Statue der <hi rendition="#aq">Antonia maior</hi>,
+                        <hi rendition="#aq">Traian</hi>'s, u. des sogenannten <hi rendition="#aq">Virgils</hi>: noch zwölf Römerköpfe. <hi rendition="#u"><lb/>XXIV.
+                    </hi>noch vier Statuen von Romern und Römerinnen: und dann noch ungefähr zwölf
+                    Köpfe.</p>
+                <p>In dem Saale der Badewannen: <lb/>Rechts an der langen Seite: 1. Statue <hi rendition="#aq">Traian</hi>'s als <hi rendition="#aq">Jupiter</hi>, 2.
+                    Statue der <hi rendition="#aq">Faustina maior</hi> als <hi rendition="#aq">Pietas</hi>, 3. Statue des <hi rendition="#aq">Antinous Agathodaemon</hi>.
+                    <lb/>Links an der langen Seite: 1. Statue des <hi rendition="#aq">M.
+                        Aurelius</hi> als <hi rendition="#aq">imperator</hi>, dann zwey Statuen
+                    römischer Kaiserinnen. <lb/>In den beiden Nischen zur Seite des Einganges: zwey
+                    Statuen anderer Kaiserinnen. - <lb/>Zwischen diesen genannten Bildsäulen kommen
+                    die schönsten Römerköpfe auf <hi rendition="#aq">Hermen</hi> zu stehen, als: <hi rendition="#aq">Scipio Aufricanus, Cicero</hi>?, <hi rendition="#aq">Brutus,
+                        M. Antonius, Jul. Caesar, Augustus, Caius</hi> u. <hi rendition="#aq">Lucius
+                        Caesares, Germanicus, Caligula, Nero, Titus, Hadrian, Antoninus Pius, M.
+                        Aurelius, L. Verus, Sept: Severus</hi> mit <hi rendition="#aq">Caracalla</hi> und <hi rendition="#aq">Geta</hi> - und dann: <hi rendition="#aq"><lb/>Domitia, Plotina, Matidia</hi>, <pb n="39"/> die ältere
+                    und jüngere <hi rendition="#aq">Faustina, Lucilla, Julia Pia</hi>. <lb/>Dieser
+                    Saal könnte vorzugsweise der Römersaal heißen. <lb/>So würde die Hauptordnung
+                    der Gegenstände seyn. Die genauere Eintheilung der Stücke nebeneinander läßt
+                    sich erst bey dem Aufstellen selbst bestimmen.
+                    <lb/>________________________________________________________________________________________
+                        <pb n="40"/></p>
+                <p><hi rendition="#u">Beylage B.</hi>
+                    <lb/>Ohngefährer Bestand der Königlichen Gemmen, Münzen Antiken Cabinets und der
+                    sogenannten Kunstkammer <lb/>Ohnmaßgebliche Vorschläge zur Aufstellung dieser
+                    Sammlung im Museum</p>
+                <p><hi rendition="#u">1. / GemmenSammlung</hi>
+                    <lb/>1) Eine kleine Sammlung Cameen, 12 - 20 St.  <lb/>in Rücksicht der
+                    unbezweifelhaften Antiquität ist die Anzahl noch unbestimmbar</p>
+                <p>2) Etwa 1xxx Stück Cameen und Intaglien. <lb/>unter den letztern wirkliche
+                    Antiken, die meisten Cinque centi, sich hinschreibend aus der alten
+                        König<ex>lichen</ex> Sammlung und den Marggräflichen und neuern
+                    Requistionen, theils gefaßt, theils ungefaßt. <lb/>Ad N 2. Diese Sammlung könnte
+                    in Rücksicht des Antiken gesichtet werden. - Jetzt sind die <hi rendition="#u">uneingefaßten</hi> in Rücksicht des Sujets geordnet; die <hi rendition="#u">eingefaßten</hi> aber noch vermischt, in xxxxx Bxxxxx xxxxx xxxx.</p>
+                <p>3) Die Stoschische Gemmen-Sammlung, von Winckelmann beschrieben etwa 4,300 St.
+                    unter welchen viele antike Pasten, und eine kleine Anzahl Nachahmungen von
+                    Antiken, deren Originale Stosch nicht hat habhaft werden können. <lb/>Ad N. 3.
+                    Nach meiner ohnmaßgeblichen Meynung, müßte die Stoschische Sammlung unangetastet
+                    bleiben. Solche ist ein geschloßenes Werk, und als solches hat sie eine große
+                    Berühmtheit gewonnen, woraus durch den Winkelmannschen Catalog - Dazwischen
+                    jetzt und immerfort andere Gemmen einzuschieben, würde eine Art von Entweihung
+                    seyn, - den Winkelmannschen Catalog unnütz machen, oder die Auffindung einzelner
+                    Steine außerordentlich erschweren. Man müßte dann den Winkelmann neu auflegen,
+                    nebst Beschreibung der Einschiebsel, was doch dem Uebel nicht abhelfen würde, da
+                    von Jahr zu Jahr neue Erwerbungen gemacht werden, wodurch der ursprüngliche
+                    Winkelmannsche Catalog immer mehr xxxxplett werden würde,
+                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx <pb n="41"/> die Winkelmann-Stoschische Sammlung
+                    über x000 St stark - unangetastet und in ihren Würden zu laßen: und alle
+                    gegenwärtige, und zukünftig zu acquirirenden ächten antiken Gemmen, nach dem
+                    Muster des Winkelmannschen Catalog, parallel aber besonders zu ordnen, und in
+                    einem offenen Verzeichniße zu beschreiben. <lb/>Rücksichtlich der öffentlichen
+                    Ausstellung dieser Gemmen-Sammlung habe ich ein weitläuftiges Gutachten
+                    eingereicht und ein besonderes ProMemoria an S<hi rendition="#sup">e</hi>
+                    Excellenz, das dahin geht, daß diese Sammlung verschloßen bleibe, und nur auf
+                    bestimmte Forderung Kennern, Gelehrten, Künstlern und auch Wißbegierigen
+                    Gebildeten, in kleiner Anzahl, vom Director Selbst gezeigt und erklärt werden.
+                    Das gemischte Publikum hat keinen Sinn dafür, und die Offenstellung wäre eine
+                    unnütze, und nach Umständen eine gefährliche Preferation.</p>
+                <p>2. <hi rendition="#u">Antike Münzen</hi>. <lb/>1) Nahe an 3000 St. Griechische
+                    oder Städte und Königs Münzen in Gold, Silber und Erz, und allen Größen nach dem
+                    Eckelschen System geordnet und beschrieben.</p>
+                <p>2.<hi rendition="#u"> Römische</hi>
+                    <lb/>Consular Münzen 13 - 1400 ) in Gold und Erz<lb/>Cayser Münzen 9500
+                    ) in allen Größen aufgestellt xxxxxxxx</p>
+                <p>3. Orientalische, xxxxxxxxxxx 400 <lb/>aufgestellt xxxxxxxxx <lb/>xxxxxx
+                    Dietzsche orientalische Sammlung  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ist
+                    geordnet und beschrieben, und wegen Mangel an Raum noch nicht aufgestellt.</p>
+                <p><lb/><hi rendition="#u">Ohnmaßgebliche Vorschläge</hi>. <lb/>Die Nummern 1. 2.
+                    nehmlich <hi rendition="#u">Gemmen</hi> und <hi rendition="#u">Antike
+                        Münzen</hi>, sind aufbewahrt in <hi rendition="#u">Vier</hi> prachtvollen
+                    Schränken aus LindenHolz reich mit vergoldeter Bronce verziert, und stammen aus
+                    Sans Souci. <lb/>Seit dem neueren und fortgesetzten xxxxxxxxxx sind diese
+                    Schränke überfüllt <pb n="42"/> und es mangelt an Raum. Es müßten demnach noch
+                    zwey ähnliche prachtvolle Schränke verfertigt werden: oder die Vier vorhandenen
+                    müßten vernichtet werden und eine Anzahl bescheidener zur Aufnahme aller Gemmen,
+                    antiken und orientalischen Münzen, verfertiget werden. <lb/>Mein ohnmaßgeblicher
+                    Vorschlag geht dahin, die vier vorhandenen königlich verzierten Schränke zu
+                    behalten, und solche nach Bedürfniß zu vermehren aus folgenden Gründen: <lb/>1)
+                    In einem Königl<ex>ichen</ex> Museo, wo der König <hi rendition="#u">Seine
+                        eigene</hi> Schätze ausstellt, müßen die Behältniße, auch Königlich oder
+                    prachtvoll seyn. - Würden die vorhandenen <hi rendition="#u">vernichtet</hi>, so
+                    würde man solche durch neue und einfache, nach der <hi rendition="#u">jetzigen</hi> Mode elegante, ersetzen. - Wäre das Königlich, und wird man
+                    so mit den Ramen der Gemälde verfahren? <lb/>2) Friedrich II hat <hi rendition="#u">diese</hi> Schränke verfertigen laßen, um seine alte und
+                    neu-erworbene Schätze darin aufzubewahren. Lange Jahre lang, ließ Er jeden
+                    Winter, diese Schränke stückweise vom Antikentempel nach der Stadt bringen, um
+                    Sich mit Muse an seinen Gemmen und Münzen zu <pb n="43"/> ergötzen. Wäre es
+                    nicht eine Entweihung diese Schränke zu zerschlagen, xx und die überaus reiche
+                    Bronce nach welchen, wie ich es zweymahl in Erfahrung gebracht, Viele schon <hi rendition="#u">lüstern</hi> sind, - sxxxx wohlfeil zu verkaufen, um höchst
+                    theure Mode Spinden machen zu laßen. <lb/>3. Aber der Geschmack ist veraltet
+                    Zugestanden - allein in 50, 60 Jahren wird man die neuen Mode-Schränke auch als
+                    veraltet und banal verschreyen. Wozu dann die Veränderung! Voraus zur
+                    Aufbewahrung, nicht modernen Schmucks, sondern antiker oder veralteter Schätze
+                    <lb/>4) Endlich, sind besagte Schränke bequem eingerichtet</p>
+                <p>3. <hi rendition="#u">Moderne Medaillen</hi>
+                    <lb/>1. Goldene Medaillen ................ 160 St. <lb/>2. Goldene Münzen
+                    (Dukaten) 1400 St. <lb/>3. Silberne Medaillen <lb/>a) Brandenburgisch Preußisch
+                    650 St. <lb/>b) Medaillen aller andern Reichen und Miscellanea etwa 2000 St.
+                    <lb/>4. Thaler Sammlung <lb/>a) Brandenb. Preuß. ........ 300 St. <lb/>b)
+                    xxxxxxxx</p>
+                <p>Die Modernen Medaillen, Thaler und Münzen, und die Orientalischen Münzen,
+                    befinden sich jetzt in <hi rendition="#u">Sechs Schränke</hi>, zwar sauber und
+                    kostbar, aus Anspach stammend; aber wenig bequem, und unnöthigen Platz raubend,
+                    Jetzt schon sind solche überfüllt, <pb n="44"/> und konnten kaum noch einen
+                    kleinen Theil des Adlerschen Münz-Schatzes aufnehmen. <lb/>Zu xxx Sammlung der
+                    Medaillen müßten folglich, meines Erachtens, eine hinlängliche Anzahl <hi rendition="#u">neuer</hi> Schränke, zur gehörigen Vertheilung, und
+                    allmähligen Bereicherung der Sammlung verfertigt werden. <lb/>Voraus wäre es zu
+                    wünschen, daß ein oder einige besondere Schränke zum Aufnehmen der ganzen
+                    Orientalischen Sammlung, <lb/>die vorhandenen <lb/>der Dietzschen <lb/>der
+                    Adlerschen <lb/>bestimmt würden.</p>
+                <p>5. Sammlung der Bracteaten <lb/>in Gold .......... etwa 2000 St <lb/>unter
+                    welchen viele Dubletten</p>
+                <p>NB Diese ganze Sammlung Moderner M. ist zwar geordnet und auch - zum größten
+                    Theil aufgestellt und beschrieben, aber nur provisorisch, in der ewigen
+                    Erwartung des Schicksals der Adlerschen Samlung, welche in derselben
+                    einverleibt, mit Ausweisung der Dubletten, werden muß - Vor dieser Entscheidung
+                    wäre eine vollendete Aufstellung und Anordnung, unnütz.</p>
+                <p>6. Eine Unzahl <lb/>a) curranter Münzen aus den letzten 3 Jahrh<ex>underten</ex>,
+                    unter Thaler Größe bis zu Pfennigen - noch unrangirt. <lb/>b) von Abgüßen in
+                    Zinn und Kupfer vieler alten und seltenen Medaillen </p>
+                <p>Nota <lb/>Zu dieser Rubrik N. 3. muß im Voraus bey einem Plan zur Aufstellung des
+                    Ganzen, auf dem Adlerschen MünzSchatz <lb/>bestehend aus 27,000 St.
+                    <lb/>Rücksicht genommen werden.</p>
+                <p>Dessen Eigenthum haben zwar die Gymnasien, durch einen vierjährigen, zweymal
+                    verlorenen und endlich gewonnenen Process gegen das deutliche Codicill,
+                    erworben. <pb n="45"/> Aber dadurch xxxxxxxxxxxxxxxxxxxxxxxxxxxx Publicum
+                    unendlich verloren und diese Gymnasien werden einbüßen, denn xxxxxxxxxxxxxx
+                    bleibt nicht aus! Spät oder früh muß dieser ungeheure Münz Schatz quequo modo,
+                    dem Wille des Testators gemäß dem Königl<ex>ichen</ex> Cabinet einverleibt
+                    werden, wäre es auch auf Kosten der Gymnasien. <lb/>Nun besteht dieser Münz
+                    Schatz aus vielerley Samlungen, als <lb/>1. Römischen Consular u KayserMünzen
+                    <lb/>Gold, Silber u Erz etwa 4000 St. <lb/>2. Bracteaten und Salidi, etwa 2000
+                    <lb/>3. einer durchaus vollständigen Samlung von Brandenburgisch xxxxxxxx
+                    Medaillen <lb/>die vorhandene Römische ist sehr unvollständig <lb/>4. <hi rendition="#u">Allen</hi> Brandenburgisch xxxxxxxxxxx Thalern von Joachim
+                    I., von jedem Jahrgang <lb/>5. Allen Brandenburgisch xxxxxx kleinen MünzSorten
+                    vom Gulden bis zum Pfennig, vom ersten Entstehen des Hauses in Franken, und in
+                    allen seinen Erweiterungen in Brandenburg, Pommern, Sxxxxx Schlesien, Westphalen
+                    etc. <lb/>6. Herrliche xxxxxxx von Medaillen in xxxxxx auf jene Männer und
+                    Miscellaneen aus alten Drucken <lb/>7. Die allerreichste Thaler und halbe Thaler
+                    Samlung aus allen Reichen seit den Madaischen etwa 3500 St. <lb/>8. Samlung von
+                    allen jetzt currirenden Münzen in allen Europäischen und Außer Europäischen
+                    Ländern vom Goldstücke bis zum xxxxxx <lb/>9. Etwa 10,000 St. älterer Münzen von
+                    Carl dem Großen an, aus allen Ländern <pb n="46"/></p>
+                <p>[Bl. 32r gesamter oberer Absatz nicht lesbar]</p>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p/>
+                <p>4. Anticaglien und Marmor <lb/>Hierüber hat Herr HofRath Hirt xxxx eine
+                    vollständige Notiz verfertigt</p>
+                <p>Die griechische <hi rendition="#u">Vasen Samlung</hi> besteht xxxxxxx aus etwa
+                    340 St. unter welchen ohngefähr 50 große und xxxxxx Vasen</p>
+                <p>An Alt Römischen Vasen oder Gefäßen etwa xxx St.</p>
+                <p>Diese Rubrik müßte auf eine große xxxxx Bereicherung, woraus Ægyptischen
+                    xxxxxxxxxx gerechnet werden, in Absicht <pb n="47"/></p>
+                <p>In Rücksicht der Figurinen bleibt mir nur zu wünschen übrig, daß dieselben nicht
+                    in GlaßSchränken aufbewahrt würden; weil zumahl bey einer öffentlichen
+                    Ausstellung, gar zu viel Unbequemlichkeiten damit verbunden sind; ut ex
+                    perientia deol. <lb/>Aber zur bequemern Ansicht und Axxxxxx müßten sämtliche
+                    Figurinen und andre Anticaglien, auf <hi rendition="#u">stufenartige</hi> Etagen
+                    oder Gallerien aufgestellt seyn so daß jedes Stück einen weißen Hintergrund
+                    hätte, und vermöge der Namen und der gehörigen Aufsicht könnte gewiß <pb n="47"/> xxxxxxxxxxxxxxxxxxxxxxx sogenannte Kunstkammer läßt sich bequem eintheilen,
+                    <lb/>1. Samlung von Kunstsachen und Kunststücken aus Elfenbein, Travxxxxx, Holz,
+                    Gold und Silber und Erz. <lb/>2. Samlung von <hi rendition="#u">Vaterländischen</hi> Merkwürdigkeiten, zur Geschichte gehörend, schon sehr
+                    reich und sich jährlich vermehrend. <lb/>3. Samlung von Germanischen, Slavischen
+                    Antiquitäten, und aus der RitterZeit, die sich täglich anhäuft, und wozu schon
+                    jetzt der Platz mangelt. <lb/>4. Ethnographische Samlung - aus allen Ländern der
+                    Welt - woraus Chinesische, Indische, Nordische, Südseeländische, Africanische
+                    Seltenheiten und Merkwürdigkeiten, wozu auch die <hi rendition="#u">Reliefs der
+                        Schweiz</hi> gehören. <pb n="48"/></p>
+                <p><hi rendition="#u">Beylage C. </hi><lb/><hi rendition="#u">Meister, / von denen
+                        sich Gemälde in der von mir gemachten Auswahl befinden.</hi></p>
+                <p>Italiener aus der II<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> oder
+                    Bildungsepoche: <lb/>1. <hi rendition="#aq">Francesco Francia</hi>
+                    ----------------------- 3. St. <lb/>2. <hi rendition="#aq">Andrea Mantegna</hi>
+                    ----------------------- 1. -- <lb/>3. <hi rendition="#aq">Marco da Forli</hi>
+                    --------------------------- 1. -- <lb/>4. <hi rendition="#aq">Pietro
+                        Perugino</hi> -------------------------- 1. -- <lb/>5. <hi rendition="#aq">Ludovico Mazzolino</hi> --------------------- 2. --
+                    <lb/>---------------------------------------------------------- <lb/>zusammen
+                    ------------------------------------ 8. St.</p>
+                <p>Italiener III<hi rendition="#sup"><hi rendition="#u">ter</hi></hi> Epoche:
+                    <lb/>A. Florentinische Schule: <lb/>1. <hi rendition="#aq">Andrea del Sarto</hi>
+                    ------------------------ 1. St. <lb/>2. in <hi rendition="#aq">Vasari</hi>'s
+                    manier ----------------------- 5. -- <lb/>3. art des <hi rendition="#aq">Beccafumi</hi> ----------------------- 1. -- <lb/>4. Schule des <hi rendition="#aq">M</hi>.<supplied cert="high">ichel</supplied>
+                    <hi rendition="#aq">Angelo</hi> ----------- 2. -- <lb/>5. Art des <hi rendition="#aq">Vanni</hi> ---------------------------- 1. -- <lb/>6. <hi rendition="#aq">Alessandro Allori</hi> ----------------------- 1. -- <lb/>7.
+                        <hi rendition="#aq">Passignano</hi> ------------------------------- 1. --
+                    <lb/>8. <hi rendition="#aq">Mariotto Albertinelli</hi> ------------------- 1. --
+                    <lb/>--------------------------------------------------------- <lb/>zusammen
+                    ---------------------------------- 13. St. </p>
+                <p>B. römische Schule: <lb/>1. <hi rendition="#aq">Raphael - Penni</hi>
+                    ------------------------- 1. St. <lb/>2. <hi rendition="#aq">Raphael - And. da
+                        Salerno</hi> ------------ 1. -- <lb/>3. <hi rendition="#aq">Taddeo
+                        Zuccheri</hi> ----------------------- 1. -- <lb/>4. <hi rendition="#aq">Cav</hi>.<supplied cert="high">alier</supplied>
+                    <hi rendition="#aq">d'Arpino</hi> ------------------- 1. -- [= Giuseppe Cesari]
+                    <lb/>5. <hi rendition="#aq">Scipione da Gaeta</hi> ---------------------- 1.
+                    --<lb/>6. <hi rendition="#aq">Girol</hi>.<supplied cert="high">amo</supplied>
+                    <hi rendition="#aq">Sicciolante da Sermoneta</hi> 1. -- <lb/>7. <hi rendition="#aq">Innocenzio da Imola</hi> -------------------- 1. -- <lb/>8.
+                        <hi rendition="#aq">Bartolomeo Passerotti</hi> ------------------ 1. --
+                    <lb/>9. Schule des <hi rendition="#aq">Giulio Romano</hi> ------------- 1. --
+                    <lb/>10. <hi rendition="#aq">D</hi>.<supplied cert="high">osso</supplied>
+                    <hi rendition="#aq">Dossi</hi> --------------------------- 1. --
+                    <lb/>------------------------------------------------------- <lb/>zusammen
+                    -----------------------------------10. St. <pb n="41"/></p>
+                <p>C. <hi rendition="#aq">Lombard</hi>ische, oder Mayländer <hi rendition="#aq">Parmesan</hi>ische Schule. <lb/>1. <hi rendition="#aq">Leonardo da
+                        Vinci</hi> ------------------------1. St. <lb/>2. <hi rendition="#aq">Bernardino Lovino</hi> ----------------------- 1. -- <lb/>3. <hi rendition="#aq">Bernardo Fassolo</hi> --------------------------1. --
+                    <lb/>4. <hi rendition="#aq">Aurelio Luini</hi> ------------------------------ 1.
+                    -- <lb/>5. <hi rendition="#aq">Gaudenzio Ferrari</hi> ------------------------
+                    1. -- <lb/>6. <hi rendition="#aq">Correggio</hi>
+                    ---------------------------------- 2. -- <lb/>7. <hi rendition="#aq">Soiaro</hi>
+                    -------------------------------------- 1. -- [= Bernardino Gatti, gen. il Sojaro
+                    (Böttcher)] <lb/>8. <hi rendition="#aq">Parmigianino
+                    </hi>----------------------------- 1. -- <lb/>9. <hi rendition="#aq">M</hi>.<supplied cert="high">ichel</supplied>
+                    <hi rendition="#aq">Angelo Sanese</hi> ---------------- 1. -- <lb/>10. <hi rendition="#aq">Luca Cambiagi</hi> -------------------------- 3. -- <lb/>11.
+                        <hi rendition="#aq">Rondani</hi> ---------------------------------- 2. --
+                    <lb/>12. <hi rendition="#aq">Camillo Procaccini</hi> --------------------- 1. --
+                    <lb/>13. <hi rendition="#aq">Giul. Cesare Procaccini</hi> ---------------- 1. --
+                    <lb/>----------------------------------------------------------- <lb/>zusammen
+                    ---------------------------------- 18. St.</p>
+                <p>D. <hi rendition="#aq">Venezian</hi>ische Schule: <lb/>1. <hi rendition="#aq">Giorgione da Castelfranco</hi> ------------- 1. St. <lb/>2. <hi rendition="#aq">Tiziano</hi> ------------------------------------ 3. --
+                    <lb/>3. <hi rendition="#aq">Pordenone</hi> -------------------------------- 2.
+                    -- <lb/>4. <hi rendition="#aq">Paris Bordone</hi> ----------------------------
+                    3. -- <lb/>5. <hi rendition="#aq">Paolo Veronese</hi> --------------------------
+                    6. -- <lb/>6. Schule desselben ------------------------ 3. -- <lb/>7. <hi rendition="#aq">Tintoretto</hi> -------------------------------- 2. --
+                    <lb/>8. <hi rendition="#aq">Jacopo Bassano</hi> -------------------------- 2. --
+                    <lb/>9. <hi rendition="#aq">Francesco Bassano</hi> ---------------------- 1. --
+                    <lb/>10. <hi rendition="#aq">Palma Giovine</hi>
+                    <ex>[!]</ex> ---------------------- 2. -- [= Jacopo Palma der Jüngere, ital.
+                    auch Palma (il) Giovane?] <lb/>11. <hi rendition="#aq">Santo Zago</hi>
+                    ----------------------------- 1. -- <lb/>12. <hi rendition="#aq">Dario
+                        Varatori</hi> ------------------------- 1. -- <lb/>13. <hi rendition="#aq">Alessandro Varotari </hi>------------------ 3. -- <lb/>14. <hi rendition="#aq">Schiavone</hi> ------------------------------ 1. -- <lb/>15.
+                        <hi rendition="#aq">Paolo Sfarinato</hi>
+                    <ex>[!]</ex> -------------------- 1. -- [= Paolo Farinato]<lb/>16. <hi rendition="#aq">Carletto Veronese</hi> -------------------- 1. -- <lb/>17.
+                        <hi rendition="#aq">Muziano</hi> -------------------------------- 1. --
+                    <lb/>18. <hi rendition="#aq">Alessandro Turchi</hi> -------------------- 1. --
+                    <lb/>19. <hi rendition="#aq">Lorenzo Lotto</hi> ------------------------- 1. --
+                    <lb/>----------------------------------------------------------------
+                    <lb/>zusammen ---------------------------------- 36. St. <pb n="42"/></p>
+                <p>Italiener IV<hi rendition="#sup"><hi rendition="#u">ter</hi></hi> Epoche. <lb/>A.
+                    Eklektiker: <lb/>1. <hi rendition="#aq">Ludovico Carracci</hi>
+                    ----------------------- 3. St. <lb/>2. <hi rendition="#aq">Agostino
+                        Carracci</hi> ----------------------- 1. -- <lb/>3. <hi rendition="#aq">Annibale Carracci</hi> ----------------------- 3. -- <lb/>4. <hi rendition="#aq">Guido</hi> --------------------------------------10. --
+                    [Guido Reni??? Guido von Siena???]<lb/>5. <hi rendition="#aq">Guercino</hi>
+                    ---------------------------------- 3. -- <lb/>6. <hi rendition="#aq">Albano</hi>
+                    ------------------------------------- 5. -- [= Francesco Albani, auch:
+                    Albano]<lb/>7. <hi rendition="#aq">Dominichino</hi>
+                    ------------------------------ 1. -- <lb/>8. <hi rendition="#aq">Lanfranco</hi>
+                    ---------------------------------- 1. -- <lb/>9. <hi rendition="#aq">Gessi
+                        (Sirani)</hi> ------------------------------ 1. -- <lb/>10. <hi rendition="#aq">Bartolomeo Schedone</hi> ------------------ 1. -- [=
+                    Bartolomeo Schedoni]<lb/>11. <hi rendition="#aq">Cigoli</hi>
+                    -------------------------------------- 1. -- <lb/>12. <hi rendition="#aq">Bilivert</hi> ------------------------------------ 1. -- [= Giovanni
+                    Biliverti]<lb/>------------------------------------------------------------------
+                    <lb/>zusammen ------------------------------------ 31. St.</p>
+                <p>B. Naturalisten: <lb/>1. <hi rendition="#aq">M. Angelo da Carravaggio</hi>
+                    -------------- 10. St. <lb/>2. <hi rendition="#aq">C. v. Mander</hi>
+                    ------------------------------- 1. -- [= Karel van Mander?]<lb/>3. <hi rendition="#aq">Sustermann</hi> --------------------------------- 2. -- [=
+                    Justus Sustermann (Suttermans)]<lb/>4. <hi rendition="#aq">Sandrart</hi>
+                    ------------------------------------- 1. -- <lb/>5. <hi rendition="#aq">Simon
+                        Vouet</hi> -------------------------------- 4. -- <lb/>6. <hi rendition="#aq">Manfredi</hi> ------------------------------------- 1. --
+                    <lb/>---------------------------------------------------------------
+                    <lb/>zusammen -------------------------------------- 19. St.</p>
+                <p>Italiener u. Franzosen der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    Epoche: <lb/>1. <hi rendition="#aq">Andrea Sacchi</hi>
+                    ------------------------------ 1. St. <lb/>2. <hi rendition="#aq">Pietro da
+                        Cortona</hi> -------------------------- 1. -- <lb/>3. <hi rendition="#aq">Francesco Romanelli</hi> ----------------------- 1. -- <lb/>4. <hi rendition="#aq">Ciro Ferri</hi> ------------------------------------- 1. --
+                    <lb/>5. <hi rendition="#aq">Luca Giordano</hi> -------------------------------
+                    4. -- <lb/>6. <hi rendition="#aq">Paolo de Matteis</hi>
+                    ----------------------------- 1. -- <lb/>7. <hi rendition="#aq">Conca</hi>
+                    ------------------------------------------ 1. -- [wohl Sebastiano Conca]<lb/>8.
+                        <hi rendition="#aq">Pietro Terto</hi> ---------------------------------- 1.
+                    -- [???]<lb/>9. <hi rendition="#aq">Carlo Cignoni</hi>
+                    -------------------------------- 1. -- <lb/>10. <hi rendition="#aq">Franceschini</hi> --------------------------------- 1. -- <lb/>11. <hi rendition="#aq">Ruggieri</hi> -------------------------------------- 1. --
+                    <lb/>12. <hi rendition="#aq">C. Lori</hi>
+                    ---------------------------------------- 1. -- [Carlo Lori?]<lb/>13. <hi rendition="#aq">Carlo Maratta</hi> -------------------------------- 1. --
+                        <pb n="43"/>
+                    <lb/>14. <hi rendition="#aq">Placido Costanzi</hi> ----------------------------
+                    1. St. <lb/>15. <hi rendition="#aq">Battoni</hi>
+                    ---------------------------------------- 2. -- <lb/>16. <hi rendition="#aq">Gio</hi>.<supplied cert="high">vanni</supplied>
+                    <hi rendition="#aq">Segala</hi> --------------------------- 1. -- <lb/>17. <hi rendition="#aq">Celerti</hi> ----------------------------------------- 3. --
+                    [???]<lb/>18. <hi rendition="#aq">Trevisani</hi>
+                    -------------------------------------- 1. -- <lb/>19. <hi rendition="#aq">Molinari</hi> --------------------------------------- 1. -- <lb/>20. <hi rendition="#aq">Cav. Liberi</hi> ------------------------------------ 3. --
+                    [Pietro Liberi?]<lb/>21. <hi rendition="#aq">Salvator Rosa</hi>
+                    --------------------------------- 1. -- <lb/>22. <hi rendition="#aq">Carlino
+                        Dolce</hi> --------------------------------- 1. -- <lb/>23. <hi rendition="#aq">Mola</hi> -------------------------------------------- 1. --
+                    [Pier Francesco Mola]<lb/>24. <hi rendition="#aq">Eust</hi>.<supplied cert="high">ache</supplied>
+                    <hi rendition="#aq">Le Sueur</hi> ------------------------- 2?. -- <lb/>25.
+                    Schule <hi rendition="#aq">Poussin</hi>'s ------------------------------ 4?. --
+                    <lb/>26. <hi rendition="#aq">La Fosse</hi>
+                    ---------------------------------------- 1. -- [Charles de La Fosse]<lb/>27. <hi rendition="#aq">Detroy</hi> ------------------------------------------ 1. --
+                    [wohl Francois de Troy]<lb/>28. <hi rendition="#aq">Charles le Brun</hi>
+                    -------------------------------- 1. -- <lb/>29. <hi rendition="#aq">Boulogne</hi> --------------------------------------- 5. -- [Valentin de
+                    Boulogne]<lb/>30. <hi rendition="#aq">Rigaud</hi>
+                    ------------------------------------------ 2. -- [Hyacinthe Rigaud]<lb/>31. <hi rendition="#aq">Le Fevre</hi> ---------------------------------------- 1. --
+                    [Robert
+                    Lefèvre?]<lb/>------------------------------------------------------------------
+                    <lb/>zusammen ----------------------------------------- 48. Stück</p>
+                <p>Alte Niederländer und Deutsche der II<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche. <lb/>1. <hi rendition="#aq">Lucas v. Leyden</hi>
+                    und Schule ---------------- 2. St. <lb/>2. <hi rendition="#aq">Hieronymus de
+                        Bos</hi> -------------------------- 1. -- <lb/>3. <hi rendition="#aq">Quintin Messis</hi> -------------------------------- 1. -- <lb/>4. <hi rendition="#aq">Mabuse</hi> ----------------------------------------- 1. --
+                    [Jan Gossaert gen. Mabuse] <lb/>5. Schule desselben
+                    ------------------------------ 1. -- <lb/>6. Cölner Schule
+                    --------------------------------- 2. -- <lb/>7. <hi rendition="#aq">Cranach</hi>
+                    Vater und Sohn -------------------- 22. -- <lb/>8. <hi rendition="#aq">A.
+                        Dürer</hi> (verdorben) ------------------------ 1. -- <lb/>9. <hi rendition="#aq">Hans Baldung Grien</hi> ------------------------- 1. --
+                    <lb/>10. <hi rendition="#aq">Holbein</hi>
+                    --------------------------------------- 1. -- <lb/>11. <hi rendition="#aq">Culmbach</hi> ------------------------------------ 1. --
+                    <lb/>-------------------------------------------------------------------
+                    <lb/>zusammen --------------------------------------- 34. Stück</p>
+                <p>Niederländer und Deutsche der III<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche. <lb/>1. <hi rendition="#aq">Hemskerk</hi>
+                    ------------------------------------- 3. St. <lb/>2. <hi rendition="#aq">P.
+                        Purbus</hi> -------------------------------------- 3. -- [Pieter Pourbus,
+                    1523-1584, fläm. Maler] <pb n="44"/><lb/>3. Schule von <hi rendition="#aq">Fr.
+                        Floris</hi> ------------------------ 3. -- <lb/>4. Schule von <hi rendition="#aq">Franck</hi> --------------------------- 4. -- <lb/>5. H. <hi rendition="#aq">Bless</hi> ---------------------------------------- 1. --
+                    <lb/>6. <hi rendition="#aq">Bloemart</hi>
+                    --------------------------------------- 2. -- <lb/>7. <hi rendition="#aq">Corn.
+                        de Harlem</hi> ------------------------------ 1. -- <lb/>9. <hi rendition="#aq">Amberger</hi> -------------------------------------- 2. --
+                    <lb/>10. <hi rendition="#aq">Georg Penz</hi> -----------------------------------
+                    2. -- [Georg Pencz] <lb/>11. <hi rendition="#aq">Lucidel</hi>
+                    ---------------------------------------- 1. -- [Nicolaus (Niklas) Neufchatel
+                    (Neuschatell), gen. Lucidel] <lb/>12. <hi rendition="#aq">Rottenhammer</hi>
+                    ------------------------------ 2. -- <lb/>13. <hi rendition="#aq">Christoph
+                        Schwarz</hi> ------------------------- 1. -- <lb/>14. Schule von <hi rendition="#aq">Penz</hi> ---------------------------- 1. -- <lb/>15. <hi rendition="#aq">Otto Vaenius</hi> -------------------------------- 1. --
+                    [Otto van Veen, latinisiert: Octavius Vaenius oder Otto Venius] <lb/>16.
+                    Niederländische Schule ------------------- 3. --
+                    <lb/>--------------------------------------------------------------------
+                    <lb/>zusammen ------------------------------------- 31. St.</p>
+                <p>Niederländische und Deutsche der IV<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Epoche. <lb/>1. <hi rendition="#aq">Rubens</hi>
+                    ----------------------------------------25. St. <lb/>2. <unclear reason="illegible" cert=""><hi rendition="#aq">Sunia</hi></unclear> Schule
+                    -------------------------------- 4. -- <lb/>3. <hi rendition="#aq">Jordaens</hi>
+                    ------------------------------------- 7. -- <lb/>4. <hi rendition="#aq">Dieppenbek</hi> --------------------------------- 5. -- <lb/>5. <hi rendition="#aq">van Balen</hi> ------------------------------------ 4. --
+                    <lb/>6. <hi rendition="#aq">v. Thulden</hi> -----------------------------------
+                    2. -- <lb/>7. <hi rendition="#aq">Lanjans</hi>
+                    --------------------------------------- 1. -- [Johann van Delft, gen. Lanjan]
+                    <lb/>8. <hi rendition="#aq">v. Dyk</hi> ----------------------------------------
+                    28. -- <lb/>9. <hi rendition="#aq">G. Hundhorst</hi>
+                    ------------------------------- 7. -- <lb/>10. <hi rendition="#aq">W.
+                        Hundhorst</hi> ----------------------------- 1. -- <lb/>11. <hi rendition="#aq">Rembrandt</hi> --------------------------------- 9. --
+                    <lb/>12. <hi rendition="#aq">Ferd. Stoll</hi>
+                    ----------------------------------- 5. -- [Friedrich Stoll?] <lb/>13. <hi rendition="#aq">Gob. Flink</hi> ----------------------------------- 5. --
+                    [Govaert Flinck] <lb/>14. <hi rendition="#aq">Eckhout</hi>
+                    ------------------------------------- 1. -- <lb/>15. <hi rendition="#aq">C</hi>.<ex>[aspar]</ex>
+                    <hi rendition="#aq">de Crayer</hi> ----------------------- 2. -- <lb/>16. <hi rendition="#aq">Livens</hi> --------------------------------------- 3. --
+                    [Jan Lievens]<lb/>17. <hi rendition="#aq">Pet. Verelst</hi>
+                    --------------------------------- 1. -- <lb/>18. <hi rendition="#aq">Pet.
+                        Meert</hi> ----------------------------------- 1. -- <lb/>19. <hi rendition="#aq">v. d. Keck</hi> ------------------------------------- 1. --
+                    <lb/>20. <hi rendition="#aq">Backer</hi>
+                    -----------------------------------------1. -- [Jacob de Backer]<lb/>21. <hi rendition="#aq">de Subleo</hi> ------------------------------------- 1. --
+                    [Michele Desubleo]<lb/>22. <hi rendition="#aq">Joh. de Reyn</hi>
+                    --------------------------------- 1. -- <lb/>23.<hi rendition="#aq">
+                        J.</hi><ex>[an]</ex>
+                    <hi rendition="#aq">B</hi>.<ex>[aptist]</ex>
+                    <hi rendition="#aq">Weenix</hi> -------------------- 1. -- <pb n="45"/>
+                    <lb/>24. <hi rendition="#aq">Fr</hi><ex>[ans]</ex>
+                    <hi rendition="#aq">Hals</hi> ----------------------------------- 3. -- <lb/>25.
+                        <hi rendition="#aq">M</hi>.<ex>[ichael]</ex>
+                    <hi rendition="#aq">C</hi>.<ex>[onrad]</ex>
+                    <hi rendition="#aq">Hirt</hi> ------------------- 1. -- <lb/>26. – <hi rendition="#aq">Hert</hi>? ------------------------------------- 1. --
+                    <lb/>27. <hi rendition="#aq">Meytens</hi>
+                    --------------------------------------- 1. -- <lb/>28. <hi rendition="#aq">Nason</hi> ------------------------------------------ 1. -- [Pieter
+                    Nason]<lb/>29. <hi rendition="#aq">Willebort</hi>
+                    -------------------------------------- 9. -- <lb/>30. <hi rendition="#aq">Jac</hi>.<ex>[ques]</ex>
+                    <hi rendition="#aq">Vaillant</hi> ---------------------------- 2. -- <lb/>31.
+                        <hi rendition="#aq">M. Willmann</hi> ---------------------------------- 2.
+                    --
+                    <lb/>-------------------------------------------------------------------------------
+                    <lb/>zusammen ---------------------------------------- 136. St.</p>
+                <p>Holländer und Deutsche der V<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    Epoche. <add place="left"><hi rendition="#u"><lb/>a.</hi> Historische und
+                        Gesellschaftsstücke.</add>
+                    <lb/>1. <hi rendition="#aq">Had. v. d. Werft</hi>
+                    ------------------------------- 22. -- [Adriaen van der Werff?]<lb/>2. <hi rendition="#aq">Limborch</hi> --------------------------------------- 2. --
+                    <lb/>3. <hi rendition="#aq">G. Dow</hi>
+                    ------------------------------------------ 9. -- [Gerard Dou, auch Douw oder
+                    Gerrit Dou?]<lb/>4. <hi rendition="#aq">C. Netscher</hi>
+                    ------------------------------------- 4. -- <lb/>5. <hi rendition="#aq">W.
+                        Mieris</hi> --------------------------------------- 2. -- <lb/>6. <hi rendition="#aq">Lairesse</hi> ----------------------------------------- 5.
+                    -- <lb/>7. <hi rendition="#aq">Bern</hi>.<ex>[hard]</ex>
+                    <hi rendition="#aq">Graat</hi> ----------------------------- 2. -- <lb/>8. <hi rendition="#aq">C. de Moor</hi> -------------------------------------- 1. --
+                    <lb/>9. <hi rendition="#aq">Stalbent</hi>
+                    ------------------------------------------ 2. -- [Adriaen van Stalbemt]<lb/>10.
+                        <hi rendition="#aq">Therburg</hi> --------------------------------------- 1.
+                    -- <lb/>11. <hi rendition="#aq">Polenburg</hi>
+                    -------------------------------------- 3. -- [Cornelius Polenburg = Cornelis van
+                    Poelenburgh]<lb/>12. <hi rendition="#aq">Hueber</hi>
+                    ----------------------------------------- 2. -- [Stueber???]<lb/>13. <hi rendition="#aq">Vertangen</hi> -------------------------------------- 2. --
+                    [Daniel Vertangen]<lb/>14. <hi rendition="#aq">Niederlandt</hi>
+                    ------------------------------------ 1. -- <lb/>15. <hi rendition="#aq">Wittmann</hi> -------------------------------------- 1. -- <lb/>16. <hi rendition="#aq">Corn. Holsteyn</hi> -------------------------------- 1. --
+                    <lb/>17. <hi rendition="#aq">Seghers</hi>
+                    ----------------------------------------- 3. -- <lb/>18. <hi rendition="#aq">Wissing</hi> ----------------------------------------- 2. -- <lb/>19. <hi rendition="#aq">Lely</hi> ---------------------------------------------- 1.
+                    -- [Peter Lely] <lb/>20. <hi rendition="#aq">Hoët</hi>
+                    --------------------------------------------- 1. -- [Gerard Hoet]<lb/>21. <hi rendition="#aq">Theod. Leichner</hi> -------------------------------- 2. --
+                    <lb/>22. <hi rendition="#aq">Diedrich</hi>
+                    ----------------------------------------- 2. -- <lb/>23. <hi rendition="#aq">Seuter</hi> -------------------------------------------- 1. -- ????
+                    <lb/>24. <hi rendition="#aq">Joh. Lenz</hi>
+                    ---------------------------------------- 1. -- <lb/>25. <hi rendition="#aq">Blesendorf</hi> -------------------------------------- 1. -- <lb/>26. <hi rendition="#aq">Probener</hi> ---------------------------------------- 1. --
+                    [Michael Probener?] <lb/>27. <hi rendition="#aq">Pêsne</hi>
+                    ------------------------------------------ 5. -- [Antoine Pesne] <lb/>28. <hi rendition="#aq">Ang</hi><ex>[elika]</ex>
+                    <hi rendition="#aq">Kaufmann</hi> ------------------------ 2. -- <lb/>29. – <hi rendition="#aq">Mengs</hi> ---------------------------------------- 1. --
+                    <lb/>----------------------------------------------------------------------------------------
+                    <lb/>zusammen ------------------------------------------ 83. St. <pb n="46"/></p>
+                <p>B. <hi rendition="#aq"><hi rendition="#u">Bambocciaden</hi></hi>. <lb/>1. <hi rendition="#aq">Peter de Laar </hi>----------------------------------- 1. --
+                    [Peter van Laar, um 1613-ca. 1648, oder: Pieter van Laer, zw. 1592 u.
+                    1599-1642]? <lb/>2. <hi rendition="#aq">Breugel</hi>
+                    ------------------------------------------ 3. -- <lb/>3. <hi rendition="#aq">Teniers</hi> Vater ----------------------------------- 2. -- <lb/>4. <hi rendition="#aq">Tenièrs</hi> Sohn ------------------------------------ 5. --
+                    <lb/>5. <hi rendition="#aq">Bega</hi>
+                    ----------------------------------------------- 3. -- [Cornelis Pietersz. Bega]
+                    <lb/>6. <hi rendition="#aq">Ad. Ostade</hi>
+                    --------------------------------------- 2. -- <lb/>7. <hi rendition="#aq">Miel</hi> ----------------------------------------------- 3. -- <lb/>8. <hi rendition="#aq">Molinaer</hi> ------------------------------------------ 5.
+                    -- <lb/>9. <hi rendition="#aq">Scalken</hi>
+                    -------------------------------------------- 1. -- [Godefridus Schalcken]
+                    <lb/>10. <hi rendition="#aq">Langenet</hi>
+                    ---------------------------------------- 1. -- [???]<lb/>11. <hi rendition="#aq">Goesboeck</hi> ----------------------------------------1. -- <lb/>12. <hi rendition="#aq">v. de Bosch</hi> -------------------------------------- 1.
+                    -- <lb/>13. <hi rendition="#aq">Oeckers</hi>
+                    ------------------------------------------- 1. -- <lb/>14. <hi rendition="#aq">Ryckaert</hi> ------------------------------------------ 1. -- <lb/>15. <hi rendition="#aq">Joh. v. Heen</hi> -------------------------------------- 1.
+                    -- [Jan Davidszoon de Heem, Stilllebenmaler]<lb/>16. <hi rendition="#aq">Th.
+                        Wyck</hi> ----------------------------------------- 2. -- <lb/>17. <hi rendition="#aq">P</hi>.<ex>[ieter]</ex>
+                    <hi rendition="#aq">Verelst</hi> ---------------------------------- 1. --
+                    <lb/>18. <hi rendition="#aq">C. M. HV</hi> 1645
+                    ------------------------------------ 1. --
+                    <lb/>----------------------------------------------------------------------------------------
+                    <lb/>zusammen --------------------------------------------- 35. --</p>
+                <p>C. <hi rendition="#aq"><hi rendition="#u">Architecturstücke</hi></hi>. <lb/>1.
+                        <hi rendition="#aq">P. de Hooghe</hi> -------------------------------------
+                    1. -- [Pieter de Hooch (de Hooghe)? dieser war aber Stilllebenmaler] <lb/>2. <hi rendition="#aq">Pannini</hi> -------------------------------------------- 2.
+                    -- [Giovanni Paolo Pannini, ital. Maler u. Architekt] <lb/>3. <hi rendition="#aq">P. Brill</hi> ---------------------------------------------
+                    1. -- <lb/>4. <hi rendition="#aq">v. Bassen</hi>
+                    ------------------------------------------- 1. -- [Bartholomeus van Bassen]
+                    <lb/>5. <hi rendition="#aq">Simon de Fries</hi>
+                    ------------------------------------ 2. -- <lb/>6. <hi rendition="#aq">P.
+                        Neefs</hi> -------------------------------------------- 1. -- <lb/>7. <hi rendition="#aq">de Witt</hi> ---------------------------------------------
+                    1. -- <lb/>8. <hi rendition="#aq">Cannaletti</hi> - mehrere
+                    ----------------------------------
+                    <lb/>____________________________________________________ <lb/>zusammen
+                    ------------------------------------------- 9. St.</p>
+                <p>D. <hi rendition="#u">Seestücke</hi>. <lb/>1. <hi rendition="#aq">Wieringen</hi>
+                    ------------------------------------------- 1. -- [Cornelis Claesz van
+                    Wieringen] <lb/>2. <hi rendition="#aq">v. d. Beck</hi>
+                    -------------------------------------------- 1. -- <lb/>3. <hi rendition="#aq">Maadersteeg</hi> ----------------------------------------- 1. -- <lb/>4.
+                        <hi rendition="#aq">Verschutter</hi>
+                    ------------------------------------------ 1. -- [Lieve Verschuier, um
+                    1634-1686]?<lb/>5. <hi rendition="#aq">Abr. Hoeck</hi>
+                    ------------------------------------------ 1. -- <lb/>6. <hi rendition="#aq">Willarts</hi> ---------------------------------------------- 1. -- <lb/>7.
+                        <hi rendition="#aq">Backhuysen</hi>
+                    ----------------------------------------- 2. --
+                    <lb/>---------------------------------------------------------------------------
+                    <lb/>zusammen ---------------------------------------------- 8. St. <pb n="47"/></p>
+                <p>E. <hi rendition="#u">Schlachten, Geschichte, Jagden</hi>
+                    <lb/>1. <hi rendition="#aq">Snayers</hi>
+                    --------------------------------------------- 6. -- [Pieter Snayers] <lb/>2. <hi rendition="#aq">P</hi>.<ex>[ieter]</ex>
+                    <hi rendition="#aq">Meulener</hi> -------------------------------- 1. -- [Pieter
+                    Meulener, 1602-1654]<lb/>3. <hi rendition="#aq">Hondekoeter</hi>
+                    --------------------------------------- 2. -- [Melchior Hondekoeter,
+                    1636-1695]<lb/>4. <hi rendition="#aq">Huchtenburg</hi>
+                    ----------------------------------------3. -- [Jan van Huchtenburgh,
+                    1647-1733]<lb/>5. <hi rendition="#aq">Versuck</hi>
+                    --------------------------------------------- 1. -- ???<lb/>6. <hi rendition="#aq">Leduc</hi> ------------------------------------------------
+                    1. -- [Jean le Duc, 1636-1671]<lb/>7. <hi rendition="#aq">Rottenhammer</hi>
+                    ------------------------------------- 1. -- [Johannes Rottenhammer d. Ä.]<lb/>8.
+                        <hi rendition="#aq">P. Wouwermann</hi> -----------------------------------
+                    2. -- <lb/>9. <hi rendition="#aq">Stendardo</hi>
+                    -------------------------------------------- 1. -- [Pieter van Bloemen, gen.
+                    Stendardo, 1657-1720]<lb/>10. <hi rendition="#aq">Rubens</hi>
+                    ---------------------------------------------- 1. -- <lb/>11. <hi rendition="#aq">Franck</hi> ----------------------------------------------
+                    2. -- <lb/>12. <hi rendition="#aq">Citener</hi>
+                    --------------------------------------------- 2. -- ??? Gallus Kittner, malte zu
+                    Anfang des 17. Jh's zu Potsdam; malte 1603 die Kirche und den Altar zu Potsdam,
+                    Kirche zu Saarmund, s. Friedrich Niclolai<lb/>13. <hi rendition="#aq">Ruithart</hi> -------------------------------------------- 2. -- [Carl
+                    Ruthard, lebte um 1666, Blumen-, Feldschlachten- und
+                    Tiermaler]<lb/>----------------------------------------------------------------------------
+                    <lb/>zusammen ------------------------------------------- 25. St.</p>
+                <p>F. <hi rendition="#u">Landschaften</hi>. <lb/>1. <hi rendition="#aq">H.
+                        Carracci</hi> -------------------------------------------- 1. -- <lb/>2. <hi rendition="#aq">Dominichino</hi> ------------------------------------------
+                    1. -- <lb/>3. <hi rendition="#aq">Salv. Rosa</hi>
+                    ---------------------------------------------- 1. -- <lb/>4. <hi rendition="#aq">Nic</hi>.<ex>[olas]</ex>
+                    <hi rendition="#aq">Poussin</hi> -------------------------------------1. --
+                    <lb/>5. <hi rendition="#aq">P. Brill</hi>
+                    -------------------------------------------------- 2. -- <lb/>6. <hi rendition="#aq">Claude Lorrain</hi> ----------------------------------------
+                    1. -- <lb/>7. <hi rendition="#aq">Svaneveldt</hi>
+                    --------------------------------------------- 2. -- <lb/>8. <hi rendition="#aq">Berchem</hi> ------------------------------------------------ 6. --
+                    [Nicolaes Pietersz. Berchem, 1620-1683]<lb/>9. <hi rendition="#aq">P.
+                        Potter</hi> ------------------------------------------------ 2. -- <lb/>10.
+                        <hi rendition="#aq">Wouwermann</hi> ----------------------------------------
+                    4. -- <lb/>11. <hi rendition="#aq">C. Poussin</hi>
+                    --------------------------------------------- 1. -- <lb/>12. <hi rendition="#aq">H</hi>.<ex>[einrich]</ex>
+                    <hi rendition="#aq">Roos</hi> --------------------------------------- 2. --
+                    [Johann Heinrich Roos, 1631-1685]<lb/>13. <hi rendition="#aq">Ph</hi>.<ex>[ilipp]</ex>
+                    <hi rendition="#aq">Roos</hi> -----------------------------------------1. --
+                    [Philipp Peter Roos, 1657-1706]<lb/>14. <hi rendition="#aq">J. v. d. Meer</hi>
+                    -------------------------------------------- 2. -- <lb/>15. <hi rendition="#aq">A</hi>.<ex>[lbert]</ex>
+                    <hi rendition="#aq">Meyiering</hi> ----------------------------------- 1. --
+                    [Albert Meyering, 1645-1714, niederländ. Maler, "Zwey mit seinem Namen
+                    bezeichnete Landschaften in jenem idealischen Geschmack mit badenden Nymphen
+                    und, die Bildsäule der Flora umtanzenden, Kindern befinden sich unter No. 439
+                    und 440 im Museum zu Berlin. (G. F. Waagen: Handbuch der Geschichte der Malerei:
+                    Zweiter Teil, Nikosia 2017 (= Nachdr. des Originals von 1862), S. 224) <lb/>16.
+                        <hi rendition="#aq">Th. de Wyck</hi>
+                    ------------------------------------------- 2. -- <lb/>17. <hi rendition="#aq">v. Valens</hi> ------------------------------------------------ 1. --
+                    <lb/>18. <hi rendition="#aq">v. Bloomen</hi>
+                    ---------------------------------------------- 1. -- [Pieter van
+                    Bloemen]<lb/>19. <hi rendition="#aq">Vertangen</hi>
+                    ----------------------------------------------- 1. -- <pb n="48"/>
+                    <lb/>20. <hi rendition="#aq">Pynnacker</hi>
+                    ----------------------------------------------- 3. -- [Adam Pijnacker] <lb/>21.
+                        <hi rendition="#aq">Elzheimer</hi>
+                    ------------------------------------------------ 1. -- <lb/>22. <hi rendition="#aq">du Jardin</hi>
+                    ------------------------------------------------- 1. -- [Karel Dujardin]
+                    <lb/>23. <hi rendition="#aq">v. Uden</hi>
+                    --------------------------------------------------- 1. -- [Lucas van Uden,
+                    1595-1672]<lb/>24. <hi rendition="#aq">Verdiou</hi>
+                    --------------------------------------------------- 1. -- [Daniel de Verdiou]
+                    <lb/>25. <hi rendition="#aq">Jac. Huchtenburg</hi>
+                    --------------------------------------- 1. -- <lb/>26. <hi rendition="#aq">Moucheron</hi> ----------------------------------------------- 3. --
+                    [Frederik de Moucheron, 1634-1686] <lb/>27. <hi rendition="#aq">Wynants</hi>
+                    -------------------------------------------------- 1. -- [Jan Wijnants, um
+                    1632-1684] <lb/>28. <hi rendition="#aq">Joh. Hackert</hi>
+                    ---------------------------------------------- 1. -- <lb/>29. <hi rendition="#aq">v. Campen</hi>
+                    ------------------------------------------------ 1. -- [Jacob van Campen]
+                    <lb/>30. <hi rendition="#aq">v. d. Meulen</hi>
+                    ---------------------------------------------- 3. -- <lb/>31. <hi rendition="#aq">Breugel</hi>
+                    ---------------------------------------------------- 3. -- <lb/>32. <hi rendition="#aq">Griffier</hi>
+                    ---------------------------------------------------- 3. -- [Jan
+                    Griffier]<lb/>33. <hi rendition="#aq">Zachtleven</hi>
+                    ------------------------------------------------ 1. -- [Herman Saftleven,
+                    1609-1685]<lb/>34. <hi rendition="#aq">Ruysdael</hi>
+                    --------------------------------------------------- 2. --
+                    <lb/>--------------------------------------------------------------------------------------
+                    <lb/>zusammen ---------------------------------------------------- 59. St.</p>
+                <p>G. Stilleben, Geflügel, Blumen, Früchte u.s.w. <lb/>1. <hi rendition="#aq">Huysum</hi> --------------------------------------------------- 2. --
+                    <lb/>2. <hi rendition="#aq">Ant. Claess</hi>
+                    ------------------------------------------------ 2. -- [Anton Claessens?]<lb/>3.
+                        <hi rendition="#aq">v. Kessel</hi>
+                    --------------------------------------------------- 1. -- <lb/>4. <hi rendition="#aq">Fromation</hi>
+                    --------------------------------------------------1. -- ???<lb/>5.<hi rendition="#aq"> Otto Marsaeus</hi>
+                    -------------------------------------------- 1. -- [Otto Marseus van Schrieck]
+                    <lb/>6. <hi rendition="#aq">Elger</hi>
+                    -------------------------------------------------------- 2. -- <lb/>7. <hi rendition="#aq">W</hi>.<ex>[illem]</ex>
+                    <hi rendition="#aq">F</hi>.<ex>[redrik]</ex>
+                    <hi rendition="#aq">v</hi>.<ex>[an]</ex>
+                    <hi rendition="#aq">Roye</hi> ----------------------- 1. -- [Willem Fredrik van
+                    Royen, kam 1669 als Hofmaler nach Berlin, gest. 1723 im 69. Jahr] <lb/>8. <hi rendition="#aq">Ulft</hi>
+                    --------------------------------------------------------- 1. -- [Jacob van der
+                    Ulft] <lb/>9. <hi rendition="#aq">de Heem</hi>
+                    --------------------------------------------------- 1. -- [Jan Davidsz. de Heem,
+                    1606-1683 oder 1684]<lb/>10. <hi rendition="#aq">Adriaanszen</hi>
+                    --------------------------------------------- 1. -- <lb/>11. <hi rendition="#aq">Nason</hi> ----------------------------------------------------- 1. --
+                    [Pieter Nason, 1612-1688] <lb/>12. <hi rendition="#aq">Lingelbach</hi>
+                    ----------------------------------------------- 2. -- [Johannes Lingelbach,
+                    gest. 1674] <lb/>13. <hi rendition="#aq">BM</hi> 1645
+                    -------------------------------------------------- 1. -- <lb/>14. <hi rendition="#aq">Weenix</hi>
+                    --------------------------------------------------- 3. -- [Jan Baptist Weenix,
+                    1621-1660, oder sein Sohn Jan Weenix, 1642-1719?] <lb/>15. <hi rendition="#aq">Caulitz</hi> ---------------------------------------------------- 2. --
+                    [Peter Caulitz, 1650 Berlin-1719, Hofmaler Friedrichs des Großen] <pb n="49"/>
+                    <lb/>16. <hi rendition="#aq">v. Elst</hi>
+                    ----------------------------------------------------- 1. -- <lb/>17. <hi rendition="#aq">Hondekoeter</hi>
+                    --------------------------------------------- 1. --
+                    <lb/>---------------------------------------------------------------------------------------
+                    <lb/>zusammen -------------------------------------------------- 24. St.</p>
+                <p>Ich bemerken nur im allgemeinen, daß Manches von dem Aufgezeichneten noch keine
+                    festen Benennungen <supplied cert="high">hat</supplied> und das Richtige und
+                    Zuverläßige erst nach genauer Prüfung auszumitteln ist. Manches von dem
+                    Aufgezeichneten wird nach genauer Ansicht zurückgesandt werden; und Einiges mag
+                    auch von dem bisher nicht in die Auswahl gekommenen noch aufgenommen werden.
+                    Dergleichen kann nur entschieden werden, wenn alles näher vor's Auge komt, und
+                    bey guter Beleuchtung untersucht werden kann. <lb/>Hirt.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

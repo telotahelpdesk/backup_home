@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_y5r_dqs_pjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Kultusministeriums (Süvern) an Schinkel und Hirt. Berlin, 21.
+                    Oktober 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 156r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-10-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_m2s_3zg_qjb"/>
+                </correspContext>
+                <note>Mit Bearbeitungsvermerken auf dem linken Rand: "H:R.R. Dieterici / 4158.";
+                    "Gesehen / Lghoxxx / den 22/10 22.; Mundierungs- und Absendevermerk "21/10 22";
+                    auf dem oberen Rand: "17,058. u.a." - Der Entwurf ist nicht unterzeichnet; doch
+                    gilt die Unterschrift auf einem zugehörigen Schreiben des Ministeriums an die
+                    Generalkasse auf Bl. 156v auch für das vorliegende Schreiben: "Ministerium pp /
+                    I.[m] A.[uftrag] / Süvern".</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Königlichen Geheimen Ober-/baurath Herrn Schinckel und /
+                            den Herrn Hofrath Hirt / <hi rendition="#u">Hieselbst</hi></addrLine>
+                    </address>
+                    <dateline>Berlin am 21. Octbr: 1822.</dateline>
+                </opener>
+				<p>Es ist bei der Revision der <orgName key="ed_pfj_35s_pjb">General-Kasse</orgName> des
+                        <orgName key="ed_xpk_5s3_f3b">Ministerii</orgName> bemerkt worden, daß an
+                    den ehemaligen Sänger <persName key="ed_fws_rrd_3jb">Lamperi</persName> für die
+                        <rs type="artwork" key="prov_ggw_yml_vw">Sollysche Gemäldesammlung</rs> in
+                    Gemäßheit eines Schreibens von Ihnen vom 12 Septbr c<ex>urrentis</ex> 382
+                        r<ex>eichstaler</ex> und 5 s<ex>ilber</ex>g<ex>roschen</ex> gezalt
+                    worden.</p>
+                <p>Diese Summe entsteht aus mehreren kleinern Zalungen, worüber indeß gröstentheils
+                    die Rechnungen der betreffenden Ouvriers fehlen und nur Quittungen des <persName key="ed_fws_rrd_3jb">Lamperi</persName> beigebracht sind.</p>
+                <p>Sie werden daher hierdurch aufgefordert, die fehlenden Rechnungen noch
+                    nachträglich beizubringen und bei künftigen Anweisungen dafür zu sorgen, daß die
+                    zur Rechnung und für die Kasse nothwendigen Beläge derselben vollständig
+                    zukommen.</p>
+				<closer> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_yms_ljg_w5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Neapel, den 11. Mai 1791.
+                    Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">
+                                <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50,
+                                    Bl. 6-7</idno>
+                            </idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys(1759 - 1837)</persName>
+                    <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                    <date when="1791-05-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia von(1739 -
+                        1807)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute>Gnädigste Herzogin</salute>
+                </opener>
+                <p>Ich habe vor meiner Abreise aus <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    mir die Freyheit genommen, Ew. Durchlaucht einige Exemplare von <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_gsd_hcp_fz">meinen Beobachtungen über
+                                das <hi rendition="#aq">
+                                    <placeName key="prov_lyp_n35_y5">Pantheon</placeName>
+                                </hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="no4h_vfp_fz">Eine erweitere Neuausgabe in deutscher Sprache
+                            erschien 1807.</note>
+                    </seg> durch die Post zu übersenden; aber meine
+                    Abreise hieher war so eilfertig, daß ich keinen Augenblick mehr fand, dieselben
+                    mit einem Briefe zu begleiten. Ich bitte Ew. Durchlaucht diesen neuen Versuch
+                    mit Ihrer gewöhnlichen huldvollen Güte aufzunehmen, und denselben so vielen
+                    würdigen Menschen, in deren Cirkel Sie als eine wohlthätige Mutter walten, zu
+                    empfehlen.</p>
+                <p>Die Ursache meiner eilfertigen Hieherreise ist eine Fahrt nach <placeName key="prov_kw2_j4g_w5">Sicilien</placeName>, wohin ich mich seit langem so
+                    sehr sehnte. <seg type="comment">
+                        <orig>
+                            <persName key="prov_ubw_l4g_w5">Graf Bielinsky</persName>
+                        </orig>
+                        <note xml:id="nn4n_jfp_fz">Anna Amalia hatten den Grafen und seinen Sohn
+                            1789 in Neapel kennengelernt.</note>
+                    </seg> that mir <subst>
+                        <del rendition="#ow">die</del>
+                        <add>den</add>
+                    </subst> Vorschlag hiezu, den ich auch keinen Augenblick anstand anzunehmen. Er
+                    hat zu dieser Reise ein eigenes Französisches Schiff gemiethet, das auf jeden
+                    seiner Winke bereit ist. Die Einrichtung darauf ist vortrefflich. Unsere
+                    Gesellschaft besteht aus 7 Personen, worunter zwey Engeländer, aus 5 Bedienten,
+                    und 10 Schiffern mit dem Patron. Auf morgen Abends <pb n="2"/> ist es festgesezt
+                    unter Segel zu gehen. Unser erster Besuch geht nach den Inseln <placeName key="prov_o1y_qpg_w5">Lipari</placeName> und <placeName key="prov_ojr_vpg_w5">Stromboli</placeName>; von da nach einem Theil des
+                    zerfallenen <placeName key="prov_o5z_ypg_w5">Calabrien</placeName>, und
+                        <placeName key="prov_o5n_bqg_w5">Messina</placeName>; und so nach <placeName key="prov_ytt_hqg_w5">Taormina</placeName>, <placeName key="prov_ey3_lqg_w5">Catania</placeName>, <placeName key="prov_zw3_rqg_w5">Sirakus</placeName>,
+                        <placeName key="prov_rm1_drg_w5">Malta</placeName>, <placeName key="prov_b5x_grg_w5">Girgenti</placeName>, dem alten <placeName key="prov_h1m_qrg_w5">Selinunt</placeName>, <placeName key="prov_cvb_csg_w5">Trapani</placeName>, und von da zu Land über <placeName key="prov_syv_2sg_w5">Segest</placeName> nach <placeName key="prov_nyb_ksg_w5">Palermo</placeName>. den 24<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Junius wollen wir bey dem großen <seg type="critical">
+                        <orig>Feste der Ritter in <placeName key="prov_rm1_drg_w5">Malta</placeName>
+                        </orig>
+                        <note xml:id="nbtg_tdg_1v">Am 24. Juni wird das Fest des Heiligen Johann
+                            Baptist, des Ordenspatrons der Malteserritter, gefeiert, an dem auch
+                            Kandidaten im Rahmen einer feierlichen heiligen Messe aufgenommen
+                            werden.</note>
+                    </seg> seyn, und den 8<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi> Julius als dem <seg type="critical">
+                        <orig>Hauptfeste der <persName key="prov_yh1_3w2_1v">Heil<ex>igen</ex>
+                                Rosalia</persName> in <placeName key="prov_nyb_ksg_w5">Palermo</placeName>
+                        </orig>
+                        <note xml:id="na1q_dx2_1v">Ihr Gedenktag ist der 4. September (Todestag),
+                            auf Sizilien auch der 15. Juli (Auffindung der Gebeine). Am Fest der
+                            heiligen Rosalia in Palermo ist der Reliquienschrein für die
+                            Öffentlichkeit zugänglich, auf den Straßen Palermos finden Prozessionen
+                            und Feuerwerk statt.</note>
+                    </seg>. Wird uns iezt die gerade Fahrt nach <placeName key="prov_ey3_lqg_w5">Catania</placeName> nicht erlauben, daß wir wegen häufigen Schnee die
+                    Spitze des <placeName key="prov_clr_tsg_w5">Aetna</placeName> besteigen, so sind
+                    wir entschloßen, von <placeName key="prov_nyb_ksg_w5">Palermo</placeName> aus
+                    wieder dahin zurückzukehren. So ist ungefähr unsere Route eingerichtet. Nach
+                    glücklicher Rückkunft werde ich mir erlauben, einen <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_yp2_sp5_fz">Auszug unserer Fata</bibl>
+                        </orig>
+                        <note xml:id="nkt2_2gp_fz">Hirt kam vorerst nicht dazu, seine Erinnerungen
+                            niederzuschreiben. Erst 1829 erschien "Aus meinen Reiseheften;
+                            Mittheilungen des Herrn Hofrath Hirt. I. Erinnerungen aus Sicilien." In:
+                            Berliner Kunstblatt. Hrsg. unter Mitwirkung der Königl. Akademie der
+                            Künste und des wissenschaftlichen Kunstvereins von Dr. E[rnst]
+                            H[einrich] Toelken. Jg. 2. Berlin 1829, (H. 2) S. 67-75. Enthält
+                            "Einiges über Griechische Vasengemälde in Sicilien" sowie über einige
+                            "grössere Denkmäler in Marmor und in Erz". Die "Mittheilungen" schließen
+                            mit dem Satz: "Diese von alterthümlichen Gegenständen in Sicilien hier
+                            gemachten Aufzeichnungen sind im J. 1791 geschrieben."</note>
+                    </seg> zu übersenden.</p>
+                <p>Ich war vorigen Winter bis auf den lezten moment meiner Abreise unaufhörlich mit
+                    Fremden beschäftiget. Die Menge der Reisenden, besonders gegen <seg type="comment">
+                        <orig>die heil<ex>ige</ex> Woche</orig>
+                        <note xml:id="nj5x_c3p_fz">Die Osterwoche.</note>
+                    </seg>, war in <placeName key="prov_vkl_ndl_js">Rom</placeName> ungeheuer. Denken sich Ew. Durchlaucht
+                    nur die Zahl Neapolitaner, welche bis dorthin ihrem <persName key="prov_gmt_h5g_w5">König</persName> entgegenkamen. - Überall wo ich hier
+                    hinkomme, redet man von Ew. <pb n="3"/> Durchlaucht; und jeder schmeichelt sich
+                    mit der Hofnung, Ew. Durchlaucht wieder hier zu sehen. Ich kann nicht umhin,
+                    diesen Herrn, die so sehr für Ihren <placeName key="prov_kk2_gtg_w5">Pausilipp</placeName> und ihr Meer eingenommen sind, ihre Hofnung bisweilen
+                    zu verbittern, indem ich dieselben mit einer air von Dreistigkeit versichere,
+                    daß es sehr leicht möglich wäre, daß Ew. Durchlaucht wieder nach <placeName key="prov_vxr_xxr_js">Italien</placeName> kämen, aber in diesem Fall Ihren
+                    Aufenthalt in <placeName key="prov_vkl_ndl_js">Rom</placeName> wählen würden. ma
+                    … ma i teatri, e la musica - - und mit diesen zwey Wörten werden alle meine
+                    Vorzüge <placeName key="prov_vkl_ndl_js">Rom's</placeName> über den Haufen
+                    geworfen. -</p>
+                <closer rend="paragraph">
+                    <salute>Ich empfehle mich zu fernern Gnaden Ew. Durchlaucht, indem ich in aller
+                        Unterthänigkeit geharre</salute>
+                    <lb/>Ew. Durchlaucht<lb/>unterthänigst gehorsamster<lb/>und dankbarster Diener<lb/>
+                    <signed>A. Hirt.</signed>
+                    <lb/>
+                    <dateline>Neapel den 11<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> May<lb/>1791.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

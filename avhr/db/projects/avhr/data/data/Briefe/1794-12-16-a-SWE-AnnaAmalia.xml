@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_qxs_wx2_cv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Rom, den 16. Dezember 1794.
+                    Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GNM Nürnberg</institution>
+                        <repository>Historisches Archiv Slg. Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">[Signatur nicht vergeben]</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>SLUB Dresden</institution>
+                                <collection>Nachlass Böttiger</collection>
+                                <idno>
+                                    <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr.
+                                        1</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1794-12-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia
+                        von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <note>Im GNM Nürnberg ist als Adressatin die Herzogin von Anhalt-Dessau
+                    angegeben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 16<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> Dec. 1794.</dateline>
+                    <salute>Gnädigste Herzogin!</salute>
+                </opener>
+                <p> Noch bin ich Ew. Durchlaucht meinen gehorsamsten Dank zu sagen schuldig für die
+                    schöne <seg type="critical">
+                        <orig>
+                            <bibl sameAs="ed_pcz_2s4_rx">Abhandlung</bibl> von <persName key="prov_i42_mdf_cv">Ajax</persName> u. <persName key="prov_y2v_mdf_cv">Cassandra</persName>
+                        </orig>
+                        <note xml:id="nm2l_pdf_cv">Es handelt sich um das 1794 veröffentlichte und
+                            Anna Amalia gewidmete Werk "Über den Raub der Cassandra auf einem alten
+                            Gefässe von gebrannter Erde" von Johann Heinrich Meyer und Karl August
+                            Böttiger, das neben drei Kupfertafeln eine "artistische Abhandlung" von
+                            Meyer und eine "archaeologische Abhandlung" von Böttiger enthält. Die
+                            beschriebene Szene von Ajax und Kassandra befindet sich auf einer
+                            antiken Vase im Besitz von Anna Amalia. Meyer schreibt dazu: "Man hat
+                            keine eigentliche Nachricht, wo, wie, und wenn dasselbe [Gefäss]
+                            gefunden worden sey; das Zuverlässige, was ich davon sagen kann, besteht
+                            bloss darin, dass der Cav. Venuti in Neapel solches vor nicht gar langer
+                            Zeit von jemand, der es einzeln besass, für seine Sammlung von
+                            Alterthümern gekauft hatte, und aus dieser ist es nachher an die jetzige
+                            durchlauchtige Besitzerin gelangt" (S. 10). Böttiger schildert die
+                            Vasenmalerei wie folgt: "Das Griechische Gefäss, dessen Mahlereyen durch
+                            die vereinigten Bemühungen zweyer in Italien selbst gebildeter Künstler
+                            [= Meyer und Lips] hier in einer möglichst getreuen Abbildung
+                            aufgestellt werden, enthält auf der Vorderseite auch eine mythologische
+                            Vorstellung aus dem Kreise der angeführten Künstlerfabeln. Die Tochter
+                            des Priamus, Cassandra, wird in der schrecklichen Nacht, in der die
+                            Griechen in Troja eindrangen, aus dem Heiligthume der Minerva, am Altare
+                            und an der Bildsäule der Göttin, bey der sie gegen die Wuth der Griechen
+                            Schutz gesucht hatte, von einem der trotzigsten und wildesten unter
+                            ihnen, dem Lokrischen Ajax beym Haar ergriffen und fortgeschleppt" (S.
+                            28). Hirt erwähnt das "gebrannte[] Gefäss[] "im Besiz der Herzogin
+                            Amalia von Sachsen Weimar" 1797 in seinem Laokoon-Aufsatz in den
+                            "Horen", um seine These vom Charakteristischen in der antiken Kunst zu
+                            untermauern. (Hirt: Laokoon, S. 15, Anmerkung g) (die Vase: rotfiguriger
+                            campanischer Krater, um 340/330 v. Chr. heute: Schlossmuseum Weimar,
+                            Inv. Gr. M. VIII, 426). Zur Darstellung dieses Mythos auf einer Vase im
+                            Besitz des Archäologen Vivencio in Nola vgl. auch: Martin Dönike:
+                            Pathos, Ausdruck und Bewegung: zur Ästhetik des Weimarer Klassiszismus
+                            1796-1806, Berlin 2005, S. 63f.; Briefwechsel Böttiger - Heyne, hrsg.
+                            von René Sternke und Klaus Gerlach, 2015, S. 534 f. </note>
+                    </seg>. Es wäre zu wünschen, daß <seg type="comment">
+                        <orig>die H. <persName key="prov_g5d_v2p_5r">
+                                <persName key="prov_tsc_grz_v5">Dissertanten</persName>
+                            </persName>
+                        </orig>
+                        <note xml:id="nvbr_5pp_nz">Böttiger und J. H. Meyer.</note>
+                    </seg> den
+                    Vergleich von vielen monumenten beysammen sehen könnten: Der Fleiß derselben,
+                    und die Liebe der großen u. geschmakvollen Beschüzerin dieses schönen Zweiges
+                    der Gelehrsamkeit würden die Welt gewiß viel gutes erwarten laßen. Sehr hätte
+                    ich verlangt, Ew. Durchlaucht ein Gegengeschenk darzubringen; nemlich eine <bibl sameAs="prov_jl2_1zj_cv">ausführliche Beschreibung der intereßanten
+                        Tour</bibl>, welche ich lezten Herbst in Gesellschaft des <persName key="prov_o12_bfx_w5">Prinzen August</persName> machte. Ich habe auch soviel
+                    ich konnte, seither daran geschrieben; allein unter der Hand wurden diese
+                    Bemerkungen so voluminös (ohne noch die Hälfte meiner Reise zurückgelegt zu
+                    haben) daß sie sich beßer für ein <pb n="2"/> Buch, als für einen Brief
+                    schicken. Auch bin ich seit drey Wochen so anhaltend mit einem <seg type="critical">
+                        <orig>jungen Lord</orig>
+                        <note xml:id="nsdm_y1k_cv">???</note>
+                    </seg> beschäftiget gewesen, daß ich nur in den Abendstunden daran fortschreiben
+                    konnte. Übermorgen reise ich nun in dem Gefolge des <persName key="prov_o12_bfx_w5">Prinzen August</persName> nach <placeName key="prov_myp_lbv_35">Neapel</placeName>, wo ich also für iezt das ganze muß
+                    liegen laßen. <persName key="prov_o12_bfx_w5">Der Prinz</persName> zwar will
+                    nicht über einen Monat ausbleiben. Seine Absicht ist bloß die merkwürdigsten
+                    Sachen dort wieder zu sehen, u. bey einigen jagden gegenwartig zu seyn, wozu der
+                        <persName key="prov_gmt_h5g_w5">König</persName> ihn nach <placeName key="prov_cyy_nxj_cv">Caserta</placeName> einlud. Das merkwürdigste, was ich
+                    auf der lezten Tour sah, ist das berühmte <seg type="critical">
+                        <orig>Emissarium an dem <placeName key="prov_hzs_ts2_cv">Fucinischen
+                                See</placeName>
+                        </orig>
+                        <note xml:id="nnk3_hbk_cv">Vgl. den zweiten Teil von Hirts Aufsatz, "Bau des
+                            Emissärs", in: Die Horen, 8. Bd., 12. Stück, 1796, S. 1-10. Darin
+                            schreibt Hirt über den von den Römern angelegten unterirdischen Kanal:
+                            "Dieses Werk, das größte in seiner Art, das wir in der Geschichte
+                            kennen, ist besonders durch die Weise merkwürdig, wie es angegriffen,
+                            und vollendet wurde. Nicht allein war der Berg Malleanus durchgebrochen,
+                            sondern die ganze Länge des Kanals durch einen harten Kalkfelsen tief
+                            unter der Erde durchgebohrt. Nur an dieser und jener Stelle fanden sich
+                            Zwischenlagen von festem Lehm, welche ausgemauert werden mußten. Diese
+                            ganz unterirdische Arbeit erweckt billig das Erstaunen eines jeden, der
+                            es sieht; 30,000 Mann arbeiteten eilf Jahre hindurch ohne Unterlaß
+                            daran" (S. 2). </note>
+                    </seg>. Wir haben alle nöthigen Zeichnungen von diesem Werke mitgebracht, welche
+                    ich gedenke stechen zu laßen, und mit der Zeit, wo ich glauben kann, daß die
+                    Menschen wieder Antheil an den friedlichen Künsten werden nehmen können, mit
+                    meiner bereits fertigen <bibl sameAs="prov_jl2_1zj_cv">Abhandlung</bibl>
+                    herauszugeben. <pb n="3"/> In <placeName key="prov_v4y_mgk_cv">Sora</placeName>
+                    oder vielmehr bey Sora weilte ich auf dem Orte, wo <persName key="prov_g24_bhk_cv">Cicero</persName> seine geliebte <seg type="critical">
+                        <orig>Villa</orig>
+                        <note xml:id="nrrl_lhk_cv">Cicero besaß insgesamt 14 Villen; u. a. an seinem
+                            Geburtsort Arpinum, nahe Sora.</note>
+                    </seg> hatte, wo er geboren war. Ich bitte gelegenheitlich sich <seg type="critical">
+                        <orig>das zweyte Buch von den Gesezen</orig>
+                        <note xml:id="nf3n_pjk_cv">In seinem Werk "De legibus" (entstanden Ende der
+                            50er Jahre v. Chr.), einem Dialog zwischen Cicero, seinem Bruder Quintus
+                            und seinem Freund Atticus in Arpinum, wird die Gegend wie folgt
+                            beschrieben: "Att[icus] Das ist das erste mal, daß ich hieher komme. -
+                            In Wahrheit! ich kann mich nicht satt sehen. Alle prächtige Landhäuser
+                            mit ihren Marmelsälen und gewölbten Decken, so schön sie auch vergultet
+                            seyn mögen, sind mir dagegen ganz gleichgültig: und wer wollte nicht die
+                            Canäle, welche ihre üppige Besitzer Nilströme und Euripen zu nennen
+                            pflegen, gegen das, was er hier sehen kann, verachten? Wie du also
+                            vorhin, als vom Gesetze und Rechte die Rede war, alles auf die Natur
+                            zurück führtest, also muß auch in dergleichen Sachen, welche zu
+                            Vergnügen, und zur Erhohlung des Gemüths dienen sollen, die Natur den
+                            Vorzug b ehalten. Ich wunderte mich sonst, (weil ich mir hier nichts als
+                            Felsen und Berg vorstellte, wozu deine eigene Rede, sammt deinen Versen
+                            mich verleiteten) wie gesagt, ich wunderte mich, daß dir dieser Ort so
+                            sehr gefiele: aber nun müste ich mich wundern, wenn du auserhalb Rom
+                            anderswo lieber wärest, als hier." Cicero liebte diese Gegend so, weil
+                            es sein Vaterland sei. "[…] dieses Landhaus, wie du es da siehest, hat
+                            der Fleiß unsers Vaters erbauet und erweitert, und, weil er von
+                            schwacher Gesundheit war, hat er hier sein Leben gröstentheils unter den
+                            Büchern zugebracht: genug, auf dieser Stelle hier, bin ich, bey dem
+                            Leben meines Großvaters, als der altmodische kleine Rittersitz noch
+                            stand, nicht grösser, als der bekannte Hof des Curius im Sabinischen
+                            Lande, zur Welt gebohren. Eine gewisse Empfindung in meiner Seele, die
+                            ich nicht zu beschreiben weiß, macht mir also diesen Ort vielleicht so
+                            angenehm, wie etwa von dem weisesten unter jenen griechischen Königen
+                            gemeldet wird, daß er sein Ithaka wieder zu sehen, die Unsterblichkeit
+                            ausgeschlagen habe." (zitiert nach: Marci Tullii Ciceronis drey Bücher
+                            von den besten Gesetzen aus dem Lateinischen übersetzt und mit einigen
+                            Anmerkungen […] herausgegeben von Johann Michael Heinze. Göttingen 1788,
+                            S. 56-57). </note>
+                    </seg> dieses großen Mannes im Eingange übersezen zu laßen; und sich dabey zu
+                    gedenken, daß diese Gegend auch iezt noch eben so bezaubernd ist, als <persName key="prov_eqv_fmk_cv">Atticus</persName> sie fand. In <placeName key="prov_wfc_xs2_cv">monte Casino</placeName> u. <placeName key="prov_zl3_qmk_cv">Aquino</placeName> fanden wir eine große Anzahl sehr
+                    merkwürdiger u. wenig bekannter Monumente. von <placeName key="prov_wfc_xs2_cv">M. Casino</placeName> bis nach <placeName key="prov_vdf_qzg_y5">Grottoferrata</placeName> reisten wir auf der <placeName key="prov_krn_vmk_cv">Via latina</placeName>, welche <persName key="prov_k1k_1nk_cv">Hannibal</persName> mit der Armee machte, und die so
+                    deutlich <seg type="critical">
+                        <orig>in <bibl sameAs="prov_qtj_j5s_cv">Tit. Livius</bibl>
+                                beschrieben ist</orig>
+                        <note xml:id="nqsq_d5s_cv">Vgl. T. Livius: Römische Geschichte, ed.
+                                Josef Feix, München 1977, Buch XXVI, Kap. 9.</note>
+                    </seg>. Außer dieser größern Tour machten wir noch mehrere kleinere Excursionen
+                    in der <placeName key="prov_unc_wpk_cv">Campagno die Roma</placeName> auf 12.
+                    20. bis 30 Meilen umher. Immer ward etwas neues aufgefunden, oder eine neue
+                    wichtige Beobachtung gemacht. Ich habe nun seit vier u. fünf Jahren her auf
+                    kleinern u. größern Reisen soviel gesehen, u. gesammelt, daß ich anfange, ein
+                    Bedürfniß zu fühlen, nach und nach einiges in die Welt zu schicken. <pb n="4"/>
+                    Nur kann ich nicht wohl einig mit mir werden, Auf was Weise. – Auf jeden Fall
+                    bin ich gesonnen, eine Auswahl meiner Aufsäze zu treffen (etwa daß es einen
+                    mäßigen Quartband formirt) dabey die nöthigen Kupfer hiezu stechen zu laßen; so
+                    daß ich auf künftigen Sommer, wenn sich ein billiger Verleger fände, das
+                    Manuscript hiezu übersenden könnte. Würde der erste Band hinlängliche Liebhaber
+                    finden, so fehlten die Materialien nicht in einem gegebenen Zwischenraum den
+                    zweyten folgen zu laßen, u.s.w. – wollte der Himmel nur diesem leidigen Kriege
+                    ein Ende machen! <persName key="prov_o12_bfx_w5">Prinz August</persName> hat
+                    wieder anfangen laßen, an der See nahe bey <placeName key="prov_vbz_d2h_y5">Ardea</placeName> zu graben. Bißher ist aber nichts erhebliches als ein
+                    Bacchuskopf, u. zwey weiblich trappirte Statuen ohne Köpfe gefunden worden. Ich
+                    sah sie noch nicht. Gestern aber sah ich einige merkwürdige Stücke von Bronze,
+                    welche in einem unverzierten Sarcofag von <seg type="critical">
+                        <orig>Peperinstein</orig>
+                        <note xml:id="neh1_dqk_cv">Ein aschgraues basaltisches Tuffgestein, das sich
+                            hauptsächlich am Albanergebirge bei Rom findet.</note>
+                    </seg> nahe bey <placeName key="prov_yqm_vbh_y5">Palestrina</placeName> gefunden
+                    wurden. Das erste besteht in einer <seg type="critical">
+                        <orig>Cista mystica</orig>
+                        <note xml:id="nqv5_4qk_cv">Ein aus Weidenruten gefertigter runder Behälter
+                            zur Aufbewahrung heiliger Gerätschaften</note>
+                    </seg>, dann in zwey Patere mit Figuren, u. hetrurischen Namen, weiter in drey
+                    Balsams:Violen, u. drey <seg type="critical">
+                        <orig>Strigiles</orig>
+                        <note xml:id="njhw_nrk_cv">Antikes Instrument/Gerät zum Abschaben von
+                            Schweiß und Staub.</note>
+                    </seg>: ein lederner Beutel, gleich einem Pudersak, ist sehr gut erhalten, in
+                    einem Futteral von Bronze. Es scheinen Salben drinn gewesen zu seyn. </p>
+                <closer rend="paragraph">
+                    <salute>Ich verbleibe Ew. Durchlaucht unterthänigster D<ex>iener</ex>
+                    </salute>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

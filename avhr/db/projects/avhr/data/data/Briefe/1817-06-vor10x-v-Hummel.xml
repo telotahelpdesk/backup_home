@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_eqp_21c_lw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Johann Erdmann Hummel. Berlin, vor 10. Juni 1817]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1817-06-10-a-Hummel: „Ich freue mich sehr, mein liebster
+                        Fr<ex>eund</ex>, Ihren Brief nach hier erhalten zu haben. [...] Ich bin sehr
+                    erfreut, dass Sie sich meines Baues annehmen wollen. Das Bemalen meiner Zimmer;
+                    wünsche ich so einfach wie möglich. Die neue Gesellschaft Belle alliance scheint
+                    Buttmannsche Fabrik zu seyn und wahrscheinlich dirigirt er das Ganze. - Also
+                    Weinbrenner in Berlin! [...] Es ist mir angenehm zu hören, dass Bury in Brüssel
+                    ist; [...] Es ist lustig, was er in Rücksicht Davids in Erfahrung gebracht hat.
+                    [...] ich muss also eilen, Ihnen nur das Benöthigte zu sagen. Dies betrifft
+                    hauptsächlich die Reise unseres trefflichen Freundes Endell.“</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_n1f_vl5_tv">Hummel, Johann Erdmann (1769-1852) (Maler,
+                        1792-1799 in Italien, ab 1799 in Berlin, 1809 Prof. für Perspektive,
+                        Architektur und Optik an der Berliner Kunstakademie)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1817-05-01" notAfter="1817-06-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_zm3_qnb_lw"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

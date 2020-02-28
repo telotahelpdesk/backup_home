@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lnh_kj2_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 1. September 1820.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 39</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-09-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 1 Sept. 20.</dateline>
+                    <salute>Werthester Freund!</salute>
+                </opener>
+                <p>Sie erhalten hiemit <seg type="comment">
+                        <orig>ein paar Ihnen längst versprochener Abhandlungen</orig>
+                        <note xml:id="nemb_rxk_xw">Wohl seine Schrift über die Pelasger (die
+                            allerdings nicht in der "Amalthea" erschien) sowie seine Abhandlung
+                            "Über die Baue Herodes des Grossen überhaupt, und über seinen Tempelbau
+                            zu Jerusalem ins besondere"; des weiteren Buttmanns Schrift "Über das
+                            Leben des Geschichtsschreibers Q. Curtius Rufus" (vgl.
+                            1820-05-01-a-Böttiger).</note>
+                    </seg> durch einen Studiosus Theologiae –,<persName key="ed_wjt_j4j_xw">
+                        <hi rendition="#aq">Max Mila</hi>
+                    </persName>, der auf seiner Reise nach <placeName key="ed_cj1_q3w_dw">Halle</placeName>, <seg type="comment">
+                        <orig>wo er künftiges Jahr seine Studien fortzusetzen gedenkt</orig>
+                        <note xml:id="nk2x_p1z_xw">Laut Matrikel der Universität Halle wurde Max
+                            Mila am 9. Oktober 1820 immatrikuliert: "Alter: 20, Herkunft: Berlin,
+                            Studienfach: Theologie, Studiengebühren: dd. (dandum) Vater: Wilhelm
+                            Mila, Beruf: Justizrat aus Berlin, vorherige Universitäten, Schulen und
+                            Abschluss: ging ab 1818 von Friedrichswerder in Berlin mit No. I,
+                            von Heidelberg" (UAHW, Rep. 46, Nr. 9 (Matrikel 1820-1826). Da er im
+                            seit 1822 geführten Personalverzeichnis (UAHW, Rep. 41, Nr. 13
+                            (1822-1828) bereits im Sommersemester 1822 (Ostern-Michaelis) nicht
+                            mehr auftaucht, ist davon auszugehen, dass er die Universität vor
+                            besagter Zeit verlassen hat. Er setzte seine Studien anschließend in
+                            Breslau fort. (Freundliche Auskunft von Mario Aschoff,
+                            Universitätsarchiv der Martin-Luther-Universität Halle-Wittenberg).
+                        </note>
+                    </seg>, einen Theil der Ferien benutzen will, um <placeName key="prov_zj4_hc3_g5">Dresden</placeName> und <placeName key="ed_vct_nnj_xw">die dortigen Gebirgsgegenden</placeName> zu sehen –. Hätte er mehr Sinn für
+                    die Antike und die Kunst, als er wirklich hat, würde ich ihn Ihnen zur
+                    Besichtigung der dortigen Merkwürdigkeiten empfehlen; aber so kann ich Sie bloß
+                    bitten, ihn einmal wenn Sie ohnedem nach dem <seg type="comment">
+                        <orig>
+                            <hi rendition="#aq">Museo</hi>
+                        </orig>
+                        <note xml:id="nfkp_tnj_xw">Die Dresdner Kunstsammlungen. Böttiger war
+                            Oberinspektor über das Museum der Antiken sowie über die Sammlung der
+                            Mengsschen Gipsabgüsse.</note>
+                    </seg> gehen, mitlaufen zu laßen. Es fehlt ihm zwar nicht an philologischen
+                    Kenntnißen, so wie er auch über Antike und Kunst manches gehört hat; – aber die
+                    Theologie hat einmal sein Wesen so erfaßt, daß er fast allen übrigen Studien und
+                    Ansichten des Lebens fremd geworden <add place="superlinear">ist</add>. Ich
+                    schildere Ihnen denselben um so unbefangener, da er unter meiner Aufsicht
+                    aufgewachsen, und er bis <pb n="2"/> zur Zeit, wo ihn die Theologie ergriff, die
+                    erfreuligsten Hoffnungen gab, ein recht tüchtiger Philologe zu werden u.s.w.
+                    Übrigens empfehle ich Ihnen denselben auf's beste, so wie auch, <seg type="comment">
+                        <orig>seinen Gefährten</orig>
+                        <note xml:id="nm32_rbz_xw"> Karl Wilhelm von Klewiz war nicht an der
+                            Universität Halle immatrikuliert. </note>
+                    </seg>, <persName key="ed_gkk_4qj_xw">einen Sohn</persName>
+                    <persName key="ed_txf_rpj_xw">unseres Minister's</persName> von Klewitz und
+                    Schoppe . –</p>
+                <p>Neues weiß ich Ihnen nicht zu melden. Giebt es doch iezt wieder mehr, als man
+                    gerne hört. Ich bin iezt mit der Aufgabe einer <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Architektur</bibl> beschäftigt. – Wie steht es denn
+                    mit Ihrer <bibl sameAs="ed_r5b_psk_vw">
+                        <hi rendition="#aq">Amalthea</hi>
+                    </bibl>? – <seg type="comment">
+                        <orig>Sie zögert etwas</orig>
+                        <note xml:id="nimq_gq3_zw">Böttiger schreibt dazu im "Vorbericht" zum 2.
+                            Band der "Amalthea": "Ueber den zweiten Band der Amalthea, den ich
+                            hiermit den Kunst- und Alterthumsfreunden zu günstiger Aufnahme
+                            vorzulegen das Vergnügen habe, hab' ich nur weniges als Vorwort
+                            anzufügen. Unvorhergesehene und zum theil unwillkührliche Störungen und
+                            Unterbrechungen meiner antiquarischen Thätigkeit haben seine
+                            Erscheinung, zu deren Förderung der wackere Verleger selbst mich oft
+                            angetrieben hat, gegen alle meine Vorausberechnung über die Gebühr
+                            verspätet. Es sind indeß die zweckdienlichsten Veranstaltungen
+                            getroffen, daß ein so langer Aufschub bei der Fortsetzung nicht wieder
+                            eintreten kann. Der Druck des dritten Bandes beginnt unverzüglich [...]"
+                            (Amalthea, Bd. 2, Leipzig 1822, S. XIX-XX). </note>
+                    </seg>, bis sie ihr Füllhorn ausschüttet. Leben Sie wohl und laßen Sie bald
+                    wieder von sich hören <lb/>Ihr</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

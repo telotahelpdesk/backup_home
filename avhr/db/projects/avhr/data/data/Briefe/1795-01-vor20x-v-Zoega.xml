@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fgp_txs_qx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Georg Zoega. Rom, vor 20. Januar 1795]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1795-01-20-a-Zoega: "[...] ed a darvi la risposta alla vostra. Con
+                    grandissima mia contentezza ho sentito, che la vostra salute va megliorando,
+                    come anche quella della sig<hi rendition="#sup">ra</hi> Maria cosi che il
+                    dottore Domejer non ha giudicato necessario, a darvi nuove ordinazioni, sin’al
+                    Domejer non ha giudicato necessario, a darvi nuove ordinazioni, sin’al nostro
+                    ritorno, se mai allora qualche cosa abbisognasse." "Dite a Uhden che io faro la
+                    sua commissione. Hill ha acquistato un mondo di robba in medaglie, vasi, bronzi
+                    &amp;. ma tutto mi pare di poca importanza. Se lo rivedo, faro la vostra
+                    commissione."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ijp_xvr_xr">Zoega, Georg (1755-1809) (Archäologe)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1794-12-18" notAfter="1795-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_vsg_ssk_cv"/>
+                </correspContext>
+                <note>Zur Datierung: Hirt reiste am 18. Dezember 1794 im Gefolge des Prinzen August
+                    nach Neapel. Zoegas Brief ist nach Hirts Abreise und vor dessen Antwortbrief
+                    geschrieben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

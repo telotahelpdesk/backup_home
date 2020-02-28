@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_ghk_gkg_35">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Kaspar Lavater. Rom, den 27. Dezember 1788. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Zentralbibliothek Zürich</institution>
+                        <repository/>
+                        <collection>Nachlass Lavater</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">FA Lav. Ms. 513. 224</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Claudia Sedlarz: Morgenröte der Berliner Kunstgeschichte.
+                            Aloys Hirt an der Berliner Akademie der Künste und seine Zusammenarbeit
+                            mit Karl Philipp Moritz und Friedrich Rambach. In: Aloys Hirt in Berlin.
+                            Hrsg. von Astrid Fendt, Claudia Sedlarz und Jürgen Zimmer. Berlin,
+                            München 2014, S. 156 (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759 - 1837) </persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1788-12-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_zqn_wx5_35">Lavater, Johann Kaspar (1741 - 1801) </persName>
+                    <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_sl4_g43_s5"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 27<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Dec. 88.</dateline>
+                    <salute>An Herrn Pfarrer Lavater <lb/>in <placeName key="prov_fqy_my5_35">Zürch</placeName>.</salute>
+                </opener>
+                <p>
+                    <persName key="prov_mrl_wby_g5">Lips</persName> versichert mich, daß Sie diese
+                    Beylage von einem Unbekannten, der Sie schon so lange in der Ferne verehret,
+                    nicht übel aufnehmen würden.</p>
+                <p>Ich hatte vor kurzem wieder Gelegenheit, die <seg type="critical">
+                        <orig>französische Physionomie</orig>
+                        <note xml:id="nrck_sfb_z5">Essais sur la Physiognomie destinée à faire
+                            connoître l'homme et le faire aimer, par J. C. Lavater. I. II. III. vol.
+                            à la Haye 1782. 1785. 1787. gr. 4. mit Kupfern und Vignetten. </note>
+                    </seg> durchzusehen. Ich bewunderte nicht nur den scharfen Blick, mit dem Sie
+                    auf den äußern Lineamenten das Innere der Herzen und Fähigkeiten durchschauen;
+                    sondern ich blieb auch mehr als jemals von dem Nutzen dieser Wißenschaft in
+                    Rücksicht der Moralität und Kunst überzeugt. Gott! möchte man alle Augenblicke
+                    ausrufen: welche Fähigkeiten, welcher Schauspieler für ein so eingeengtes
+                    Theater! Warum lebt ein solcher Mann nicht in <placeName key="prov_vkl_ndl_js">Rom</placeName>! warum <add place="superlinear">ist</add> nicht er von den
+                    Antiken und <persName key="prov_abl_fz5_35">Raphael</persName> umgeben? warum
+                    ist das Kunststudium nicht sein einzig geschäft?</p>
+                <p>Ich kann nicht anders als mit dem Geschick zürnen, wenn Sie nicht nach <placeName key="prov_vkl_ndl_js">Rom</placeName> kommen und wenn Sie <pb n="2"/> nicht
+                    bald kommen. –</p>
+                <p>Die Menschen mögen sagen, was Sie wollen: Sie sind unserer Nation, ja der ganzen
+                    Menschheit eine zwote Auflage Ihrer <bibl sameAs="prov_ahw_yl1_55">Physionomie</bibl> schuldig, – Aber mit bestimmtern Principien, aus
+                    einem höhern mehr umfaßenden Gesichtspunkt. <placeName key="prov_vkl_ndl_js">Rom</placeName>, die Antiken und <persName key="prov_abl_fz5_35">Raphael</persName> können sie einzig dazu führen.</p>
+                <p>Sie sind dazu berufen, das Räthsel zu erforschen, <hi rendition="#u">wie die
+                        Alten bildeten</hi>, in deren Schulen die Physionomik und Karakteristik
+                    Wißenschaft, und nicht blos, wie in unsern Schulen, ungefähres Haschen ud Tappen
+                    war. <subst>
+                        <del rendition="#ow">
+                            <unclear>Bei</unclear>
+                        </del>
+                        <add>Unter</add>
+                    </subst> den Neuern ist nur ein <persName key="prov_abl_fz5_35">Raphael</persName> und <persName key="prov_bfj_11v_35">Leonardo</persName>,
+                    die das Gefühl derselben besaßen; aber leider blieb es Gefühl, weil es kein
+                        <persName key="prov_zqn_wx5_35">Lavater</persName> gab, der dieß innere
+                    Anschauen auf Grundsäze zurückführte.</p>
+                <p>Opfern Sie einmal sechs Monate von Ihren Amtspflichten auf. In wenigen Tagen sind
+                    Sie über dem <placeName key="prov_gfr_p1v_35">Gotthard</placeName> bey <persName key="prov_bfj_11v_35">Leonarda da Vinci</persName> in <pb n="3"/>
+                    <placeName key="prov_bfn_t1v_35">Mayland</placeName>; in wenigen Tagen von da in
+                        <placeName key="prov_hp5_gbv_35">Florenz</placeName>, und dann in <placeName key="prov_vkl_ndl_js">Rom</placeName>. Hier aber blicken Sie zwey volle
+                    Monate nicht sowohl um alles, als die Antiken und <persName key="prov_abl_fz5_35">Raphael</persName> zu sehen. Keine Gesellschaft soll
+                    Sie stören, sondern Sie leben blos für Kunstwerke und Künstler: - Die Neugierde
+                    benimmt Ihnen dann einen Monat für <placeName key="prov_myp_lbv_35">Neapel</placeName>; bey der Rückkehr <placeName key="prov_hp5_gbv_35">Florenz</placeName> noch 10 Tage, <placeName key="prov_hrj_4bv_35">Bologna
+                    </placeName>8 Tage, und so <placeName key="prov_ixb_grr_js">Parma</placeName>
+                    und <placeName key="prov_bfn_t1v_35">Mayland</placeName> noch ein paar Tage.
+                        <placeName key="prov_tgx_1c3_g5">Venedig</placeName> und andere Städte
+                    Rechts und Links kann ein Mann wie Sie vermißen. <placeName key="prov_vkl_ndl_js">Rom</placeName> und <placeName key="prov_hp5_gbv_35">Florenz</placeName> sind allein Hauptorte.</p>
+                <p>Denken Sie die Ärndte nach nicht einmal vollbrachten sechs Monaten; denken Sie
+                    die Fülle der Seele dann, - die höhere Sonne, welche über Ihnen leuchten würde,
+                    und welches Licht aus ihrem lautern Quell zu verbreiten wäre. </p>
+                <p>Könnten Sie kommen in der Zeit, <seg type="critical">
+                        <orig>wo <persName key="prov_hy4_jx2_rs">Herder</persName> noch hier
+                            ist</orig>
+                        <note xml:id="nnm3_ggb_z5">Herder blieb bis 14. Mai 1789 in Rom.</note>
+                    </seg>, der wahrscheinlich bey der <persName key="prov_qn2_zhp_5r">Herzogin</persName> bis künftigen May bleiben wird. Sie giengen im Merz von
+                        <placeName key="prov_fqy_my5_35">Zürch</placeName> ab, reisten dem Frühling
+                    entgegen, und wären <pb n="4"/> gegen Ausgang des nemlichen Monats in <placeName key="prov_vkl_ndl_js">unserer Hauptstadt</placeName>. –</p>
+                <p>Sehen Sie hier meine lautern heißen Wünsche, und gewiß aller derer, die Ihren
+                    Werth, und den Nutzen einer solchen Reise für <persName key="prov_zqn_wx5_35">Lavater</persName>s Geist zu beurtheilen im Stande sind.</p>
+                <p>Es scheint mir oft, wenn ich es sagen darf, daß Sie durch diese Reise den
+                    eigentlichsten Beruf Ihrer Bestimmung hienieden erfüllen würden. Gott fodert
+                    Rechenschaft von dem eigensten Talent, das er dem Mensch gegeben hat.
+                    –</p>
+                <p>Vergeben Sie soviel Zudringlichkeit einem jungen Ihnen unbekannten Forscher des
+                    Guten und Schönen, der beyde in dem Wahren suchet, und in Wahrheit ist</p>
+                <closer rend="paragraph">
+                    <salute>Ihr ergebenster Verehrer</salute>
+                    <signed>Aloys Hirt –</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

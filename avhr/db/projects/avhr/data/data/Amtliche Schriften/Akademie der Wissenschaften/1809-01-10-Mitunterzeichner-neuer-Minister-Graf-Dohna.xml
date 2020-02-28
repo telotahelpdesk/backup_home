@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ms2_5m4_jhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Komitees der Akademie der Wissenschaften</title>
+                <title> an den neuen Staats- und dirigierenden Minister des Innern Grafen von Dohna.
+                    Berlin, 10. Januar 1809 (Hirt ist Mitunterzeichner)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1811), I-I-11, Bl.
+                            30r-31r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Von Schreiberhand; mit egh. Unterschriften. Mit Respektsabstand bei der
+                            Grußformel.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_w4c_hpt_nhb">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische: Comité zur Erarbeitung eines neuen
+                        Akademiereglements</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-01-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o2y_zn4_jhb">Dohna-Schlobitten, Friedrich Ferdinand Alexander
+                        Burggraf und Graf zu (1771-1831) (ostpreuß. Staatsmann und Politiker, 1807
+                        Präsident der Kriegs- und Domänenkammer, 1808-1810 Innenminister (Nachfolger
+                        des Reichsfreiherrn vom und zum Stein), befreundet mit Schleiermacher und W.
+                        v. Humboldt)</persName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qkz_bnm_pgb">AdW - Neuorganisation</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Hochgebohrner Graf, <lb/>Hochgebiethender Herr Geheimer Staats Minister!
+                        <lb/>Gnädiger Herr!</salute>
+                </opener>
+				<p>Wenn wir Unterzeichnete die Empfindungen der reinsten Freude auszudrücken wagen, welche die
+                    Ernennung Ew. Hochgräflichen Excellenz zum Minister des Innern, und dadurch auch
+                    zur Oberbehörde der Akademie der Wissenschaften, in dem Herzen aller Mitglieder
+                    derselben erregt, nehmen wir uns zugleich die Freiheit, Hochdenselben Folgendes
+                    vorzutragen:</p>
+                <p>Als der Akademie von des <persName key="prov_bxf_jt5_fv">Königes</persName>
+                    Majestät die <seg type="comment">
+                        <orig>Ernennung des Herrn Geheimen Cabinets Raths <persName key="ed_tky_wmf_nhb">Lombard</persName>, zum Secretaire
+                            perpétuel</orig>
+                        <note xml:id="njrc_nnf_nhb">"Lombard, der vielfach im diplomatischen Auftrag
+                            tätig war, wird von Zeitgenossen als frivol und käuflich
+                            charakterisiert. Wegen seiner Zusammenarbeit mit Frankreich floh er 1806
+                            aus Berlin. 1807 wurde er auf Befehl Friedrich Wilhelms III. gegen den
+                            Widerstand in der Akademie zum Ordentlichen Mitglied und Beständigen
+                            Sekretar ernannt. Er trat 1809 als Beständiger Sekretar zurück, behielt
+                            aber, obwohl er danach im Ausland lebte, den Status eines OM." (Werner
+                            Hartkopf: Die Berliner Akademie der Wissenschaften. Ihre Mitglieder und
+                            Preisträger 1700-1990. Berlin 1992, S. 223).</note>
+                    </seg>, kund gemacht wurde, hielt diese für schicklich und pflichtmäßig, in
+                    ehrfurchtvollem Vertrauen ihrem Allerhöchsten Protector vorzustellen: daß, wenn
+                        S<hi rendition="#sup">e</hi>. Majestät es gestatteten, sich überhaupt ein
+                    zweckmäßigerer Plan zur Einrichtung der Akademie, von ihr selbst, würde
+                    entwerfen lassen. Sie war so glücklich, die Genehmigung dazu in dem gnädigsten
+                    Cabinet-Schreiben d.d. <placeName key="ed_tyf_44l_nhb">Memel</placeName> 15.
+                    October 1807 zu erhalten, welches wir in Abschrift beilegen.</p>
+                <p>Demzufolge ernannte die Akademie, zur Ausarbeitung eines neuen
+                    Organisationsplans, neun ihrer Mitglieder, uns Unterschriebene; und wir fingen
+                    im November 1807. unser Arbeiten an. Diese sind zwar gegenwärtig noch nicht
+                    völlig gendigt, weil sie alle Punkte, sowohl die wissenschaftlichen als die
+                    ökonomischen umfassen sollen, und weil wir anderweitig durch unsere übrigen
+                    Berufs-Geschäfte gehindert werden <pb n="2"/> unsere ganze Zeit diesem Geschäfte
+                    zu widmen. Indeß ist dasselbe so weit vorgerückt, daß nur die letzte Redaction
+                    noch folgt, um der Akademie den ausgearbeiteten Plan vorzulegen, so daß wir bald
+                    im Stande zu seyn hoffen dürfen, ihn unterthänig einzureichen.</p>
+                <p>Die oeconomischen Punkte veranlassen besonders deshalb eine große Schwierigkeit
+                    bei unsern Arbeiten, weil die Akademie an ihren bisherigen Einkünften vom
+                    KalenderWesen, wegen der abgetretenen Provinzen so ansehnlich verlieret, daß sie
+                    von dem Rest weder die mit ihrer gegenwärtigen sehr mangelhaften Einrichtung
+                    verknüpften Ausgaben bestreiten, noch eine den jetzigen Verhältnissen der
+                    Wissenschaften angemessenere Verfassung, ohne anderweitige Zuschüsse zu
+                    erhalten, einführen kann. Wir haben uns daher pflichtmäßig bemühet, einestheils
+                    die Ausgabe-Sätze möglichst zu beschränken, und anderntheils Einnahme Quellen
+                    auszumitteln, welche dem Staate selbst zu keiner Last gereichen. Es gehören
+                    dahin besonders Abgaben von reichen geistlichen Orden, Klöstern und Stiftern.
+                    Werden diese Allerhöchsten Orts genehmiget, so wird es den öffentlichen
+                    LandesCassen eine große Erleichterung verschaffen und die unumgänglich nötige
+                        <hi rendition="#aq">Reform</hi> der Akademie desto eher bewerkstelliget
+                    werden können.</p>
+                <p>Mögen unsere Vorschläge Ew. Excellenz erlauchtetem Urtheil einigermaßen genügen!
+                    Möge es uns gelingen, die redliche und patriotische Absicht, der seit einem
+                    Jahrhundert, mit Ruhm genannten hiesigen Akademie eine Einrichtung zu
+                    verschaffen, die dem jetzigen Standpunkte der Wissenschaften und dem Zustande
+                    anderer begünstigten Akademien angemessen ist, - diese unsere Absicht, die gewiß
+                    mit Ew. Excellenz Absicht selbst zusammentrift, auf eine Weise auszuführen,
+                    welche dem Kenner und dem Staatsmanne nicht ganz mißfällt.</p>
+                <p>Ew. Excellenz dieses gehorsamst anzuzeigen hielten wir <pb n="3"/> für unsre
+                    Schuldigkeit und empfehlen die Akademie der Wissenschaften und unsre geringen
+                    Bemühungen Dero gnädigem Wohlwollen.</p>
+				<closer>
+                    <salute>Mit wahrer Verehrung verharren wir <lb/>Ew. Hochgräflichen Excellenz
+                        <lb/>unterthänige</salute>
+                    <signed>Die Mitglieder der von der König<ex>lichen</ex> Academie ernannten
+                        Comitté <lb/>[egh. Unterschriften] <persName key="ed_kjn_mcz_vv">Gerhard</persName>     von <persName key="ed_gll_v5z_ngb">Castillon</persName>
+                        <persName key="ed_fnz_mry_fhb">Klaproth</persName>
+                        <persName key="ed_i3s_blr_dhb">Klein</persName>.     <persName key="prov_ztg_3sx_sr">Hirt</persName>.     <persName key="ed_v5z_gsy_fhb">Biester</persName>.     <persName key="ed_wk1_hkr_dhb">Tralles</persName></signed>
+                    <dateline>Berlin / den 10<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Januar 1809.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

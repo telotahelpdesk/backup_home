@@ -1,0 +1,574 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zqg_rkn_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 13. Oktober 1830.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 47</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1830-10-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_znz_lrb_5y"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 13<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        October / 1830.</dateline>
+                    <salute>Mein alter theure<ex>r</ex> Freund! </salute>
+                </opener>
+                <p>Ich habe <seg type="comment">
+                        <orig>gleich nach meiner Rückkunft</orig>
+                        <note xml:id="nztn_bgc_sy">Hirt verbrachte wie schon im Jahr zuvor im
+                            Anschluss an einen Badeaufenthalt in Teplitz einige Zeit in Dresden, um
+                            die dortigen Kunstsammlungen zu besuchen.</note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_bth_xkv_ty">beykommende Blätter</bibl>
+                        </orig>
+                        <note xml:id="nnql_x4b_5y">Das Manuskript der kurz darauf im "Artistischen
+                            Notizenblatt" 1830, Nr. 22, gedruckten "Gegenbemerkung über die in
+                            diesen Blättern erhobenen Zweifel gegen seine [Hirts] Kunstbemerkungen".
+                            Darin schreibt der Herausgeber Karl August Böttiger in einem "Vorwort":
+                            "Es war vorauszusehen, daß Hofrath Hirt gegen die von ihm selbst
+                            gewünschten Erinnerungen, welche auf seine in der Ostermesse 1830 bei
+                            Dunker und Humblot erschienen Kunstbemerkungen über die Dresdener
+                            Galerie und Antikenmuseum von dem Herrn v. Quandt, vom Hofrath Hase und
+                            von dem Herausgeber dieser Notizenblätter gemacht worden waren, die
+                            Antwort nicht schuldig bleiben würde. Auch wird nur durch Rede und
+                            Gegenrede ein durchaus befriedigendes Resultat erzielt. Was nun zuerst
+                            die Bemerkungen unsers allgemein geachteten Kunstkenners des Herrn v.
+                            Quandt anbetrifft, so hatte sich dieser in der Hallischen Allgemeinen
+                            Literaturzeitung (August No. 152-54.) über alles, was Hirt's Bemerkungen
+                            über unsere Gemäldegalerie betrifft, auf eine Weise vernehmen lassen,
+                            die Hrn. H. nur erfreulich und willkommen seyn konnte, da sie die volle
+                            Anerkennung des Beurtheilers enthält und insbesondere Hirt's bekanntes
+                            Prüfungsgesetzt, das von ihm in die Charakteristik und in individuelle
+                            Bedeutsamkeit gesetzt wird, durch den idealen Gattungsbegriff sehr
+                            treffend modifizirt. Was nun Hirt darüber noch ferner zu erinnern hatte,
+                            wird Hr. v. Quandt nicht ermangeln, in der Allgemeinen Literaturzeitung
+                            selbst, worin ja die erste Recension ihre Stelle gefunden hatte, getreu
+                            mitzutheilen, wohin wir also die Leser dieser Blätter verweisen. In
+                            Beziehung auf unser Antikenmuseum hatte sich indeß durch die Anwesenheit
+                            des Verfassers jener Bemerkungen in Dresden bei seiner Durchreise vom
+                            Teplitzer Bade, die angenehme Veranlassung ergeben, daß sowohl mein
+                            verehrter Herr College, Hofrath Hase, als ich selbst, vor den Bildwerken
+                            in freundlicher Erörterung unsere Vorstellungen und Zweifel mündlich
+                            austauschen, prüfen und berichtigen konnten. Hirt schickte bald nach
+                            seiner Rückkehr nach Berlin uns beiden nun seine Gegenbemerkungen mit
+                            der Anzeige zu, daß sie in diesen Blättern abgedruckt werden möchten.
+                            Diesem Wunsche wird also durch den Abdruck in Folgendem Genüge
+                            geleistet. Natürlich ist uns nun auf freundliche Einrede eben so
+                            freundliche Gegenrede gestattet. Hofrath Hase behält sich vor, auf die
+                            ihn besonders betreffenden Bemerkungen, in den in Leipzig (bei
+                            Brockhaus) erscheinenden Blättern für literarische Unterhaltung zu
+                            antworten, da er darin auch seine früheren Erinnerungen niedergelegt
+                            hat. Auch ich dürfte wohl noch Einiges zu bemerken finden, wo ich mit
+                            meinem alten und erprobten Freunde auch jetzt noch nicht ganz
+                            einverstanden seyn kann. Allein dazu scheint mir dieß Blatt, welches
+                            ausführliche archäologische Untersuchungen, als bloßes Notizenblatt, wo
+                            monatlich nur zwei halbe Bogen erscheinen können, nicht füglich
+                            aufnehmen kann, weniger geeignet. Es findet sich dazu wohl anderwärts
+                            ein schicklicher Platz. Nur die Hirt'sche Gegenrede konnte hier nicht
+                            ausgeschlossen werden, theils ihres interessanten Inhalts wegen, theils
+                            auch darum, weil ja von meiner Seite in diesem Notizenblatte (Nr. 14.)
+                            die Discussion darüber zuerst eröffnet worden war. Dabei mag nicht
+                            unbemerkt bleiben, daß unser würdiger Freund, Hofrath Fr. Kind, in der
+                            Zeitung für die elegante Welt im October 1830 (Nr. 205-7) gegen Hirt's
+                            Behauptung (Kunstbemerkungen S. 21), daß auf dem seiner Angabe nach von
+                            Friedrich Herlin von Rothenburg an der Tauber gemalten, großen
+                            Altarblatte in der Domkirche zu Meißen, demselben, welches durch
+                            Ueberpinselung neuerlich so gemißhandelt worden ist, der unbärtige
+                            König, der Herzog Sigismund, Bischoff von Würzburg sey, der 1475 starb,
+                            sehr erhebliche geschichtliche Zweifel erhoben worden sind. / B." (S.
+                            85-86). - Hirts "Gegenbemerkung" ist datiert "Berlin, den 13. October
+                            1830". Darin schreibt Hirt u.a.: "Es kann mir nicht gleichgültig seyn,
+                            meine Schrift über die beiden großen Kunstsammlungen in Dresden von den
+                            dortigen Kunstfreunden so nachsichtvoll aufgenommen zu sehen. Indessen
+                            fehlte es nicht an Einwürfen gegen manche meiner Aeußerungen. Und in
+                            Wahrheit würde es zu viel gefordert seyn, vollkommenes Zugeständniß zu
+                            erhalten in Dingen, die in so vielen Beziehungen so schwer zu deuten und
+                            räthselhaft sind. Ich benutze also die ersten Momente seit der Rückkehr
+                            von meiner dießjährigen Badereise, um auf die Einwendungen, die mir
+                            theils schriftlich, theils mündlich zugekommen sind, zu antworten. / Der
+                            erste, der seine Ansichten über meine Kunstbemerkungen kund gab, war
+                            mein vieljähriger Freund, der Hofrath Böttiger, mit der brieflichen
+                            Zusicherung, daß er meine Antwort in gegenwärtiges Blatt würde einrücken
+                            lassen. Die Controversen sind zwar seitdem vor den Monumenten selbst
+                            mündlich fortgesetzt worden. Indessen mag es für theilnehmende Leser
+                            nicht unwichtig seyn, zu wissen, was verhandelt worden ist." (S. 86). –
+                            Heinrich Hase veröffentlicht seine Bemerkungen u.d.T. "Hofrath Hirt bei
+                            den Antiken in Dresden" in "Blätter für literarische Unterhaltung" Nr.
+                            51, 20. februar 1831, S. 221-223. Darin heisst es u.a.: "Hr. Hofrath
+                            Hirt besuchte auf einer Durchreise nach Teplitz im Sommer des Jahres
+                            1829 die Säle des Augusteums zu Dresden und erneuerte dort das alte
+                            Gastrecht, das ihn mit dieser Sammlung und ihren Aufsehern verbindet.
+                            Was er fand und wie er das Gefundene antraf, erzählte er dann in einem
+                            Buche: "Kunstbemerkungen auf einer Reise über Wittenberg und Meißen nach
+                            Dresden und Prag" (Berlin, 1830), Allen, die lesend zuhören wollten, und
+                            begreiflich setzten sich die Vorsteher der dresdner Sammlung auf die
+                            ersten Bänke. Als Hr. Hofrath Hirt im Sommer 1830 wieder in Dresden
+                            eintraf, gab es daher reichlichen Stoff zur Besprechung. Denn in seinen
+                            Bemerkungen hatte er gerühmt und getadelt, hatte er Vorschläge gethan
+                            und gewarnt, Einzelnes genauer bestimmt und Anderes anders gedeutet; wem
+                            die Sammlungen näher am Herzen lagen, der fühlte sich daher zu
+                            mancherlei Betrachtungen und Zweifeln, zu Zustimmung und Einreden auf
+                            das lebhafteste angeregt. / Auch mir wurde die Freude, mit Hrn. Hirt zu
+                            wiederholten Malen in den Sälen des Augusteums Sätze durchzusprechen,
+                            die seine "Kunstbemerkungen" hingestellt hatten; dort vor den Monumenten
+                            zu prüfen, was er über unsere Antiken gesagt hat und an Ort und Stelle
+                            zu erwägen. Einiges, was mir beim ersten Durchlesen des Buchs bedenklich
+                            erschienen, hatte ich dem verehrten Verf. durch die Vermittelung dieser
+                            Blätter zur Prüfung vorlegen wollen. Zufälligkeiten hatten die
+                            Ausführung dieses Vorsatzes verhindert. Jetzt wurde also mündlich
+                            verhandelt. Bald gab es Anlaß zum Angriff, bald zur Abwehr. So vergingen
+                            im Wechselkampf Stunden. Die damals mündlich geäußerten Einwürfe gegen
+                            einige Sätze hat Hr. Hirt in einem in Böttiger's "Artistischem
+                            Notizenblatte" (1830, Nr. 22) abgedruckten Aufsatze berücksichtigt. Was
+                            hier folgt, soll darauf eigentlich keine Replik sein, sondern eine
+                            Angabe der Gründe, die mir vorschwebten und die vielleicht δευτεράν
+                            φροντίδαν 'ein zweites Nachdenken' bei Hrn. Hirt veranlassen." (S. 221).
+                            Hase widerlegt im Folgenden einige Irrtümer Hirts bei der Bestimmung der
+                            Antiken Nr. 153 der jetzigen Aufstelllung, Nr. 293 und Nr. 279. Zu
+                            Letzterer, der Britomartis, siehe unten die letzte Sachanmerkung.</note>
+                    </seg>geschrieben, um sie in Ihre eigenen Hände zu übergeben nach dem
+                    verabredtem Besuche, den Sie uns hier in <placeName key="prov_ycp_cpr_js">Berlin</placeName> erstatten wollten. Nachdem ich aber von <persName key="ed_ifk_ktj_xv">
+                        <hi rendition="#aq">Levezow</hi>
+                    </persName> erfuhr, daß <seg type="comment">
+                        <orig>die bösen Zeitläufe</orig>
+                        <note xml:id="nrkq_npn_my">1830 kam es in Dresden und Leipzig zu Unruhen, da
+                            es nach dem Thronwechsel 1827 im sächsischen Königreich zu keinerlei
+                            Verfassungsreformen, zur Erweiterung der politischen Rechte des
+                            Bürgertums wie zur Belebung des Handels gekommen war. Nach ersten
+                            Unruhen in Dresden im Juni 1830 und am 2. September in Leipzig, entlud
+                            sich die Stimmung in Dresden am 9. September. Die Militärkapelle musste
+                            mehrfach die Marseillaise spielen, die Polizeiwache wurde von
+                            randalierenden jungen Leuten besetzt und Akten vernichtet. Bis zum 13.
+                            September wurde der Aufruhr eingedämmt: die Regierungsgewalt ging auf
+                            die "Kommission zur Aufrechterhaltung der öffentlichen Ruhe" über; Prinz
+                            Friedrich August wurde zum Mitregenten ernannt. "Noch im Jahr 1830 war
+                            mit der Wahl von Kommunalrepräsentanten in Dresden der Beginn kommunaler
+                            Selbstverwaltung in Sachsens Städten markiert" (nach: Frank Aurich:
+                            http://www.qucosa.de/fileadmin/data/qucosa/documents/928/1237552498846-3009.pdf).
+                            Ein Jahr später, am 4. September 1831, wurde eine Sächsische Verfassung
+                            verabschiedet ("Verfassungsurkunde für das Königreich Sachsen"). Die
+                            Kunstsammlungen gingen in Staatseigentum über. </note>
+                    </seg>
+                    <add place="superlinear">Sie</add> an der Reise hinderten; so hegte ich noch
+                    einige Hoffnung, daß <persName key="ed_elf_x4c_3y">Herr <hi rendition="#aq">v.
+                            Quandt</hi>
+                    </persName> zu uns kommen würde, um dann durch ihn Ihnen die Blätter zukommen zu
+                    laßen. Aber ich fürchte fast, daß er sich auch durch dieselben Ursachen von der
+                    kleinen Reise abhalten laße. Ich nahm also das Anerbieten von Herrn <persName key="ed_w4x_mcc_sy">
+                        <hi rendition="#aq">Dunker</hi>
+                    </persName> an, der auf Buchhändlerwege Ihnen das M<ex>anuskrip</ex>t übersenden
+                    will.</p>
+                <p>Sehr wünschte ich, daß Sie in der Schlichtheit meiner Antworten nichts
+                    verfängliches finden mögen, und eben <add place="superlinear">so wenig</add> H.
+                        <persName key="ed_dbg_wkz_4x">H<ex>einrich</ex>
+                        <hi rendition="#aq">Hase</hi>
+                    </persName>, und <persName key="ed_elf_x4c_3y">Herr <hi rendition="#aq">v.
+                        Quandt</hi>
+                    </persName>, welche beide ich herzlich zu grüßen bitte.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Unser <placeName key="ediarum_rj2_kdc_sy">
+                                <hi rendition="#aq">Museum</hi>
+                            </placeName> ist eröffnet</orig>
+                        <note xml:id="nhll_ndc_sy">Das ab 1825 von Karl Friedrich Schinkel im
+                            klassizistischen Stil errichtete preußische Kunstmuseum in Berlin
+                            ("Neues Museum"), das ursprünglich für alle Berliner Sammlungen der
+                            "hohen Kunst" bestimmt war, wurde am 3. August 1830, dem Geburtstag von
+                            König Friedrich Wilhelm III., eröffnet. </note>
+                    </seg>, und sieht recht stattlich aus. <seg type="comment">
+                        <orig>wenn Sie aber Dasselbe sehen werden</orig>
+                        <note xml:id="nklq_tpy_sy">Vgl. Böttigers Ausführungen "Das königliche
+                            Museum in Berlin", in: Artistisches Notizenblatt (= Beilage zur Dresdner
+                            Abendzeitung), 1830, Nr. 16.</note>
+                    </seg> ( wie ich hoffe im künftigen Frühjahr); so werden <pb n="2"/> Sie leicht
+                    wahrnehmen, <seg type="comment">
+                        <orig>daß weder der Bau, noch die Anordnung nach den Ideen gemacht sind,
+                            welche ich in meinem <bibl sameAs="ed_mhm_snl_vw">
+                                <hi rendition="#aq">
+                                    <placeName key="prov_zj4_hc3_g5">Dresdner</placeName>
+                                </hi> Buche</bibl> kundgab</orig>
+                        <note xml:id="ncbg_chc_sy">Hirt hatte in seinen "Kunstbemerkungen" bei der
+                            Einrichtung einer Gemäldesammlung für "eine systematische Anordnung nach
+                            Epochen und Schulen" plädiert. "Nicht nur wird hierdurch für dieselben
+                            die Übersicht dessen, was die Sammlung enthält, erleichtert, sondern
+                            auch, was viel wichtiger ist - durch das Bey- und Nebeneinanderseyn wird
+                            besser das Eigenthümliche der Epochen, der Unterschied der Schulen, die
+                            oft schwer zu unterscheidende Abweichung der Meister einer und derselben
+                            Schule erfasst" (S. 3). Es sei der "historische Weg" zu verfolgen und
+                            "bey jeder Gelegenheit nach dem Vor und Nach" zu fragen (S. 5). In einer
+                            Kunstgalerie sollten nicht nur die "grossen vollendeten Meister[]"
+                            ausgestellt werden; man müsse auch sehen und wissen, "wie diese ihre
+                            vollendete Stufe erreichten" (S. 4). Seine Vorstellungen über die
+                            Anordnung einer Bildergallerie fasst Hirt zusammen: Um nicht nur das
+                            Ganze, sondern auch das Einzelne gründlich betrachten zu können, sei
+                            "eine Anordnung nach Epochen, Schulen und Gattungen erfordert. Dann
+                            vermeide man die Höhen, worin Gemälde sich nicht mehr gehörig ausnehmen,
+                            und dabey suche man so viel möglich geschlossene Lichter, doch nicht
+                            etwa solche, wo die Gemälde von unten aufwärts erleuchtet werden. Auch
+                            sey das Licht nicht so hoch, dass es wie in einen Kellerraum fällt, oder
+                            wodurch gar spielende Wiederscheine verursacht werden. / Um Hinderliches
+                            wegzuräumen und das Rechte nach Wunsch zu treffen, scheint es vor allem
+                            nöthig, anstatt langer Gallerien, oder unermesslich grosser Säle
+                            kleinere Säle, oder grössere Zimmer hinter und neben einander anzulegen,
+                            wobey man mit einem, höchtens zwey Lichtern ausreicht, einen Raum hell
+                            genug zu erleuchten. Dergleichen mässige Räume in Länge und Breite
+                            bedürfen dann auch nur jener Höhe, welche passend für die Ansicht der
+                            Gemälde auch in baulicher Rücksicht ein gutes Verhältniss gewährt." (S.
+                            122). - Die Räume für die antiken Statuen (in Dresden beherbergte das
+                            Augusteum die Sammlung der Antiken) dürften keine zu reiche Dekoration
+                            haben, um nicht von den antiken Bildwerken abzulenken. Welches sei nun
+                            "als leitendes princip [zu] betrachten, wonach die Monumente in einem
+                            Museum anzuordnen seyn möchten? - Ich antworte: die fruchtbarste für die
+                            archaeologischen Studien, das heisst: die Anordnung nach dem Inhalt der
+                            Gegenstände, seyen diese mythisch, oder historisch. – / Das
+                            Zusammenreihen der Monumente von jeder Grösse, in Statüen, Büsten,
+                            Köpfen und Reliefs, ganz, oder fragmentirt (also bloss in einzelnen
+                            Theilen vorhanden), in jedem Material - Holz, gebrannte Erde, Stein,
+                            Marmor, oder Erz –, in jeder Art von Technik, in jedem Stil ohne
+                            Rücksicht der Zeit, und des Volkes – nach dem mythischen und
+                            historischen System gewährt vorzugsweise jene Vortheile, welche man aus
+                            den Studien der Denkmäler ziehen kann, und ziehen will. Ich sagte ohne
+                            Rücksicht des Volkes: darunter verstehe ich alle griechischen und
+                            italischen Völker, welche zu einem mythischen und zu einem Cultursystem
+                            gehören. Ein anderes ist es mit den Denkmälern der Aegypter, und anderer
+                            Orientalen. Diese sind in jeder Beziehung zu abweichend, um nicht eine
+                            besondere Aufstellung zu fordern. / Allerdings ist auch der
+                            kunstgeschichtliche Gesuchtspunkt von hoher Wichtigkeit. Allein ein
+                            solcher kann bey einer Aufstellung nicht berücksichtigt werden, da auch
+                            bey der reichsten Sammlung der Monumente nur wenige sind, die man einem
+                            bestimmten Zeitalter mit Sicherheit aneignen kann. Es wäre zu wünschen,
+                            dass auch eine Zusammenstellung der Monumente in kunstgeschichtlicher
+                            Beziehung nicht unberücksichtigt bliebe. Dies könnte aber bloss in
+                            Gipsabgüssen statt finden, indem man alles Denkwürdige in den
+                            verschiedenen Museen von Eruopa, was hierauf sich näher bezöge,
+                            abformen, und in einem Lokale aufstellen liesse" [Anmerkung von Hirt
+                            dazu: "Ich habe seitdem etwas ähnliches für das neue Berliner Museum in
+                            Vorschlag gebracht. Gipssammlungen giebt es genug; aber keine, die mit
+                            einer Art von System angelegt wäre."] (S. 131-132).</note>
+                    </seg>. <seg type="comment">
+                        <orig>Eine ähnliche Schrift über das hiesige <hi rendition="#aq">Museum</hi>
+                        </orig>
+                        <note xml:id="nhdr_sdc_sy">Es erschien keine derartige Schrift von Hirt. Er
+                            arbeitete aber eine Zeitlang intensiv daran. Am 23. Februar 1831
+                            schreibt Rauch an Böttiger: "Hirt soll ein dickes Buch gegen unser
+                            Museum zu schreiben begriffen sein" (Robert Boxberger: Briefe des
+                            Bildhauers Chr. D. Rauch, meist an Hofrath Böttiger [...]. In:
+                            Jahrbücher der Akademie Gemeinnütziger Wissenschaften zu Erfurt, Bd. 11,
+                            1882, S. 165). Vgl. auch 1833-04-22-a-Kronprinz. </note>
+                    </seg>, wie über die Sammlungen zu <hi rendition="#aq">
+                        <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                    </hi> wird meine Ansichten mehr in's Licht setzen.</p>
+                <p>Ihr Besuch, so wie der des <persName key="ed_elf_x4c_3y">Herrn <hi rendition="#aq">v. Quandt</hi>
+                    </persName>, würden für uns desto erfreulicher gewesen seyn, da uns auch
+                    zugleich die Herrn <persName key="ed_rjs_jlw_ww">
+                        <hi rendition="#aq">Ottf</hi>
+                        <ex>ried</ex>
+                        <hi rendition="#aq"> Müller</hi>
+                    </persName> und <persName key="ed_qnt_bnm_vw">
+                        <hi rendition="#aq">Thiersch</hi>
+                    </persName> besuchten. Ersterer war länger hier, und versprach nach einem kurzen
+                    Besuch in <placeName key="prov_kw5_s4h_kv">
+                        <hi rendition="#aq">Schlesien</hi>
+                    </placeName> wiederzukommen. Herr <persName key="ed_qnt_bnm_vw">
+                        <hi rendition="#aq">Thiersch</hi>
+                    </persName> will morgen wieder abreisen. Ich habe beide <hi rendition="#aq">Koryphae</hi>en alterthümlicher Kunstforschungen wieder mit Freude
+                    gesehen, aber nicht so oft, als ich es wünschte. Man lebt zu zerstreut in dem
+                    weitläufigen <placeName key="prov_ycp_cpr_js">
+                        <hi rendition="#aq">Berlin</hi>
+                    </placeName>. Ich fand zwar <persName key="ed_qnt_bnm_vw">
+                        <hi rendition="#aq">Thiersch</hi>
+                    </persName> etwas gealtert, übrigens aber so lebhaft und gesprächig, wie früher.
+                    Es ist erfreulich, das Herbe unangenehmer Zwisten, besonders mit Männern, die
+                    man achtet, vergeßen zu können, ohne das für die Wißenschaft Gewonnene
+                    aufzugeben. <seg type="comment">
+                        <orig>Auch wir waren mehrmal mit einander im Streit</orig>
+                        <note xml:id="npdd_y1k_sy">Hirt hatte Thierschs "Ueber die Epochen der
+                            bildenden Kunst unter den Griechen: in drei academischen Abhandlungen:
+                            die erste vom Jahr 1816, die zweite vom Jahr 1819 und die dritte vom
+                            Jahr 1825" (München 1827) in den "Jahrbüchern für wissenschaftliche
+                            Kritik" 1827, Sp. 228-251, rezensiert. Thiersch hatte daraufhin in der
+                            zweiten, verbesserten und vermehrten Auflage seines Werks (München 1829)
+                            Hirt heftig angegriffen. Darin schreibt Thiersch u.a.: "Herr Hirt
+                            besitzt eine gewisse Hellsichtigkeit, durch die er, unvermögend die
+                            Sachen wahrzunehmen, wo und wie sie sind, zu entscheiden liebt, was
+                            nicht seyn darf, und was seyn muß, und des Lateinischen wenig, des
+                            Griechischen fast gar nicht kundig, ist er um so geneigter und
+                            geschickter, die Schriftsteller sagen zu lassen, was ihnen nicht in den
+                            Sinn kommt, ihm aber gerade nöthig ist, die Blöße seiner Einbildungen zu
+                            decken: doch sollte er sich in Acht nehmen, diese Kunst auf die noch
+                            Lebenden anzuwenden, die weder so stumm noch so geduldig sind, wie jene
+                            ehrwürdigen, quos jam Libitina sacravit, und die sich seine Behandlung
+                            müssen gefallen lassen, bis sie einen fremden Rächer finden" (S.
+                            187-188). "Fürwahr, ein architektonisches Lehrbuch in Versen, zur Zeit
+                            des Krösus, von Vitruvius angeführt, ohne daß er es merkt, oder anmerkt,
+                            das aufzufinden ist eine That, mit der ich auf Ihrer literarischen
+                            Laufbahn nur Eine zu vergleichen weiß, nämlich die Findung der gehörnten
+                            Ariadne, mit welcher Sie den Theseus beschenkt und die Archäologie
+                            bereichert haben. – Handelte es sich hier allein von den Punkten,
+                            welche zwischen mir und Herrn Hirt zur Erläuterung gekommen sind, so
+                            wäre die Sache des Aufhebens nicht werth; aber was ich hier an
+                            merkwürdigen Beyspielen dargelegt habe, ist die ganze Art und Kunst des
+                            Mannes, wie sie nicht hie und da, sondern überall und aller Orten sich
+                            freulich wiederholt und abdrückt, wo er das enge Gebiet des eigentlich
+                            Technischen verlassend, in dem er Verdienste haben soll, die
+                            Untersuchung auf irgend einen Gegenstand der Mythologie, der
+                            geschichtlichen Forschung, der Archäologie verpflanzt, in denen er,
+                            trotz eines langen Aufenthalts auf ihrem Grund und Boden [...], ein
+                            Fremdling, geblieben ist. In Allem und Jedem wird man ihn selber ganz
+                            und gar und eben so, wie er hier bezeichnet ist, wiederfinden, schwach
+                            in der Grundlage, ungenau in der Fassung des Thatbestandes, fehlgreifend
+                            im Urtheil, und bemüht, diese schweren Mängel der Flüchtigkeit, der
+                            Unkunde und einer fast unglaublichen Akrisie durch hochfahrendes und
+                            absprechendes Wesen zu denken. Doch das ist ein reicher Stoff, und Herr
+                            Hirt wird wahrscheinlich nicht unterlassen, sich in dem Felde zu zeigen,
+                            wo dann Gelegenheit kommen wird, ihn des Weiteren zu bedienen. / So
+                            ungern ich zu entschiedener Polemik mich entschließe, kann sie auf
+                            diesem Gebiete und gegenüber gewissen Individuen doch nicht länger
+                            beseitigt werden, wenn die Zeitgenossen aus ihrer Gleichgültigkeit gegen
+                            Alles, was Archäologisches gesagt wird, und wie es gesagt wird, sollen
+                            geweckt, wenn das stagnirende Gewässer veralteter Lehrsätze, über denen
+                            der Geist eines leeren Hochmuths hinfährt, und an dessen Ufern auf
+                            abgethanen und geschlossenen Lehrgebäuden die Bequemlichkeit und
+                            verhärtete Sorglosigkeit ihren Sitz aufgeschlagen haben, endlich einmal
+                            in Bewegung gesetzt, und das frische, aufregende und gstaltende Wesen
+                            der Wissenschaft darüber ausgegossen werden soll" (S. 190-191). –
+                            Hirt rezensierte die 2. Auflage von Thiersch Werk wiederum in den
+                            "Jahrbüchern für wissenschaftliche Kritik" 1829, Sp. 44-62, und
+                            versuchte sich gegen Thierschs Kritik zu verteidigen. Er schreibt u.a.:
+                            "Das Hauptziel seines [Thierschs] Zornes bleibt ihm aber Aloysius Hirt
+                            [Thiersch hatte zuvor auch Otfried Müller kritisiert]. P. 400. giebt er
+                            nicht nur sein wiederholtes Missfallen über meine Art zu schreiben zu
+                            erkennen, sondern auch über meine Kunstepochen, – selbst über die
+                            der neuern Kunst. Die antikisirende Gehaltlosigkeit des Canova kann er
+                            nicht verdauen, und eben so wenig, dass ich dem Christian Rauch der
+                            richtigen Auffassung der Natur wegen, selbst den Rang über Thorwaldsen
+                            einräume" (S. 60).</note>
+                    </seg>, und sind <pb n="3"/> es noch. Was ist aber das wißenschaftliche Leben
+                    als Streiten? – Ich soll iezt auf's neue <seg type="comment">
+                        <orig>zwei Bücher recensiren</orig>
+                        <note xml:id="npt3_pfk_sy">Hirt rezensierte die folgenden beiden Bücher
+                            nicht. - Über Hirt als Rezensenten schreibt Hegel an Leopold Dorotheus
+                            von Henning, den Generalsekretär der "Jahrbücher für wissenschaftliche
+                            Kritik", am 25. Mai 1829: "Hirt ist in Ungewißheit, ob seine vor 3
+                            Monaten abgegebenen Arbeiten [gemeint ist die Rezension zu Thierschs 2.
+                            Auflage von "Ueber die Epochen der bildenden Künste"] abgedruckt seien.
+                            Er habe das gewöhnliche Exemplar noch nicht erhalten. Da wir im Gedränge
+                            wegen Manuskripten sind, so wäre es dienlich, auf eine Beschäftigung für
+                            denselben zu denken. Er hat gegenwärtig keinen Auftrag und ist ein
+                            fleißiger Arbeiter" (zitiert nach: Briefe von und Hegel. Hg. von
+                            Johannes Hoffmeister, Bd. 3, Berlin 1970, Nr. 600, S. 257).</note>
+                    </seg>, wozu ich aber nur halb entschloßen bin, weil ich voraussehe, daß ohne
+                    vielfachen Einspruch nicht durchzukommen seyn wird. Und was ist die Anzeige
+                    eines Werkes, wenn der Recensent Ungegründetes und Falsches nicht rügen soll? u.
+                    s. w. Das eine dieser Bücher ist <bibl sameAs="ed_tbb_1ck_sy">der erste Band der
+                        Beschreibung <placeName key="prov_vkl_ndl_js">
+                            <hi rendition="#aq">Rom</hi>'s</placeName>
+                    </bibl>, und der andere unseres <bibl sameAs="ed_upq_gfk_sy">
+                        <persName key="ed_rjs_jlw_ww">
+                            <hi rendition="#aq">Müller</hi>'s</persName> Handbuch</bibl>.
+                    Nicht jeder besitzt <persName key="prov_g5d_v2p_5r">
+                        <hi rendition="#aq">Boettiger</hi>'s</persName> Gewandtheit, nur
+                    Erfreuliches aus Schriften dieser Art hervorzuheben, und anderes mit dem Mantel
+                    der Liebe zu decken. Nicht selten habe ich Sie dieses Talentes wegen beneidet.
+                    Aber wir sind nicht alle<del rendition="#s">s</del> eines Temperamentes. Doch
+                    glaube ich, daß sich von beiden Werken auch viel Gutes sagen läßt. <persName key="ed_rjs_jlw_ww">
+                        <hi rendition="#aq">Müller</hi>
+                    </persName> ist ein vorzüglicher Kopf, nur arbeitet er zu schnell, und verrrennt
+                    sich manchmal die Wege durch Eigensinn. - <seg type="comment">
+                        <orig>Die Bearbeiter der <hi rendition="#aq">oma</hi>
+                        </orig>
+                        <note xml:id="nf4b_5fk_sy">Christian Karl Josias von Bunsen, Eduard Gerhard,
+                            Ernst Zacharias Platner, Friedrich Wilhelm Röstell, weiterhin die
+                            Beitragenden Friedrich H. Hoffmann, Barthold Georg Niebuhr, Emiliano
+                            Sarti sowie die Illustratoren und Kupferstecher I. M. Knapp und Wilhelm
+                            Stier.</note>
+                    </seg> sind verschiedenen Schlages. Sie haben die Base ihrer Bearbeitung sehr
+                    breit angelegt, und scheinen <seg type="comment">
+                        <orig>von einem bekannten Manne</orig>
+                        <note xml:id="nepc_hgk_sy"/>
+                    </seg> sehr influenzirt zu seyn, u. s. w. Ich muß aufhören, um nicht zu viel zu
+                    salbadern. Kommen Sie früher, oder später, Sie werden uns immer willkommen seyn.
+                        <persName key="ed_qnt_bnm_vw">
+                        <hi rendition="#aq">Thiersch</hi>
+                    </persName>, wie ich von <persName key="ed_ifk_ktj_xv">
+                        <hi rendition="#aq">Levezow</hi>
+                    </persName> höre, soll auch <seg type="comment">
+                        <orig>über das Gefäß der gehörnten <persName key="ed_u5m_kml_sy">
+                                <hi rendition="#aq">Ariadne</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="ngvk_qml_sy">Thiersch hatte in der 2. Auflage seines Buches
+                            "Ueber die Epochen der bildenden Künste unter den Griechen" (München
+                            1829) Hirts Ausführungen über ein Vasengemälde, das die "gehörnte
+                            Ariadne" darstelle [Hirt: Die Brautschau. Zeichnung auf einem
+                            griechischen Gefäß. Berlin 1825] höhnend abgetan (siehe die obigen
+                            Sacherläuterung). Hirt geht in seiner Rezension auf die
+                            "Vernichtungspredigt" von Thiersch ein und schreibt speziell hierzu:
+                            "Auch giebt er hier seinen Aerger über die gehörnte Ariadne, mit welcher
+                            Hirt die Welt beschenkte, zu erkennen, doch ohne die Ursach anzugeben,
+                            worin ihn die Hörner geniren" (Jahrbücher für wissenschaftliche Kritik,
+                            1829, Bd. 2, Sp. 52). Nach Hirt hatten Böttiger, Avellino (Opuscoli
+                            diversi, vol. II, tav. 7, pag. 169-174), Otfried Müller (Handbuch der
+                            Archäologie, Breslau 1830, § 364, 4, S. 475) und Eduard Gerhard
+                            (Berlin's antike Bildwerke, 1. Teil, Berlin 1836, S. 260 ff.) ihre
+                            abweichenden Erläuterungen publiziert. – Erläuterungen von
+                            Thiersch zu diesem Vasenbild konnten nicht ermittelt werden.</note>
+                    </seg> geschrieben <pb n="4"/> haben. Gegen mich ließ er nichts hievon
+                    verlauten.</p>
+                <p>Iezt leben Sie wohl; nehmen <add place="superlinear">Sie</add> sich die bösen
+                    Zeitläufe nicht zu sehr zu Herzen. Ich glaubte, wir hätten den <hi rendition="#aq">Cyclus</hi> der Umwalzungen durchlaufen und würden ruhig
+                    an unser Ziel gelangen. Aber es scheint alles neu <add place="superlinear">zu</add> beginnen. Doch wollen wir noch nicht verzweifeln, obwohl es schwer
+                    ist zu sehen: woher der <hi rendition="#aq">Deus ex machina</hi>
+                    erscheinen soll.</p>
+                <closer>
+                    <salute>Ihr ewig ergebner Freund</salute>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>Nachschrift: Eben erhalte ich <seg type="comment">
+                        <orig>das <bibl sameAs="ed_e5f_xb2_cy">neueste Heft alter Denkmäler</bibl>
+                        </orig>
+                        <note xml:id="ng5m_kcy_sy">In den "Annali dell'Instituto di corrispondenza
+                            archeologica", Bd. 2, Anno 1830, 2. und 3. Heft, befindet sich auf S.
+                            194-203 der Aufsatz "La Dispute d'Hercule et d'Appolon" von Theodor
+                            Panofka, der "Pl. XX des Monum. inédits de l'Institut" beschreibt. - Im
+                            1. Heft desselben Jahrgangs war Hirts "Vases peints. Sopra il dipinto
+                            d'un vaso fittile rappresentante il ratto del Palladio. Tradotto dal
+                            tedesco" (Tavola d'aggiunta 1830. D.) erschienen (S. 95-105). </note>
+                    </seg> vom <hi rendition="#aq">
+                        <orgName key="ed_efc_l4x_31b">Instituto della
+                            correspondenza archeologica</orgName>
+                    </hi> vom 9. 1830, wo auf der
+                    Tafel XX. mein Vasengemälde vorkomt, wie es scheint, den Streit zwischen
+                        <persName key="prov_kzh_vgk_bs">
+                        <hi rendition="#aq">Apollo</hi>
+                    </persName> und <persName key="prov_ctb_wmy_cv">
+                        <hi rendition="#aq">Hercules</hi>
+                    </persName> vorstellend. Dabey findet sich auch eine <hi rendition="#aq">
+                        <persName key="prov_usp_wch_y5">Diana</persName>
+                    </hi> mit der <hi rendition="#aq">Nebris</hi>, und wie es scheint,
+                    die linke Brust entblößt. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Sie könnten dies als Note <bibl sameAs="ed_bth_xkv_ty">in dem
+                                Aufsatze</bibl>, wo von der <persName key="ed_c5x_sbt_sy">
+                                <hi rendition="#aq">Britomartis</hi>
+                            </persName> die Rede ist, einschieben.</orig>
+                        <note xml:id="nwfw_psv_ty">In Hirts "Gegenbemerkung" zu seinen
+                            "Kunstbemerkungen" im "Artistischen Notizenblatt" schreibt Hirt über die
+                            Figur, die er als Britomartis bezeichnete: "[...] machte mir Hr. Hase
+                            Instanzen in Hinsicht der kleinen Diana, welche ich als Britomartis
+                            bezeichnete: erstlich komme die Nebris, worin die Figur das kleine Thier
+                            trage, der Diana nicht zu, und zweitens passe es nicht für die keusche
+                            Göttin, daß sie die rechte Brust entblös't trage. Hierauf antworten wir,
+                            daß unsere Figur nicht das einzige Denkmal einer Diana sey, wo sie über
+                            der geschürzten Tunica das Rehfell umgeworfen hat. Eine solche Statue
+                            findet sich seit lange in der preußischen Sammlung, jetzt im Berliner
+                            Museum aufgestellt. Damit man aber nicht vermuthe, daß auch hier ein
+                            anderer Gegenstand als Diana vorgestellt seyn möchte, so bezeichne ich
+                            eine Stelle des Pausanias 8, 37, wo wirklich ein Dianabild mit dem
+                            Rehfell genannt wird. / Die Seltenheit dieser Vorstellung möchte wohl
+                            hier gerade als Bestättigung dienen, daß wir in dem jugendlichen Bild
+                            die Britomartis zu sehen haben, um sie dadurch als Mädchen und noch
+                            nicht als reife Jungfrau zu bezeichnen. Uebrigens darf es hinreichen,
+                            nur die schlanken apollonischen Beine der Statue zu sehen, um in
+                            derselben die Schwester des Apollo zu erkennen." [Dazu die Anmerkung:
+                            "Indem ich dieß absenden will, erhalte ich das neueste Heft der
+                            Corrispondenza archeologica, von 1830, wo auf der 20sten Tafel ein
+                            Vasengemälde vorkommt, wie es scheint, den Streit zwischen Apollo und
+                            Herkules vorstellend. Dabei findet sich auch eine Diana mit der Nebris
+                            und, wie es scheint, die linke Brust entblößt."] (S. 88). –
+                            Heinrich Hase schreibt dagegen in den "Bättern für literarische
+                            Unterhaltung" Nr. 51 vom 20. Febr. 1831: "In der dresdner Sammlung
+                            findet sich eine jugendlichschlanke Mädchengestalt im hochaufgeschürzten
+                            Gewande, welche die eine Brust bloß läßt, während die andere von der
+                            Haut eines Böckchens bedeckt ist, in deren Bausche sie ein Netz trägt
+                            (nr. 279, bei Becker im 'Augusteum', Taf. 53). Hr. Hirt möchte das
+                            liebliche Bild lieber Britomartis, das süße Mädchen, als Diana nehmen,
+                            denn unter jenem Schmeichelnamen ward Diana in Kreta verehrt (S. 138).
+                            Sollte Hrn. Hirt die von Solinus gegebene Deutung des Namens Britomartis
+                            nicht zu dieser Vermuthung veranlaßt haben? Leider sind die neuen
+                            etymologischen Forschungen jedoch dieser Solinischen Deutung gar nicht
+                            günstig (m. s. Schwenk's 'Etymologisch-mythologische Andeutungen', S.
+                            218). Und wissen wir denn mehr als den Namen von dieser Britomartis?
+                            Wollen wir offen sein, fast durchaus nichts weiter. Sie war eine
+                            kretische Göttin des Minoischen Mythenkreises, die vie Hoeck, Ottfr.
+                            Müller's Auseinandersetzung in den 'Aegineticis' folgend, darthut,
+                            anfänglich von Dictynna Artemis verschieden und auch später noch im
+                            Localcultus von ihr getrennt blieb. Erst nach Einwanderung der dorischen
+                            Artemis auf Kreta bei den Eydoniaten ging diese Vereinigung vor sich;
+                            und bei Aristophanes ('Frösche', 1538) sind Dictynna und Artemis schon
+                            völlig in Eins verwachsen; doch gerade dort stellt der Scholiast ihr
+                            Britomartis entgegen. Glauben wir aber, daß mit dem eigenthümlichen
+                            Namen eine eigenthümliche Gestaltung verbunden war, so sehen wir uns auf
+                            ungriechische Formen hingewiesen; da, wie Voß in den 'Mytholog. Ber.'
+                            dargethan hat (N. A. III, S. 166), hellenische Cultur selbst durch
+                            Abwandlungen des Namens Britomartis ihr das Phönizische abzustreifen
+                            beeifert war. Was wird dann aus dem süßen Mädchen? Hr. Hirt mag also
+                            einige Zweifel gegen den Namen Britomartis gestatten, wenn er auch,
+                            durch die Apollinischen Beine aufmerksam gemacht, richtig Diana erkannt
+                            hat, die selbst unter den Bronzen von Herculaneum (II, Taf. XI, XII) mit
+                            einem Hirschfellchen und mit bloßer Brust ebendort (Taf. XIII) vorkommt.
+                            / Den so gehaltreichen 'Kunstbemerkungen' ließen sich vielleicht
+                            ähnliche Einwürfe mehr entgegenstellen; aber wo wäre Raum für Ihre
+                            Besprechung, und was könnte ohne Auseinandersetzung Lesern mit dreisten
+                            Aussprüchen und kühnen Vermuthungen, was önnte besonders dem
+                            hochgeehrten Verf. damit gedient sein, der auch darin wol nicht
+                            zurückblieb? Denn ist wol jedes anmuthige würfelspielende Kind nach
+                            alten Begriffen eine Charis, jede strengbekleidete Frau auch eine Muse?"
+                            (S. 222-223). </note>
+                    </seg>
+                </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

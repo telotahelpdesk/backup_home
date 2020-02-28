@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document hirt" xml:id="hirt_q4b_sn3_yfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Anmerkungen von Hirt und Meierotto zur Preisfrage "Über die Gothen und den
+                    Gothicismus". Berlin 3.(?) August 1798</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-VI-10, Bl.
+                            215r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Von der Hand Meierottos, mit egh. Unterschriften von Meierotto und Hirt.
+                            Der Passus nach den Unterschriften von der Hand Hirts. Mit Korrekturen.
+                            - Weitere Meinungsäußerungen auf Bl. 215r-v von Merian, Denina, de
+                            Bouflers, De Goyon d'Arzac und Verdy du Vernois.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><bibl sameAs="ed_fj2_sws_ngb">Über (die Gothen und) den </bibl><hi rendition="#aq"><bibl sameAs="ed_fj2_sws_ngb">Gothicismu</bibl>s</hi>.</p>
+                <p>I. Haben die Gothen, als eine ausgezeichnete Nation, unter denen, die das
+                    sinkende römische Reich bestürmten, etwas Eigenständliches gehabt, sey es in der
+                    Verfaßung, Gesezen, Sitten, Gebräuchen, sey es in der Litteratur, und Kunst in's
+                    besondere?</p>
+                <p>2. ist der Ausdruck gothisch, gothicismus, nichts anders, als eine später
+                    entstandene Benennung, um dadurch im allgemeinen den Zustand der Wißenschaft und
+                    Kunst seit dem Verfall des römischen Reiches das Mittelalter hindurch zu
+                    bezeichnen?</p>
+                <p>Drittens - und wenn leztens statt hat, wann fieng man an, den genannten Ausdruck
+                    in dem Sinne allgemeiner zu brauchen?</p>
+                <p><persName key="prov_ohn_5lv_3v">Meierotto</persName>. <lb/>Hirt</p>
+                <p>Außer den unterzeichneten stimmten über die Aufgabe vom <hi rendition="#aq">Gothicismus</hi> folgende Mitglieder, die H. <persName key="ed_x3c_ht3_yfb"><add place="superlinear"><hi rendition="#aq">Denina</hi></add></persName>, <hi rendition="#aq"><persName key="ed_o2v_153_yfb">Erman</persName></hi>, <hi rendition="#aq"><persName key="ed_ww2_x53_yfb">de Verdy</persName></hi>, <hi rendition="#aq"><persName key="ed_ozg_pv3_yfb">de Goyon</persName></hi>, und
+                        <hi rendition="#aq">de <persName key="ed_zbj_1w3_yfb">Bouflers</persName></hi>. - Der Herr <hi rendition="#aq">Direktor <persName key="ed_qng_bhs_5fb">Merian</persName></hi> wird daher ersucht, die
+                    Aufgabe noch einmal unter genannten Mitgliedern circuliren zu laßen, um zu
+                    bestimmen, ob dieselben mit der <hi rendition="#aq">Redaktion</hi> zufrieden
+                    sind.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

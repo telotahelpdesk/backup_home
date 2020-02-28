@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_i4z_gj3_jkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    23. Juni 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK, </institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4,
+                                Bl. 150r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-06-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_old_wh4_jkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio. - Bearbeitungsvermerke: "7376", "vHarlem 91.
+                    92.", Mundierungs- und Absendevermerk "25/6."; Aktenvermerk "BJ. n. 1369 u.
+                    1404.". - Das Schreiben ist nicht unterzeichnet. Eine Unterschrift findet sich
+                    auf dem folgenden Schreiben von Altenstein an Jacoby auf demselben Blatt.</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_vxb_nnm_pgb">Kunstmuseum – Angebote / Ankäufe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren Geheimer Oberbaurath / Schinkel und Hofrath Hirt,
+                            / Hochwohl- und Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 23. Jun. 1825.</dateline>
+                </opener>
+				<p>Der Kunsthändler <persName key="ed_nh4_nz3_jkb">Jacoby</persName>, unter den Linden 35, hat
+                    bei Seiner Majestät dem <persName key="prov_bxf_jt5_fv">Könige</persName>, den
+                    beiligenden, an mich überwiesenen <seg type="comment">
+                        <orig>Catalog seiner Gemälde</orig>
+                        <note xml:id="nfmq_r1j_jkb">Verzeichniss der Gemälde-Sammlung von Ludwig
+                            David Jacoby, Kunsthändler in Berlin. Berlin 1825. <ref target="https://opacplus.bsb-muenchen.de/Vta2/bsb10728682/bsb:BV001605326">Digitalisat</ref>
+                        </note>
+                    </seg> eingereicht, und mir ebenfalls ein solches Verzeichniß zur nähern
+                    Berüksichtigung derselben zugeschikt. Ew. Hochwohl- und Wohlgeboren ersuche ich
+                    ergebenst, mich benachrichtigen zu wollen: ob sich darunter Sachen befinden,
+                    deren <seg type="comment">
+                        <orig>Ankauf</orig>
+                        <note xml:id="nzpb_wbj_jkb">Von der Museumskommission nicht empfohlen. -
+                            Jacoby hatte dem König bereits mehrfach Gemälde aus seinem Bestand zum
+                            Kauf angeboten, so 1803 "eine kleine Auswahl ausgesuchter" Gemälde, 1816
+                            Ölgemälde älteren und mittleren Zeitalters, 1819 mehrere ältere und
+                            neuere Gemälde und nun 1825 seine eigene,
+                            italienisch-niederländisch-deutsche Gemäldesammlung (zitiert nach Robert
+                            Skwirblies: Altitalienische Malerei als preußisches Kulturgut, 2017, S.
+                            506 und 380. - Weiteres zum Geschäftsgebaren Jacobys ebd. besonders S.
+                            380 ff. </note>
+                    </seg> für das <rs type="artwork" key="prov_p5w_rw2_gjb">König<ex>liche</ex>
+                        Museum</rs> zu berüksichtigen ist und ob eventuell mit dem p <persName key="ed_nh4_nz3_jkb">Jacoby</persName> über angemessene Preise unterhandelt
+                    werden kann.</p>
+				<closer> </closer>
+            </div>
+            <postscript>
+                <p>____________________________________________ <lb/>[Schreiben Altensteins an den
+                    Kunsthändler Jacoby, Berlin, 23. Juni 1825:]</p>
+                <p>An den Kunsthändler, Herrn <persName key="ed_nh4_nz3_jkb">Jacoby</persName>, /
+                    Linden, 53<ex>[!]</ex>.</p>
+                <p>Ich danke Ihnen verbindlichst für die Mittheilung des Verzeichniße<supplied cert="high">s</supplied> Ihrer intereßanten Gemäldesammlung, wovon ich,
+                    sobald es meine Zeit erlaubt, gerne selbst nähere Kenntniß nehmen werde. Der von
+                    Ihnen bei Seiner Majestät dem Könige eingereichte Catalog ist an mich, ohne
+                    weitere Bestimmung überwiesen. Die Commißion zur Einrichtung des
+                        K<ex>öniglichen</ex> Museums habe ich veranlaßt, ihr Gutachten abzugeben,
+                    welche Gemälde sich zur Aufnahme in die Königl. Gallerie eignen, worauf ich
+                    Seiner Majestät das Erforderliche vortragen werde. <lb/>(Namens Sr. Excellenz)
+                        <ex><lb/>[gez.]</ex> A<ex>[ltenstein]</ex></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

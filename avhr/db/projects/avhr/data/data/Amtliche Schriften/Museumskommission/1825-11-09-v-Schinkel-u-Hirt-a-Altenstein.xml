@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_xgc_nl2_kkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    9. November 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4, Bl. 161r (von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-11-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Von Schreiberhand mit egh. Unterschriften von Schinkel und Hirt. -
+                    Empfängerbemerkungen: "pr den 10/11 25 / H v. Harlem. / 274. / 1 Anl:";
+                    Aktenvermerk auf dem oberen Rand "16574.", auf dem unteren Rand "Berlin Wiss S N
+                    41 V IV"; Entwurf des Antwortschreibens an die Witwe Robert auf dem linken Rand:
+                    "Der Witwe Robert ist zu sagen, daß ihre Immediateingabe vom 4. Septbr. c. an
+                    das Ministerium überwiesen worden, welches ihr darauf mit Bezug auf die
+                    Verfügung vom 12 Jul. c. eröffne, daß der Ankauf ihres Gemäldes gegenwärtig
+                    nicht berücksichtigt werden könne. / 12. 9br. 25. / vHarlem."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Koeniglichen Wirklich Geheimen Staats / und dirigirenden
+                            Minister, Ritter der / hoechsten Orden pp / Herrn Freyherr von
+                            Altenstein / Excellenz</addrLine>
+                    </address>
+                </opener>
+				<p>In Betreff des von der <hi rendition="#aq"><persName key="ed_z54_2wh_jkb">Wittwe
+                            Robert</persName></hi> bei des <persName key="prov_bxf_jt5_fv">Koenigs</persName> Majestät zum Kauf für das König<ex>liche</ex>
+                    <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> in Antrag gebrachten <rs type="artwork" key="prov_um1_kxh_jkb">Bildes</rs>, haben die unterzeichneten
+                        <orgName key="ed_imk_ss2_gjb">Commissarien</orgName> schon einmal, in Folge
+                    Euer Excellenz sehr geehrten Verfügung vom 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juni c<ex>urrentis</ex>, ganz gehorsamst zu
+                    berichten die Ehre gehabt:</p>
+                <p>daß sie sich zur Zeit noch nicht auf den Ankauf einzelner Bilder der Art einlaßen
+                    koenten, zudem das in Frage stehende <rs type="artwork" key="prov_um1_kxh_jkb">Gemaelde</rs> für <persName key="ed_u1z_cxh_jkb">Carel Düjardin</persName>,
+                    unter dessen Namen es angeboten werde, keinesweges characteristisch, sondern in
+                    einer ihm ungewoehnlichen Weise gemalt sei, welche am meisten an <hi rendition="#aq"><persName key="ed_r3x_gg4_jkb">Jan Miel
+                    </persName></hi>erinnere, und sich also schon aus diesem Grunde nicht für das
+                        Koenig<ex>liche</ex>
+                    <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> passe.</p>
+                <p>Zur Erledigung Euer Excellenz sehr verehrlichen Verfügung vom 31<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> October c<ex>urrentis</ex>
+                    finden wir diesem unserm früheren Gutachten nichts hinzuzufügen und remittiren
+                    die Immediat-Vorstellung der Wit<hi rendition="#sup"><hi rendition="#u">we</hi></hi>
+                    <hi rendition="#aq"><persName key="ed_z54_2wh_jkb">Robert</persName></hi> in der
+                    Anlage ganz gehorsamst.</p>
+				<closer>
+                    <dateline>Berlin den 9<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        November 1825.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

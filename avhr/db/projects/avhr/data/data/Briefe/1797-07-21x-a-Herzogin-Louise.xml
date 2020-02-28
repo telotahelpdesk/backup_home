@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_nlz_fng_h1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Louise von Anhalt-Dessau. Wörlitz, 21. Juli 1797. Freitag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 308: Eintrag 21. Juli 1797: „bekam einen
+                    Brief von Olb[erg] [= Arzt in Dessau] nach 10, worin er EINE EINLAGE VON H[IRT],
+                    DIE MIR SAGTE, ER SEI GEBETEN, HIER ZU ESSEN; ICH SOLLE AUCH ERSCHEIN, VIEL
+                    REDEN, ER WOLLE MEHR SPAS ALS ERNST REDEN.“ - Über den weiteren Verlauf dieses
+                    Tages schreibt die Fürstin ebd.: "Ich kleidete mich und um 12 ging herüber. ICH
+                    SAHE IHN MIR, KEIN BLIK, KEIN WORT, und kaum konte ich's ihm sagen, daß, da er
+                    mich vormittag nicht mehr hier gefunden hatte, er nach die Promenade kommen
+                    könte. Hier bin ich nun seit 5 [...] und noch ist niemand da. O GOTT WIE
+                    VERLASSEN BIN ICH. Um 8 uhr kam er - mein Druck, die Entbehrung, meine Lage, das
+                    alles UND DAS VERLANGEN MIT IHM ZU LEBEN UND ZU STERBEN, MEINE LIEBE UND DOCH
+                    DAS SCHREKLICHE ENTBEHREN. - UND ÜBER DER ZUKUNFT DIE VOLLE REINE WAHRHEIT UND
+                    LIEBE HAUCHTE, WEINTE, SPRACH AUS MIR, UND ER WAR WIRKLICH GERÜHRT UND SEIN MUND
+                    SPRACH LIEBE AUS UND STELLTE DIE UMSTÄNDE DEUTLICH DAR, UND DARNACH FREILICH DIE
+                    MÖGLICHKEIT, UNS ZU SEHEN UND ZU GENIESSEN, VERSCHWAND. MEINE SCHEIDUNG HIELT ER
+                    FÜR UNMÖGLICH. KÖNTE ER AUCH JEZT VON BERLIN WEG SEIN, SO KÖNNE ER JA DOCH NICHT
+                    MIT MIR HIER SEIN - UND DAS ICH SO TROSTLOS UND LEIDEND WÄRE, KRÄNKE IHN DARUM,
+                    WEIL ER DENN MÜSSE BEREUEN, DAS WIR UNS LIEB GEWONNEN HÄTTEN. DOCH ER UND SEINE
+                    LIEBE BLEIBT MIR UND SEINE HERZLICHE MILDE, SEIN ZUREDEN UND SEIN VERSPRECHEN,
+                    MORGEN WIEDER MICH IN L[UISIUM] ZU BESUCHEN, UND DAS ER MEIN SEI, MIT ERNSTER
+                    EHRLICHKEIT UND HEISSER UMARMUNG MIR VERSICHERT. Das alles beruhigte mich wieder
+                    um Vieles. WIR MUSTEN WIEDER UNS TRENNEN. Es war bald 9 und so fuhr er wieder
+                    nach der Statt."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                    <date when="1797-07-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Hirts
+                        Kursteilnehmerin in Rom, Freundin Hirts)</persName>
+                    <placeName key="ediarum_gxf_pjg_h1b">Wörlitz - Luisium (Sommerschlösschen der
+                        Herzogin Louise von Anhalt-Dessau)</placeName>
+                </correspAction>
+                <note>Zum Text: Die in Versalien wiedergegebenen Textpassagen sind im Tagebuch der
+                    Fürstin chiffriert. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

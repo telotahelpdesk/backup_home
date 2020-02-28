@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vrg_knp_fz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Friedrich Melchior Baron von Grimm. Rom, etwa 17. Februar 1792]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1792-02-17-a-Lavater: "Die natur meines Gesuches wird Ihnen aus dem
+                    beygelegten Briefe deutlich werden, so daß ich nicht bedarf, weiter was
+                    beyzusetzen, als daß ich wünsche, der einschluß vermöchte vermittelst Ihrer an
+                    die angezeigte Person kommen." "Wenn ich in dem Schreiben an <persName key="prov_ikk_st5_w5">Grimm</persName> anders nicht schon zu viel von mir
+                    gesprochen habe, so bitte ich beyzufügen, was zur vollkommnen Verständigung
+                    vielleicht nöthig wäre."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1792-02-01" notAfter="1792-02-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ikk_st5_w5">Grimm, Friedrich Melchior Baron von (1723-1807)
+                        (Schriftsteller, Diplomat, Bevollmächtigter des Herzogs von Sachsen-Gotha in
+                        Paris, Kunstankäufer von Katharina der Großen)</persName>
+                </correspAction>
+                <note>Zur Datierung: Dasselbe oder ein etwas früheres Datum wie Hirts Brief an
+                    Lavater vom 17. Februar 1792, dem das Schreiben beilag. - Empfangsort war
+                    vermutlich Paris.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

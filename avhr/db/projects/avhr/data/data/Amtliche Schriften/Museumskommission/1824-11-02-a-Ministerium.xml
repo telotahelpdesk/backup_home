@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_z5m_b3x_hkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts für das Ministerium für Geistliche, Unterrichts- und
+                    Medizinalangelegenheiten. Berlin, 2. November 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4,
+                                Bl. 99r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-11-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_icc_1nr_hkb"/>
+                </correspContext>
+                <note>Egh. von Hirt verfasst. - Empfängerbemerkungen: "DDO. / Herr GORR Uhden. /
+                    725."; "pr d 2/11 24."; "V. zu den Akten. / Berlin d. 8 Nov. 1824 / [gez.]
+                    Su[vern?] Mistr."; Aktenvermerke auf dem oberen Rand "20725.", auf dem unteren
+                    Rand "Berlin Wiss S N 41 V IV"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_vxb_nnm_pgb">Kunstmuseum – Angebote / Ankäufe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Auf ein hohes <hi rendition="#aq">Rescript</hi> vom 18<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> October, die <rs type="artwork" key="prov_y3q_bxw_hkb">Gemälde</rs> der <persName key="ed_nrf_4ww_hkb">Frau <hi rendition="#aq">Prof. Fouquet</hi></persName> betreffend, habe ich die Ehre gehorsamst
+                    zu antworten:</p>
+                <p>Daß ich unter den gedachten <rs type="artwork" key="prov_y3q_bxw_hkb">Gemälden</rs> nichts gesehen habe, was sich für den Ankauft[!] für das
+                        k<ex>önigliche</ex>
+                    <hi rendition="#aq"><rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs></hi>
+                    eignen könnte.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> November 1824.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

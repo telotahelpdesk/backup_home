@@ -1,0 +1,53 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_irc_f2y_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Friedrich von Matthisson. Rom, vor 28. Februar 1796]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky
+                    (Bearbeiter): Die originalen Tagebücher der Fürstin Louise Henriette Wilhelmine
+                    von Anhalt-Dessau. Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der
+                    Kulturstiftung DessauWörlitz, Bd. 1, Halle 2010, S. 193: Eintrag 28. Februar
+                    1796: "Hirt und die Brun hatten aus Rom an M[atthisson] geschrieben."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1796-02-01" notAfter="1796-02-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_tr2_jvp_hkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Ministerium für Geistliche, Unterrichts- und
+                    Medizinalangelegenheiten. Berlin, 17. September 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 89r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-09-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_c5d_nzd_wjb">Harlem, August Otto Johann Georg von (1778-1857)
+                        (Geh. Oberregierungsrat im preuß. Kultusministerium, 1827-1857 EM der Preuß.
+                        Akademie der Künste Berlin)</persName>
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_ivw_kzp_hkb"/>
+                </correspContext>
+                <note>Egh. von Hirt verfasst. - Empfängerbemerkungen: "pr. 20/9.24. / Hr. p von
+                    Harlem. / 61."; "S. / Zur Antwort: auf seine Eingabe werde er benachrichtigt,
+                    dass er seine Auslagen, welche durch seine Verzeichnung der Königlichen
+                    Kunstsachen im October 1820 und im August dJ. veranlaßt worden und die er in
+                    Folle mit resp. 36 reichstaler 1820 und 20 reichstaler 27 gr 4 d bemerkt habe
+                    von den 2000 reichstalern entnehmen könne, welche unterm 12 Julius dJ bei der
+                    General-Kasse des Ministeriums zur Disposition der Commission zur Einrichtung
+                    des Königl. Museums gestellt sind; damit die definitive Verrechnung dieser
+                    Ausgabe ordnungsmäßig erfolgen könne, sey aber erforderlich, daß er solche
+                    gehörig liquidire und belege. B. 28. 7br. 24. / vHarlem. z 30"; Aktenvermerk auf
+                    dem oberen Rand "15061", auf dem unteren Rand "U. A. 26/9."; "Berlin Wiss S N
+                    114 V III"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Ausgaben</p>
+                <p>welche ich bey der Aufnahme der Antiken und der Gemälde in den <rs type="artwork" key="prov_dmb_fmd_wjb">koniglichen Schlößern</rs> im October vom Jahre 1820,
+                    und iezt bey der <hi rendition="#aq">Revision</hi> derselben im August 1824 zu
+                    machen hatte, und deren Rückerstattung ich mir von einem hohen <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerio</orgName></hi>
+                    ergebenst erbitte:</p>
+                <p>Im Jahr 1820 gab ich aus ............................................ 36
+                        r<ex>eichstaler</ex>
+                    <lb/>im Jahr 1824 ...................
+                    ............................................. 20 r<ex>eichstaler</ex> 27
+                        gr<ex>oschen</ex> 4 Pf<ex>ennig</ex>
+                    <lb/>___________________________________________________________________________ <lb/>
+                    <hi rendition="#aq">Summa</hi> 56 r<ex>eichstaler</ex> 27 gr<ex>oschen</ex> 4.
+                    Pf.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 17 Sept. 1824.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

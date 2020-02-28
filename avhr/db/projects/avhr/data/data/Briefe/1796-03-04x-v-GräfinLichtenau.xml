@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_csm_dkz_nz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Wilhelmine Ritz (Gräfin Lichtenau). Rom, 4. März 1796.</title>
+                <title> Freitag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1796-03-05-a-Gräfin Lichtenau: "Sie bezeigen mir in dem gestrigen
+                    Schreiben Ihren Wunsch und Ihre Hoffnung, mir auch in Berlin auf eine andere
+                    Weise behilflich sein zu können. Ich habe oben gesagt, zu was ich mich
+                    allenfalls geneigt und tauglich fühle: Ihre milde Hand walte also nach Ihrem
+                    Wohlgefallen und Vermögen über mich."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_qvp_1gm_cv">Lichtenau, Wilhelmine Gräfin von, geb. Enke
+                        (Encke), verh. Rietz (1753-1820) (Mätresse, Vertraute und Beraterin
+                        Friedrich Wilhelms II. von Preußen)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-03-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="prov_tyj_tfm_cv"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

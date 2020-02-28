@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kxx_y2p_lkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    30. Dezember 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4,
+                                Bl. 167r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-12-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_iwc_kpw_lkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, von Schreiberhand. - Bearbeitungsvermerke:
+                    "citissime!", Mundierungs- und Absendevermerk "31/12. / nebst einer Anlage.";
+                    "vHarlem / 30/12."; Aktenvermerk "24 BJ"; mit Bleistift auf dem linken Rand
+                    vermerkt: "Mit H. Waagen werde ich die Sache morgen besprechen und ihm die
+                    baldige Beantwortung zur Pflicht machen."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren Geheimer Oberbaurath / Schinkel und Hofrath Hirt,
+                            / Hochwohl- und Wohlgeboren / hier.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 30. December, 1825.</dateline>
+                    <salute>Die <persName key="ed_sly_wgp_lkb">Brüder Frommel</persName> zu
+                            <placeName key="ed_rbw_pbs_2y">Augsburg</placeName> haben beabsichtigt,
+                        die in beiliegendem Avertissement verzeichneten <rs type="artwork" key="prov_vql_hkp_lkb">Gemälde</rs><seg type="comment">
+                            <orig> aus der Galerie von la <placeName key="ed_ktz_zfb_qkb">Malmaison</placeName></orig>
+                            <note xml:id="nbdq_33p_lkb">Eigentümerin war Hortense de Beauharnais,
+                                Stief- und Adoptivtochter von Napoleon. Die Gemälde waren zuvor wohl
+                                schon in Wien angeboten worden (vgl. Robert Skwirblies:
+                                Altitalienische Malerei als preußisches Kulturgut, S. 509,
+                                89).</note>
+                        </seg>
+                        <seg type="comment">
+                            <orig>ausspielen</orig>
+                            <note xml:id="nrt1_gjp_lkb">Hier im Sinne von "verlosen".</note>
+                        </seg> zu laßen. Da dies Unternehmen keinen angemessenen Fortgang genommen
+                        hat, sind diese Gemälde Seiner Majestät, dem <persName key="prov_bxf_jt5_fv">Könige</persName> für den Preis von 50,000 F<ex>lorin</ex> rheinisch
+                        oder gegen eine diesem Betrage entsprechende Leibrente zum Kauf angetragen
+                        worden, worüber Allerhöchstdieselben eine sachkundige Beurtheilung
+                        verlangen. Ew. Hochwohl- und Wohlgeboren ersuche ich daher ergebenst, mir
+                        baldmöglichst Ihre Meinung darüber gefälligst mitzutheilen: ob überhaupt auf
+                        dies Anerbieten einzugehen seyn mögte, ob insbesondere die Acquisition
+                        dieser Sammlung für das <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> wünschenswerth ist und in wiefern sodann der Preis
+                        angemessen seyn würde. Um die Rükgabe der Beilage ersuche ich
+                        ergebenst.</salute>
+                </opener>
+				<p/>
+				<closer>
+                    <signed>(Namens Sr. Excellenz) <lb/>[gez.] Al<ex>[tenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

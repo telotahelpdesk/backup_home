@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_btz_sxw_c3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vorlesungsankündigung für das Wintersemester 1813/14. Berlin, Oktober
+                    1813</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Stiftung Weimarer Klassik - Goethe- und Schiller-Archiv</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">GSA 33/1056</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1813-09-01" notAfter="1813-10-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    
+                </correspAction>
+                <note>Hirt egh.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+                <hi rendition="#aq">
+                    <p>A. Hirtius P. P. O.</p>
+                    <p>Commilitonibus Suis humanissimis</p>
+                    <p>Incipiam lectiones meas die 18<hi rendition="#sup"><hi rendition="#u">va</hi></hi> octobris: <lb/>1. <bibl sameAs="ed_dlc_2lx_13b">Publice</bibl> docebo historiam architecturae apud veteres orientis
+                        popular bis per <unclear reason="illegible" cert="">hebdomaden</unclear> die
+                        lunae et Jovis hora XII-I. <lb/>2. et <bibl sameAs="ed_thj_plx_13b">privatim</bibl> Theoriam, <unclear reason="illegible" cert="">Technicen</unclear> et historiam artium apud veteres <unclear reason="illegible" cert="">iisdem</unclear> diebus hora IV-V.</p>
+                    <p>Auditorium est in exedris <placeName key="prov_vvw_bk5_fv">regiae academiae
+                            artium</placeName>.</p>
+                </hi>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_it3_hhh_qjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    28. November 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">IV / NL Schinkel 106</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-11-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Von Schreiberhand mit egh. Unterschriften von Schinkel und Hirt. -
+                    Empfängerbemerkungen auf dem linken Rand: "<hi rendition="#u">Pro Nota</hi> Von
+                    dem Schreiben des p Bettendorf ist Abschrift anzufertigen und zu den Acten zu
+                    nehmen. / factum. / Mundiert eodem /</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Den Königl. wirklichen Geheimen / Staats Minister pp / Herrn
+                            FreyHErrn von Altenstein / Excellenz</addrLine>
+                    </address>
+                    <dateline>Berlin den 28 November 1822</dateline>
+                </opener>
+				<p>Es gereicht uns zur großen Ehre, bey Zurückreichung des <persName key="ed_jwv_5lh_qjb">Bettendorfschen</persName> Antwortschreibens Euer Hochfreiherrliche
+                    Excellenz zur nähern Bestimmung des Bietungspreises für die beiden <rs type="artwork" key="prov_ez1_3mh_qjb">Gemaelde</rs> von  <lb/><persName key="ed_tcw_sg3_qjb">Roger van der Weyde</persName> und <persName key="ed_oz4_5l3_qjb"><lb/>Johann Hemmling</persName><lb/>anzeigen zu können,
+                    daß nicht der eigentliche Werth derselben, sondern die Rücksicht, daß die
+                    Gemaelde gerade für das <placeName key="prov_up1_xwt_fv">Königliche
+                        Museum</placeName>
+                    <seg type="comment">
+                        <orig>besonders passend sind</orig>
+                        <note xml:id="nztb_nmh_qjb">Aus der Sammlung Bettendorf wurde nur ein Bild
+                            angekauft, die "Kreuzabnahme", "eine Kopie nach Rogier van der Weydens
+                            Bild im Escorial, die zu dieser Zeit als Original galt (Vogtherr, 1997,
+                            S. 199; vgl. Skwirblies, 2017, S. 269, 495). - Leopold Bettendorf hatte
+                            während des Aachener Monarchenkongresses 1818 Kaiser Franz II. von
+                            Österreich und König Friedrich Wilhelm III. von Preußen durch die von
+                            seinem Vater und ihm selbst zusammengetragene Sammlung altdeutscher und
+                            anderer Gemälde geführt, die in seinem Haus am Aachener Markt
+                            aufgestellt war. - Siehe: <ref target="https://journals.ub.uni-heidelberg.de/index.php/akb/article/view/32486/26212">Albert Huyskens: Die Aachener Gemäldesammlung
+                            Bettendorf</ref>.</note>
+                    </seg>, eine Erhoehung des Gebots wohl gestattet, und erlauben wir uns in dieser
+                    Beziehung den Bietungspreis auf 6000., auch etwa 6500 reichsthaler ganz
+                    ergebenst in Vorschlag zu bringen.</p>
+				<closer>
+                    <dateline>Berlin den 28 November 1822</dateline>
+                    <signed>Schinkel    Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

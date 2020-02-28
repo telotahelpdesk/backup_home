@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_q5k_2lr_tjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an Karl Friedrich Schinkel zum Museumsneubau. Berlin, 6.
+                    Februar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellońska, Kraków </institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">(vormals Königliche Bibliothek zu Berlin, acc.
+                                ms. 1928.11)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-06" cert="high"/>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_l1c_4nm_pgb">Kunstmuseum - Museumsentwürfe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Hiebey erfolgt die zu <seg type="comment">
+                        <orig>unterzeichnende Adresse</orig>
+                        <note xml:id="nwlq_h1x_tjb">Vgl. besonders das Schreiben Altensteins an
+                            Schinkel und Hirt vom 13. Juli 1822.</note>
+                    </seg> an H. <hi rendition="#aq"><persName key="ed_lq4_gbz_djb">Theoli</persName></hi>, in so fern Sie dieselbe gehörig gefaßt finden.
+                    Ich überlaße es Ihnen: ob es nöthig seyn möchte, dieselbe zuvor auch an p.
+                        <persName key="ed_vgl_2qr_tjb"><hi rendition="#aq">Frick</hi></persName> zu
+                    schicken. -</p>
+                <p><seg type="comment">
+                        <orig>Unsere differenten Ansichten in Rücksicht des Neubaues</orig>
+                        <note xml:id="ngzj_k1x_tjb">Zum geplanten Neubau eines Museums nach den
+                            Plänen von Schinkel im Lustgarten vgl. 1823-02-04-Gutachten.</note>
+                    </seg> ist mir sehr ungenehm, denn von Niemanden wünschte ich weniger
+                    mißverstanden zu werden, als von Ihnen; indem ich Sie so wohl von Seite Ihres
+                    Charakters, als Ihres Kunstsinnes wahrhaft hochschätze. Sie werden indeßen
+                    meinen Einspruch keinem andern <hi rendition="#aq">Motiv</hi> beymeßen, als dem,
+                    welcher aus der Sache selbst hervorgeht. Ich habe nicht die entfernteste
+                    Ursache, gegen Ihre Talente etwa eifersüchtig zu seyn, indem ich nie <hi rendition="#aq">ambirt</hi>e, mich mit dem Praktischen des Bauwesens zu
+                    befaßen, und ich immer eine wahre Freude habe, wenn ich etwas Treffliches zur
+                    Verschönerung unserer Stadt und unseren Landes durch Sie hervorgehen sehe,
+                    gesezt auch, daß <pb n="2"/> ich nicht immer jedes <hi rendition="#aq">Detail</hi> nach meinen bekannten Principien gutheißen kann. Im Ganzen
+                    haben Sie in mir immer einen Vertheidiger gefunden.</p>
+                <p>Anfänglich wollte ich in der <seg type="comment">
+                        <orig>lezten Conferenz</orig>
+                        <note xml:id="nijr_h3x_tjb">Am 4. Februar 1823; siehe dazu das oben genannte
+                            Gutachten.</note>
+                    </seg> nicht sprechen, sondern die Sache dahin zu wenden suchen, daß wir beiden
+                    allein die Entwürfe zusammen berathen sollten. Nur der Minister Gr<ex>af</ex> v.
+                    Bülow, der auf die gewaltige Beeilung der Sache drang, war Ursache, daß ich mit
+                    meinem Bedenken über die bekannten Dinge vortreten mußte.</p>
+                <p>Ich gestehe, daß ich bey diesem Bau des <placeName key="ediarum_rj2_kdc_sy"><hi rendition="#aq">Museum</hi>s</placeName> nur das Erforderliche bezwecke,
+                    und dies so wenig kostbillig wie möglich, damit wir aus Mangel größerer <hi rendition="#aq">Fonds</hi> nicht aus einer Verlegenheit in die andere
+                    kommen, und bey unserm Werk nie ein Ende finden.</p>
+                <p>Dieses ist die Ursache unserer Differenzen, und keine andere. Reduciren Sie Ihren
+                    Neubau nach dem <rs type="artwork" key="prov_ybj_cjx_tjb">alten Entwurf</rs>,
+                    der in dem <placeName key="ediarum_qkl_1cw_jgb">Akademiegebäude</placeName>
+                    angenommen war; und heben Sie die <hi rendition="#aq">Rotunda</hi>, den hohen
+                    Unterbau mit der Treppe, und die ungeheuren Säulen <pb n="3"/> der Vorhalle auf;
+                    so werden wir mit dem Übrigen bald einverstanden seyn. - Sie mögen mich übrigens
+                    einen Barbaren nennen, der gegen das Große in der Baukunst auftritt. Sey es! -
+                    Wenigstens werden Sie mir wiederfahren laßen, daß es mir nicht an Aufrichtigkeit
+                    und Offenheit gebricht, mit der ich bin, und immer seyn werde</p>
+				<closer>
+                    <salute>Ihr ergebenster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>den 6 Feb. 23.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_hd1_gbt_1v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beilage Hirts zu einem Brief von Friedrich Bury an Anna Amalia von
+                    Sachsen-Weimar und Eisenach. Rom, den 19. Januar 1793. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar </institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50, Bl.
+                                10-13v (Blatt 1 des Hirt-Briefes und Beilage "Relazione ..." sowie
+                                der Brief Burys an Anna Amalia); Biblioteka Jagiellonska, Kraków
+                                (Blatt 2 des Hirt-Briefes)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1793-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia
+                        von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <note>Beilage zu einem Brief von Friedrich Bury an Anna Amalia.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute/>
+                </opener>
+                <p>
+                    <hi rendition="#u">Beilage von Hirt:</hi>
+                </p>
+                <p>Da die obige <seg type="comment">
+                        <orig>Relation</orig>
+                        <note xml:id="nf3q_bnk_gz">Siehe die unten wiedergegebene Beilage:
+                            Gegenstand ist der Aufruhr gegen die Franzosen Ende 1792/Anfang1793 und
+                            die Ermordung des französischen Vertreters beim Papst, Hugon de
+                            Bassville, am 13. Januar 1793 in Rom. Der französische Legationssekretär
+                            Nicolas Jean Hugon de Bassville, der Vertreter der Revolution in
+                            Italien, hatte mit dem Tragen der dreifarbigen Kokarde, dem auch die
+                            Mitglieder der französischen Kunstschule in Rom gefolgt waren, die
+                            ohnehin angespannte Situation in Rom angeheizt. Eine große Anzahl
+                            französischer Emigranten, die sich in Rom aufhielt, wiegelte das Volk
+                            auf; am 13. Januar 1793 griff eine wütende Menge Bassvilles Wagen auf
+                            dem Korso mit Steinwürfen an. Sie verfolgte die Kutsche bis zum Haus des
+                            Bankiers Moutte, wo Bassville und seine Familie Zuflucht suchten, und
+                            brach das Tor auf. Bassville erhielt mehrere Bajonettstiche in den
+                            Unterleib und erlag am Tag darauf seinen Verletzungen. - In der Schrift
+                            "Merkwürdige Epochen unter der Regierung Kaisers Franz II.: Gesammelt,
+                            und nach der Zeitfolge gereiht von Ignaz de Luca, 1. Teil, Wien 1798"
+                            ist unter dem 10. Januar 1793 vermerkt: "Der Gesandtschaftssekretär
+                            Basville in Neapel erhält den Auftrag, das königl. Wapen an dem
+                            Französischen Consulathause, und dem Franz. Künstlerpallaste in Rom
+                            abzunehmen, und innerhalb des letzteren Gebäudes die Bildsäule Ludwig's
+                            XIV. des Stifters dieser Akademie zu zertrümmern. Nach diesem
+                            feyerlichen Acte wurde Abends ein Gastmahl gehalten, wozu auch vier
+                            römische Familien geladen wurden. Unter die Gäste theilte man
+                            dreyfarbige Franz. Nationalkokarden aus; welche die Damen vor der Brust,
+                            und die Herren auf den Hüten befestigten. Nun reiste Basville wieder
+                            nach Neapel zurück, überbrachte dem Französ. Consul ein Schreiben von
+                            dem Franz. Gesandten Mackau in Neapel, von diesem Inhalte: 'Der Bürger
+                            de la Flotte ist von mir nach Rom gesandt, damit er in Zeit von vier und
+                            zwanzig Stunden, unsere Wapen aufstelle, es koste auch, was es will. Ihr
+                            werdet ihn unterstützen, bey Verlust eurer Stelle und bey der Ungnade
+                            der Nation. Nun begaben sich beyde Franzosen zu dem päpstlichen
+                            Staatssekretär, dem Cardinale Zelada, und verlangten die Aufstellung des
+                            neuen Französischen Wapen, der Cardinal versagt die Einwilligung; nun
+                            ging la Flotte abermahl zu dem päpstlichen Staatssekretär und sprach:
+                            'nicht um zu bitten - denn große Mächte erniedrigen sich nicht bis auf
+                            diesen Grad gegen kleine; für diese müssen schon der Wille von jenen
+                            Gesetz seyn. Sollte, fuhr er fort, die vermessene Hand eines Priesters
+                            sich der Ausführung dieses Entwurfes zu widersetzen wagen, so wird
+                            augenblicklich die Revolution ausbrechen.'Der Cardinal stellte dem
+                            Französischen Major die Folgen vor, die bey einer Empörung zu gewärtigen
+                            wären; doch la Flotte gab allen Vorstellungen kein Gehör, und verließ
+                            den Staatssekretar. Nun wandte sich, la Flotte (Jan. 13.) an Basville,
+                            und suchte diesen zu bereden, zu einem Versuch, um Meuterey in Rom
+                            anzuspinnen, dieser wollte sich nicht dazu verstehen, allein er mußte
+                            endlich einwilligen. La Flotte, Basville, seine Frau fuhren in einem
+                            Wagen, der Kutscher, und die Bedienten trugen die dreyfarbigen Kokarden.
+                            Auf dem Corsu riefen sie, Es lebe die Republik Rom.' Das Volk schrie:
+                            Herunter mit den Kokarden, hoch lebe der Papst, hoch lebe die heilige
+                            Religion! La Flotte zeigte eine Pistole aus dem Wagen. Nun kannte die
+                            Wuth der Römer keine Grenzen mehr, ein Steinhagel fiel auf den Wagen,
+                            und die Pferde; der Kutscher fuhr in größter Schnelligkeit nach dem
+                            Hause des Bankiers Moutte in dem Campo Marto; ein Volksschwarm folgte
+                            dem Wagen, man sprengte das Thor des Hauses ein, la Flotte entsprang
+                            durch eine Hinterthür, Basville erhielt aber einige Stiche im
+                            Unterleibe, an welchen er am folgenden Tage starb. Der arme de la Flotte
+                            hatte nicht mehr als fünf und zwanzig Sous in der Tasche, der Papst aber
+                            ließ ihm fünf und siebenzig Skudi geben, und besorgte, daß er gut nach
+                            Neapel zurück kommen konnte." (S. 225-226).</note>
+                    </seg>, welche in der <placeName key="prov_vkl_ndl_js">Stadt</placeName> herum
+                    von den Abschreibern verkauft wird, in der Substanz wahr ist, so will ich nur
+                    einige Noten beyfügen.</p>
+                <p>
+                    <hi rendition="#u">a.</hi> Der <persName key="prov_onb_t4z_1v">StaatsSecretär</persName> hatte den Herrn 
+                        <orig>
+                        <persName key="prov_y4k_xg5_1v"> Baseville </persName>
+                    </orig>
+                     und <persName key="prov_vst_nvx_bv">La Flotte</persName> noch den Tag
+                    vorher deutlich gesagt, daß es wider den Willen seiner <persName key="prov_trh_dwz_x5">Heiligkeit</persName> wäre, wenn sie und ihre Leute
+                    sich öfentlich mit den Coccarden zeigten, und daß man sie in diesem Fall vor dem
+                    Volke nicht schüzen könnte.</p>
+                <p>
+                    <hi rendition="#u">b.</hi> Den Sonntag, als den Tag des Tumultes, speisten
+                    besagte Herrn mit einigen französischen Künstlern, wovon ein großer Theil den
+                    Tag vorher schon abgereist war, bey dem <persName key="prov_gdz_zvx_bv">Banquier Moutte</persName>, der so wie <persName key="prov_bfr_gxx_bv">Banquier Torlonia</persName> diese Franzosen
+                    immer im Hause hatte, und ihnen das Geld auszahlte.</p>
+                <p>
+                    <hi rendition="#u">c.</hi> Der Wagen, in dem die Herrn <persName key="prov_y4k_xg5_1v">Basev<ex>ille</ex>
+                    </persName> und <persName key="prov_vst_nvx_bv">La Flotte</persName> mit
+                        <persName key="prov_b1d_mxx_bv">Mad<hi rendition="#sup">
+                            <hi rendition="#u">e</hi>
+                        </hi> Basseville</persName> und ihren <persName key="prov_wsj_qxx_bv">Kindern</persName> des Abends auf dem <seg type="critical">
+                        <orig>
+                            <placeName key="prov_m4l_jpc_cv"> Kurs </placeName>
+                        </orig>
+                        <note xml:id="nb4m_txx_bv">Auf dem Corso.</note>
+                    </seg> fuhren, gehörte dem <persName key="prov_mjb_tyx_bv">französischen
+                        Directeur</persName>
+                    <seg type="comment">
+                        <orig>der <placeName key="prov_rz2_2yx_bv">Academie</placeName>
+                        </orig>
+                        <note xml:id="ntzx_s4k_gz">Die Akademie befand sich im Palazzo Mancini in
+                            der Via del Corso.</note>
+                    </seg> . Nebst den Coccarden war ein kleines Freyheitsfähnchen zum Wagen
+                    herausgehalten.</p>
+                <p>
+                    <hi rendition="#u">d.</hi> Ein Abbé gab dem Volk das erste Signal zum Angriff.
+                    Derselbe geschah in mitten des <placeName key="prov_m4l_jpc_cv">Corso</placeName>
+                    alle <placeName key="prov_ncm_twc_cv">chiavica di fiano</placeName> bey dem <placeName key="prov_nyl_4wc_cv">Palast Ruspoli</placeName>. Das Haus von <persName key="prov_gdz_zvx_bv">Moutte</persName> ist gleich
+                    hinter dem <placeName key="prov_e5g_1xc_cv">Palast Chigi</placeName> zur Seite
+                    des <placeName key="prov_m4l_jpc_cv">Corso</placeName>.</p>
+                <p>
+                    <hi rendition="#u">e.</hi> bis spät in die Nacht suchte das Volk Parthieweise
+                    verdächtige Franzosen in verschiedenen Häusern, die sich aber theils verstekt
+                    hielten, theils sich unmittelbar davon gemacht hatten. In <seg type="critical">
+                        <orig>das Haus, wo ich wohnte</orig>
+                        <note xml:id="nmpt_lxc_cv">Hirt wohnte 1790-94 in der Via Vittoria
+                            55-56.</note>
+                    </seg>, und seit einigen Tagen an einem Flußfieber zu Bette lag, kam <add place="intralinear">auch</add> eine solche Rotte fürchterlich bewaffnet, um
+                    drey französische Künstler die den 2<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Stok inne hatten, aufzusuchen. Zum Glück waren diese den
+                    Tag vorher verreist. Mein Hausherr, auch ein Franzose, wußte übrigens mit guter
+                    Weise, doch nicht ohne eigene Gefahr die Leute wieder wegzubringen. <pb n="2"/>
+                </p>
+                <p> f. den 2<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi> Tag abends konnten
+                    4000 Mann Truppen das <placeName key="prov_txn_5xc_cv">Ghetto</placeName> kaum
+                    vor der Wuth des Pöbels schüzen. Von allen Seiten wurden brennbare Materialien
+                        herbey[<ex>ge</ex>]schleppt, um dasselbe mit allen darin befindlichen Juden,
+                    deren Anzahl sich auf 14000 beläuft, zu verbrennen. Ein starkes Donnerwetter,
+                    und schreklicher Plazregen machte der Comödie gegen mitternacht ein Ende.</p>
+                <p>g. den 3ten Tag abends – gieng der Zug, das das <placeName key="prov_txn_5xc_cv">Ghetto</placeName> immer zu gut bewacht war, hauptsächlich nach dem
+                        <placeName key="prov_vmj_dyc_cv">spanischen Plaz</placeName>, erstlich um
+                    die fremden Franzosen in den <seg type="critical">
+                        <orig>Locanden</orig>
+                        <note xml:id="nsq1_bg5_1v">Gastwirtschaften.</note>
+                    </seg> aufzusuchen, zweytens um 4 Häuser in Brand zusteken: nemlich das vom
+                        <persName key="prov_x3g_njd_cv">spanischen Minister</persName>, weil er
+                    einen flüchtigen Franzosen verborgen hätte; dasjenige von dem französischen
+                    Courier <persName key="prov_ydt_r4d_cv">Pio</persName>, dasjenige von <persName key="prov_tdq_cpd_cv">Banquier Gibert</persName>, und endlich das von meinem
+                    Hausherrn, worin ich immer noch krank lag. Die Menge der Soldaten aber, und ihre
+                    gute Ordnung, das Volk immer vertheilt zu halten, verhinderte alles weitere
+                    Unheil, außer daß an meinem Zimmer die Fenster eingeworfen wurden, daß mir an
+                    dem Fieber in dem Bette liegenden eben nicht sehr angenehm war. – Den Tag darauf
+                    publizirte der <persName key="prov_trh_dwz_x5">Pabst</persName> das beygelegte
+                    Edikt und seither ist alles äußerst ruhig. – Ich zog indessen von meiner Wohnung
+                    aus, und <seg type="critical">
+                        <orig>wohne iezt bey <persName key="prov_xsn_1cg_f5">Büry</persName>
+                        </orig>
+                        <note xml:id="nt1h_3pd_cv">Bury wohnte seit 1786 gemeinsam mit Johann
+                            Heinrich Wilhelm Tischbein und Johann Georg Schütz in der Casa
+                            Moscatelli am Corso bei der Familie Collina. Auch Goethe nahm dort
+                            während seines Rom-Aufenthaltes Quartier (heute: Casa di Goethe). Nach
+                            Tischbeins Auszug stieß Friedrich Rehberg zu der Wohngemeinschaft; in
+                            die obere Etage zogen Johann Heinrich Lips und Johann Heinrich Meyer
+                            (nach: Dönike, Bury-Briefe, Kommentar S. 107, 109, 111; vgl. auch:
+                            Frommel, Casa di Goethe, S. 210).</note>
+                    </seg> – ruhig vielleicht, bis die Neufranken auf uns zustürmen werden. Indeßen
+                    möchte es ihnen doch nicht so leicht werden, den Fuß auf diese Küsten zu sezen.
+                    Da es übrigens kein Spaß seyn möchte bey bevorstehenden Unruhen in <placeName key="prov_vkl_ndl_js">Rom</placeName> zu seyn, so halte ich mich für meinen
+                    Theil reisefertig, um bey dem Ausbruch entweder zugleich mit dem <persName key="prov_o12_bfx_w5">Prinzen August v. <placeName key="prov_npf_ydx_w5">England</placeName>
+                    </persName>, oder noch vorher wegzugehen. Ich denke meinen Zufluchtsort auf dem
+                        <placeName key="prov_xd3_rdx_w5">Schwarzwald</placeName> bey <persName key="prov_ncf_42x_w5">
+                        <persName key="prov_xnl_c2x_w5">meinen Ältern</persName>
+                    </persName> zu suchen.</p>
+            </div>
+            <div type="writingSession" n="1">
+                <p> </p>
+                <closer rend="paragraph">
+                    <salute>Ich bitte Ew. Durchlaucht, diese Nachricht mit gewohnter Huld
+                        aufzunehmen von Ihrem dienstwilligsten gehorsamsten D<ex>iener</ex>
+                    </salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <hi rendition="#u">Beilage:</hi>
+                </p>
+                <p>Relazione dell'insorgenza accaduta <lb/>Nella Città di Roma nel <lb/> Giorno di
+                    Domenica <lb/>- 13. Gennaro 1793 -</p>
+                <p>Ad effetto di poter 'intendere il motivo dell'insorgenza nata in Roma il dì 13.
+                    Gennaro 1793. hà creduto bene l'estensore della presente di premettere quanto
+                    siegue, protestando, che quanto verrà esposto, sarà la pura, e sincera verità, e
+                    niente esaggerato; giacchè se non di tutto, almeno di buona parte lo stesso
+                    estensore è stato testimonio di vista, e dove il medesimo non si è trovato
+                    presente lo hà risaputo fedelmente da altre Persone degne di fede, che
+                    ocularmente viddero i fatti</p>
+                <p>Erano già da due, o trè mesi, che trovavasi in Roma un certo Monsieur Basville
+                        Seg.<hi rendition="#sup">io</hi> dell' Ambasciatore della cosi detta
+                    Republica Francese Monsieur Makò Residente in Napoli per trattare alcuni affari
+                    colla S. Sede, che per essere ignoti non si espergono</p>
+                <p> Nel giorno della vigilia del S. Natale 14. Xbre prost.<hi rendition="#sup">to</hi> giunse in Roma Monsieur della Hot sotto Ammiraglio dell' Armata
+                    Navale Francese proveniente da Napoli, dove fortunatamente si era salvato con
+                    due Navi dopo la Burrasca sofferta il di 11. del d.<hi rendition="#sup">o</hi>
+                    mese di Xbre alla vista di Cagliari in Sardegna, e di concerto col d.<hi rendition="#sup">o</hi> Monsieur Basville calarono le Armi Regie di Francia
+                    dal Palazzo dell' Accademia, e del Consolato di d.<hi rendition="#sup">o</hi>
+                    Regno. // </p>
+                <p>Si passò quindi dai surriferiti Soggetti a fare istanza al Santo Padre per
+                    ottenere dal Esso il permesso di alzare il nuovo stemma della Republica
+                    Francese; ma il sommo Pontefice gli rispose, che mai avrebbe' dato un tal
+                    permesso, ponendo loro in vista quei giusti motivi, che l'inducevano a simile
+                    negativa; e però il Santo Padre giudicò espediente di formare un raggionato
+                    manifesto di quanto sopra si è narrato, che fece passare alle mani di tutti li
+                    Ministri delle respettive Corti estere residenti in Roma. E siccome si erano
+                    vantati li nominati Soggetti Francesi di voler a tutto costo alzare il detto
+                    Stemma, cosi fù dato ordine alle Milizia fin dal p.<hi rendition="#sup">o</hi>
+                    di Gennaro corrente, che di giorno, e di notte battessero la Città frequenti
+                    Pattuglie, le quali più d'ogni altra cosa avessero di mira il Palazzo dell'
+                    Accademia, e del Consolato di Francia con ordine espresso di far fuoco contro
+                    chiunque avesse osato di piantare in detti siti il mentovato Stemma della
+                    Republica Francese</p>
+                <p>Penetratosi un tal fatto dalli surriferiti Monsieur Brasville [!], e della Hot,
+                    si portarono la mattina del Venerdi 10. di d.<hi rendition="#sup">o</hi> mese di
+                        Gen.<hi rendition="#sup">to</hi> dall' E<hi rendition="#sup">mmo</hi>
+                    [=Eminentissimo] Sig.<hi rendition="#sup">r</hi> Card. de Zelada Seg.<hi rendition="#sup">rio</hi> di Stato, a cui richiesero, che il Santo Padre
+                    avesse ritirato il surriferito Manifesto, e che avesse dato loro il già
+                    domandato permesso dell' Apposizione dello Stemma. L' E<hi rendition="#sup">mmo</hi> Seg.<hi rendition="#sup">rio</hi> di Stato face palese alla
+                    Santità Sua le nuove istanze delli sudetti Soggetti, ed avendo ricevuto in
+                    risposta una costante negativa, essi con somma alterigia, e baldanza risposero "
+                    = Ebbene; Sappia il Pontefice Romano, che la Nostra // Republica Francese
+                    gl'intima la Guerra, e manderà in Roma un' Esercito formidabile di Cinquecento
+                    mila Francesi, i quali distruggeranno, e spianeranno la Città di Roma etc ="</p>
+                <p>Un tal fatto si rese quasi nell' istante publico al Popolo Romano, il quale
+                    fremeva contro simile Canaglia; ciò non ostante se ne stava quietissimo. Ma nel
+                    giorno di Domenica 13. del corrente Gennaro essendo circa le ore 11. escita dal
+                    Palazzo dell Accademia di Francia una Carrozza a quattro luoghi occupata dalli
+                    Monsieur Basville, della Hot, e dalla Moglie e piccolo Figlio, o Figlia del
+                        d.<hi rendition="#sup">o</hi> Basville, che unitam<ex>e</ex>
+                    <ex>nte</ex> al
+                    Cocchiere, e Servitore si erano posta la Coccarda della Nazione Francese
+                    composta di trè colori cioè bianca, rossa, e torchina andando baldanzosi per il
+                    Corso di Roma.</p>
+                <p>Allora fù, che il Popolo Romano più non potè contenere il suo silenzio, e non la
+                    Plebe, che in detta Strada nei giorni festivi, e di passeggio non suol' esservi,
+                    ma le Persone del ceto civile incominciarono ad urlare, e fischiare la d.<hi rendition="#sup">a</hi> Carozza. Dall' urli, e dalli fischj si passò alle
+                    Sassate, ed il Cocchiere vedendosi a mal partito, domandò alli Padroni cosa
+                    dovesse fare, e li medesimi gli risposero, che fosse andato dal Banchiere Mutt
+                    loro Amico, e confidente, tanto più, che si trovava la di lui abbitazione
+                    prossima al Luogo della sorpresa.</p>
+                <p>Il Cocchiere per tanto di tutta cariera accostò la Carrozza all' Abitazione di
+                        d.<hi rendition="#sup">o</hi> Mutt sempre accompagnata da urli, e fischj del
+                    Popolo, che gli correva // appresso colli Sassi. Smontati tutti li mentovati
+                    Soggetti, ed entrati in Casa, chiusero il Portone, ma il Popolo furibondo a viva
+                    forza lo apri, e si rese padrone di tutta la d.<hi rendition="#sup">a</hi>
+                    Abbitazione, cercando li due Francesi, che si erano nascosti, ed essendosi
+                    presentata al Popolo la Moglie del Basville, che colle ginocchia a terra
+                    piangeva, e domandava pietà, ma il Popolo gli rispose, ch' egli non era il porco
+                    Popolo Francese, che Donne non le curava, ma gli Uomini cercava, ed in tal guisa
+                    fù la medesima discacciata senza avergli fatto alcun male. Rinvenuto si
+                    finalmente il Basville, che rifuggiato si era entro un Camino di Camera, e
+                    venuto fuori con Pistole, e Spada nuda alla mano, <hi rendition="#u">indietro</hi>, disse, <hi rendition="#u">siete tutti morti</hi>, ed allora
+                    fù, che un Macellaro avendo rotto un Tavolino, e presone un piede, lo percosse
+                    trà il Capo, ed il Collo; Un' Abbate lo prese per il petto, gli strappò la
+                    Coccarda, e fattone mille pezzi con li denti, la gettò in terra; un Barbiere gli
+                    dette una Rasorata nella Panza, che gli fece escir fuon l'intestini. Lo
+                    avrebbero fatto in minutissimi pezzi, se non vi fosse accorsa la Soldatesca, che
+                    in pochi momenti vi venne in numero di più centinara, ponendo in salvo il d.<hi rendition="#sup">o</hi> Basville, conducendolo cosi ferito nel quartiere di
+                    Strada Frattina, dove dal Principato fu fatto assistere con farlo curare, e con
+                    somministrargli tutto il necessario con somma carità, ed attenzione, dove per le
+                    riportate ferite passò all' altra // vita la sera del sussequente Lunedi circa
+                    le ore due della notte, e verso le ore S. de d.<hi rendition="#sup">a</hi> notte
+                    fù posto in una Barella, e portato nella chiesa Parrochiale di S. Lorenzo in
+                    Lucina, ove fù sepolto, avendo prima di morire Egli stesso ricercato li SS.
+                    Sagramenti, che gli furono somministrati, e volle abjurare in mani di monsignor
+                    vicegerente</p>
+                <p>A Monsieur della Hot riuscì de scalare furtivamente per una Fenestra nel Palazzo
+                    della Sig.<hi rendition="#sup">ra</hi> Marchesa Palombaro, e per la prudente
+                    condotta delli Sig.<hi rendition="#sup">ri</hi> Offiziali delle milizie fù
+                    salvato dal furore del Popolo, e la mattina del sussequente Lunedi in compagnia
+                    della Moglie, e Figlio del Brasville circa le ore 11. fù fatto partire alla
+                    volta di Napoli scortato da Officiali, e Soldati, avendogli la Corte di Roma
+                    somministrato non sò che somma di Danaro per fare il viaggio</p>
+                <p>Ritornando ora al Popolo affollato in d.<hi rendition="#sup">a</hi> Abbitazione,
+                    si diede a rompere e fracassare tutto il mobilio dell' appartamento del Mutt
+                    rompendo, e rovinando ogni cosa senza però appropriarsi neppure il valore di una
+                    Spilla, ed altro Popolo, che stava al di fuori, a furia di sassate non lasciò
+                    neppure un Vetro sano alle Fenestre delli due appartamenti di d.<hi rendition="#sup">a</hi> Abbitazione, gridandosi da tutti Evviva la
+                    Religione; Evviva il Papa; Evviva S. Pietro, e S. Paolo; Evviva Maria St<hi rendition="#sup">ma</hi> [Santissima]</p>
+                <p>Mentre ciò succedeva all' Abbitazione del Mutt, altro Popolo // e le Donne, le
+                    quali procuravano dei Sassi, e nei loro Grembiali li portavano in detti siti, e
+                    sembrano tutti divenuti tanti fieri, ed arrabbiati Leoni.</p>
+                <p>Non deve passarsi sotto silenzio, che in una simile insorgenza da questo Popolo
+                    non si commise lo minima offesa a ver un Particolare, non si è fatto un furto
+                    neppure di un Fazzoletto, e non hà portato via la minima cosa dai Palazzi degli
+                    Inimici, ma sempre glorioso ha dato una non aquivo [?] prova del suo vero
+                    attaccamento alla Religione, e della sua fedeltà, ed amore al Santo Padre Suo
+                    Sovrano, che Iddio longamente, e felicemente conservi</p>
+                <p>La sera poi del sussequente Lunedi si voleva da d.<hi rendition="#sup">o</hi>
+                    Popolo attaccare il fuoco al Ghetto degli Ebrei, perche creduti di valuta intesa
+                    colli Francesi; ma anche questo à stato evitato dalla vigilanza, e prodenza di
+                    chi presiede al Governo; e d.<hi rendition="#sup">o</hi> Popolo si è ora
+                    quietato, essendosi contentato, che il Principe con Suo Editto abbia tolto alli
+                    medesimi Ebrei alcun Abusi, locchè venne ricercato da d.<hi rendition="#sup">o</hi> Popolo Romano</p>
+            </postscript>
+            <postscript>
+                <p>
+                    <hi rendition="#u">Brief von </hi>
+                    <persName key="prov_xsn_1cg_f5">
+                        <hi rendition="#u">Bury</hi>
+                    </persName>
+                    <hi rendition="#u"> an Anna
+                        Amalia:</hi>
+                </p>
+                <p>Es thut mir leith Durchlaucht, von unserem bisher frithsammen <placeName key="prov_vkl_ndl_js">Rom</placeName> die <seg type="critical">
+                        <orig>Griegerischen Nachrichten</orig>
+                        <note xml:id="nabd_bw2_cv">An Goethe schreibt Bury am 23. Februar 1793 aus
+                            Rom: "Ich muß Ihnen sagen daß die hiesigen Unruhen sich immer mehr
+                            vergrösseren, das Volk will mit aller gewahl[t] keinen franzossen hier
+                            mehr leithen, Täglich siehet man das Volk in Häusser Tringen, wo sie
+                            glauben verstekte franzossen zu finden; es ist auch wirklich kein
+                            einziger franzos mehr hier, sey auch noch so hoch, oder niderigen
+                            Standes, ausser Bernis, und Medames. auch so gar ein jeder Fremde ist in
+                            gefahr für einen Franzossen Angehalten zu werten, wie es schon geschähen
+                            ist an einen Engländer, wenn nicht im selben Augenblike Aufklärung für
+                            ihn dagewässen wäre, so hätte er sein Leben gewiß verlohren. / Mann
+                            Exselirt täglich personnen von allen Nationen, wo nur der geringste
+                            verdacht ist daß dieselben etwas geretet haben. nach trastevere, Bourgo,
+                            oder sonsten in entfernden Gegenden darf man sich anjetzo gar nicht
+                            wagen zu gehen weil ein jeder Fremde vom Volk für einen Munsu [Monsieur]
+                            angesehen wird. die franzossen welche von hier verdrieben sind worden,
+                            haben in Neapel, und Florenz, von der Nation eine Millon Liever
+                            angewiessen bekommen um nach hauß gehen zu können" (Bury-Briefe, S. 81).
+                            - Vgl. dazu die Beschreibung des Architekten Friedrich Weinbrenner, der
+                            zufolge in den Tagen nach der Ermordung Bassvilles bis zu 6000 Menschen
+                            mit dem Ruf "masacrate tutti gli forestieri (ermordet alle Fremden)"
+                            durch die Straßen zogen: "an den Tagen dieser Auftritte war es ebenfalls
+                            auf den Straßen sehr tumultarisch, besonders in der Gegend von Piazza di
+                            Spagna, dem Corso und Piazza del popolo, wo größtenteils die Fremden
+                            wohnen, denn während acht Tagen verließen einige tausend Fremde Rom, und
+                            es gab auch noch mit den Franzosen, die größtenteils alle von Rom
+                            wegflüchteten, mancherlei Auftritte. Aber auch für Fremde aus andern
+                            Ländern wurde jetzt der Aufenthalt unangenehm und manchmal gefährlich,
+                            man konnte nicht ohne Besorgnis auf den Straßen herumgehen, weil das
+                            gemeine Volk beinahe jeden für einen Franzosen hielt und ihn
+                            insultierte." (Weinbrenner, Denkwürdigkeiten, S. 79f.; zitiert nach:
+                            Bury-Briefe, S. 179). </note>
+                    </seg> mit zu theilen; da dieselbe aber für den jetzigen Zeitlauf Durchlaucht
+                    Inderessant seyn werden hab ich nicht Ermangelen wollen Ihnen alles durch
+                    Einligendes bekannt zu machen. Nun ist allem Anschein nach die Künste wieter in
+                    ihrem gänzlichen Zerfall, - Die französischen Künstler ist nicht mehr hier zu
+                    sehen, und allen Anschein nach werden dieselben sich alle in Soldaten
+                    Verwandelen. mich wird das Loß, schon als Deuscher in <placeName key="prov_vkl_ndl_js">Rom</placeName> treffen mich gegen sie zu stellen, und
+                    anstatt die friedsamme Kunst zu studiren, einer den anderen tot schießen, oder
+                    Schlagen werden – Ich werde meine Bestimmung mit einen fästen Gemüth abwarten,
+                    indem ich zum Theil dazu gezwungen bin, denn kein Geld hab ich nicht zum
+                    entfliehen, und wenig genuch zum leben. Nichts willkommener würde mir seyn in
+                    meiner jetzigen Lage, als eine gleine Hülfe von Durchlaucht, sey hier, oder in
+                        <placeName key="prov_xym_pdx_w5">Deuschland</placeName>. </p>
+                <p>ich empfehle mich Durchlaucht besten und bin der ergebenster </p>
+                <p>Frd Bury </p>
+                <p>Rom den 19 Januar 1793.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

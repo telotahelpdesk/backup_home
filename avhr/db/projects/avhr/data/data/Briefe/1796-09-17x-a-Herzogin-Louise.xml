@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ymk_n3y_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Louise von Anhalt-Dessau. Auf der Reise von Dresden nach Berlin, 17.
+                    September 1796. Sonnabend]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 289: Eintrag 27. Oktober 1796: "[...] ich
+                    den ganzen Abend meinen Thränen und Gedanken überlaßen. H[irts] Briefe vom 17ten
+                    September durch und nachlesend."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <date when="1796-09-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Schülerin und
+                        Freundin Hirts)</persName>
+                    <placeName key="prov_qht_zxr_js">Dessau</placeName>
+                </correspAction>
+                <note>Zum Schreibort: Hirt und die Fürstin reisten von Rom aus gemeinsam bis
+                    Dresden; am 15. September 1796 trennten sich ihre Wege: Hirt reiste mit Kügelgen
+                    nach Berlin weiter (auf dieser Reise schrieb er den hier bezeugten Brief an die
+                    Fürstin), die Herzogin über Leipzig und Delitzsch nach Dessau, wo sie in der
+                    Nacht vom 16. zum 17. eintraf. Über ihre Trennung schreibt sie am 15. September
+                    1796 in ihr Tagebuch: "Ich hatte nicht viel geschlafen und erwachte noch vor 5,
+                    gegen 6 stand ich auf und blieb still in einer Gemüthstimmung, die man selbst
+                    empfunden haben muß, um sich eine Vorstellung davon machen zu können. ZWEI MAL
+                    WAR ICH AN SEINER THÜRE; SIE WAR VERSCHLOSSEN. Gegen 7 uhr kam Hirt noch in mein
+                    zimmer, da redeten wir noch zusammen, und das that mir sehr wohl, nach dem ging
+                    Er ab und zu, ich ließ mir mein Frühstück geben, auch er. Dann ging er zum
+                    Wagen, Sein Gepäck zu besorgen. Es kam dann auch sein Reisegefährte, der junge
+                    Mahler [= Kügelgen], der von Rom bis Dresden zu Fuße gegangen war. Und endlich,
+                    leider, ward alles fertig. Die Trennungsstunde schlug und bis zum Ende HIELT ICH
+                    DIE THRÄNEN ZURÜK, ABER DOCH MIT DEN LEZTEN KUSS WURDEN SEINE WANGEN NAS VON
+                    MEINE AUGEN UND DIE SEINIGEN FÜLTEN SICH AUCH. MIT WEHMUT wart der Bund fester
+                    und auf immer geschlossen, aber wie mir zumuthe ward, so fuhr Er fort. Ich blieb
+                    noch einen Moment allein." (Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky
+                    (Bearbeiter): Die originalen Tagebücher der Fürstin Louise Henriette Wilhelmine
+                    von Anhalt-Dessau. Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der
+                    Kulturstiftung DessauWörlitz, Bd. 1, Halle 2010, S. 282 f. - Die in Versalien
+                    wiedergegebenen Textpassagen sind im Tagebuch der Fürstin chiffriert.)</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

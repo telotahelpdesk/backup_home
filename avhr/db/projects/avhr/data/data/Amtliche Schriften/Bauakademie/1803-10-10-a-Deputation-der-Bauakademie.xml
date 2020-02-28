@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_eyh_243_vgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an die Bauakademische Deputation der Bauakademie. Berlin, 10.
+                    Oktober 1803</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt IV Nr. 30, fol.
+                                14r-18r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebene Folio</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Christiane Salge, Hirt-Bd. II, S. 121 (Teilabdruck, 1
+                            Satz)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1803-10-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_dvs_ykp_tgb">Bauakademie zu Berlin - Bauakademische Deputation
+                        beim Oberbaudepartement</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_o3r_1k2_5gb"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Bl. 14r oben links: An / eine Hochlöbl. Deputation / der königl.
+                            Bauakademie.</addrLine>
+                    </address>
+                    <salute/>
+                </opener>
+				<p>Auf das <hi rendition="#aq">Rescript</hi> Einer hochlöb<ex>lichen</ex>
+                    <hi rendition="#aq">Deputation</hi> vom 23<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Sept<ex>ember</ex> eingegangen den 9<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Octob<ex>er</ex> habe ich
+                    die Ehre folgendes zu antworten:</p>
+                <p><hi rendition="#u">1.</hi> Ist es mir sehr angenehm zu sehen, daß es Einer
+                        hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi> gefiel, meine <bibl sameAs="ed_exn_cqb_kgb">Vorlesungen</bibl> bey der König<ex>lichen</ex> Bauakademie unter ihrem
+                    eigentlichen Namen in den Gedrukten Lektionszettel zu sezen.</p>
+                <p><hi rendition="#u">2.</hi> thut es mir leid, daß der zweyte von mir erbethene
+                    Punkt noch ausgesezt bleiben muß. - Übrigens sind die Gründe, welche Eine
+                        hochlöb<ex>liche</ex>
+                    <hi rendition="#aq">Deputation</hi> hierwegen anführt, für mich nicht allzu
+                    begreifflich. Wie soll etwas zum Nachtheil der Schüler ausfallen, wenn sie nur
+                    unter den von mir verlangten Bedingungen den vollständigen Vortheil aus meinen
+                    Vorlesungen schöpfen können? - <lb/>Auf welchen Wegen übrigens die Schüler zu
+                    den erforderlichen Kenntnißen in der <hi rendition="#aq">Geometrie</hi>, in der
+                    Perspektiv, <hi rendition="#aq">Optik</hi>, und Bauphysik gelangen mögen, geht
+                    mich nicht näher an; eben so wenig, als die Einrichtung, daß die jungen Leute zu
+                    frühzeitig von den Studien entlaßen werden. <lb/>Hätte man bey der
+                    ursprünglichen Einrichtung der könig<ex>lichen</ex>
+                    <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> den Plan, und die Gründe
+                    befolgt, welche damals zur gehörigen <hi rendition="#aq">Classification</hi> des
+                    gesammten Unterrichtes vorgelegt wurden; so würden iezt dergleichen unangenehme,
+                    und für die Bauschüler nachtheilige <pb n="2"/>
+                    <hi rendition="#aq">Collisionen</hi> nicht statt finden. Indeßen hindert, wie
+                    ich glaube, ein ursprüngliches Versehen nicht, daß man, durch die Erfahrung
+                    belehrt, wenigstens später auf den wahren, und einzigen Weg zurückkomme. Auf
+                    diesen wahren und einzigen Weg bringt aber kein <hi rendition="#aq">encyclopæd</hi>ischer Unterricht, sondern einzig und allein eine bestimmte
+                    Festsezung einer gehörigen <hi rendition="#aq">Classification</hi>. -</p>
+                <p><hi rendition="#u">3.</hi> Daß Eine hoch<ex>löbliche</ex>
+                    <hi rendition="#aq">Deputation</hi> ein besonderes <hi rendition="#aq">Collegium</hi> für eine sogenannte <hi rendition="#aq">Encyclopædie</hi>
+                    der Baukunst eingerichtet wünschet, gehet mich nicht an. Auch werde ich mich
+                    nicht darauf einlaßen, ob ein solches <hi rendition="#aq">Collegium</hi>
+                    zweckmäßig, und nöthig sey. - Nur in so fern die <hi rendition="#aq">Intention</hi> Einer hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi> seyn möchte, mir ein solches Fach zu
+                    übertragen, muß ich hier ein für allemal erklären, daß ich ein solches <hi rendition="#aq">Collegium</hi> nie übernehmen werde. - In wie fern aber
+                    andere meinen iezigen Vortrag eine <hi rendition="#aq">Encyclopædie</hi> nennen
+                    wollen, ist mir gleichgiltig. Nur kann ich nicht zugeben, daß mein Lehrfach
+                    öffentlich anders, als unter dem Logisch bestimmten Namen angezeigt werde. Ich
+                    weiß übrigens wohl, daß das Wort <hi rendition="#aq">Encyclopædie</hi> einer
+                    wächsern Nase gleichet, welche jeder drehen kann, wie er Lust hat.</p>
+                <p><hi rendition="#u">4.</hi> Die Art, wie sich Eine hoch<ex>löbliche</ex>
+                    <hi rendition="#aq">Deputation</hi> ein Recht zueignen will: über den Inhalt
+                    meiner <bibl sameAs="ed_exn_cqb_kgb">Vorlesungen</bibl> nach Belieben zu <hi rendition="#aq">disponiren</hi>: scheint mir in Wahrheit nicht allzu
+                    begreiffbar. <lb/>Wer kann, ohne sich lächerlich <pb n="3"/> und verächtlich zu
+                    machen, sich zu etwas anderm <hi rendition="#aq">engagiren</hi>, als zu dem, was
+                    er gelernt hat, und zu verstehen glaubt? - Ich glaube das Fach, zu welchem ich
+                    mich aus freyen Stücken als Lehrer angebothen habe, zu verstehen. Aber Dieß
+                    Verstehen sezt nicht voraus, daß ich auch andere Fächer, die etwa mir Eine
+                        hochlöb<ex>liche</ex>
+                    <hi rendition="#aq">Deputation</hi> übertragen möchte, auch inne haben müße.
+                    Denn in Wahrheit habe ich weder den Wahn, noch den gewandten Geist, heute dieß,
+                    und morgen ein anderes Fach zu lehren. - Wo bliebe also das Recht Einer
+                        hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi>, mich zu etwas zu vermögen, was ich nicht
+                        <hi rendition="#u">kann</hi>? <lb/><hi rendition="#aq">Ultra posse nemo
+                        tenetur</hi>.</p>
+                <p>Weiter: Es mag wohl seyn, daß ich bey der Übernahme meines Lehramtes an der
+                        könig<ex>lichen</ex> Bauakademie - dem Beysaze: <lb/>"Nach Anleitung des
+                    Akademischen <hi rendition="#aq">Directorii</hi>" <lb/>nicht feuerlich
+                    widersprach. (obschon ich übrigens hinlänglich, und mit Gründen gegen die
+                    Einrichtung eines <hi rendition="#aq"><orgName key="ed_fwf_4q3_mgb">Directorii</orgName></hi> überhaupt zu seiner Zeit <hi rendition="#aq">protestirte</hi>; weil ich den Unnutzen desselben voraussah) - aber sey es!
+                    Was will eine hoch<ex>löbliche</ex>
+                    <hi rendition="#aq">Deputation</hi> aus meinem Stillschweigen folgern? - Doch
+                    ich räume alles ein, und erkläre hiemit feuerlich: daß ich nicht das Geringste
+                    gegen die Leitung des <orgName key="ed_fwf_4q3_mgb"><hi rendition="#aq">Directorii</hi></orgName>, oder der <orgName key="ed_dvs_ykp_tgb"><hi rendition="#aq">Deputation</hi></orgName>
+                    <hi rendition="#u">in Rücksicht meiner</hi> habe: und daß jede Leitung von Seite
+                    der hochlöb<ex>lichen</ex>
+                    <hi rendition="#aq">Deputation</hi> mir selbst sehr willkommen, und angenehm
+                    sey, das heißt: <hi rendition="#u">in dem Lehrfache, wozu ich mich <hi rendition="#aq">engagirte</hi></hi>. Indeßen bin ich im voraus
+                    überzeugt, daß die Absicht der mir sehr verehrten Mitglieder der
+                        hoch<ex>löblichen</ex>
+                    <pb n="4"/>
+                    <hi rendition="#aq">Deputation</hi> nicht <hi rendition="#u">so weit</hi> gehet.
+                    Ein jedes Mitglied derselben weiß zu gut, wie schwer es ist, sich in einem
+                    einzigen Fache so zu bilden, damit man mit Ehren als öffentlicher Lehrer darin
+                    auftretten könne. Und was mein individuelles Lehrfach betrift, darf ich um so
+                    weniger die Hoffnung hegen, Weisungen von andern zu erhalten, da das Lehrfach,
+                    dem ich vorstehe, <hi rendition="#u">vor mir</hi> nicht <hi rendition="#aq">existirte</hi>, und ich sagen darf, dasselbe <hi rendition="#u">zuerst</hi>
+                    geschaffen zu haben. <lb/>Auch scheint es fast, alswenn Eine
+                        hoch<ex>löbliche</ex>
+                    <hi rendition="#aq">Deputation</hi> vergeßen habe, daß ich mein <hi rendition="#aq">Collegium</hi> eben so für <hi rendition="#aq">Eleven</hi>
+                    der Kunst- als der Bauakademie lese: und folglich ich nicht bloß vom <orgName key="ed_ufl_3jc_mgb"><hi rendition="#aq">Curatorium</hi> der
+                        Bauakademie</orgName>, sondern auch gleichmäßig <orgName key="ed_gll_xtv_xfb">von dem der Kunstakademie</orgName> abhange. Ich bitte
+                    ergebenst, hierwegen die Akten nachzusehen.</p>
+                <p><hi rendition="#u">5.</hi> Daß ich mein Lehramt bey der könig<ex>lichen</ex>
+                    Bauakademie, ohne Anspruch auf größere Besoldung, oder auf sonstige <hi rendition="#aq">Remunerationen</hi> durch Collegiengelder übernommen habe:
+                    darauf hat allerdings Eine hoch<ex>löbliche</ex>
+                    <hi rendition="#aq">Deputation</hi> keine Rücksicht zu nehmen. Daher wenn ich
+                    gelegenheitlich solches in Erinnerung brachte; wollte ich hiemit keinesweges als
+                    auf ein mir besonders zustehendes <hi rendition="#u">Recht</hi>, sondern bloß
+                    auf <hi rendition="#u">Billigkeit</hi>
+                    <hi rendition="#aq">provoziren</hi>. <lb/>Daß übrigens ein Damaliges <orgName key="ed_gll_xtv_xfb"><hi rendition="#aq">Curatorium</hi> der
+                        Kunstakademie</orgName>, das Anerbieten, das ich hochdemselben zur <add place="left">unentgeltlichen</add> Übernahme eines solchen Lehramtes aus
+                    eigener Bewegung machte, wirklich <pb n="5"/> annahm, folget keinesweges, als
+                    wenn ich im voraus hiefür besoldet gewesen sey. Der Ausdruck in meiner
+                    Bestallung vom 20<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April
+                    1799. <lb/>"Für das ihm bereits von S<ex>ein</ex><hi rendition="#sup"><hi rendition="#u">er</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName> ausgesezte Gehalt" <lb/>kann
+                    daher nur auf meine eigene Veranlaßung durch die Hand des <hi rendition="#aq">Concipienten</hi> in dieselbe gefloßen seyn: nemlich weil ich erklärt
+                    hatte, daß ich mit meinem Gehalte zufrieden sey, und für diese vermehrte
+                    Bemühung keinen besondern Zuschuß von Gehalt verlange. Daß die Sache auf eine
+                    solche art verstanden werden müße, wird jedem billig Denkenden um so
+                    einleuchtender seyn, da die <hi rendition="#aq">liberale</hi> Denkart unsrer
+                        könig<ex>lichen</ex> Regierung zu bekannt ist, um einem Beamten - wenn er es
+                    nicht selbst wünschet - neue Verbindlichkeiten aufzulegen, ohne seine vermehrten
+                    Bemühungen verhältnißmäßig zu lohnen.</p>
+                <p><hi rendition="#u">6.</hi> Die Gegenstände, welche ich in meinem Fache
+                    vorzutragen übernommen habe, sind in dem bey <hi rendition="#aq">Etablirung</hi>
+                    der Akademie eingereichten Plane hinlänglich spezifizirt: und die Methode, wie
+                    ich diese Gegenstände vortrage, darf der hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi> Ihrer übernommenen Pflicht gemäß nach einem
+                    vierjährigen <hi rendition="#aq">Cursus</hi> nicht unbekannt seyn. Ich kann
+                    übrigens nichts dagegen haben, wenn es Einer hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi> gut dünkt, andere Lehrfächer, mit welchen
+                    das meinige in <hi rendition="#aq">Collision</hi> stehen soll, darnach zu
+                    modifiziren. Aber mein <hi rendition="#aq">Manuscript</hi> ist mein Eigenthum,
+                    und ich gebe es nicht aus den Händen. Ich werde es zu seiner Zeit öffentlich
+                    erscheinen laßen: zur Stunde aber habe ich es noch nicht zu meiner Zufriedenheit
+                    ausgearbeitet. Auch erkläre <pb n="6"/> ich im voraus, daß ich mein Lehrfach
+                    nach keinem andern modifiziren kann, weil alles in einem System zusammenhängt,
+                    und nur eines durch das andere das gehörige Licht erhält.</p>
+                <p><hi rendition="#u">7.</hi> Die Kabinetsordre vom 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Feb</hi><ex>ruar</ex> 1801. woraus Eine
+                        hochlöb<ex>liche</ex>
+                    <hi rendition="#aq">Deputation</hi> anführet: <lb/>"daß praktische Baubediente,
+                    und keine <hi rendition="#aq">Professoren</hi> an der Akademie gezogen werden
+                    sollen" <lb/>kann, richtig verstanden, keinen Einfluß auf die Abänderung meines
+                    Lehrfaches haben. Denn erstlich ist dadurch der Vortrag desselben keinesweges
+                    widerrufen: zweytens ist von einem in allen nöthigen Fächern wohlunterrichteten
+                    Baueleven noch ein sehr bedeutender Schritt zu einem <hi rendition="#aq">Professor</hi> in der Baukunst: ja! man kann ein sehr brauchbarer, und
+                    erfahrner Praktiker seyn, und doch weder die Wißenschaft, noch das Talent zu
+                    einem öffentlichen Vortrage haben. Drittens wird jedes Mitglied der
+                        hoch<ex>löblichen</ex>
+                    <hi rendition="#aq">Deputation</hi> mit mir einverstanden seyn, daß das
+                    theoretische Wißen der Praxi nie schaden könne: denn eine wahre Theorie der
+                    Baukunst kann nur solche Geseze, und Regeln enthalten, welche von einer
+                    geläuterten Erfahrung der grösten Völker in der Kunst zu bauen abstrahirt sind.
+                    je mehr also angehende Baukünstler in den theoretischen Fächern unterrichtet
+                    seyn werden, desto leichter muß für sie die Praxis seyn. ja - dergleichen junge
+                    Baukünstler werden nicht bloß bey der Praxis, wie sie in jedem Lande herkommlich
+                    ist, stehen bleiben, sondern bemüht seyn, <pb n="7"/> das Praktische des
+                    Bauwesens zu verbeßern. Und wo ist das Land, welches in Rücksicht einer so
+                    vielumfaßenden Kunst, wie das Baufach ist, nicht bey jedem Schritt einer
+                    Verbeßerung bedürfte? -</p>
+                <p>Endlich wenn in der angezeigten Kabinetsordre die Bildung tüchtiger
+                    Kammeralbauleute besonders eingeschärft wird; so würde man doch, den Geist einer
+                    Kabinetsordre sehr mißverstehen, wenn man glaubte, daß an einer Akademie nur
+                    dadurch gute Kammeralbaubediente gebildet werden könnten, wenn man die
+                    sogenannte höhere Baukunst hintenansezte. Welcher Bauerfahrne kann zweifeln, daß
+                    der wirkliche Architekt nicht zugleich auch der tüchtigste Mann für das
+                    Kammeralbauwesen seyn würde? und daß allein vom Leztern die wahre Verbeßerung
+                    des Kammeralbauwesens zu erwarten steht? -</p>
+                <p>Übrigens ist zu Genüge bekannt, daß die <hi rendition="#aq">Etablirung</hi> der
+                        <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> zum Zweck hat: 1. gute
+                    Feldmeßer, <hi rendition="#u">2.</hi> gute Waßerbaumeister. <hi rendition="#u">3.</hi> gute Landbaumeister, und <hi rendition="#u">4.</hi> wirkliche
+                    Architekten zu bilden. Der Staat bedarf tüchtige Männer in jeder Gattung: Aber
+                    nur von dem leztern (dem Architekten) kann man erwarten, daß das Bauwesen in
+                    einem Staate fest begründet, und durch denselben der gute Geschmack auch über
+                    andere von der Baukunst abhängende Gewerke (deren Anzahl sehr groß ist)
+                    verbreitet werde. So denke ich: und ich fürchte nicht, daß mir einer, der durch
+                    die Geschichte, das heißt: durch die Erfahrung belehrt ist, widersprechen
+                    werde.</p>
+                <p>Ein Hauptversehen bey <hi rendition="#aq">Etablirung</hi> der
+                        König<ex>lichen</ex>
+                    <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName>
+                    <pb n="8"/> - wie ich immer laut behauptet habe, und behaupten werde - ist, daß
+                    man die Leitung derselben einem <hi rendition="#aq">Collegium</hi> von
+                    Geschäftsmännern übertrug; und zwar einem <hi rendition="#aq">Collegium</hi>,
+                    bey welchem, um darin als Mitglied aufgenommen zu werden, nicht erforderlich
+                    ist, einen vollständigen <hi rendition="#aq">Cursus</hi> der Architektur gemacht
+                    zu haben. Von welchem also auch die Voraussezung nicht statt finden kann, daß es
+                    Mitglieder in sich faße, die das Feld der Architektonik übersehen: und demnach
+                    es bloß als eine zufällige Sache zu betrachten ist, wenn sich unter den
+                    Mitgliedern Männer befinden, die den gedachten Umfang von Kenntniß besizen.
+                    <lb/>Wie kann aber ein <hi rendition="#aq">Collegium</hi>, <hi rendition="#u">als solches</hi>, der Leitung eines <hi rendition="#aq">Institutes</hi>,
+                    das für die gesammten architektonischen Wißenschaften bestimmt ist, vorstehen? -
+                    Die Sache <hi rendition="#aq">involvirt</hi> in sich den offenbaresten
+                    Widerspruch. <lb/>Wir haben Beyspiele in unserm Staate, so wie es dergleichen in
+                    jedem gut organisirten Staate giebt, wo von den Collegien der Geschäftmänner zu
+                    den Lehr<hi rendition="#aq">instituten</hi> um Belehrung <hi rendition="#aq">recurrirt</hi> wird: nicht aber daß eine Akademie, welche junge Leute zu
+                    den Kenntnißen der wahren Praxis vorbereiten soll, von einem <hi rendition="#aq">Collegium</hi> bloßer Geschäftsmänner <hi rendition="#aq">dirigirt</hi>
+                    würde. <lb/>Die könig<ex>liche</ex>
+                    <orgName key="ed_tc3_hfc_b1b">Bauakademie</orgName> wird dergestalt immer als
+                    fehlerhaft <hi rendition="#aq">constituirt</hi> anzusehen seyn, so lange die <hi rendition="#aq">Direction</hi> derselben von einem könig<ex>lichen</ex>
+                    <orgName key="ed_bnk_ktv_xfb">Bau<hi rendition="#aq">departement</hi></orgName>
+                    abhängt. Die Erfahrung hat bis iezt die Sache nur zu sehr bestätigt. <pb n="9"/></p>
+                <p>8. Zur verlangten Nachricht dienet, daß ich gegenwärtigen Winter-<hi rendition="#aq">Cursus</hi> mit der <bibl sameAs="ed_exn_cqb_kgb">Theorie
+                        der Baukunst nach den Grundsäzen der Alten</bibl> bereits angefangen
+                    habe.</p>
+				<closer>
+                    <dateline>Berlin den 10<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Octob. 1803.</dateline>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p><ex>Dem obigen Schreiben Hirts ist ein Reskript der akademischen Deputation
+                        (eigenhändig unterzeichnet von Morgenlänger) an das Kuratorium der
+                        Bauakademie vom 17. Dezember 1803 beigelegt (GStA PK, I. HA, Rep. 76 alt IV
+                        Nr. 30, fol. 11r-v; mit den Aktenvermerken oben rechts:</ex> "pr 26 Dec
+                    1803" mit Unterschrift "Hardenberg"(?) <ex>und unten links:</ex> "ad
+                        Anteriora"<ex>):</ex></p>
+                <p>An / Ein Hohes <hi rendition="#aq"><orgName key="ed_ufl_3jc_mgb">Curatorium</orgName></hi> / der König<ex>lichen</ex> Bau-<hi rendition="#aq">Academie</hi>.</p>
+                <p>Auf das am 23.<hi rendition="#sup">ten</hi>
+                    <hi rendition="#aq">September</hi> c<ex>urrentis</ex> an den Hofrath <hi rendition="#aq">Hirt</hi> erlaßene, Einem hohen <hi rendition="#aq">Curatorio</hi> gehorsamst mitgetheilte Schreiben, hat die <orgName key="ed_dvs_ykp_tgb"><hi rendition="#aq">Deputation</hi></orgName> die, <hi rendition="#aq">sub petito Remissionis, originaliter</hi> beiliegende <hi rendition="#aq">Replic</hi> von demselben erhalten. <lb/>Da derselbe sich
+                    darin auf das <hi rendition="#aq">ultra posse nemo tenetur</hi> berufet; so
+                    scheint es freilich, daß man auf den Wunsch, - eine <hi rendition="#aq">Encyclopaedie</hi> der Baukunst von dem p <hi rendition="#aq">Hirt</hi>
+                    gelesen zu bekommen -, werde Verzicht thun müßen; und die <hi rendition="#aq">Deputation</hi> würde die Sache auch blos mit diesem Vorschlage an Ein
+                    hohes <hi rendition="#aq">Curatorium</hi> haben bewenden laßen, wenn nicht der p
+                        <hi rendition="#aq">Hirt</hi> weiter gegriffen, und sich in gedachter seiner
+                        <hi rendition="#aq">Replic</hi> Urtheile angemaßt hätte, wozu er meines
+                    Ermeßens einerseits gar nicht befugt ist, anderntheils solche aber auch, wenn
+                    sie von ihm einseitig in das Publikum gebracht werden, der <hi rendition="#aq">Academie</hi> einen verdächtigen Anstrich geben können. <lb/>Die <hi rendition="#aq">Deputation</hi> hatte daher <hi rendition="#aq">resolvirt</hi>, demselben seine Meinung zu widerlegen, aber sie wurde durch
+                    den Umstand daran verhindert, daß diese Schrift am 15.<hi rendition="#sup">ten</hi>
+                    <hi rendition="#aq">October</hi>, da sie von mir eben zum <hi rendition="#aq">circuliren</hi> geschrieben, und in dem Augenblick, da der Geheime <hi rendition="#aq">Secretair</hi>
+                    <hi rendition="#aq"><persName key="ed_lz5_r5p_vgb">Paetsch</persName></hi> sie
+                    erst in das Ausgabe-<hi rendition="#aq">Journal</hi> eintragen laßen wollte, ihm
+                    unter den Händen hinweggekomen ist, und <pb n="2"/> sich am 16.<hi rendition="#sup">ten</hi>
+                    <hi rendition="#aq">November</hi> c<ex>urrentis</ex> in beikommendem
+                    versiegelten <hi rendition="#aq">Couvert</hi> eingeschlagen, in der verschloßen
+                    gewesenen Kanzleydiener-Stube des <orgName key="ed_bnk_ktv_xfb">Ober Bau-<hi rendition="#aq">Departements</hi></orgName>, erst wieder gefunden hat.
+                    <lb/>Nunmehr hält die <hi rendition="#aq">Deputation</hi> es zu spät dem p <hi rendition="#aq">Hirt</hi> zu widerlegen, weil sich denken läßt, daß derselbe
+                    die Mittheilungen, welche etwa von ihm davon haben gemacht werden sollen, doch
+                    wohl dem <hi rendition="#aq">Publico</hi> schon gemacht haben wird. Es ist ihm
+                    daher blos geschrieben, daß seine Schrift zum höhern Ermeßen eingereicht sey;
+                    und ich überreiche solche mit der gehorsamsten Bitte und überlaße, in Bezug auf
+                    den Bericht der <hi rendition="#aq">Deputation</hi> vom 23.<hi rendition="#sup">ten</hi>
+                    <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> e<ex>jusdem</ex>, wie Ein
+                    hohes <hi rendition="#aq">Curatorium</hi> den <hi rendition="#aq">Hirt</hi> zu
+                        <hi rendition="#aq">rectificiren</hi> für gut findet, und ob es nützlich
+                    seyn kann, deßen Meinungen zu widerlegen, auch ob ich für den letzten Fall etwa
+                    eine Widerlegung besorgen soll? <lb/>So wie ich auch <hi rendition="#aq">submittiren</hi> muß, ob es nicht rathsam seyn würde, genau untersuchen zu
+                    laßen, von wem die p <hi rendition="#aq">Hirt</hi>sche Schrift etwa weggebracht,
+                    hernach zurückgebracht, und die Adresse auf dem <hi rendition="#aq">Couvert</hi>
+                    wahrscheinlich mit verstellter Hand geschrieben worden ist, da dieses alles von
+                    Jemanden, dem diese Schrift sehr <hi rendition="#aq">interessiren</hi> mag,
+                    geschehen zu seyn scheint. <lb/>Berlin den 17.<hi rendition="#sup">ten</hi>
+                    <hi rendition="#aq">December</hi> 1803. <lb/><hi rendition="#aq">Præsidium</hi> der akademischen <hi rendition="#aq">Deputation</hi>
+                    des / Ober-Bau-<hi rendition="#aq">Departements</hi>. <lb/><persName key="ed_odj_slp_tgb">Morgenländer</persName></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

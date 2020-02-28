@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kwq_knc_mgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben an das Kuratorium der Königlichen Bauakademie. Berlin, 29. Juni
+                    1799.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt IV Nr. 30, fol.
+                            2r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Christiane Salge, Hirt-Bd. II, S. 120 (Teilabdruck und
+                            Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_ufl_3jc_mgb">Bauakademie zu Berlin - Kuratorium</orgName>
+                </correspAction>
+                <note>Empfängerbemerkung: "geht nur nach xxxx. ad acta. / Berlin dn 7. July 1799 /
+                    Moelter." - Weitere Sichtungsvermerke am unteren Rand</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>Auf das vom 20<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April 99. erlaßene
+                    Schreiben eines hohen <orgName key="ed_ufl_3jc_mgb"><hi rendition="#aq">Curatorium</hi>s der neuerrichteten König<hi rendition="#aq">lichen</hi> Bauacademie</orgName>, worin mir meine künftige Funktion an
+                    derselben angewiesen wird, habe ich die Ehre gehorsamst zu antworten, daß ich
+                    mit Vergnügen das mir zugetheilte Lehramt der <bibl sameAs="ed_exn_cqb_kgb">Kritischen Geschichte der Baukunst</bibl> nach der nun ertheilten
+                    Vorschrift übernehmen, und bemüht seyn werden, alles dasjenige zu einem so
+                    schönen und nüzlichen <orgName key="ed_tc3_hfc_b1b"><hi rendition="#aq">Institut</hi>e</orgName> beyzutragen, was ich meinerseits vermögend
+                    seyn werden.</p>
+                <p>Was ie verlangte Übersicht meines Lehrfaches betrift, habe ich dieselbe bereits
+                    bey der lezten <hi rendition="#aq"><orgName key="ed_bwn_fz3_kgb">Commission</orgName></hi> der Zehn abgegeben; und wiederhole hiemit
+                    nur, daß ich mein möglichstes thun werde, dahinzukommen, bis künftigen Oktober
+                    eine <bibl sameAs="ed_it3_zs3_mgb">Gedrukte Schrift</bibl> zu liefern, die mir
+                    als Leitfaden bey meinen Vorlesungen dienen soll.</p>
+                <p>Berlin den 29<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juny 1799.</p>
+				<closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,10 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/web/briefe" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="detail.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" modified="2020-02-28T10:18:24+01:00" filename="detail.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:24+01:00" modified="2020-02-28T10:18:24+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="resources" filename="resources"/>
+</collection>

@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_shl_tbx_nw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Prinz Wilhelm von Preußen (Bruder des Königs). Berlin, 12. Mai
+                    1818.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Hess. StA Darmstadt</institution>
+                        <collection>D 22</collection>
+                        <idno>
+                            <idno type="shelfmark">12/78, Bl. 9</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-05-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_vpp_kmx_2v">Preußen, Friedrich Wilhelm Karl, Prinz von
+                        (1783-1851) (jüngster Sohn von König Friedrich Wilhelm II. und Prinzessin
+                        Friederike Luise von Hessen-Darmstadt, Bruder von Friedrich Wilhelm III.,
+                        1799 Stabskapitän, General, Generalgouverneur der Rheinprovinzen und
+                        Gouverneur der Bundesfestung Mainz, seit 1804 verh. mit Marianne von
+                        Hessen-Homburg)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Die Papiere zu dem Entwurfe sind endlich wieder
+                            zurückgekommen</orig>
+                        <note xml:id="noss_fvp_pw">Hier wohl Hirts Entwurf
+                            zur Gründung einer „Gesellschaft zur Belebung der Kunst in den
+                            Preußischen Staaten“, genannt „Die Dilettanten“, gemeint; vgl. dazu
+                            1818-03-23-a-Altenstein; 1818-04-10-v-Altenstein; 1818-04-22-a-König +
+                            Beilage. - Hirt hatte den Entwurf an Altenstein und dann an den König
+                            geschickt.</note>
+                    </seg>, und ich bin im Stande, dieselben Ew.
+                        K<ex>öniglichen</ex> Hoheit auf den ersten Wink vorzulegen, welches ich aber
+                    persönlich zu thun wünschte, weil manche mündliche Erörterungen zu machen sind.
+                    Heute und Donnerstag habe ich vor- und Nachmittag <seg type="comment">
+                        <orig>vorlesungen</orig>
+                        <note xml:id="nzvb_rvp_pw">Hirt las im
+                            Sommersemester 1818 an der Berliner Universität: 1. Fortsetzung der
+                            Vorlesungen über die Weise in Italien, Deutschland und den Niederlanden
+                            zu reisen, hauptsächlich in Beziehung auf die Alterthümer und die Werke
+                            der neueren Kunst. - 2. Geschichte der Baukunst bei den Völkern des
+                            Alterthums (Vorlesungsverzeichnis der Universität Berlin 1810/1-1835/36;
+                            Wolfgang Virmond: Die Vorlesungen der Berliner Universität 1810-1834
+                            nach dem deutschen und lateinischen Lektionskatalog sowie den
+                            Ministerialakten. Berlin 2011).</note>
+                    </seg>, aber jeden andern Tag bin
+                    ich frey. </p>
+                <p>Zugleich bin ich so frey Ew. K<ex>öniglichen</ex> Hoheit <seg type="comment">
+                        <orig>ein paar kleine Schriften</orig>
+                        <note xml:id="nppw_qwp_pw">Möglicherweise die zuletzt erschienenen Aufsätze Hirts „Ueber das
+                            Bildniß der Alten“, „Über den Kanon in der bildenden Kunst“, „Die Weihe
+                            des Eros Uranios. Ein festlicher Aufzug mit Tänzen“, „Die Hierodulen“,
+                            „Die neu aufgefundnen Aeginetischen Bildwerke“.</note>
+                    </seg>, die eben
+                    fertig geworden sind, gehorsamst zu übersenden. Nehmen Sie, gnädiger Herr,
+                    dieselben auf mit der Güte und Nachsicht, die Sie mir von jeher so huldvoll
+                    erzeigten. </p>
+                <closer>
+                    <salute>Mit wahrer Anhänglichkeit verbleibe ich <lb/>Ew. Königlichen Hoheit
+                        <lb/>treugehorsamster</salute>
+                    <signed>Hirt</signed>
+                    <dateline>den 12 May 18.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

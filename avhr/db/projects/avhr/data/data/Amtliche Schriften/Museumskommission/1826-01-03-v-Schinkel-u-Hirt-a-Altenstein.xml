@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_iwc_kpw_lkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an Staatsminister von Altenstein. Berlin, 3.
+                    Januar 1826</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4,
+                                Bl. 168r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1826-01-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_kxx_y2p_lkb"/>
+                </correspContext>
+                <note>Hirt egh. - Empfängerbemerkungen: "Cito / B / pr d 4/1 26 / H v Harlem";
+                    Aktenvermerk "38. B. J.", "Berlin Wissens. S. 41. vol. IV."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Die <rs type="artwork" key="prov_vql_hkp_lkb">Sammlung</rs> von <hi rendition="#aq"><placeName key="ed_ktz_zfb_qkb">Malmaison</placeName></hi> war früher
+                    nicht unberühmt. Aber was iezt die <persName key="ed_sly_wgp_lkb">Brüder <hi rendition="#aq">Frommel</hi></persName> unter diesem Namen anbieten,
+                    scheint nur ein wenig zu beachtender Überrest hievon zu seyn. Bekanntlich
+                    giengen die besten Sachen aus <hi rendition="#aq">Malmaison</hi> nach <hi rendition="#aq"><placeName key="ed_pcz_2hj_xv">Petersburg</placeName></hi>.</p>
+                <p>Das gedruckte Verzeichniß ist wenig anlockend, weder in Hinsicht der Namen, noch
+                    der Gegenstände. Die beßern Meister haben wir alle bereits in mehrern Exemplaren
+                    in der <rs type="artwork" key="prov_vch_fyb_f3b">königl<ex>ichen</ex>
+                        Sammlung</rs>.</p>
+                <p>Unsere Ansicht geht also dahin, daß es kein Nachtheil für das <rs type="artwork" key="prov_p5w_rw2_gjb">K<ex>önigliche</ex>
+                        <hi rendition="#aq">Museum</hi></rs> seyn werde, wenn man das Anerbieten der
+                        <persName key="ed_sly_wgp_lkb">Brüder <hi rendition="#aq">Frommel</hi></persName> gänzlich ablehnt.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">Januar</hi> 1826.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

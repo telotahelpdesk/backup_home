@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jmd_jl3_px">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Aubin Louis Millin de Grandmaison.</title>
+                <title> Berlin, 29. Juli 1815.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Bibliothèque nationale de France, Paris</institution>
+                        <collection>FRANCAIS</collection>
+                        <idno>
+                            <idno type="shelfmark">24690 ff, Bl. 103 r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1815-07-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o42_5tg_yv">Millin de Grandmaison, Aubin Louis (1759-1818)
+                        (franz. Archäologe)</persName>
+                    <placeName key="prov_tnd_dt1_5v">Paris</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_et3_hvl_qx"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin ce 29 Juillet 1815.</dateline>
+                    <salute>Monsieur,</salute>
+                </opener>
+                <p>je profite de l'occasion du voyage de <seg type="comment">
+                        <orig>
+                            <persName key="ed_lsq_tdd_lw">Mr. Becker</persName>
+                        </orig>
+                        <note xml:id="np4p_ntl_qx">August Immanuel Bekker, Schüler von Friedrich
+                            August Wolf, war seit 1810 Professor für klassische Philologie an der
+                            Berliner Universität und seit 1815 OM der Berliner Akademie der
+                            Wissenschaften. Wie auch Hirt gehörte er der Griechischen Gesellschaft
+                            (Graeca) an. In Vorbereitung einer von der Akademie initiierten
+                            kritischen Ausgabe des Aristoteles besuchte Bekker die großen
+                            Bibliotheken Europas, u.a. in Italien, Paris, Oxford, Cambridge und
+                            London.</note>
+                    </seg>, mon collegue, pour vous adresser cette lettre en reponse <seg type="comment">
+                        <orig>des plusieurs envoys que j'ai reçûs de votre part</orig>
+                        <note xml:id="nyx3_1vl_qx">Briefe erschlossen:
+                            [1815-07-vor29x-v-Millin].</note>
+                    </seg>. Je m'interesse toujours infinement à tout' ce qui regarde et votre
+                    personne et vos études. <seg type="comment">
+                        <orig>J'aurais desiré de parcourir avec vous la belle <placeName key="prov_vxr_xxr_js">Italie</placeName>
+                        </orig>
+                        <note xml:id="nyxx_zwl_qx">Millin hatte 1811 bis 1813 zum zweiten Mal
+                            Italien bereist.</note>
+                    </seg>, et je suis très curieux des recherches que vous en donnerez au public.
+                    Vous êtes infatigable pour le bien des lettres, et vous meritez les suffrages
+                    que les vrais lettres de tous les pays vous accordent d'une voix unanime. Je
+                    n'ai actuellement que <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_wx4_3mm_fw ed_wgw_vmm_fw">deux petites pièces</bibl>
+                        </orig>
+                        <note xml:id="ntm2_gyl_qx">Vermutlich die beiden 1815 in den
+                            Akademieschriften erschienenen Beiträge "Von den Aegyptischen Pyramiden
+                            überhaupt, und von ihrem Baue insbesondere" und "Versuch über den
+                            allmähligen Anbau und Wasserbau des alten Aegyptens".</note>
+                    </seg> qui ont parû depuis peu que je puisse vous envoyer de ma part.
+                    Recevez-les comme une marque de mon sincère attachement pour vous. Elles
+                    regardent <placeName key="prov_oxg_n4j_2v">l'Egypte</placeName>, et dans ce
+                    rapport elles peuvent meriter votre attention. On imprime actuellement le second
+                    volume de mon 
+                        <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_hvy_vtf_yv">
+                                <hi rendition="#u">Bilderbuch</hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="nzh5_zyl_qx">Der erste Teil war 1805
+                            erschienen.</note>
+                    </seg>
+                      que j'avais fini depuis longtems; mais nos libraires furent par le
+                    despotisme militaire de <persName key="prov_ilt_bml_tv">Bonaparte</persName> qui
+                    pesait tant sur tous les esprits, tellement découragés qu'ils recoulaient de
+                    toute entreprise un peu couteuse. Grace à nos <seg type="comment">
+                        <orig>Souverains réunis de <placeName key="prov_ebw_npv_rv">l'Europe</placeName>
+                        </orig>
+                        <note xml:id="nagf_nzl_qx">Auf dem Wiener Kongress, der unter Leitung des
+                            österreichischen Außenministers Fürst von Metternich vom 18. September
+                            1814 bis zum 9. Juni 1815 stattfand.</note>
+                    </seg> qui veulent rendre la paix et la tranquillité aux nations, en etablissant
+                    un juste equilibre des forces parmi les grandes puissances. Les peuples de
+                        <placeName key="prov_ebw_npv_rv">l'Europe</placeName> doivent s'aimer entre
+                    eux, et il n'est <add place="superlinear">pas</add> juste qu'un joue le maitre
+                        <del rendition="#s">se</del> des autres, et les tracasse à son gré. Je suis
+                    faché des causes qui ont emmené pour <seg type="comment">
+                        <orig>la seconde fois nos troupes victorieuses dans vos mûrs</orig>
+                        <note xml:id="nvxh_cbm_qx">Nach der siegreichen Schlacht bei Paris am 30.
+                            März 1814, die zur Abdankung Napoleons führte, zogen der russische Zar
+                            und der preußische König am 31. März 1814 in Paris ein. Zum zweiten Mal
+                            zog der preußische König Friedrich Wilhelm III., zusammen mit Zar
+                            Alexander I. und Kaiser Franz I. von Österreich, nach der Schlacht von
+                            Waterloo, die Napoleons Einhunderttage-Herrschaft beendete und seinen
+                            endgültigen Sturz besiegelte, in Paris ein. Blücher und die preußischen
+                            Truppen hatten Napoleon nach der Schalcht bis Paris verfolgt und
+                            besetzten die Stadt am 7. Juli; am 9. Juli langten die drei verbündeten
+                            Monarchen mit ihrem Gefolge in Paris an; am 20. November 1815 wurde der
+                            Zweite Pariser Frieden unterzeichnet. </note>
+                    </seg>; mais c'etait un mal nécessaire pour un gain infini et durable.
+                    L'histoire de notre tems a donné des grandes leçons; j'espere que l'avenir en
+                    profitera. <pb n="2"/>
+                </p>
+                <p>Je suis curieux de savoir ce que le conseil des Souverains decidera sur le sort
+                    des antiques et des tableaux. Selon mon avis toutes ces choses devraient rester
+                    réunies ensembles, mais <add place="superlinear">être</add> transportées à
+                        <placeName key="prov_vkl_ndl_js">Rome</placeName>, pour en former dans cette
+                    ville eternelle un musée pour toutes les nations: <subst>
+                        <del rendition="#s">et qui</del>
+                        <add place="superlinear">ce musée</add>
+                    </subst> devait être sous la garantie de tous les Souverains de l'Europe.
+                        <placeName key="prov_vkl_ndl_js">Rome</placeName> est le seul endroit, où on
+                    peut bien etudier ces choses-là; tout y inspire et c'est dans cette ville-là, où
+                    on peut comparer tous les monumens entre eux; et ce sont seulement les vraies
+                    comparaisons qui donnent des grands resultats pour l'illustration de l'histoire
+                    des anciens peuples, et des beaux arts. J'ai exposé pleinement mes raisons <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_ftc_sq1_5v">dans un memoire</bibl>
+                        </orig>
+                        <note xml:id="nwlp_ggm_qx">Bemerkungen über einen Aufsatz in der Allgemeinen
+                            Litteratur-Zeitung von Jena, die Verpflanzung der alten Monumente von
+                            Rom nach Paris betreffend. In: Eunomia, 1801, Bd. 1, S. 309-342.</note>
+                    </seg>, imprimé, il y a environ douze ans, sur le dommage que <seg type="comment">
+                        <orig>les rapinages de <persName key="prov_ilt_bml_tv">Bonaparte</persName>
+                        </orig>
+                        <note xml:id="nl3k_lgr_qx">Der
+                            französische Kunstraub in Rom erfolgte 1797 bis 1799 in zwei Etappen.
+                            "Zuerst musste der Kirchenstaat aufgrund des Waffenstillstandsabkommens
+                            von Bologna vom 23.6.1796 sowie jenes von Tolentino vom 19.2.1797 an die
+                            Französische Republik 100 ausgewählte Kunstwerke abgeben. Diese wurden
+                            in fünf Konvois am 11.4., 12.5., 10.6., 4.7. und 7.7. 1797 aus Rom
+                            abtransportiert" (vgl. "Legrand Galeries des antiques, ou esquisses des
+                            statues, bustes et bas-reliefs, fruit des conquêtes de l'Armée
+                            d'Italie". Paris 1803). "Die zweite Etappe fand während der über
+                            einjährigen Besetzung Roms durch französische Truppen ab dem Februar
+                            1798 statt. In diesem Zeitraum herrschte ein faktisch rechtloser
+                            Zustand, der es den Franzosen ermöglichte, Kunstschätze zu plündern"
+                            (Peter Johannes Weber: Ein Kunstexport von Rom nach Dresden am Ende des
+                            18. Jahrhunderts. In: KUR 5/2008, S. 112:
+                            http://www.art-and-law.com/images/art_element/5_kur-2008/download.pdf;
+                            Version vom 18.10.2016).</note>
+                    </seg> et de ses complices devaient
+                    necessairement causer à l'etude soit des antiquités, soit des beaux arts. Je
+                    vous ecris tout cela avec franchire, car je ne peux pas me persuader qu'il y ait
+                    un seul vrai connaisseur ou des antiquités ou des arts qui ne soit de mon avis.
+                    -</p>
+                <p>Pardonnez, Monsieur, cette longue epître, et soyez persuadé de mon sincere
+                    attachement, et de la haute estime que je porterai toujours pour vous <lb/>Votre
+                    très obeissant <lb/>serviteur</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

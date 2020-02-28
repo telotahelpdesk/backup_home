@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_fk4_mby_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Friedrich von Matthisson. Rom, 5. Januar 1796. Dienstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 170: Eintrag 5. Januar 1796: „Als ich wie
+                    gewöhnlich frühstückte und mich zum Ausfahren bereitete, schickte M[atthisson]
+                    einen Zettel, den Hirt ihm schrieb, als Entschuldigung, er sey krank und könne
+                    nicht mit uns aus.“</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-01-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_myp_lbv_35">Neapel</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

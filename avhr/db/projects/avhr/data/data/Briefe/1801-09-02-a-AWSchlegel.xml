@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_qwc_q5j_5z">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An August Wilhelm Schlegel. Berlin, etwa Herbst 1801]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: A. W. Schlegel an Goethe, Berlin, 19. Januar 1802: "Hirt hält
+                    Vorlesungen [...] Er hat mich dazu eingeladen, wie ich ihm zuvor eine Carte zu
+                    den meinigen geschickt"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1801-09-02" notAfter="1802-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_htp_dkz_jv">Schlegel, August Wilhelm (von) (1767-1845)
+                        (Literaturhistoriker und -kritiker, Übersetzer, Altphilologe, Indologe,
+                        Bruder von Friedrich Schlegel)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Die Vorlesungen des Wintersemesters 1801/02 begannen ??? 1801.
+                    Die Einladung wurde vermutlich kurz vorher, etwa Herbst 1801, verfasst.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

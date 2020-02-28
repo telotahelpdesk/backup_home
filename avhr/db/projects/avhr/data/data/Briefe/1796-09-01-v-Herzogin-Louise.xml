@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_llj_lzw_31b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Louise von Anhalt-Dessau. Dresden, 1. September 1796.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>LHASA, Abt. Dessau</institution>
+                        <collection>Die originalen Tagebücher der Fürstin Louise von
+                            Anhalt-Dessau</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">A 9 e Nr. 15 (5), Bl. 48 r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_cnf_bpl_cv">Anhalt-Dessau, Louise Wilhelmine Henriette
+                        Fürstin von, geb. Prinzessin von Brandenburg-Schwedt (1750-1811) (Tochter
+                        des Markgrafen Heinrich Friedrich von Brandenburg-Schwedt, seit 1767 verh.
+                        mit Leopold III. von Anhalt-Dessau, 1795-96 Italienreise, Hirts
+                        Kursteilnehmerin in Rom, Freundin Hirts)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                    <date when="1796-09-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <note>Loser Zettel im Tagebuch Nr. 15 (5) der Fürstin, versehen mit Adresse, Datum
+                    und Siegel. Egh. Schreiben der Fürstin; die Adresse mit der ungewöhnlichen
+                    Namensschreibung "Hirth" mit "th", die die Fürstin bei Aloys Hirt sonst nie
+                    verwendet, stammt möglicherweise von einem Schreiber.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Sr: des Herrn Hirth / Wohlgeb:</addrLine>
+                    </address>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Die Veränderung der Lage läst für die Zukunft keine Weitere
+                            Communication zwischen der Demoiselle <persName key="ed_kll_3g1_k1b">Mari Alberti</persName> und der F[ürstin] von D[essau] zu.</orig>
+                        <note xml:id="nsnm_l1x_31b">Sachverhalt unklar. - Möglicherweise ist die
+                            Malerin Maria Alberti (1767-1812) gemeint, die zwischen 1795 und 1802
+                            die Kunstakademie Dresden besuchte und vielseitige Kontakte zu Künstlern
+                            der Romantik hatte. Sie war als Porträtistin, Kopistin und Malerin
+                            religiöser Bilder tätig. Ihre Lehrer in Dresden waren Anton Graff und
+                            Franz Gareis. Sie war befreundet mit Daniel Chodowiecki und dessen
+                            Tochter in Berlin, mit Philipp Otto Runge und Dora Stock in Dresden, mit
+                            Novalis und den Brüdern Schlegel. Ob Alberti einen Auftrag der Fürstin
+                            Louise ausführte, konnte nicht ermittelt werden. - Maria Alberti stellte
+                            1804 auf der Weimarer Kunstausstellung eine Kopie von "Maria mit dem
+                            Kinde aus Holbeins vortrefflichem Familien-Gemählde in der Galerie zu
+                            Dresden" aus, das von Goethe in der Jenaischen Allgemeinen
+                            Literatur-Zeitung 1805, Bd. 1, S. VII, lobend besprochen wurde. Zu
+                            Alberti siehe: Heinz Jansen (Hrsg.): Briefe aus dem Stolberg- und
+                            Novalis-Kreis. Nebst Lebensbild und ungedruckten Briefen von Tiecks
+                            Schwägerin, der Malerin und Ordensoberin Maria Alberti. Münster 1932 (=
+                            Westfälische Briefwechsel, Bd. II).</note>
+                    </seg>
+                </p>
+                <p>Hierbey übersendet diese derselben noch die Summe von 300 <unclear reason="illegible" cert="">rthr</unclear> [?] welche nach belieben von
+                    genannter Demoiselle möge verwendet werden für die Zukunft findet kein Ansuchen
+                    zu fernern Unterstützung statt</p>
+                <closer>
+                    <signed>Dresde 1<hi rendition="#sup">ter</hi> Sept: 96.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

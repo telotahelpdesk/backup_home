@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_rvv_skx_hkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Ministerium für Geistliche, Unterrichts- und
+                    Medizinalangelegenheiten. Berlin, 22. Dezember 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 97r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Hirt egh. - Empfängerbemerkungen: "Cito / pr d 23/12 24 / H v Harlem / 157.";
+                    Aktenvermerk "2269. B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p><hi rendition="#u"><hi rendition="#aq">Promemoria</hi></hi>.</p>
+                <p>Zu zwey verschiedenen Malen Allerhöchsten Orts beauftragt, die <rs type="artwork" key="prov_vch_fyb_f3b">Kunstgegenstände</rs> in den <rs type="artwork" key="prov_dmb_fmd_wjb">königlichen Schlößern</rs> zu <placeName key="prov_ycp_cpr_js"><hi rendition="#aq">Berlin</hi></placeName>, <hi rendition="#aq"><placeName key="prov_lh2_hxd_2v">Potsdam</placeName></hi>
+                    und <hi rendition="#aq"><placeName key="ediarum_zl2_55t_ngb">Charlottenburg</placeName></hi> zu revidiren, habe ich, wie ich schon
+                    früher anzeigte, bedeutende Auslagen gehabt, um deren Wiedererstattung ich ein
+                    hohes <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi> gehorsamst bitte.</p>
+                <p>Das erstemal brachte ich in Begleitung der Professoren <hi rendition="#aq"><persName key="ed_p41_xpz_lw">Rauch</persName></hi> und <hi rendition="#aq"><persName key="ed_dqk_fnp_thb">Kubeil</persName></hi> drey
+                    Tage in <hi rendition="#aq"><placeName key="prov_lh2_hxd_2v">Potsdam</placeName></hi> zu, und mit <seg type="comment">
+                        <orig>eben denselben</orig>
+                        <note xml:id="njcp_2mx_hkb"><persName key="ed_p41_xpz_lw">Rauch</persName>
+                            und <persName key="ed_dqk_fnp_thb">Kuhbeil</persName>.</note>
+                    </seg> hatte ich die Fahrt nach <hi rendition="#aq"><placeName key="prov_exj_j2r_gv">Charlottenburg</placeName></hi> zweymal zu
+                    machen.</p>
+                <p>Das zweytemal ward ich außer einem Bedienten von Herrn Prof. <hi rendition="#aq"><persName key="ed_p41_xpz_lw">Rauch</persName></hi> allein begleitet,
+                    und brachte zwey Tage in <hi rendition="#aq"><placeName key="prov_lh2_hxd_2v">Potsdam</placeName></hi>, und einen Tag in <hi rendition="#aq"><placeName key="prov_exj_j2r_gv">Charlottenburg</placeName></hi> zu.
+                    Ich bemerke zugleich, daß um nach den verschiedenen Schlößern in <hi rendition="#aq"><placeName key="prov_lh2_hxd_2v">Potsdam</placeName></hi>
+                    hin und her zu fahren, ein Miethswagen nöthig war.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 22 <hi rendition="#aq">December</hi> 1824.</dateline>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zzh_wcn_bkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 8.
+                    Juli 1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 80r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-07-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_g11_nzb_1kb"/>
+                    <ref type="next" target="hirt_bdv_kqn_bkb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, von Schreiberhand mit egh. Unterschriftskürzel
+                    von Altenstein. - Bearbeitungsvermerke: "<hi rendition="#u">cito!</hi>";
+                    Mundierungs- und Abgangsvermerk "9/6." [sic!]; Aktenvermerk "Ad num. 63. / 1421.
+                    B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qnr_4nm_pgb">Kunstmuseum – Restaurierungen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren Geheimen Oberbaurath / Schinkel und Hofrath Hirt,
+                            / Hochwohl- und Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 8 Julius, 1824.</dateline>
+                </opener>
+				<p>Es ist mir sehr angenehm gewesen, aus Ew. Hochwohl und Wohlgeboren gefälligem Schreiben vom
+                    24. v<ex>origen</ex> M<ex>onats</ex> zu erfahren, daß die bisherigen Leistungen
+                    der Herren <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi> und <hi rendition="#aq"><persName key="ed_sg3_1gm_wjb">Köster</persName></hi> dem Rufe ihrer
+                    ausgezeichneten Geschiklichkeit im <hi rendition="#aq">Restauriren</hi>
+                    entsprochen haben. Da die Fortsetzung ihrer Arbeit für die Herstellung der
+                    königlichen <rs type="artwork" key="prov_gky_hx2_gjb">Gemälde</rs> von der
+                    größten Bedeutung ist: so ersuche ich Sie ergebenst, die zwekmäßigste
+                    Verlängerung des mit denselben abgeschloßenen halbjährigen Vertrages baldigst
+                    bewürken und für den ungestörten Fortgang der Arbeiten in dem
+                    Restaurations-Atelier Sorge tragen zu wollen, wobei ich denn auch gerne
+                    genehmige, daß die Maler <hi rendition="#aq"><persName key="ed_akp_ltc_1kb">Waagen</persName></hi>, <hi rendition="#aq"><persName key="ed_grn_b5c_1kb">Pellissier</persName></hi> und <hi rendition="#aq"><persName key="ed_kd2_lwc_1kb">Kromayer</persName></hi> gegen 1 ½
+                        r<ex>eichs</ex>th<ex>a</ex>ler Taggelder unter Leitung der genannten
+                    Restauratoren in dem Atelier beschäftigt werden.</p>
+				<closer>
+                    <signed>(Namens Sr. Excellenz) <ex><lb/>[gez.]</ex>
+                        A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

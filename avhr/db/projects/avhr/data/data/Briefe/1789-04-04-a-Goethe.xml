@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_atz_2kf_f5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe. Rom, den 4. April 1789. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/1041, Bl. 197 f.</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Otto Harnack (Hg.): Zur Nachgeschichte der
+                            italienischen Reise. (= Schriften der Goethe-Gesellschaft, 5), S.
+                            160-163, Nr. 67.</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" n="2">Goethe-Regestausgabe 1/352.</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759 - 1837) </persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1789-04-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von (1749 - 1832)
+                    </persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 4<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> April 1789.</dateline>
+                    <salute/>
+                </opener>
+                <p>Noch bin ich Ihnen meinen Dank schuldig, daß Sie mich so vortrefflichen Menschen
+                    wie <persName key="prov_hy4_jx2_rs">Herder</persName> und <persName key="prov_hhb_cyw_g5">Dalberg</persName> sind, <seg type="critical">
+                        <orig>empfehlen wollten</orig>
+                        <note xml:id="nt11_wjb_z5">Vgl. Goethes Brief an Herder aus Konstanz, 5.
+                            Juni 1788 [?]: »Wenn ihr einen Antiquar braucht, wie Ihr denn einen
+                            braucht, so nehmt einen Deutschen, der Hirt heißt. Er ist ein Pedante,
+                            weiß aber viel und wird jedem Fremden nützlich sein. Er nimmt des Tages
+                            mit einer Zechin vorlieb. Wenn Ihr ihm etwas mehr gebt, so wird er
+                            dankbar sein. Er ist übrigens ein durchaus redlicher Mensch« (zitiert
+                            nach Herder 2003 S. 10–11). Das Postskriptum des Briefes lautet:
+                            »Wahrscheinlich wird Euch Hofrat Reiffenstein an einige Orte führen. Ich
+                            empfehle Hirten also zum Supplemente«.</note>
+                    </seg>. <seg type="critical">
+                        <orig> Unser Kurs</orig>
+                        <note xml:id="npfx_gbx_z5">Hirt hatte Dalberg, die Frau von Seckendorff und
+                            Herder in Rom unterrichtet. Herder schreibt am 22. Oktober 1788 an seine
+                            Frau Karoline: "Auch hier ist unser Curs halb in der Mitte geendigt, mit
+                            Hirt nämlich. Die Museen, Villen, Gebäude, Ruinen sind so ziemlich
+                            durch, so daß mir eigentlich nur die Villa Pamfili und Mattei noch
+                            fehlet. […] Den halben Curs hielt uns die gnädige Frau so unendlich auf,
+                            daß viele Stunden Vormittags verloren gingen, und Nachmittags ist nie
+                            was gethan worden. Theils war Hirt im Anfange so unerträglich
+                            weitläufig; die zweite Hälfte vom Curs waren wir Männer meistens allein,
+                            da gings schneller. Dalberg war aber müde, die Frau trieb ihn auch vor
+                            der Hand zu endigen; ich selbst wünschte es, weil ich überfüllt war, und
+                            nach solchen ermüdenden Zerstreuungen nothwendig einer Einkehr bedarf;
+                            also ist er vor der Hand abgelohnt, und der Curs wird schwerlich mehr
+                            fortgesetzt werden, aus dem auch nichts herauskommt. Jetzt hole ich für
+                            mich nach, wiederhole, und sehe mit Hirt weiter […]" (Herder-Briefe, Bd.
+                            6, S. 65/66). Am 28. Oktober 1788 meldet er an Dieselbe: "Montag trat
+                            ich denn allein mit Hirt meinen Curs an, und besah das Museum im
+                            Capitol, das ich noch nicht gesehen hatte. […] dafür hat mich Hirt mit
+                            einer langen Vorlesung im Bett beglückt, der mich überhaupt sehr quälet.
+                            Er ist indeß wieder so dienstfertig, und ich brauche ihn so sehr, daß
+                            ich ihn tragen muß, ob er mich gleich hart ennuyret. Er ist ein
+                            hölzerner Mensch, und war mir im Grunde von Anfang an zuwider; er weiß
+                            indessen viel und ist ein armer Teufel; man muß ihn dulden. Er thut mir
+                            alles zu Gefallen, obgleich immer nicht viel herauskommt, indem man mit
+                            ihm nicht von der Stelle kommt." (Ebd., S. 68).</note>
+                    </seg> würde vollkommen gut von statten gegangen seyn, wenn nicht öftere
+                    Unpäßlichkeiten der <persName key="prov_r3y_1vh_55">Dame</persName> in der
+                    Gesellschaft denselben unterbrochen hätte. Ich muß indeßen auch dieser <persName key="prov_r3y_1vh_55">Dame</persName> alle Gerechtigkeit wiederfahren laßen,
+                    obwohl ihr Geschmak mehr für das Moderne als das Antike zu seyn scheinet. Ihre
+                    Frage war öfters nach Ihnen, und sie schien nichts so sehnlich zu wünschen, als
+                    daß <del rendition="#s" next="Sie">noch</del> Sie noch möchten hier
+                    geblieben seyn. <persName key="prov_hhb_cyw_g5">Dalberg</persName> ist eine gute
+                    Seele; wie sehr verdiente er in einer beßern und robustern Hülle zu steken! — In
+                        <persName key="prov_hy4_jx2_rs">Herders</persName> Umgange lerne ich noch
+                    täglich, und sein offenes Gemüth gegen mich hat all mein Zutrauen gewonnen; ich
+                    könnte meine größten Sünden vor ihm bekennen. <seg type="critical">
+                        <orig>Auch corrigirt er mich</orig>
+                        <note xml:id="nuly_z1x_z5">Herders ambivalentes Verhältnis zu Hirt spiegelt
+                            sich in seinen Briefen wider: einerseits schätzte er dessen
+                            Ortskenntnisse und Gelehrsamkeit, andererseits hielt er ihn für einen
+                            weitschweifigen, trockenen Pedanten und sah in ihm (im Vergleich mit
+                            Zoega) nur einen "leeren Topf und eine klingende Schelle"
+                            (Herder-Briefe, Bd. 6, S. 78). Zwischenzeitlich besserte sich Herders
+                            Meinung über Hirt, um wenig später wieder in ein Verdikt zu münden. An
+                            Goethe schreibt er am 3. Dezember 1788: "[…] der Mensch [=Hirt] beßert
+                            sich gewaltig u. er hat mir einige Sachen, z. E. über Drouet u. F.… (nun
+                            wie heißt der alte Mahler, deßen Bild in der Minerva an der Einen Thür
+                            stehet?) geschrieben, die recht brav sind. Es wird ein nützlicher Mensch
+                            in der historischen Kunststatistik aus ihm werden. Ich treibe u. hobele
+                            ihn gewaltig, u. er hat viel von mir zu leiden, welches er alles aber
+                            recht gut aufnimmt. Er hat mir viele Gefälligkeiten erwiesen, u. Du
+                            stehest bei ihm hoch droben. Er führt jetzt eine Liefländerin mit ihrer
+                            Familie, u. ich sehe ihn also wenig." (Herder-Briefe, Bd. 6, S.
+                            92).</note>
+                    </seg>, und vielleicht ist seither mein Starrsinn etwas leidentlicher
+                    geworden.</p>
+                <p>Auch danke ich Ihnen für Ihre gütige Fürsprache bey der <persName key="prov_qn2_zhp_5r">Herzogin</persName>, der <persName key="prov_oxg_rvh_55">Fräulein</persName> und dem <persName key="prov_o3j_dwh_55">Kammerherrn</persName>. Ich darf öfters meine
+                    Aufwartung machen. Die Herzogin hatte <pb n="2"/> schon die Güte mich
+                    andern Fremden hier zu empfehlen, und Herr von <persName key="prov_o3j_dwh_55">Einsiedeln</persName> hat mich engagirt nach Ostern den Kurs
+                    allein mit ihm zu machen. Ich möchte mich gefällig bezeigen, ohne zudringlich zu
+                    seyn, und ohne Eifersucht anderswo zu erwarten. Auch machte mir H. v. <persName key="prov_o3j_dwh_55">Einsiedeln</persName> schon das
+                    zweyte mal den <seg type="critical">
+                        <orig>Vorschlag späterhin mit nach <placeName key="prov_myp_lbv_35">Neapel</placeName> zu gehen</orig>
+                        <note xml:id="noyj_dkb_z5">Hirt folgte der Reisegesellschaft, die sich seit
+                            Mai 1789 zum zweiten Mal in Neapel aufhielt,  gemeinsam mit dem Maler
+                            Friedrich Bury im September 1789 nach. Louise von Göchhausen vermerkt am
+                            24.9.1789 in ihrem Tagebuch: "Abends Hird, Bury, Burmann und Robert mit
+                            Knieb, erstere waren von Rom angekommen" (Brandsch, S. 104; s. auch
+                            Zimmer 1999 S. 136).</note>
+                    </seg>; ich werde mich <del rendition="#s" next="nach">späterhin</del>
+                    nach Umständen dieser Güte bedienen.</p>
+                <p>Andere Fremde, die ich kennen lernte, und mich höchst intereßirten, ist eine
+                    rußische od<ex>er</ex> vielmehr <seg type="critical">
+                        <orig>liefländische Dame von <persName key="prov_zdd_qwh_55">Kroote</persName>, mit ihrer Familie</orig>
+                        <note xml:id="nwgq_lkb_z5">Herder hatte Hirt an die Familie von Grote
+                            empfohlen, die dieser Ende 1788 bis Anfang 1789 führt, vgl. Herder 2003
+                            S. 227. In einem Brief Herders an Caroline Herder vom 22. November 1788
+                            heißt es: »Hirt fängt künftige Woche mit einer Livländischen Familie,
+                            den Kurs an. Es ist mir lieb, u[nd] ich habe ihn aufs beste empfohlen«.
+                            (Ebenda S. 254; Herder auch an Goethe (3. Dezember 1788).</note>
+                    </seg>, das heißt <persName key="prov_pwk_yyh_55">einer Tochter</persName> von
+                        1<unclear>2</unclear>, und <persName key="prov_ugk_dzh_55">einer
+                        andern</persName> von 11 Jahren, <persName key="prov_ehs_d3b_z5">ihrem
+                        Sohn</persName> und <persName key="prov_p25_h3b_z5">deßen
+                        Hofmeister</persName>. Ich brachte zwey Monat mit denselben zu. Leute, die
+                    mehr vorbereitet, und für das hohe Schöne empfänglicher sind, giebt es wohl
+                    nicht leicht. Mutter und Tochter sind Wunder von Liebenswürdigkeit, und
+                    Verstand; man weiß nicht, ob man die Erzieherin, od<ex>er</ex> die Erzogene mehr
+                    verehren soll. Die Entfernung kostet mich manchen Seufzer. — Jezt begleite ich
+                    einen jungen <placeName key="prov_nmb_wnb_z5">Preußen</placeName>
+                    <seg type="critical">
+                        <orig>
+                            <persName key="prov_ll4_nnb_z5">H von Schak</persName>
+                        </orig>
+                        <note xml:id="nq3b_y4b_z5">Baron von Schack wird im Tagebuch von Louise v.
+                            Göchhausen erstmals am 19. Dezember 1788 erwähnt; er war mehrmals, auch
+                            gemeinsam mit Hirt, bei der Herzogin Anna Amalia in Rom zu Gast und
+                            verbrachte mit ihrer Reisegesellschaft einige Zeit in Neapel. Ende April
+                            1789 reiste er von Neapel nach Rom ab.</note>
+                    </seg>, einen Herrn von <persName key="prov_j4r_2qb_z5">Graßer</persName> aus
+                        <placeName key="prov_hrq_zzg_y5">Wien</placeName>, <seg type="critical">
+                        <orig>
+                            <persName key="prov_wd2_xqb_z5">Borell</persName>
+                        </orig>
+                        <note xml:id="ndyy_brb_z5">Der junge Boreel hielt sich zusammen mit seinen
+                            Eltern in Rom auf. Er war mehrmals zu Gast bei der Reisegesellschaft von
+                            Anna Amalia.</note>
+                    </seg> einen jungen <placeName key="prov_hll_2st_y5">Holländer</placeName> mit
+                    seinem <pb n="3"/> Hofmeister <persName key="prov_xxm_2sb_z5">Gervinus</persName>, der ein vortrefflicher Mann ist, und mir sagt, <seg type="critical">
+                        <orig>daß er Sie noch von der Universität <placeName key="prov_lxk_b4b_z5">Leipzig</placeName> her kenne</orig>
+                        <note xml:id="ndxk_gtb_z5">Goethe hatte im Herbst 1765 an der Universität
+                            Leipzig ein Jurastudium begonnen. Infolge einer schweren Erkrankung
+                            musste er im Sommer 1768 nach Frankfurt zurückkehren. - 1768 kam Karl
+                            August von Hardenberg mit seinem Hofmeister Gervinus zum Studium nach
+                            Leipzig, wo diese Goethe kennenlernten.</note>
+                    </seg>. Und so gehen die Sachen immer beßer. Ich werde auch nie verkennen, daß
+                    ich alles dieß ursprünglich <add place="superlinear">Ihnen</add> zu verdanken
+                    habe. Kleine Kabalen, die mir noch immer gespielt werden, suche ich unbemerkt zu
+                    übergehen. Ich lerne immer mehr, wie eine kluge Biegsamkeit ohne Erniederung
+                    immer beßer hilft, als der uns nur zu gewöhnliche Starre Biedersinn.</p>
+                <p>Ich erwarte mit viel Ungedult die <unclear>End</unclear>antwort von <persName key="prov_j22_nb3_g5">Moritz</persName> auf meine <del rendition="#s" next="ihm">s</del> ihm schon im vorigen Jahre überschickten Manuskripte. Ich
+                    fürchte für die Zerstörung <seg type="critical">
+                        <orig>unseres <bibl sameAs="prov_xwk_spz_v5">Planes</bibl>
+                        </orig>
+                        <note xml:id="nhnj_b5b_z5">Die Herausgabe der Zeitschrift "Italien und
+                            Deutschland" in Berlin.</note>
+                    </seg>, da er <seg type="critical">
+                        <orig>als Prof.</orig>
+                        <note xml:id="ncfc_k5b_z5">Karl Philipp Moritz hatte auf Fürsprache von
+                            Herzog Karl August von Sachsen-Weimar und Eisenach 1789 eine Professur
+                            der Theorie der schönen Künste an der Königlich-Preußischen Akademie der
+                            Künste und mechanischen Wissenschaften in Berlin erhalten.</note>
+                    </seg> nur <seg type="critical">
+                        <orig>Mitarbeiter des Journals der Accademie</orig>
+                        <note xml:id="ni1k_qvb_z5">In der "Monats-Schrift der Akademie der Künste
+                            und mechanischen Wissenschaften zu Berlin", hrsg. von Karl Philipp
+                            Moritz und J. A. Riem (Bd. 1-3, Berlin 1788-1789) erschienen folgende
+                            Beiträge von Moritz: In wie fern Kunstwerke beschrieben werden können?
+                            (2. Bd., 1788, S. 159-168 und S. 204-210; 2. Jg., 1789, S. 3-5). - K. P.
+                            Moritz: Ueber die Würde des Studiums der Alterthumer. (2. Jg., 1789, S.
+                            13-17). - Sind die architektonischen Zierrathen in den verschiedenen
+                            Säulenordnungen willkührlich oder wesentlich? (2. Jg., 1789, S. 29-34).
+                            - Ueber die Allegorie (2. Jg., 1789, S. 49-54). - Vom Isoliren, in
+                            Rücksicht auf die schönen Künste überhaupt (2. Jg., 1789, S. 66-69). -
+                            Minerva (Jg. 2, 1789, S. 70-73). - Grundlinien zu einer vollständigen
+                            Theorie der schönen Künste (Jg. 2, 1789, S. 74-77). -
+                            <?oxy_comment_start author="motschmann" timestamp="20170310T095137+0100" comment="Disselkamp fragen"?>Möglicherweise
+                            auch<?oxy_comment_end?>: [Anonym]: Nachricht, einige der vorzüglichsten,
+                            neuerlich in Rom verfertigten, Gemählde betreffend. Aus Briefen von Rom
+                            (2. Bd., 1788, S. 92-94 ). - [Anonym]: Ausstellung der Pensionnairs der
+                            französischen Akademie zu Rom" (2. Bd., 1788, S. 237-240).</note>
+                    </seg> ist. Ich hätte <del rendition="#s" next="indessen">I</del> indessen
+                    Ihnen meine <seg type="critical">
+                        <orig>Abhandlung über die Basiliken</orig>
+                        <note xml:id="nu54_kgc_z5">Aloys Hirt: Historisch-Architektonische
+                            Beobachtungen über die christlichen Kirchen. An H. v. G. in W. (mit
+                            Illustr.). In: Italien und Deutschland, 1. Bd., 1. St., 1789, S.
+                            89-96.</note>
+                    </seg> sehr gerne dedicirt, erstlich weil dieselbe <persName key="prov_hy4_jx2_rs">Herder</persName> nebst vielen andern gut findet,
+                    zweytens um Ihnen meine Ergebenheit zu bezeigen, und drittens um unter Ihrem
+                    Schuz mit weniger Furcht zuerst vor dem Publikum aufzutretten. Ich bitte sehr,
+                    wenn Sie in der Folge etwas von meinen Sachen lesen, mir doch mit aller Ihrer
+                    Aufrichtigkeit da und dort ein Wort zu sagen. Ihr Tadel soll mich mehr
+                    aufmuntern, <pb n="4"/> als das Lob vieler.</p>
+                <p>Für die <bibl sameAs="prov_csp_vs1_z5">A<ex>llgemeine</ex>
+                            L<ex>iteratur</ex> Zeitung</bibl> giebt es sehr wenig materie. <seg type="critical">
+                        <orig>Meine lezte Übersendung</orig>
+                        <note xml:id="nqzn_qgc_z5">[Anonym] Kunstsachen [Anzeige Hirts von
+                            Reiffensteins Arbeit:] Ueber die Wachsmalerey der Alten. In: ALZ 1788,
+                            Bd. 3 (= Julius - September), Sp. 111 (= Nr. 167a vom 12.7.1788).</note>
+                    </seg> war im Jenner. Ich ersuchte damals den H <persName key="prov_cgv_j23_35">Prof. Schüz</persName> das Honorarium an Sie zu übergeben,
+                    weil Sie ohne dem immer Kommißionen hieher haben. Seither habe ich von demselben
+                    keine Antwort.</p>
+                <p>Noch eines. Ich habe meine <seg type="critical">
+                        <orig>Bemerkungen über den <rs type="artwork" key="prov_u2q_dhc_z5">
+                                <persName key="prov_o4p_1hc_z5">La<ex>o</ex>koon</persName>
+                            </rs>
+                        </orig>
+                        <note xml:id="nddv_fhc_z5">Der Druck erfolgte erst Jahre später (Laokoon.
+                            In: Die Horen, eine Monatsschrift hrsg. von Schiller. (Jg. 3) 1797 (=
+                            Bd. 12), Stück 10, Tübingen 1797, S. 1-26.- Nachtrag über Laokoon. In:
+                            Ebd., (Jg. 3) 1797 (= Bd. 12), Stück 12, Tübingen 1797, S. 19-28), doch
+                            hat sich Hirt schon seit etwa 1788 mit diesem Thema beschäftigt..</note>
+                    </seg> geschrieben, wovon wenn ich mich recht besinne, ich Ihnen schon in Ihrem
+                    Hierseyn sagte. Allein sie wollen nicht gefallen, und <seg type="critical">
+                        <orig>besonders <persName key="prov_hy4_jx2_rs">Herdern</persName>
+                            nicht</orig>
+                        <note xml:id="nngg_nzw_z5">Über Hirts Aufsatz schrieb Herder am 3. März 1789
+                            aus Rom an seine Frau Karoline: "[…] Hirt zeigt sich von Tage zu Tage
+                            mehr als Phantasten. Er hat neulich eine Abhandlung über den Laokoon
+                            vorgelesen, darin er mit solcher stolzen Keckheit auf Winckelmann und
+                            Lessing losgeht, und überhaupt die ganze Kunst so grobsinnig behandelt,
+                            daß er mein Innres ganz von sich entfernt hat. Er ist ein Kohlstrunk und
+                            wird ein Kohlstrunk bleiben." (Herder-Briefe, Bd. 6, S. 122).</note>
+                    </seg>. Ich finde mich darmit in keiner kleinen Verlegenheit. Die ersten
+                    Question betrift den Moment der Vorstellung; meine meinung ist der <persName key="prov_ujj_shc_z5">Lesingschen</persName> entgegen, daß ich nicht einen
+                        <hi rendition="#u">gemilderten</hi>, sondern den <hi rendition="#u">höchsten</hi> Ausdrucke wahrnehme. Zweytens: daß nicht die stille Ruhe, der
+                    gemilderte Ausdruck, und <del rendition="#s" next="überhaupt">diese</del>
+                    überhaupt diese Art von Schönheit, das erste Grundgesez der bildenden Künste
+                    sey, sondern Bedeutung, Karakteristik, Wahrheit. – Meine Sache ist allerdings
+                    sehr <foreign xml:lang="fr">choquant</foreign> besonders wider <persName key="prov_ujj_shc_z5">Lesing</persName>, <seg type="critical">
+                        <orig>
+                            <persName key="prov_tlq_wlw_z5">Winkelmann</persName>
+                        </orig>
+                        <note xml:id="naqp_j4w_z5">Winckelmann sah die höchste Aufgabe der Kunst
+                            darin, die Schönheit darzustellen. Diese fand er in der antiken
+                            griechischen Kunst verwirklicht, die er als "edle Einfalt und stille
+                            Größe" charakterisierte. Entsprechend hatte Winckelmann auch die
+                            Laokoon-Gruppe aus den Vatikanischen Museen interpretiert: er sah in der
+                            Tatsache, dass Laokoon in seinem Todeskampf nicht schreit, die
+                            Bestätigung seiner These, dass die Griechen grundsätzlich alles
+                            Schmerzhafte und Hässliche aus ihrer Kunst fernhielten (Wikipedia).
+                            "Laokoon war den Künstlern im alten Rom ebendas, was er uns ist: des
+                            Polyklets Regel; eine vollkommene Regel der Kunst […] Das allgemeine
+                            vorzügliche Kennzeichen der griechischen Meisterstücke ist endlich eine
+                            edle Einfalt und eine stille Größe, sowohl in der Stellung als im
+                            Ausdruck. So wie die Tiefe des Meeres allezeit ruhig bleibt, die
+                            Oberfläche mag noch so wüten, ebenso zeigt der Ausdruck in den Figuren
+                            der Griechen bei allen Leidenschaften eine große und gesetzte Seele.
+                            Diese Seele schildert sich in dem Gesichte des Laokoon, und nicht in dem
+                            Gesichte allein, bei dem heftigsten Leiden. Der Schmerz, welcher sich in
+                            allen Muskeln und Sehnen des Körpers entdeckt und den man ganz allein,
+                            ohne das Gesicht und andere Teile zu betrachten, an dem schmerzlich
+                            eingezogenen Unterleibe beinahe selbst zu empfinden glaubt, dieser
+                            Schmerz, sage ich, äußert sich dennoch mit keiner Wut in dem Gesichte
+                            und in der ganzen Stellung. Er erhebt kein schreckliches Geschrei, wie
+                            Virgil von seinem Laokoon singt. Die Öffnung des Mundes gestattet es
+                            nicht; es ist vielmehr ein ängstliches und beklemmtes Seufzen, wie es
+                            Sadolet beschreibt. Der Schmerz des Körpers und die Größe der seele sind
+                            durch den ganzen Bau der Figur mit gleicher Stärke ausgeteilt und
+                            gleichsam abgewogen. Laokoon leidet, aber er leidet wie des Sophokles
+                            Philoktet: sein Elend geht uns bis an die Seele, aber wir wünschten, wie
+                            dieser große Mann das Elend ertragen zu können." (Gedanken über die
+                            Nachahmung der Griechischen Werke in der Malerei und Bildhauerkunst
+                            (Dresden 1755, S. ? Anfang des Aufsatzes). - Lessing versuchte
+                            allerdings in seiner Schrift "Laokoon oder Über die Grenzen der Mahlerey
+                            und Poesie. Mit beiläufigen Erläuterungen verschiedener Punkte der alten
+                            Kunstgeschichte" (Berlin 1766)" zu zeigen, dass der neutrale
+                            Gesichtsausdruck nicht auf diesen Grundsatz, sondern auf den Unterschied
+                            von bildenden Künsten und Literatur zurückzuführen sei.</note>
+                    </seg>, und die <seg type="critical">
+                        <orig>kritischen Walder</orig>
+                        <note xml:id="ntrq_3mw_z5">[Johann Gottfried Herder]: Kritische Wälder. Oder
+                            einige Betrachtungen die Wissenschaft und Kunst des Schönen betreffend,
+                            nach Maasgabe neuerer Schriften. (3 Bde., Riga 1769), Das "Erste
+                            Wäldchen" ist "Herrn Lessings Laokoon gewidmet" und revidiert kritisch
+                            Lessings Aussagen zur griechischen Poesie. </note>
+                    </seg> von <persName key="prov_hy4_jx2_rs">Herder</persName> selbst. Aber da ich
+                    nichts anders <subst>
+                        <del rendition="#ow">gethan habe</del>
+                    </subst> that, als die häufigen Monumente nebeneinander stellen, und den
+                    Gesichtspunkt anzeigen, unter welchem alle Werke der Alten zusammenlaufen; so
+                    weiß ich nicht, was ich machen soll. – Ich empfehle mich Ihrem theuern Andenken
+                    und bin Ihr dankbarer D<ex>iener</ex>
+                </p>
+                <closer rend="paragraph">
+                    <salute/>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_w4x_gsb_sv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 28. Juni 1800. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 19</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1800-06-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_inq_hnc_b1b"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 28<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> Juny 1800.</dateline>
+                    <salute>Geliebter Freund!</salute>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Ihr Brief</orig>
+                        <note xml:id="ncjd_p4c_b1b">Brief erschlossen:
+                            [1800-06-vor28x-v-Böttiger].</note>
+                    </seg> mit der <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_bjq_czj_gv">neuen Sendung</bibl>
+                        </orig>
+                        <note xml:id="npsq_1g3_sv">Der 3. Band von Böttigers "Griechischen
+                            Vasengemälden", die Hirt im Folgenden bespricht.</note>
+                    </seg>, wovon Ihr freundlicher <seg type="critical">
+                        <orig>junger Freund</orig>
+                        <note xml:id="nq1k_fkk_sv">Möglicherweise Heinrich Karl Friedrich Peucer
+                            (1779-1849) gemeint. Er war von Juni 1796 bis 1799 Schüler Böttigers am
+                            Weimarer Gymnasium und danach Student der Rechte und der Philosophie in
+                            Göttingen und ab 1801 in Jena.</note>
+                    </seg>, der ein zweyter <seg type="critical">
+                        <orig>
+                            <persName key="prov_om4_sjk_sv">Sturm</persName>
+                        </orig>
+                        <note xml:id="nzym_gkk_sv">Sturm kam wohl auf Empfehlung Böttigers nach
+                            Berlin. Nachdem er von 1798 bis 1800 an der Universität Jena Ökonomie
+                            und Kameralwissenschaften studiert hatte, wurde er Schüler an der
+                            Bauakademie zu Berlin und hörte Hirts Vorlesungen zur Geschichte der
+                            Baukunst. Für das Winterhalbjahr 1800/1801 sowie 1801/1802 ist er im
+                            Schülerverzeichnis aufgeführt und wird als "fleißig" beschrieben (vgl.
+                            Christiane Salge: Aloys Hirt und die Berliner Bauakademie. In: Hirt-Band
+                            II, S. 138-139). 1800 erschien von ihm in Chemnitz "Mineralogie der
+                            Baukunst".</note>
+                    </seg> zu werden verspricht, Überbringer war, machte mir, so wie alles, was von
+                    Ihnen komt, viel Vergnügen. – Wie ein Vielfraß, fiel ich über Ihre neuen
+                    Erklärungen her, und wohlgenährt, und belehrt über meine Erwartung (obwohl ich
+                    von Ihnen immer vieles erwarte) bin ich <subst>
+                        <del rendition="#ow">da</del>
+                        <add>von</add>
+                    </subst> dem Tische aufgestanden. Es gefällt mir, daß Sie nicht eben eigensinnig
+                    darauf verpicht sind, jedem Kinde einen bestimmten Namen zu schöpfen, und Sie
+                    mehr den allgemeinen Sinn, der sich aus der Darstellung ersehen läßt, zu
+                    erklären suchen. Vorzüglich gefallen mir ihre allgemeinern Excursionen, um den
+                    Ursprung sowohl, als <add place="superlinear" hand="">die</add> allmählige
+                    Ausbildung einer Mythe näher zu beleuchten, wie über Centauren, Amazonen etc. </p>
+                <p>Hier einige meiner Bemerkungen.<lb/>
+                    <hi rendition="#u">1.</hi> Dasjenige, was Sie in der <seg type="critical">
+                        <orig>schönen Spinnerinn</orig>
+                        <note xml:id="ndhk_kzb_sv">Griechische Vasengemälde, 3. Heft, 1800: Zehntes
+                            Vasengemälde. Die schöne Spinnerin. (S. 37-74). Dort schreibt Böttiger
+                            u.a.: "Setze man nur an die Stelle der Minerva die in Minervens
+                            Lieblingkunst, dem Spinnen und Weben, hocherfahrene Frau, die wir auf
+                            unserm Bilde erblicken, und man hört gleichsam auch aus ihrem
+                            bescheidenen Munde: <hi rendition="#g">bringet mir nicht den
+                                Spiegel</hi>. Gewiss es spricht uns ein feiner Gedanke des Mahlers
+                            in dieser einfachen Vorstellung der gehenden und kommenden Dienerin an.
+                            Die <hi rend="spacing">Fortgehende</hi> trägt das Werkzeug des Putzes,
+                            den <hi rend="spacing">Spiegel</hi>. Denn das ist hier völlig
+                            überflüssig. […] Der Spiegel, der auf unsern Vasen überall, wo wir in
+                            die Badezimmer und Putzgemächer der Griechischen Frauen eingeführt
+                            werden, eine so bedeutende Rolle spielt, hat auch hier seine gewöhnliche
+                            eyrunde Gestalt mit dem Griffe, und einer Verzierung oben, die oft einem
+                            Ring oder Kreuze zum Aufhängen gleicht." (S. 43-46) </note>
+                    </seg>, als einen Spiegel ansehen, ist für meine Augen eine Spuhle.<lb/>
+                    <hi rendition="#u">2.</hi> sollte <seg type="critical">
+                        <orig>der Stern</orig>
+                        <note xml:id="nbz4_ryc_sv">Böttiger schreibt dazu: "Sowohl auf dieser [12.
+                            Vasenabbildung] als der vorhergehenden Vasenabbildung erblicken wir oben
+                            in der Mitte den Gott, <hi rendition="#g">der alles siehet und
+                                höret</hi>, wie Homer den Helios oder Sonnengott bezeichnet, mit
+                            wenig Strichen angedeutet. Auf beiden Seiten sehen wir ein Epheublatt
+                            mit drei Kügelchen eingefasst. Wie weit die Begierde, alles aufs
+                            gelehrteste auszulegen, uns verführen könne, beweisen die Bemerkungen,
+                            welche die Hrn. <hi rendition="#g">Hamilton</hi> und <hi rendition="#g">Italinski</hi> über diese Mahlerschnörkel gemacht haben.'Was die
+                            Lichtstrahlen, die Epheublätter und die drei geheimnissvollen Punkte in
+                            dieser und der folgenden Tafel bedeuten, mag der tiefgelehrte
+                            Alterthumsforscher entscheiden.' […] Noch seltsamer klingt die
+                            Erklärung, die Italinski von den Lichtstrahlen über den Kampf des
+                            Hercules mit der Amazone giebt. 'Ich weiss nicht,' sagt er, 'ob die
+                            Strahlen, die man oben auf dem Gemälde erblickt, die erlauchte Geburt
+                            des Hercules anzeigen sollen. Die Chaldäer nannten den Planeten Mars den
+                            Stern des Hercules. Wir haben aber auch noch ein Sternbild, das den
+                            Hercules vorstellt. Einen dieser Umstände hat wahrscheinlich der Mahler
+                            im Sinne gehabt.' / Sollte es bei unbefangenen Beschauern dieser Gemälde
+                            wohl mehr als eines Fingerzeigs bedürfen, dass der Mahler, indem er die
+                            Sonne über diesen Centauren- und Amazonenkampf scheinen lässt, weiter
+                            nichts andeuten will, als: das geschieht im Freyen! Und die
+                            geheimnissvollen drei Punkte neben dem Epheublatt, sind doch offenbar
+                            nichts anders, als die Beeren des Epheu (Corymbi), wie wir aus so vielen
+                            andern Vasen, wo ähnliche Blätter mit ganzen Träubchen dieser Beeren
+                            gleichfals blos als Verzierung oben über den Figuren angebracht sind"
+                            (S. 192-195). </note>
+                    </seg> im <seg type="critical">
+                        <orig>11. u. 12<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> Stück</orig>
+                        <note xml:id="nex2_3bc_sv">Eilftes Vasengemälde. Kampf des Lapithen mit dem
+                            Centauren (S. 75-162). - Zwölftes Vasengemälde. Hercules mit der Amazone
+                            ( S. 163-201). </note>
+                    </seg> nicht auf <seg type="critical">
+                        <orig>constellationen</orig>
+                        <note xml:id="nyfy_l1d_sv">Stand der Gestirne; Sternzeichen.</note>
+                    </seg> zeigen? -<hi rendition="#u">
+                        <lb/>3.</hi> im <seg type="critical">
+                        <orig>13ten St<ex>ück</ex>
+                        </orig>
+                        <note xml:id="nj13_zlc_sv">Dreizehntes Vasengemälde. Hercules mit zwei
+                            Centauren (S. 202-208)</note>
+                    </seg> zeiget sich in der gestrecktern Figur, und in der längern Keule der
+                        <persName key="prov_klb_5mc_sv">Theseus</persName>, wie er in andern
+                    Monumenten <add place="superlinear" hand="">immer</add> erscheint - und nicht
+                    den <persName key="prov_ctb_wmy_cv">Hercules</persName>. -<hi rendition="#u">
+                        <lb/>4.</hi>
+                    <seg type="critical">
+                        <orig>Der jagende <persName key="prov_rk2_d12_1v">Jupiter</persName> bey
+                                <persName key="prov_tlq_wlw_z5">Winkelm<ex>ann</ex>
+                            </persName>
+                        </orig>
+                        <note xml:id="nodm_51d_sv">Böttiger schreibt dazu: "Zu den sinnreichsten
+                            Allegorien möchte ich auch das Relief auf einer alten dreieckigten Ara
+                            in den Borghesischen Kellern rechnen, welches Winkelmann zuerst für ein
+                            ganz unlösbares Räthsel, in der Folge aber für die Vorstellung eines <hi rend="spacing">jagenden Jupiters (!)</hi>hielt. Jupiter erscheint da
+                            in stiller Erhabenheit auf einem schnell fortsprengenden Centauren
+                            sitzend, der ein erjagtes Rehböckchen in der Hand hält. Hinter dem
+                            Jupiter sitzt ein Adler mit dem bekannten Symbol der von ihm
+                            überwundenen Schlange. Die Allegorie dürfte doch in der That hier nicht
+                            viel schwerer zu finden seyn, als die Stufenfolge leicht anzugeben ist,
+                            auf welche sich der Künstler bis zu dieser Allegorie erhob" (S.
+                            154-155). </note>
+                    </seg> auf dem borghesischen Kandelaber ist <persName key="prov_rk2_d12_1v">Jupiter</persName> (das Gestirn, wie auch der Stern im Felde anzeiget) im
+                    Schüzen (Centaur) - die beyden <pb n="2"/> andern Seiten stellen gleichfalls
+                    Constellationen dar: nemlich <persName key="prov_wpp_v2h_y5">Merkur</persName>
+                    im Krebs, und <persName key="prov_vmw_wnc_sv">Luna</persName> in der Jungfrau.
+                        <persName key="prov_wpp_v2h_y5">Mercur</persName> ruhet gleichfalls auf dem
+                    Rücken des Krebses, der bis auf die Hälften ein geharnischter Jüngling <del rendition="#s" next="und">dx</del> und sich Beine, u Schenkel in einen
+                    Seekrebs endigen. <persName key="prov_vmw_wnc_sv">Luna</persName> ruhet
+                    gleichfalls auf dem Rücken einer schwebenden Jungfrau. Die Gestirne sind
+                    gleichfalls im Felde. Der berühmte <persName key="prov_swc_3cd_sv">Barthelemy</persName>
+                    <seg type="critical">
+                        <orig>hat schon dergleichen Sujets auf Münzen erklärt</orig>
+                        <note xml:id="nsdb_tk3_sv">In: Memoires de l'Academie des Inscriptions T.
+                            XXIV</note>
+                    </seg>.<lb/>
+                    <hi rendition="#u">5.</hi>
+                    <seg type="critical">
+                        <orig>N<hi rendition="#u">
+                                <hi rendition="#sup">o</hi>
+                            </hi> XIV.</orig>
+                        <note xml:id="nirs_34c_sv">Vierzehntes Vasengemälde. Die Schaale des
+                            Abschieds (S. 209-221)</note>
+                    </seg> sehe auch ich als Abschied an - möge es übrigens <persName key="prov_vwp_d4c_sv">Telemach</persName>, <persName key="prov_vvl_g4c_sv">Jason</persName>, oder ein anderer Abentheu<ex>r</ex>er seyn. -<hi rendition="#u">
+                        <lb/>6.</hi>
+                    <seg type="critical">
+                        <orig>N<hi rendition="#sup">
+                                <hi rendition="#u">o</hi>
+                            </hi> XV.</orig>
+                        <note xml:id="niqb_cpc_sv">Funfzehntes Vasengemälde. Die Brautwerbung (S.
+                            221-228).</note>
+                    </seg> In Rücksicht der Brautwerbung kann ich nicht miteinstimmen. <seg type="critical">
+                        <orig>Zuversichtlich ist der Schildtragende ein Knappe des
+                            Bepanzerten</orig>
+                        <note xml:id="nozr_vwc_sv">Böttiger hatte eine frühere Auslegung
+                            wiedergegeben, wonach die das Schild tragende Person Menelaos sein solle
+                            und hatte entgegnet: "Ich möchte die ältliche Figur mit dem angeknüpften
+                            Reisehuthe über dem Kopfe auf den erfarenen Führer und Begleiter eines
+                            jungen Prinzen beziehn […] und im Jüngling seinen Reisegefährten und
+                            Zögling erblicken. (S. 223-224).</note>
+                    </seg>. <seg type="critical">
+                        <orig>Doch auch Brautwerbung</orig>
+                        <note xml:id="niqg_xvc_sv">Böttiger schreibt: "Wie nun, wenn wir diese holde
+                            Jungfrau, und den ihr gegenüber stehenden Jüngling als ein für einander
+                            bestimmtes Brautpaar ansähen? Ich habe es daher gewagt, dieses Vasenbild
+                            die <hi rend="spacing">Brautwerbung</hi> zu nennen, ohne jedoch meiner
+                            Vermuthung einen höhern Grad von Wahrscheinlichkeit zuzuschreiben, als
+                            jeder andern, die man passender zu finden, und an ihre Stelle zu setzen
+                            Belieben tragen sollte" (S. 226).</note>
+                    </seg>, wenn Sie wollen, nemlich <persName key="prov_ozg_smt_fv">Ulysses</persName>, der für <persName key="prov_pvd_4jb_w5">Achilles</persName> um die <persName key="prov_kq3_byc_sv">Polyxene</persName>
+                    <add place="superlinear" hand="">bey <persName key="prov_blw_dyc_sv">Priamus</persName>
+                    </add> wirbt. <seg type="critical">
+                        <orig>Das Rad auf dem Schilde hat wohl seine Bedeutung</orig>
+                        <note xml:id="nmkk_v5c_sv">Böttiger schreibt dazu: "Einige werden vielleicht
+                            das Zeichen auf dem Schilde des Jünglings für ein bedeutendes Emblem zu
+                            halten geneigt seyn. Allein dann wäre erst zu bestimmen, ob das, was wir
+                            hier sehen, ein Rad mit seinen Speichen (wie es fast in derselben Figur
+                            in Münzen von Massilia, Argyrium uns Tarent vorkommt) oder, was freilich
+                            wahrscheinlicher ist, einen Stern bezeichne. Denn nichts ist
+                            willkührlicher als diese Schildembleme auf alten Denkmälern, die nicht
+                            einmal bei den berühmten <hi rend="spacing">Sieben Helden</hi> gegen
+                            Theben in den Beschreibungen des Aeschylus […] und Euripides […]
+                            übereinkommen. […]" (S. 223-224).</note>
+                    </seg>, vielleicht sich auf den verstellten Wahnwitz des <persName key="prov_ozg_smt_fv">Ulysses</persName> beziehend. - Aber eben dieß Rad war
+                    die Ursache, daß ich lange in diesem Stücke den <persName key="prov_w42_hyc_sv">Pelops</persName>, der bey <persName key="prov_l2c_nyc_sv">Oenomaus</persName> für die <persName key="prov_gzy_kyc_sv">Hyppodamia</persName> wirbt, zu sehen glaubte. Nur ist mir <persName key="prov_w42_hyc_sv">Pelops</persName> zu bartig: und die Kriegsrüstung,
+                    anstatt des Phrygischen Costum's <add place="superlinear" hand="">von <persName key="prov_w42_hyc_sv">Pelops</persName>
+                    </add> machte mir den <persName key="prov_ozg_smt_fv">Ulysses</persName>
+                    wahrscheinlicher.</p>
+                <p>Für andere Bemerkungen ist der Raum eines Briefes zu beengt. – Da Sie nun
+                    bestimmt mit den Erklärungen fortfahren, so darf ich Ihnen mein Versprechen mit
+                    Beyträgen erneuern. Nur verlaßen Sie sich bey mir auf keine bestimmte Zeit. <pb n="3"/>
+                </p>
+                <p>Zu meiner Lektür von den Produkten der <seg type="critical">
+                        <orig>lezten Meße</orig>
+                        <note xml:id="ncm4_b2d_sv">Die Frühjahrs- oder Jubilatemesse in
+                            Leipzig.</note>
+                    </seg> gehört auch die <bibl sameAs="prov_i42_f2d_sv">Kalligone</bibl> von
+                        <persName key="prov_hy4_jx2_rs">Herder</persName>. mit den ersten zwey
+                    Bänden bin ich ziemlich zufrieden; mit dem dritten weniger. Mit dem
+                    Verschönerungsprincip, das die individuelle Bedeutsamkeit aufhebt, und die
+                    Phantasie ihr beliebiges Spielwerk zum Nachtheil der Wahrheit treibet, werden
+                    sich meine Kunstprincipien nie befreunden.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>
+                            <persName key="prov_ofd_5yj_gv">Sander</persName> u. <persName key="prov_l5h_zfd_sv">Frau</persName> sind voll von <placeName key="prov_u24_mmg_f5">
+                                <hi rendition="#aq">Weimar</hi>
+                            </placeName>
+                        </orig>
+                        <note xml:id="nzrl_q3d_sv">Sander und seine Frau hielten sich nach dem
+                            Besuch der Leipziger Ostermesse, wo sie bereits mehrfach mit Goethe
+                            zusammengetroffen waren und Sophie Sander einen starken Eindruck auf
+                            Goethe gemacht haben soll, über Pfingsten in Weimar auf. Sie besuchten
+                            u.a. Böttiger, Goethe und Wieland. – Wieland schreibt am 6. Juni 1800
+                            aus Oßmannstedt an Böttiger: „Die lieben Sanders haben mir die Freude
+                            gemacht, mich noch im Vorbeyreisen zu besuchen, und haben sich
+                            unversehens so lange verweilt, daß sie von ihren Freunden in Halle, wo
+                            sie abends noch einzutreffen versprochen hatten, höchstwahrscheinlich
+                            vergebens werden erwartet worden seyn“. Als Erinnerung an den Besuch
+                            schickt Wieland im Januar 1801 „für die Dame Sander“ seinen „Aristipp“
+                            (Wielands Briefwechsel, Bd. 15.1, bearbeitet von Thomas Lindenberg und
+                            Siegfried Scheibe, 2004, Brief Nr. 186, Z. 32-35, und Nr. 328, Z.
+                            37-38).</note>
+                    </seg>, und erzählen Wunder. <seg type="comment">
+                        <orig>Das Betragen des <persName key="prov_hwd_hmp_5r">G<ex>oethe</ex>
+                            </persName> gegen Sie ist wahrhaft
+                            grillenhaft</orig>
+                        <note xml:id="nuzg_b5c_b1b">Näheres nicht ermittelt. Möglicherweise handelt
+                            es sich um die Absicht Böttigers, auf Grund seines hohen Arbeitspensums
+                            Weimar zu verlassen und einem Ruf nach Kopenhagen zu folgen; vgl.
+                            1798-12-07-a-Böttiger.</note>
+                    </seg>, und wäre kaum einer Prude zu verzeihen. In dem engen Kreise, worin Sie
+                    leben, ist zwar so etwas immer unangenehm, aber am Ende möchte doch ein je m'en
+                    f– <ex>[fous?]</ex> nicht am unrechten Orte seyn.</p>
+                <p>Von den <seg type="critical">
+                        <orig>
+                            <persName key="prov_hjb_ykd_sv">Mionetischen</persName>
+                            Münzpasten</orig>
+                        <note xml:id="ngnf_gkd_sv">Böttiger berichtet im NTM mehrfach über diese
+                            Nachbildungen von altgriechischen Münzen, der "bis auf den alten Firniß"
+                            "täuschend nachgeahmten Schwefelpasten": "Ueber Mionnet's Münzen- und
+                            Gemmenpasten", in: NTM, 1799, Bd. 2, Juni, S. 170-172; "Münzpasten des
+                            B[ürgers] Mionet in Paris", in: NTM 1800, 1. Bd., S. 44-57; "Fernere
+                            Nachricht über Mionet's Münzpasten", in: NTM, 1800, 2. Bd., S. 148-150.
+                            – Zu den Münzpasten schreibt Böttiger, dass "der Versuch <hi rendition="#g">Mionnets</hi>, eines Unteraufsehers des
+                            Antikenkabinets bey der Nazionalbibliothek in Paris, […] durch scharfe
+                            in Schwefel geformte Abdrücke der alten Medaillen im Münzkabinette der
+                            Nation dasselbe für das Studium der Numismatik" leisten wollte, "was
+                            einst <hi rendition="#g">Lippert</hi> für das Studium der geschnittenen
+                            Steine durch seine Daktyliothek bewirkte" (NTM 1799, S. 170-171). –
+                            Böttiger liess Hirt durch Morgenstern ein Probestück zukommen, vgl.
+                            [1800-08-vor08x-v-Böttiger]. </note>
+                    </seg> sah ich noch keinen <seg type="critical">
+                        <bibl sameAs="ed_d5r_tpc_b1b">
+                            <orig>Catalog</orig>
+                        </bibl>
+                        <note xml:id="ngy4_nkd_sv">[Théodore Edme Mionnet]: Catalogue d'une
+                            collection d'empreintes en soufre des medailles Grecques et Romaines.
+                            Paris: Crapelet, l'an 8 [1799/1800] (79 S. in 4°). – In seinem
+                            letztgenannten Beitrag im NTM schreibt Böttiger: "Der Katalog von der
+                            ersten allgemeinern Sammlung ist schon zu Ende des Winters in Paris
+                            gedruckt erschienen, und enthält in geografischer Ordnung nach <hi rendition="#g">Eckhel's</hi> klassischem Werke eingetheilt die
+                            vorzüglichsten <hi rendition="#g">griechischen</hi> Städte-, Völker- und
+                            Königsmünzen nebst einem Anhang von römischen und italischen Assen, in
+                            1473 Numern. Zu gleicher Zeit ist auch die erste vollständige Sammlung
+                            der Pasten selbst, so weit sie in diesem Verzeichnisse begriffen sind,
+                            aus Paris angekommen, und zwei Tabletten daraus von No. 200-300, die
+                            schönen Sizilischen Münzen darstellend, sind in der verflossenen
+                            Ostermesse in Leipzig, sowohl im Beygangischen Museum als bei dem
+                            Kommissionair, der für Teutschland die Bestellung und Besorgung
+                            derselben übernommen hat [Gebrüder Gädicke], mit unzweideutigen Beifall
+                            der Kenner und Liebhaber gesehen worden" (NTM 1800, Bd. 2, S.
+                            148-149).</note>
+                    </seg>, und auch kenne ich die Preise nicht. Ich konnte die Sammlung daher auch
+                    noch nirgends vorschlagen. Wie übrigens solche Pasten gemacht werden, und
+                    aussehen, ist mir sehr wohl bekannt. wie hoch kommt das Stück? –</p>
+                <p>Von <persName key="prov_ijp_xvr_xr">Zoega</persName> erwarte ich nun ehestens
+                    eine <seg type="critical">
+                        <orig>Rückantwort</orig>
+                        <note xml:id="nlkv_hn3_sv">1800-08-01-v-Zoega</note>
+                    </seg>. <persName key="prov_ffk_snl_cv">Uhden</persName> ist in <placeName key="prov_vkl_ndl_js">Rom</placeName>: aber bey den erneuerten Unruhen in
+                        <placeName key="prov_vxr_xxr_js">Italien</placeName>, kann ich Ihnen für
+                    keinen Weg zu Ihren übersendungen an ihn vorschlagen.</p>
+                <p>Leider <seg type="critical">
+                        <orig>wird am neuen <placeName key="prov_y3f_tn3_sv">Komœdienhause</placeName> fortgebaut</orig>
+                        <note xml:id="nnmt_5q3_sv">Das neue Schauspielhaus auf dem Gendarmenmarkt
+                            wurde 1800 bis 1801 nach einem Entwurf von Karl Gotthard Langhans
+                            errichtet. Langhans erhielt am 24. Januar 1800 den königlichen Auftrag,
+                            den in seinen Rissen (s. unten) vorgelegten Theaterneubau auszuführen;
+                            Ende 1801 war der Bau fertiggestellt; die feierliche Eröffnung fand am
+                            1. Januar 1802 statt; am 24. Februar 1803 wurde der im Obergeschoss
+                            befindliche Konzertsaal eingeweiht. - Das neue Gebäude war umstritten;
+                            an ihm entzündete sich "eine Diskussion um eine Reform der Architektur
+                            für Theatergebäude, die zwischen den Vertretern traditioneller und
+                            innovativer Positionen um 1800 geführt wurde". Die Akademie der Künste
+                            forderte in einem von Hans Christian Genelli verfassten Promemorium
+                            (erfolglos) eine öffentliche Konkurrenz für den Um- bzw. Neubau des
+                            "National-Theaters". 1800 veröffentlichte der vom König berufene
+                            Architekt Langhans seine Schrift "Vergleichung des neuen
+                            Schauspielhauses zu Berlin mit den verschiedenen ältern und neuern
+                            Schauspielhäusern, in Rücksicht auf akustische und optische Grundsätze"
+                            (mit 2 Kupfertafeln, Berlin: Unger, 1800.). Noch bevor der Bau
+                            abgeschlossen war, setzte auf der Grundlage von "drey Blättchen, welche
+                            das neue Schauspielhaus darstellen" (vgl. Ueber das neue Schauspielhaus,
+                            in: Jahrbücher der preußischen Monarchie 3, 1800, 3. Bd., S. 131), und
+                            Langhans' eigener Veröffentlichung die Kritik an Architektur und
+                            Situierung des Gebäudes und seiner Ausstattung ein. "Vor allem war es
+                            die Form des langgestreckten Baukörpers mit dem hohen gebogenen
+                            Bohlenbinderdach, die man kritisierte und die ihm den Spottnamen
+                            'Koffer' einbringen sollte" (alle Angaben sind dem Text von Matthias
+                            Hahn über das Nationaltheater in: Matthias Hahn: Schauplatz der Moderne.
+                            Berlin um 1800 - Ein topographischer Wegweiser. Hannover 2009, S.
+                            329-341 (= Berliner Klassik. Eine Großstadtkultur um 1800, Bd. 16),
+                            entnommen). - Eine Beschreibung des fertiggestellten neuen
+                            Schauspielhauses findet sich in Johann Christian Gädickes "Lexicon von
+                            Berlin und der umliegenden Gegend" (Berlin 1806, S. 411ff.). - Das alte
+                            Französische Komödienhaus auf dem Gendarmenmarkt wurde am 31. Dezember
+                            1801 geschlossen (Abriss im Frühjahr 1802). - Das Langhanssche
+                            Schauspielhaus brannte am 29. Juli 1817 vollständig nieder. Der Neubau
+                            an derselben Stelle wurde nach einem Entwurf von Karl Friedrich Schinkel
+                            1818-1821 ausgeführt.</note>
+                    </seg>. Kürzlich <seg type="critical">
+                        <orig>erschienen auf drey Kupferblättchen Riße davon</orig>
+                        <note xml:id="noqc_d53_sv">[Anton Wachsmann nach Karl Ferdinand Langhans]:
+                            "Grund und Aufriß des neuen Schauspielhauses zu Berlin". [3
+                            Kupferblätter geheftet für 12 Groschen] Berlin o. J. [1800].</note>
+                    </seg> Ich habe einen <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_ofc_jhl_tv">Aufsaz</bibl>
+                        </orig>
+                        <note xml:id="nqmy_vn3_sv">Nicht bekannt; nicht gedruckt.</note>
+                    </seg> in vier Gesprächen darüber <subst>
+                        <del rendition="#s">aufgesezt</del>
+                        <add>gemacht</add>
+                    </subst>, welche aber schwerlich je in's Publikum kommen werden.</p>
+                <p>Kennen Sie die <bibl sameAs="prov_vrg_b43_sv">Archæologie</bibl> von meinem
+                    Freund <persName key="prov_fvf_ftv_rv">Siebenkees</persName>? – wie ist es
+                    möglich, den Todten durch solches albernes <pb n="4"/> mit Fehlern, Unkenntniß, und Mängeln strozendes Gewäsch auch moralisch zu
+                    tödten! - Der gute <persName key="prov_fvf_ftv_rv">Siebenkees</persName> hatte
+                    nie ein Fünkchen Sinn für Kunst: auch hat er <add place="superlinear" hand="">sich</add> während seinem Aufenthalt in <placeName key="prov_vkl_ndl_js">Rom</placeName> nie im mindesten mit dem Studium der Monumente befaßt.
+                    Außer einigen <hi rendition="#aq">codices</hi> der <hi rendition="#aq">vaticana</hi> sah er nichts.</p>
+                <p>
+                    <persName key="prov_n22_cq3_sv">Gurlitt</persName> zeigt sich in seiner <bibl sameAs="prov_yng_kq3_sv">Büstenkunde</bibl> als ein fleißiger Sammler: aber
+                    in manchen Sachen sezt er uns wieder in's 18. Jahrhundert zurück.</p>
+                <p>Unser iezt eröffnetes <seg type="critical">
+                        <orig>Panorama</orig>
+                        <note xml:id="ni5v_hbj_sv">Das im Juni 1800 errichtete Panorama befand sich
+                            in einer runden Bretterbude auf dem Gendarmenmarkt. "Durch einen dunklen
+                            Gang und eine Wendeltreppe gelangte der Besucher auf eine kreisförmige
+                            Plattform im Inneren. Wie von einer Anhöhe sah er auf ein von oben
+                            beleuchtetes Gemälde, das sich an der Innenwand des sonst dunklen Raumes
+                            entlangzog. Es zeigte eine Ansicht der Stadt Rom im Abendrot, wie sie
+                            sich vom Palatin aus darbot" (Florian Maurice: Identität und Immersion.
+                            Neue Erlebnisräume in Berlin um 1800. In: Claudia Sedlarz (Hrsg.): Die
+                            Königsstadt. Stadträume und Wohnräume in Berlin um 1800. Hannover 2008,
+                            S. 16 (= Berliner Klassik. Eine Großstadtkultur um 1800, Bd. 6).</note>
+                    </seg> auf dem <placeName key="prov_hfl_w1j_sv">Gensdarmenmarkt</placeName> ist
+                    eine schlecht gemalte Decoration bey Tage gesehen. Es stellt die Gegenden
+                        <placeName key="prov_vkl_ndl_js">Rom's</placeName>, wie sie sich auf dem
+                    südwestlichen Punkt des <placeName key="prov_wbl_cbj_sv">Monte
+                        Palatino</placeName> darstellen, vor. Ich begreife wohl, wie gewiße
+                    Gegenstände, als Seeaussichten, u. architekt<ex>onische</ex> Perspektiven, sich
+                    in dieser Art sich bis zu einer gewißen Täuschung erheben laßen: aber dann muß
+                    der Künstler den Effekt beßer zu behandeln wißen, als in unserm Panorama
+                    hier.</p>
+                <p>En revanche sende<del rendition="#s" prev="sende">gx</del> ich Ihnen hier <bibl sameAs="prov_uhm_bzj_qv">einige Blätter</bibl> aus dem <bibl sameAs="prov_b1w_ddv_pv">Baujournal</bibl>, die ich eben vom Drucker
+                    erhalte. <bibl sameAs="prov_aj5_4yj_qv">Die Abhandlung worauf sie sich
+                        beziehen</bibl>, ist in Ihren Händen. Gerne hätte ich Ihnen auch <bibl sameAs="prov_aj5_4yj_qv">den Brief</bibl> von <persName key="prov_ams_xtr_js">Rode</persName> , mit <bibl sameAs="prov_f1f_cvj_qv">meiner Antwort</bibl>, die toskanische Baukunst <persName key="prov_qpz_vyr_js">V<ex>itruv</ex>s</persName> betreffend - welche im
+                    vorigen Hefte abgedruckt sind, zugesandt; aber ich habe keinen besondern Abdruck
+                    hievon. <persName key="prov_ams_xtr_js">Rode</persName> antwortete hierauf mit
+                    einem 2<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi> Schreiben; allein
+                    ehe ich es wollte abdrucken laßen, sandte ich ihm meine Antwort im Manuscript
+                    zu: und dieß bewog ihn, seinen Aufsaz unabgedrukt zurückzufordern: so daß <subst>
+                        <del rendition="#s">die</del>
+                        <add>unsere</add>
+                    </subst> Akten hierüber als geschloßen betrachtet werden können. Vielleicht
+                    erneuert sich aber der Streit, wenn die täglich erwarteten <bibl sameAs="prov_q1v_xtj_sv">exegetischen Briefe</bibl> über <persName key="prov_qpz_vyr_js">Vitruv</persName> von <persName key="prov_qps_ktj_sv">Genelli</persName> erschienen sind.</p>
+                <closer rend="paragraph">
+                    <salute>Gruß u. Freundschaft</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

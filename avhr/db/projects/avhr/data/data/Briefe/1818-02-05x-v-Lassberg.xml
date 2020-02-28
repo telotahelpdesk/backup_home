@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_imp_cdx_lw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Joseph von Laßberg. Heiligenberg, 5. Februar 1818. Donnerstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Theodor von Liebenau: Briefregister des Freiherrn Joseph von Lassberg
+                    aus den Jahren 1817-1820, angefertigt von Prof. Dr. Karl S. Bader. Zürich 1955
+                    [Transkription des Originals]. In: Staatsarchiv Luzern, PA 586/102, S. 11: „1818
+                    / Febr. / 5.: „Hirt zu Berlin (<bibl sameAs="ed_i33_4mx_lw">Specim[en] des
+                        Nibel[un]g[en] Codex</bibl>. Frage wegen Holzschnitten v[on]<persName key="ed_hjf_fjx_lw"> Gubiz</persName>)“. - Laßberg hatte am Rande des Wiener
+                    Kongresses die Nibelungenhandschrift erworben (“Hohenems-Laßbergsche
+                    Nibelungen-Handschrift (C)“), deren genauen Abdruck er 1821 herausgab. Zum
+                    Probedruck, den er an Hirt schickte, vgl. 1818-05-12-a-Lassberg. Zu den
+                    gewünschten Illustrationen von Gubitz vgl. ebenda.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_stp_kmd_2w">Laßberg, Joseph Maria Christoph Freiherr von
+                        (1770-1855) (Forstmann, Germanist und Schriftsteller, Oberforstmeister im
+                        Fürstentum Fürstenberg, Lebensgemeinschaft mit Fürstin Elisabeth zu
+                        Fürstenberg, geb. Thurn und Taxis (1767-1822), ab 1838 Besitzer der Burg
+                        Meersburg am Bodensee, Schwager von Annette von Droste-Hülshoff)</persName>
+                    <placeName key="ed_s21_wnj_lw">Heiligenberg (Bodensee-Hinterland)</placeName>
+                    <date when="1818-02-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_rpm_5jx_lw"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

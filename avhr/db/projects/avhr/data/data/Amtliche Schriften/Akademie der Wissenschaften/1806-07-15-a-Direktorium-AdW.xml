@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gb2_nlg_zgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Direktorium der Akademie der Wissenschaften. Berlin,
+                    15. Juli 1806 (Goethe als Mitglied vorgeschlagen)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-III-6, Bl. 54r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-07-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_jh3_2fc_b1b">Akademie der Wissenschaften zu Berlin,
+                        Königlich-Preußische: Direktorium</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Mit Sichtungsvermerk "Præs eod". - Mit Vermerk des Direktors der
+                    Philologischen Klasse am unteren Blattrand: "Hierüber ist wohl ein baldiger
+                    Beschluß erforderlich, damit die Wahl allenfalls, 8 Tage vorher xxxxxx
+                    angekündigt und 8 Tage darauf vollzogen werden könne. Das überlasse ich gänzlich
+                    dem Gutachten meiner Hochzuehrenden Herrn Collegen / <persName key="ed_qng_bhs_5fb">Merian</persName>" - Dem Vorschlag Hirts schlossen sich
+                    J. v. Müller, Spalding und Buttmann mit eigenen Bemerkungen an.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An ein hochlöb<ex>liches</ex>
+                            <hi rendition="#aq">Directorium</hi> der königlichen / Akademie der
+                            Wißenschaften.</addrLine>
+                    </address>
+                    <salute/>
+                </opener>
+				<p>Ich habe die Ehre folgende fünf Männer zu auswärtigen Mitgliedern bey dem
+                        hochlöb<ex>lichen</ex>
+                    <hi rendition="#aq">Directorio</hi> in Vorschlag zu bringen:</p>
+                <p>1. Herrn <hi rendition="#aq">Wolfgang v. <persName key="prov_hwd_hmp_5r">Goethe</persName></hi>, sächsisch-weimarischen geheimen Rath in
+                        <placeName key="prov_u24_mmg_f5"><hi rendition="#aq">Weimar</hi></placeName>.</p>
+                <p>2. Herrn <hi rendition="#aq">Georg <persName key="prov_ijp_xvr_xr">Zoega</persName></hi>, pensionirten Dänischen Gelehrten in <hi rendition="#aq"><placeName key="prov_vkl_ndl_js">Rom</placeName></hi>.</p>
+                <p>3. Herrn <hi rendition="#aq"><persName key="ed_s3n_x1n_yv">Heinrich
+                            Voß</persName></hi>, Hofrath und Pensionär des Churfürsten zu Baden in
+                        <hi rendition="#aq"><placeName key="ed_ok5_2vd_lw">Heidelberg</placeName></hi>.</p>
+                <p>4. Herrn Professor <hi rendition="#aq"><persName key="ed_zwh_h54_pw">Heeren</persName></hi> in <placeName key="prov_sp5_tmk_4v"><hi rendition="#aq">Goettingen</hi></placeName>.</p>
+                <p>5. Herrn <hi rendition="#aq">Ennio Quirino <persName key="prov_zmp_jp3_gv">Visconti</persName></hi>, Mitglied des <orgName key="ed_qz1_ngm_zgb"><hi rendition="#aq">Nationalinstitut</hi>s</orgName> in <placeName key="prov_tnd_dt1_5v">Paris</placeName>.</p>
+                <p>Ich bitte ergebenst diesen Vorschlag von fünf Männern, deren Werke in den Annalen
+                    der Gelehrtenrepublik <hi rendition="#aq">Epoche</hi> machen, vorläufig bey der
+                    litterarischen <hi rendition="#aq">Classe</hi> nach der gewöhnlichen Form
+                    zirkuliren zu laßen. Fallen die Stimmen (wie ich nicht zweifeln darf) <seg type="comment">
+                        <orig>zu ihrem Vortheil aus</orig>
+                        <note xml:id="nrt5_khm_zgb">Einer Aufforderung des Direktoriums der Akademie
+                            vom 21. Juli 1806 nachkommend, die Zuwahl auf höchstens zwei auswärtige
+                            Mitglieder zu beschränken, wurden die beiden Erstgenannten - Goethe und
+                            Zoëga - zur Wahl vorgeschlagen und am 5. August 1806 durch den
+                            König bestätigt. Vgl. hierzu auch Hirts Brief an Goethe vom 4. Oktober
+                            1806. - Johann Heinrich Voß wurde am 23.3.1814 zum auswärtigen Mitglied
+                            gewählt (Bestätigung am 14.5.1814); Arnold Heeren wurde am 25.6.1812
+                            korrespondierendes Mitglied und am 16.12.1830 auswärtiges Mitglied
+                            (Bestätigung 11.1.1831); Ennio Visconti wurde am 25.6.1812 auswärtiges
+                            Mitglied.</note>
+                    </seg>; so bitte ich ferner, das <hi rendition="#aq">Ballottement</hi> bey der
+                    gesammten Akademie zu veranstalten, und wenn dasselbe den Vorgeschlagenen
+                    günstig ist, und von S<ex>ein</ex><hi rendition="#sup"><hi rendition="#u">er</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName> bestätigt wird, ihre
+                    Aufnahme in der nächsten öffentlichen Sizung bekannt zu machen.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 15<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> July 1806.</dateline>
+                    <signed>Der Hofrath Hirt <lb/>Mitglied der litterarischen <hi rendition="#aq">Classe</hi>. -</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

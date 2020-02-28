@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_m3s_dpr_51b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich von Matthisson. Stuttgart (?), nach 12. Februar 1824]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1824-02-nach12-a-Münter: "[...] daß ich kürzlich einen Brief von
+                    Matthison hatte, der sich sehr wohl zu befinden scheint"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_o5c_fvv_rv">Stuttgart</placeName>
+                    <date notBefore="1824-01-01" notAfter="1824-02-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der bezeugende Brief wurde "nach 12. Februar 1824" datiert; der
+                    vorliegende Brief wurde einige Zeit vor demselben geschrieben. Eine genauere
+                    Datierung war nicht möglich. - Zum Schreibort: Nach dem Tod der Fürstin Louise
+                    von Anhalt-Dessau wurde Matthisson 1812 von König Friedrich I. von Württemberg
+                    nach Stuttgart berufen. Bis 1828 war er dort als Theaterintendant und
+                    Oberbibliothekar tätig, so dass Stuttgart als Schreibort angenommen werden
+                    kann.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

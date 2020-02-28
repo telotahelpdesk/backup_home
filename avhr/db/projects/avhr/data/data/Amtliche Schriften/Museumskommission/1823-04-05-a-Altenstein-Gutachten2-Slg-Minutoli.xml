@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sp3_hdz_pjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts für den Staatsminister von Altenstein zur Sammlung Minutoli.
+                    Berlin, 5. April 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="copy">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 89 Geh. Zivilkabinett j. P., Nr.
+                                20541, Bl. 10r-v (Abschrift von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Nachgewiesen bei: Harry Nehls, Hirt-Bd. II, S. 269 (kein
+                            Textabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-04-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Das Schreiben hat keinerlei Empfängerbemerkungen; es ist lediglich auf dem
+                    oberen linken Rand als "Abschrift." gekennzeichnet.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                </opener>
+				<p>Dem hohen Auftrage Ew: Excellenz vom 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    April zufolge habe ich mir die seit meinem <seg type="comment">
+                        <orig>ersten Bericht</orig>
+                        <note xml:id="nfgw_hqz_pjb">Siehe das Gutachten vom 9. Oktober 1822.</note>
+                    </seg> angekommenen <rs type="artwork" key="prov_rzh_dvt_pjb">ägyptischen
+                        Alterthümer</rs> vom Herrn General v. <persName key="ed_ctf_3vj_xv">Minutoli</persName> vorzeigen lassen. Sie bestehen nicht in vielen, aber
+                    einigen sehr interessanten Gegenständen, als:</p>
+                <p>1) einem lebensgroßen Cynocephalus in Granit. <lb/>2) in zwey bedeutend großen
+                    (sonst nicht vorkommenden) Steintafeln, die eine in Granit und die andere in
+                    grünem Basanit, worauf in Relief mancherley Opfergegenstände und Hieroglyphen
+                    sehr sauber ausgehauen sind. Die in Granit trägt am Rande eine griechische
+                    Inschrift. <lb/>3) ein sehr interessantes Sistrum in Erz, dessen Stiel einen
+                        <persName key="ed_vnv_dqp_1jb">Phthas</persName> vorstellt.</p>
+                <p>Anderes ist weniger wichtig und zum Theil moderne Arbeit. </p>
+                <p>Die zwei in <placeName key="prov_q5r_bkh_y5">Triest</placeName> zurückgebliebenen
+                    Statuen sollen beinahe lebensgroß, und in Granit sein. Der <persName key="ed_ctf_3vj_xv">General</persName> konnte dieselben nicht deutlich genug
+                    beschreiben, um ihre Darstellung zu vermuthen. Doch geht so viel aus seinen
+                    Worten hervor, daß sie nicht unwichtig sind. Der Käufer soll die Unkosten der
+                    Fracht hierher selbst tragen.</p>
+                <p>Die vom <persName key="ed_ctf_3vj_xv">General</persName> zurückzuhaltenden
+                    Gegenstände, auf die ich in meinem ersten Bericht anspielte, sind: <lb/>1) zwei,
+                    zum Theil aufgerollte Papyrusrollen, welche aber der <persName key="ed_htv_45z_pjb">Frau des Generals</persName> gehören, die aber auch
+                    jetzt keine Neigung haben soll, dieselben käuflich abzulassen. <lb/>2)
+                    verschiedene Stücke (Fragmente) von Schmelz Mosaik, welche aber der <persName key="ed_ctf_3vj_xv">General</persName> deswegen nicht veräußern will, da sie
+                    ihm von theuern Personen geschenkt <pb n="2"/> wurden. Doch findet er sich
+                    bereit, Einiges davon zur Sammlung als Geschenk abzugeben. Letztere Gegenstände
+                    sollen aber zur Zeit noch nicht hier sein.</p>
+                <p>In Rücksicht der Papyrusrollen habe ich mit mehreren meiner gelehrten Freunde
+                    Rücksprache genommen. Sie sind alle mit mir der Meynung, daß an keine Halbirung
+                    solcher Rollen zu denken sein mögte. Alle diese Gegenstände seien von höchster
+                    Wichtigkeit, und nicht bloß Curiosa, und gerade bestehe in ihrer Vielheit und
+                    Verbindung das Große, das Wichtige; und es ließe sich nicht berechnen, auf
+                    welche große Aufschlüße die Entzifferung derselben führen dürfte. Je mehr man
+                    Vergleichungen anstellen könne, desto wichtiger mögten die Resultate sein. Die
+                    durch den Ankauf des Ganzen vermehrte Ausgabe könne in einem so wichtigen Falle
+                    nicht in Anschlag kommen; und die Halbirung mögte einen unersetzlichen Verlust
+                    herbeiführen.</p>
+                <p>Schließlich nehme ich mir die Freiheit, noch beizufügen, daß ich nichts von der
+                    Sammlung ausgeschlossen wünschte. Denn einige Kleinigkeiten die allenfalls ohne
+                    Nachtheil entfernt bleiben könnten, würden die Summe des Kaufpreises nicht
+                    verringern. Solche weniger wichtige Gegenstände sind als eine Zugabe zu erachten
+                    und zum Vergleich immer interessant.</p>
+				<closer>
+                    <dateline>Berlin, den 5<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        April 1823.</dateline>
+                    <signed>(gez) Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

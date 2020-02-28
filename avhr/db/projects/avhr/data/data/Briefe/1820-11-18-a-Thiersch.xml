@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_x2p_css_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Wilhelm Thiersch. Berlin, 18. November 1820.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Bayerische Staatsbibliothek München</institution>
+                        <collection>Autographensammlung</collection>
+                        <idno>
+                            <idno type="shelfmark">Autogr. Hirt, Aloys (II)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-11-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qnt_bnm_vw">Thiersch, Friedrich Wilhelm (von) (1784-1860) (dt.
+                        Philologe, "Praeceptor Bavariae", 1812 Gründer des Philologischen Instituts
+                        an der Bayerischen Akademie der Wissenschaften, 1826-1859 Prof. für
+                        Griechische Philologie an der Universität München)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+                <note>Der Brief wurde zusammen mit Nr. 1820-11-18-a-Sekretar-Thiersch in einem
+                    Umschlag versandt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Herrn Profeßor Thiersch / Mitglied der K. Bayerischen / Akademie
+                            der Wißenschaften / in / <hi rendition="#u">München</hi>. / Mit
+                            Siegel</addrLine>
+                    </address>
+                    <dateline/>
+                    <salute>Mein verehrtester Herr College!</salute>
+                </opener>
+                <p>Wir hatten die Hoffnung, Sie vorigen Herbst bey uns in <placeName key="prov_ycp_cpr_js">Berlin</placeName> zu sehen, und bedauerten sehr, daß
+                    es nicht geschah. Sie übersandten uns indeßen <seg type="comment">
+                        <orig>die Diplome, mit denen <orgName key="ed_t4x_hfc_b1b">Ihre
+                                Akademie</orgName> uns beehrte</orig>
+                        <note xml:id="nk55_l2j_zw">Die Ernennung von Boeckh, Buttmann,
+                            Schleiermacher und Hirt zu ordentlichen auswärtigen Mitgliedern der
+                            Bayerischen Akademie der Wissenschaften am 4. März 1820.</note>
+                    </seg>, und wofür ich Ihnen in's besondere meinen Dank abzustatten habe.</p>
+                <p>Mit Vergnügen habe ich gesehen, <bibl sameAs="ed_unj_s2j_zw">daß Sie auch Antheil
+                        an der <persName key="prov_g5d_v2p_5r">Böttingerschen</persName>
+                        <bibl sameAs="ed_r5b_psk_vw">
+                            <hi rendition="#aq">Amalthea</hi>
+                        </bibl> nehmen</bibl>. <seg type="comment">
+                        <orig>Sie haben <placeName key="ed_ndj_52f_mw">Aegina</placeName> mit Ihrem
+                                <persName key="ed_qlf_rdd_xw">Pindar</persName> schön
+                            ausgestattet</orig>
+                        <note xml:id="ndgl_ngj_zw">Thiersch untermauert seine Auslegung der
+                            Giebelfiguren mit den Gesängen des Pindar, "von denen ein großer Theil
+                            sich auf Sieger aus Aegina bezieht. [...] Ueberall aber ist es Aeakus
+                            und seine Nachkommenschaft, sind es der Ruhm und die Thaten derselben
+                            bis auf den Pyrrhus herab, welche der Dichter preiset, und deren Lob er
+                            zur Verherrlichung ihres Stammlandes zu erneuern für Pflicht achtet.
+                            Dieses bestimmter hervorzuheben, führen wir die Gesänge einzeln an,
+                            zugleich mit Rücksicht auf das übrige Lob, was dem Eilande ertheilt
+                            wird. Da sein Ruhm durch die Entdeckung der Bildsäulen, deren
+                            Untersuchung uns beschäftigt, in unsern Tagen gleichsam neuaufgelebt
+                            ist; so wird es nicht am unrechten Orte seyn, zu zeigen, in welchem
+                            Lichte der größte lyrische Dichter die Insel erscheinen läßt" (Amalthea,
+                            Bd. 1, Leipzig 1820, S. 149 ff.). Zitiert wird aus den Olympischen (8),
+                            den Nemeischen (3-8), den Pythischen (8) und den Isthmischen Oden (5, 6
+                            und 8). - Von Thiersch erschien zur gleichen Zeit "Die Bearbeitung des
+                            Pindar", 2 Bde., Leipzig 1820. </note>
+                    </seg>, und <add place="superlinear">ich</add> bin neugierig zu sehen, was Sie
+                    über die Bildwerke selbst sagen werden. <seg type="comment">
+                        <orig>Denn noch kann ich die Gründe nicht ahnen, welche Sie haben mögen, in
+                            der Figur, die mir <hi rendition="#aq">
+                                <persName key="ed_udn_5nv_d1b">Patroclus</persName>
+                            </hi> zu seyn schien, eher den <hi rendition="#aq">
+                                <persName key="prov_pvd_4jb_w5">Achilles</persName>
+                            </hi> zu erblicken.</orig>
+                        <note xml:id="nkfx_l3j_zw">Thiersch hatte am Schluss seines Aufsatzes auf
+                            eine genauere Darstellung verwiesen, die in einem folgenden Band
+                            erscheinen sollte: "Warum wir aber aus den zahllosen Thaten der Aeakiden
+                            in dem östlichen Giebel gerade den Kampf des Telamon gegen Laomedon
+                            vorgestellt glauben, und hierin dem Veteran der Archäologie, Hirt,
+                            beitreten, in dem westlichen Giebel aber den Kampf des Aias, des
+                            Telemaniden, um den Leichnam des Achilleus erblicken, soll in einem der
+                            folgenden Theile dieser Zeitschrift ausführlich dargelegt werden"
+                            (Amalthea, Bd. 1, 1820, S. 160).</note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>Ich hoffe, daß wir es in dem künftigen Stücke erfaßen werden.</orig>
+                        <note xml:id="np4l_2jj_zw">In der "Amalthea" erschienen keine weiteren
+                            Artikel von Thiersch.</note>
+                    </seg> Man hört noch nicht, daß die <rs type="artwork" key="prov_lhs_svw_ww">Aegineten</rs> in <placeName key="prov_rhf_xzg_y5">München</placeName>
+                    angekommen seyen. Gern möchte ich sie einmal dort aufgestellt sehen, zugleich
+                    mit den andern vom <persName key="ed_uhy_32p_nw">Kronprinzen</persName>
+                    angekauften Schätzen, welche ein herrliches Ganze machen müßen. Manches
+                    gestaltet sich in dieser Hinsicht in <placeName key="prov_xym_pdx_w5">Deutschland</placeName> beßer. Auch wir haben Hoffnung, unsere zerstreuten
+                    Denkmäler bald in einem <hi rendition="#aq">
+                        <placeName key="ediarum_um1_3nl_xw">Museum</placeName>
+                    </hi> vereiniget zu sehen, Antiken u. Gemälde. <seg type="comment">
+                        <orig>Der gröste Theil des Baues hiezu ist beendigt</orig>
+                        <note xml:id="nz4z_3zj_zw">Vgl. <ref target="hirt_owq_3gl_xw/#nn1c_skl_xw">1820-10-23-a-Marianne-v-Preussen</ref>
+                        </note>
+                    </seg>; und kürzlich erhielt ich den Auftrag vom <persName key="prov_bxf_jt5_fv">Könige</persName>, alles aus den königl<ex>ichen</ex> Sammlungen
+                    auszuwählen, was ich eines öffentlichen <hi rendition="#aq">Museum</hi>'s <pb n="2"/> würdig finden würde, und ich bin iezt vorläufig mit dem <seg type="comment">
+                        <orig>Ordnen auf dem Papier</orig>
+                        <note xml:id="nulh_tzj_zw">Vgl. Hirts Denkschrift zur Einrichtung des <bibl sameAs="ed_tqt_xf3_zw">Museums</bibl>
+                        </note>
+                    </seg> beschäftigt. -</p>
+                <p>Sie werden in der <bibl sameAs="ed_r5b_psk_vw">
+                        <hi rendition="#aq">Amalthea</hi>
+                    </bibl> gesehen haben, daß ich auch anfieng, <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_hcw_21s_vw">meine frühern akad<ex>emischen</ex>
+                                Abhandlungen über die frühere Kunstgeschichte der Alten</bibl>
+                        </orig>
+                        <note xml:id="np5w_b1k_zw">Der erste Teil des Aufsatzes im ersten Band der
+                            "Amalthea" enthält Hirts Vorlesungen in der Akademie der Wissenschaften
+                            zu Berlin vom 3. Oktober 1805 und vom 19. Juni 1806.</note>
+                    </seg> drucken zu laßen, und <seg type="comment">
+                        <orig>der zweyte Band die folgenden enthalten wird</orig>
+                        <note xml:id="nsj4_cbk_zw">Der zweite Teil des Aufsatzes, "Ueber die
+                            griechische Bildkunst", gedruckt im 2. Band der "Amalthea" 1822, enthält
+                            die Akademievorlesungen vom 5. Februar 1807, vom 2. Februar 1808 und vom
+                            29. September 1808.</note>
+                    </seg>. Sie werden darin manche Ansichten anders gestellt finden, als in Ihren
+                    Abhandlungen. Indeßen sind bey so schwierigen Untersuchungen Verschiedenheiten
+                    der Meinungen nicht zu vermeiden. Ich scheue die Einwürfe nicht, und da wir alle
+                    nur das Wahre oder Wahrscheinlichste suchen, so können Discussionen nicht
+                    anders, als wesentlich hiezu beytragen. Das Fatale bey der <hi rendition="#aq">
+                        <bibl sameAs="ed_r5b_psk_vw">Amalthea</bibl>
+                    </hi> ist, daß sie so
+                    erbärmlich durch <seg type="comment">
+                        <orig>Druckfehler</orig>
+                        <note xml:id="no1f_b5y_xw">Vgl. die Druckfehlerliste, die Hirt am 25. Nov.
+                            1820 an Böttiger schickt.</note>
+                    </seg> entstellt ist.</p>
+                <p>Der Druck meiner <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Baukunst bey den
+                        Alten</bibl>, welche in zwey Quartbänden erscheinen wird, beschäftigt mich
+                    gegenwärtig sehr. Es ist eine Arbeit von mehr als 30 Jahren. Indeßen weiß ich
+                    nicht, ob ich großen Dank damit bey Gelehrten und Künstlern einärnten werde.
+                        <seg type="comment">
+                        <orig>
+                            <persName key="ed_s4q_vqs_vw">Ihr Waßerbaumeister in München</persName>,
+                                <bibl sameAs="ed_oj2_bky_s1b">der Ähnliches und noch Ausgedehnteres
+                                vorhat</bibl>
+                        </orig>
+                        <note xml:id="njdk_2dk_zw">Karl Friedrich Wiebeking: Theoretisch-practische
+                            bürgerliche Baukunde, durch Geschichte und Beschreibung der
+                            merkwürdigsten antiken Baudenkmahle und ihrer genauen Abbildungen
+                            bereichert. 4 Bde., München: Zängl, 1821-1826</note>
+                    </seg>, scheint sich die Sache leichter zu machen. Doch man laße jedem sein
+                    Steckenpferd. -</p>
+                <p>Ich weiß nicht, ob Sie die <bibl sameAs="ed_a5l_t2k_zw">kleinen Schriften von
+                        mir</bibl>, und <bibl sameAs="ed_nvx_yld_zw">von <persName key="ed_ttv_m3q_bw">Buttmann</persName>
+                    </bibl> über das Zeitalter des
+                        <persName key="ed_k5n_vpv_yw">Curtius</persName> gesehen haben. Manche habe
+                    ich für meine Meinung gewonnen, und zwar von den Bedeutendsten. Übrigens gönne
+                    ich auch hierin jedem gerne seine Meinung. Manches mag hierüber noch in den
+                    öffentlichen Blättern erscheinen. Ich hatte <pb n="3"/> ein Exemplar für Ihre
+                    Herkunft aufbewahrt, aber iezt weiß ich nicht, wie ich es Ihnen zukommen laßen
+                    soll.</p>
+                <p>Vergeben Sie, werthester <hi rendition="#aq">Collega</hi>! diese krause <hi rendition="#aq">Epistel</hi>; aber <seg type="comment">
+                        <orig>da ich einmal an <orgName key="ed_t4x_hfc_b1b">Ihre Akademie</orgName>
+                            zu schreiben hatte</orig>
+                        <note xml:id="nm4r_1fk_zw">1820-11-18-a-Sekretar-Thiersch</note>
+                    </seg>, fühlte ich ein Bedürfniß, mich einmal wieder mit Ihnen zu unterhalten,
+                    besonders da die Hoffnung dies mündlich zu thun getäuscht wurde.</p>
+                <closer>
+                    <salute>Leben Sie wohl, und bleiben Sie von meiner Hochachtung und Freundschaft
+                        überzeugt <lb/>Der Ihrige</salute>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin den 18<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        Nov. 20.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lbq_v5f_sjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an die Museumskommission
+                    (Albrecht, v. Witzleben, Schinkel, Hirt, Tzschoppe). Berlin, 2. Februar
+                    1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 12r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_p52_1lk_rgb">Bülow, Ludwig Friedrich Victor Hans Graf von
+                        (1774-1825) (seit 1795 im preuß. Staatsdienst, preuß. Staats- und
+                        Finanzminister, von 1817 bis zur Auflösung des Ministeriums 1825 Minister
+                        für Handel und Gewerbe (mit Leitung des Baudepartements))</persName>
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_imk_ss2_gjb">Museumskommission - Königliche Kommission zur
+                        Einrichtung des Kunstmuseums in Berlin</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Mit Bearbeitungsvermerken auf dem linken Rand: "<hi rendition="#uu">citissime</hi>"; Mundierungs- und Absendevermerk "3/2. 23."; Aktenvermerk
+                    auf dem oberen Rand: "ad Num: 304. B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_bdv_nnm_pgb">Kunstmuseum – Lokal</term>
+                    <term key="ed_l3v_qnm_pgb">Museumskommission</term>
+                    <term key="ed_l1c_4nm_pgb">Kunstmuseum - Museumsentwürfe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl: Geh: Kabinets-/raths Herrn <persName key="ed_c11_qcg_sjb">Albrecht</persName>, / — —
+                            GeneralAdjudanten / Herrn GeneralMa-/jors v. <persName key="ed_t5n_wdg_sjb">Witzleben</persName> / — — Geh:
+                            Ober B. Raths / Herrn <persName key="ed_rcd_yvw_ww">Schinkel</persName>
+                            / Hochwohlgeboren / und / — — Hofraths und Pro-/fessors
+                            Herrn <persName key="prov_ztg_3sx_sr">Hirt</persName>, / — —
+                            RegierungsRaths / Herrn <persName key="ed_lsl_v2g_sjb">Tzschoppe</persName> / Wohlgeboren / <hi rendition="#u">Hier</hi></addrLine>
+                    </address>
+                    <dateline>Berlin, den 2<hi rendition="#sup">ten</hi> Februar 1823.</dateline>
+                </opener>
+				<p>Seine Majestät der <persName key="prov_bxf_jt5_fv">König</persName> haben uns mittelst
+                    Allerhöchster KabinetsOrdre vom 31<hi rendition="#sup">ten</hi> v<ex>origen</ex>
+                        M<ex>onats</ex> den AllerhöchstDenenselben von dem Herrn
+                    Geheimen-Ober-BauRath <persName key="ed_rcd_yvw_ww">Schinkel</persName>
+                    <seg type="comment">
+                        <orig>eingereichten anderweitigen Plan</orig>
+                        <note xml:id="nhxl_h1g_sjb">Schinkel hatte dem König seinen Museumsentwurf
+                            am 8. Januar 1823 vorgelegt (GStA PK, HA I, Rep. 89 Nr. 20441, Bl.
+                            10-19; siehe Vogtherr, 1997, S. 115-116, 269).</note>
+                    </seg> zur Erbauung eines ganz <placeName key="ediarum_rj2_kdc_sy">neuen
+                        Gebäudes für das Museum</placeName> nebst den dazu gehörigen Zeichnungen mit
+                    der Aufforderung zuzufertigen geruhet, solchen gemeinschaftlich mit der durch
+                    die Allerhöchste KabinetsOrdre vom 27<hi rendition="#sup">ten</hi> May
+                        v<ex>origen</ex> J<ex>ahres</ex> angeordneten <orgName key="ed_imk_ss2_gjb">Commission</orgName> aufs sorgfältigste zu prüfen, und Allerhöchst
+                    Denenselben das Resultat dieser Prüfung sobald als möglich einzureichen.</p>
+                <p>Indem wir uns beehren Ew. — von dieser Allerhöchsten Bestimmung in Kenntniß
+                    zu setzen, erlauben wir uns zugleich, Sie in Folge derselben, zu einer Konferenz
+                    auf künftigen Dienstag den 4<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d<ex>ieses</ex> M<ex>onats</ex> Vormittags um 11. Uhr in der
+                    Wohnung des mitunterzeichneten StaatsMinisters Grafen von <persName key="ed_p52_1lk_rgb">Bülow</persName> ergebenst einzuladen, um <pb n="2"/>
+                    <unclear reason="illegible" cert="">dxxxxxx</unclear> den vorgedachten Plan in
+                    die sorgfältigste Berathung zu nehmen.</p>
+                <p>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></p>
+				<closer>
+                    <signed>(Namens Ihrer Excellenzien der Herren StaatsMinister, Freyherrn von
+                        Altenstein und Grafen von Bülow) <lb/><ex>(gez.)</ex> Altenstein / 2/2.
+                            <ex>(gez.)</ex> Bülow / 2/2</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

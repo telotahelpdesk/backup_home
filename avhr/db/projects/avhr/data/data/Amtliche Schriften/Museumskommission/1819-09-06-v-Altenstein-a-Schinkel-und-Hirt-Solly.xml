@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_xpg_k35_g3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Kultusministers von Altenstein an Schinkel und Hirt, die
+                    Sollysche Kunstsammlung betreffend. Berlin, 6. September 1819</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. VIII Nr. 13 Bd.
+                                1, bl. 17r-v (genehmigtes Konzept)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">nachgewiesen bei: Vogtherr, 1997, S. 90, Anm. 595</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1819-09-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_jgj_rn5_g3b"/>
+                </correspContext>
+                <note>Mit Aktenvermerk: "mdt do," [mundiert dito?] "beide Verfügungen 7/9
+                    abgesandt"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl. Geheimen OberbauRaths / Herrn <persName key="ed_rcd_yvw_ww">Schinckel</persName> / Hochwohlgebohren /
+                            hieselbst / In simili / An / des Königl. Hofraths Herrn Hirt /
+                            Wohlgebohren / hieselbst</addrLine>
+                    </address>
+                    <dateline>Berlin den 6<hi rendition="#sup">ten</hi> Septbr. 1819</dateline>
+                    <salute/>
+                </opener>
+				<p>Ew. p ersuche ich mir über die Ihnen genau bekannte <rs type="artwork" key="prov_ggw_yml_vw">GemähldeSammlung</rs> des H. <persName key="ed_dgx_jml_vw">Solly</persName>, u zwar</p>
+                <p>1) in wie fern, u in welcher Rüksicht <seg type="comment">
+                        <orig>die Erwerbung derselben</orig>
+                        <note xml:id="npxc_z11_h3b">Der englische Kaufmann Edward Solly hatte in
+                            einem Schreiben aus London vom 8. Juni 1819 dem Staatsminister Freiherr
+                            von Altenstein seine Gemäldesammlung zum Kauf angeboten und ihren Wert
+                            "auf nahe an einer million Thaler" angesetzt; zugleich aber hinzugefügt,
+                            dass es nicht seine Absicht sei, "imfall der Staat wünscht dass ich es
+                            überlassen soll mehr als meine wirklichen Kosten zu verlangen" (GStA PK,
+                            I. HA, Rep. 76 Ve Sekt. 15 Abt. 8 Nr. 13 Bd. 1, fol. 1-2). Am 10. Juli
+                            1819 schreibt v. Altenstein, der sich inzwischen von dem hohen Wert der
+                            Sammlung selbst überzeugt hat, an den Staatskanzler Fürst von
+                            Hardenberg: "Das Urtheil des Herrn Hofrath Hirt und des Herrn Geh. O. B.
+                            Rath Schinkel, so wie anderer Kunstkenner und namentlich des Herrn Geh.
+                            O. R. Rathes Schulz, welcher seit geraumer Zeit ein sehr gründliches
+                            Kunst Studium gemacht hat, stimmt ganz damit überein" (ebd., fol. 3-9,
+                            hier fol. 4r). - Die Sammlung, bestehend aus über 3000 Gemälden, wurde
+                            nach Pfändung eines Teils der Gemälde und anschließenden stockenden
+                            Verhandlungen letztlich im November 1821 vom König für 500.000 Taler in
+                            Gold angekauft und bildete den Grundstock des späteren Berliner
+                            Kunstmuseums. (Zu Entstehung, Charakter und Bedeutung der Sammlung Solly
+                            für die Berliner Museumsplanung siehe u.a.: Robert Skwirblies: "Ein
+                            Nationalgut, auf das jeder Einwohner stolz sein dürfte" - Die Sammlung
+                            Edward Solly als Grundlage der Berliner Gemäldegalerie, in: Jb. der
+                            Berliner Museen, N.F. 51 (2009), S. 69-99, online:
+                            http://dx.doi.org/10.14279/depositonce-5251. - Ders.: Altitalienische
+                            Malerei als preußisches Kulturgut. Gemäldesammlungen, Kunsthandel und
+                            Museumspolitik 1797-1830. Berlin/Boston 2017, bes. S. 287-338. -
+                            Christoph M. Vogtherr: Das königliche Museum zu Berlin. Planungen und
+                            Konzeption des ersten Berliner Kunstmuseums, in: Jb. der Berliner
+                            Museen, N.F. 39 (1997) Beiheft, S. 86-92, 194-197). - Schinkels
+                            Gutachten vom 8.9.1819 siehe: GStA PK I. HA, Rep. 76 Kultusministerium
+                            Ve Sekt. J Abt. VIII Nr. 13, fol. 21-25.</note>
+                    </seg> ganz oder zum Theil für das <placeName key="prov_up1_xwt_fv">König<ex>liche</ex> Museum</placeName> wünschenswerth sey, <lb/>2) auf
+                    wie hoch der gesammte Werth derselben summarisch anzunehmen seyn möchte,</p>
+                <p>so schleunig als möglich Ihre gutachtliche Äusserung zukommen zu lassen.</p>
+                <p>Da H. <persName key="ed_dgx_jml_vw">Solly</persName> sich bey seiner jetzigen
+                    Anwesenheit bereit erklärt hat, die Sammlung, mit Einschluß der bereits nach
+                        <placeName key="ed_az2_rl5_g3b">Homburg</placeName> abgegangenen Sachen,
+                    unter gewissen Bedingungen noch ein Jahr lang hier zu belassen, um solche
+                    inzwischen zu vervollständigen, u einen definitiven Beschluß über selbige
+                    möglich zu machen, so halte ich bey der im Allgemeinen anerkannten Wichtigkeit
+                    der Sammlung für Pflicht, diesen Augenblick nicht zu versäumen, um eine
+                    Unterhandlung hierüber anzuknüpfen, u wünsche die <pb n="2"/> erforderlichen
+                    Schritte dazu unverzüglichst zu thun, jedoch dabey durch Ihr sachkundiges
+                    Gutachten nach obigen Beziehungen unterstützt zu werden.</p>
+                <p>Ew. p werden mich daher durch die möglichste Beschleunigung desselben sehr
+                    verpflichten.</p>
+				<closer>
+                    <dateline>Berlin p</dateline>
+                    <signed>Namens S<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Excellenz
+                            <lb/><ex>[Unterschriftskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

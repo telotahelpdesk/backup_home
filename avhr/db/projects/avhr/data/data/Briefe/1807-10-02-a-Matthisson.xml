@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_p1v_fvf_1w">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich von Matthisson. Berlin, 2. Oktober 1807.</title>
+                <title> Freitag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Staatsbibliothek zu Berlin PK</institution>
+                        <collection>Sammlung Autogr. I</collection>
+                        <idno>
+                            <idno type="shelfmark">2549-2</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Friedrich v. Matthisson's Literarischer Nachlaß, Bd. 4,
+                            1832, S. 16-18</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1807-10-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g1w_gqr_js">Matthisson, Friedrich von (1761-1831)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_acx_bfg_1w"/>
+                </correspContext>
+                <note>Der Brief war einem anderen beigelegt (evtl. an Louise von Anhalt-Dessau?); s.
+                    die Notiz am oberen Rand „An M.“ - Der Brief ist undatiert. Die Datierung wurde
+                    aus D übernommen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin, den 2. Oktober 1807.</dateline>
+                    <salute>An M.</salute>
+                </opener>
+                <p> Ich habe auf <seg type="comment">
+                        <orig>Ihr freundschaftliches Schreiben</orig>
+                        <note xml:id="ntrw_v2g_1w">Brief erschlossen:
+                            1807-08-16x-v-Matthisson</note>
+                    </seg> vom 16. Aug<ex>ust</ex> noch nicht geantwortet. Allein Sie wißen, daß ich
+                    ein schlechter Briefschreiber bin, und vergeben mir. Ich nahm mir gleich damals
+                    vor, Ihnen und <seg type="comment">
+                        <orig>
+                            <persName key="prov_nw1_gdx_pv">Vossens</persName>
+                        </orig>
+                        <note xml:id="nx4t_m3b_3w">Der Leipziger Buchhändler Georg Voss. Matthisson
+                            hatte vor seinem Aufenthalt in Berlin in Leipzig Station gemacht und
+                            dort möglicherweise mit diesem über Hirts geplante Publikation
+                            gesprochen.</note>
+                    </seg> Rath zu folgen, und an die Publikation meines <bibl sameAs="prov_e1l_pjv_pv">archetektonischen [!] Werkes</bibl> nicht eher zu
+                    denken, bis wir nicht einer sichern Zukunft entgegen sehen dürfen. Sie haben
+                    doch <seg type="comment">
+                        <orig>meinen Brief an Polyh<ex>istor</ex>
+                        </orig>
+                        <note xml:id="net3_fmv_k1b">Nicht bekannt; möglicherweise ein Brief Hirts an
+                            Böttiger?</note>
+                    </seg>, als Sie von hier wegreisten, von dem Portier doch richtig erhalten? -
+                    Zur Beendigung Ihrer <bibl sameAs="ed_x4s_vgg_1w">L<ex>yrischen</ex>
+                        Blumenlese</bibl> gratuliere ich. Es ist ein schönes Monument deutschen
+                    Geistes; und ich greife nicht selten bald nach diesem, bald nach jenem Bande, um
+                    meine Nebenstunden zu erheitern. Noch fehlt uns ein Werk über <subst>
+                        <del rendition="#ow">den</del>
+                        <add place="across">das</add>
+                    </subst> Eigenthümliche, und Charakteristische unserer vornehmsten Prosaiker.
+                    Vielleicht dürften wir hiezu nur ein Duzend rechnen. Aber schön wäre es, diese
+                    nebeneinander in einer kritischen Gallerie aufgestellt zu sehen. Das Unternehmen
+                    wäre eines Mannes, wie Sie sind, würdig; wenn Sie <del rendition="#s">ge</del>
+                    eben gerade nichts beßeres und Behaglicheres zu treiben wüßten. Meine Liste <pb n="2"/> wäre folgende: <persName key="ed_ndm_cch_bw">Klopstock</persName>,
+                        <persName key="prov_ujj_shc_z5">Lessing</persName>, <persName key="ed_sbc_tch_bw">Mendelsohn</persName>, <persName key="ed_i44_ddh_bw">Engel</persName>, <persName key="prov_lyk_c3g_f5">Wieland</persName>,
+                        <persName key="prov_zqn_wx5_35">Lavater</persName>, <persName key="prov_hwd_hmp_5r">Goethe</persName>, <persName key="ed_s3n_x1n_yv">Voß</persName>, <persName key="ed_ypl_xdh_bw">Thümmel</persName>, <persName key="ed_ajg_j2h_bw">Joh<ex>annes</ex> Müller</persName>, <persName key="prov_hy4_jx2_rs">Herder</persName> - glauben Sie nicht, wenn die
+                    Schreibart und der Geist dieser Männer nach art, wie <hi rendition="#aq">
+                        <persName key="prov_g24_bhk_cv">Cicero</persName>
+                    </hi>, <persName key="ed_slt_mfh_bw">
+                        <hi rendition="#aq">Quintilian</hi>
+                    </persName>, <persName key="ed_fqj_2gh_bw">
+                        <hi rendition="#aq">Dionysius v<ex>on</ex> Halycarnaß</hi>
+                    </persName> - die Redner charakterisirten, näher zergliedert, und das
+                    Eigenthümliche von jedem derselben gezeigt würde, daß eine solche Schrift sehr
+                    belehrend, und vom ganzen Publikum sehr gesucht seyn würde? - Es wäre eine
+                    schöne Winterarbeit in Ihrer Einsiedeley. Und wer könnte uns dieses geben, als
+                    der selbst ein eminenter Schriftsteller ist? - Sie werden vielleicht über meinen
+                    Einfall, und Zumuthung lachen; aber darin immer die treue Anhänglichkeit, und
+                    wahre Hochschäzung Ihres Talentes von Seiten Ihres Freundes erkennen. </p>
+                <closer>
+                    <salute>
+                        <del rendition="#s">Po</del>
+                    </salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

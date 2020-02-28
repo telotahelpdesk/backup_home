@@ -1,0 +1,1827 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="ah_ortsregister" xml:lang="de" xml:id="prov1154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Registereintrag</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="prov_oxg_n4j_2v">
+                    <idno type="uri">http://www.geonames.org/357994</idno>
+                    <placeName type="reg">Ägypten</placeName>
+                </place>
+                <place xml:id="ed_ecq_24k_33b">
+                    <placeName type="reg">Aachen</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_dgy_lsk_33b" type="building">
+                            <placeName type="reg">Dom</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_ndj_52f_mw">
+                    <idno type="uri">http://www.geonames.org/8133696</idno>
+                    <placeName type="reg">Aegina </placeName>
+                    <note>Insel im saronischen Meerbusen</note>
+                </place>
+                <place xml:id="prov_z44_5ch_y5">
+                    <placeName type="reg">Albano</placeName>
+                </place>
+                <place xml:id="ed_yj4_jp3_5y">
+                    <placeName type="reg">Albanus Mons </placeName>
+                    <placeName type="alt">Albaner Berge</placeName>
+                    <note>
+                        <note>
+                            <ref target="https://de.wikipedia.org/wiki/Albaner_Berge">Wikipedia</ref>
+                        </note>
+                    </note>
+                </place>
+                <place xml:id="prov_uws_wgl_2v">
+                    <idno type="uri">http://www.geonames.org/361058</idno>
+                    <placeName type="reg">Alexandria</placeName>
+                </place>
+                <place xml:id="prov_cv3_m1m_cv">
+                    <placeName type="reg">Alpen</placeName>
+                    <note>
+                        <ref target="https://de.wikipedia.org/wiki/Alpen">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="ed_awd_gsv_cjb">
+                    <placeName type="reg">Altmühl - Fluß</placeName>
+                </place>
+                <place xml:id="prov_elj_xhc_gv">
+                    <idno type="uri">http://www.geonames.org/6252001</idno>
+                    <placeName type="reg">Amerika</placeName>
+                </place>
+                <place xml:id="prov_avy_h4c_2v">
+                    <idno type="uri">http://www.geonames.org/3183089</idno>
+                    <placeName type="reg">Ancona</placeName>
+                </place>
+                <place xml:id="ed_h43_xg5_h1b">
+                    <idno type="uri">http://www.geonames.org/2955936</idno>
+                    <placeName type="reg">Ansbach</placeName>
+                </place>
+                <place xml:id="prov_ng2_rmj_gv">
+                    <placeName type="reg">Antiochia</placeName>
+                </place>
+                <place xml:id="prov_zl3_qmk_cv">
+                    <idno type="uri">http://www.geonames.org/3182937</idno>
+                    <placeName type="reg">Aquino</placeName>
+                </place>
+                <place xml:id="prov_vbz_d2h_y5">
+                    <idno type="uri">http://www.geonames.org/3182897</idno>
+                    <placeName type="reg">Ardea</placeName>
+                </place>
+                <place xml:id="ed_e1d_nnl_jw">
+                    <placeName type="reg">Ärmelkanal</placeName>
+                    <note>
+                        <ref target="https://de.wikipedia.org/wiki/%C3%84rmelkanal">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="ed_msd_hdm_1y">
+                    <idno type="uri">http://www.geonames.org/2955421</idno>
+                    <placeName type="reg">Arolsen</placeName>
+                </place>
+                <place xml:id="ed_el2_k1x_5w">
+                    <idno type="uri">http://www.geonames.org/264371</idno>
+                    <placeName type="reg">Athen</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_utc_zlv_kx" type="building">
+                            <placeName type="reg">Parthenon</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_sjg_gys_tv">
+                    <idno type="uri">http://www.geonames.org/337996</idno>
+                    <placeName type="reg">Äthiopien</placeName>
+                </place>
+                <place xml:id="ed_rbw_pbs_2y">
+                    <idno type="uri">http://www.geonames.org/2954172</idno>
+                    <placeName type="reg">Augsburg</placeName>
+                </place>
+                <place xml:id="prov_jlj_b15_y5">
+                    <idno type="uri">http://www.geonames.org/3035681</idno>
+                    <placeName type="reg">Avignon</placeName>
+                </place>
+                <place xml:id="ed_nkj_hb3_dw">
+                    <placeName type="reg">Babylon</placeName>
+                </place>
+                <place xml:id="ed_iql_xnk_lw">
+                    <idno type="uri">http://www.geonames.org/2953481</idno>
+                    <placeName type="reg">Baden</placeName>
+                </place>
+                <place xml:id="ed_rly_hjv_bw">
+                    <placeName type="reg">Bäder in Böhmen </placeName>
+                    <note>Karlsbad, Marienbad, Franzensbad, Teplitz</note>
+                </place>
+                <place xml:id="ed_j43_2fk_lw">
+                    <idno type="uri">http://www.geonames.org/2661604</idno>
+                    <placeName type="reg">Basel</placeName>
+                </place>
+                <place xml:id="ed_tmd_sml_4x">
+                    <idno type="uri">http://www.geonames.org/2951839</idno>
+                    <placeName type="reg">Bayern</placeName>
+                </place>
+                <place xml:id="ed_wsl_d4t_h1b">
+                    <idno type="uri">http://www.geonames.org/2951825</idno>
+                    <placeName type="reg">Bayreuth</placeName>
+                </place>
+                <place xml:id="prov_gt1_jlt_y5">
+                    <placeName type="reg">Belvedere bei Weimar</placeName>
+                </place>
+                <place xml:id="prov_ycp_cpr_js">
+                    <idno type="uri">http://www.geonames.org/2950159</idno>
+                    <placeName type="reg">Berlin</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_py3_2sj_vkb" type="building">
+                            <placeName type="reg">Akademie der Künste zu Berlin</placeName>
+                            <note>Unter den Linden</note>
+                        </place>
+                        <place xml:id="prov_wcb_njr_cv" type="building">
+                            <placeName type="reg">Akademie der Wissenschaften zu Berlin </placeName>
+                            <note>Unter den Linden</note>
+                        </place>
+                        <place xml:id="ediarum_qkl_1cw_jgb" type="building">
+                            <placeName type="reg">Akademiegebäude Unter den Linden </placeName>
+                            <note>gemeinsam genutzt von der Akademie der Künste und der Akademie der
+                                Wissenschaften; später auch, nach diversen Um- und Anbauten, als
+                                Lokal für das geplante Kunstmuseum vorgesehen; mehrere Räume dienten
+                                als Königliches Restaurations-Atelier für die für das Museum
+                                vorgesehenen Gemälde</note>
+                        </place>
+                        <place xml:id="ediarum_bjk_pmr_yhb" type="building">
+                            <placeName type="reg">Anatomisches Museum</placeName>
+                        </place>
+                        <place xml:id="ediarum_act_vw3_y3b" type="building">
+                            <placeName type="reg">Anatomisches Theater der
+                                Tierarzneischule</placeName>
+                        </place>
+                        <place xml:id="ediarum_anp_pjd_wjb" type="building">
+                            <placeName type="reg">Anspachsches Palais </placeName>
+                            <note>Wilhelmstraße 102, 1737-39 erbaut, später Palais des Prinzen
+                                Albrecht; 1830-33 Umbau durch Schinkel</note>
+                        </place>
+                        <place xml:id="ediarum_vm3_lmr_yhb" type="building">
+                            <placeName type="reg">Antiquarium</placeName>
+                        </place>
+                        <place xml:id="ediarum_p1x_crh_jkb" type="building">
+                            <placeName type="reg">Atelier von Christian Daniel Rauch </placeName>
+                            <note>Bildhauer- und Restaurierungswerkstatt, seit 1819 Arbeits- und
+                                Wohnräume im "Lagerhaus" in der Klosterstraße 75/76</note>
+                        </place>
+                        <place xml:id="prov_r1s_swv_pv" type="building">
+                            <placeName type="reg">Bauakademie</placeName>
+                        </place>
+                        <place xml:id="ediarum_oqh_qfw_jgb" type="building">
+                            <placeName type="reg">Börse</placeName>
+                        </place>
+                        <place xml:id="ediarum_yzg_cnr_yhb" type="park">
+                            <placeName type="reg">Botanischer Garten</placeName>
+                        </place>
+                        <place xml:id="prov_es4_y4d_4v" type="building">
+                            <idno type="uri">http://www.geonames.org/6698677</idno>
+                            <placeName type="reg">Brandenburger Tor</placeName>
+                        </place>
+                        <place xml:id="ediarum_pr3_knr_yhb" type="building">
+                            <placeName type="reg">Chemisches Laboratorium</placeName>
+                        </place>
+                        <place xml:id="ediarum_i4r_dfw_jgb" type="building">
+                            <placeName type="reg">Dom</placeName>
+                        </place>
+                        <place xml:id="ediarum_ij2_stx_rgb" type="street">
+                            <placeName type="reg">Dönhoffplatz</placeName>
+                            <placeName type="alt">Dönhofscher Platz, Döhnhofischer Platz</placeName>
+                        </place>
+                        <place xml:id="ediarum_ydh_q5x_rgb" type="district">
+                            <placeName type="reg">Friedrichswerder, der</placeName>
+                            <note>auf dem</note>
+                        </place>
+                        <place xml:id="ediarum_wyc_nnk_rgb" type="building">
+                            <placeName type="reg">Friedrichwerdersche Kirche</placeName>
+                        </place>
+                        <place xml:id="ediarum_gnk_fyd_vx" type="building">
+                            <placeName type="reg">Friedrichwerdersches Gymnasium</placeName>
+                        </place>
+                        <place xml:id="ediarum_vfk_tdq_5y" type="building">
+                            <placeName type="reg">Gemäldegalerie</placeName>
+                        </place>
+                        <place xml:id="prov_hfl_w1j_sv" type="street">
+                            <idno type="uri">http://www.geonames.org/6944065</idno>
+                            <placeName type="reg">Gendarmenmarkt</placeName>
+                        </place>
+                        <place xml:id="ediarum_eqs_wqy_fhb" type="building">
+                            <placeName type="reg">Gymnasien</placeName>
+                        </place>
+                        <place xml:id="ediarum_tbl_n3n_5jb" type="building">
+                            <placeName type="reg">Haus von Solly</placeName>
+                            <note>Wilhelmstr. Nr. 67, "Sollysches Haus", in welchem dessen
+                                Gemäldesammlung aufbewahrt wurde</note>
+                        </place>
+                        <place xml:id="ediarum_p5x_rgw_jgb" type="street">
+                            <placeName type="reg">Hundebrücke </placeName>
+                            <note>die spätere Schlossbrücke</note>
+                        </place>
+                        <place xml:id="prov_obz_4lv_3v" type="building">
+                            <placeName type="reg">Königliche Bibliothek</placeName>
+                        </place>
+                        <place xml:id="prov_olb_qlv_3v" type="building">
+                            <placeName type="reg">Kunstkammer, Königliche </placeName>
+                            <note>im Berliner Stadtschloss</note>
+                        </place>
+                        <place xml:id="ediarum_cjp_wbm_gjb" type="building">
+                            <placeName type="reg">Kupferstichkabinett</placeName>
+                        </place>
+                        <place xml:id="ediarum_drq_dw2_gjb" type="building">
+                            <placeName type="reg">Lagerhaus</placeName>
+                        </place>
+                        <place xml:id="prov_xsq_vf5_tv" type="park">
+                            <placeName type="reg">Lustgarten</placeName>
+                        </place>
+                        <place xml:id="ediarum_r4d_pcw_jgb" type="building">
+                            <placeName type="reg">Marstall</placeName>
+                            <note>Königliche Ställe im Akademiegebäude Unter den Linden</note>
+                        </place>
+                        <place xml:id="ediarum_spq_5mr_yhb" type="others">
+                            <placeName type="reg">Mineralogische Sammlung</placeName>
+                        </place>
+                        <place xml:id="ediarum_efd_w4g_yy" type="building">
+                            <placeName type="reg">Monbijou - Schloss</placeName>
+                        </place>
+                        <place xml:id="ediarum_rj2_kdc_sy" type="building">
+                            <placeName type="reg">Museum - Neubau </placeName>
+                            <note>Neubau des Königlichen Museums im Lustgarten durch Schinkel; bei
+                                Eröffnung "Neues Museum", danach bis 1845 "Königliches Museum",
+                                heute "Altes Museum"</note>
+                        </place>
+                        <place xml:id="ediarum_um1_3nl_xw" type="building">
+                            <placeName type="reg">Museum - Plan I </placeName>
+                            <note>Plan I: Umbau Marstall und Universität, 1820</note>
+                        </place>
+                        <place xml:id="prov_up1_xwt_fv" type="building">
+                            <placeName type="reg">Museum - Planung</placeName>
+                        </place>
+                        <place xml:id="prov_blr_yqd_4v" type="building">
+                            <placeName type="reg">Neue Münze </placeName>
+                            <note>von Gentz</note>
+                        </place>
+                        <place xml:id="ediarum_ilz_ngz_s1b" type="building">
+                            <placeName type="reg">Neues Schauspielhaus </placeName>
+                            <note>erbaut von Schinkel</note>
+                        </place>
+                        <place xml:id="ediarum_hf2_b2w_jgb" type="building">
+                            <placeName type="reg">Oper, Königliche</placeName>
+                        </place>
+                        <place xml:id="ediarum_hs2_f2y_tgb" type="street">
+                            <placeName type="reg">Opernbrücke</placeName>
+                        </place>
+                        <place xml:id="ediarum_xnz_32w_jgb" type="street">
+                            <placeName type="reg">Opernplatz</placeName>
+                        </place>
+                        <place xml:id="ediarum_qsr_wlq_tjb" type="building">
+                            <placeName type="reg">Packhof / Packhöfe</placeName>
+                        </place>
+                        <place xml:id="ediarum_yz2_gfw_jgb" type="street">
+                            <placeName type="reg">Packhofbrücke</placeName>
+                        </place>
+                        <place xml:id="prov_b4c_qfr_gv" type="building">
+                            <placeName type="reg">Palais der Gräfin Lichtenau Unter den Linden </placeName>
+                            <placeName type="alt">Niederländisches Palais</placeName>
+                        </place>
+                        <place xml:id="ediarum_qsk_2hw_jgb" type="building">
+                            <placeName type="reg">Palais der Prinzessin Ludwig </placeName>
+                            <placeName type="alt">Prinzessinnenpalais</placeName>
+                        </place>
+                        <place xml:id="ediarum_s3f_3jw_jgb" type="building">
+                            <placeName type="reg">Palais des Prinzen Heinrich Unter den Linden </placeName>
+                            <note>das spätere Universitätsgebäude</note>
+                        </place>
+                        <place xml:id="ediarum_iwg_ztx_rgb" type="building">
+                            <placeName type="reg">Petrikirche</placeName>
+                        </place>
+                        <place xml:id="ediarum_o3c_tfw_jgb" type="street">
+                            <placeName type="reg">Platz der Maroniers </placeName>
+                            <placeName type="alt">Kastanienwäldchen</placeName>
+                        </place>
+                        <place xml:id="ediarum_bcr_5cw_jgb" type="others">
+                            <placeName type="reg">Regiment Gensd'armes </placeName>
+                            <note>im Akademiegebäude Unter den Linden</note>
+                        </place>
+                        <place xml:id="ediarum_nqx_rnh_lkb" type="building">
+                            <placeName type="reg">Restaurierungs-Atelier für Gemälde </placeName>
+                            <note>im März 1824 in der Behrenstraße 66 eingerichtete
+                                Restaurierungswerkstatt für die für das kgl. Museum vorgesehenen
+                                Gemälde; die Oberaufsicht hatte der Maler Carl Waagen, ihm
+                                unterstanden als Direktor der Maler Schlesinger, diesem wiederum als
+                                Meister die Maler Koester, Xeller, Hummel und Menschel, als
+                                "Gehilfen für den Pinsel" die Maler Geißler, Butzky, Wollburg und
+                                Nerenz, als Gehilfen für wichtige Vorarbeiten die Maler Kromayer und
+                                Neumeister</note>
+                        </place>
+                        <place xml:id="prov_y3f_tn3_sv" type="building">
+                            <placeName type="reg">Schauspielhaus - Nationaltheater</placeName>
+                        </place>
+                        <place xml:id="ediarum_oyj_kfw_jgb" type="sea">
+                            <placeName type="reg">Spree</placeName>
+                        </place>
+                        <place xml:id="ediarum_d2c_52w_jgb" type="building">
+                            <placeName type="reg">St. Hedwigs-Kathedrale </placeName>
+                            <note>katholische Kirche</note>
+                        </place>
+                        <place xml:id="ediarum_wgp_l3w_jgb" type="sea">
+                            <placeName type="reg">Stadtgraben</placeName>
+                        </place>
+                        <place xml:id="prov_ulk_twt_fv" type="building">
+                            <placeName type="reg">Stadtschloss</placeName>
+                        </place>
+                        <place xml:id="ediarum_p1f_gnr_yhb" type="building">
+                            <placeName type="reg">Sternwarte</placeName>
+                        </place>
+                        <place xml:id="ediarum_ijd_cgp_dw" type="park">
+                            <idno type="uri">http://www.geonames.org/7288057</idno>
+                            <placeName type="reg">Tiergarten</placeName>
+                        </place>
+                        <place xml:id="ediarum_tzx_1vt_fw" type="building">
+                            <idno type="uri">http://www.geonames.org/6944074</idno>
+                            <placeName type="reg">Universität</placeName>
+                        </place>
+                        <place xml:id="ediarum_imw_p2w_jgb" type="street">
+                            <placeName type="reg">Unter den Linden</placeName>
+                            <note>Prachtboulevard</note>
+                        </place>
+                        <place xml:id="ediarum_yfs_y2w_jgb" type="building">
+                            <placeName type="reg">Waschhaus</placeName>
+                        </place>
+                        <place xml:id="ediarum_n1c_bgw_jgb" type="building">
+                            <placeName type="reg">Zeughaus</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_j43_pwf_vx">
+                    <idno type="uri">http://www.geonames.org/2950096</idno>
+                    <placeName type="reg">Bernau</placeName>
+                </place>
+                <place xml:id="ed_fgt_hjf_mw">
+                    <idno type="uri">http://www.geonames.org/2947949</idno>
+                    <placeName type="reg">Blaubeuren</placeName>
+                </place>
+                <place xml:id="ed_ilq_twx_vkb">
+                    <placeName type="reg">Berlin</placeName>
+                </place>
+                <place xml:id="ed_vjv_5bq_lw">
+                    <idno type="uri">http://www.geonames.org/2947111</idno>
+                    <placeName type="reg">Bodensee</placeName>
+                </place>
+                <place xml:id="prov_hrj_4bv_35">
+                    <idno type="uri">http://www.geonames.org/3181928</idno>
+                    <placeName type="reg">Bologna</placeName>
+                </place>
+                <place xml:id="ed_jjj_lh4_pw">
+                    <idno type="uri">http://www.geonames.org/2946447</idno>
+                    <placeName type="reg">Bonn</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_fzw_pww_5w" type="building">
+                            <placeName type="reg">Universität </placeName>
+                            <placeName type="alt">Neue Rheinische Universität</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_mrz_drt_h1b">
+                    <idno type="uri">http://www.geonames.org/3181913</idno>
+                    <placeName type="reg">Bozen</placeName>
+                </place>
+                <place xml:id="ed_bjv_jvb_f3b">
+                    <placeName type="reg">Brabant</placeName>
+                </place>
+                <place xml:id="prov_kl1_tsv_pv">
+                    <idno type="uri">http://www.geonames.org/2945024</idno>
+                    <placeName type="reg">Braunschweig</placeName>
+                </place>
+                <place xml:id="ed_dpt_3xs_hw">
+                    <idno type="uri">http://www.geonames.org/2944388</idno>
+                    <placeName type="reg">Bremen</placeName>
+                </place>
+                <place xml:id="ed_b3t_kzt_mx">
+                    <idno type="uri">http://www.geonames.org/3081368</idno>
+                    <placeName type="reg">Breslau</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_wtn_lyd_vx" type="building">
+                            <placeName type="reg">Universität</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_dcv_3xx_zw">
+                    <idno type="uri">http://www.geonames.org/3205647</idno>
+                    <placeName type="reg">Brigental </placeName>
+                    <placeName type="alt">Brigachtal</placeName>
+                </place>
+                <place xml:id="ed_erq_gnd_lw">
+                    <idno type="uri">http://www.geonames.org/2800866</idno>
+                    <placeName type="reg">Brüssel</placeName>
+                </place>
+                <place xml:id="prov_unc_wpk_cv">
+                    <placeName type="reg">Campagna di Roma </placeName>
+                    <placeName type="alt">Campagna Romana</placeName>
+                    <note>
+                        <ref target="https://de.wikipedia.org/wiki/Campagna_Romana">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="ed_a5g_qzc_xw">
+                    <idno type="uri">http://www.geonames.org/3180792</idno>
+                    <placeName type="reg">Canosa di Puglia</placeName>
+                </place>
+                <place xml:id="prov_edj_trm_y5">
+                    <idno type="uri">http://www.geonames.org/3180629</idno>
+                    <placeName type="reg">Capri</placeName>
+                </place>
+                <place xml:id="ed_kyt_tpz_lw">
+                    <idno type="uri">http://www.geonames.org/3180423</idno>
+                    <placeName type="reg">Carrara</placeName>
+                </place>
+                <place xml:id="prov_cyy_nxj_cv">
+                    <idno type="uri">http://www.geonames.org/3179866</idno>
+                    <placeName type="reg">Caserta</placeName>
+                </place>
+                <place xml:id="prov_exj_j2r_gv">
+                    <idno type="uri">http://www.geonames.org/2940187</idno>
+                    <placeName type="reg">Charlottenburg</placeName>
+                    <listPlace>
+                        <place xml:id="prov_e4k_k2r_gv" type="building">
+                            <placeName type="reg">Palais der Gräfin Lichtenau</placeName>
+                        </place>
+                        <place xml:id="ediarum_zl2_55t_ngb" type="building">
+                            <placeName type="reg">Schloss</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_d1p_nlv_h1b">
+                    <idno type="uri">http://www.geonames.org/2658145</idno>
+                    <placeName type="reg">Chemenin bei Vevey</placeName>
+                </place>
+                <place xml:id="ed_mbf_nj3_by">
+                    <idno type="uri">http://www.geonames.org/3178754</idno>
+                    <placeName type="reg">Chiusi</placeName>
+                </place>
+                <place xml:id="prov_lbg_npj_gv">
+                    <idno type="uri">http://www.geonames.org/2939981</idno>
+                    <placeName type="reg">Cleve</placeName>
+                </place>
+                <place xml:id="ed_b2x_5xq_5x">
+                    <placeName type="reg">Clusium </placeName>
+                    <placeName type="alt">Chiusi</placeName>
+                </place>
+                <place xml:id="ed_zvv_w5d_lw">
+                    <idno type="uri">http://www.geonames.org/3024297</idno>
+                    <placeName type="reg">Colmar</placeName>
+                </place>
+                <place xml:id="prov_vgh_wmj_gv">
+                    <idno type="uri">http://www.geonames.org/3178229</idno>
+                    <placeName type="reg">Como</placeName>
+                </place>
+                <place xml:id="ed_dvy_n5n_1y">
+                    <placeName type="reg">Corneto s. Tarquinia</placeName>
+                </place>
+                <place xml:id="prov_fg1_dtx_2v">
+                    <idno type="uri">http://www.geonames.org/2939819</idno>
+                    <placeName type="reg">Coswig</placeName>
+                </place>
+                <place xml:id="prov_p44_ygh_kv">
+                    <idno type="uri">http://www.geonames.org/2623032</idno>
+                    <placeName type="reg">Dänemark</placeName>
+                </place>
+                <place xml:id="ed_vdf_rjf_mw">
+                    <idno type="uri">http://www.geonames.org/3099434</idno>
+                    <placeName type="reg">Danzig</placeName>
+                </place>
+                <place xml:id="ed_b2v_zyp_lw">
+                    <idno type="uri">http://www.geonames.org/2938913</idno>
+                    <placeName type="reg">Darmstadt</placeName>
+                </place>
+                <place xml:id="ed_fzl_njf_mw">
+                    <idno type="uri">http://www.geonames.org/2747373</idno>
+                    <placeName type="reg">Den Haag </placeName>
+                    <placeName type="alt">'s-Gravenhage</placeName>
+                </place>
+                <place xml:id="prov_qht_zxr_js">
+                    <idno type="uri">http://www.geonames.org/2937959</idno>
+                    <placeName type="reg">Dessau</placeName>
+                </place>
+                <place xml:id="prov_xym_pdx_w5">
+                    <idno type="uri">http://www.geonames.org/2921044</idno>
+                    <placeName type="reg">Deutschland</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_yz1_1nc_fhb" type="others">
+                            <placeName type="reg">Norddeutschland</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_fm5_f2w_3v">
+                    <placeName type="reg">Dodona </placeName>
+                    <note>antikes griech. Heiligtum, ältestes Orakel Griechenlands; <ref target="https://de.wikipedia.org/wiki/Dodona">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="ed_uzq_rtx_zw">
+                    <idno type="uri">http://www.geonames.org/2782713</idno>
+                    <placeName type="reg">Donau</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_elg_stx_zw" type="sea">
+                            <placeName type="reg">Donauquelle</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_qxh_csc_qw">
+                    <idno type="uri">http://www.geonames.org/2936267</idno>
+                    <placeName type="reg">Donaueschingen</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_kbd_d5x_zw" type="building">
+                            <placeName type="reg">Fürstlich Fürstenbergisches
+                                Residenzschloss</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_z13_mcr_2v">
+                    <idno type="uri">http://www.geonames.org/2935741</idno>
+                    <placeName type="reg">Dornburg</placeName>
+                </place>
+                <place xml:id="prov_zj4_hc3_g5">
+                    <idno type="uri">http://www.geonames.org/2935022</idno>
+                    <placeName type="reg">Dresden</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_jhd_3b5_4x" type="building">
+                            <placeName type="reg">Augusteum</placeName>
+                            <note>Antikensammlung</note>
+                        </place>
+                        <place xml:id="ediarum_osm_fgb_5y" type="building">
+                            <placeName type="reg">Gemäldegalerie</placeName>
+                        </place>
+                        <place xml:id="ediarum_kxq_gbp_rx" type="building">
+                            <placeName type="reg">Kunstakademie</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_m1d_xsw_gv">
+                    <idno type="uri">http://www.geonames.org/2934246</idno>
+                    <placeName type="reg">Düsseldorf</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_snb_sl1_wz" type="building">
+                            <placeName type="reg">Kunstgalerie</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_wy3_4nt_h1b">
+                    <idno type="uri">http://www.geonames.org/3077835</idno>
+                    <placeName type="reg">Eger</placeName>
+                </place>
+                <place xml:id="ed_vct_nnj_xw">
+                    <placeName type="reg">Elbsandsteingebirge </placeName>
+                    <placeName type="alt">Sächsische Schweiz</placeName>
+                </place>
+                <place xml:id="ed_v5d_hym_4x">
+                    <placeName type="reg">Elis</placeName>
+                </place>
+                <place xml:id="ed_yhl_qh5_h1b">
+                    <idno type="uri">http://www.geonames.org/2930889</idno>
+                    <placeName type="reg">Ellwangen</placeName>
+                </place>
+                <place xml:id="prov_npf_ydx_w5">
+                    <idno type="uri">http://www.geonames.org/6269131</idno>
+                    <placeName type="reg">England</placeName>
+                </place>
+                <place xml:id="ed_xxs_t2p_dw">
+                    <placeName type="reg">Ephesus</placeName>
+                </place>
+                <place xml:id="ed_rgb_2kx_lw">
+                    <idno type="uri">http://www.geonames.org/2929827</idno>
+                    <placeName type="reg">Eppishausen</placeName>
+                </place>
+                <place xml:id="ed_rs1_znv_mx">
+                    <idno type="uri">http://www.geonames.org/315147</idno>
+                    <placeName type="reg">Euphrat</placeName>
+                </place>
+                <place xml:id="prov_ebw_npv_rv">
+                    <placeName type="reg">Europa</placeName>
+                </place>
+                <place xml:id="ed_tgx_gj1_kw">
+                    <idno type="uri">http://www.geonames.org/3177090</idno>
+                    <placeName type="reg">Ferrara</placeName>
+                </place>
+                <place xml:id="ed_ajp_vgn_yx">
+                    <placeName type="reg">Fischbach </placeName>
+                    <note>Schloss im Hirschberger Tal</note>
+                </place>
+                <place xml:id="ed_nx5_22d_xz">
+                    <idno type="uri">http://www.geonames.org/3337388</idno>
+                    <placeName type="reg">Flandern</placeName>
+                </place>
+                <place xml:id="prov_hp5_gbv_35">
+                    <idno type="uri">http://www.geonames.org/3176959</idno>
+                    <placeName type="reg">Florenz</placeName>
+                    <placeName type="alt">Firenze</placeName>
+                    <listPlace>
+                        <place xml:id="prov_b2h_mht_1v" type="building">
+                            <placeName type="reg">Palazzo Altoviti</placeName>
+                        </place>
+                        <place xml:id="ediarum_lsz_nz2_sgb" type="building">
+                            <idno type="uri">http://d-nb.info/gnd/4097998-2</idno>
+                            <placeName type="reg">Santa Maria del Fiore</placeName>
+                            <note>Kathedrale/Dom</note>
+                        </place>
+                        <place xml:id="ediarum_cdd_1mg_gjb" type="building">
+                            <placeName type="reg">Uffizien </placeName>
+                            <placeName type="alt">Galleria degli Uffizi</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_zcy_dc3_g5">
+                    <idno type="uri">http://www.geonames.org/2925533</idno>
+                    <placeName type="reg">Frankfurt am Main</placeName>
+                </place>
+                <place xml:id="prov_ad5_cbx_w5">
+                    <idno type="uri">http://www.geonames.org/3017382</idno>
+                    <placeName type="reg">Frankreich</placeName>
+                </place>
+                <place xml:id="prov_jq2_rch_y5">
+                    <idno type="uri">http://www.geonames.org/3176552</idno>
+                    <placeName type="reg">Frattocchie</placeName>
+                </place>
+                <place xml:id="ed_jcb_v5d_lw">
+                    <idno type="uri">http://www.geonames.org/2925177</idno>
+                    <placeName type="reg">Freiburg im Breisgau</placeName>
+                </place>
+                <place xml:id="ed_tjm_xgj_xv">
+                    <idno type="uri">http://www.geonames.org/2953458</idno>
+                    <placeName type="reg">Freienwalde </placeName>
+                    <placeName type="alt">Bad Freienwalde</placeName>
+                </place>
+                <place xml:id="prov_kjc_cdh_y5">
+                    <placeName type="reg">Gabii</placeName>
+                </place>
+                <place xml:id="ed_n5q_mbr_5x">
+                    <idno type="uri">http://www.geonames.org/2520600</idno>
+                    <placeName type="reg">Gades</placeName>
+                    <note>antiker Name von Cádiz</note>
+                </place>
+                <place xml:id="prov_qqb_pv5_w5">
+                    <idno type="uri">http://www.geonames.org/2660646</idno>
+                    <placeName type="reg">Genf</placeName>
+                </place>
+                <place xml:id="ed_hpw_4cs_xz">
+                    <idno type="uri">http://www.geonames.org/3099213</idno>
+                    <placeName type="reg">Glogau</placeName>
+                </place>
+                <place xml:id="prov_gfr_p1v_35">
+                    <idno type="uri">http://www.geonames.org/2658828</idno>
+                    <placeName type="reg">Gotthard</placeName>
+                </place>
+                <place xml:id="prov_sp5_tmk_4v">
+                    <idno type="uri">http://www.geonames.org/2918632</idno>
+                    <placeName type="reg">Göttingen</placeName>
+                    <listPlace>
+                        <place xml:id="prov_xcz_5mk_4v" type="building">
+                            <placeName type="reg">Bibliothek</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_hrm_rbq_2v">
+                    <idno type="uri">http://www.geonames.org/390903</idno>
+                    <placeName type="reg">Griechenland</placeName>
+                </place>
+                <place xml:id="prov_vdf_qzg_y5">
+                    <idno type="uri">http://www.geonames.org/3175775</idno>
+                    <placeName type="reg">Grottaferrata</placeName>
+                </place>
+                <place xml:id="prov_bjj_mqm_y5">
+                    <placeName type="reg">Grotte Neptuns</placeName>
+                </place>
+                <place xml:id="ed_mcw_nth_yx">
+                    <idno type="uri">http://www.geonames.org/557882</idno>
+                    <placeName type="reg">Gumbinnen</placeName>
+                    <placeName type="alt">russ. Gussew</placeName>
+                </place>
+                <place xml:id="ed_cj1_q3w_dw">
+                    <idno type="uri">http://www.geonames.org/2911522</idno>
+                    <placeName type="reg">Halle</placeName>
+                </place>
+                <place xml:id="ed_fsk_x1q_lw">
+                    <idno type="uri">http://www.geonames.org/2911007</idno>
+                    <placeName type="reg">Hanau</placeName>
+                </place>
+                <place xml:id="prov_dyb_3sn_pv">
+                    <idno type="uri">http://www.geonames.org/2910831</idno>
+                    <placeName type="reg">Hannover</placeName>
+                </place>
+                <place xml:id="prov_n5k_15h_kv">
+                    <idno type="uri">http://www.geonames.org/2909965</idno>
+                    <placeName type="reg">Harz</placeName>
+                </place>
+                <place xml:id="ed_ok5_2vd_lw">
+                    <idno type="uri">http://www.geonames.org/2907911</idno>
+                    <placeName type="reg">Heidelberg</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_ijm_1zk_lw" type="building">
+                            <placeName type="reg">Schloss</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_e4n_42n_h1b">
+                    <idno type="uri">http://www.geonames.org/2907669</idno>
+                    <placeName type="reg">Heilbronn</placeName>
+                </place>
+                <place xml:id="ed_s21_wnj_lw">
+                    <idno type="uri">http://www.geonames.org/2907616</idno>
+                    <placeName type="reg">Heiligenberg</placeName>
+                    <note>Bodensee-Hinterland</note>
+                </place>
+                <place xml:id="prov_p35_zsv_pv">
+                    <idno type="uri">http://www.geonames.org/2906676</idno>
+                    <placeName type="reg">Helmstedt</placeName>
+                </place>
+                <place xml:id="ed_gdd_y1r_5x">
+                    <placeName type="reg">Hierapolis</placeName>
+                    <note>antike griech. Stadt in der Landschaft Phrygien in Kleinasien</note>
+                </place>
+                <place xml:id="prov_mx4_gqy_cv">
+                    <idno type="uri">http://www.geonames.org/2902768</idno>
+                    <placeName type="reg">Hof</placeName>
+                </place>
+                <place xml:id="ed_az2_rl5_g3b">
+                    <placeName type="reg">Homburg </placeName>
+                    <placeName type="alt">Bad Homburg vor der Höhe</placeName>
+                    <note>Hessen, Taunus; siehe auch: Marianne von Preußen, geb. Prinzessin von
+                        Hessen-Homburg; verh. mit dem Bruder von König Friedrich Wilhelm III.</note>
+                </place>
+                <place xml:id="ed_tsq_lrx_zw">
+                    <idno type="uri">http://www.geonames.org/2898028</idno>
+                    <placeName type="reg">Hüfingen </placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_t3w_mrx_zw" type="monument">
+                            <placeName type="reg">Römerbad und Kastell</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_sbq_1yw_nw">
+                    <placeName type="reg">Ida - Berg</placeName>
+                </place>
+                <place xml:id="ed_trc_rkv_mx">
+                    <idno type="uri">http://www.geonames.org/1367324</idno>
+                    <placeName type="reg">Indus - Fluss</placeName>
+                </place>
+                <place xml:id="ed_r3k_pqt_h1b">
+                    <idno type="uri">http://www.geonames.org/2775220</idno>
+                    <placeName type="reg">Innsbruck</placeName>
+                </place>
+                <place xml:id="prov_u51_rrm_y5">
+                    <idno type="uri">http://www.geonames.org/6539811</idno>
+                    <placeName type="reg">Ischia</placeName>
+                </place>
+                <place xml:id="prov_vxr_xxr_js">
+                    <idno type="uri">http://www.geonames.org/3175395</idno>
+                    <placeName type="reg">Italien</placeName>
+                </place>
+                <place xml:id="prov_xby_ps1_z5">
+                    <idno type="uri">http://www.geonames.org/2895044</idno>
+                    <placeName type="reg">Jena</placeName>
+                    <listPlace>
+                        <place xml:id="prov_oh3_jcr_2v" type="mountain">
+                            <placeName type="reg">Berge um Jena</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_u2h_tzq_5x">
+                    <idno type="uri">http://www.geonames.org/293198</idno>
+                    <placeName type="reg">Jerusalem</placeName>
+                </place>
+                <place xml:id="prov_a1m_xgl_2v">
+                    <idno type="uri">http://www.geonames.org/360630</idno>
+                    <placeName type="reg">Kairo</placeName>
+                </place>
+                <place xml:id="prov_o5z_ypg_w5">
+                    <idno type="uri">http://www.geonames.org/2525468</idno>
+                    <placeName type="reg">Kalabrien </placeName>
+                    <placeName type="alt">Calabrien</placeName>
+                </place>
+                <place xml:id="ed_jyj_t3p_dw">
+                    <idno type="uri">http://www.geonames.org/3073803</idno>
+                    <placeName type="reg">Karlsbad</placeName>
+                </place>
+                <place xml:id="ed_hwt_zgm_fw">
+                    <idno type="uri">http://www.geonames.org/2892794</idno>
+                    <placeName type="reg">Karlsruhe</placeName>
+                </place>
+                <place xml:id="ed_ez3_zll_vw">
+                    <idno type="uri">http://www.geonames.org/3073798</idno>
+                    <placeName type="reg">Karlstein </placeName>
+                    <note>bei Prag</note>
+                </place>
+                <place xml:id="ed_iqb_lj1_kw">
+                    <idno type="uri">http://www.geonames.org/2774686</idno>
+                    <placeName type="reg">Kärnten</placeName>
+                </place>
+                <place xml:id="ed_iks_lsp_xjb">
+                    <placeName type="reg">Karthago</placeName>
+                </place>
+                <place xml:id="prov_trs_5xm_1v">
+                    <idno type="uri">http://www.geonames.org/2892518</idno>
+                    <placeName type="reg">Kassel</placeName>
+                    <placeName type="alt">Cassel</placeName>
+                </place>
+                <place xml:id="ed_uh1_bh2_c1b">
+                    <idno type="uri">http://www.geonames.org/2891391</idno>
+                    <placeName type="reg">Kesselsdorf</placeName>
+                </place>
+                <place xml:id="prov_u24_423_5v">
+                    <placeName type="reg">Kloster Berge </placeName>
+                    <placeName type="alt">Klosterberge</placeName>
+                </place>
+                <place xml:id="ed_lsl_rtm_b3b">
+                    <placeName type="reg">Köln</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_l3x_stm_b3b" type="building">
+                            <placeName type="reg">Kölner Dom</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_rhx_dhd_cw">
+                    <idno type="uri">http://www.geonames.org/554234</idno>
+                    <placeName type="reg">Königsberg</placeName>
+                </place>
+                <place xml:id="prov_zcc_mmj_gv">
+                    <idno type="uri">http://www.geonames.org/745044</idno>
+                    <placeName type="reg">Konstantinopel</placeName>
+                    <placeName type="alt">Constantinopel</placeName>
+                </place>
+                <place xml:id="ed_bpx_5cq_5x">
+                    <idno type="uri">http://www.geonames.org/2618425</idno>
+                    <placeName type="reg">Kopenhagen</placeName>
+                </place>
+                <place xml:id="ed_bs1_zcp_1jb">
+                    <placeName type="reg">Korinth</placeName>
+                </place>
+                <place xml:id="prov_xc1_5bq_2v">
+                    <idno type="uri">http://www.geonames.org/6697802</idno>
+                    <placeName type="reg">Kreta</placeName>
+                </place>
+                <place xml:id="prov_hzs_ts2_cv">
+                    <placeName type="reg">Lago Fucino </placeName>
+                    <placeName type="alt">Fuciner See</placeName>
+                </place>
+                <place xml:id="prov_nkd_4cq_2v">
+                    <idno type="uri">http://www.geonames.org/3196359</idno>
+                    <placeName type="reg">Laibach</placeName>
+                    <placeName type="alt"> (heute: Ljubljana)</placeName>
+                </place>
+                <place xml:id="ed_fw2_w43_5y">
+                    <placeName type="reg">Lanuvium</placeName>
+                </place>
+                <place xml:id="prov_lxk_b4b_z5">
+                    <idno type="uri">http://www.geonames.org/2879139</idno>
+                    <placeName type="reg">Leipzig</placeName>
+                </place>
+                <place xml:id="ed_wzl_snv_mx">
+                    <idno type="uri">http://www.geonames.org/2215636</idno>
+                    <placeName type="reg">Libyen</placeName>
+                </place>
+                <place xml:id="prov_pjx_zph_kv">
+                    <placeName type="reg">Liefland </placeName>
+                    <placeName type="alt">Livland</placeName>
+                </place>
+                <place xml:id="prov_o1y_qpg_w5">
+                    <idno type="uri">http://www.geonames.org/6539153</idno>
+                    <placeName type="reg">Lipari</placeName>
+                </place>
+                <place xml:id="ed_w42_mth_yx">
+                    <idno type="uri">http://www.geonames.org/597427</idno>
+                    <placeName type="reg">Litauen </placeName>
+                    <placeName type="alt">Lithauen</placeName>
+                </place>
+                <place xml:id="prov_zr2_yb3_g5">
+                    <idno type="uri">http://www.geonames.org/3174659</idno>
+                    <placeName type="reg">Livorno</placeName>
+                </place>
+                <place xml:id="prov_m22_jqw_dv">
+                    <idno type="uri">http://www.geonames.org/3174618</idno>
+                    <placeName type="reg">Lombardei</placeName>
+                </place>
+                <place xml:id="ed_hpm_vnv_h1b">
+                    <idno type="uri">http://www.geonames.org/7286370</idno>
+                    <placeName type="reg">Lonay </placeName>
+                    <note>Gemeinde im Distrikt Morges des Kantons Waadt</note>
+                </place>
+                <place xml:id="prov_efv_ssv_rv">
+                    <idno type="uri">http://www.geonames.org/2643743</idno>
+                    <placeName type="reg">London</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_xck_5lg_gjb" type="building">
+                            <placeName type="reg">British Museum</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_dmz_n4c_2v">
+                    <idno type="uri">http://www.geonames.org/3174567</idno>
+                    <placeName type="reg">Loreto</placeName>
+                    <placeName type="alt">Loretto</placeName>
+                </place>
+                <place xml:id="prov_tc1_l24_y5">
+                    <idno type="uri">http://www.geonames.org/3174530</idno>
+                    <placeName type="reg">Lucca</placeName>
+                </place>
+                <place xml:id="prov_bfn_t1v_35">
+                    <idno type="uri">http://www.geonames.org/3173435</idno>
+                    <placeName type="reg">Mailand</placeName>
+                    <placeName type="alt">Mayland</placeName>
+                </place>
+                <place xml:id="prov_rm1_drg_w5">
+                    <idno type="uri">http://www.geonames.org/2562770</idno>
+                    <placeName type="reg">Malta</placeName>
+                </place>
+                <place xml:id="prov_zdz_w3h_kv">
+                    <idno type="uri">http://www.geonames.org/3174092</idno>
+                    <placeName type="reg">Manfredonia</placeName>
+                </place>
+                <place xml:id="prov_lfw_2bx_w5">
+                    <idno type="uri">http://www.geonames.org/2873891</idno>
+                    <placeName type="reg">Mannheim</placeName>
+                </place>
+                <place xml:id="prov_ibw_lcq_2v">
+                    <idno type="uri">http://www.geonames.org/3195506</idno>
+                    <placeName type="reg">Marburg an der Drau</placeName>
+                </place>
+                <place xml:id="ed_ftz_mtt_1z">
+                    <idno type="uri">http://www.geonames.org/3071024</idno>
+                    <placeName type="reg">Marienbad in Böhmen</placeName>
+                </place>
+                <place xml:id="ed_ynt_4ll_vw">
+                    <idno type="uri">http://www.geonames.org/2872155</idno>
+                    <placeName type="reg">Meißen</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_edm_pll_vw" type="building">
+                            <placeName type="reg">Dom</placeName>
+                        </place>
+                        <place xml:id="ediarum_tgk_qll_vw" type="others">
+                            <placeName type="reg">Gemäldesammlung</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_tyf_44l_nhb">
+                    <idno type="uri">http://www.geonames.org/598098</idno>
+                    <placeName type="reg">Memel</placeName>
+                    <note>heute: Klaipéda, Litauen</note>
+                </place>
+                <place xml:id="ed_bdj_wnv_mx">
+                    <placeName type="reg">Mesopotamien</placeName>
+                </place>
+                <place xml:id="prov_o5n_bqg_w5">
+                    <idno type="uri">http://www.geonames.org/2524170</idno>
+                    <placeName type="reg">Messina</placeName>
+                </place>
+                <place xml:id="prov_wfc_xs2_cv">
+                    <idno type="uri">http://www.geonames.org/6697959</idno>
+                    <placeName type="reg">Monte Cassino</placeName>
+                    <placeName type="alt">Montecassino</placeName>
+                </place>
+                <place xml:id="ed_hn1_qp3_5y">
+                    <placeName type="reg">Monte Cavo </placeName>
+                    <placeName type="alt">im Altertum: Albanus Mons</placeName>
+                </place>
+                <place xml:id="prov_rhf_xzg_y5">
+                    <idno type="uri">http://www.geonames.org/2867714</idno>
+                    <placeName type="reg">München</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_l5g_pxs_vz" type="building">
+                            <placeName type="reg">Gemäldegalerie</placeName>
+                        </place>
+                        <place xml:id="ediarum_zqc_jjf_gjb" type="building">
+                            <placeName type="reg">Kunstmuseum, Königliches</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_qml_hck_gv">
+                    <idno type="uri">http://www.geonames.org/2867543</idno>
+                    <placeName type="reg">Münster</placeName>
+                </place>
+                <place xml:id="prov_npb_xyv_3v">
+                    <placeName type="reg">Mykene </placeName>
+                    <note>antike griech. Stadt auf einer Anhöhe nördlich der Ebene von Argos</note>
+                </place>
+                <place xml:id="prov_myp_lbv_35">
+                    <idno type="uri">http://www.geonames.org/3172394</idno>
+                    <placeName type="reg">Neapel</placeName>
+                    <listPlace>
+                        <place xml:id="prov_wwy_pqz_1v" type="building">
+                            <placeName type="reg">Herculaneum</placeName>
+                        </place>
+                        <place xml:id="ediarum_olf_twt_pjb" type="building">
+                            <placeName type="reg">Königliches Museum</placeName>
+                        </place>
+                        <place xml:id="prov_wn1_plt_y5" type="mountain">
+                            <placeName type="reg">Pizzofalcone</placeName>
+                            <note>Hügel bei Neapel</note>
+                        </place>
+                        <place xml:id="prov_m33_lqz_1v" type="district">
+                            <placeName type="reg">San Giorgio a Cremano</placeName>
+                        </place>
+                        <place xml:id="ediarum_dsj_3vj_vkb" type="others">
+                            <placeName type="reg">Schule des Virgil</placeName>
+                            <placeName type="alt">Schuola Vergilii</placeName>
+                            <note>Grotte und antike Ruinen beim Fischerort Marechiaro auf der
+                                Südseite des Pausilippo bei Neapel, genannt die Schule des Vergil,
+                                wo der Sage nach der Zauberer Virgil gelebt haben soll (er soll u.a.
+                                eine Felsengrotte angehoben haben) </note>
+                        </place>
+                        <place xml:id="prov_frc_x14_y5" type="district">
+                            <placeName type="reg">Torre del Greco</placeName>
+                        </place>
+                        <place xml:id="prov_p5t_s14_y5" type="mountain">
+                            <idno type="uri">http://www.geonames.org/3164481</idno>
+                            <placeName type="reg">Vesuv</placeName>
+                        </place>
+                        <place xml:id="prov_pqd_p14_y5" type="building">
+                            <placeName type="reg">Villa Reale</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_m2n_kdw_3v">
+                    <idno type="uri">http://www.geonames.org/262565</idno>
+                    <placeName type="reg">Negropont </placeName>
+                    <placeName type="alt">Euböa</placeName>
+                    <note>griech. Insel</note>
+                </place>
+                <place xml:id="ed_bxz_1p3_5y">
+                    <idno type="uri">http://www.geonames.org/3172327</idno>
+                    <placeName type="reg">Nemi-See </placeName>
+                    <note>Lacus nemorensis</note>
+                </place>
+                <place xml:id="prov_ql2_h5w_pv">
+                    <idno type="uri">http://www.geonames.org/2862926</idno>
+                    <placeName type="reg">Niederdeutschland </placeName>
+                    <note>= Niedersachsen</note>
+                </place>
+                <place xml:id="prov_hll_2st_y5">
+                    <idno type="uri">http://www.geonames.org/2750405</idno>
+                    <placeName type="reg">Niederlande </placeName>
+                    <placeName type="alt">Holland</placeName>
+                </place>
+                <place xml:id="prov_t5h_qsv_pv">
+                    <idno type="uri">http://www.geonames.org/2862926</idno>
+                    <placeName type="reg">Niedersachsen</placeName>
+                </place>
+                <place xml:id="prov_b1g_4pz_v5">
+                    <idno type="uri">http://www.geonames.org/3172227</idno>
+                    <placeName type="reg">Nola</placeName>
+                    <note>südital. Stadt</note>
+                </place>
+                <place xml:id="ed_a4d_gjf_mw">
+                    <idno type="uri">http://www.geonames.org/2861914</idno>
+                    <placeName type="reg">Nördlingen</placeName>
+                </place>
+                <place xml:id="prov_m44_bm2_1v">
+                    <idno type="uri">http://www.geonames.org/2861650</idno>
+                    <placeName type="reg">Nürnberg</placeName>
+                </place>
+                <place xml:id="prov_ctz_ldx_w5">
+                    <placeName type="reg">Oberitalien</placeName>
+                </place>
+                <place xml:id="ed_xbr_xlg_yy">
+                    <placeName type="reg">Obrzistwy </placeName>
+                    <note>Schloss in Böhmen</note>
+                </place>
+                <place xml:id="prov_rky_5fz_x5">
+                    <idno type="uri">http://www.geonames.org/2857807</idno>
+                    <placeName type="reg">Offenbach</placeName>
+                </place>
+                <place xml:id="ed_hnp_ksv_cjb">
+                    <placeName type="reg">Öhringen</placeName>
+                </place>
+                <place xml:id="prov_dcl_5rv_3v">
+                    <idno type="uri">http://www.geonames.org/264637</idno>
+                    <placeName type="reg">Olympia</placeName>
+                    <listPlace>
+                        <place xml:id="prov_myp_1sv_3v" type="building">
+                            <placeName type="reg">Hippodrom</placeName>
+                        </place>
+                        <place xml:id="prov_rlx_bsv_3v" type="building">
+                            <placeName type="reg">Stadium</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_ir1_prv_3v">
+                    <placeName type="reg">Orient</placeName>
+                </place>
+                <place xml:id="ed_th1_t2d_xz">
+                    <idno type="uri">http://www.geonames.org/2782113</idno>
+                    <placeName type="reg">Österreich</placeName>
+                </place>
+                <place xml:id="prov_ptf_rmg_f5">
+                    <idno type="uri">http://www.geonames.org/2856837</idno>
+                    <placeName type="reg">Oßmannstedt</placeName>
+                </place>
+                <place xml:id="ed_sn3_fj1_kw">
+                    <idno type="uri">http://www.geonames.org/3171728</idno>
+                    <placeName type="reg">Padua</placeName>
+                </place>
+                <place xml:id="ed_vcl_dgq_lx">
+                    <idno type="uri">http://www.geonames.org/3171709</idno>
+                    <placeName type="reg">Paestum </placeName>
+                    <placeName type="alt">Pesto</placeName>
+                </place>
+                <place xml:id="ed_vf2_r3q_lx">
+                    <idno type="uri">http://www.geonames.org/2523920</idno>
+                    <placeName type="reg">Palermo s. Sizilien</placeName>
+                </place>
+                <place xml:id="prov_yqm_vbh_y5">
+                    <idno type="uri">http://www.geonames.org/3171606</idno>
+                    <placeName type="reg">Palestrina</placeName>
+                </place>
+                <place xml:id="ed_kzt_kbq_5x">
+                    <idno type="uri">http://www.geonames.org/146214</idno>
+                    <placeName type="reg">Paphos</placeName>
+                </place>
+                <place xml:id="ed_amy_ztw_nw">
+                    <idno type="uri">http://www.geonames.org/255760</idno>
+                    <placeName type="reg">Paramythia</placeName>
+                </place>
+                <place xml:id="prov_tnd_dt1_5v">
+                    <idno type="uri">http://www.geonames.org/2988507</idno>
+                    <placeName type="reg">Paris</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_ikv_m3y_5y" type="building">
+                            <placeName type="reg">Musée de Sculpture antique et moderne par M. le
+                                comte de Clarac</placeName>
+                        </place>
+                        <place xml:id="prov_fvj_2t1_5v" type="building">
+                            <placeName type="reg">National-Museum</placeName>
+                            <placeName type="alt">Musée Napoléon</placeName>
+                        </place>
+                        <place xml:id="ediarum_lrw_qpk_jw" type="building">
+                            <placeName type="reg">Sainte Chapelle </placeName>
+                            <placeName type="alt">Heilige Kapelle</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_ixb_grr_js">
+                    <idno type="uri">http://www.geonames.org/3171457</idno>
+                    <placeName type="reg">Parma</placeName>
+                </place>
+                <place xml:id="ed_d5n_bv1_nx">
+                    <placeName type="reg">Pasargadae </placeName>
+                    <note>altpersische Residenzstadt</note>
+                </place>
+                <place xml:id="prov_kk2_gtg_w5">
+                    <idno type="uri">http://www.geonames.org/3170053</idno>
+                    <placeName type="reg">Pausilipp </placeName>
+                    <placeName type="alt">Posillipo</placeName>
+                    <note>Vorgebirge bei Neapel</note>
+                </place>
+                <place xml:id="prov_glr_2vw_3v">
+                    <idno type="uri">http://www.geonames.org/6697807</idno>
+                    <placeName type="reg">Peloponnes</placeName>
+                </place>
+                <place xml:id="ed_y2h_gv1_nx">
+                    <placeName type="reg">Persien</placeName>
+                </place>
+                <place xml:id="prov_rwq_344_y5">
+                    <idno type="uri">http://www.geonames.org/3171180</idno>
+                    <placeName type="reg">Perugia</placeName>
+                </place>
+                <place xml:id="ed_z4d_jrv_cjb">
+                    <placeName type="reg">Pfahlgraben</placeName>
+                    <note>Obergermanisch-Raetischer Limes; Außengrenze des Römischen Reiches
+                        zwischen Rhein und Donau</note>
+                </place>
+                <place xml:id="prov_xz4_lxv_3v">
+                    <placeName type="reg">Phigalia </placeName>
+                    <placeName type="alt">Phigaleia</placeName>
+                    <note>auf der Peloponnes</note>
+                </place>
+                <place xml:id="prov_znx_shc_gv">
+                    <idno type="uri">http://www.geonames.org/4560349</idno>
+                    <placeName type="reg">Philadelphia </placeName>
+                    <note>in Amerika</note>
+                </place>
+                <place xml:id="ed_v1f_4bq_5x">
+                    <placeName type="reg">Phönizien</placeName>
+                </place>
+                <place xml:id="prov_dc1_4v3_3v">
+                    <idno type="uri">http://www.geonames.org/2853707</idno>
+                    <placeName type="reg">Pillnitz</placeName>
+                </place>
+                <place xml:id="prov_rwv_b44_y5">
+                    <idno type="uri">http://www.geonames.org/3170647</idno>
+                    <placeName type="reg">Pisa</placeName>
+                </place>
+                <place xml:id="prov_h1s_d44_y5">
+                    <idno type="uri">http://www.geonames.org/3170621</idno>
+                    <placeName type="reg">Pistoia</placeName>
+                </place>
+                <place xml:id="ed_b4h_nnt_h1b">
+                    <idno type="uri">http://www.geonames.org/2853292</idno>
+                    <placeName type="reg">Plauen</placeName>
+                </place>
+                <place xml:id="ed_dr3_zg2_c1b">
+                    <idno type="uri">http://www.geonames.org/3170550</idno>
+                    <placeName type="reg">Po, Der</placeName>
+                </place>
+                <place xml:id="ed_atq_q41_by">
+                    <placeName type="reg">Pompeji</placeName>
+                </place>
+                <place xml:id="prov_lmp_4qm_y5">
+                    <placeName type="reg">Ponte lupo</placeName>
+                </place>
+                <place xml:id="prov_bmn_hvy_z5">
+                    <placeName type="reg">Pontinische Sümpfe </placeName>
+                    <placeName type="alt">Agro Pontino</placeName>
+                </place>
+                <place xml:id="prov_tgf_hsy_z5">
+                    <idno type="uri">http://www.geonames.org/3170116</idno>
+                    <placeName type="reg">Portici</placeName>
+                </place>
+                <place xml:id="prov_lh2_hxd_2v">
+                    <idno type="uri">http://www.geonames.org/2852458</idno>
+                    <placeName type="reg">Potsdam</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_typ_4bs_5fb" type="building">
+                            <placeName type="reg">Antikentempel</placeName>
+                        </place>
+                        <place xml:id="ediarum_n44_mxj_kfb" type="sea">
+                            <placeName type="reg">Heiliger See</placeName>
+                        </place>
+                        <place xml:id="ediarum_k2s_slw_jgb" type="building">
+                            <placeName type="reg">Kavalierhaus</placeName>
+                            <note>beherbergte Antiken aus der königlichen Sammlung</note>
+                        </place>
+                        <place xml:id="prov_ckg_snx_2v" type="building">
+                            <placeName type="reg">Königliche Schlösser</placeName>
+                        </place>
+                        <place xml:id="ediarum_xgz_twc_5z" type="building">
+                            <placeName type="reg">Marmorpalais</placeName>
+                        </place>
+                        <place xml:id="prov_dxc_dxt_hv" type="park">
+                            <placeName type="reg">Neuer Garten</placeName>
+                        </place>
+                        <place xml:id="ediarum_ms2_rdz_w3b" type="building">
+                            <placeName type="reg">Neues Palais</placeName>
+                            <note>im Park Sanssouci</note>
+                        </place>
+                        <place xml:id="ediarum_gdv_3cz_w3b" type="building">
+                            <placeName type="reg">Sanssouci - Gemäldegallerie</placeName>
+                        </place>
+                        <place xml:id="ediarum_hd4_ldz_w3b" type="park">
+                            <placeName type="reg">Sanssouci - Parkanlagen</placeName>
+                        </place>
+                        <place xml:id="ediarum_gd5_kcz_w3b" type="building">
+                            <placeName type="reg">Sanssouci - Schloss</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_nmb_wnb_z5">
+                    <placeName type="reg">Preußen</placeName>
+                </place>
+                <place xml:id="ed_uk3_cml_vw">
+                    <idno type="uri">http://www.geonames.org/3067696</idno>
+                    <placeName type="reg">Prag</placeName>
+                </place>
+                <place xml:id="ed_qnn_vrh_px">
+                    <idno type="uri">http://www.geonames.org/3013726</idno>
+                    <placeName type="reg">Pyrenäen </placeName>
+                    <placeName type="alt">Pyrénées</placeName>
+                </place>
+                <place xml:id="prov_gtl_bgv_dv">
+                    <idno type="uri">http://www.geonames.org/2953379</idno>
+                    <placeName type="reg">Pyrmont</placeName>
+                </place>
+                <place xml:id="prov_fpl_xvb_3v">
+                    <idno type="uri">http://www.geonames.org/2850257</idno>
+                    <placeName type="reg">Rastatt</placeName>
+                </place>
+                <place xml:id="ed_jkb_q5d_lw">
+                    <idno type="uri">http://www.geonames.org/2849483</idno>
+                    <placeName type="reg">Regensburg</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_ytx_2ds_2y" type="building">
+                            <placeName type="reg">Schottenkirche St. Jakob</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_mlj_dzp_lw">
+                    <placeName type="reg">Rhein</placeName>
+                </place>
+                <place xml:id="ed_kzz_brn_fw">
+                    <placeName type="reg">Rheingegend</placeName>
+                </place>
+                <place xml:id="prov_nrn_tbq_2v">
+                    <idno type="uri">http://www.geonames.org/400665</idno>
+                    <placeName type="reg">Rhodos</placeName>
+                </place>
+                <place xml:id="ed_qs2_qxz_2y">
+                    <idno type="uri">http://www.geonames.org/456172</idno>
+                    <placeName type="reg">Riga</placeName>
+                </place>
+                <place xml:id="prov_vkl_ndl_js">
+                    <idno type="uri">http://www.geonames.org/3169070</idno>
+                    <placeName type="reg">Rom</placeName>
+                    <listPlace>
+                        <place xml:id="prov_rz2_2yx_bv" type="building">
+                            <placeName type="reg">Académie de France à Rome </placeName>
+                            <note>1725-1793 und 1801-1803 im Palazzo Mancini</note>
+                        </place>
+                        <place xml:id="prov_al3_lvs_tv" type="building">
+                            <placeName type="reg">Belvedere </placeName>
+                            <note>zum Vatikan gehörend</note>
+                        </place>
+                        <place xml:id="prov_ncm_twc_cv" type="street">
+                            <placeName type="reg">Chiavica di Fiano</placeName>
+                        </place>
+                        <place xml:id="ediarum_gdh_pvb_wy" type="building">
+                            <placeName type="reg">Forum Romanum</placeName>
+                        </place>
+                        <place xml:id="prov_txn_5xc_cv" type="district">
+                            <placeName type="reg">Ghetto</placeName>
+                            <note>abgeschlossenes Wohnviertel der Juden in Rom</note>
+                        </place>
+                        <place xml:id="prov_hkm_bhl_1v" type="building">
+                            <placeName type="reg">Kapitol</placeName>
+                        </place>
+                        <place xml:id="ediarum_fwr_bxh_hhb" type="building">
+                            <placeName type="reg">Kapitolinische Museen</placeName>
+                        </place>
+                        <place xml:id="prov_fv2_kql_cv" type="building">
+                            <placeName type="reg">Locanda des Herrn Sermiento </placeName>
+                            <note>am Spanischen Platz</note>
+                        </place>
+                        <place xml:id="prov_kzt_j5s_tv" type="mountain">
+                            <placeName type="reg">Monte Cavallo </placeName>
+                            <placeName type="alt">= der Hügel Quirinal</placeName>
+                        </place>
+                        <place xml:id="prov_axh_v5s_tv" type="street">
+                            <placeName type="reg">Montecitorio </placeName>
+                            <placeName type="alt">Piazza Montecitorio</placeName>
+                        </place>
+                        <place xml:id="prov_wbl_cbj_sv" type="mountain">
+                            <placeName type="reg">Monte Palatino</placeName>
+                        </place>
+                        <place xml:id="prov_lnc_q5s_tv" type="mountain">
+                            <placeName type="reg">Monte Pincio</placeName>
+                        </place>
+                        <place xml:id="ediarum_e41_t4m_qx" type="building">
+                            <placeName type="reg">Museum Kircherianum</placeName>
+                        </place>
+                        <place xml:id="prov_e5g_1xc_cv" type="building">
+                            <placeName type="reg">Palazzo Chigi</placeName>
+                            <placeName type="alt"> Villa Chigi, gen. "La Farnesina"</placeName>
+                        </place>
+                        <place xml:id="ediarum_ffm_zmz_xz" type="building">
+                            <placeName type="reg">Palazzo Farnese</placeName>
+                        </place>
+                        <place xml:id="prov_m2c_zwy_z5" type="building">
+                            <placeName type="reg">Palazzo Giustiniani</placeName>
+                        </place>
+                        <place xml:id="prov_nyl_4wc_cv" type="building">
+                            <placeName type="reg">Palazzo Ruspoli</placeName>
+                        </place>
+                        <place xml:id="prov_lyp_n35_y5" type="building">
+                            <idno type="uri">http://www.geonames.org/6619450</idno>
+                            <placeName type="reg">Pantheon</placeName>
+                        </place>
+                        <place xml:id="prov_dlg_vqx_bv" type="building">
+                            <placeName type="reg">Petersdom</placeName>
+                        </place>
+                        <place xml:id="prov_vmj_dyc_cv" type="street">
+                            <placeName type="reg">Piazza di Spagna</placeName>
+                        </place>
+                        <place xml:id="prov_bfy_svs_tv" type="street">
+                            <placeName type="reg">Piazza Navona</placeName>
+                        </place>
+                        <place xml:id="prov_v43_prt_cv" type="building">
+                            <placeName type="reg">Ponte Molle </placeName>
+                            <placeName type="alt">Ponte Milvio, Milvische Brücke</placeName>
+                        </place>
+                        <place xml:id="prov_ht4_yh3_g5" type="building">
+                            <placeName type="reg">Pyramide des Caius Cestius</placeName>
+                        </place>
+                        <place xml:id="ediarum_vqj_33h_wz" type="building">
+                            <placeName type="reg">Santa Maria dell'Anima </placeName>
+                            <note>Deutsche katholische Nationalkirche</note>
+                        </place>
+                        <place xml:id="ediarum_nxb_cfc_wz" type="building">
+                            <placeName type="reg">Santa Trinità de' monti</placeName>
+                        </place>
+                        <place xml:id="ediarum_qxy_tby_rgb" type="building">
+                            <placeName type="reg">Sixtinische Kapelle</placeName>
+                            <placeName type="alt">Capella Sistina</placeName>
+                        </place>
+                        <place xml:id="prov_anz_ynj_gv" type="building">
+                            <placeName type="reg">Vatikanische Museen</placeName>
+                            <placeName type="alt">Museo Pio Clementino</placeName>
+                        </place>
+                        <place xml:id="prov_nvj_cyj_bs" type="street">
+                            <placeName type="reg">Via Appia</placeName>
+                        </place>
+                        <place xml:id="prov_m4l_jpc_cv" type="street">
+                            <placeName type="reg">Via del Corso</placeName>
+                        </place>
+                        <place xml:id="ediarum_ynk_2xw_kfb" type="building">
+                            <placeName type="reg">Villa Albani</placeName>
+                        </place>
+                        <place xml:id="prov_o3t_gyj_bs" type="building">
+                            <placeName type="reg">Villa Borghese / Galleria Borghese</placeName>
+                        </place>
+                        <place xml:id="prov_fpc_2t2_cv" type="building">
+                            <placeName type="reg">Villa Malta</placeName>
+                        </place>
+                        <place xml:id="prov_x2c_lyj_bs" type="building">
+                            <placeName type="reg">Villa Varnese</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_p1n_mrb_hhb">
+                    <placeName type="reg">Kyrene</placeName>
+                    <note>antike Stadt in Libyen</note>
+                </place>
+                <place xml:id="ed_qxb_qg5_23b">
+                    <placeName type="reg">Rathenow</placeName>
+                </place>
+                <place xml:id="ed_a3k_5g5_hw">
+                    <idno type="uri">http://www.geonames.org/2844588</idno>
+                    <placeName type="reg">Rostock</placeName>
+                </place>
+                <place xml:id="ed_tz5_rrx_zw">
+                    <idno type="uri">http://www.geonames.org/2843636</idno>
+                    <placeName type="reg">Rottweil</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_trh_srx_zw" type="building">
+                            <placeName type="reg">römisches Castrum</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_dn5_v1h_y5">
+                    <idno type="uri">http://www.geonames.org/2017370</idno>
+                    <placeName type="reg">Rußland</placeName>
+                </place>
+                <place xml:id="prov_jvv_2cr_2v">
+                    <idno type="uri">http://www.geonames.org/2842700</idno>
+                    <placeName type="reg">Saale </placeName>
+                    <note>Fluß</note>
+                </place>
+                <place xml:id="prov_scc_rbr_2v">
+                    <placeName type="reg">Saale-Tal</placeName>
+                </place>
+                <place xml:id="prov_mvc_d1h_y5">
+                    <idno type="uri">http://www.geonames.org/2842566</idno>
+                    <placeName type="reg">Sachsen</placeName>
+                </place>
+                <place xml:id="ed_c2k_4z2_xz">
+                    <idno type="uri">http://www.geonames.org/2842163</idno>
+                    <placeName type="reg">Salzdahlum </placeName>
+                    <placeName type="alt">Salzdahlen</placeName>
+                </place>
+                <place xml:id="prov_g22_lxd_cv">
+                    <placeName type="reg">San Marino</placeName>
+                    <note>
+                        <ref target="https://de.wikipedia.org/wiki/San_Marino">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="prov_umk_mdh_y5">
+                    <placeName type="reg">San Sebastiano</placeName>
+                </place>
+                <place xml:id="prov_pkf_bdn_1v">
+                    <placeName type="reg">Savoyen</placeName>
+                    <note>
+                        <ref target="https://de.wikipedia.org/wiki/Savoyen">Wikipedia</ref>
+                    </note>
+                </place>
+                <place xml:id="ed_uph_xg2_c1b">
+                    <idno type="uri">http://www.geonames.org/3301577</idno>
+                    <placeName type="reg">Schelde, Die</placeName>
+                </place>
+                <place xml:id="prov_kw5_s4h_kv">
+                    <idno type="uri">http://www.geonames.org/3337497</idno>
+                    <placeName type="reg">Schlesien</placeName>
+                </place>
+                <place xml:id="ed_qqd_q4d_2y">
+                    <idno type="uri"> http://d-nb.info/gnd/4053665-8</idno>
+                    <placeName type="reg">Schwabach</placeName>
+                </place>
+                <place xml:id="prov_mqv_5zg_y5">
+                    <idno type="uri">http://www.geonames.org/2835521</idno>
+                    <placeName type="reg">Schwaben</placeName>
+                </place>
+                <place xml:id="ed_z4g_nwf_vx">
+                    <idno type="uri">http://www.geonames.org/2835289</idno>
+                    <placeName type="reg">Schwanebeck </placeName>
+                    <note>bei Berlin</note>
+                </place>
+                <place xml:id="prov_xd3_rdx_w5">
+                    <idno type="uri">http://www.geonames.org/2834685</idno>
+                    <placeName type="reg">Schwarzwald</placeName>
+                </place>
+                <place xml:id="prov_org_jtr_js">
+                    <idno type="uri">http://www.geonames.org/2658434</idno>
+                    <placeName type="reg">Schweiz</placeName>
+                </place>
+                <place xml:id="ed_r4p_jfs_3jb">
+                    <placeName type="reg">Siena</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_rbj_kfs_3jb" type="building">
+                            <placeName type="reg">Hospital Santa Maria della Scala</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_kw2_j4g_w5">
+                    <idno type="uri">http://www.geonames.org/2523119</idno>
+                    <placeName type="reg">Sizilien</placeName>
+                    <listPlace>
+                        <place xml:id="prov_clr_tsg_w5" type="mountain">
+                            <idno type="uri">http://www.geonames.org/2524810</idno>
+                            <placeName type="reg">Aetna</placeName>
+                        </place>
+                        <place xml:id="prov_ey3_lqg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2525068</idno>
+                            <placeName type="reg">Catania</placeName>
+                        </place>
+                        <place xml:id="prov_b5x_grg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2525764</idno>
+                            <placeName type="reg">Girgenti</placeName>
+                            <placeName type="alt"> Agrigent</placeName>
+                        </place>
+                        <place xml:id="prov_nyb_ksg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2523920</idno>
+                            <placeName type="reg">Palermo</placeName>
+                        </place>
+                        <place xml:id="prov_syv_2sg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2525458</idno>
+                            <placeName type="reg">Segesta</placeName>
+                            <note>antike Stadt beim heutigen Calatafimi Segesta</note>
+                        </place>
+                        <place xml:id="prov_h1m_qrg_w5" type="building">
+                            <idno type="uri">http://www.geonames.org/2525083</idno>
+                            <placeName type="reg">Selinunt</placeName>
+                            <note>Gemeinde Castelvetrano</note>
+                        </place>
+                        <place xml:id="prov_zw3_rqg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2523083</idno>
+                            <placeName type="reg">Syrakus</placeName>
+                        </place>
+                        <place xml:id="prov_ytt_hqg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2522975</idno>
+                            <placeName type="reg">Taormina</placeName>
+                        </place>
+                        <place xml:id="prov_cvb_csg_w5" type="others">
+                            <idno type="uri">http://www.geonames.org/2522876</idno>
+                            <placeName type="reg">Trapani</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_f5b_wsv_pv">
+                    <idno type="uri">http://www.geonames.org/2831718</idno>
+                    <placeName type="reg">Söder - Schloss</placeName>
+                    <note>In Holler bei Hildesheim</note>
+                </place>
+                <place xml:id="prov_v4y_mgk_cv">
+                    <idno type="uri">http://www.geonames.org/3166387</idno>
+                    <placeName type="reg">Sora</placeName>
+                </place>
+                <place xml:id="ed_sww_hjy_sx">
+                    <idno type="uri">http://www.geonames.org/2612862</idno>
+                    <placeName type="reg">Soröe </placeName>
+                    <placeName type="alt">Soro</placeName>
+                    <note>Seeland, Dänemark</note>
+                </place>
+                <place xml:id="prov_ivl_ngg_1v">
+                    <idno type="uri">http://www.geonames.org/2510769</idno>
+                    <placeName type="reg">Spanien</placeName>
+                </place>
+                <place xml:id="ed_pcz_2hj_xv">
+                    <idno type="uri">http://www.geonames.org/498817</idno>
+                    <placeName type="reg">St. Petersburg</placeName>
+                </place>
+                <place xml:id="ed_ybr_jj1_kw">
+                    <idno type="uri">http://www.geonames.org/2764581</idno>
+                    <placeName type="reg">Steiermark</placeName>
+                </place>
+                <place xml:id="ed_ont_1vd_lw">
+                    <idno type="uri">http://www.geonames.org/2973783</idno>
+                    <placeName type="reg">Straßburg</placeName>
+                    <placeName type="alt">Strasburg</placeName>
+                </place>
+                <place xml:id="prov_ojr_vpg_w5">
+                    <idno type="uri">http://www.geonames.org/2522991</idno>
+                    <placeName type="reg">Stromboli, Insel</placeName>
+                </place>
+                <place xml:id="prov_o5c_fvv_rv">
+                    <idno type="uri">http://www.geonames.org/2825297</idno>
+                    <placeName type="reg">Stuttgart</placeName>
+                </place>
+                <place xml:id="ed_qhv_1j1_kw">
+                    <idno type="uri">http://www.geonames.org/3165990</idno>
+                    <placeName type="reg">Tagliamento</placeName>
+                    <note>Wildfluss der Alpen</note>
+                </place>
+                <place xml:id="ed_dws_p5n_1y">
+                    <idno type="uri">http://www.geonames.org/3165919</idno>
+                    <placeName type="reg">Tarquinia </placeName>
+                    <placeName type="alt">im Mittelalter: Corneto</placeName>
+                    <note>etruskische Stadt</note>
+                </place>
+                <place xml:id="ed_fs3_24v_d1b">
+                    <placeName type="reg">Tauris</placeName>
+                    <note>Landschaft aus der antiken Sagenwelt, die mit der Halbinsel Krim
+                        identifiziert wird</note>
+                </place>
+                <place xml:id="ed_epd_kdn_1z">
+                    <idno type="uri">http://www.geonames.org/3064288</idno>
+                    <placeName type="reg">Teplitz</placeName>
+                </place>
+                <place xml:id="prov_bsg_sqm_y5">
+                    <idno type="uri">http://www.geonames.org/3165771</idno>
+                    <placeName type="reg">Terni, Wasserfall</placeName>
+                </place>
+                <place xml:id="prov_lvy_xgl_2v">
+                    <idno type="uri">http://www.geonames.org/252910</idno>
+                    <placeName type="reg">Theben</placeName>
+                </place>
+                <place xml:id="ed_gpb_b4v_mx">
+                    <idno type="uri">http://www.geonames.org/96998</idno>
+                    <placeName type="reg">Tigris</placeName>
+                </place>
+                <place xml:id="prov_wmp_hqm_y5">
+                    <idno type="uri">http://www.geonames.org/3165624</idno>
+                    <placeName type="reg">Tivoli</placeName>
+                </place>
+                <place xml:id="prov_rdk_xn4_y5">
+                    <idno type="uri">http://www.geonames.org/3165361</idno>
+                    <placeName type="reg">Toskana</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_ws5_phf_mw" type="mountain">
+                            <idno type="uri">http://www.geonames.org/3180423</idno>
+                            <placeName type="reg">Marmorbrüche </placeName>
+                            <note>u.a. Carrara</note>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="prov_q5r_bkh_y5">
+                    <idno type="uri">http://www.geonames.org/3165185</idno>
+                    <placeName type="reg">Triest</placeName>
+                    <placeName type="alt">Trieste</placeName>
+                </place>
+                <place xml:id="prov_lgv_trv_3v">
+                    <placeName type="reg">Troia </placeName>
+                    <note>Stadt im Altertum in der Landschaft Troas der heutigen Türkei; auf dem
+                        Hügel Hisarlik; <ref target="https://de.wikipedia.org/wiki/Troja">Wikipedia</ref></note>
+                </place>
+                <place xml:id="ed_rrr_d1s_rkb">
+                    <placeName type="reg">Turin</placeName>
+                </place>
+                <place xml:id="ed_j5f_5br_5x">
+                    <placeName type="reg">Tyros</placeName>
+                    <placeName type="alt">Tyrus</placeName>
+                    <note>antike Stadt der Phönizier</note>
+                </place>
+                <place xml:id="ed_oks_lxx_zw">
+                    <idno type="uri">http://www.geonames.org/2820600</idno>
+                    <placeName type="reg">Überauchen </placeName>
+                    <placeName type="alt">Gemeinde Brigachtal</placeName>
+                </place>
+                <place xml:id="ed_iwc_dj1_kw">
+                    <idno type="uri">http://www.geonames.org/3165072</idno>
+                    <placeName type="reg">Udine</placeName>
+                </place>
+                <place xml:id="ed_pbb_fjf_mw">
+                    <idno type="uri">http://www.geonames.org/2820256</idno>
+                    <placeName type="reg">Ulm</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_drv_2vr_2y" type="building">
+                            <idno type="uri">http://www.geonames.org/7909769</idno>
+                            <placeName type="reg">Ulmer Münster</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_ggn_4bs_2y">
+                    <idno type="uri">http://www.geonames.org/3164630</idno>
+                    <placeName type="reg">Velletri</placeName>
+                </place>
+                <place xml:id="prov_tgx_1c3_g5">
+                    <idno type="uri">http://www.geonames.org/3164603</idno>
+                    <placeName type="reg">Venedig</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_fwp_yz2_mw" type="building">
+                            <placeName type="reg">Chiesa di Santo Stefano</placeName>
+                        </place>
+                        <place xml:id="ediarum_h2r_hq2_mw" type="building">
+                            <placeName type="reg">Santi Giovanni e Paolo </placeName>
+                            <placeName type="alt">venezianisch: San Zanipolo</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_kdx_ync_lw">
+                    <idno type="uri">http://www.geonames.org/3164527</idno>
+                    <placeName type="reg">Verona</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_py5_c4c_lw" type="building">
+                            <placeName type="reg">Amphitheater </placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_vkl_3sp_hhb">
+                    <placeName type="reg">Versailles</placeName>
+                </place>
+                <place xml:id="prov_krn_vmk_cv">
+                    <placeName type="reg">Via Latina</placeName>
+                </place>
+                <place xml:id="prov_w1w_1rm_y5">
+                    <placeName type="reg">Villa Hadrians </placeName>
+                    <placeName type="alt">ital. Villa Adriana</placeName>
+                </place>
+                <place xml:id="ed_dmn_4rx_zw">
+                    <idno type="uri">http://www.geonames.org/2817220</idno>
+                    <placeName type="reg">Villingen</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_ol1_qrx_zw" type="building">
+                            <placeName type="reg">römisches Castrum</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_jcb_yw3_5y">
+                    <idno type="uri">http://www.geonames.org/2761369</idno>
+                    <placeName type="reg">Vindobona</placeName>
+                    <placeName type="alt">Wien</placeName>
+                </place>
+                <place xml:id="prov_bbx_g44_y5">
+                    <idno type="uri">http://www.geonames.org/3163962</idno>
+                    <placeName type="reg">Volterra</placeName>
+                </place>
+                <place xml:id="prov_u24_mmg_f5">
+                    <idno type="uri">http://www.geonames.org/2812482</idno>
+                    <placeName type="reg">Weimar</placeName>
+                    <listPlace>
+                        <place xml:id="prov_scl_pfh_3v" type="building">
+                            <placeName type="reg">Stadtschloss</placeName>
+                        </place>
+                        <place xml:id="prov_vpm_xnl_4v" type="building">
+                            <placeName type="reg">Theater</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_axy_zbq_dz">
+                    <placeName type="reg">Westphalen </placeName>
+                    <placeName type="alt">Westfalen</placeName>
+                </place>
+                <place xml:id="prov_hrq_zzg_y5">
+                    <idno type="uri">http://www.geonames.org/2761369</idno>
+                    <placeName type="reg">Wien</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_pcs_t41_kw" type="building">
+                            <idno type="uri">http://www.geonames.org/6354997</idno>
+                            <placeName type="reg">Belvedere</placeName>
+                        </place>
+                        <place xml:id="ediarum_fn3_x41_kw" type="building">
+                            <placeName type="reg">Kaiserliche Kunstsammlung</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_z2t_wll_vw">
+                    <idno type="uri">http://www.geonames.org/7303020</idno>
+                    <placeName type="reg">Wittenberg</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_gjz_myd_vx" type="building">
+                            <placeName type="reg">Predigerseminar</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_c32_nz2_xz">
+                    <idno type="uri">http://www.geonames.org/2806914</idno>
+                    <placeName type="reg">Wolfenbüttel</placeName>
+                </place>
+                <place xml:id="prov_uvd_str_js">
+                    <idno type="uri">http://www.geonames.org/2806162</idno>
+                    <placeName type="reg">Wörlitz</placeName>
+                    <listPlace>
+                        <place xml:id="ediarum_gxf_pjg_h1b" type="building">
+                            <placeName type="reg">Luisium </placeName>
+                            <note>Landhaus der Herzogin Louise von Anhalt-Dessau bei Dessau</note>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="ed_mjh_xyp_lw">
+                    <idno type="uri">http://www.geonames.org/2806142</idno>
+                    <placeName type="reg">Worms</placeName>
+                </place>
+                <place xml:id="prov_fqy_my5_35">
+                    <idno type="uri">http://www.geonames.org/2657896</idno>
+                    <placeName type="reg">Zürich</placeName>
+                    <placeName type="alt">Zürch</placeName>
+                </place>
+                <place xml:id="prov_nw1_zbq_2v">
+                    <idno type="uri">http://www.geonames.org/146669</idno>
+                    <placeName type="reg">Zypern</placeName>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>

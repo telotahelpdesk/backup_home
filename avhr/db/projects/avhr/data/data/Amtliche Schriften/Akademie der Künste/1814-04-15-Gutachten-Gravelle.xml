@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_k5k_11n_23b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts für den Senat der Akademie der Künste über das Gemmen-Werk
+                    von Gravelle. Berlin, 15. April 1814</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1 Bd. 7,
+                                unpaginiert</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1814-04-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_fyw_2vh_4fb">Akademie der Künste, Preußische: Senat</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Empfängerbemerkung: "am 16<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April 1814, / <persName key="ed_mdv_mdt_nhb">Frisch</persName>"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Das <hi rendition="#aq"><bibl sameAs="ed_v44_v2n_23b">Recueil des pièrres Antiques</bibl> de
+                        Mr. <persName key="ed_p1f_3gn_23b">l'Eveque de Gravelle</persName></hi> p in
+                    zwey Hauptabtheilungen: jede zu 4 Bänden in groß 4<hi rendition="#sup"><hi rendition="#u">to</hi></hi>: bestehend in den radirten Kupferplatten
+                    selbst - jede Platte mit einem Abdrucke begleitet - im Ganzen etwas über 200
+                    Stück - </p>
+                <p>bin ich durchgegangen. - Ein Drittel der Zeichnungen ist wirklich nach antiken
+                    Steinen genommen, ein anderes Drittel ist offenbar nach modernen Machwerken, und
+                    das dritte Drittel ist zweifelhaft. Die Zeichnungen nämlich sind allgemein so
+                    unendlich schlecht, daß man nicht recht weiß, was man daraus machen soll.</p>
+                <p>Ob die Sammlung dieser Gemmen noch beysammen, und wo sie hingekommen seyn mag,
+                    ist mir unbekannt. Auch weiß ich nicht, ob je andere Abdrücke von den Platten
+                    gezogen worden sind, und ob eine Beschreibung dazu <hi rendition="#aq">existirt</hi>. In jedem Fall ist das ganze Werk höchst unbedeutend, und es
+                    würde kein Verlust seyn, wenn man die Platten abschliffe, und zu einem andern
+                    Zweck verwendete.</p>
+                <p>Ich merke noch an, daß dabey einige Defekte sind:</p>
+                <p>im 1<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Bande erster Abtheilung
+                    fehlt die Kupferplatte zum Titel, und dann die Platte N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 9. <lb/>im 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Bande fehlen die Kupferplatten N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 55. 58. und 65. <lb/>im 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Bande der 2<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Abtheilung fehlt die
+                    Platte N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 53. <lb/>und im 4<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Bande fehlen die Platten
+                        N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 87. 92. 97. 98. und 99;
+                    und von N<hi rendition="#sup"><hi rendition="#u">o</hi></hi> 96 fehlt der
+                    Abdruck.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 15<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> April 1814.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

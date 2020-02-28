@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jgj_rn5_g3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts an Kultusminister von Altenstein zum Ankauf der Sollyschen
+                    Gemäldesammlung. Berlin, 8. September 1819</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. 8 Nr. 13 Bd. 1,
+                                fol. 20r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Beate Schroedter: Hirt-Bd. II, S. 81-82</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print">nachgewiesen bei: Vogtherr, 1997, S. 90, Anm. 595</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1819-09-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_xpg_k35_g3b"/>
+                </correspContext>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Auf das Schreiben eines hohen <orgName key="ed_xpk_5s3_f3b"><hi rendition="#aq">Ministerii</hi></orgName>, die <rs type="artwork" key="prov_ggw_yml_vw">Gemäldesammlung</rs> von Herrn <persName key="ed_dgx_jml_vw"><hi rendition="#aq">Solly</hi></persName> betreffend, habe ich folgendes
+                    Gutachten gehorsamst zu geben:</p>
+                <p><hi rendition="#u">1.</hi> Die Sammlung des Herrn <persName key="ed_dgx_jml_vw"><hi rendition="#aq">Solly</hi></persName> ist von der Art, daß ich in
+                    Beziehung auf das Ganze weder in <placeName key="prov_xym_pdx_w5">Deutschland</placeName>, noch in <placeName key="prov_vxr_xxr_js">Italien</placeName> eine ähnliche kenne.</p>
+                <p><hi rendition="#u">2.</hi> Sie enthält eine Menge der seltensten Stücke, die für
+                    sich einzeln den bedeutendsten Kunstwerth haben, und die Ehre jeder Gallerie
+                    machen würden. aber</p>
+                <p><hi rendition="#u">3.</hi> die weit vorzüglichste Seite dieser Sammlung ist die
+                    historische und dadurch eignet sie sich mehr als irgend eine andere für das
+                    Studium und den Unterricht sowohl für angehende Künstler, als für <add place="superlinear">die</add> Freunde der Kunst.</p>
+                <p>4. Herr <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi>
+                    sammelte vornehmlich für die drey ersten Epochen der neuen Kunst aus dem 14<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>, 15<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>, und 16<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Jahrhundert; aber dies sind gerade bey
+                    weitem die wichtigsten. und </p>
+                <p>5. wenn ich die Beziehung zu <rs type="artwork" key="prov_vch_fyb_f3b">den
+                        Gemälden</rs>, welche der <persName key="prov_bxf_jt5_fv">König</persName>
+                    bereits besizt, angeben soll; so sind die besten Stücke die leztern aus einer
+                    Periode, wo die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche Sammlung</rs>
+                    aufhört. Man könnte also die königliche als eine Ergänzung der Sollyschen
+                    ansehen.</p>
+                <p><hi rendition="#u">6.</hi> Ich darf kaum erinnern, daß die Genuität der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Gemälde</rs> daraus
+                    hervorgeht, daß sie noch nicht gereinigt sind. Dadurch erscheinen sie zwar dem
+                    Auge iezt unvortheilhaft. Das Auge wird iezt durch nichts bestochen, als durch
+                    den innern Werth. In einem ganz andren Glanze erscheint die Sammlung, wenn die
+                    Gemälde gereinigt <subst>
+                        <del rendition="#s">sind</del>
+                        <add place="superlinear">und mit</add>
+                    </subst> ihren R<ex>[ahmen?]</ex>
+                    <del rendition="#s">haben und</del> in einem gebührlichen Lokale und Licht <subst>
+                        <del rendition="#s">erscheinen</del>
+                        <add place="sublinear">aufgestellt wären.</add>
+                    </subst></p>
+                <p>7. Ich würde daher die <del rendition="#s">Solly</del>
+                    <hi rendition="#aq">acquisition</hi> der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs> für das <placeName key="prov_up1_xwt_fv">königliche <hi rendition="#aq">Museum</hi></placeName>
+                    weit wichtiger, als irgend eine andere halten. Hiedurch könnte <placeName key="prov_ycp_cpr_js"><hi rendition="#aq">Berlin</hi></placeName> nicht nur
+                    in <seg type="comment">
+                        <orig>den Rang</orig>
+                        <note xml:id="nic3_ls1_h3b">Die Kunstsammlungen <rs type="artwork" key="prov_exf_gs1_h3b">von Dresden</rs>, <rs type="artwork" key="prov_hpg_js1_h3b">von Wien</rs> und <rs type="artwork" key="prov_ryb_3s1_h3b">von München</rs>.</note>
+                    </seg> von <hi rendition="#aq"><placeName key="prov_zj4_hc3_g5">Dresden</placeName></hi>, <hi rendition="#aq"><placeName key="prov_hrq_zzg_y5">Wien</placeName></hi> und <hi rendition="#aq"><placeName key="prov_rhf_xzg_y5">München</placeName></hi> treten,
+                    sondern in mancher Beziehung noch den Vorrang behaupten. Kurz <placeName key="prov_ycp_cpr_js"><hi rendition="#aq">Berlin</hi></placeName> erhielte
+                    dadurch eine ausgezeichnete Bildersammlung gleich andern Hauptstädten von <hi rendition="#aq"><placeName key="prov_ebw_npv_rv">Europa</placeName></hi>.
+                    Mit- und Nachwelt müßen sich daran erfreuen. Nie ist die Gelegenheit zu einer so
+                    außerordentlichen <hi rendition="#aq">acquisition</hi> so schön geboten worden,
+                    und ewige Reue möchte folgen, wenn die Gelegenheit vorübergienge, eine
+                    Gelegenheit die nie wieder so kommen dürfte. <pb n="2"/></p>
+                <p><hi rendition="#u">8.</hi> Was die zweyte Frage: den Gesammtwerth in Geld:
+                    betrift; so ist zwar schwer darauf zu antworten. Herrn <hi rendition="#aq"><persName key="ed_dgx_jml_vw">Solly</persName></hi> kostet die Sammlung
+                    ein schweres Geld, und mehr, als er je hoffen darf, dafür wieder zu erhalten.
+                    Aber ich glaube nicht, daß er auf vollständigen Ersaz der gemachten Auslagen
+                    rechne. Wollte er aber auch einzelne verkaufen, so dürfte er bey dem ietzigen
+                    Stande der Kunstpreise - die in Zukunft immer mehr steigen, als fallen müßen -
+                    immer auf einen Erlös von drey bis viermal hundert tausend Thaler rechnen. Ich
+                    fürchte nicht, daß irgend ein Kenner meinen Ansaz zu hoch finden wird; wohl aber
+                    möchte es solche geben, welche meine Schäzung sehr mäßig taxiren dürften. Im
+                    Vertrauen darf ich beysezen: daß, wie ich die Gesinnung des Herrn <persName key="ed_dgx_jml_vw"><hi rendition="#aq">Solly</hi></persName> kenne, er sich
+                    gegen unsern <persName key="prov_bxf_jt5_fv">König</persName> nachgiebiger
+                    finden würde, als sonst irgend für einen andern Käufer. Besonders auch deswegen,
+                    weil die Gemälde für immer vereinigt blieben und nicht zu fürchten wäre, daß sie
+                    in der Folge vereinzelt und zerstreut würden.</p>
+                <p>Ich wiederhole noch einmal mit der lautesten Stimme, und aus dem tiefsten Gefühl
+                    meiner Überzeugung, daß eine solche Gelegenheit sich nicht wieder darbietet, daß
+                    auf einmal einem der ehrenvollsten Bedürfniße eines großen <placeName key="prov_nmb_wnb_z5">Staates</placeName> - eines Staates, der so viele
+                    ruhmvolle Ansprüche auf höhere Kultur hat - begegnet wäre, einem Bedürfniße,
+                    welches bey dem Stande unserer Bildung täglich mehr gefühlt wird. Ein solcher
+                    Schaz ist wahrhaft eines großen <persName key="prov_bxf_jt5_fv">Königes</persName> würdig, und ein Nationalgut, auf das jeder Einwohner
+                    stolz seyn dürfte. Man könnte dann jedem Fremden entgegen treten, und zeigen,
+                    daß man in Beziehung auf die Mittel der höhern Kultur gegen keinen andern Staat
+                    zurückgeblieben ist.</p>
+                <p>Ich finde keine Ausdrücke, eine solche Angelegenheit einem hohen und erlauchten
+                        <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi>
+                    genug an's Herz zu legen. Indeßen freue ich mich, daß Hochdasselbe mir
+                    Gelegenheit gegeben hat, die Wichtigkeit der in Rede stehenden Sache für
+                        <persName key="prov_bxf_jt5_fv">König</persName> u. <placeName key="prov_nmb_wnb_z5">Staat</placeName> einiger Maßen darzulegen.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 8<hi rendition="#u"><hi rendition="#sup">ten</hi></hi> September 1819.</dateline>
+                    <salute/>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

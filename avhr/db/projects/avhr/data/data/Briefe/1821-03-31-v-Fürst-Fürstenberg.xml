@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ghg_nst_1x">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Karl Egon II. Fürst zu Fürstenberg. Donaueschingen, 31. März
+                    1821.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="print">
+                    <msIdentifier>
+                        <institution> Kopie der Handschrift vormals in der Universitätsbibliothek
+                            Freiburg </institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">(HS 836); Verbleib unbekannt</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Alfred Hall, 1960, S. 56-57</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_yz4_4zd_2w">Fürstenberg, Karl Egon II. Fürst zu (1796-1854)
+                        (einziger Sohn von Fürst Karl Alys zu Fürstenberg und seiner Frau Elisabeth,
+                        geb. von Thurn und Taxis, 1804-1806 letzter souveräner Fürst zu Fürstenberg
+                        (unter Vormundschaft), 1819-1852 erster Vizepräsident der Ersten Kammer der
+                        Badischen Ständeversammlung)</persName>
+                    <placeName key="ed_qxh_csc_qw">Donaueschingen</placeName>
+                    <date when="1821-03-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Sr. Wohlgeboren / den Königl. Preußischen Herrn Hofrat u.
+                            Professor Hirt, / Ritter des roten Adler-Ordens / in Berlin</addrLine>
+                    </address>
+                    <dateline>Donaueschingen, den 31. März 1821.</dateline>
+                    <salute>Mein lieber Herr Hofrath!</salute>
+                </opener>
+                <p>Mit Vergnügen habe ich erfahren, daß Sie an den Nachforschungen, die ich in
+                    hiesiger Gegend nach Überresten einer früheren Zeit anstellen lasse, Theil
+                    nehmen. Bereits haben dieselbe befriedigende Resultate gegeben, und ich
+                    verspreche mir von den nun bald wieder zu beginnenden Nachgrabungen eine nicht
+                    ungenügende Ausbeute. Wie die im vorigen Herbste aufgefundenen Fundamente
+                    gereinigt seyn werden, lasse ich einen Riß davon machen und sende Ihnen solchen
+                    zu, um <seg type="comment">
+                        <orig>Ihre Meinung darüber</orig>
+                        <note xml:id="nxwl_hz5_1x">Nicht bekannt.</note>
+                    </seg> zu vernehmen. Auch sollen Ihnen die bis jetzt aufgefundenen Münzen in so
+                    weit nahmhaft gemacht werden, als solches - bey dem gänzlichen Mangel an
+                    Sachkundigen - geschehen kann.</p>
+                <p>Nun aber habe ich einen Wunsch, den ich von Ihnen erfüllt haben möchte! Es wäre
+                    mir nähmlich sehr angenehm, wenn Sie mir Ihre verschiedene Schriften, welche Sie
+                    dem Drucke übergeben haben, <seg type="comment">
+                        <orig>zusenden wollten</orig>
+                        <note xml:id="nsrw_zz5_1x">Über derartige Sendungen Hirts ist nichts
+                            bekannt.</note>
+                    </seg>, da selbige, so wohl ihres Verfassers als ihres klassischen Werthes
+                    halber, so viel Interesse für mich haben. Der Betrag davon, welchen Sie
+                    gefälligst meinem geheimen Kabinettssekretär, Rath <persName key="ed_dwk_5z5_1x">Herzogenrath</persName>, anzeigen wollen, wird Ihnen mit vielem Danke
+                    übermacht werden.</p>
+                <p>Darf Ihr Vaterland sich wohl Hoffnung machen, <seg type="comment">
+                        <orig>Sie bald wieder einmahl zu sehen</orig>
+                        <note xml:id="npw5_pph_t1b">Hirt hatte auf der Rückreise von Italien im
+                            Sommer 1817 seine süddeutsche Heimat besucht.</note>
+                    </seg>? Dies würde mir eine erwünschte Gelegenheit seyn, Ihnen mündlich zu
+                    sagen, mit welcher Hochachtung ich bin, <lb/>Mein lieber Herr Hofrath
+                    <lb/>Ihr</p>
+                <closer>
+                    <salute/>
+                    <signed>
+                        <ex>[die Unterschrift fehlt]</ex>
+                    </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

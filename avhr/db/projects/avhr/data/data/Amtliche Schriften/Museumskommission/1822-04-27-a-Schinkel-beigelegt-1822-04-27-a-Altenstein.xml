@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_u1w_nxr_3jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hirt an Schinkel, Berlin, 27. April 1822 (beigelegt war das Schreiben an
+                    Hardenberg vom 27. April 1822)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellónska, Kraków (vormals Preuß.
+                            Staatsbibliothek Berlin, acc. ms. 1928.31)</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-04-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Hiebey <seg type="comment">
+                        <orig>das Schreiben</orig>
+                        <note xml:id="nkmr_mjw_vkb">Das von Hirt verfasste und von Schinkel
+                            mitunterzeichnete Schreiben an Hardenberg vom 27. April 1822.</note>
+                    </seg> an den <persName key="ed_tls_pjg_zgb">Fürsten</persName>. Wären Sie
+                    hiemit zufrieden, so würde ich Sie ersuchen, nach Ihrer Unterschrift dasselbe
+                    sogleich nach der Wohnung des Staatscanzlers befördern zu wollen. Mein Bedienter
+                    würde zu diesem Zwecke warten.</p>
+				<closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 27 April 22.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

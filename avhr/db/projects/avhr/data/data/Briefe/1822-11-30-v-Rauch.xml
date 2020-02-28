@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_xhk_hbt_4x">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Christian Daniel Rauch. Berlin, 30. November 1822.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection>IV/NL Rauch</collection>
+                        <idno>
+                            <idno type="shelfmark">XI. 3a, Bl. 6 r</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_p41_xpz_lw">Rauch, Christian Daniel (1777-1857) (Bildhauer des
+                        deutschen Klassizismus, Schüler von J. G. Schadow, Berliner
+                        Bildhauerschule)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-11-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_emk_12t_4x"/>
+                </correspContext>
+                <note>Auf der Rückseite des Blattes befindet sich die Antwort Hirts vom 1. Dezember
+                    1822.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>Seiner Wohlgeboren / dem K. HofRath Herrn Hirt / alhier / anbei
+                            ein Gipsabguß / Siegel ausgerissen (Teile der Adresse "Seiner
+                            Wohlgeboren / dem K. HofRath Herrn Hirt" wurden von Hirt durchgestrichen
+                            und für die Rücksendung durch den Adressaten Rauch ersetzt; der Rest
+                            wurde für die Rücksendung beibehalten.)</addrLine>
+                    </address>
+                </opener>
+                <p>In <placeName key="prov_zj4_hc3_g5">
+                        <hi rendition="#aq">Dresden</hi>
+                    </placeName> habe ich <seg type="comment">
+                        <orig>von einem ant<ex>iken</ex> Marmor</orig>
+                        <note xml:id="nhnw_1kt_4x">Es handelt sich um eine Stele aus Kalkstein. Im
+                            "Verzeichniß der alten und neuen Bildwerke und übrigen Alterthümer in
+                            den Sälen der Kgl. Antikensammlung zu Dresden. Vierte vermehrte und
+                            durchaus veränderte Auflage" (Dresden 1836) von Heinrich Hase ist das
+                            Objekt unter Nr. 440 wie folgt beschrieben: "Stele von grauem Kalkstein.
+                            Oben ein Stern und ein Mond. Darunter das Zeichen der Tholad. Weiter
+                            unten ein Schaafbock. Die Inschrift: Aquillia L. L. L. // Phartenio //
+                            V. S. L. M. // VI eid. Nov ist dazwischen vertheilt. Hamaker in seinen
+                            Miscellanea Phoenicia (Lugd. Bat. 1828, 4. S. 117) sieht darin ein
+                            Denkmal, das Baal und Astarte geweiht ist, um den Schutzgöttern der
+                            Heerden für die Fruchtbarkeit zu danken, die sie Aquilliens Vieh
+                            zugestanden; weil um die Iden des Novembers die Heerden lammen. Bedenken
+                            gegen diese Erklärung gibt Silv. de Sacy, Journ. des Savans. 1829.
+                            December. S. 746. (Höhe 2 F. 2 1/2 Z.)". </note>
+                    </seg> beikommenden Abguß nehmen laßen, und nehme mir die Freiheit Ihnen sehr
+                    verehrter Freund daßelbe zur Ansicht für die Inschrifften Sammlung der <orgName key="ed_znn_dfc_b1b">K<ex>öniglichen</ex> Academie der
+                        Wissenschaften</orgName> zu übersenden. <persName key="ed_pkl_5t1_wv">Prof.
+                        Tieck</persName> hält es wegen des Zeichen des Mondes u des Sterns für ein
+                        <hi rendition="#aq">Lunen</hi>sisches <hi rendition="#aq">Opus</hi>.</p>
+                <p>Wenn <seg type="comment">
+                        <orig>die Abgüße von 20 im <placeName key="ediarum_jhd_3b5_4x">
+                                <hi rendition="#aq">Augusteum</hi>
+                            </placeName> zu <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                            geformten Gegenstände in Abgüßen</orig>
+                        <note xml:id="ndmx_4vb_px">Über die in Dresden genommenen Abgüsse schreibt
+                            Rauch mehrfach an Böttiger, so am 12. Januar 1822: "So wie die Witterung
+                            es erlaubt, so senden wir Ihnen mehrere Formen, um die zu formenden
+                            Gegenstände gleich miteinander beginnen zu können, damit das Museum
+                            nicht zu lange von diesen etwas unsäuberlichen Geistern belästigt ist.
+                            Sehr angenehm sollte es mir sein, gemeinschaftlich mit Ihnen die zu
+                            formenden Gegenstände auswählen zu können. Hr. Tieck würde dann auch mit
+                            hin kommen, wie es Ihnen überhaupt überlassen bleibt zu befehlen, auf
+                            welche Weise diese Arbeit begonnen werden soll, im Einzelnen oder ob
+                            mehre Gegenstände zugleich angefangen werden können." (zitiert nach:
+                            Robert Boxberger: Briefe des Bildhauer Chr. Rauch, meist an Hofrath
+                            Böttiger, aus dessen Nachlass auf der Bibliothek in Dresden. In:
+                            Jahrbücher der Königlichen Akademie gemeinnütziger Wissenschaften zu
+                            Erfurt, N. F., Heft XI, 1882, S. 113-175; hier S. 116). - Am 20. März
+                            1822 fährt Rauch fort: "In Betreff des Abformens der antiken Marmor
+                            werde ich wahrscheinlich selbst mit dem Former auf einige Tage nach
+                            Dresden kommen; um indessen Ihren werthen Brief vom 17. v. M. vorläufig
+                            zu beantworten, so ist die Absicht allerdings, die Formen hier in Berlin
+                            zu haben, indem das Abformen nicht nur allein eine sehr grosse Ausgabe
+                            ist, welche für einige ausgewählte Stücke sich auf mehre Tausend Thaler
+                            belaufen wird, also ein Gegenstand von Bedeutung ist. / Besonders ist es
+                            aber die Absicht des Ministerio nicht nur die Akademie zu Berlin sondern
+                            auch die verschiedenen Kunstinstitute im Lande mit einer Auswahl von
+                            Abgüssen zu versehen. / Wären Sie in Dresden gesonnen einen Debit von
+                            den Abgüssen dortiger Kunstwerke anzulegen, wo würde wahrscheinlich ein
+                            hiesiger Former sehr gern sich in Dresden niederlassen, indessen würde
+                            das Abformen grosse Unterstützung von Seiten der Regierung bedürfen, und
+                            der Verkauf der Abgüsse die Kosten des Abformens etc. nicht decken, wie
+                            wir hier aus eigener Erfahrung zur deutlichen Einsicht gekommen sind.
+                            Selbst in Paris sind die Formen über Antiken durch Subscription
+                            entstanden." (ebd., S. 116-117). - Am 12. Mai 1822 schreibt Rauch an
+                            Böttiger: "Ew. Wohlgeboren / habe die Ehre anzuzeigen, dass durch ein
+                            Schreiben Sr. Excellenz des Geh. Staatsministers Freiherrn von
+                            Altenstein unter dem 18ten v. M. mir die erste Zahlung für das Abformen
+                            antiker Marmorwerke des Königlichen Museums zu Dresden angewiesen und
+                            die Abreise dahin mit dem italiänischen Former und einem hiesigen
+                            anbefohlen ist. Auch ist mir in dem Schreiben eines Hohen Ministerio
+                            angezeigt, dass von jedem geformten Kunstwerke ein Abguss der Königl.
+                            Sächsischen Gipssammlung abgeliefert werden soll. u.s.w." (ebd., S.
+                            117-118). - Am 19. November 1822 dankt Rauch: "Meinen herzlichsten Dank
+                            zuvörderst für alle Güte und Freundschaft, mit welcher Sie mich bei
+                            meiner Anwesenheit überhäuften. Dann tausend Dank für die grosse Güte
+                            und Nachsicht, mit welcher Sie uns die Thore des schönen Museums
+                            öffneten und wieder entliessen, welches mir noch ins besondre unsre
+                            formatori rühmen. Alles ist nun glücklich bei uns angekommen und schon
+                            in voller Thätigkeit, die Formen zu den Abgüssen zu präpariren" (ebd.,
+                            S. 120). - Und am 10. Dezember 1822 heisst es: "Könnten Sie nur erst die
+                            schönen Abgüsse sehen, welche uns Bianconi aus seinen Formen macht; die
+                            Ara oder der Dreifuss ist ein Juwel; welche Freude wird dieser
+                            Gegenstand und die andern der Kunstwelt machen! Denn es ist doch anderes
+                            die Sachen in Masse im Museo zu sehen als in seinem Arbeitszimmer den
+                            einzelnen Gegenstand vor sich zu haben. Ich bin entzückt über diese
+                            Güsse und reizen zur Arbeit; es gehet aus ihnen etwas Belebendes hervor,
+                            welches Leben anfacht, wenigstens sucht, deswegen auch die behenden
+                            alten Bronzen uns so lieb sind; immer findet sich ein Plätzchen aufm
+                            Tisch für sie, die Oblatenschachtel wird zum wechselnden Piedestal für
+                            sie" (ebd., S. 123). - Vermutlich waren es diese Abgüsse (oder einige
+                            davon), die zu den Feierlichkeiten anlässlich der Hochzeit des
+                            Kronprinzen Friedrich Wilhelm (IV.) im Akademiegebäude Unter den Linden
+                            ausgestellt waren (vgl. die Schilderung der Festlichkeiten in <ref target="hirt_q15_wn5_4x/#nqp5_g41_px">1823-11-28-a-Böttiger:
+                                Sachanmerkung</ref>).</note>
+                    </seg> da stehen, werde ich Sie davon benachrichtigen und <del rendition="#s">solche</del> einladen solche in Augenschein zu nehmen.</p>
+                <closer>
+                    <salute>Ihr <lb/>ergebenster Diener u Freund</salute>
+                    <signed>Chr. Rauch</signed>
+                    <dateline>B. 30 Nov. 1822.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

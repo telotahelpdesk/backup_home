@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gbs_4by_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Wilhelm Thiersch (Generalsekretar der Bayerischen Akademie der
+                    Wissenschaften)</title>
+                <title>. Berlin, 18. November 1820.</title>
+                <title> Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Bayerische Staatsbibliothek München</institution>
+                        <collection>Autographensammlung</collection>
+                        <idno>
+                            <idno type="shelfmark">Autogr. Hirt, Aloys (I)</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-11-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_qnt_bnm_vw">Thiersch, Friedrich Wilhelm (von) (1784-1860) (dt.
+                        Philologe, "Praeceptor Bavariae", 1812 Gründer des Philologischen Instituts
+                        an der Bayerischen Akademie der Wissenschaften, 1826-1859 Prof. für
+                        Griechische Philologie an der Universität München)</persName>
+                    <orgName key="ed_t4x_hfc_b1b">Bayerische Akademie der Wissenschaften, München,
+                        (-)</orgName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                </correspAction>
+                <note>Der Brief wurde zusammen mit Nr. 1820-11-18-a-Thiersch im selben Umschlag
+                    versandt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>siehe: 1820-11-18-a-Thiersch</addrLine>
+                    </address>
+                    <salute>Herr <hi rendition="#aq">Generalsecretar</hi>!</salute>
+                </opener>
+                <p> Die <orgName key="ed_t4x_hfc_b1b">Königlich Bayerische Akademie der
+                        Wißenschaften</orgName>, deren Organ Sie sind, hat mir nebst andern meiner
+                    hiesigen würdigern 
+                        
+                            <persName key="ed_sqb_xjq_bw ed_rhy_vs4_pw ed_ttv_m3q_bw">Collegen</persName>
+                        
+                     die Ehre erzeigt, <seg type="comment">
+                        <orig>uns zu auswärtigen ord<ex>entlichen</ex> Mitgliedern ihres Institutes
+                            aufzunehmen</orig>
+                        <note xml:id="nsg5_jfk_zw">Im Wahlakt für das Jahr 1820 findet sich in der
+                            Faust-Datenbank, fol. 4r die Bemerkung, dass "die Herrn Boeckh,
+                            Buttmann, Schleyermacher und Hirt, Mitglieder der Akademie der
+                            Wissenschaften in Berlin als ordentliche auswärtige Mitglieder"
+                            zuzuwählen sind. Auf fol. 4v findet sich die Bemerkung, die Wahl sei am
+                            4. März "einstimmig vollzogen" worden. In der folgenden kurzen Bemerkung
+                            heisst es: "Hirt endlich durch archäologische Schriften, so daß die
+                            Verbindung dieser Männer mit der Classe ihr eben so ehrenvoll als
+                            nützlich werden würde". Nicht erwähnt ist, wer die Vorschläge gemacht
+                            hat. - Zu ordentlichen auswärtigen Mitgliedern wurden 1820 weiterhin
+                            gewählt: in der Philologisch-philosophischen Klasse: Friedrich Creuzer,
+                            Friedrich Münter, Anton Carlo Fea, Vicenzo Monti, Johann Paul Friedrich
+                            Richter; in der Mathematisch-physikalischen Klasse: Augustin Bétancourt,
+                            John Rennie, Wilhelm Humboldt, Karl Wilhelm Gottlob Kastner.
+                            (Freundliche Auskunft von Archivoberrat Dr. Johann Pörnbacher M. A.,
+                            Bayerische Akademie der Wissenschaften).</note>
+                    </seg>.</p>
+                <p>Da denjenigen, welche die Wißenschaften ehren, und mit Liebe pflegen, nichts
+                    Erfreulicheres wiederfahren kann, als sich auf solche Weise ausgezeichnet zu
+                    sehen; so ersuche ich Sie, mein Herr <hi rendition="#aq">GeneralSecretar</hi>! den Mitgliedern Ihres gelehrten Vereines meine
+                    Hochachtung und meinen Dank hierwegen darzulegen.</p>
+                <p>Es war von jeher mein aufrichtiges Bemühen, in dem Kreise des Wißens, wozu der
+                    Hang mich vorzugsweise hinzog, Einiges zu leisten; aber es ist das Schicksaal
+                    der Meisten, eher das Ziel ihres Lebens, als das ihres wißenschaftlichen
+                    Strebens zu erreichen. Doch was der einzelne nicht vermag, mögen <pb n="2"/>
+                    mehrere bewirken, wenn sie mit reiner Absicht sich entgegenkommen, und sich
+                    wechselseitig aufmuntern. <orgName key="ed_t4x_hfc_b1b">Die Königlich Bayerische
+                        Akademie</orgName> thut dies, indem sie auch Entferntere zu gleichem Streben
+                        <add place="superlinear">sich</add> verbindet. Nie werde ich vergeßen, mich
+                    der ausgezeichneten Achtung, welche dieselbe mir durch Übersendung ihres
+                    Akademischen Diplom's erwiesen hat, würdig zu erhalten.</p>
+                <closer>
+                    <signed>Aloys Hirt.</signed>
+                    <dateline>Berlin den 18 Nov. 1820.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

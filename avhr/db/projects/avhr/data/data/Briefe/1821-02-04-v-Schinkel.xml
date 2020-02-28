@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hwq_hfz_s1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Karl Friedrich Schinkel. Berlin, 4. Februar 1821</title>
+                <title>. Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA,</institution>
+                        <collection>IV/ NL Schinkel</collection>
+                        <idno>
+                            <idno type="shelfmark">132</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-02-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_ym2_vgz_s1b"/>
+                </correspContext>
+                <note>Die Antwort Hirts auf demselben Blatt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Die <seg type="comment">
+                        <orig>Inschrift</orig>
+                        <note xml:id="nb45_jgz_s1b">Vgl. <ref target="hirt_fhz_vgw_3x/#ngkw_zhw_3x">1821-06-04-a-Wolf</ref> und 1821-11-01-a-Wolf.</note>
+                    </seg> für das <placeName key="ediarum_ilz_ngz_s1b">neue
+                        Schauspiel:Haus</placeName> soll jezt gegossen werden, ich theile Ihnen,
+                    Hochgeehrtester Freund, hierbei eine <seg type="comment">
+                        <orig>Skizze</orig>
+                        <note xml:id="ndwx_3gz_s1b">Nicht bekannt.</note>
+                    </seg> mit, welche angiebt wie dieselbe geschrieben werden soll, und bitte Sie,
+                    als den Erfinder, gütigst diese Skizze durchzusehn und uns wissen zu lassen, ob
+                    Sie dabei noch irgend etwas zu erinnern finden. Jeehr wir Ihre gütige Antwort
+                    erhalten, desto lieber ist es uns. Ergebenst der Ihrige</p>
+                <closer>
+                    <signed>Schinkel.</signed>
+                    <dateline>4 Feb 1821.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zsk_mgg_5jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    1. März 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 63r-72r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-03-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_hbg_mpx_tjb"/>
+                    <ref type="next" target="hirt_etd_ylq_vjb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio; von Schreiberhand mit egh. Unterschriften von
+                    Schinkel und Hirt. - Empfängerbemerkungen auf dem linken Rand von Bl. 63r: "B. /
+                    pr den 7ten März 1823 / H v Harlem / m. n. / 41. / 634. B. J. / Anter: liegen
+                    bei. / Cudé."[???] - Das Gutachten scheint von Hirt verfasst und von Schinkel
+                    nur mitunterzeichnet zu sein. Auf Hirts Verfasserschaft deuten die Passagen, wo
+                    von ihm selbst die Rede ist und dort nur von "Hirt" gesprochen wird, während bei
+                    allen anderen erwähnten Personen die Anrede "Herr" gebraucht und gegebenenfalls
+                    Titel und Funktion genannt werden.</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_ljv_mnm_pgb">Kunstmuseum, königlich preuß.</term>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Koenigl: Wirklichen Geheimen Staats-/Minister, Minister
+                            der Geistlichen Un-/terrichts und Medizinal Angelegenheiten pp / Herrn
+                            Freyherrn von Altenstein / Excellenz [auf dem unteren Rand von Bl.
+                            72r]</addrLine>
+                    </address>
+                    <dateline/>
+                </opener>
+				<p>Euer Excellenz leiten uns durch die Zuschrift vom 22<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Februar c<ex>urrentis</ex> auf Berücksichtigungen des
+                        <placeName key="ediarum_rj2_kdc_sy">Koenig<ex>lichen</ex> Musei</placeName>,
+                    worüber wir die nähern Beschlüsse der Commission schon lange gewünscht und
+                    deswegen auch nicht ermangelt haben, schon früher darauf aufmerksam zu machen.
+                    Wir danken daher Euer Excellenz sehr, daß Sie uns hiermit auffordern, unser
+                    Gutachten über eine Reihe von Puncten schriftlich aufzusetzen, welche alle dahin
+                    gehen, das wichtige und umfassende Geschäft des Museums zu fördern. Wir haben
+                    die Ehre darauf die Antwort zu ertheilen so genau, als wir dieselbe unter den
+                    obwaltenden Umständen geben koennen.</p>
+                <p><hi rendition="#u">I. Gemaelde.</hi>
+                    <lb/>Zuerst wird es nöthig sein, Euer Excellenz in näherer Kenntniß zu setzen,
+                    was bis jetzt für die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche
+                        Sammlung</rs> geschehen ist. <persName key="prov_ztg_3sx_sr"><lb/>Hirt</persName> brachte den ganzen vorigen Sommer bis spät in den
+                    Herbst damit zu, die gro-<pb n="2"/>ße Masse der Gemaelde nach Epochen, Schulen
+                    und Meistern (so viel es bei einer ersten Musterung möglich war) zu sondern, und
+                    darüber ein vorläufiges Verzeichniß zu machen. Auch sind diejenigen Gemaelde,
+                    die von keinem Gebrauch für das Museum sind, abgesondert und in ein eigenes
+                    Verzeichniß eingetragen worden. <lb/>Die ganze Masse beträgt einige Gemaelde
+                    über 3000: davon an 1300 Ausschuß (zum Verkauf bestimmte Bilder) und 1.700.
+                    Brauchbare. Von der letztern, der brauchbaren Classe, sind aber auch nicht alle
+                    für das Museum bestimmt, sondern hievon nur, ungefähr die Haelfte. Die andere
+                    Haelfte kann zum Theil für das Magazin, theils für die Koeniglichen Schloeßer
+                    dienen, zum Ersatz derjenigen Gemaelde, welche nach der Bestimmung S<hi rendition="#sup"><hi rendition="#u">r</hi></hi> Majestät des <persName key="prov_bxf_jt5_fv">Koeniges</persName> aus den Schlössern an das Museum
+                    abzugeben sind, theils könnten sie auch zu vortheilhaften Austauschungen benutzt
+                    und aufbewahrt werden. <lb/>Um nun die Bilder, welche definitiv in das Museum
+                    (aus der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen Sammlung</rs>
+                        näm-<pb n="3"/>lich) kommen sollen, zu bestimmen, war die Absicht von
+                        <persName key="prov_ztg_3sx_sr">Hirt</persName>, eine Classe der Gemaelde
+                    nach der Andern nach den Sälen der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName> überzubringen, und so dieselben classenweise neben
+                    einander aufzustellen, damit durch eine genaue Vergleichung man in den Stand
+                    gesetzt würde, reiflich zu beurtheilen, in welche der angegebenen Categorien
+                    jedes Gemaelde kommen sollte und hauptsächlich die für das Museum definitiv
+                    abzusondern. Diese Operation ist die Wichtigste; und daher ist vorläufig mit dem
+                    Herrn Geheimen Ober Bau Rath <persName key="ed_rcd_yvw_ww">Schinkel</persName>,
+                    dessen Einschreiten und Mithülfe bei der ersten Sonderungsoperation nicht so
+                    nöthig war, die Abrede genommen worden, daß er bei der definitiven Auswahl
+                    zugleich mit <persName key="prov_ztg_3sx_sr">Hirt</persName> arbeite, und damit
+                    kein einseitiges Urtheil statt finde, sind die drei Professoren, welche Euer
+                    Excellenz uns zur Beurtheilung der Restauration zugetheilt haben, nämlich die
+                    Herrn <persName key="prov_n1f_vl5_tv">Hummel</persName>, <persName key="ed_dqk_fnp_thb">Kubeil</persName> und <persName key="ed_y23_xjy_2y">Wach</persName> vorläufig ersucht worden, uns mit ihrem <pb n="4"/>
+                    Urtheil, bei einem so wichtigen Geschäfte gleichfalls zu unterstützen. <lb/>Erst
+                    also wenn die definitive Auswahl der Gemaelde für das Museum auf besagte Weise
+                    getroffen ist; läßt sich die Masse der auserwählten Gemaelde übersehen und
+                    hiemit ist dann auch die Moeglichkeit da, einen Ueberschlag der Gesammtunkosten
+                    für die Restauration derselben zu machen und darnach auch die Zeit zu bestimmen,
+                    wann die Restauration zu ihrer Vollendung gehen würde. Doch über die Summe der
+                    Unkosten und die Zeit ließe sich auch dann nur ein Aproximations-Ueberschlag
+                    machen. <lb/>Bis jezt sind wir mit dem Restauriren noch sehr zurück. Selbst die
+                    frühern Restaurationen, die vor dem Ankauf der <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> gemacht worden sind, eingerechnet, sind
+                    nur 41 Nummern in unserm Verzeichniße, und davon sind noch mehrere in der
+                    Restauration begriffen, Andere sind noch nicht bezahlt, und Andere sind so
+                    schlecht ausgefallen, daß <pb n="5"/> sie aufs neue zur Restauration zu geben
+                    sind. <lb/>Nach obiger Aeußerung die Gemaelde classenweise allmählig nach der
+                        <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName> zu transferiren,
+                    glaubte <persName key="prov_ztg_3sx_sr">Hirt</persName> früher, diese Operation
+                    mit dem May dieses Jahres beendigen zu koennen, so daß also das <placeName key="ediarum_tbl_n3n_5jb">Sollysche Local</placeName> nicht länger bedürftig
+                    gewesen wäre. Diese Hofnung von Bewerkstelligung gründete sich auf den Gebrauch
+                    der neuen Saele in der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName>, allein leider hat sich gezeigt, daß alle die Saele im
+                    Flügelbau nicht brauchbar sind, bis man sie nicht durch neue Bauvorkehrungen
+                    gesichert hat. Da aber hiezu noch kein Anfang gemacht ist, so läßt sich jezt an
+                    keine Versetzung der Gemaelde denken, und so giebt es kein anderes Mittel, als
+                    daß das <placeName key="ediarum_tbl_n3n_5jb">Sollysche Locale</placeName> noch
+                    wenigstens auf andere sechs Monate gemiethet werde. <lb/>Sollten aber die
+                    baufälligen Saele in der Akademie bis Ende Junius d<ex>ieses</ex>
+                    J<ex>ahre</ex>s gesichert und fertig sein, so ließe sich <pb n="6"/> mit
+                    Wahrscheinlichkeit annehmen, daß mit Anfang oder Ende October das <placeName key="ediarum_tbl_n3n_5jb">Sollysche Lokale</placeName> ganz geleert werden
+                    koennte. <lb/>Im Falle aber die Saele nicht zur angegebenen Zeit fertig würden,
+                    und folglich der Transport bis October nicht vollständig geschehen könnte, so
+                    müßte das <placeName key="ediarum_tbl_n3n_5jb">Sollysche Haus</placeName> noch
+                    auf ein volles Jahr weiter gemiethet werden, weil man nicht in den Winter-
+                    sondern nur in den Sommermonaten die nöthigen Operationen zur Auswahl machen
+                    kann. Wie dringend also der Bau in den Akademiesaelen sey, läßt sich leicht
+                    entnehmen, wenn man das Geschäft nicht ins unendliche verzögern, und nicht
+                    Ausgaben ohne Nutzen häufen will. <lb/>Hiermit sehen wir auch die Antwort auf
+                    die Zuschrift Euer Excellenz vom 26<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Februar als erledigt an. <lb/>Die übrigens guten aber für
+                    das Museum nicht auszuwaehlenden Gemaelde würden bis weiteres reponirt werden,
+                    ohne daß die <orgName key="ed_imk_ss2_gjb">Commission</orgName> die Restauration
+                    derselben und ihre <pb n="7"/> Rahmen zu berücksichtigen hätte. Wahrscheinlich
+                    würde sich für das Reponiren derselben ein Locale in dem <placeName key="prov_ulk_twt_fv">Koenig<ex>lichen</ex> Schloße</placeName> ausmitteln
+                    lassen, so daß in der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName>
+                    nur diejenigen Gemaelde verblieben, welche für das Museum ausgewählt worden
+                    sind. <lb/>Nur die 1300. zu verkaufenden Gemälde würden nicht nach der
+                        <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName> zu transportiren
+                    seyn, sondern sogleich nach einem Lokale, wo man sie so bald wie moeglich an den
+                    Meistbietenden verkaufen koennte, um diese unnütze Last los zu werden. Das
+                    Verzeichniß ist hiezu vorhanden, so daß darnach die Gemaelde an einen zu
+                    bestimmenden Licitator ausgeliefert, und der Catalog davon gedruckt werden
+                    koennte. Von solchen Geschäftsarbeiten würde man aber uns Commissarien
+                    dispensiren. Das darauf mehr oder weniger zu loesende Geld würde in die Casse
+                    für Restauration fließen. <lb/>Obwohl nun nach dem Gesagten der ganze <pb n="8"/> Kostenbetrag für die Restauration der Gemaelde noch nicht angegeben werden
+                    kann; so koennen wir vorläufig doch auf nicht weniger als 10,000
+                        r<ex>eichs</ex>Th<ex>a</ex>l<ex>er</ex> jährlich antragen, wenn das Geschäft
+                    in gehoeriger Art gehen soll. Dieser Fonds dürfte aber durch keine andere
+                    Ausgaben belästiget werden, sondern rein für Restauration sein.</p>
+                <p><hi rendition="#u">II. Einrahmung.</hi>
+                    <lb/>Eine fast eben so wichtige Angelegenheit für das Museum sind die Rahmen für
+                    die Bilder. Die <orgName key="ed_imk_ss2_gjb">Commission</orgName> hat hiefür
+                    vorläufig zwar anständige, aber keinesweges sehr künstliche und verzierte Rahmen
+                    angenommen, und diese nach der verschiedenen Größe der Gemälde von drei Arten in
+                    Hinsicht der Breite der Rahmen. Ferner ist angenommen worden, die ganze Arbeit
+                    an die mindest fordernden Unternehmer zu übertragen, und nach dem Fuß zu
+                    bedingen. Wie viel aber die ganze Summe der Fuße und der Ausgabe hiefür betragen
+                    möchte, läßt sich aus den angegebenen Ursachen bei der Restau-<pb n="9"/>ration
+                    noch nicht angeben, sondern erst nach der Auswahl der Gemaelde für das Museum
+                    bestimmen. Dies hindert jedoch nicht, daß man die Arbeit nicht sobald vornehmen
+                    könnte, wenn vorläufig eine jahrliche Summe hiezu bewilligt<choice>
+                        <sic>e</sic>
+                        <corr type="deleted"/>
+                    </choice> würde. Diese dürfte aber nicht geringer als 4000
+                        r<ex>eichs</ex>Th<ex>a</ex>l<ex>er</ex> jährlich sein.</p>
+                <p><hi rendition="#u">III. Antike Marmor.</hi>
+                    <lb/>Auch über die Restauration der antiken Marmor, über den Transport
+                    derselben, und über die dazu erforderlichen Piedestalle u.s.w. ist noch kein
+                    Ueberschlag vorhanden. Wir haben indessen HErrn Professor <persName key="ed_p41_xpz_lw">Rauch</persName> aufgefordert, seinen Ueberschlag uns
+                    einzureichen, der dann als Beilage folgen soll. Wir kommen hiebey aber auf das
+                    zurück, was wir auch schon früher andeuteten, nämlich: daß, wenn die Fonds es
+                    nicht vertrügen sogleich große Summen hiefür anzuweisen, das Geschäft der
+                    Marmorrestauration langsamer vor sich gehen koennte. Wir meinen nämlich: <pb n="10"/>
+                    <lb/>1. daß die meisten Antiken auch mit mangelhaften und schlechten
+                    Ergänzungen, die sie iezt haben, und mit ihren jetzigen Piedestallen im Museo
+                    aufgestellt werden koennten, und dann dieselben einzeln und allmählig in die
+                    Werkstatt des Restaurators wandern koennten, und eben so koennte man es mit den
+                    nöthigen Besserungen und Arbeiten der zweckmäßigern Piedestalle halten. Wir
+                    würden <lb/>2<hi rendition="#sup"><hi rendition="#u">tens</hi></hi> und vorerst
+                    jene Marmor zu berücksichtigen sein, welche lange im Freyen gestanden haben, und
+                    ohne Reinigung und Ergänzung nicht in das Museum zu bringen sind. <lb/>Wir
+                    hielten demnach für das Zweckmäßigste, daß man vor der Hand eine Summe hiefür,
+                    etwa 6 - 8000 r<ex>eichs</ex>Th<ex>a</ex>ler jährlich bestimmte, und hiernach
+                    Herr Professor <persName key="ed_p41_xpz_lw">Rauch</persName> seine Arbeit
+                    anfinge.</p>
+                <p><hi rendition="#u">IV. Laufende, und später eintretende Unkosten für die innere
+                        Leitung und Polizei des Musei.</hi>
+                    <lb/>Andere laufende Ausgaben sind für das Per-<pb n="11"/>sonale: Herrn
+                        <persName key="ed_ny1_2dg_5jb"><persName key="ed_wk3_kln_5jb">Müller</persName></persName>, <persName key="ed_fws_rrd_3jb">Lamperi</persName> und Portier <persName key="ed_cdy_rrz_rjb">Koehler</persName> und dazu kommt einige Remuneration an den Kastellan
+                        <persName key="ed_rcc_xln_5jb">Rietz</persName>, wegen Heitzung und anderer
+                    kleinen Dienste in der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName>; ferner werden dahin zu nehmen sein, die Ausgaben für das
+                        <placeName key="ediarum_tbl_n3n_5jb">Sollysche Lokale</placeName> und
+                    vielleicht auch diejenigen für einige einzurichtenden Studien für die
+                    Restauratoren auf der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName>,
+                    welche wir als sehr wesentlich erachten für die zweckmäßige Förderung der
+                    Restaurationen. Vielleicht koennten aber die Unkosten hiezu aus dem academischen
+                    Baufond genommen werden, nämlich aus dem woraus die baufälligen Saele
+                    herzustellen sind. Dazu kommen dann noch verschiedene kleine Unkosten: für
+                    Miethung er Moebel, Schreibmaterialien, Transporte der Gemaelde zu den
+                    Restauratoren und nach der <placeName key="ediarum_qkl_1cw_jgb">Akademie</placeName>, u.s.w. <lb/>Alle solche Unkosten müßten aber
+                    besonders berechnet werden, und keinesweges die vorgeschlagenen jährlichen Fonds
+                        <pb n="12"/> für die Restaurationen und das Rahmenwesen belästigen. Auch
+                    möchten wir ferner nicht wieder mit den Unterschreibungen der Quittungen u.s.w.
+                    für die Casse incommodirt werden.</p>
+                <p><hi rendition="#u">V. Vorläufige erforderliche Arbeiten für die verschiedenen
+                        Classen der Gegenstände welche das Museum umfassen sollen.</hi>
+                    <lb/>Allerdings ist es sehr nöthig, jezt schon und im Voraus an den Plan zu
+                    denken: wie das Museum eingerichtet, wie die innere Leitung und Benutzung und
+                    das Personale hiezu sein soll. <lb/>1) Was die erste Einrichtung des Musei
+                    betrift, kann diese nur zweckmäßig von der jezt niedergesetzten <orgName key="ed_imk_ss2_gjb">Commission</orgName> geleitet werden. Diese wird
+                    bestimmen erstlich in Hinsicht der Gemaelde: welche Gemaelde darin aufgenommen,
+                    und in welcher Art und Ordnung dieselben aufgestellt wer-<pb n="13"/>den sollen.
+                        <persName key="prov_ztg_3sx_sr">Hirt</persName> verpflichtet sich hierüber
+                    ein ausführliches räsonnirtes <bibl sameAs="ed_phc_5w4_vjb">Verzeichniß</bibl>
+                    zu schreiben, und mit Bewilligung Allerhoechsten Orts dann dem Druck zu
+                    übergeben. Keine Sammlung von Gemaelden bedarf einer so gründlichen und
+                    ausführlichen Beschreibung, wie die Unsrige, weil ihre Hauptbase das Historische
+                    ist, wodurch sie sich von allen bisherigen Sammlungen wesentlich unterscheidet.
+                    Die Arbeit ist sehr umfassend und kann nicht wohl ohne zwey Quartbände erledigt
+                    werden. Hiernach kann dann ein kurzer HandCatalog zum Dienst für die Besehenden
+                    verfertigt werden. <lb/>2) Wird eben so die <orgName key="ed_imk_ss2_gjb">Commission</orgName> für die zweckmäßige Aufstellung und neben einander
+                    Reihung der Antiken Marmor sorgen. Auch hiefür verpflichtet sich <persName key="prov_ztg_3sx_sr">Hirt</persName> das raesonnirte <bibl sameAs="ed_pwn_zw4_vjb">Verzeichniß</bibl> zu besorgen. <lb/>3) Bedarf auch
+                    die Aufstellung der Gipsabgüsse einer zweckmäßigen Zusammen-<pb n="14"/>reihung;
+                    mit einer verworrenen Aufstellung dieser Art Gegenstände, wie man solche
+                    anderwärts sieht, ist es nicht gethan. Das Zweckmäßige kann hierin auch nur
+                    unter der Aufsicht der <orgName key="ed_imk_ss2_gjb">Commission</orgName>
+                    geschehen. <lb/>Sollte <persName key="prov_ztg_3sx_sr">Hirt</persName> nicht
+                    Zeit haben, hierzu das raesonnirte <bibl sameAs="ed_ktt_bx4_vjb">Verzeichniß</bibl> zu verfertigen, so würde er wenigstens Sorge tragen, daß
+                    es von einem geschikten Manne unter seiner Leitung gemacht würde. <lb/>4) Auch
+                    darf die <orgName key="ed_imk_ss2_gjb">Commission</orgName> sich nicht entgehen
+                    lassen, daß das sogenannte <rs type="artwork" key="prov_py3_thd_y3b">Antiken
+                        Cabinet</rs> unter ihrer Aufsicht organisirt und angeordnet werde. Vorerst
+                    würde dahin zu sehen sein, in wie weit die verschiedenen wichtigen Classen
+                    Alterthümlicher Gegenstände des Cabinets bereits von den <seg type="comment">
+                        <orig>zwey Vorstehern</orig>
+                        <note xml:id="nf3k_tlm_5jb"><persName key="prov_kds_gnv_3v">Jean
+                                Henry</persName> und <persName key="ed_ifk_ktj_xv">Konrad
+                                Levezow.</persName></note>
+                    </seg> beschrieben und catalogisirt sind, und welche Arbeiten zunächst
+                    vorzunehmen wären, um die Sicherheit zu haben, daß Alles in der besten
+                    Vorbereitung wäre, wenn die Dislocation <pb n="15"/> in das <placeName key="ediarum_rj2_kdc_sy">neue Museum</placeName> geschehen soll. <lb/>Für
+                    eine solche Inspection der <orgName key="ed_imk_ss2_gjb">Commission</orgName>
+                    wäre es gut, bald möglichst die Zeit anzuberaumen. <lb/>5) Noch verbleibt die
+                    mit dem <rs type="artwork" key="prov_py3_thd_y3b">Cabinet</rs> noch verbundene
+                    sogenannte <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName>, welche
+                    gleichfalls mit dem <placeName key="ediarum_rj2_kdc_sy">neuen Museum</placeName>
+                    zu verbinden die Absicht ist. Auch diese commissarisch zu inspiciren, wäre sehr
+                    nöthig; erstlich um die verschiedenen Classen von Gegenständen dieser Art genau
+                    zu kennen, das wahrhaft Merkwürdige von dem Unbedeutenden zu trennen, genaue
+                    Verzeichniße von jeder Classe besorgen zu lassen; so daß auch alles hieher
+                    Gehoerige in erforderliche Vorbereitung wäre, wann es dann an die Dislocation
+                    käme.</p>
+                <p><hi rendition="#u">VI. Benutzung des Museums</hi>
+                    <lb/>Um die Gegenstände des Museums zu besehen und gehoerig zu benutzen, sind
+                    wir der Meinung, daß aner-<pb n="16"/>kannten Künstlern und den im Museo
+                    Arbeitenden, Karten gegeben würden, das Museum täglich zu bestimmten Stunden
+                    besuchen zu koennen. Für das Publicum wären in jeder Woche bestimmte (etwa drey)
+                    Tage und Stunden (von 10 bis 3 Uhr) zu besehen festzusetzen, doch dies immer
+                    gegen distribuirende Einlaßkarten, damit die Saele nicht überfüllt und die
+                    gehoerige Aufsicht nicht erschwert würde. An Fremde und an angesehene Freunde
+                    und Liebhaber der Kunst (wie für Gesandtschaftspersonale u.s.w.) könnten
+                    gleichfalls Charten für jeden Tag abgegeben werden. Auf jeden Fall scheint uns,
+                    sollte nie ein sogenanntes Honorar oder Trinkgeld von den Besehenden gezahlt
+                    werden.</p>
+                <p><hi rendition="#u">VII Personal des Museums</hi>
+                    <lb/>In Rücksicht des Personals für das <placeName key="ediarum_rj2_kdc_sy">Museum</placeName> erachten wir folgendes als zweckmäßig. <lb/>1) würde
+                    sein: ein General Director, <pb n="17"/> oder Intendant über alle Abtheilungen
+                    des Museums in der Art wie über das Theaterwesen. Hierzu würde am Besten ein
+                    Mann vom Stande passen, der sich als ein Freund und Kenner der Kunst und des
+                    Alterthums beurkundigt hätte, und überhaupt würde die Oberaufsicht eine
+                    Hofcharge sein, die mit Seiner Majestät dem <persName key="prov_bxf_jt5_fv">Koenige</persName> und Seinem Cabinette unmittelbar verhandelte. <lb/>2)
+                    Würde jede Abtheilung seinen besonderen Director haben. Diese Directoren würden
+                    <lb/>a) für die Marmor und antiken Abgüsse <lb/>b) für das Antiken Cabinet
+                    <lb/>bekannte Alterthums und Kunstforscher, <lb/>c) für die Gemaelde <lb/>ein
+                    Kunstgelehrter, der nämlich außer der Kenntniß der Kunst an sich, zugleich die
+                    neuere Kunstgeschichte wohl inne hätte. <lb/>In dieser Beziehung koennen wir
+                    nicht umhin, auf einen seltenen jungen Mann, den D<hi rendition="#sup"><hi rendition="#u">r</hi></hi>
+                    <persName key="ed_jbn_mrv_2jb">Waagen</persName>, Sohn eines schlesischen <pb n="18"/>
+                    <persName key="ed_iff_5nn_5jb">Mahlers</persName> aufmerksam zu machen, der sich
+                    bereits durch zwei vortreffliche Schriften bekannt machte; <bibl sameAs="ed_pxc_n4n_5jb">die erste über die Mumien</bibl> in der <rs type="artwork" key="prov_ryb_3s1_h3b">Koenig<ex>lichen</ex> Sammlung</rs> zu
+                        <placeName key="prov_rhf_xzg_y5">München</placeName>, und <bibl sameAs="ed_sz4_bpn_5jb">die zweite</bibl>, die jezt eben erschienen ist,
+                    über die Brüder <persName key="ed_xsx_3yl_gjb">Hubert</persName> &amp; <persName key="ed_sdy_1zl_gjb">Johann van Eyck</persName>. <lb/>d) für die eigentliche
+                        <placeName key="prov_olb_qlv_3v"><rs type="artwork" key="prov_y45_qpn_5jb">Kunstkammer</rs></placeName> könnte ein weniger gelehrter, doch mit
+                    mancherley Kenntnißen versehener Mann als Director passen. <lb/>Außer den
+                    Directoren bei jeder der vier Abtheilungen des Museums müßte wenigstens bei den
+                    größern Abtheilungen nämlich bei denen der Marmor und Abgüsse, dann bei den
+                    Gemaelden je ein Inspector sowie bei den erstern etwa ein Bildhauer, und bei der
+                    andern ein Mahler. Auch bedürfte der Director des <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken Cabinets</rs> auch eines Adjunctus. <lb/>Dann
+                    wären eine Anzahl Unterbediente erforderlich; bei den Bildern nicht weniger als
+                    drei, und eben so viel bei den Mar-<pb n="19"/>mor und Abgüssen; einer bei dem
+                        <rs type="artwork" key="prov_l1p_mx2_gjb">Antiken-Cabinet</rs>, und einer
+                    bei der <placeName key="prov_olb_qlv_3v"><rs type="artwork" key="prov_y45_qpn_5jb">Kunstkammer</rs></placeName>. Besonders sind noch
+                    zu rechnen ein Portier und ein Hausknecht. <lb/>Die Besoldungen für ein solches
+                    Personal dürfte nicht dürftig, sondern anständig und der Qualification
+                    angemessen sein. <lb/>Dem Secretair Herrn <persName key="prov_rfj_znn_1v">Müller</persName> haben wir aufgegeben für ein Verzeichniß der bisher für
+                    das Museum gemachten Unkosten zu sorgen, was wir dann als Beylage nachsenden
+                    werden.</p>
+				<closer>
+                    <dateline>Berlin den 1<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Maerz 1823</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

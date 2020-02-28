@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mkg_g54_wx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An den Kronprinzen Friedrich Wilhelm (IV.) von Preußen. Berlin, 24. August
+                    1825.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>BPH</collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 50 J Nr. 499, Bl. 29r</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_rrj_mk5_fv">Preußen, Friedrich Wilhelm (IV.) von (1795-1861)
+                        (Kronprinz, 1840-1861 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-08-24" cert="high"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>Wenn ich vor einiger Zeit mit höchstem Leidwesen meldete, daß ich <seg type="comment">
+                        <orig>das Cabinetsschreiben</orig>
+                        <note xml:id="nev3_z54_wx">Möglicherweise die Cabinetsorder des Königs vom 22. Mai 1824, in der
+                            eine zuvor eingereichte Bitte Hirts, "eine Revision des Museumsbaues" zu
+                            veranlassen, erlaubt und zugleich genehmigt wurde, "daß die Ansichten
+                            hierwegen Seiner Königlichen Hoheit dem Kronprinzen vorgelegt werden. /
+                            Auf Veranlaßung Seiner Königlichen Hoheit sind daher die
+                            allerunterthänigst unterzeichneten, Geheime Ober-Bau-Rath Schinkel und
+                            Hofrath Hirt, zusammengetreten und nach dem vorhandenen Locale, wie die
+                            gestochenen Bauriße dasselbe angeben, haben wir nach reiflicher
+                            Ueberlegung uns mit einander verständigt: in welcher Art die innere
+                            Einrichtung und die Hauptanordnung der in dem Museo aufzustellenden
+                            Gegenstände, aufs Zweckmäßigste vor sich gehen könnte". (Vgl. das
+                            Antwortschreiben von Hirt und Schinkel vom 31. Oktober 1825 - GStA PK,
+                            I. HA, Rep. 89 Geh. Zivilkab. jüngere Periode Nr. 20441, Bl. 84 ff).
+                        </note>
+                    </seg>, <seg type="comment">
+                        <orig>was Ew. Königliche Hoheit zu sehen
+                            wünschten</orig>
+                        <note xml:id="nzmt_z54_wx">Da der Wunsch des Kronprinzen
+                            auch mündlich an Hirt herangetragen worden sein könnte, wurde hier kein
+                            Brief des Kronprinzen erschlossen.</note>
+                    </seg>, unter meinen Papieren
+                    nicht finden könne; so sehe ich es diesen Augenblick gleichsam vor meiner Nase
+                    liegen. - Tausendmal bitte ich um gnädige Nachsicht über mein unbegreifliches
+                    Zerstreutseyn.</p>
+                <p>Ich säume keinen Augenblick, die Cabinetsorder an Ew. Königliche Hoheit
+                    unterthänigst zu übersenden; und in Erwartung der weitern Befehle geharre ich in
+                    tiefester Ehrfurcht <lb/>Ew. Königlichen Hoheit <lb/>unterthänigster</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin den 24 Aug. 1825.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

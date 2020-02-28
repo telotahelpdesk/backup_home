@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_sl4_g43_s5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Johann Kaspar Lavater. Zürich, den 17. Januar 1789. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Zentralbibliothek Zürich</institution>
+                        <repository>Nachlass Lavater</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">FA Lav. Ms. 566.10</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Claudia Sedlarz: Morgenröte der Berliner Kunstgeschichte.
+                            Aloys Hirt an der Berliner Akademie der Künste und seine Zusammenarbeit
+                            mit Karl Philipp Moritz und Friedrich Rambach. In: Aloys Hirt in Berlin.
+                            Hrsg. von Astrid Fendt, Claudia Sedlarz und Jürgen Zimmer. Berlin,
+                            München 2014, S. 157 (Teilabdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_zqn_wx5_35">Lavater, Johann Kaspar (1741 - 1801) </persName>
+                    <placeName key="prov_fqy_my5_35">Zürich, Zürch</placeName>
+                    <date when="1789-01-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759 - 1837) </persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_ghk_gkg_35"/>
+                    <ref type="next" target="prov_j44_bfj_s5"/>
+                </correspContext>
+                <note>H: Verbleib unbekannt. - Textgrundlage: wortgetreue Abschrift durch einen
+                    Schreiber; es handelt sich nicht um die Handschrift Lavaters</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute>Lieber guter Hirt!</salute>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Ihr naiver Brief</orig>
+                        <note xml:id="nt33_fw2_2z">Siehe den Brief von Hirt an Lavater, Rom, 27.
+                            Dezember 1788.</note>
+                    </seg> machte mich froh müthig lächeln. Nach <placeName key="prov_vkl_ndl_js">Rom</placeName> kann ich nicht kommen. Zeit, Geld, Beruf mangeln. <persName key="prov_tcx_f1j_s5">Weib</persName>, <persName key="prov_egy_mbj_s5">Kinder</persName>, <seg type="critical">
+                        <orig>Gemeinde </orig>
+                        <note xml:id="nspy_qdj_s5">Lavater war seit 1786 Pfarrer an St. Peter in
+                            Zürich</note>
+                    </seg>halten, nebst vielem andern Zehnfach zurük. Nichts desto minder hab' ich
+                    Ihnen für Ihre gütige Einladung zudanken. Sie sind ein guter Mensch! Sagen Sie
+                    mir von Sich. Zeichnen Sie auch? Ihn <ex>[!]</ex> welchem Fache? Studieren Sie
+                    die Physiognomik? Ich lerne täglich! Kann ich Ihnen was dienen? –</p>
+                <p>Sehen Sie <persName key="prov_hy4_jx2_rs">Herdern</persName> so sagen Sie Ihm –
+                    man muß Ihn lieben, wie man Ihn liebt, um Ihn nicht zubeneiden – Herzlich gönn
+                    ich Ihm die Trunkenheit seines tausendfachen Genußes. Was wird
+                        <unclear reason="illegible">der</unclear> mit <persName key="prov_hwd_hmp_5r">Goethe</persName>
+                    – uns liefern!</p>
+                <p>Auch der <persName key="prov_qn2_zhp_5r">verwittweten Herzogin von
+                        Weymar</persName> bitt ich mich zuempfehlen. Sie wißen wohl nicht, ob diese
+                    lieben Reisenden <seg type="critical">
+                        <orig>über <placeName key="prov_fqy_my5_35">Zürich</placeName>
+                            zurükgehen</orig>
+                        <note xml:id="ny3x_ygb_z5">Die Rückreise führte nicht über Zürich. Zu
+                            Herders Reiseroute vgl. 1789-05-27-a-Lavater: Sacherläuterung.</note>
+                    </seg>?</p>
+                <closer rend="paragraph">
+                    <salute>adieu lieber guter!<lb/> Nächstens Ihre ganze adressen in und außert
+                            <placeName key="prov_vkl_ndl_js">Rom</placeName>.</salute>
+                    <salute/>
+                    <salute>den 17<hi rendition="#sup">ten.</hi> Januar <lb/>89.</salute>
+                    <signed>Johann Caspar Lavater</signed>
+                    <dateline rend="align(right)"/>
+                </closer>
+            </div>
+            <postscript>
+                <p>umarmen Sie <persName key="prov_mrl_wby_g5">Lips</persName> vor mich.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

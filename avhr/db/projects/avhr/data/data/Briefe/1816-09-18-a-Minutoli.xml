@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_zsx_rvl_jw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Heinrich Menu von Minutoli. Berlin, 18. September 1816.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Bayrische Staatsbibliothek München</institution>
+                        <collection>Autographensammlung</collection>
+                        <idno>
+                            <idno type="shelfmark">Autogr. Hirt, Aloys</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1816-09-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ctf_3vj_xv">Menu von Minutoli, Johann Heinrich Karl
+                        (1772-1846) (preuß. Offizier, zuletzt Generalleutnant, Prinzenerzieher,
+                        Altertumsforscher, Ausbilder am adligen Kadettenkorps in Berlin,
+                        Gründungsmitglied der "Militärischen Gesellschaft" in Berlin, 1820
+                        Expedition nach Ägypten, EM der Akademie der Wissenschaften zu
+                        Berlin)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Ob dem Brief eine schriftliche Anfrage Menu v. Minutolis vorausging oder
+                    vielleicht nur ein Gespräch, ist nicht sicher zu sagen. Ein Brief Minutolis
+                    wurde deshalb nicht erschlossen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>S<hi rendition="#sup">r</hi> Hochwohlgeboren / dem Herrn General /
+                            v. Menû p. / Mit Siegelspuren</addrLine>
+                    </address>
+                </opener>
+                <p>Ich werde mit Ihrer Erlaubniß <seg type="comment">
+                        <orig>Ihren <persName key="prov_abl_fz5_35">Raphael</persName>
+                        </orig>
+                        <note xml:id="nwsp_sxl_jw">Welches Gemälde hier gemeint ist, konnte nicht
+                            sicher bestimmt werden. Möglicherweise handelt es sich um eine Kopie der
+                            Heiligen Familie von Raffael, von der ein weiteres Exemplar in
+                            königlichem Besitz war. 1812 war diese Teil einer Verkaufsausstellung,
+                            die der Kunsthändler Luigi Schiavonetti Unter den Linden 12 veranstaltet
+                            hatte. "Den Raffael [...] erwarb wohl Menu von Minutoli, nachdem
+                            Schiavonetti vom Staat vergeblich 600 Friedrichsdor verlangt hatte."
+                            (Robert Skwirblies: Altitalienische Malerei als preußisches Kulturgut:
+                            Gemäldesammlungen, Kunsthandel und Museumspolitik 1797-1830.
+                            Berlin/Boston 2017, S. 375). Allerdings soll die Kopie erst um 1819 von
+                            der Witwe (Schiavonetti war 1816 gestorben) an Menu von Minutoli
+                            verkauft worden sein (ebd., S. 376). Vielleicht hatte sich Minutoli
+                            schon nach dem Tod des Kunsthändlers für das Bild interessiert. -
+                            Minutoli war ein eifriger Kunst- und Altertümersammler, der als Erzieher
+                            des Prinzen Carl von Preußen auch die Kinder des Königs mit ständig
+                            neuen Erwerbungen überraschte (vgl. Harry Nehls: Späte Ehrung.
+                            Anmerkungen zum 150. Todestag von Minutoli. In: Berlinische
+                            Monatsschrift 10/1996, S. 88).</note>
+                    </seg> bey nächster Gelegenheit noch einmal in Augenschein nehmen. <seg type="comment">
+                        <orig>Beykommendes Bildchen</orig>
+                        <note xml:id="ngcb_5xl_jw">Nicht bekannt.</note>
+                    </seg> ist niedlich, und wahrscheinlich <hi rendition="#u">deutsch</hi> aus der
+                        <persName key="ed_kn3_fxl_jw">Sprangerschen</persName> Schule - 50 bis 60
+                        r<ex>eichstaler</ex> könnte es wohl gelten. Doch müßte auf einiges wenigere
+                    angetragen werden.</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 18 Sept. 16.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_t3l_j1r_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Johann Erdmann Hummel, Niederlande, vor 17. Juli 1817]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt: Sulpiz Boisserée an Goethe, Heidelberg, 1. August 1817: "[...] er [Hirt]
+                    las mir dann den Brief von Hummel vor, worin dieser ihm schrieb, daß er und Buri
+                    sich in den Niederlanden vollends von der Richtigkeit unserer Ansicht überzeugt
+                    hätten".</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_n1f_vl5_tv">Hummel, Johann Erdmann (1769-1852) (Maler,
+                        1792-1799 in Italien, ab 1799 in Berlin, 1809 Prof. für Perspektive,
+                        Architektur und Optik an der Berliner Kunstakademie)</persName>
+                    <placeName key="prov_hll_2st_y5">Niederlande (Holland)</placeName>
+                    <date notBefore="1817-06-10" notAfter="1817-07-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_zcy_dc3_g5">Frankfurt am Main</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_zm3_qnb_lw"/>
+                </correspContext>
+                <note>Zur Datierung: Hirt hielt sich vom 17. bis 22. Juli 1817 in Heidelberg auf, wo
+                    er die Boisseréesche Kunstsammlung besuchte. Bei dieser Gelegenheit las er
+                    Sulpiz Boisserée den Brief von Hummel vor, den er demzufolge vor diesem
+                    Aufenthalt erhalten haben und den Hummel nach seinem Brief
+                    [1817-06-vor10x-v-Hummel] geschrieben haben muss.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

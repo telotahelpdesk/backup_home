@@ -1,0 +1,61 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_x5k_jmy_xw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich von Schlichtegroll. München, 24. Oktober 1820]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1820-11-18-a-Schlichtegroll: "Ich erhalte gestern Ihr Schreiben von
+                    [!] 24 October, worin Sie mich auffordern, Ihnen Nachricht über eine
+                    calligraphisch-lithographische Arbeit eines dortigen Künstlers Mittenleiter,
+                    welche an mich gesandt seyn sollte, um sie zu einem Concurs abzugeben - zu
+                    ertheilen."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ehm_zjy_xw">Schlichtegroll, Adolf Heinrich Friedrich von
+                        (1765-1822) (Philologe, Numismatiker, Archäologe, Lehrer am Gymnasium
+                        Illustre in Gotha und sachs.-gothaischer Bibliothekar, 1807 Generalsekretar
+                        der Bayerischen Akademie der Wissenschaften in München, 1813 geadelt, Mitgl.
+                        der Preuß. Akademie der Wissenschaften)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                    <date when="1820-10-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_hxd_2jy_xw"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

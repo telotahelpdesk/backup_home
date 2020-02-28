@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_s31_wpm_vw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich Wilhelm Thiersch. München, vor 19. November 1819]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1819-11-15-a-Böttiger: "[...] im Augenblick, wo ich dies in Ihrem
+                    Briefe lese, wird mir die Abhandlung von dem Verfaßer
+                            mit einem Briefchen zugeschickt".</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_qnt_bnm_vw">Thiersch, Friedrich Wilhelm (von) (1784-1860) (dt.
+                        Philologe, "Praeceptor Bavariae", 1812 Gründer des Philologischen Instituts
+                        an der Bayerischen Akademie der Wissenschaften, 1826-1859 Prof. für
+                        Griechische Philologie an der Universität München)</persName>
+                    <placeName key="prov_rhf_xzg_y5">München</placeName>
+                    <date notBefore="1819-10-12" notAfter="1819-11-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zur Datierung: Der Brief wurde wohl erst nach der am 12. Oktober 1819
+                    gehaltenen Vorlesung Thierschs und kurz vor Erhalt des Briefes am 19. November
+                    1819 geschrieben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_i5f_zrn_pv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Ernst Friedrich Herbert Graf von Münster-Ledenburg. Hannover, Anfang(?)
+                    1799</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_qt1_kdl_cv">Münster, Ernst Friedrich Herbert Graf
+                        zu</persName>
+                    <placeName key="prov_dyb_3sn_pv">Hannover</placeName>
+                    <date when="1799-01-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Bezeugt in: Jürgen Zimmer: Hirt II, S. 35, nach: Reinhard Dorn: Bauten und
+                    Projekte Peter Joseph Krahes in Düsseldorf, Koblenz, Hannover und Braunschweig
+                    1787-1806, S. 27 (Belege der Berufungsverhandlungen in: Niedersächsischen
+                    Staatsarchiv Hannover, 76, 3d, Nr. 36a): Münster bittet Hirt um ein Gutachten zu
+                        <persName key="prov_gj1_zn4_pv">Friedrich Weinbrenner</persName>, den er zur
+                    Berufung als Kammerarchitekt in Hannover vorgeschlagen hat. Das Gutachten fiel
+                    "positiv" aus. Weinbrenner allerdings schlug das Angebot 1802 aus und Peter
+                    Joseph Krahe aus Düsseldorf trat am 15. Juli 1803 den Posten an. - Georg Tatter
+                    schreibt an Georg Zoëga, Hannover, 15. Mai 1800: "Sehr viel Genuß hat Münstern
+                    und mir der dreiwöchentliche Aufenthalt hier von Weinbrenner verschafft; Münster
+                    hatte ihm den Vorschlag die Stelle eines hiesigen Architecten anzunehmen gethan,
+                    er kam selbst hieher, schien auch für sich Lust zu haben, sie anzunehmen, nur
+                    die Familienverhältnisse seiner Frau, die in Stra[s]burg ihr Vermögen hat,
+                    hinderten ihn, sich gleich fest zu bestimmen; jezt erwartet man noch immer seine
+                    Antwort, die vielleicht kriegerische Umstände verhindern, zu uns zu gelangen"
+                    (Georg Zoëga. Briefe und Dokumente, Bde. IV, 2013, Nr. 827, S. 228).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

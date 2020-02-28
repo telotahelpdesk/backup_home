@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_n5s_p3b_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Hirt. Berlin, 8. Oktober
+                    1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bde. 3,
+                                Bl. 26r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-10-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_dg1_gbh_cjb"/>
+                </correspContext>
+                <note>Auf dem linken Rand Bearbeitungsvermerke: "Herr GORR Uhden / 1259. / Original
+                    / 1 Anlage / 2 Unterlagen / beizufügen" - Mundierungsvermerk: "19. md /
+                    abges.[endet] 20/10 mit 4 Orig: Anl:" - Unterhalb des Schreibens an Hirt
+                    befindet sich auf Bl. 26r-v ein Schreiben an Chevalier Liagno in derselben
+                    Angelegenheit: "An den Herrn Bibliothekar, Chevalier de Liagno / Hochwohlgeboren
+                    / hierselbst / Das Ministerium benachrichtigt Ew. auf Ihre Vorstellung vom 7ten
+                    v. Mts. [Monats] in Betreff des Ankaufs der p von Schepelerschen
+                    Gemälde-Sammlung für das königliche Museum, // daß der Hofrath und Professor
+                    Hirt aufgefordert worden ist, diese Sammlung zu untersuchen und gutachtlich über
+                    den Werth sich zu äussern, den dieselbe für das königliche Museum haben möchte.
+                    Das Ministerium behält sich vor, nach Eingang des diesfalsigen Gutachtens
+                    weitern Beschluß in der Sache zu fassen. Berlin den p / Ministerium /
+                    A[ltenstein]</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Herrn Hofrath und Professor Hirt / hier</addrLine>
+                    </address>
+                    <dateline>Berlin den 8ten Oktober 1821.</dateline>
+                    <salute/>
+                </opener>
+				<p>Das Ministerium übermacht Ihnen anliegend unter dem Beding der Zurückgabe den Bericht des
+                    Rectors <hi rendition="#aq"><persName key="prov_uny_4th_kv">Weitsch</persName></hi> über den Befund der <rs type="artwork" key="prov_z3y_sjb_cjb">Gemälde-Sammlung</rs> des Herrn Obersten p von <hi rendition="#aq"><persName key="ed_pzy_wqh_px">Schepeler</persName></hi>,
+                    welche für das königliche <placeName key="prov_up1_xwt_fv">Museum</placeName>
+                    zum Kauf angetragen worden ist, nebst den dazu gehörigen Unterlagen mit dem
+                    Ersuchen, diese Sammlung, welche bei dem Bankier <persName key="ed_qpd_b4b_cjb"><hi rendition="#aq">Benecke</hi></persName> hierselbst befindlich ist,
+                        <seg type="comment">
+                        <orig>zu besichtigen</orig>
+                        <note xml:id="nw2b_mpb_cjb">Siehe hierzu auch den Brief Hirts an Liagno vom
+                            21.10.1821.</note>
+                    </seg> und nach deren Untersuchung über den Werth, den diese Gemählde für das
+                    königliche <placeName key="prov_up1_xwt_fv">Museum</placeName> haben möchten,
+                    wie auch über den Preis, welcher dafür zu geben sein dürfte, gutachtlich Sich zu
+                    äussern.</p>
+				<closer>
+                    <dateline>Berlin den p</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

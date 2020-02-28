@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_jmd_yms_2v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Wilhelmine Rietz (Gräfin Lichtenau). Wörlitz, den 29. Juli 1797.
+                    Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Atzenbeck, 1925, S. 143-145</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                    <date when="1797-07-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qvp_1gm_cv">Lichtenau, Wilhelmine Gräfin von, geb. Enke
+                        (Encke), verh. Rietz</persName>
+                    <placeName key="prov_gtl_bgv_dv">Pyrmont</placeName>
+                </correspAction>
+                <note>nur Druck überliefert</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Wörlitz, den 29. Juli 1797.</dateline>
+                    <salute>Gnädige Freundin!</salute>
+                </opener>
+                <p>Wie nahe mir alles, was zu Ihrem Wesen gehört, meinem Gemüte sei; wie mächtig die
+                    Eindrücke, welche Sie in der Seele Ihres Beobachters zurückließen, auf die Dauer
+                    wirken, habe ich jetzt durch die Entfernung mehr als jemals erfahren; und
+                    besonders in dem Augenblicke und dem <placeName key="prov_uvd_str_js">bezauberten Orte</placeName>, <seg type="critical">
+                        <orig>wo ich mich seit einigen Tagen aufhalte</orig>
+                        <note xml:id="nfw1_1qs_2v">Zum Aufenthalt Hirts in Wörlitz vgl.
+                            1797-07-12-a-A.H.Schütz</note>
+                    </seg>. Das sympathetische Gefühl zeigte sich niemals stärker als in
+                    Augenblicken, wo schöne und ungewöhnlich reizende Naturgegenstände das Gemüt
+                    ergreifen. Die Mitteilung solcher innigen Gefühle wird gleichsam zum Bedürfnis,
+                    und wenn der sympathisierende Gegenstand fehlt, so ist es natürlich, daß die
+                    verschönernde Einbildungskraft dieselben in jedem Baum, in jedem durch Hecken
+                    verschlossenen Orte und in jeder Welle des sich spiegelnden Sees sieht. <seg type="critical">
+                        <orig>Sie kennen die Zaubergärten von <placeName key="prov_uvd_str_js">Wörlitz</placeName>
+                        </orig>
+                        <note xml:id="not4_fqs_2v">Die Gräfin Lichtenau wurde 1753 als Wilhelmine
+                            Encke, Tochter des Hornisten Johann Elias Encke, in Dessau geboren. Um
+                            1762 zog die Familie nach Berlin. </note>
+                    </seg>; Sie haben Gefühl für das Naturschöne: versetzen Sie sich, ich bitte Sie,
+                    einen Augenblick aus den Zirkeln der glänzenden <placeName key="prov_gtl_bgv_dv">Badewelt</placeName> in diesen ländlichen Schauplatz. Im entferntern Grunde
+                    werden Sie Ihren Philosophen wandelnd erblicken, tiefsinnig, aber innerlich
+                    glücklich, weil ihn Erinnerungen selig verlebter Stunden umwallen. -</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Ein Schwarm froher Liebesgötter</orig>
+                        <note xml:id="ns4c_5qs_2v">Darunter Lord Bristol.</note>
+                    </seg> umgibt Sie jetzt - vielleicht werden Sie zuweilen ungestümer und
+                    mutwilliger, als Ihrem Gemüte lieb ist. - Blicken Sie also, Freundin, einen
+                    Augenblick in die Ferne, vielleicht gewährt Ihnen dies einen momentanen
+                    Ruhepunkt. Doch ich breche ab; sonst könnten Sie denken, ich schwärmte.</p>
+                <p>Gewiß ist <placeName key="prov_uvd_str_js">Wörlitz</placeName> ein vorzüglicher
+                    Aufenthalt; und man kann seinem gastfreundlichen <persName key="prov_mn5_zqs_2v">Besitzer</persName>, der alles dieses schuf und noch täglich verschönert,
+                    die Bewunderung nicht versagen. Auch die vortreffliche <seg type="critical">
+                        <orig>
+                            <persName key="prov_cnf_bpl_cv">Fürstin</persName>
+                        </orig>
+                        <note xml:id="nqfq_krs_2v">Vgl. die Anmerkungen zu 1797-07-12-a-A.H.
+                            Schütz</note>
+                    </seg> sehe ich oft und unsere <seg type="comment">
+                        <orig>Gespräche über <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                        </orig>
+                        <note xml:id="nzxn_fp3_rz">Hirt hatte sowohl mit der Fürstin Louise von
+                            Anhalt-Dessau als auch mit der Gräfin Lichtenau einen kunsthistorischen
+                            Kursus absolviert. </note>
+                    </seg>gewähren uns sehr erfreuliche Erinnerungen.</p>
+                <p>Meine Ausreise von <placeName key="prov_ycp_cpr_js">Berlin</placeName> ging
+                    gerade <seg type="critical">
+                        <orig>nach <placeName key="prov_xby_ps1_z5">Jena</placeName> und <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                        </orig>
+                        <note xml:id="nmwk_wtx_2v">Zu Hirts Aufenthalt in Jena und Weimar vgl.
+                            1797-07-12-1-A.H.Schütz</note>
+                    </seg>. Ich traf zwar allda weder den <persName key="prov_mpb_byv_y5">Herzog</persName>, noch die <persName key="prov_qn2_zhp_5r">Herzogin
+                        Mutter</persName>, <seg type="comment">
+                        <orig>die ich ehedem in <placeName key="prov_vxr_xxr_js">Italien</placeName>
+                            kennenlernte</orig>
+                        <note xml:id="nv4n_zp3_rz">Vgl. u.a. 1789-04-04-a-Goethe.</note>
+                    </seg>: aber ich fand allda manche andere vortreffliche Menschen, worunter ich
+                        <persName key="prov_hwd_hmp_5r">Goethe</persName> und <persName key="prov_hy4_jx2_rs">Herder</persName> auch <seg type="critical">
+                        <orig>schon aus <placeName key="prov_vkl_ndl_js">Rom</placeName> her
+                            kannte</orig>
+                        <note xml:id="nwxv_ztx_2v">Vgl. u.a. 1789-04-04-a-Goethe.</note>
+                    </seg>, so daß es mir nicht möglich war, mich wieder sobald, als ich anfänglich
+                    vorhatte, davon zu entfernen. Die Tour nach <placeName key="prov_gtl_bgv_dv">Pyrmont</placeName> lag mir nahe am Herzen: aber ich fühlte zu sehr meine
+                    Nichtigkeit. Ich sah in meinem Geiste, wie sich dort die Menge um Sie drängt -
+                    wie alles groß und vornehm ist - und so faßte ich Stärke, mir den teuern
+                    Augenblick, Sie dort in Ihrem vollen Glanze zu sehen, zu versagen.</p>
+                <p>Künftigen Mittwoch reise ich von hier nach <placeName key="prov_ycp_cpr_js">Berlin</placeName> zurück: nur in <placeName key="prov_lh2_hxd_2v">Potsdam</placeName> will ich ein paar Tage verweilen, um die dortigen
+                    Kunstsachen auf den <placeName key="prov_ckg_snx_2v">Königl<ex>ichen</ex>
+                        Schlössern</placeName> wiederzusehen und auch <seg type="critical">
+                        <orig>den neuen Bau</orig>
+                        <note xml:id="nmh2_mnx_2v">Hier könnte entweder das Schloss auf der
+                            Pfaueninsel gemeint sein, das von 1794 bis 1797 errichtet wurde. Die
+                            Lichtenau war an der Planung des Schlosses beteiligt und bestimmte im
+                            wesentlichen die Inneneinrichtung, die Möblierung und die Dekorationen.
+                            Oder aber die Erweiterungsbauten am Marmorpalais am Ufer des Heiligen
+                            Sees: 1797 wurde mit der Angliederung zweier Seitenflügel rechts und
+                            links der Vorderfront begonnen.</note>
+                    </seg> in Augenschein zu nehmen. Mit erneuter Kraft werde ich dann wieder meinen
+                    Studien leben und einen frischen Kurs mit meinem jungen Antiquar, dem
+                    liebenswürdigen <persName key="prov_vpp_kmx_2v">Prinzen <hi rendition="#g">Wilhelm</hi>
+                    </persName>, anfangen.</p>
+                <p>Nach der öffentlichen Sage dürften wir Sie vor Ende August in <placeName key="prov_ycp_cpr_js">Berlin</placeName> nicht sehen. Gerne opfere ich der
+                    Erwartung, wenn ich Sie nur in meinem Geiste glücklich und vergnügt weiß, und
+                        <seg type="comment">
+                        <orig>die Gesundheit Ihres großen Freundes</orig>
+                        <note xml:id="nv4k_lq3_rz">Der König stirbt am 16. November 1797.</note>
+                    </seg>, <persName key="prov_sqc_swd_2v">unsres Herrn</persName>, so dabei
+                    gewinnt, daß wir uns noch auf eine lange Reihe von Jahren seiner Erhaltung
+                    erfreuen können.</p>
+                <p>Leben Sie wohl, meine herzliche Freundin, und gedenken Sie dessen, der nahe oder
+                    fern mit unwandelbaren Gesinnungen verbleibet,</p>
+                <closer rend="paragraph">
+                    <salute>der Ihnen ewig ergebene</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bcc_1v1_wv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Unbekannt (“College“). Berlin, 1. Februar 1802.</title>
+                <title> Montag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GSA Weimar</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">96/1247</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1802-02-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_ww2_hv1_wv">Unbekannt, (-)</persName>
+                </correspAction>
+                <note>Zum Empfänger: Ein „Collega“ in Berlin, evtl. von der Akademie der
+                    Wissenschaften??? Hs liegt aber in Weimar</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <p>Ich danke Ihnen, mein verehrtester Herr Collega, bestens für die Mittheilung des
+                        <seg type="comment">
+                        <orig>2<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> B<ex>andes</ex> der <persName key="ed_pht_tx1_wv">Breitkopfschen</persName>
+                            <bibl sameAs="ed_i3l_5h2_c1b">Schriften</bibl>
+                        </orig>
+                        <note xml:id="novj_hx1_wv">Versuch den Ursprung der Spielkarten, die
+                            Einführung des Leinenpapieres und den Anfang der Holzschneidekunst in
+                            Europa zu erforschen. Von Johann Gottlob Immanuel Breitkopf. Aus des
+                            Verfassers Nachlasse herausgegeben und mit einer Vorrede begleitet von
+                            Johann Christian Friedrich Roch. Zweyter Theil: Eine Geschichte der
+                            Schreibe- sowie der Schönschreibekunst, und der Kinder der Zeichenkunst,
+                            Bildschnitzerey, Mahlerey u. Mosaik, sowohl an den Decken u. Fuszböden,
+                            als auch an den Wänden u. Fenstern: nebst einer Geschichte der Mahlerey
+                            in den Handschriften [...]. Leipzig: Roch, 1801.</note>
+                    </seg>. Der unermüdete Fleiß des Notizensammlers ist auch in dem Artikel <hi rendition="#u">Mosaik</hi> nicht zu verkennen. Aber da der Verstorbene keine
+                    Begriffe durch Anschauung von den verschiedenen Mosaikarten gehabt zu haben
+                    scheint, so sind die <hi rendition="#aq">Excerpte</hi> hier auch unordentlicher
+                    zusammengeworfen, als in andern Abschnitten. Neues habe ich indeßen in diesem
+                    reichen Notizenschaz nicht gefunden. Doch bleibt mir die Kenntniß dieser Schrift
+                    lieb, und ich werde nicht ermangeln, in einer Note zu <bibl sameAs="ed_tgk_4z1_wv">meiner Abhandlung</bibl> - <seg type="comment">
+                        <orig>das Benöthigte darüber zu sagen</orig>
+                        <note xml:id="nqy4_qbb_wv">In Hirts Aufsatz wird Breitkopf nicht
+                            erwähnt.</note>
+                    </seg>.</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 1<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Feb. 1802.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_ewb_bvm_4v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 27. Juli 1799. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr.Dresd. h 37, 4°, Bd. 87, Nr. 15</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1799-07-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_lpr_hr2_xz"/>
+                    <ref type="next" target="hirt_iry_4sz_xz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 27<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> July 99.</dateline>
+                    <salute/>
+                </opener>
+                <p>Es war mir eine wahre Labung, <seg type="comment">
+                        <orig>wieder einmal etwas von Ihnen zu vernehmen</orig>
+                        <note xml:id="nr32_ss2_xz">Brief erschlossen:
+                            [1799-07-vor27x-v-Böttiger].</note>
+                    </seg>. – Gerne hätte ich meine diesjährige Excursion bis zu Ihnen ausgedehnt,
+                    aber ich war in der Zeit genirt: und doch war es billig, auch einen andern
+                    intereßanten Theil unserer vaterländischen Gegenden, der mir bis iezt ganz fremd
+                    war, zu besuchen. <seg type="comment">
+                        <orig>In <placeName key="prov_qht_zxr_js">Dessau</placeName> brachte ich die
+                            ganze Zeit, als <persName key="prov_h53_ylj_3v">Iffland</persName> da
+                            spielte, zu:</orig>
+                        <note xml:id="nt3r_xt2_xz">Hirt kam am 22. Mai 1799 nach Dessau, Wörlitz und
+                            Luisium und reiste am 2. Juni 1799 wieder ab. - Über Ifflands Gastspiel
+                            in Dessau berichtet das "Journal des Luxus und der Moden", Jg. 14, 1799,
+                            Juli, S. 345: "Theater. / Iffland in Dessau und Leipzig. / Dessau 8.
+                            Juny. / Noch ist alles bey uns von Ifflands vortrefflichem Spiele
+                            begeistert. Die erste Rolle, in der er hier auftrat, war Siward im
+                            leichten Sinn. Dann spielte er den Bittermann, hierauf den gutherzigen
+                            Alten; dieses war eine meisterhafte Darstellung. Weiter sahen wir von
+                            ihm den Lieutenant Wallen, Wardam in der Erinnerung, Constant in
+                            Selbstbeherrschung, und den Hofr. Reinhold in den Hagestolzen. - Auf den
+                            Herbst will er, wie er versprochen hat, wieder zu uns zu kommen". - Am
+                            24. Mai 1799 vermerkt Louise von Anhalt-Dessau, die vergeblich auf einen
+                            Besuch Hirts an diesem Tag gehofft hatte, in ihrem Tagebuch: "Und nun
+                            ist's bald 5 uhr. Der wagen kam, ich muste zum Schauspiel und sahe den
+                            Iffland zum ersten Mal agieren. Es ist ein guter Schauspieler, aber Ich
+                            hatte beßer noch ihn mir vorgestellt. Auch ist seine Gestalt, dünkt mir,
+                            denen Hauptrollen zuwieder, aber mein Innerstes war - Ach! nicht auf der
+                            Bühne - und ich sahe nichts und fühlte auch den Druck des Aufruhrs der
+                            Elemente." Und am 27. Mai schreibt sie: "[...] und ich fuhr zum
+                            Schauspiel mit mein Camerfrau und M[atthisson] und sahe den Guten Alten
+                            und Stille Waßer sind tief" (Tagebuch von Louise von Anhalt-Dessau, Bd.
+                            1, S. 372f.).</note>
+                    </seg> und mit <persName key="prov_ams_xtr_js">Rode</persName> wurde da viel
+                        <bibl sameAs="prov_uyj_35j_qv">vitruvirt</bibl>: auch <persName key="prov_qws_l53_3v">H. v. Racknitz</persName> traf ich eben da. In
+                        <placeName key="ed_cj1_q3w_dw">Halle</placeName> brachte ich ein paar
+                    vergnügte Tage zwischen <persName key="ed_jzw_xhq_bw">Wolf</persName>, u.
+                        <persName key="ed_iwv_5y2_xz">Eberhard</persName> zu. In <placeName key="ed_c32_nz2_xz">Wolfenbüttel</placeName>, <placeName key="ed_c2k_4z2_xz">Salzdalen</placeName>, <placeName key="prov_kl1_tsv_pv">Braunschweig</placeName> sah ich natürlich alles, was man dort zum
+                    merkwürdigen zählt: und ich sah wirklich sehr viel. <persName key="ed_rwl_21f_xz">Eschenburg</persName> war abwesend; den Abend brachte
+                    ich mit <persName key="ed_a4y_51f_xz">Campe</persName> und <seg type="comment">
+                        <orig>
+                            <persName key="ed_z3s_mbf_xz">Vieweg</persName>
+                        </orig>
+                        <note xml:id="njwd_hcf_xz">Vieweg, der bereits in Berlin ein eigenes
+                            Verlagsgeschäft besessen hatte, heiratete 1795 Joachim Heinrich Campes
+                            einzige Tochter und siedelte im Frühjahr 1799 mit seinem Verlag nach
+                            Braunschweig über, wo er von Herzog Karl Wilhelm Ferdinand von
+                            Braunschweig-Wolfenbüttel ein Grundstück am Burgplatz geschenkt bekam
+                            (das heutige Vieweghaus, in dem sich das Braunschweigische Landesmuseum
+                            befindet). Vieweg übernahm zudem Campes Schulbuchhandlung sowie im
+                            Frühjahr 1799 eine Druckerei.</note>
+                    </seg> gewöhnlich zu. Nach <placeName key="prov_dyb_3sn_pv">Hannover</placeName>
+                    machte ich nur eine Excursion auf wenige Tage, hauptsächlich um allda <seg type="comment">
+                        <orig>meine italienischen Freunde</orig>
+                        <note xml:id="nnys_dnk_xz">Der hannoversche Staatsminister Ernst Friedrich
+                            Herbert Graf zu Münster war erstmals 1793 in Italien, um den Prinzen
+                            August von England wegen einer  nichtstandesgemäßen Liaison nach England
+                            zurückzuholen. Anfang 1794 reist er erneut als Begleiter des
+                            asthmakranken Prinzen August nach Italien. In Rom und Umgebung wird "der
+                            Antiquar" Hirt sein regelmäßiger Begleiter und kunstgeschichtlicher
+                            Führer. Im Oktober 1794 unternimmt Hirt mit der Reisegesellschaft des
+                            Prinzen August die berühmte Tour zum Lago Fucino. Hirt und Graf Münster
+                            verbindet zunehmend eine Freundschafts- und Arbeitsbeziehung, die auch
+                            nach der Rückkehr nach Deutschland (Hirt 1796; Münster 1798) fortdauert.
+                            In Italien begann Graf Münster unter Hirts Anleitung mit dem Sammeln von
+                            Gemmen und antiken Skulpturen und legte in der Folge eine beachtliche
+                            Gemäldesammlung an. In Italien hatte Hirt weiterhin den hannoveraner
+                            Hofarzt Wilhelm Friedrich Domeier und den britisch-hannoveraner
+                            Legationsrat Georg Ernst Tatter kennengelernt.</note>
+                    </seg> zu sehen. <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_sx3_3tk_xz">Die Sammlung</rs> von <persName key="ed_fjl_nsk_xz">Walmoden</persName>
+                        </orig>
+                        <note xml:id="nnkk_ktk_xz">Der Graf von Wallmoden hatte auf seiner
+                            Italienreise 1765/66 unter Anleitung von Winckelmann eine Sammlung von
+                            44 antiken Statuen, Büsten und Reliefs aus römischer Zeit und zwölf
+                            neuzeitliche Nachahmungen antiker Werke angelegt. Seine berühmte
+                            Antiken- und die fast 600 Werke umfassende Gemäldesammlung fand in den
+                            1780er Jahre im Wallmoden-Palais im Georgengarten in Hannover
+                            Aufstellung. Vgl. dazu: Ralf Bormann: Die Kunstsammlung des Reichsgrafen
+                            Johann Ludwig von Wallmoden-Gimborn. In: Katja Lembke (Hrsg.): Als die
+                            Royals aus Hannover kamen. Hannovers Herrscher auf Englands Thron
+                            1714-1837. Katalog zur Niedersächsischen Landesausstellung im
+                            Landesmuseum Hannover und im Herrenhäuser Schloss vom 17. Mai bis zum 5.
+                            Oktober 204. Dresden 2014, S. 238-261. </note>
+                    </seg> ist nicht so bedeutend – weder an Antiken, noch <del rendition="#s" prev="noch">modernen</del> Gemälden, wie ich glaubte, oder der Ruf sie
+                    machet. Bedeutender fand ich aber <seg type="comment">
+                        <orig>die <rs type="artwork" key="prov_ajb_1xk_xz">Sammlung</rs> von
+                                <persName key="prov_avm_ftv_pv">Brabeck</persName> in <placeName key="prov_f5b_wsv_pv">Söder</placeName>
+                        </orig>
+                        <note xml:id="nojz_gxk_xz">Die Gemäldesammlung von Friedrich Moritz von
+                            Brabeck war von 1788 an auf Schloss Söder bei Hildesheim zu besichtigen.
+                            Sie enthielt u.a. Werke von Holbein, Cranach, Raphael, Dürer, Leonardo
+                            da Vinci, Rubens, Tizian, Correggio, Rembrandt, Breughel und Riusdael. -
+                            Caroline Schlegel spricht anlässlich ihres Besuches auf Schloss Söder im
+                            Oktober 1800 von einem "Feenschloß": "Brabecks Gemählde-Sammlung ist
+                            auserlesen, kein Stück ist gleichgültig, fast alle vortreflich und
+                            einige von der höchsten Schönheit. Nimm nun dazu, daß Du diese Kleinode
+                            in der anmuthigsten Fassung findest, auf einem Landhause, dessen
+                            Einrichtung von aller Pracht und Ueberladung frey in einem reinen
+                            harmonischen Sinne angeordnet ist, und alles den Charakter einer recht
+                            durchsichtigen Heiterkeit trägt" (Brief an Schelling, [Braunschweig],
+                            15. Oktober 1800, in: Caroline. Breife an ihre Geschwister, ihre Tochter
+                            Auguste, die Familie Gotter, F. L. W. Meyer, A. W. und Fr. Schlegel, J.
+                            Schelling u.a. [...]. Hrsg. von G. Waitz, Bd. 2, Leipzig 1871, S.
+                            7).</note>
+                    </seg>. bey'm <seg type="comment">
+                        <orig>Saltimbanco</orig>
+                        <note xml:id="nhcb_vfl_xz">(Ital.:) Schwindler, Scharlatan,
+                            Seiltänzer.</note>
+                    </seg>
+                    <persName key="prov_x31_hvv_pv">Beireis</persName> paßirte ich einen herrlichen
+                    Tag: <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_ebq_d1l_xz">seine Gemäldesammlung</rs>
+                        </orig>
+                        <note xml:id="nrjj_h1l_xz">Der Arzt und Chemiker Beireis, der als Polyhistor
+                            und verdienter Wissenschaftler, aber auch als geheimnisvoller Sonderling
+                            galt und mit Alchemie in Verbindung gebracht wurde, hatte in Helmstedt
+                            eine Art Kunstkabinett zusammengetragen, in dem seltsame Gegenstände,
+                            aber auch physikalische Apparate, die Magdeburger Halbkugeln sowie
+                            Gemälde von Rubens, Dürer und aus der Cranach-Werkstatt vereint waren.
+                            Goethe hat den "wunderliche[n], "problematische[n] Mann", "der wie ein
+                            geheimnißvoller Greif über außerordentliche und kaum denkbaren Schätzen
+                            waltete" und "sein sonderbares Betragen" nach einem Besuch, den er
+                            Beireis zusammen mit F. A. Wolf und seinem Sohn August 1805 abstattete,
+                            in seinen "Tag- und Jahresheften" 1805 beschrieben (Goethe, WA, I Werke,
+                            Bd. 35, 1892, S. 205-206, 210-232.</note>
+                    </seg> ist wirklich bedeutender, als er selbst glaubt, und seine Münzsammlung
+                    ein wahrer Schaz. Aber das <pb n="2"/> merkwürdigste bleibt der Mann selbst.</p>
+                <p>Wenn <persName key="prov_kds_gnv_3v">Henry</persName> zurückkommt, werde ich
+                    nicht ermangeln, mitzuwirken, daß Ihr Verlangen mit dem Mosaik vollführt werde.
+                    – ich weiß aber nicht, ob es nicht schon <seg type="comment">
+                        <orig>von <persName key="ed_w3h_jgl_xz">Beger</persName>
+                            <bibl sameAs="ed_ay2_jhl_xz">edirt</bibl> ist</orig>
+                        <note xml:id="nhjl_xhl_xz">Der kurfürstlich-brandenburgische Antikenbesitz
+                            ist im 3. Band von Begers Stichwerk "Thesaurus Brandenburgicus selectus"
+                            1701 beschrieben.</note>
+                    </seg>, denn so viel ich weiß, stammt es noch aus der ältern Sammlung.</p>
+                <p>Was ich mache? – Ich bin ziemlich fleißig: aber alles geht so durcheinander, daß
+                    ich doch nicht vom Fleck komme, wie ich wünschte. Kaum glaube ich an etwas
+                    festzusizen, so kommt wieder was anders dazwischen. Im hiesigen <bibl sameAs="prov_b1w_ddv_pv">Baujournal</bibl> ist eben ein <bibl sameAs="prov_lpb_jfv_pv">Aufsaz</bibl> – Über die Toskanische Bauart nach
+                    Vitruv – von mir gedruckt, und <bibl sameAs="prov_p4r_zgj_qv">meine erste
+                        Vorlesung</bibl> in der <orgName key="ed_znn_dfc_b1b">Acad<ex>emie</ex>
+                            d<ex>er</ex> W<ex>issenschaften</ex>
+                    </orgName> – über das Vogelhaus des
+                    M. Varro ist auch gedruckt. Ich habe von beyden einige besondere Exemplare
+                    abziehen laßen, wovon zwey natürlich für Sie bestimmt sind. Ich würde sie Ihnen
+                    iezt überschicken, wenn Sie mir nicht Hoffnng machten, bald selbst zu kommen:
+                    oder ich eine Gelegenheit hätte, um Ihnen die Postkosten zu sparen. Nächsten<del rendition="#s" next="Donnerstag">s</del> Donnerstag <seg type="comment">
+                        <orig>lese ich meine nun fertige Abhandlung</orig>
+                        <note xml:id="nsvn_w3l_xz">Der am 1. August 1799 vorgetragenen ersten
+                            Abhandlung über dieses Thema folgten weitere.</note>
+                    </seg> – <bibl sameAs="prov_y21_1ht_hv">über die verschiedenen Arten zu mahlen
+                        bey den Alten</bibl> – in der <orgName key="ed_znn_dfc_b1b">Acad<ex>emie</ex> der Wiß<ex>enschaften</ex>
+                    </orgName> – vor. Sollten
+                    Sie nicht kommen (wodurch Sie aber viele meiner <pb n="3"/> Freuden, die ich
+                    erwarte, stören würden) so werde ich Ihnen dieselbe mit den gedruckten Sachen
+                    zur Inspection übersenden. – Ich bin neugierig, etwas näheres von <persName key="prov_kyr_yvr_js">Tischbein</persName> zu erfahren. – Diesen Abend bin
+                    ich mit <persName key="prov_i3k_lfk_qv">Ramdohr</persName>, der einige Wochen
+                    hier bleibt, in eine Gesellschaft geladen. <persName key="ed_l5q_tr3_wz">Feßler</persName> haben Sie wahrscheinlich zur Zeit schon gesehen: Ihr
+                    Brief ist ihm nachgesandt. – Die <bibl sameAs="ed_a3r_ptl_xz">Metakritik</bibl>
+                    hat mir ein seltenes Vergnügen gemacht: umarmen, zehnmal umarmen hätte ich gerne
+                    den <persName key="prov_hy4_jx2_rs">Verfaßer</persName> gemocht. Aber <seg type="comment">
+                        <orig>gedroht wird ihm von allen Seiten</orig>
+                        <note xml:id="nmlf_d5l_xz">Siehe u.a. Johann Gottfried Karl Christian
+                            Kiesewetter: Prüfung der Herderschen Metakritik zur Kritik der reinen
+                            Vernunft. Berlin 1799. - Nach August Ferdinand Bernhardi "wimmele" es in
+                            Herders "Spätling und Sterbling" "von halb verstandenen, und durchaus
+                            misverstandenen Sätzen"; er enthalte "Cardinal-Irrthümer und
+                            Misverständnisse" ("Notizen", in: Athenäum. Dritter Band, Zweites Stück,
+                            1800, S. 266-283, hier S. 270, 266-267). - Positiv urteilten neben Jean
+                            Paul und Klopstock vor allem Wieland ("Ein Wort über Herders Metakritik
+                            zur Kritik der reinen Vernunft", in: NTM 1799, Bd. 2, S. 69-90).</note>
+                    </seg>. –</p>
+                <p>Ich danke Ihnen für die <seg type="comment">
+                        <orig>Berichtigung in <placeName key="prov_xby_ps1_z5">Jena</placeName>
+                        </orig>
+                        <note xml:id="nrkj_rwl_xz">Hirt hatte das architektonische Werk von Peyre an
+                            die Redaktion der Allgemeinen Literatur-Zeitung zurückgehen lassen, da
+                            er es nicht rezensieren wollte; vgl. 1798-08-17-a-Böttiger;
+                            1799-04-11-a-Böttiger. </note>
+                    </seg>: aber erhalten habe ich noch nichts. –</p>
+                <p>Gestern erhielt ich endlich das lezte Stück der <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl>: noch las ich nichts, als <bibl sameAs="prov_q4b_tpv_pv">den Kunstroman</bibl>, <seg type="comment">
+                        <orig>der mich auch zuförderst mehr angehet, als ich erwartete</orig>
+                        <note xml:id="nskb_pcm_xz">Im 5. und 6. Brief, S. 66 ff. werden die
+                            ästhetischen Kunstprinzipien das Schöne und das Charakteristische
+                            diskutiert. In dem "Charakteristiker", der die Kunstschätze des
+                            "Sammlers" begutachtet und die Laokoon-Gruppe nach seinen Grundsätzen
+                            deutet, musste sich Hirt wiedererkennen: "Das ist eben das Unglück wenn
+                            gute Köpfe, wenn Leute von Verdienst solche falsche Grundsätze, die nur
+                            einen Schein von Wahrheit haben, immer allgemeiner macher, niemand
+                            spricht sie lieber nach als wer den Gegenstand nicht kennt und versteht.
+                            So hat uns Lessing den Grundsatz aufgebunden daß die Alten nur das
+                            Schöne gebildet, so hat uns Winkelmann mit der stillen Größe der Einfalt
+                            und Ruhe eingeschläfert, anstatt daß die Kunst der Alten unter allen
+                            möglichen Formen erscheint; aber die Herren verweilen nur bey Jupiter
+                            und Juno, bey den Genien und Grazien, und verhelen die unedlen Körper
+                            und Schädel der B arbaren, die strippichten Haaren, den schmutzigen
+                            Bart, die dürren Knochen, die runzlichte Haut des entstellten Alters,
+                            die vorliegenden Adern und die schlappen Brüste. [...] Treten Sie vor
+                            den Laokoon, und sehen Sie die Natur in voller Empörung und
+                            Verzweiflung, den letzten erstickenden Schmerz, krämpfartige Spannung,
+                            wüthende Zuckung, die Wirkung eines ätzenden Gifts, heftige Gährung,
+                            stockenden Umlauf, erstickende Pressung, und paralitischen Tod" (a.a.O.,
+                            S. 70-71; siehe auch die "Charakteristiker" S. 112ff.). In die Debatte
+                            über das Charakteristische lässt Goethe teilweise wörtliche Zitate aus
+                            Hirts Aufsätzen "Über das Kunstschöne", "Laokoon" sowie "Nachtrag über
+                            Laokoon" einfließen. - Die beiden im 7. und 8. Brief geschilderten
+                            Besucher ....werden zur Gruppe der "Nachahmer" gezählt (S.
+                            108ff.)</note>
+                    </seg>. Ich mußte lachen, daß ich das wirklich erfolgt sehe, was ich schon lange
+                    instinktmäßig schloß – nemlich daß ich <persName key="prov_htp_dkz_jv">
+                        <persName key="prov_ocn_xjz_jv">die Schlegels</persName>
+                    </persName> als bloße Colporteurs ansah. Zugleich hätte aber auch dieser Aufsaz
+                    nicht bequemer kommen können. <seg type="comment">
+                        <orig>Ich habe wirklich schon über 30. Briefe über diese Materie
+                            geschrieben, die an <persName key="prov_w4b_lwr_js">Fernow</persName>
+                            gerichtet sind</orig>
+                        <note xml:id="nv4z_qmr_xz">Weder sind Briefe Hirts an Fernow überliefert,
+                            noch erschienen Hirts Ausführungen im Druck.</note>
+                    </seg>. Die Veranlaßung hiezu ist <bibl sameAs="prov_cwj_ybb_3v">einer seiner
+                        Aufsäze</bibl> im <bibl sameAs="prov_cst_qhr_gv">D<ex>eutschen</ex>
+                            Merk<ex>ur</ex>
+                    </bibl> Nov<ex>ember</ex> 1797. und <bibl sameAs="prov_frq_clv_pv">sein
+                        neuester</bibl> im Aprilstück des <bibl sameAs="prov_ahk_llv_pv">Deutschen
+                        Magazins</bibl>, den Sie wahrscheinlich kennen. Ich suche die Materie noch
+                    einmal von Kopf bis zu Fuß zu behandeln – im friedlichen ton versteht sich's, um
+                    zu sehen, ob ich mich mit den Schönheitlern werde verständigen können. Ich kann
+                        <pb n="4"/> iezt glauben, daß Sie damals, als Sie <bibl sameAs="prov_u3g_fyh_gv">meine erste Antwort</bibl> übergaben, nicht gerne
+                    gesehen wurden. Allein es gehört Erfahrung zu allem. – Der höhere Arm hat nun
+                        <persName key="prov_htp_dkz_jv">
+                        <persName key="prov_ocn_xjz_jv">die Schlegels</persName>
+                    </persName> gerettet, und wahrscheinlich wird <del rendition="#s" next="die">es</del> die künftige Recension der <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl> in d<ex>er</ex>
+                    <bibl sameAs="prov_csp_vs1_z5">A<ex>llgemeinen</ex> L<ex>iteratur</ex>
+                            Z<ex>eitung</ex>
+                    </bibl> mich das näher fühlen laßen. –</p>
+                <p>Den <persName key="prov_tsc_grz_v5">Mayerschen</persName>
+                    <bibl sameAs="ed_s5m_jdm_xz">Aufsaz über das Kunststudium</bibl> werde ich mit
+                    Aufmerksamkeit lesen. Und hierüber dann ein mehrers hier, oder im Künftigen
+                    Briefe.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>ob ein hiesiger Künstler an der <bibl sameAs="ed_a2b_m5r_xz">Aufgabe</bibl> in den <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl> arbeitet</orig>
+                        <note xml:id="nnz2_tsr_xz">In den "Propyläen. Zweyten Bandes Erstes Stück"
+                            1799 wurden zum ersten Mal "Weimarer Preisaufgaben" ausgeschrieben. Die
+                            "Nachricht an Künstler und Preisaufgabe" (S. 162-174) ist von J. H.
+                            Meyer verfasst, wurde jedoch von Goethe stark überarbeitet. S. 170-174
+                            steht die Übersetzung der bezeichneten Stelle aus der Ilias nach J. H.
+                            Voß. Im Dritten Band Erstes Stück, 1800, finden sich zwei Kupfer, die
+                            beiden preisgekrönten Zeichnungen von F. Hartmann und H. Kolbe
+                            darstellend; o. U., nach einer Zeichnung von J. H. Meyer gestochen von
+                            J. Ch. E. Müller. Im gleichen Stück außerdem S. 130-149: Preisertheilung
+                            und Recension der eingegangenen Concurrenzstücke. S. 167-168:
+                            Preisaufgabe fürs Jahr 1800. - Der Dritte Band Zweites Stück, 1800,
+                            enthält: S. 97-169: Die Preisaufgabe betreffend. (1. Preisertheilung
+                            1800. 2. Recension der eingegangenen Stücke).</note>
+                    </seg>, weiß ich nicht. Ich habe mit einigen darüber gesprochen; aber keiner
+                    zeigte Lust dazu, soviel ich auch zusprach.</p>
+                <p>Unsere <placeName key="prov_r1s_swv_pv">Bauakademie</placeName> wird wirklich
+                    künftigen Oktober <seg type="comment">
+                        <orig>anfangen</orig>
+                        <note xml:id="nhwf_kxr_xz">Der Unterricht begann am 1. Oktober 1799.</note>
+                    </seg>. ich habe nichts weiter dabey zu thun, als <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_kwx_hwr_xz">meine Vorlesungen</bibl> über Theorie und
+                            Geschichte der Baukunst</orig>
+                        <note xml:id="nf3k_cxr_xz">Angekündigt wurde Hirts Vorlesung unter dem Titel
+                            "Kritische Geschichte der Bau-Kunst". Zum Inhalt seiner Vorlesungen vgl.
+                            den Bericht Hirts vom 28. Januar 1799 (GStA PK, I. HA, Rep. 76 alt IV
+                            Nr. 2, Bl. 35r-36v). Hirt hatte wöchentlich an drei Tagen zu lesen,
+                            dienstags, freitags und sonnabends Nachmittags von 15 bis 16 Uhr.</note>
+                    </seg>, wie vordem, zu halten. <seg type="comment">
+                        <orig>Der angestellten Lehrer sind wohl sechszehn</orig>
+                        <note xml:id="nyg2_5jd_jx">Vgl. dazu 1799-08-22-a-Goethe:
+                            Sachanmerkung.</note>
+                    </seg>: Nach meinem Vorschlag sollten derer nicht mehr, als 6. seyn: obwohl
+                    dadurch keine Vermehrung der Sache (wohl eher das Gegentheil) bewirkt worden:
+                    Aber die Führer hatten so viel Geld zu vertheilen, und soviele machten daran
+                    Protension, daß endlich fast keiner etwas davon erhält, als diejenigen, die im
+                    eigentlichen Sinne nichts dabey thun. C'est aussi chez nous, comme partout. –
+                    leben Sie wohl, und benachrichtigen Sie bald von Ihrer Ankunft</p>
+                <closer rend="paragraph">Ihren aufrichtigen Fr<ex>eund</ex>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>An <persName key="prov_hy4_jx2_rs">
+                        <persName key="prov_jvr_yy5_fv">Herder's</persName>
+                    </persName> tausend Grüße. </p>
+                <p>
+                    <add place="left">Ich habe vergeßen, Ihnen zu sagen, daß ich von obgenannten
+                            <seg type="comment">
+                            <orig>architektonischen arbeiten</orig>
+                            <note xml:id="ndkz_gyr_xz">Siehe oben sowie 1799-08-22-a-Goethe..</note>
+                        </seg> auch ein Exemplar an <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                        schicken werde: mit einem <seg type="comment">
+                            <orig>Schreiben</orig>
+                            <note xml:id="nttv_lyr_xz">1799-08-22-a-Goethe</note>
+                        </seg>, worin ich auch einiges von den <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl> werde einfließen laßen, und zwar über <bibl sameAs="prov_q4b_tpv_pv">den lezten Aufsaz</bibl> – was sagen Sie dazu?
+                        – </add>
+                </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

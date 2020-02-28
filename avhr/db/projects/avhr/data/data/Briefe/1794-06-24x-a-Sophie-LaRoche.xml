@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_st2_yvm_1v">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Marie Sophie von La Roche. Rom, kurz vor 24. Juni 1794]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark"/>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1794-06-01" notAfter="1794-06-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_dyh_pnv_w5">La Roche, Marie Sophie von, geb. Gutermann von
+                        Gutershofen</persName>
+                </correspAction>
+                <note>Bezeugt in: 1794-06-24-a-Gerning: " Ich schrieb vor kurzer Zeit an Mad<hi rendition="#sup">me</hi> De La Roche". </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)"/>
+                    <salute/>
+                </opener>
+                <p/>
+                <closer rend="paragraph">
+                    <salute/>
+                    <signed/>
+                    <dateline rend="align(right)"/>
+                </closer>
+            </div>
+            <postscript>
+                <p/>
+            </postscript>
+        </body>
+    </text>
+</TEI>

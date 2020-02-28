@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_onq_lmz_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Schreiben Hirts an das Direktorium der Bauakademie. Berlin, 11. November
+                    1800. Dienstag]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Schreiben des Direktoriums der Bauakademie an das Kuratorium der
+                    Bauakademie, Berlin, 19. November 1800: "Der Herr Hofrath <hi rendition="#aq">Hirt</hi> hat unterm 11<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> d<ex>iesen</ex> M<ex>onats</ex> dem unterzeichneten <hi rendition="#aq">Directorio</hi> angezeigt, daß der größte Theil der Eleven,
+                    welcher bei ihm die Geschichte der Baukunst höret, den Wunsch hegt, daß die zu
+                    dieser Vorlesung angesetzten Stunden wegen <hi rendition="#aq">collision</hi>
+                    mit ihren übrigen <hi rendition="#aq">Studien</hi> und Beschäftigungen
+                    abgeändert werden möchten, und wobei sich nach einer genauen Erklärung und
+                    Verabredung mit denselben ergeben habe, daß die besten und annehmlichsten
+                    Stunden für gesammte diese seine Zuhörer folgende wären: / "Montag und Sonnabend
+                    von 4. bis 5½ Uhr" / statt der bisher dreymal in der Woche gehaltenen
+                    Vorlesungen von 3. bis 4. Uhr. / Da nun der H. p <hi rendition="#aq">Hirt</hi>
+                    sich zugleich bereit erkläret, den einstimmigen Wunsch seiner Zuhörer auf die
+                    vorgeschlagene Art zu erfüllen, und unserseits dagegen nichts einzuwenden stand,
+                    so haben wir nach gemeinschaftlichem Gutachten diese Abänderung der Stunden
+                    zugestanden, und verfehlen nicht Einem Hohen <hi rendition="#aq">Curatorio</hi>
+                    hievon ganz gehorsamst Anzeige zu thun. / <hi rendition="#aq">Directorium</hi>
+                    der Königl. <hi rendition="#aq">Bau-Academie</hi>. / <persName key="ed_rmd_spd_jx">Eytelwein</persName>
+                    <persName key="ed_f4z_j4d_jx">Gilly</persName>
+                    <persName key="ed_hlj_3pd_jx">FBecherer</persName>" (GStA PK, I. HA, rep. 76 alt
+                    IV Nr. 30, Bl. 3r-v).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1800-11-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_fwf_4q3_mgb">Bauakademie zu Berlin - Direktorium</orgName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

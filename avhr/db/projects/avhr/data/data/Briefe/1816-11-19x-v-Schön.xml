@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mmj_cyf_vz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Oberpräsident Heinrich Theodor von Schön. Danzig, 19. November 1816.
+                    Dienstag] </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Paul Simson: Die Rückkehr des "Jüngsten Gerichts" nach Danzig. Danzig
+                    1919, S. 14 (und Fussnote): "Er [Schön] stellte fest, daß unter den maßgebenden
+                    Personen in <placeName key="ed_vdf_rjf_mw">Danzig</placeName> keine Stimmung
+                    war, auf <rs type="artwork" key="prov_m2k_11g_mw">das Bild</rs> zu verzichten,
+                    und sah das als einen Beweis dafür an, daß sie ihres Bildes würdig seien. Er
+                    selber war auch der Meinung, daß das Gemälde in <placeName key="ed_vdf_rjf_mw">Danzig</placeName> bleiben solle, daß jedenfalls die angebotene
+                    Entschädigung in keiner Weise genügen könne, daß vielmehr, wenn man sich in
+                        <placeName key="ed_vdf_rjf_mw">Danzig</placeName> überhaupt zu einem Tausch
+                    entschließen würde, dafür nur ein hervorragendes älteres Originalgemälde in
+                    Betracht kommen könne."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_kcl_m3c_nw">Schön, Heinrich Theodor von (1773-1856) (preuß.
+                        Staatsmann, 1816 Oberpräsident von Westpreußen)</persName>
+                    <placeName key="ed_vdf_rjf_mw">Danzig</placeName>
+                    <date when="1816-11-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_s54_b31_nw"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

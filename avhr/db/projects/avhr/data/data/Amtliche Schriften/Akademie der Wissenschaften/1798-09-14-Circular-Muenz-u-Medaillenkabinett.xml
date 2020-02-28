@@ -1,0 +1,65 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document hirt" xml:id="hirt_uww_2x3_yfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Circulare von Karl Heinrich Frentzel an Merian, Achard, Selle und Hirt,
+                    betreffend das Münz- und Medaillenkabinett. Berlin, 14. September 1798.</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1811), I-XV-13, Bl. 31r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Von der Hand Frentzels, mit egh. Sichtungsvermerken von Merian, Achard,
+                            Selle und Hirt. Mit Korrekturen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p><hi rendition="#aq">Circulare</hi> / an die Herren p <persName key="ed_qng_bhs_5fb"><hi rendition="#aq">Merian</hi></persName>, <hi rendition="#aq"><persName key="ed_nkr_2gs_5fb">Achard</persName></hi> / <hi rendition="#aq"><persName key="ed_n4k_vjs_5fb">Selle</persName></hi> und
+                        <persName key="prov_ztg_3sx_sr"><hi rendition="#aq">Hirt</hi></persName>.</p>
+                <p>Da das <orgName key="ed_jh3_2fc_b1b"><hi rendition="#aq">Directorium</hi> der
+                        Königlichen <hi rendition="#aq">Academie</hi> der Wissenschaften</orgName>
+                    beschlossen, künftigen Donnerstag Nachmittag um zwey Uhr das <hi rendition="#aq">Locale</hi> des <hi rendition="#aq"><rs type="artwork" key="prov_bfc_wcs_5fb">Medaillen-Cabinets</rs></hi>, so wie das von <hi rendition="#aq"><placeName key="prov_lh2_hxd_2v">Potsdam</placeName></hi>
+                    durch Hn: Prediger <hi rendition="#aq"><persName key="prov_kds_gnv_3v">Henry</persName></hi> anhero gebrachte <hi rendition="#aq"><rs type="artwork" key="prov_bfc_wcs_5fb">Medaillen-Cabinet</rs></hi> selbst
+                    nebst den <hi rendition="#aq">Antiquen</hi> in Augenschein zu nehmen; so werden
+                    die Herrn <hi rendition="#aq"><persName key="ed_qng_bhs_5fb">Merian</persName></hi>, <hi rendition="#aq"><persName key="ed_nkr_2gs_5fb">Achard</persName></hi>, <persName key="ed_n4k_vjs_5fb"><hi rendition="#aq">Selle</hi></persName> und <persName key="prov_ztg_3sx_sr"><hi rendition="#aq">Hirt</hi></persName> ersucht, sich
+                    gefälligst künftigen Donnerstag um die bestimmte Zeit dahin zu begeben, u. Ihr
+                        <hi rendition="#aq">vidi</hi> hierunter zu setzen. Es wird übrigens Hr:
+                        <persName key="prov_kds_gnv_3v"><hi rendition="#aq">Henry</hi></persName>
+                    zur rechten Zeit davon Nachricht gegeben werden.</p>
+                <p>Berlin den 14ten <hi rendition="#aq">Sept</hi>: 1798. <lb/><persName key="ed_l5r_3bj_yfb">Frentzel</persName></p>
+                <p><hi rendition="#aq">adero</hi>
+                    <persName key="ed_qng_bhs_5fb">Merian</persName>
+                    <hi rendition="#aq">vidi</hi>
+                    <persName key="ed_nkr_2gs_5fb">Achard</persName>
+                    <hi rendition="#aq">vidi</hi>
+                    <persName key="ed_n4k_vjs_5fb">Selle</persName>
+                    <hi rendition="#aq">vidi</hi>
+                    <persName key="prov_ztg_3sx_sr">Hirt</persName></p>
+            </div>
+        </body>
+    </text>
+</TEI>

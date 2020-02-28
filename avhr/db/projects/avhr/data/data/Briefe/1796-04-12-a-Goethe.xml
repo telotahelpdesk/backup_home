@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_w52_1ls_cv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe. Rom, den 12. April 1796. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Klassik Stiftung Weimar, GSA</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/13, Bl. 160-161</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Goethe Regestausgabe 2/167 (Regest)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1796-04-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 12<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> April 1796.</dateline>
+                    <salute/>
+                </opener>
+                <p>
+                    <seg type="comment">
+                        <orig>Ich weiß durch Herrn <persName key="prov_tsc_grz_v5">Mayer</persName>
+                        </orig>
+                        <note xml:id="nuxw_frx_pz">Johann Heinrich Meyer hielt sich zu dieser Zeit
+                            ebenfalls in Rom auf.</note>
+                    </seg>, daß ich Ihnen vorzüglich schuldig bin, daß mein Namen in die Liste der
+                    vortrefflichen Männer, welche Mitarbeiter an den <bibl sameAs="prov_erl_txj_gv">Horen</bibl> sind, aufgenommen worden ist. Sie erlauben daher auch, daß ich
+                    den beygelegten <bibl sameAs="prov_jl2_1zj_cv">Aufsaz</bibl> über den <rs type="artwork" key="prov_bmc_srx_pz">Emissär</rs> des <placeName key="prov_hzs_ts2_cv">Fucinischen Sees</placeName> an Sie übersende. <seg type="comment">
+                        <orig>Ihr Urtheil</orig>
+                        <note xml:id="nuvg_tj4_dz">Ein Antwortschreiben Goethes liegt nicht vor. An
+                            Johann Heinrich Meyer äußert sich Goethe in einem Brief vom 20. Mai
+                            1796: "Das Hirtische Manuscript hab' ich erhalten, es betrifft einen
+                            interessanten Gegenstand, ist aber weitläufig und, unter uns gesagt,
+                            ungeschickt geschrieben, so daß es beynah noth thäte, man redigirte das
+                            Ganze. In einem beygelegten Briefe hat er auch solche miserable Fragen
+                            an mich gethan, worüber ich ihm nächstens eine Auskunft, die keine
+                            Auskunft ist, zu geben gedenke" (Goethe WA, IV, Bd. 11, Nr. 3310, S. 66,
+                            Z. 9-16). – Bereits am 3. März 1796 hatte Goethe an Meyer nach Rom
+                            geschrieben: "Die fixen Ideen, welche der gute Hirt schon so ein Dutzend
+                            Jahre nährt, mögen denn freylich etwas steif und trocken geworden seyn,
+                            Mannigfaltigkeit des eignen Geistes und Biegsamkeit gegen fremde
+                            Gegenstände sind niemals seine Eigenschaften gewesen" (ebd., Nr. 3283,
+                            S. 40, Z. 8-12).</note>
+                    </seg> mag entscheiden, ob derselbe in genanntes Journal eingerückt zu werden
+                    verdient. Ich bitte nach Ihrem Gutdünken abzuändern, auszustreichen, zuzusezen.
+                    Ob ich wohl that, daß ich bey den Stellen der Alten nur die Übersezung <add place="superlinear">gab</add>, mögen Sie entscheiden, und mir für die
+                    Zukunft einen Wink hierüber geben. – Die beygefügten <seg type="critical">
+                        <orig>Zeichnungen</orig>
+                        <note xml:id="nlmm_nkt_cv">Risse über den Emissär des Fucinischen Sees.
+                            Illustr. zu S. 1-20. In: Die Horen, 8. Bd., 12. Stück, 1796, nach S. 20
+                            ("Erklärung der Risse" und neun Darstellungen auf zwei Seiten.</note>
+                    </seg> ließ ich so viel möglich in 6 kleine reduciren, um die Unkosten soviel
+                    möglich für den Verleger zu verringern. Nur wünsche ich, daß dieselben einem
+                    sorgfältigen Kupferstecher in die Hände fallen. – Sollte übrigens die
+                    Beschreibung dieser kleinen Reise für das Journal paßend seyn, so könnte ich
+                    sogleich die <pb n="2"/>
+                    <bibl sameAs="prov_jl2_1zj_cv">Fortsetzung</bibl> davon nachsenden. Am Intereße
+                    der Materie würde es nicht fehlen. – Da ich aber überhaupt nur oberflächlich
+                    über die Absicht und Foderungen der <bibl sameAs="prov_erl_txj_gv">Monatschrift</bibl> unterrichtet bin, so wünschte ich sehr, etwas
+                    Bestimmteres darüber zu erfahren: Z. Beyspiel<lb/>
+                    <hi rendition="#u">1.</hi> In wie weit würde der Herausgeber sich verstehen,
+                    Aufsäze mit Zeichnungen von figürlichen Monumenten oder Architectur aufzunehmen?
+                    Wieviel würde man wohl eine Zeichnung bezahlen? –<hi rendition="#u">
+                        <lb/>2.</hi> welche art von Aufsäzen wären die paßendsten? wie stark dürfte
+                    wohl ein Aufsaz oder Abhandlung seyn?<lb/>
+                    <hi rendition="#u">3.</hi> wie viel ist das Honorarium? wie geschieht die
+                    Übersendung desselben? wer trägt die Postunkosten? –</p>
+                <p>Ich habe so manches vorgearbeitet, und entworfen, daß ich gerne einen Ausweg ins
+                    Publikum damit finden möchte. Diese meine Arbeiten enthalten: Erklärungen theils
+                    bekannter, theils unbekannter Monumente; Zusammenstellungen, <pb n="3"/> und
+                    Resultate über Kunstwerke, Kunstepochen, Kunststudium, Kunsttheorie: Vorzüglich
+                    Bemerkungen auf meinen verschiedenen kleinen Kunstreisen: Kunsturtheile über
+                    neue und ältere Werke: <seg type="critical">
+                        <orig>Biographien von Künstlern</orig>
+                        <note xml:id="nbxk_kr1_dv">Hirt hatte bereits 1787, vermutlich für Goethe
+                            während dessen Rom-Aufenthalt, ein handschriftliches "Verzeichniß der
+                            bekanntesten jeztlebenden Künstler in Rom" angefertigt (Klassik Stiftung
+                            Weimar, GSA, Bestand Johann Heinrich Meyer, 64/111,1. - Vgl. die
+                            kommentierte Edition von Harald Tausch und Rolf H. Johannsen in:
+                            Hirt-Bd. I, S. 299-366). Darin sind u.a. auch Alexander Trippel und
+                            Christian Friedrich Hecker (in der Rubrik "Deutsche Bildhauer -
+                            Steinschneider Medailleurs) sowie Jacob Moore (More) (in der Rubrik
+                            "Englische Künstler") aufgeführt. - Ein weiteres Verzeichnis, das wohl
+                            ebenfalls an Goethe in Rom mitgeteilt wurde, trägt den Titel
+                            "Anmerkungen über das Leben und noch existirende Werke der ältern
+                            florentinischen Künstler von Mitte des 13<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> Jahrhunderts bis Anfang des 16<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi>" (Klassik Stiftung Weimar, GSA, Bestand Johann Heinrich Meyer,
+                            64/111,2). </note>
+                    </seg>, <del rendition="#s" next="als">alter</del> als <persName key="prov_tlx_cyr_xr">Trippel</persName>, <persName key="prov_dmc_k1n_1v">Hecker</persName>, <seg type="critical">
+                        <orig>
+                            <persName key="prov_g3y_dpt_cv">Moore</persName>
+                        </orig>
+                        <note xml:id="nicr_14t_cv">
+                            <persName key="prov_g3y_dpt_cv">Über den schottischen Landschaftsmaler
+                                Jacob More erinnert Friedrich Leopold zu Stolberg: "Jacob More, ein
+                                Schottländer, ist einer der guten Landschaftsmaler unsrer Zeit. Er
+                                zeigte uns verschiedne Gemälde. Ein stürmendes Meer mit einem
+                                Felsengestade, welches bei Nacht, in trübem Mondschein des letzten
+                                Viertels, vom Blitz getroffen wird, indeß am Ufer Leichen schwimmen
+                                und halbtodte Schiffbrüchige von Landleuten aufgenommen werden. Du
+                                siehst, daß Jacob More mit dichterischer Erfindungskraft den Pinsel
+                                führt. Dieses Stück ist vortrefflich und erfüllt mit Schauer. / Zum
+                                Gegenstück hat er Telemach's und Mentor's Ankunft in die Insel
+                                Kalypso gewählt. Der Morgensonne Schimmer bebet wallend auf des
+                                Meeres sanft gebrochnen Wellen. Lieblich ist die Insel, freundlich
+                                lächeln Erde, Meer und Himmel. / Doch webt und wehet es nicht in den
+                                Bäumen dieses Malers mit dem Naturleben, welches Hackert den
+                                seinigen zu geben weiß; der Schotte scheinet mir weder in der
+                                Luftperspective noch in der Linienperspective den Zauber zu haben,
+                                welchen man immer in Hackert's Gemälden bewundert. Des More
+                                blendender Pinsel scheinet mir nicht mit Farben der Natur zu malen"
+                                (zitiert nach: Gesammelte Werke der Brüder Christian und Friedrich
+                                Leopold Grafen zu Stolberg. 6. Bd., Hamburg 1822, S.
+                                215).</persName>
+                        </note>
+                    </seg> &amp;. auch älterer als von <seg type="critical">
+                        <orig>
+                            <persName key="prov_anm_qcz_cv">Marcus Agrippa</persName>
+                        </orig>
+                        <note xml:id="naf2_ycz_cv">Agrippa ließ den Vorgängerbau des Pantheon
+                            errichten. Er plante und finanzierte auch andere Bauprojekte, so die
+                            Agrippa-Thermen.</note>
+                    </seg> &amp;. Ein Wort vor der Hand würde mir hierüber genug seyn; denn da Sie
+                    uns die Hofnung <add place="superlinear">geben</add>
+                    <seg type="critical">
+                        <orig>bald wieder zu uns zu kommen</orig>
+                        <note xml:id="nz4l_jpt_cv">Goethe kam vorerst nicht wieder nach Italien.
+                            Dafür besuchte ihn Hirt 1797 in Weimar.</note>
+                    </seg>, so kann dann das mehrere mündlich geschehen. –</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Diesen Winter war ich vorzüglich mit der <persName key="prov_cnf_bpl_cv">Fürstin v. Deßau</persName>, und iezt mit der
+                                <persName key="prov_qvp_1gm_cv">Frau v. Ritz</persName> aus
+                                <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                            beschäftiget.</orig>
+                        <note xml:id="nwhy_jtx_pz">Für beide Damen
+                            veranstaltete Hirt einen Kursus über die kunsthistorischen und
+                            architektonischen Zeugnisse Roms.</note>
+                    </seg> Erstere gefällt sich sehr
+                    in <placeName key="prov_vkl_ndl_js">Rom</placeName>, und vielleicht wird sie mit
+                        <persName key="prov_g1w_gqr_js">Mathisson</persName>
+                    <seg type="critical">
+                        <orig>den Sommer hier zubringen</orig>
+                        <note xml:id="nqty_qhz_cv">Louise von Anhalt-Dessau trat am 27. Mai 1796,
+                            auch bedingt durch die unruhige politische Lage, in Begleitung von Hirt
+                            die Heimreise an. Am 15. Mai 1796 vermerkt sie in ihrem Tagebuch: "[…]
+                            um 9 [abends] kam M[atthisson], nach ihm Hirt, der die Nachricht
+                            brachte, Mayland sey in den Händen der Franzosen und nun ernstlich
+                            bestimmt sagte, er werde Rom verlaßen und der Pr[inz August von England]
+                            reise auch" (Tagebuch der Louise von Anhalt-Dessau, Bd. 1, S.
+                            220).</note>
+                    </seg>. Leztere zeiget gleichfalls viele Liebe für die Künste und <seg type="comment">
+                        <orig>machet ansehnliche Empletten</orig>
+                        <note xml:id="nf44_k5x_pz">So kaufte die Gräfin Lichtenau Kunstwerke für die
+                            Berliner Akademie der Künste und Ausstattungsstücke für den König, wie
+                            Tapeten, Seidenstoffe, Kamine, Kamineinsätze, Skulpturen, Stiche mit
+                            Ansichten von Rom und Umgebung, Korkmodelle von Chichi (nach: Hagemann:
+                            Wilhelmine von Lichtenau, S. 153f.). Sie ließ sich von Angelika
+                            Kauffmann malen und kaufte deren Gemälde "Christus und die Samariterin
+                            am Brunnen". Weiterhin unterstützte sie in Rom lebende deutsche Maler
+                            wie Friedrich Rehberg, Wenzel Peter, die Brüder Hackert, Georg Andreas
+                            Hoffmann, Peter Gottlieb Müller oder Johann Christian Reinhart mit
+                            Aufträgen und Ankäufen, die stark von Hirt beeinflusst waren.
+                        </note>
+                    </seg>.</p>
+                <p>
+                    <persName key="prov_mwl_zpt_cv">Mahler Hamilton</persName> hat eine neue <seg type="critical">
+                        <orig>Cava unweit <placeName key="prov_v43_prt_cv">Ponte molle</placeName>
+                        </orig>
+                        <note xml:id="nzlt_dhz_cv">Louise von Anhalt-Dessau vermerkt über einen
+                            Besuch der Grabungsstätte: 19. April 1796: "[…] um 10 fuhren wir hinaus
+                            hinter Ponte Molle hinaus und sahen die dort heraus gegrabne Capitaele
+                            und Säulen, und noch etwa 20 Mann waren beschäftigt mit außgraben, und
+                            ein Aufseher war dabey. Wir fanden noch manche kleine, bunt bemahlte
+                            Stücke im auswurf und auch kleine Stücken Marmor. Es war 3 große
+                            Alabaster Säulen, meist ganz, da, wovon die eine, nur in zwey Stück
+                            zersprungen, 12 Fuß wohl hoch war. Wie große Capitaele römischer Ordnung
+                            und noch verschiedene kleine und einige von jonischer Ordnung" (Tagebuch
+                            der Louise von Anhalt-Dessau, Bd. 1, S. 210-211).</note>
+                    </seg>, die sehr viel verspricht. Biß iezt fand er zwey ganz erhaltene Büsten
+                    von <persName key="prov_kzh_vgk_bs">Apollo</persName> u. <persName key="prov_ykm_drt_cv">Latona</persName> nebst drey Säulen von Orientalischem
+                    Alabaster.</p>
+                <p>
+                    <persName key="prov_bff_yhn_1v">Canova</persName> hat kürzlich <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_skt_wgz_cv">sein neuestes Werk</rs>
+                        </orig>
+                        <note xml:id="ne2q_jdz_cv">Louise von Anhalt-Dessau schreibt in ihrem
+                            Tagebuch über einen Besuch in Canovas Atelier: 9. April 1796, Sonnabend:
+                            "[…] fuhren wir zu Canova, den ganze neu von ihm verfertigte Model in
+                            Giebs einer Gruppe des Hercules, als dieser den Bothen der Dejanira
+                            tödtet, der ihm das vergiftete Hemd bringt. Es mag dem Künstler Mühe und
+                            Arbeit genug gmacht haben, aber so wie diese und die ganze Iddee
+                            ungehauen ist, so hatt er sie auch dargestellt. Er hatt noch dazu nicht
+                            einmal den Farnesischen Hercules genau nachgebildet, denn Er den Rücken
+                            und die zwey Schulterblätter seines Hercules als zwey der mächtigsten
+                            Wind Schläuche des Eolus hingestellt und meines Erachtens in der
+                            Stellung der gewaltigen Beyne und Schenckel keine kräftige Harmonie, das
+                            heißt dennoch etwas Floßkes, Erzwungenes, nichts Natürliches, [?] auch
+                            in der Anstrengung schön bleiben muß, die ganze Gestalt des Icaris, den
+                            er fortschleudert, dünkt mir eine genaue Copie von Berninis Caricaturen
+                            zu sein, auch unnütz oder gar wider den Zweck dünkt mir des Hercules
+                            Halten am Leibgurt des Bothen, denn der widerstrebende Cörper würde
+                            damit nicht gehalten werden." (Tagebuch der Louise von Anhalt-Dessau,
+                            Bd. 1, S. 208). - Die vier Jahre später in Marmor gefertigte kolossale
+                            Skulpturengruppe "Herkules und Lichias" blieb unvollendet und ging
+                            später in den Besitz des Prinzen Giovanni Torlonia über, der seine
+                            Sammlung antiker Kunst auch der Öffentlichkeit zugänglich machte.
+                        </note>
+                    </seg> in Gips öffentlich ausgestellt. <persName key="prov_ctb_wmy_cv">Hercules</persName>, der den <pb n="4"/>
+                    <persName key="prov_krb_k2z_cv">Lylas</persName> in die See schleudert, ist das
+                    Sujet. Es ist zwey <seg type="critical">
+                        <orig>Palm</orig>
+                        <note xml:id="nlbd_bpy_cv">Von lat. palma: die flache Hand) meint: eine
+                            Handbreit; 1 Palm = 4 Zoll.</note>
+                    </seg> größer, als der <rs type="artwork" key="prov_wgp_y4y_cv">Farnesische
+                        Hercules</rs>. Es findet eine große Anzahl Bewunderer, aber wenig
+                    Beurtheiler: nach meiner Meinung ist es die abscheulichste Karikatur in jeder
+                    Rücksicht, und in jedem Theile. <persName key="prov_c2r_4qy_cv">Bernini</persName> hat nie nichts schlimmres gemacht.</p>
+                <p>Wir hören hier so viel von Ihrem <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_sxd_skz_cv">Faust</bibl>
+                        </orig>
+                        <note xml:id="no34_xkz_cv">Gemeint ist "Faust. Ein Fragment", erschienen
+                            1790 bei Göschen in Leipzig. "Faust. Der Tragödie erster Teil" erschien
+                            erst 1808.</note>
+                    </seg>, und <bibl sameAs="prov_tzp_hlz_cv">Wilhelm Meister</bibl>, daß Sie uns
+                    die Bitte nicht verargen werden, dieselben doch nicht zu vergeßen mitzubringen.
+                        <persName key="prov_wmk_lxw_g5">Mad. Angelika</persName> hat den erstern nie
+                    erhalten. –</p>
+                <p>gegenwärtige Manuscripte gehen bis <placeName key="prov_mx4_gqy_cv">Hof</placeName> oder <placeName key="prov_lxk_b4b_z5">Leipsig</placeName>
+                    mit einem besondern Courier.</p>
+                <p>Em<subst>
+                        <del rendition="#ow">pfehlungen</del>
+                        <add place="intralinear">pfehlen</add>
+                    </subst> Sie mich der gnädigsten <persName key="prov_qn2_zhp_5r">Herzogin</persName>, <persName key="prov_oxg_rvh_55">Fräul. v.
+                        Göchhausen</persName>, <persName key="prov_hy4_jx2_rs">Herdern</persName>
+                    &amp;. ich bin noch allerseits Briefe schuldig. Ich werde schreiben, sobald ich
+                    ein wenig freyer bin. <persName key="prov_ydx_vry_cv">Mad. Brun</persName>
+                    <seg type="critical">
+                        <orig>hält sich noch immer hier auf</orig>
+                        <note xml:id="npqm_33z_cv">Friederike Brun war zur gleichen Zeit wie Louise
+                            von Anhalt-Dessau in Rom eingetroffen; beide unternahmen viele
+                            gemeinsame Ausflüge und Besichtigungen. Am 8. Mai 1796 reiste die Brun
+                            mit ihren beiden Kindern nach Neapel weiter, wo sie den Sommer über die
+                            Bäder auf Ischia gebrauchte.</note>
+                    </seg>; sie denkt aber den Sommer in <placeName key="prov_u51_rrm_y5">Ischia</placeName> zuzubringen. <persName key="prov_xsn_1cg_f5">Bury</persName> hat <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_rjr_s5k_qz">zwey Kopien</rs> von
+                                <persName key="prov_bfj_11v_35">Leonardo da Vinci</persName>
+                        </orig>
+                        <note xml:id="nl1y_jzx_pz">Wohl die beiden Kopien, die Louise von
+                            Anhalt-Dessau bei einem Besuch in Burys Atelier am 26. März 1796 gesehen
+                            hat: "Von hier zum Büri, der schon mehr Talent zum Copieren hatt, wie
+                            dann zwey Copien nach Leonardo da Vinci, beweisen die zwey Schwestern
+                            als Allegorien Tugend und Eitelkeit und der Christus unter die
+                            Pharisäer. Dieser Mahler scheint aber doch der pretensionsloseste und
+                            der hochmüthigste zu sein" (Louise von Anhalt-Dessau, Tagebücher Bd. 1,
+                            S. 204). Es handelt sich dabei jedoch um Kopien von Gemälden des
+                            Bernardino Luini, die damals Leonardo da Vinci zugeschrieben wurden:
+                            Bernardino Luinis Allegorie der "Bescheidenheit und Eitelkeit" (ehemals
+                            im Palazzo Barberini in Rom, heute: Paris, Sammlung Rothschild) und
+                            dessen "Christus unter den Pharisäern" (auch: "Christus unter den
+                            Schriftgelehrten") (ehemals im Palazzo Borghese in Rom, heute: National
+                            Gallery London). Bury hat diese Gemälde wiederholt kopiert und
+                            verkauft.</note>
+                    </seg> an sie verkauft.</p>
+                <closer rend="paragraph">
+                    <salute>Ich bin wie immer Ihr wahrer Verehrer</salute>
+                    <signed>A. Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

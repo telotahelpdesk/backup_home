@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_psf_dsm_cy">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Christian Daniel Rauch. Berlin, 20. Januar 1828.</title>
+                <title> Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection>IV/</collection>
+                        <idno>
+                            <idno type="shelfmark">NL Rauch VII. 1b</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1828-01-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_p41_xpz_lw">Rauch, Christian Daniel (1777-1857) (Bildhauer des
+                        deutschen Klassizismus, Schüler von J. G. Schadow, Berliner
+                        Bildhauerschule)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Zum Empfangsort: Rauch reiste am 21. Januar 1828 von Berlin nach Nürnberg und
+                    München ab (Rudolf Boxberger: Briefe des Bildhauers Chr. Rauch, meist an Hofrath
+                    Böttiger, 1882, S. 154), so dass ihn Hirts Brief wohl noch in Berlin erreicht
+                    hat.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Vielgeliebter Freund!</salute>
+                </opener>
+                <p>Jedes Denkmal, das Sie für andere denkwürdige Männer setzen, ist auch ein Denkmal
+                    Ihrer Kunst und Ihres Namens. Auch ist es erfreulich, daß Ihre Denkmäler nicht
+                    bloß auf Einen Ort sich beschränken, sondern in mehrern Städten unseres
+                    gemeinsamen Vaterlandes die Augen den Genuß an Ihren Werken haben <add place="superlinear">sollen</add>. <seg type="comment">
+                        <orig>Ein <rs type="artwork" key="prov_bdv_yrs_cy">Ehrenmal</rs> für <hi rendition="#aq">
+                                <persName key="ed_fyd_tss_cy">Albert</persName>
+                            </hi>  in <placeName key="prov_m44_bm2_1v">
+                                <hi rendition="#aq">Nürnberg</hi>,</placeName>
+                        </orig>
+                        <note xml:id="njyl_lmd_2y">Wie auch das Denkmal für den bayrischen König Max
+                            I. Joseph in München (siehe unten) war auch das Nürnberger
+                            Dürer-Denkmal, das erste öffentliche Künstlerdenkmal in Deutschland, ein
+                            Auftrag Ludwig I. von Bayern. Die Arbeit an dem Denkmal brachte Rauch
+                            Missgunst und Ärger, einen unangenehmen Briefwechsel mit dem bayrischen
+                            König, bei Fertigstellung 1840 schließlich aber doch Beifall und Ehre
+                            ein. </note>
+                    </seg> gleichsam im Nabel von <placeName key="prov_xym_pdx_w5">Deutschland</placeName>, ist ein Denkmal für die ganze deutsche Kunst; und
+                        <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_p5c_lgd_2y">in <placeName key="prov_rhf_xzg_y5">München</placeName> werden durch Ihre Hand
+                                sich die Formen und die Züge <persName key="ed_x2j_2fd_2y">eines
+                                    Fürsten</persName> für eine Nachwelt erhalten</rs>
+                        </orig>
+                        <note xml:id="nw4y_khd_2y">Rauch reiste Anfang des Jahres 1828 nach München,
+                            um den Erzguss seines Denkmal-Entwurfs für König Max I. Joseph von
+                            Bayern mit dem Direktor der Königlichen Erzgießerei Johann Baptist
+                            Stiglmaier zu besprechen. Den Auftrag hatte er von König Ludwig I. von
+                            Bayern nach dem Tod seines Vaters im Oktober 1825 erhalten. "Es sollte
+                            den König in der Pose antiker Zeusstatuen oder römischer Päpste mit
+                            vorgestreckter, segnend oder grüßend erhobener Rechten auf einem
+                            Thronsessel sitzend zeigen. Gemeinsam mit Ludwigs Baumeister Leo von
+                            Klenze, der den architektonischen Aufbau des gesamten Sockels entwarf,
+                            entwickelte Rauch das Konzept des bildnerischen Schmucks. Das Postament,
+                            unten an den vier Ecken von Löwen als Symbolen von Herrschaft und Kraft
+                            gestützt und seitlich von zwei weiblichen Figuren - den Verkörperungen
+                            des Gemeinwohls und der Bavaria - begleitet, enthält im oberen
+                            Sockelkubus vier Reliefs, die das Gedeihen von Recht, Landwirtschaft,
+                            Kunst, sowie von Religion und Wissenschaft im Schutz des Fürsten
+                            versinnbildlichen. Dabei vermischte der Künstler allegorische Figuren,
+                            die er nach antiken Vorbildern schuf, mit historischen Persönlichkeiten,
+                            die er in zeitgenössischer Kleidung wiedergab und denen er die Züge
+                            bekannter Münchener Persönlichkeiten verlieh. Mehrfach und länger hielt
+                            sich Rauch in dieser Zeit in München auf, wo auch der Guß des Denkmals
+                            unter Johann Baptist Stiglmairs Leitung in der neu gegründeten
+                            Bronzegießerei erfolgte" (Jutta von Simson: Christian Daniel Rauch.
+                            Berlin 1997 (= Preußische Köpfe), S. 82-83). Stiglmaier hatte sich
+                            1824/25 mit einem Stipendium in Berlin aufgehalten und den Guss des
+                            Blücher-Denkmals von Rauch studiert. Zuvor war er vier Jahre, von 1819
+                            bis 1822, zu Studienzwecken in Italien. Die Königliche Erzgießerei in
+                            München wurde von König Ludwig I. kurz nach seinem Regierungsantritt im
+                            Herbst 1825 erweitert, so dass auch Monumentalplastiken hergestellt
+                            werden konnten. Stiglmaier wurde deren Erster Inspektor. 1828 wurde für
+                            das Max-Joseph-Denkmal das große Gießhaus errichtet. Ein erster Guss im
+                            August 1832 misslang. "Noch nicht so erfahren, hatte er, entgegen Rauchs
+                            Anweisungen, die Figur in zwei Teilen zu gießen, versucht, sie in einem
+                            Stück herzustellen. Die Dammgrube wurde vom Gewicht des Metalls
+                            gesprengt, und die Form lief aus. Beim zweiten, nun in zwei Teilen
+                            ausgeführten Versuch gelang der Guß, an dem staunend und ehrfürchtig
+                            eine Menge von Zuschauern teilnahm" (ebd., S. 83). 1835 wurde das
+                            Denkmal auf dem Max-Joseph-Platz gegenüber dem Nationalheater und dem
+                            "Königsbau" der Residenz aufgestellt. </note>
+                    </seg>, welcher, als ein Beyspiel für andere, das Wohl einer großen Völkerschaft
+                    in dem deutschen Vaterlande <seg type="comment">
+                        <orig>zuerst mit edler Freysinnigkeit gründete</orig>
+                        <note xml:id="nkhv_pnd_2y">Maximilian I. Joseph hatte Bayern 1818 eine erste
+                            Verfassung gewährt. </note>
+                    </seg>. - Reisen Sie also <pb n="2"/> immer auch im trüben Winter. Der Zweck
+                    Ihrer Reise erheitert und mildert den Weg.</p>
+                <p>Von <placeName key="prov_m44_bm2_1v">
+                        <hi rendition="#aq">Nürnberg</hi>
+                    </placeName> wollen Sie den Weg über <placeName key="ed_a4d_gjf_mw">
+                        <hi rendition="#aq">Noerdlingen</hi>
+                    </placeName>
+                    <add place="superlinear">nach <hi rendition="#aq">
+                            <placeName key="prov_rhf_xzg_y5">München</placeName>
+                        </hi>
+                    </add> nehmen, und <seg type="comment">
+                        <orig>wünschen einige Kunstnotizen von mir</orig>
+                        <note xml:id="njpc_lxm_cy">Da Rauchs Wunsch auch mündlich an Hirt
+                            herangetragen worden sein kann, wurde hier kein Brief von Rauch an Hirt
+                            erschlossen.</note>
+                    </seg>. - von <placeName key="prov_m44_bm2_1v">Nürnberg</placeName> aus kommen
+                    Sie zuerst nach <placeName key="ed_qqd_q4d_2y">
+                        <hi rendition="#aq">Schwabach</hi>
+                    </placeName>: allda sind in der Hauptkirche unweit vom Posthause <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_xtz_nqd_2y">die Meisterarbeiten</rs>
+                        </orig>
+                        <note xml:id="ncwy_fqd_2y">In der Stadtkirche Schwabach St. Johannes des
+                            Täufers und St. Martin befindet sich ein Hochaltar aus der Werkstatt
+                            Wolgemuths.</note>
+                    </seg> von <persName key="ed_l4g_vpd_2y">
+                        <hi rendition="#aq">M. Wolgemuth</hi>
+                    </persName> dem Meister <persName key="ed_fyd_tss_cy">
+                        <hi rendition="#aq">A</hi>
+                        <supplied cert="high">l</supplied>
+                        <hi rendition="#aq">bert Dürer's</hi>
+                    </persName>, zu sehen. von da nach <placeName key="ed_a4d_gjf_mw">
+                        <hi rendition="#aq">Noerdlingen</hi>
+                    </placeName>: dort sind gleichfalls <seg type="comment">
+                        <orig>in der Hauptkirche <rs type="artwork" key="prov_cv3_btr_2y">die
+                                Hauptwerke</rs> von <persName key="ed_esv_xzm_cy">
+                                <hi rendition="#aq">Friedrich Herl</hi>
+                                <del rendition="#s">
+                                    <hi rendition="#aq">l</hi>
+                                </del>
+                                <hi rendition="#aq">in</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nuyv_1rd_2y">In der St. Georgskirche in Nördlingen befindet
+                            sich der 1462 von Jakob Fuchshart gestiftete Hochaltar. "Herlin ist
+                            nicht nur der Maler der Flügel, sondern wohl auch Unternehmer für das
+                            ganze Werk und ist am Entwurf für den nicht erhaltenen Schrein
+                            beteiligt, den der Nördlinger Schreiner Waidenlich ausführte. [...] Der
+                            Altar war dem heilig Georg und der heilig Magdalena geweiht, weshalb auf
+                            den Außenseiten der Flügel Episoden aus der Georgslegende und dem Leben
+                            der heilig Magdalena dargestellt wurden, auf den Innenseiten Szenen aus
+                            dem Marienleben (heute: Nördlingen, Städtisch Museum) (nach Kurt Martin:
+                            "Herlin, Friedrich" in: Deutsche Biographie 8 (1969), S. 626-628
+                            [Online-Version]). - In den "Kunstbemerkungen auf einer Reise über
+                            Wittenberg und Meissen nach Dresden und Prag" (Berlin 1830) schreibt
+                            Hirt: "Im Jahr 1817 sah ich in der Hauptkirche zu Nördlingen durch
+                            Zufall - wahrlich durch Zufall, denn ich wollte allda nur die Gemälde
+                            von Hans Scheufelein sehen - die Werke von dem alten Friederich Herlin;
+                            und hier erinnerte ich mich wieder des Altarbildes in Meissen [im
+                            Meißner Dom]. Jezt im J. 1819 sehe ich mein Gemälde wieder, und zwar in
+                            Gesellschaft eines Freundes, dem auch die Arbeiten Herlin's in
+                            Nördlingen bekannt sind. Er, wie ich, blieben der Ueberzeugung, dass das
+                            Werk nur dem genannten Meister angehören könne" (S. 21). </note>
+                    </seg>, einem gleichzeitigen Meister von <persName key="ed_l4g_vpd_2y">
+                        <hi rendition="#aq">M. Wolgemuth</hi>
+                    </persName>, und von <hi rendition="#aq">
+                        <persName key="ed_mxp_25r_2y">Hans Schäufelein</persName>
+                    </hi> einem Schüler von <hi rendition="#aq">
+                        <persName key="ed_fyd_tss_cy">A. Dürer</persName>
+                    </hi> zu sehen. Darunter ist besonders merkwürdig <seg type="comment">
+                        <orig>
+                            <rs type="artwork" key="prov_rmc_1sr_2y">das Familiengemälde</rs> von
+                            Fr. <persName key="ed_esv_xzm_cy">Herlin</persName>  selbst, mit der
+                            Jahreszahl 1488</orig>
+                        <note xml:id="nvtv_3qr_2y">Der sogenannte Familienaltar in Sankt Georg in
+                            Nördlingen (heute: Nördlingen, Städtisch Museum) ist 1488 datiert und
+                            signiert. Auf der breiten Tafel mit zwei Flügeln empfehlen "der heilig
+                            Lukas den knieenden Meister mit seinen 4 Söhnen und die heilig
+                            Margarethe als Namenspatronin Herlins Frau mit ihren 5 Töchtern der
+                            thronenden Muttergottes" (Kurt Martin: "Herlin, Friedrich" in: Deutsche
+                            Biographie 8 (1969), S. 626-628 [Online-Version]).</note>
+                    </seg>, und mehrers andere, was Ihnen der Küster dort anzeigen wird. - von
+                        <placeName key="ed_a4d_gjf_mw">
+                        <hi rendition="#aq">Noerdlingen</hi>
+                    </placeName> gehen Sie über <hi rendition="#aq">
+                        <placeName key="ed_pbb_fjf_mw">Ulm</placeName>
+                    </hi>, erstlich um allda das überaus merkwürdige <placeName key="ediarum_drv_2vr_2y">gothische Münster</placeName>, <seg type="comment">
+                        <orig>die Glasmahlereyen</orig>
+                        <note xml:id="nhgy_lzr_2y">Die über 15 Meter hohen Chorfenster aus dem 14.
+                            und 15. Jahrhundert im Münster sind: Fenster der beiden Johannes,
+                            Kramerfenster, Ratsfenster, Anna-Marienfenster, Fenster der fünf Freuden
+                            Mariens, Medaillonfenster, aus der Werkstatt Jakob Ackers bzw. aus der
+                            Straßburger Werkstatt des Peter Hemmel von Andlau. </note>
+                    </seg>, und dann <del rendition="#s">ge</del> in dem Chore <seg type="comment">
+                        <orig>zwey sehr merkwürdige Gemälde <pb n="3"/> von <persName key="ed_ycj_lvr_2y">
+                                <hi rendition="#aq">Martin Schaffner</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nvbt_svr_2y">Im Ulmer Münster stammen in der
+                            Konrad-Sam-Kapelle zwei Altartafeln - die heilige Elisabeth mit dem
+                            Bettler und Anna Selbdritt (um 1525) - von Martin Schaffner; außerdem
+                            die Flügelbilder und die das Abendmahl Jesu zeigende Predella des
+                            Choraltars (Heilige-Sippen-Altar, "Hutz"-Altar) (1521) sowie u.a. das
+                            Bildnis des Patriziers Eitel Besserer zu Rohr (1516) (Besserer-Kapelle,
+                            heute: Ulmer Museum).</note>
+                    </seg> in Augenschein zu nehmen. - In <placeName key="ed_rbw_pbs_2y">
+                        <hi rendition="#aq">Augsburg</hi>
+                    </placeName> finden Sie das wesentliche von Kunst und Alterthum in dem dortigen
+                        <seg type="comment">
+                        <orig>großen Stadthaus</orig>
+                        <note xml:id="ndkk_qcs_2y">Wohl das Schaezlerpalais an der Maximilianstraße
+                            gemeint mit den Deckengemälden von Gregorio Guglielmi (1714-1773) im
+                            Treppenhaus und im Festsaal.</note>
+                    </seg> vereinigt. In <placeName key="prov_rhf_xzg_y5">
+                        <hi rendition="#aq">München</hi>
+                    </placeName> selbst sind Sie zuhause. Sollten Sie auf dem Rückwege durch
+                        <placeName key="ed_jkb_q5d_lw">
+                        <hi rendition="#aq">Regenburg</hi>
+                    </placeName>
+                    <ex>[!]</ex> kommen; so vergeßen Sie nicht, die <placeName key="ediarum_ytx_2ds_2y">Schottenkirche</placeName> eine der ältesten <hi rendition="#aq">Basilik</hi>en in Deutschland zu sehen, <seg type="comment">
+                        <orig>die vom Sohne <persName key="ed_dpj_lds_2y">Carl des Großen</persName>
+                            erbaut ward</orig>
+                        <note xml:id="nm4z_frs_2y">Das sogenannte Schottenkloster in Regensburg
+                            wurde durch irische Mönche unter Abt Dominus mit Unterstützung des
+                            Burggrafen Otto von Regensburg um 1090 erbaut und 1110 geweiht. Die 1120
+                            geweihte Klosterkirche musste jedoch wegen Baufälligkeit bis auf die
+                            beiden Türme und die Nebenapsiden bald wieder abgebrochen werden. An
+                            ihrer Stelle wurde eine neue romanische dreischiffige Basilika mit
+                            Westquerhaus und dem reich geschmückten Nordportal errichtet (vollendet
+                            vor 1200). Das Kloster stand unter dem Schutz von Kaiser Heinrich IV.
+                            und seines Sohnes Heinrich V.</note>
+                    </seg>.</p>
+                <p>Meine besten Grüße an <seg type="comment">
+                        <orig>A.</orig>
+                        <note xml:id="nnkl_nws_2y">Rauchs Tochter Agnes?</note>
+                    </seg> und <seg type="comment">
+                        <orig>B.</orig>
+                        <note xml:id="ndph_4ws_2y"/>
+                    </seg>; meine besten Wünsche begleiten Sie auf der Reise; und - möge auch für
+                    uns die Zeit kommen, wo <seg type="comment">
+                        <orig>tief geschlagene Wunden</orig>
+                        <note xml:id="nebb_hxs_2y">Am 3. September 1827 fand in der Berliner
+                            Parochialkirche die Hochzeit von Rauchs Tochter Agnes mit dem Maler Paul
+                            Mila, dem leiblichen Sohn Hirts, statt. Doch schon auf der
+                            Hochzeitsreise, die das junge Paar in Begleitung Rauchs über Dresden
+                            nach Tharant unternahm, kam es zum Eklat und zum Bruch der eben erst
+                            geschlossenen Verbindung. Rauch sah sich zutiefst diffamiert und dem
+                            Klatsch der Berliner Gesellschaft ausgesetzt. An Goethe schreibt er am
+                            18. Oktober 1827: "Denn wie unerwartet aus heiterer Luft ein Blitzstrahl
+                            zerstörend niederschlägt, eben so traf mich und meine Tochter ein
+                            namenloses ein unverschuldetes großes häusliches Unglück, welches seit
+                            Sechs Wochen uns mit schwerem Kummer belastet, welcher vielleicht mit
+                            dem Tode nur erst enden wird" (GSA Weimar 28/722, Blatt Nr. 4). Erst
+                            durch Zelter erfuhr Goethe, was eigentlich geschehen war: "Die bekannte
+                            Heiratsgeschichte ist etwas schlimmer als man sie sich denken möchte.
+                            Die Braut soll als nicht intakt befunden sein. Das wäre nichts Neues
+                            wenn es wahr wäre. Der junge Mann aber hat sich so stürmisch und mit
+                            eklat betragen daß ihm die Angetraute nach überhäuften Beschimpfungen
+                            entfliehn und ihre Zuflucht zur Gräfin v. d. Recke suchen müssen;
+                            endlich als der Vater erschienen war hat er diesen Vater der Beflickung
+                            seines Kindes ins Angesicht beschuldigt. Der Vater ist nun bereits
+                            klagbar geworden und die Ehe soll aufgehoben werden. / Die Freunde des
+                            jungen Mannes sagen nun endlich aus; sie hätten schon in Rom von ihm
+                            gewußt daß ihm eine gewisse Potenz abgehe; sogar sein natürl[icher]
+                            Vater (unser Antiquarius) und auch seine Mutter sollen davon
+                            unterrichtet gewesen sein. Der Vater des Mädgens wird am meisten
+                            bedauert der noch an einem frühern Mißverhältnis [mit Wilhelmine
+                            Schulze] zu schleppen hat dessen Frucht diese Tochter ist und nun rühren
+                            sich die beiden Familiengeschichten wie ein stinkiger Brei ineinander. /
+                            Von meiner Seite will ich nur dabei bemerken daß solche Vorfälle mir
+                            stets die Wahlverwandtschaften ins Gedächtnis zurückrufen. Man ist viel
+                            zu leichtsinnig solche Casus wie Meteorsteine anzuschauen" (Zelter an
+                            Goethe, 28.-30.10.1827, in: Johann Wolfgang Goethe. Sämtliche Werke.
+                            Münchner Ausgabe. Bd. 20.1 Briefwechsel mit Zelter 1799-1827. Text.
+                            München: Hanser, 1991, S. 1973 f.; Dass. Bd. 20.3 Briefwechsel mit
+                            Zelter. Einführung. Kommentar. München 1998, S. 874). Seinem Freund Lund
+                            schildert Rauch am 10. Mai 1828 die Hochzeitsreise "und die an Wahnsinn
+                            grenzende Wut und Eifersucht des impotenten Bräutigams, wobei 'weder die
+                            Rede noch die Feder auszusprechen vermag', was Mila, um 'seine Ehre
+                            gegen seine Frau zu retten' aus Niederträchtigkeit erfunden haben mag"
+                            (Jutta von Simson, 1997, S. 99-100; Brief Rauchs an Lund vom 10.5.1828
+                            in: NL Rauch XII.4b). Die Schauspielerin Karoline Bauer erinnert sich an
+                            die Skandalgeschichte: "Als ich in Berlin war, vermälte sich die schöne
+                            Agnes Rauch, die ihr Vater legitimirt hatte, mit dem genialen - aber
+                            wunderlichen Maler Mila. Welch' einen Lärm gab das, als es hieß: Mila
+                            sei seiner jungen Frau auf der Hochzeitsreise davon gelaufen, weil er
+                            gesehen, daß diese mit ihrem Vater zärtlicher gewesen, als auf unserer
+                            unolympischen Erde zwischen Vater und Tochter gestattet. - Ich aber
+                            glaube noch heute: der unheimliche Mila, der schon längst wie ein
+                            Geisterseher in Berlin herumlief, hat Gespenster erblickt, wo nur ein
+                            Mondstrahl zitterte. / Agnes Rauch heirathete später [am 10. Mai 1829]
+                            den Professor [Eduard] d'Alton. Paul Mila ist erst vor einigen Jahren,
+                            als traurigster Hypochonder gestorben. Sein Talent zerschellte - an
+                            einer unglückseligen fixen Idee" (Karoline Bauer: Verschollene
+                            Herzensgeschichten. Nachgelassene Memoiren Bd. 2. Hrsg. von Arnold
+                            Wellmer, 2012, hier S. 103). - Mila wurde aus Rauchs Haus, in dem
+                            bereits eine Wohnung und ein Atelier eingerichtet worden waren,
+                            verwiesen und Mitte Dezember 1827 die Scheidung vollzogen. Um Agnes zu
+                            schonen, wurde kein Prozess angestrengt, jedoch musste Mila eine
+                            offizielle Erklärung zur Ehrenrettung von Agnes verfassen. Das Dokument
+                            hat folgenden Wortlaut: "Nachdem der richterliche Spruch über die
+                            Ehescheidung zwischen mir Paul Mila, und meiner ehemaligen Ehegattin
+                            Agnes geb. Rauch erfolgt ist, so gebe ich folgende Erklärung, ohne
+                            irgend einen äußeren Zwang, freymüthig und offen hiermit ab. / Ich
+                            liebte die Agnes Rauch meine nun von mir geschiedene Frau aufrichtig und
+                            mit ganzer Seele, ihrer vielen liebenswürdigen und schönen Eigenschaften
+                            wegen, und ich kann wohl hinzufügen, daß ich sie hierwegen forthin immer
+                            schätzen und achten werde. Die Trennung, die in den ersten Tagen unserer
+                            Ehe stattfand, war die Folge unglücklicher Mißhelligkeiten, und der
+                            daraus entstandenen Überzeugung, daß wir in der Ehe nicht glücklich mit
+                            einander leben würden; und in Folge dieser vorläufigen Trennung hat sich
+                            immer mehr von beiden Seiten gezeigt, daß das wahre eheliche Vertrauen
+                            zwischen uns nicht wieder eintreten dürfte. Daher der gleichförmige,
+                            wohlüberlegte, und freie Entschluß von beiden Seiten eintrat, auf
+                            richterliche Trennung und Ehescheidung, als das Ersprießlichste und
+                            beruhigendste für beide Theile, anzutragen. / Was in einem unglücklichen
+                            Moment von mir gegen Agnes geäußert wurde, möge als nicht gesagt, in
+                            Vergessenheit und ewiges Dunkel gehüllt bleiben. Was seitdem Verläumdung
+                            und Schmähsucht gegen die in solcher Beziehung wahrhaft unglückliche
+                            Agnes erfunden und verbreitet hat, davon erkläre ich mich ganz
+                            schuldlos, und habe dergleichen immer mit höchster Empörung meines
+                            Gemüths zurückgewiesen und demselben nicht den entferntesten Glauben
+                            beigemessen, so wie ich auch stets mit Verachtung auf alles herabsah,
+                            was Schwachheit gegen mich erlog, solche Schmähungen mögen diejenigen,
+                            die sie erfanden in ihrem Gewissen verantworten. Ich bemitleidige
+                            deshalb Agnes mit innigster Seele; ein unglückliches Schicksal und nicht
+                            mein Wille gab die Veranlassung dazu. / Ich spreche meine ehmalige
+                            Gattin von aller Schuld frey. Das gegenseitige Vertrauen aber, welches
+                            zur Führung einer glücklichen Ehe erforderlich ist, giebt sich nicht von
+                            selbst; es ist ein nicht zu erzwingendes Geschenk des Himmels. / Ich
+                            scheide aus meinem ehelichen Verhältnis ohne Groll; ich wünsche Agnes
+                            alles Glück und Wohlergehen für die Zukunft. Ich bin versöhnt möge auch
+                            sie und ihr Vater mit mir versöhnt seyn, und alles vorgefallene
+                            vergessen können. Dies ist der sehnlichste Wunsch, den ich bei meinem
+                            Scheiden im Herzen trage. / Vorstehendes als von mir geschrieben
+                            bestätige ich mit Unterschrift und Siegel / Paul Mila / Berlin den 15
+                            Dec: 1827" (Privatbesitz Hamburg; zitiert nach: Christian Daniel Rauch.
+                            Familienbriefe 1796-1857. Hrsg. von Monika Peschken-Eilsberger. München
+                            1989, Dokument V, S. 74-75). - An Böttiger schreibt Rauch am 22. März
+                            1828: "Meine unglückliche Tochter [...] ist im Januar gerichtlich von
+                            dem angetrauten Ungethüm geschieden worden, und hat ihr durch Freund
+                            Hirt ein ehrenerklärendes Dokument einhändigen lassen, wodurch ihrer
+                            Ehre die Genugthuung gegeben ist, die ihr im Publicum unverletzt
+                            geblieben war" (Robert Boxberger: Briefe des Bildhauers Chr. Rauch,
+                            meist an Hofrath Böttiger. In: Jahrbücher der Königlichen Akademie
+                            gemeinnütziger Wissenschaften zu Erfurt, NF Heft XI, Erfurt 1882, S.
+                            156). - Vgl. auch Jürgen Zimmer: Vom Tod des Orpheus. Der Antikenfries
+                            im Berliner Palais des Prinzen Karl und sein Maler (Paul Mila).
+                            Falkensee: Eigendruck d. Verf., 2006, 85 S. m. 24 Abb., 1 Taf.;
+                            Kunstbibliothek - Staatliche Museen zu Berlin PK). </note>
+                    </seg> sich lindern!</p>
+                <closer>
+                    <salute>Ihr treuergebner</salute>
+                    <signed>Hirt</signed>
+                    <dateline>20 Jan. 28.</dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p>Sagte ich gelegenheitlich ein Wort zu Ihrer Ehre; so seyen Sie überzeugt, daß es
+                    sehr ernst und mit voller Überzeugung geschah. -</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="document hirt" xml:id="hirt_kqv_yt3_mgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Votum/Circular Hirts zu einer Schrift von Chomel über eine Universalsprache.
+                    Berlin, 25. Mai 1800</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher><ref target="http://www.bbaw.de">Berlin-Brandenburgische Akademie der
+                        Wissenschaften (BBAW)</ref></publisher>
+                <pubPlace ref="http://www.geonames.org/2950159">Berlin</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1810), I-VI-10, bl.
+                            276v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                <date when="1800-05-25" cert="high"/>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>Den Werth, oder Unwerth der Idee des Herrn <persName key="ed_uj3_w3j_mgb"><hi rendition="#aq">Chomel</hi></persName> laße ich dahin gestellt seyn. Das
+                    Einzige, worüber ich mich wundere, ist, wie es Herrn <persName key="ed_uj3_w3j_mgb"><hi rendition="#aq">Chomel</hi></persName> einfallen
+                    konnte, sich mit <seg type="comment">
+                        <orig>seinem Projekte</orig>
+                        <note xml:id="nl5m_cjj_mgb">In den Protokollen der Akademie der
+                            Wissenschaften ist zum 13. März 1800 vermerkt: "On a présenté une lettre
+                            ou un mémoire daté d'Annonay, département de l'Ardèche, &amp; signé
+                            Chomel Midon, dans lequel il propose une écriture qui seroit l'image
+                            fidèle de la prononciation, &amp; ne contiendroit que les lettres qui
+                            doivent se prononcer." - Chomel-Midon unterbreitete Vorschläge zur
+                            vereinheitlichenden Reform der französischen Orthographie.</note>
+                    </seg> an eine ausländische Akademie zu wenden. Ob seine Idee gut, und
+                    ausführbar sey, oder nicht, muß die französische <hi rendition="#aq">Nation</hi>
+                    beurtheilen; denn ihr muß daran gelegen seyn, ihrer Sprache jene Ausbildung, der
+                    sie fähig ist, zu geben. - Und wo sollten <hi rendition="#aq">revolutionär</hi>e
+                    Sprachideen mehr willkommen seyn, als bey einem Volke, welches die Ordnung so
+                    vieler Dinge, welche der Menschheit näher anliegen, <hi rendition="#aq">revolutionirt</hi> hat? -</p>
+                <p>Übrigens wenn der Traum von einer <hi rendition="#aq">Universal</hi>sprache je zu
+                        <hi rendition="#aq">realisiren</hi> wäre, so müßte man wenigstens hiebey den
+                    Wunsch hegen, daß diese <hi rendition="#aq">Universalität</hi> eine solche
+                    neuere Sprache träfe, welche mehr Anlage zu einer höhern Perfektibilität in sich
+                    trägt, als diejenige ist, der die französische fähig zu seyn scheint.</p>
+                <p>Hirt <lb/>den 25<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> May
+                    1800.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_yfq_h3w_m1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Kronprinz Friedrich Wilhelm (IV.) von Preußen. Berlin, 1819</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>BPH</collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 50 J Nr. 499, Bl. 7-20</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_rrj_mk5_fv">Preußen, Friedrich Wilhelm (IV.) von (1795-1861)
+                        (Kronprinz, 1840-1861 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1819-01-01" notAfter="1819-12-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute/>
+                </opener>
+                <p>
+                    <ex>[Friedrich Wilhelm beschäftigte sich 1819 mit Herodes I., König von Judäa und
+                        bat Hirt, ihm den Druck seiner Vorlesung]</ex> Ueber die Baue des Herodes
+                    des Großen überhaupt, und über seinen Tempelbau zu Jerusalem ins besondere,
+                        <ex>[zu übersenden.]</ex>
+                </p>
+                <closer>
+                    <salute/>
+                    <signed/>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kbc_kx1_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gutachten Hirts für das Ministerium der geistlichen-, Unterrichts- und
+                    Medizinalangelegenheiten. Berlin, 13. Oktober 1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3, Bl. 50r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-10-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_mj1_bb1_cjb"/>
+                </correspContext>
+                <note>Über dem Text der Entwurf eines Antwortschreibens an Bartholdy: "I. Nahmen S.
+                    Exc. ist dem Herrn Geh. Legat. Rath u GeneralConsul Bartholdi zu Rom ist[!] zu
+                    antworten auf Schreiben v. 28ten Jul. c. daß zur Einrichtung des hiesigen Musei,
+                    so viele, dem gemeinnützigen Zweck desselben entsprechende und zu demselben
+                    nothwendige Xxxxstücke angeschafft werden müssen, daß man bedaure, auf die
+                    angetragenen, u leider schon des Metalls wegen gewiß sehr kostbaren Schüsseln
+                    nicht reflectiren zu können. / Berlin den 27 Oct. 1821 / Uhden" / "peto
+                    Anteriora / Fischer / 30.10 21." - weitere Sichtungsvermerke auf dem linken
+                    Rand, unter anderen: "GehORRath Uhden / 1389."; "ist erst abgegangen
+                    /Alt[enstein] / 19/10"; unter dem Text: "U.A. 19/10. "; "Berlin Wissensch S N 41
+                    v,3"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+				<p>In Rücksicht der Anfrage, womit ein hohes <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi> mich beehrt: ob auf den Ankauf von <rs type="artwork" key="prov_a31_ww1_cjb">zwölf silbernen Schüßeln</rs> mit den
+                    Brustbildern der zwölf Kaiser von <hi rendition="#aq"><persName key="ed_pw4_bw1_cjb">B. Cellini</persName></hi>
+                    <hi rendition="#aq">reflectirt</hi> werden sollte - bin ich der Meinung: daß man
+                    auf den Ankauf solcher <hi rendition="#aq">Curiosa</hi> nicht eingehe. Denn
+                    erstlich, obwohl ich glaube, daß p. <hi rendition="#aq"><persName key="ed_g5y_kt2_cy">Bertholdy</persName></hi>[!] hinreichende Kenntniß
+                    hat, um die Ächtheit solcher Goldschmidt-waare von dem genannten Meister
+                    verbürgen zu können (obwohl auch dies in manchen Fällen schwierig ist, indem die
+                    meisten Silberarbeiter in jener Zeit einen und denselben Stil hatten); so ist
+                    doch der Gegenstand selbst zu unbedeutend; besonders da man mit Sicherheit
+                    annehmen kann, daß die wenigsten dieser Kaiser nach wahren Bildnißen derselben
+                    gemacht sind. Zweytens weiß ich nicht: was irgend für ein Intereße aus solchem
+                    Geschirr hervorgehen sollte: nicht für den Geschmack, denn dieser fehlt dem <hi rendition="#aq"><persName key="ed_pw4_bw1_cjb">Cellini</persName></hi> und
+                    seinen Zeitgenoßen durchaus; nicht aus der Technik für die Gold- und
+                    Silberschmidte, denn all dies versteht man iezt beßer; nicht für die
+                    Kunstgeschichte, denn wer kennt den <hi rendition="#aq"><persName key="prov_fwx_wdb_3v">Michelangelo</persName></hi>ischen Stil jenes
+                    Zeitalters in solchen Arbeiten nicht? - Anderseits kosten solche Dinge sehr viel
+                    schon des Materials wegen; - und hat man Geld zum Verwenden auf Kunstwerke, so
+                    giebt es derer so viel und so viel wichtigere Gegenstände, daß ich dagegen das
+                    Geld für Schüßeln von <hi rendition="#aq"><persName key="ed_pw4_bw1_cjb">Cellini</persName></hi> als weggeworfen betrachten würde. Kurz ich
+                    finde keine Seite, von welcher eine solche <hi rendition="#aq">Acquisition</hi>
+                    dem hohen <hi rendition="#aq">Ministerio</hi> zu empfehlen seyn möchte.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 13 Oct. 1821.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

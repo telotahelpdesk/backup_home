@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ocw_srs_whb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title><title>Vorlesungsankündigung von Hirt für die Akademie der Künste im Fach
+                        Kunstgeschichte. Berlin, ab 1796/97</title></title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>UB Leipzig</institution>
+                        <collection>Autographensammlung Kestner</collection>
+                        <idno><idno type="shelfmark">Slg. Kestner/II/A/IV/920/Nr. 1, Mappe 920, Bl.
+                                Nr. 1</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1796-11-01" notAfter="1829-04-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_u5s_1fc_b1b">Akademie der Künste und mechanischen
+                        Wissenschaften zu Berlin Königlich-Preußische</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>1 Blatt, Latein, o. D. - Zur Datierung: Hirt hielt ab Wintersemester 1796/97
+                    bis Wintersemster 1828/29 Vorlesungen an der Akademie der Künste. Eine
+                    eindeutige Datierung des vorliegenden Dokuments ist schwierig, da die
+                    Vorlesungsankündigungen bzw. sonstigen Nachweise von Vorlesungen den Inhalten
+                    derselben nur verkürzt widergeben oder aber für bestimmte Zeiträume nicht
+                    überliefert sind. Mit Sicherheit ist nur zu sagen, dass es sich um eine
+                    Wintersemster-Vorlesung handelt; in Frage kämen: "Kritische Geschichte der
+                    bildenden Künste" (1803/04); "Geschichte der Kunst", Mo + Fr (WS 1805/06);
+                    "Erklärung der bildlichen Monumente des Alterthums" (WS 1809/10 und WS 1810/11);
+                    "Über die Geschichte der bildlichen Monumente" (WS 1812/13 und WS 1813/14);
+                    "Geschichte der Kunst" (WS 1817/18 - diese Vorlesung war allerdings für Montag
+                    und Donnerstag angekündigt).</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_hdq_vnm_pgb">Vorlesungen Hirts</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+                <p>Die 7<hi rendition="#sup"><hi rendition="#u">ma</hi></hi> novembris incipient
+                    lectiones publicae: Historiae artium apud Graecos et Romanos: bis in hebdomadem
+                    diebus Lunae et Veneris hora XII-I. <lb/>Auditorium est in <orgName key="ed_u5s_1fc_b1b">academia regia artium</orgName>: introitus in via
+                    universitatis -</p>
+                <closer>
+                    <signed>Hirt Prof. P. O. -</signed>
+                </closer>
+				<closer> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

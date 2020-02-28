@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_p42_pyr_jx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Dresden, vor 22. Dezember 1821]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1821-12-22-a-Böttiger: "Ich bin in Ihrer großen Schuld; aber Sie
+                    kennen seit lange den nachläßigen Briefschreiber. Ihre Zuschrift mit den
+                    Beylagen habe ich durch Reimer erhalten. Es war mir erfreulich, endlich die
+                    Abhandlungen gedruckt zu sehen, und zwar mit weniger Druckfehlern, als die im
+                    vorigen Bande. [...] Es ist mir sehr angenehm, daß Sie die Geschichte der
+                    Baukunst anzeigen wollen. [...] Von der Pariser Venus, worüber Sie einen
+                    vorläufigen Aufsaz, den ich mit vergnügen las, geben, ward mir bereits vorigen
+                    Sommer ein schöner Kupferabdruck zugesandt, nach welchem mein Urtheil dahin
+                    gieng, daß der Kopf - nicht Porträt, sondern das Ideal der Göttin ist, aber
+                    nicht von besonderer Vortrefflichkeit. [...]. Nach Ihrem Wunsche schicke ich
+                    Ihnen die zwey Aushängebogen, wo die Rede von den Tempeln ist, wozu auch das
+                    Pandrosium gehört. Sie werden aber zu Ihrem Zweck weniges daraus entnehmen
+                    können. - Über Caryatiden habe ich früher gesprochen [...]. Über unser Museum
+                    läßt sich noch nichts Fundamentales sagen. [...] Sehr wünsche ich, daß Sie Ihr
+                    Vorhaben, einmal wieder Berlin zu besuchen, in Wirklichkeit bringen möchten. Das
+                    Frühjahr ist allerdings sehr geschickt hiezu [...]".</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                    <date notBefore="1820-11-25" notAfter="1821-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tt2_dbm_jx"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

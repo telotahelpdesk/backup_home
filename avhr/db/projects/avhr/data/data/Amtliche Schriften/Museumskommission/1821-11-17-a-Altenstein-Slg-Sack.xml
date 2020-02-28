@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_rqm_t54_cjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Staatsminister v. Altenstein. Berlin, 17. November
+                    1821</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 3,
+                                Bl. 60r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-11-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_ibs_cg4_cjb"/>
+                </correspContext>
+                <note>Empfängerbemerkungen auf dem linken Rand: "Repl.<ex>[ik]</ex> vom 15/11.21.";
+                    "B. / d 17/11/21. / 1856 B. J."; "Berlin Wißens. S. r. 41. vol. 3."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Gnädiger Herr!</salute>
+                </opener>
+				<p>In Rücksicht der von Herrn Grafen v. <hi rendition="#aq"><persName key="ed_vm2_w3b_fhb">Sack</persName></hi> an S<hi rendition="#sup"><hi rendition="#u">e</hi></hi>
+                    <persName key="prov_bxf_jt5_fv">Mayestät</persName> übergebene <rs type="artwork" key="prov_gsc_kcp_1jb">Sammlung</rs> antiker Gegenstände bin
+                    ich der Meinung, daß vor der Hand alles an die <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> abgegeben werde, da es ohnedem keine großen und
+                    schwer zu <hi rendition="#aq">transport</hi>irende Gegenstände sind. Alles was
+                    von Marmor ist kann bis auf weiteres ohne Reinigung und <hi rendition="#aq">Restauration</hi> bleiben. Nur einiges von den gebrannten Erden, was bey
+                    dem <hi rendition="#aq">Transport</hi> in Scherben gieng, sollte bald möglichst
+                    wieder zusammengesezt werden. Dies könnte aber füglich auf der <placeName key="prov_olb_qlv_3v">Kunstkammer</placeName> selbst geschehen. </p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">November</hi> 1821.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

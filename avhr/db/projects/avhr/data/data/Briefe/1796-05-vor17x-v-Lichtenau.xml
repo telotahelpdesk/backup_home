@@ -1,0 +1,57 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_uyb_4gy_g1b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Wilhelmine Rietz (Gräfin Lichtenau)? Ancona, vor 17. Mai 1796]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Ingo Pfeifer, Uwe Quilitzsch, Kristina Schlansky (Bearbeiter): Die
+                    originalen Tagebücher der Fürstin Louise Henriette Wilhelmine von Anhalt-Dessau.
+                    Auszüge aus den Jahren 1795 bis 1811. Hrsg. von der Kulturstiftung
+                    DessauWörlitz, Bd. 1, Halle 2010, S. 221: Eintrag 17. Mai 1796: "Nach 9 kam
+                    Hirt. Die Post hatte nichts für mich gebracht. (Er hatte einen Brief aus
+                    Ancona.)"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_qvp_1gm_cv">Lichtenau, Wilhelmine Gräfin von, geb. Enke
+                        (Encke), verh. Rietz (1753-1820) (Mätresse, Vertraute und Beraterin
+                        Friedrich Wilhelms II. von Preußen)</persName>
+                    <placeName key="prov_avy_h4c_2v">Ancona</placeName>
+                    <date notBefore="1796-05-01" notAfter="1796-05-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Zum Absender: Möglicherweise stammt der Brief von der Gräfin von Lichtenau,
+                    denn Hirt schreibt am 21. Mai 1796 an dieselbe: "Ihr Brief, der mir Ihre Reise
+                    von Rom bis Ancona erzählt, war mir ein sehr angenehmer Bote."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

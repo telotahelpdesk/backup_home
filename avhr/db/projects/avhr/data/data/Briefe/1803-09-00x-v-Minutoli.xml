@@ -1,0 +1,59 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_q14_r5j_xv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Johann Heinrich Carl Menu von Minutoli, etwa Herbst 1803]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Johann Heinrich Carl Menu von Minutoli: Reise durch einen Theil von
+                    Teutschland, Helvetien und Ober-Italien, im Sommer 1803 in Briefen [...]. Bd. 1,
+                    Berlin 1804, S. 112: „Herr Hofrath Hirt zu Berlin, den ich hierzu [zu einer
+                    wissenschaftlichen Beurteilung der in Genf befindlichen Valentiniansschale]
+                    schriftlich aufforderte [...]“. - Bezeugt in: 1803-09-00-a-Minutoli: "So
+                    schmeichelhaft Ihr Zutrauen auch für mich ist, und so gern ich auch Ihren
+                    Wünschen entgegen käme; so werde ich doch denselben nur auf eine sehr
+                    unvollkommne Weise genügen können."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_ctf_3vj_xv">Menu von Minutoli, Johann Heinrich Karl
+                        (1772-1846) (preuß. Offizier, zuletzt Generalleutnant, Prinzenerzieher,
+                        Altertumsforscher, Ausbilder am adligen Kadettenkorps in Berlin,
+                        Gründungsmitglied der "Militärischen Gesellschaft" in Berlin, 1820
+                        Expedition nach Ägypten, EM der Akademie der Wissenschaften zu
+                        Berlin)</persName>
+                    <date notBefore="1803-09-01" notAfter="1803-10-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_op2_fwj_xv"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

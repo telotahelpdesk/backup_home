@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vkd_hy5_xjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 8.
+                    November 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 28r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-11-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_xyf_cjl_wjb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, von Schreiberhand mit egh. Korrekturen und
+                    Unterschriftskürzel von Altenstein. - Bearbeitungsvermerke: "<hi rendition="#u">cito</hi>!"; "Nach dem Abgang zur Vorlasung[? ]und Exxxxxx[?] wegen der
+                    Sculptur und dem KostenAnschlag dem Gh xxxxx xxxx[?] vorzulegen / Altenstein /
+                    9/11"; Mundierungs- und Absendevermerk "10/11."; Aktenvermerk auf dem oberen
+                    Rand: "Ad num. 140 &amp; 147. / ad Num: 2244 et 2245. B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / die Herren Geheimer-Oberbaurath / Schinkel und Hofrath Hirt,
+                            / Hochwohl- und Wohlgebohren / hier</addrLine>
+                    </address>
+                    <dateline>Berlin, den 8<hi rendition="#sup">ten</hi> November 1823.</dateline>
+                </opener>
+				<p>Es ist mir angenehm gewesen, aus Ew. Hochwohl- und Wohlgebohren gefälligem Scheiben vom 7ten
+                        v<ex>origen</ex> M<ex>onats</ex> zu ersehen, daß sich eine sichere Aussicht
+                    eröffnet hat, dem wesentlichen Bedürfniße bei der vorbereitenden Einrichtung der
+                    Königlichen Gallerie durch die Herberufung zweier vorzüglicher und bewährter
+                    Restauratoren abzuhelfen und ich genehmige daher gerne, daß Sie mit den Herren
+                        <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi> und <hi rendition="#aq"><persName key="ed_sg3_1gm_wjb">Köster</persName></hi> zu <placeName key="ed_ok5_2vd_lw"><hi rendition="#aq">Heidelberg</hi></placeName>, einen
+                    Contract abschließen um zu veranlaßen, daß beyde gedachte Künstler sich dem
+                    Restaurationsgeschäfte vorläufig auf das nächste Halbjahr von Weihnachten bis
+                    Johannis widmen. Ew. Hochwohl- und Wohlgebohren authorisire ich hierdurch, mit
+                    den genannten Restauratoren den Vertrag namentlich dahin abzuschließen, daß sie
+                    für ihre halbjährigen Arbeiten, so wie für die Anleitungen derjenigen Leute
+                    welche ihnen von der königlichen <orgName key="ed_imk_ss2_gjb">Commißion</orgName> zum Unterricht in der Restaurationskunst zugewiesen
+                    werden und für sämmtliches Material, welches sie zur Ausführung ihrer
+                    Restaurationen bedürfen ein Jeder 1500 reichsthaler und an Reisekosten die
+                    Person 150 reichsthaler zu empfangen haben, so wie, daß ihnen ein paßliches
+                    Arbeitslocal angewiesen und ge-<pb n="2"/>heitzt werden soll. In Ansehung der
+                    Wahl dieses Locals kann ich voraussetzen, daß dabei das Bedürfniß der
+                        königlich<supplied cert="high">en</supplied>
+                    <orgName key="ed_u5s_1fc_b1b">Academie der Künste</orgName> in Betracht gezogen
+                    ist und daß vorzüglich die zum Unterrichte erforderlichen Räume dadurch nicht
+                    beschränkt werden.</p>
+                <p>Ueber das Ergebniß dieser Restaurationsarbeiten erwarte ich Ew gefällige
+                    Mittheilung; vorzüglich ersuche ich Sie ergebenst, mir Ihre Meinung darüber
+                    zeitig eröfnen zu wollen: ob es zwekmäßig seyn dürfte, den Contract mit dem <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi>
+                    und <hi rendition="#aq"><persName key="ed_sg3_1gm_wjb">Köster</persName></hi> zu
+                    seiner Zeit zu verlängern und zwar <unclear reason="illegible" cert="">puro</unclear> oder unter Modification.</p>
+                <p>Se. Majestät der <persName key="prov_bxf_jt5_fv">König</persName> haben
+                    ausdrüklich zu äußern geruhet, daß die Restaurationen nicht übereilt und nur mit
+                    größter Vorsicht übernommen werden müßten, indem auch nach der Aufstellung im
+                        <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> fortgefahren werden
+                    könne wenn erst die Erfahrung gezeigt habe, daß die damit beschäftigten Künstler
+                    diesem schwierigen Geschafft auch gewachsen seyen. Da Se Majestat der <persName key="prov_bxf_jt5_fv">König</persName> auch zu bestimmen geruht haben daß
+                    mit der Einrahmung welche aber nur einfach und ohne zu grossen Kosten Aufwand zu
+                    bewerkstelligen sey sogleich vorgeschritten werden könne so ersuche ich Ew das
+                    Erforderliche zu veranlaßen und mir über den Plan, die Beschaffenheit der Rahmen
+                    und wie viel im nächsten Jahr dazu erforderlich seyn dürfte Anzeige zu
+                    erstatten.</p>
+				<closer>
+                    <signed>(Namens Sr. Excellenz) <lb/><ex>[gez.]</ex>
+                        A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

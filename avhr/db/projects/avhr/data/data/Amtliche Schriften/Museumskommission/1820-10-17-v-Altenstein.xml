@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_igc_5br_k3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Kultusministers von Altenstein an Hirt. Berlin, 17. Oktober
+                    1820</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 2r-v (Konzept von Schreiberhand)</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <orgName key="ed_xpk_5s3_f3b">Ministerium der geistlichen, Unterrichts- und
+                        Medizinalangelegenheiten (Kultusministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1820-10-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_sl5_fpy_k3b"/>
+                    <ref type="prev" target="hirt_pjf_nwj_vkb"/>
+                </correspContext>
+                <note>Mit Aktenvermerk: "mundiert und abgegeben eodem."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qhn_nnm_pgb">Kunstmuseum – Auswahl der Objekte</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / den Professor, Herrn Hofrath <hi rendition="#u">Hirt</hi> /
+                            Wohlgeboren / <hi rendition="#u">Hier</hi> / <hi rendition="#u">citissime</hi></addrLine>
+                    </address>
+                    <dateline>Berlin, den 17<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Octbr: 1820.</dateline>
+                    <salute/>
+                </opener>
+				<p>Der Ausbau des <placeName key="ediarum_qkl_1cw_jgb">Akademie-Gebäudes</placeName> dahier, ist
+                    seiner Vollendung nahe. Nach der Bestimmung Seiner Majestät des <persName key="prov_bxf_jt5_fv">Königs</persName> soll das darin anzulegende
+                        <placeName key="prov_up1_xwt_fv">Museum</placeName>, ausser den dazu schon
+                    bestimmten Sammlungen, auch diejenigen Kunstwerke aus AllerhöchstIhren
+                    Schlößern, <hi rendition="#aq">Palais</hi>, Gärten und Bildergallerien erhalten,
+                    welche der Aufnahme in einem Museum würdig geachtet würden, ohne deshalb
+                    AllerhöchstIhr Eigenthum an diesen Kunstwerken aufzugeben. Zu der dieserhalb zu
+                    treffenden Auswahl, haben Seine <persName key="prov_bxf_jt5_fv">Majestät</persName> Ew. Wohlgeboren ausersehen und den Hofmarschall Herrn
+                        <persName key="ed_klc_r1s_k3b">Freyherrn von <hi rendition="#aq">Maltzahn</hi></persName> angewiesen, Ihnen den freyen Zutritt zu
+                    AllerhöchstIhren Schlössern, Pallästen, Gärten und Bilder-Gallerien zu
+                    gestatten.</p>
+                <p>Ob und wen Sie bey der zu treffenden Auswahl zuziehen wollen, soll Ihrem Ermessen
+                    ganz anheimgestellt bleiben. Indem ich Ewr Wohlgeboren zufolge einer an euch
+                    unterm 12<hi rendition="#sup">ten</hi> d<ex>ieses</ex> M<ex>onats</ex>
+                    erlassenen und eine so eben zugekommene allerhöchsten Cabinets Ordre hiervon in
+                    Kenntniß setze, ersuche <pb n="2"/> ich Sie ergebenst, sich diesem ehrenvollen
+                    Auftrage ohne Zeitverlust gefälligst zu unterziehen und mir demnächst das
+                    Verzeichniß der ausgewählten Stücke einzureichen, um solches Seiner Majestät dem
+                        <persName key="prov_bxf_jt5_fv">Könige</persName>, HöchstIhrem Befehle
+                    gemäß, zur weitern Bestimmung vorlegen zu können. Sollten Ew. Wohlgeboren im
+                    Laufe der Auswahl, irgend Bedenken oder das Geschäfft fördernde Wünsche haben,
+                    so bitte ich Sie, mir solche vorzutragen, worauf ich sehr gern das Geeignete
+                    veranlassen werde.</p>
+				<closer>
+                    <dateline>Berlin, w<ex>ie</ex> o<ex>ben</ex></dateline>
+                    <signed><ex>[gez.]</ex> A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

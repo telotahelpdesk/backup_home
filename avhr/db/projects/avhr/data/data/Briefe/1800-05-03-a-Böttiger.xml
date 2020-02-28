@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_i1t_ldr_qv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 3. Mai 1800. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository>Nachlass Böttiger</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 18</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Hirt, Aloys: Ueber Zoega's neueste Unternehmungen.
+                            In: NTM, 1800, Bd. 2, S. 145-147 (Teilabdruck, mit redaktionellen
+                            Eingriffen von Böttiger) </bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" n="1">Karl August Böttiger Briefwechsel mit Christian
+                            Gottlob Heyne. Hrsg. und komm. von René Sternke und Klaus Gerlach.
+                            Berlin [u.a.] 2015, S. 455-457 [= Anm. zu Brief 90]</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1800-05-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <note>Der Brief wurde mit redaktionellen Eingriffen von Böttiger u.d.T. "Ueber
+                    Zoega's neueste Unternehmungen. Berlin, d. 3. May." im NTM, 1800, Bd. 2, S.
+                    145-147, abgedruckt. Böttiger hat seine Änderungen direkt in Hirts
+                    Briefhandschrift eingetragen.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <telota:envelope>
+            <telota:envPart side="front">
+                <address>
+                    <addrLine>An / Herrn Consistorialrath / Böttiger / in / <hi rendition="#u">Weimar</hi>
+                    </addrLine>
+                </address>
+            </telota:envPart>
+        </telota:envelope>
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 3<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi>
+                        <hi rendition="#sup"/> May
+                        1800</dateline>
+                </opener>
+                <p>Ich habe Ihnen, l<ex>ieber</ex> F<ex>reund</ex>, zu andern Zeiten so viel von
+                        <persName key="prov_ijp_xvr_xr">
+                        <hi rendition="#aq">Zoega</hi>
+                    </persName> gesprochen, daß Sie sich seiner noch leicht erinnern werden. Mit
+                    Freude erhielt ich dieser Tage einen <seg type="critical">
+                        <orig>Brief</orig>
+                        <note xml:id="nkr2_2sr_qv">Brief erschlossen:
+                            [1799-05-vor03x-v-Zoega].</note>
+                    </seg> von ihm, worin er mir manches von seiner iezigen Lage, und Beschäftigung
+                    schreibt, und besonders von dem Wunsche, verschiedenes von seinen Arbeiten zu
+                    publiziren, wenn er hinreichende Aufmunterung hiezu erhielte.</p>
+                <p>Erstlich hat er eine <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_znn_hqm_rv">
+                                <hi rendition="#aq">topographie der Roma antica</hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="ny5l_r1s_qv">Mit einer Darstellung der Topographie Roms war
+                            Zoega schon in den 1790er Jahren beschäftigt. Eine französische
+                            Niederschrift aus dem Jahr 1800 und eine ausführlichere deutsche von
+                            1803 befinden sich in Kopenhagen. Zur Anlage des Werks vgl. die
+                            Tagebücher von Friederike Brun und Elisa von der Recke. - 1805
+                            interessiert sich Christoph Martin Wieland für das Werk und möchte es
+                            gern an den Verlag seines Schwiegersohnes Heinrich Geßner in Zürich
+                            vermitteln, der auch bereit ist, das Werk herauszubringen (vgl. den
+                            Brief Fernows an Zoëga vom 13. April 1805 (Fernow-Briefe, 2013, Nr. 261)
+                            und den Brief Heinrich Geßners an Wieland vom 6. März 1805 (Wielands
+                            Briefwechsel, Bd. 16.1, Nr. 434, Z. 14, mit den Erläuterungen in Bd.
+                            16.2, S. 396-397). Das Werk erschien allerdings nie im Druck. </note>
+                    </seg> ganz fertig liegen, welche er <seg type="comment">
+                        <orig>seit meiner Abwesenheit</orig>
+                        <note xml:id="nrdx_ylb_b1b">Hirt hatte Rom im Mai1796 verlassen.</note>
+                    </seg> ausarbeitete, weil er, wie er mir sagt, mein Nachfolger im <hi rendition="#aq">Ciceroniat</hi> werden wollte, – daß er seitdem <seg type="critical">
+                        <orig>dänischer Agent geworden</orig>
+                        <note xml:id="nfrk_ysr_qv">Im Februar 1798 war Zoega zum dänischen Agenten
+                            und Konsul ernannt worden mit einem Gehalt von 300 Reichstalern.</note>
+                    </seg>, und dadurch gegen das Nothdürftigste gedeckt ist, wissen Sie. –</p>
+                <p>Zweytens <seg type="critical">
+                        <orig>hat er <hi rendition="#u">alle</hi> antiken <hi rendition="#aq">Reliefs</hi>, wovon ich selbst Zeuge bin, auf's genaueste
+                            beschrieben</orig>
+                        <note xml:id="nrc2_d1s_qv">Vgl. dazu die Angaben in der Allgemeinen
+                            Deutschen Biographie: "Zu Zoegas's alten Lieblingswünschen gehörte ein
+                            kritisches Verzeichniß aller Antiken in Rom. Er hatte sich von allen,
+                            besonders den Reliefs, ausführliche Beschreibungen angefertigt, die
+                            durch ihre Genauigkeit, Klarheit, Uebersichtlichkeit fast eine Abbildung
+                            ersetzen konnten. Die modernen Ergänzungen wurden genau angegeben, alle
+                            Erklärung, selbst die Nächstliegende, fürs erste vermieden. Wo die
+                            Reliefs zu hoch angebracht waren, hatte Z. ein Fernglas zu Hülfe
+                            genommen. Er berichtet selbst über seine Arbeitsweise in einem
+                            interessanten Brief an Suhm vom 20. Oct. 1791 […]. Die Beschreibungen
+                            erstreckten sich auch außerhalb Roms über alle Orte, wo Z. sich
+                            aufgehalten hatte (z.B. Venedig). Daß die Reliefs bevorzugt wurden, lag
+                            in der Richtung von Zoega's Studien; eine ähnliche Bearbeitung der
+                            Statuen erschien ihm als viel leichter". - Die im vorliegenden Brief
+                            erwähnte Ausgabe bei Sander kam nicht zustande, wohl weil die
+                            Beschaffung guter Abbildungen unmöglich schien. Das Projekt wurde 1807
+                            neu belebt durch den Kunstverleger Pietro Piranesi, der Zoega anbot,
+                            durch den Stecher Tommaso Piroli die sämtlichen Basreliefs Rom abbilden
+                            zu lassen und mit Zoegas Erläuterungen herauszugeben. "Die einzelnen
+                            Sammlungen sollten in alphabetischer Folge vorgenommen werden, das
+                            weitaussehende Werk in monatlichen Lieferungen zu 6 Tafeln erscheinen;
+                            als Honorar für Z. ward 5 Scudi […] fürs Heft festgesetzt, wobei der
+                            Verleger solche leichte populäre Artikel im Auge hatte, wie sie der
+                            junge Schweighäuser und Petit-Radel für das 'Musée Napoléon' geliefert
+                            hatten. Z. ging mit Feuereifer auf das Anerbieten ein. […] 'Ich bin nun
+                            tutto bassorilievo' an Münter (26. August [1807]). […] Schon im Juni
+                            erschien das erste Heft. Zoega's Text beschränkte sich oft auf eine
+                            genaue Beschreibung mit den nothwendigen Erklärungen und Vergleichen,
+                            nicht selten aber erweiterte er sich bei gewissen Lieblingsgegenständen
+                            […] zu längeren Abhandlungen (z. B. über Mithras, über die Arbeiten des
+                            Herakles) […] Nach Jahresfrist (Juni 1808) war der erste Band mit 54
+                            Tafeln und 268 Folioseiten Text fertig, der zweite ward sofort in
+                            Angriff genommen. Aber Piranesi fand bei den unruhigen Zeitläuften […]
+                            nicht den gehofften Erfolg und beschloß im December das Unternehmen mit
+                            dem zweiten Bande zu beendigen." Zoega kam bis Tafel 96, dann erkrankte
+                            er schwer und starb kurz darauf. "Das verwaiste Werk ward nach seinen
+                            Papieren von dem früheren Buchhändler, späteren Archöologen Fil. Nur.
+                            Visconti zu Ende geführt. Von dem ganzen Unternehmen war nur etwa der
+                            zwölfte Theil, Palast und Villa Albani umfassend, fertig gestellt […]."
+                            (Michaelis, Adolf: Artikel "Zoega, Georg", in: Allgemeine Deutsche
+                            Biographie 45 (1900), S. 386-402). Der Titel lautet: "Li bassirilievi
+                            antichi di Roma incisi da Tommaso Piroli colle illustrazioni di Giorgio
+                            Zoega publicati in Roma da Pietro Piranesi'" 2 Bände in Folio, mit 115
+                            Tafeln, Roma 1808". Die deutsche Ausgabe "Die antiken Basreliefe von Rom
+                            in den Originalkupferstichen von Tomaso Piroli, mit den Erklärungen von
+                            Georg Zoëga, übersetzt und mit Anmerkungen begleitet von F. G. Welcker"
+                            erschien Gießen: Müller, 1811-1812.</note>
+                    </seg>: und wäre nun gesinnt, dieselben Partieweise – etwa 12. Stücke <hi rendition="#aq">par Cahier</hi> – <bibl sameAs="prov_r5g_ypm_rv">zu
+                        publiziren</bibl> - etwa ein <hi rendition="#aq">Cahier</hi> für jede Meße.
+                    Sein Wunsch wäre, daß ein Buchhändler, oder ein Unternehmer, wie <persName key="prov_qrv_qqm_rv">Frauenholz</persName>, ihm die nöthige Summe, welche
+                    erfordert würde, Zeichner und Kupferstecher für das jedesmalige <hi rendition="#aq">Cahier</hi> zu bezahlen, anticipirte. Denn daß Zeichner und
+                    Kupferstecher unter seinen Augen arbeiten, ist eine <hi rendition="#aq">condition sine qua non</hi>. Und dieses ist nöthig, wenn einmal ein Werk
+                    erscheinen soll, auf deßen <hi rendition="#u">genaueste</hi> Treue man sich
+                    verlaßen könnte, und dergleichen leider noch nichts existirt. Auch ist eine
+                    solche <hi rendition="#aq">Anticipation</hi> des Geldes nöthig, weil die
+                    arbeitenden Künstler immer prompt zu bezahlen sind, wenn sie ununterbrochen, und
+                    wohlfeil arbeiten sollen. Indeßen, um das Werk so wenig, wie möglich zu
+                    vertheueren, <add place="superlinear" hand="">würden</add> die Zeichnungen bloß
+                    in Conturen seyn. <pb n="2"/>
+                </p>
+                <p>3<hi rendition="#u">tens</hi>
+                    <lb/>Die Übersendung der Platten würde ganz auf Unkosten des Unternehmers
+                    geschehen; das Manuscript würde so viel möglich immer vorher übersandt werden,
+                    so daß der Druck desselben bey Ankunft der Platten immer vollendet seyn könnte.
+                    Es ist aber zu bemerken, daß sein Manuscript italienisch ist und es daher in
+                    Deutschland zu übersezen wäre, weil, wie er sagt, es für ihn zu <hi rendition="#aq">seccant</hi> seyn würde, sich selbst zu übersezen. In
+                    Rücksicht des Honorar's für sein Manuscript, fordert er nicht, sondern wünschet,
+                    daß man ihm hierwegen bestimmte Anerbietungen mache. Die Summe für das Honorar
+                    würde ihm zugesandt werden, sobald die Platten angekommen seyn würden, und zwar
+                    zugleich mit der Summe, welche auf <add place="superlinear" hand="">das</add>
+                    kommende <hi rendition="#aq">Cahier</hi> für Zeichner u. Kupferstecher <hi rendition="#aq">anticipirt</hi> werden müßte. Nb. Was diese <hi rendition="#aq">Anticipation</hi> für jedes <hi rendition="#aq">Cahier</hi>
+                    in Deutschland betragen könnte, schreibet er mir nicht, und er selbst scheint
+                    noch keine Berechnung darüber gemacht zu haben.</p>
+                <p>4<hi rendition="#u">tens</hi>
+                    <lb/>In Rücksicht der Objekte würde er bey der Publication sich an kein
+                    bestimmtes System halten: als in soweit, daß er alle Monumente, welche zu einer
+                    Mythe gehören, zusammen nehmen, und alles darüber sagen würde, was gleichsam zur
+                    Erschöpfung der Sache gehört. Auf diese Weise hat er schon mehrere Gegenstände
+                    fertig liegen: unter andern alles was zum <seg type="critical">
+                        <orig>
+                            <bibl sameAs="ed_mkw_3nb_b1b">Cultus des <persName key="prov_cyn_t4r_qv">
+                                    <hi rendition="#aq">Mithras</hi>
+                                </persName>
+                            </bibl>
+                        </orig>
+                        <note xml:id="ngbc_4zr_qv">Zoega hielt anlässlich seiner Aufnahme in das
+                            wissenschaftliche Nationalinstitut in Rom 1798 drei Vorlesungen über den
+                            Mithras-Kult (vgl. Ueber die den Dienst des Mithras betreffenden
+                            Römischen Kunstdenkmäler, in: Georg Zoegas Abhandlungen. Herausgegeben
+                            und mit Zusätzen begleitet von Friedrich Gottlieb Welcker, Göttingen
+                            1817, S. 89-210). - Darin kommentiert Welcker: "Die mit einem Sternchen
+                            bezeichneten Paragraphen sind in den Bassiril. di Roma Tav. LVIII. LIX.
+                            aufgenommen, und, da bey dieser Gelegenheit der Verfasser einige kleine
+                            Aenderungen angebracht hat, daraus übersetzt worden. […] Diese
+                            Abhandlung wurde in dem Römischen Institut zur Zeit der Republik den 10.
+                            May 1798, in einer folgenden Sitzung, und (mit Uebergehung der
+                            beschriebenen Denkmäler) den 1. Febr. 1799 vorgelesen (ebd., S.
+                            89).)</note>
+                    </seg> gehört, wovon er das Manuscript gleich übersenden könnte. Die Übersetzung
+                    und Druck könnte sogleich beginnen, indeßen die Monumente hiezu gezeichnet, und
+                    gestochen würden. Was über den Stil, die Epoche u.s.w. jedesmal hinzuzufügen
+                    wäre, würde dann mit eben der Sorgfalt, und Kenntniß – worin <hi rendition="#aq">
+                        <persName key="prov_ijp_xvr_xr">Zoega</persName>
+                    </hi> über alle
+                    Sterbliche erhoben ist – geschehen. <pb n="3"/>
+                </p>
+                <p>Dieß, lieber Böttiger! habe ich Ihnen sogleich berichtigen wollen, weil ich
+                    überzeugt bin, daß Sie das lebhafteste Intereße an der Sache nehmen, und wobey
+                    ich Sie im Voraus versichern kann, daß Ihre höchsten Erwartungen von einem
+                    Manne, wie <hi rendition="#aq">
+                        <persName key="prov_ijp_xvr_xr">Zoega</persName>
+                    </hi>, nie zu groß seyn können. Daher bitte ich Sie um
+                    Rath, und Hülfe. – Ich habe noch mit Niemand, als mit dem wackern <persName key="prov_ofd_5yj_gv">Sander</persName>, hievon gesprochen; und er scheint
+                    nicht abgeneigt zu seyn, sich mit der Unternehmung zu befaßen. Ich wünschte
+                    allerdings, daß sich die Sache zwischen beiden arrangiren ließe, weil ich beyde,
+                    jeden in seiner Art, als die biedersten Leute kenne, und ich überzeugt bin, daß
+                    in der Folge weder von der einen, noch andern Seite weder Kniffe, noch
+                    Vernachläßigungen statt haben würden. Indeßen muß auch der Vortheil eines jeden
+                    hiebey so abgewogen werden, daß keiner zum Vortheil des andern zurückstehen
+                    müßte.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Ich schreibe heute vorläufig an <hi rendition="#aq">Zoega</hi>
+                        </orig>
+                        <note xml:id="npxl_3rm_rv">Brief nicht bekannt.</note>
+                    </seg>, um vor allem andern das Genaueste über die Unkosten der Zeichner u.
+                    Kupferstecher für jedes <hi rendition="#aq">Cahier</hi> zu erforschen. Indeßen
+                    bäte ich Sie, das weitere mit <persName key="prov_ofd_5yj_gv">Sander</persName>
+                    zu besprechen, und nachdem Sie zusammen ein Resultat gefaßt, so <del rendition="#s" next="übersenden">ber</del> übersenden Sie mir dasselbe
+                    sogleich.</p>
+                <p>Auch werde ich mich des Nähern wegen der <bibl sameAs="prov_znn_hqm_rv">
+                        <hi rendition="#aq">topog<ex>raphie</ex>
+                        </hi>der <hi rendition="#aq">R<ex>oma</ex> antica</hi>
+                    </bibl> erkundigen:
+                    wie stark das Manuscript sey, und welche Art von Kupfern, und wieviel – mit den
+                    erforderlichen Unkosten hiezu – er dafür nothwendig bestimme u.s.w.? – aber
+                    sagen Sie mir auch zugleich, welches <hi rendition="#aq">Honorar</hi> ihm für
+                    den Bogen anzubieten wäre. – Sollte <persName key="prov_ofd_5yj_gv">Sander</persName> die Sachen seinem Kalkül nicht gemäß finden, so wünschte
+                    ich, daß Sie dieselbe einem andern tüchtigen Unternehmer vorlegen, und soviel
+                    hierüber bestimmen möchten, als vor der Hand es möglich ist. –</p>
+                <p>
+                    <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_m3m_4cj_3v">Sein Werk über die Obelisken</bibl>
+                        </orig>
+                        <note xml:id="nflj_w4b_sv">Zoëga hatte Georg Tatter den Abschluss seines
+                            Werks "De origine Obeliscorum" mitgeteilt, und dieser hatte sich
+                            umgehend an Christian Gottlob Heyne gewandt, um das Buch in Deutschland
+                            bekannt zu machen. Am 21. Januar 1801 schreibt Tatter dazu an Zoëga:
+                            "Eben erhalte ich Heyne's Antwort, mein theurer Freund, und eile, Ihnen
+                            das Resultat seiner Meinung über die in Betreff Ihres Werks zu machenden
+                            Maaßregeln, mitzutheilen. Er sagt: 'mit einem Buchhändler ist nichts zu
+                            machen, sie nehmen nur in Commission und warten nur ab, bis jemand
+                            nachfragt. Eine Kunsthandlung ist für solche Werke, welche gleich eine
+                            Anzahl zum eignen Vertriebe nimmt; ich schreibe heute /18 Jan/ so fort
+                            nach Nürnberg an Frauenholz und mache den Antrag so, daß er gerade zu
+                            von dort aus an Herrn Zoega sich wenden soll. Ferner schreibe ich an
+                            Treuttel und Würz, welche den Kunsthandel mit Bücherhandel und
+                            Frankreich mit Deutschland verbinden.' / Zugleich räth mir Heyne, mich
+                            auch an die Kunsthandlung Artaria in Manheim zu wenden, da er Gründe
+                            hat, dieß nicht selbst zu thun, und verspreche Ihnen, ich will es
+                            versuchen, mir den Canal dahin zu eröffnen. / Ferner schreibt Heyne:
+                            'Was die Ankündigung anlangt, so kann sie für sich wenig oder nichts
+                            bewirken, kein Buchhändler schreibt desweden nach Rom; aber daß die
+                            Notiz sich verbreite, daß das Werk nun erschienen sey, kann helfen. Nun
+                            ist das eine lästige und kostspielige Sache, denn überall muß viel b
+                            ezahlt werden. Aber ein Blatt zur Anzeige kann ich drucken lassen und
+                            mit den nächsten gel. götting. Anzeigen ausgeben lassen, wenn sie es so
+                            gut finden; aus dieser Nachricht wird bald die Notiz auch in andern
+                            Zeitungen und Journale kommen, ohne weitere Mühe. Eben diese Anzeige
+                            können Sie ins französische übersezt, auch als bloße Ankündigung, nach
+                            London für die <hi rendition="#g">Reviews</hi> senden, in den Appendix.
+                            Ich denke auf vorgeschlagnem Wege erreichen wir alle Zwecke.' / Es ist
+                            recht Schade, wie auch Heyne bedauert, daß wir noch kein Exemplar in
+                            Händen haben; als dann könnte sogleich eine umständliche Anzeige in die
+                            gött. gel. Anz. eingerückt werden; denn in den übrigen Jorunalen von
+                            Ansehen läßt sichs mit den baldigen Einrücken nicht so leicht
+                            bewerkstelligen, als bei diesem, b ei dem es von Heyne allein abhängt.
+                            Ich will indessen nach Heyne's Vorschlag eine solche Ankündigung
+                            verfertigen, auch dieselbe Englisch aufsezen; sorgen Sie nur, liebster
+                            Zoega, daß wir auch bald ein Exemplar wenigstens, hieher erhalten. /
+                            Mein Rath ist auch, daß Sie sich mit Frauenholz in ein festes Verhältniß
+                            sezen; das kürzt die Sache ab und Nürnberg ist im Mittelpunkte von
+                            Deutschland; ich wünsche und hoffe herzlich, daß wir diese Angelegenheit
+                            zu Ihrer Zufriedenheit werden in Gang bringen können." Und am 3. Juni
+                            1801 schreibt Tatter in dieser Angelegenheit erneut an Zoëga: "In
+                            Beziehung auf Ihr Werk, liebster Zoega, habe ich Ihnen zu sagen, daß ich
+                            gleich damals, als ich Ihnen zulezt schrieb, aus der Synopsis einen
+                            Auszug verfertigte, den Heyne die Liebe für mich hatte, auf einen
+                            separaten vierthel Bogen abdrucken und den gött. Anzeigen beigeben zu
+                            lassen, ungefähr abgefaßt, wie der Ihrige, den Sie mir zugeschickt
+                            haben. /Sie hatten mir den vollständigen Titel, auch eine Anzeige der
+                            Kupfertafeln in Ihrem damals erhaltnen Briefe mitgetheilt/. In eben der
+                            Zeit verfertigte ich auch englisch eine ähnliche Anzeige, die ich nach
+                            London schickte und Sir William Hamilton versprach, in irgend ein
+                            englisches Journal einrücken zu lassen; ich habe nicht erfahren, was
+                            daraus geworden ist; da ich auch aus Ihrem lezten Briefe sehe, daß sich
+                            schon andere Freunde in England der Sache annehmen wollten, so ist es
+                            gleich viel, ob Hamilton sein Versprechen erfüllt hat, oder nicht. / Mit
+                            vieler Ungeduld erwarte ich nun das mir von Ihnen versprochne Exemplar,
+                            das ich sogleich Heynen zuschicken würde, damit er die Anzeige und
+                            Recension für die gelehrten Blätter daraus verfertigte; denn der Plan
+                            derselben erlaubte nicht, aus Ihrer handschriftlichen Synopsis, ehe noch
+                            das buch selbst zu Händen gekommen war, eine solche Recension
+                            einzurücken, wie mir Heyne damals schrieb. / ich hoffe, daß Sie jezt von
+                            Frauenholz schon Nachricht erhalten haben, ich habe die Anzeige Ihres
+                            Werks auch schon nach Wien befördert. Das Beste wäre, wenn Sie eine
+                            gewisse Anzahl Exemplare nach Deutschland und England abschickten; wenn
+                            ein Mal das Werk da ist, so läßt sich mit ordentlichen Buchhändlern
+                            leicht Uebereinkunft treffen und Ihre Exemplare hätten dann den
+                            Vorsprung, indem ich ohnedes nicht glaube, daß die Chalkographie recht
+                            thätig mit dem auswärtigen Absaze zu Werke gehen wird. Recht viel hätten
+                            wir schon gethan, wenn nur erst eine Recension in Deutschland gelesen
+                            ist; die bloße Anzeige wirkt so viel nicht, weil man die mehr für das
+                            Werk eines Buchhändlers hält, und eine solche Recension von Heyne erregt
+                            Aufsehen. Nach Frankreich sollten auch gleich Exemplare gehen, zumal, in
+                            einem Zeitpunkte, in welchem die Aufmerksamkeit so bestimmt auf Aegypten
+                            gerichtet ist" (Georg Zoëga. Briefe und Dokumente, Bd. IV, 2013, Nr.
+                            862, S. 310-311 und Nr. 885, S. 354-355).</note>
+                    </seg> ist immer noch nicht publizirt, und zwar aus Mangel an Geld, um die
+                    angefangenen Kupfer beendigen zu laßen. –</p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie wohl! Ich bin wie immer<lb/>Ihr</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

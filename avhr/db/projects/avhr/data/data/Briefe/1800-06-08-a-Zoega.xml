@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_ldd_4wt_rv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Georg Zoega. Berlin, den 8. Juni 1800. Sonntag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Universitäts- und Landesbibliothek Bonn</institution>
+                        <repository>Nachlass Welcker</repository>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">S 711 (III), 375r-376v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Georg Zoega. Briefe und Dokumente, Bd. IV, 2013,
+                            Nr. 830, S. 237-240</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1800-06-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ijp_xvr_xr">Zoega, Georg</persName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_s1j_dh1_rx"/>
+                    <ref type="next" target="prov_ogj_p5j_sv"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlino 8. giugno 1800</dateline>
+                    <salute/>
+                </opener>
+                <p>Con sommo ed unico piacere ho ricevuto la vostra, Caro amico! ma disgraziatamente
+                    in un tempo, dove tutti i <seg type="comment">
+                        <orig>nostri Libraj</orig>
+                        <note xml:id="ng4z_nlb_b1b">Brief erschlossen:
+                            [1800-05-vor03x-v-Zoega].</note>
+                    </seg> erano partiti per <seg type="comment">
+                        <orig>la fiera di <placeName key="prov_lxk_b4b_z5">Lipsia</placeName>
+                        </orig>
+                        <note xml:id="ndbz_q31_rx">Die Leipziger Oster- oder Jubilatemesse des
+                            Jahres 1800 begann am 4. Mai (am 3. Sonntag nach Ostern). Sie dauerte in
+                            der Regel drei Wochen.</note>
+                    </seg>. Ecco la ragione, che ritarda questa mia risposta. <seg type="comment">
+                        <orig>Scrissi subito dopo la ricevuta della vostra ad un pajo di libraj
+                            capaci a simili intraprese, ma la loro risposta non contenne niente di
+                            concludente</orig>
+                        <note xml:id="nd54_z31_rx">Derartige Briefe von und an Hirt sind nicht
+                            bekannt. Da weder die Namen der Buchhändler - außer dem im Folgenden
+                            erwähnten Sander -, ermittelt, noch die Existenz der Briefe sicher
+                            nachgewiesen werden konnten, wurden keine entsprechenden Briefe
+                            erschlossen.</note>
+                    </seg>, e per questo era necessario di aspettare il loro ritorno. - Vi dico in
+                    parentesi, che nel tempo <seg type="comment">
+                        <orig>che scrissi a <persName key="prov_hph_d2l_cv">Tatter</persName>
+                        </orig>
+                        <note xml:id="ns2c_4k1_rx">Brief erschlossen: [1800-03-vor09x-a-Tatter]. -
+                            Am 15. Mai 1800 hatte Tatter aus Hannover an Zoega geschrieben: "Hirt
+                            schreibt mir selten; aber ich erfuhr manches und oft von ihm durch den
+                            Doctor, so lange der noch in Berlin war; jezt wird wol unser
+                            Briefwechsel selbst wieder anfangen und des Doctors Stelle ersezen."
+                            (Zoega, Briefe, Nr. 827, S. 229). Am 15. Januar 1801 schreibt Tatter an
+                            Zoega: "Von Hirt erfahre ich selten was, er schreibt nach löblichem,
+                            alten Brauche nur bei besondern Veranlassungen" (ebd., Nr. 859, S. 306);
+                            und am 3. Juni 1801 heisst es in einem weiteren Brief Tatters an Zoega:
+                            "Von Hirt erfahren wir jezt gar nichts mehr." (ebd., Nr. 885, S.
+                            357).</note>
+                    </seg>, <seg type="comment">
+                        <orig>per incoraggi<unclear>arvi</unclear> ad una simile
+                                intrapre<unclear>s</unclear>[r?]a</orig>
+                        <note xml:id="nqt3_5q1_rx">Tatter hatte sich lange in Italien aufgehalten:
+                            1792 für ein halbes Jahr als Begleiter des Prinzen August von England
+                            und ab 1793 für 4 1/2 Jahre, bis er 1797 wieder in Hannover eintraf. In
+                            Italien betrieb er archäologische und kunsthistorische Studien und wurde
+                            Mitglied der Königlichen Akademie der Wissenschaften zu Neapel und der
+                            Gesellschaft der Arcadier zu Rom.</note>
+                    </seg>, era vivente il Barone <persName key="prov_amk_hvr_js">Erdmannsdorf</persName> a <placeName key="prov_qht_zxr_js">Dessau</placeName>, <seg type="critical">
+                        <orig>morto</orig>
+                        <note xml:id="nhdr_q2v_rv">Erdmannsdorff starb am 9. März 1800 in
+                            Dessau.</note>
+                    </seg> adesso pochi mesi fa. Era colui che voleva intraprendere la <bibl sameAs="prov_r5g_ypm_rv">publicazione</bibl> di tali vostri lavori, come
+                    direttore <seg type="comment">
+                        <orig>dell'<orgName key="ed_r2l_1nx_31b">istituto calcografico</orgName>
+                        </orig>
+                        <note xml:id="ndlw_kt1_rx">Die Chalkographische Gesellschaft zu Dessau wurde
+                            1795 als Kupferstecher-Gesellschaft gegründet. Im Folgejahr kaufte Franz
+                            von Anhalt-Dessau den Verlag auf, Künstlerischer Leiter wurde Friedrich
+                            Wilhelm Freiherr von Erdmannsdorff, Kaufmännischer Direktor war
+                            Friedrich Johann Justin Bertuch (vgl. dazu u.a.: Susanne Netzer: Die
+                            Chalcographische Gesellschaft zu Dessau. Profil eines Kunstverlags um
+                            1800. Ausstellung Kunstsammlungen der Veste Coburg, Coburg 1987. -
+                            Joachim Kruse: Dass., Ausstellung Goethe-Museum, Düsseldorf 1990. -
+                            Jürgen Laubner: Die Chalkographische Gesellschaft. Anspruch und
+                            Wirklichkeit einer Aktiengesellschaft in Dessau um 1800. Halle a. d.
+                            Saale 1997). </note>
+                    </seg>, eretto alcuni anni fà, a <placeName key="prov_qht_zxr_js">Dessau</placeName>: e non dubito che la cosa sarebbe stata in buonissime
+                    mani, se lui avesse vissuto ma adesso l'istituto manca di una testa capace per
+                    intraprese simili, perciò non ho neppure tentato d'informarmene appresso la
+                    direzione presente: Giudicando che l'affare so tratterebbe molto meglio per un
+                    librajo, intendente, e di solidità, tanto più che essendo <bibl sameAs="ed_icg_gtg_yv">l'originale vostro in italiano</bibl>, e
+                        facendo<unclear>si</unclear>[re?] <bibl sameAs="prov_r5g_ypm_rv">
+                        <bibl sameAs="ed_cym_dsg_yv">la publicazione</bibl>
+                    </bibl> nel luogo, dove sto, potrò sempre meglio invigilare e all'esattezza
+                    della traduzione, come agli altri vostri interessi. - Ecco adesso fin'ora il
+                    concluso: <seg type="comment">
+                        <orig>Il libraro <persName key="prov_ofd_5yj_gv">Sander</persName>, per la
+                            di cui onestà ed intelligenza posso garantirvi, vuole fare
+                            l'intrapresa</orig>
+                        <note xml:id="nqxx_jhn_rx">Das Projekt wird nicht realisiert. "Die antiken
+                            Basreliefe von Rom" erscheinen erst 1811, nach Zoegas Tod. </note>
+                    </seg>: 1<hi rendition="#sup">
+                        <hi rendition="#u">mo</hi>
+                    </hi> egli è con voi e con me d'opinione di fare la publicazione per cahier, e
+                    come proponete ciasched'un cahier di 12. Rami. 2<hi rendition="#sup">
+                        <hi rendition="#u">do</hi>
+                    </hi> egli <del rendition="#s" next="lascia">ni</del> lascia la scelta, e
+                    l'ordine de' monumenti intieramente al vostro giudizio. 3<hi rendition="#sup">
+                        <hi rendition="#u">o</hi>
+                    </hi> Egli desider<subst>
+                        <del rendition="#s">xxx</del>
+                        <add>rebbe</add>
+                    </subst> almeno nell'anno la publicazione di due cahiers, cioè uno per la fiera
+                    di pasqua, e l'altro per quella di S. Michele. 4<hi rendition="#u">
+                        <hi rendition="#sup">to</hi>
+                    </hi> I Rami, come i disegni si farebbero <pb n="2"/> sotto i vostri occhj a
+                        <placeName key="prov_vkl_ndl_js">Roma</placeName>: ma per risparmiar spese,
+                    e rendere l'opera vendibile ad un gran numero di dilettanti, non ci vorrebbe
+                    altro, che contorni precisi, con indicazione delle mancanze e delle
+                    ristaurazioni. 5<hi rendition="#u">
+                        <hi rendition="#sup">to</hi>
+                    </hi> Voi scegliereste, contrattereste, e paghereste i disegnatori, ed incisori,
+                    come se fosse intrapresa unica vostra. 6<hi rendition="#sup">
+                        <hi rendition="#u">to</hi>
+                    </hi> Per questo sarebbe necessario, d'informarvi al preciso delle spese per il
+                    quinterno di 12. Rami, e di notificarmi tanto presto che possibile una tale
+                    somma: acciòche il librajo possa fare il suo calcolo, e vedere, se l'opera non
+                    sia troppo costosa per il pubblico. 7<hi rendition="#u">
+                        <hi rendition="#sup">mo</hi>
+                    </hi> quanto all'onorario per il vostro manuscritto il librajo non vi offre
+                    adesso, ma egli non dubita, che vi accorderete facilmente, quando le spese per i
+                    disegni e i Rami si possano avere ad un prezzo mercantile. Intanto egli brama,
+                    che nella futura vostra vi aggiungeste le richie<unclear>s</unclear>[r?]te
+                    giuste. 8<hi rendition="#u">
+                        <hi rendition="#sup">mo</hi>
+                    </hi> Sapendo tali spese, egli vi avanzarebbe la somma per ogni quinterno, per
+                    pagare gli artisti subito: le spese<add place="superlinear" hand=""> ed il
+                        rischio</add> del trasporto o con la posta, e forse per altra strada sarebbe
+                    unicamente per il librajo: il vostro Onorario sarebbe pagato
+                        s<unclear>u</unclear>bito che i Rami col manuscritto vostro sarebbero
+                    arrivati a <placeName key="prov_ycp_cpr_js">Berlino</placeName>, e colla
+                        mede<unclear>s</unclear>ima ambiale si mandarebbe la somma per il nuovo
+                    quinterno: cosi che l'intrapresa resterebbe <add place="superlinear" hand="">in</add>interrotto. 9<hi rendition="#u">
+                        <hi rendition="#sup">o</hi>
+                    </hi> quanto alla forma, e grandezza de' Rami, il librajo ha molte ragione di
+                    non publicare l'opera in folio, ma nella grandezza della presente carta, sulla
+                    quale vi scrivo. Anche per risparmio di Rami, e di carta, egli desidererebbe più
+                    objetti sull'istesso rami, dove cioè la cosa sarebbe fattibile. Del resto la
+                    carta e per i Rami, e per <add place="superlinear" hand="">la</add> stampa
+                    sarebbe buona, e tutta l'edizione si farebbe con somma polizia, così <add place="superlinear" hand="">che</add> sono persuaso, che sareste più, che
+                    contento. Ecco, caro amico, i preliminarj di questa negoziazione, che spero, si
+                    finirà col<unclear>le</unclear> vostro e nostro contentamento. <pb n="3"/> voi
+                    potreste principiare subito colle vostre memorie sul<damage/>
+                    <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_mkw_3nb_b1b">culto mithriaco</bibl>
+                        </orig>
+                        <note xml:id="nmc1_3x1_rx">Vgl. Bassirilievi di Roma, Tav. LVIII, LIX. -
+                            Zoega trug die Abhandlung im Römischen Institut am 10. Mai 1798, in der
+                            folgenden Sitzung und am 1. Februar 1799 vor. Das Manuskript "Memoria
+                            sui Monumenti Romani spettanti al culto Mithriaco, cum excerptis ad
+                            eandem rem pertinentibus" (1798, Königl. Bibliothek Kopenhagen) wurde
+                            zuerst gedruckt in dänischer Übersetzung in den Schriften der Königl.
+                            Gesellschaft der Wissenschaften zu Kopenhagen, 4. Bd. für 1805 und 1806,
+                            S. 113-232. - In deutscher Übersetzung "Ueber die den Dienst des Mithras
+                            betreffenden Römischen Kunstdenkmäler" gedruckt in: Georg Zoegas
+                            Abhandlungen. Herausgegeben und mit Zusätzen begleitet von Friedrich
+                            Gottlieb Welcker. Göttingen 1817, S. 89-210 (= Übersetzung aus dem
+                            Originalmanuskript in Kopenhagen). Welcker schreibt dazu S. V: "In
+                            Ansehung der Schrift über den Mithras war es lang meine Absicht, den
+                            Theil, welchen der Verfasser für zwey Artikel der <foreign xml:lang="Lat">Bassirilievi di Roma</foreign> herausgehoben hatte,
+                            und welcher das Allgemeine über Mithras und Aeon enthält,
+                            auszuschliessen, und also diese Artikel hier nur zu vervollständigen. Da
+                            aber jenes Werk seines größeren Umfangs wegen in nicht allzuviele Hände
+                            kommen kann, so habe ich nachher [...] geglaubt, der Bequemlichkeit und
+                            dem Wunsche der meisten Leser zu dienen, wenn ich beyde Theile in ihrem
+                            ursprünglichen Zusammenhang wieder vereinigte, so wie es Zoegas Absicht
+                            gewesen ist, sie in einem Werk, wenn es fortgesetzt worden wäre,
+                            zusammenzubringen." - Siehe auch den Nachtrag des Herausgebers "Zur
+                            vierten Abhandlung über die Mithrischen Denkmäler", ebd., S. 394-416.
+                        </note>
+                    </seg>, avendo le già pronte. Egli s'intende che non dareste solamente
+                    bassirilievi, ma anche quelli monumenti, che sarebbero a proposito per la
+                    maggiore illustrazione della materia che trattareste.</p>
+                <p>
+                    <persName key="prov_ofd_5yj_gv">Il librajo</persName> istesso intraprenderebbe
+                    anche volontieri la vostra <bibl sameAs="prov_znn_hqm_rv">topografia di Roma
+                        antica</bibl>. Se pensaste dunque a pu<unclear>blicarla</unclear>, datene
+                    una notizia più precisa: anche per rapporto ai Rami necessarj, ed anche di
+                    quelli, coi quali vorreste ornar l'edizione. S'intende che dareste anche sopra
+                    di une apperçue delle spese, che ci vorrebbero. Credete mi, la <placeName key="prov_xym_pdx_w5">Germania</placeName> è l'unico paese nell'<placeName key="prov_ebw_npv_rv">Europa</placeName>, dove cose simili sono ben ricevute
+                    e stimate. Compiango lo stato del <bibl sameAs="prov_m3m_4cj_3v">vostro libro
+                        sugli obelischi</bibl>. i tedeschi lo desiderano da lungo tempo ma posso
+                    figurarmi l'infelice stato di <placeName key="prov_vkl_ndl_js">Roma</placeName>,
+                    e quanto ci vorrà, a ricondurre i tempi passati di quiete a di sonno. La mia
+                    sorte voleva saluarmi ancora in tempo in <seg type="comment">
+                        <orig>un porto quieto</orig>
+                        <note xml:id="nr5t_pkh_rx">Hirt kam nach 14-jährigem Aufenthalt in Italien
+                            im Herbst 1796 nach Berlin. Er verließ Rom, bevor die Franzosen es
+                            besetzten und die Kunstschätze plünderten.</note>
+                    </seg> e <unclear>sicuro</unclear>, ma la mia mente non ha mai cessato a volgere
+                    gli occhi verso il paese, che mi diventò un'altra patria, e dove tutta la mia
+                    rimembranza e studio se fissat<unclear>a</unclear>[o?] per sempre. questi tempi
+                    di sconvolgimento (che per disgrazia non sono ancora passati) mi hanno fatto
+                    soffrire qualche volta più nell'imaginazione, che forse ne avete sofferto voi in
+                    realtà. ho saputo in tempo l'ajuto che <seg type="comment">
+                        <orig>havete ricevuto dalla vostra patria</orig>
+                        <note xml:id="nmjq_zkh_rx">1790 war Zoega Mitglied der Kunstakademie in
+                            Kopenhagen geworden, der er für ein jährliches Honorar von 100
+                            Reichstalern Monatsberichte über den Zustand der Künste in Italien
+                            sandte. Im Februar 1798 wurde er zum dänischen Agenten und Konsul
+                            ernannt mit einem Gehalt von 300 Reichstalern. Er berichtete u.a. über
+                            Geld- und Handelssachen nach Kopenhagen. Im gleichen Jahr wurde er zum
+                            Mitglied der dänischen Gesellschaft der Wissenschaften ernannt. </note>
+                    </seg>, e questo mi fù, come potete credere, di vera consolazione. prendo
+                    sincera parte de' dettagli che mi date della vostra famiglia, mi trovo non rade
+                    volte in mezzo a voi, e entro in ogni vostra situazione. Salutate la <persName key="prov_tfl_sbl_cv">Sig<hi rendition="#sup">
+                            <hi rendition="#u">ra</hi>
+                        </hi> Maria</persName>, e <seg type="comment">
+                        <orig>
+                            <persName key="ed_ivv_xym_rx ed_s21_bzm_rx">le figlie</persName>
+                        </orig>
+                        <note xml:id="nlrt_k4h_rx">Zoegas Töchter Laura und Isidore (Isis).</note>
+                    </seg>, se esse si ricordano di me. - Io meno ancora sempre la mia vita isolata
+                    di <placeName key="prov_vkl_ndl_js">Roma</placeName>: e sarà difficile, che sarà
+                    mai altrimenti. Noi viviamo quieti e liberi: la società è eccellente: e l'amore
+                    per le scienze come anche la cultura del sesso generale. Intanto la natura del
+                    mio studio mi forza a ristringermi alle Società di poche persone.<del rendition="#s" next="Sin'ora"> Sti</del> Sin'ora sono stato <add place="superlinear" hand="">qui</add> più studente che scrivente: e benchè
+                    io non abbia altra occupazione, che quella de' m<unclear>iei</unclear> studj
+                    favoriti, non ho potuto arrivare alla publicazione d'un'Assieme. Eccettuate
+                    alcune dissertazioni <pb n="4"/> nelle <bibl sameAs="ed_i32_gwl_hw">memorie
+                        dell'academia delle scienze</bibl>, ed in altri giornali. Niente di meno
+                    vorrei trovar un'occasione di <del rendition="#s" next="mandarvi">xxxxxx</del>
+                    mandarvi queste bagatelle, perche riguardano i nostri studj communi. L'opera,
+                    alla quale lavoro da molto tempo, con assiduità, è la <bibl sameAs="ed_cdf_ffp_dw">Teorica della architettura secondo i principj degli
+                        antichi</bibl>, ma ci vorrà un anno sin'alla publicazione. - <persName key="prov_o2t_ybl_cv">Domejer</persName> è partito pochi giorni prima
+                    dell'arrivo della vostra lettera, seguitando <seg type="comment">
+                        <orig>il <persName key="prov_o12_bfx_w5">Principe</persName>
+                        </orig>
+                        <note xml:id="nvvn_qrb_b1b">Zum Aufenthalt des Prinzen August von England in
+                            Berlin und dessen freimaurerische Aktivitäten vgl.
+                            1798-12-07-a-Böttiger.</note>
+                    </seg> a <placeName key="prov_efv_ssv_rv">Londra</placeName>, dove è arrivato
+                    felicemente. <seg type="comment">
+                        <orig>Gli ho già dato parte delle vostre nuove</orig>
+                        <note xml:id="ncwm_sph_rx">Brief erschlossen:
+                            1800-06-vor08x-a-Domeier.</note>
+                    </seg>. Da <persName key="prov_hph_d2l_cv">Tatter</persName> non ho lettera da
+                    molto tempo, benchè lui sia molto esatto nella sua correspondenza. Jeri ho
+                    ricevuto il <seg type="comment">
+                        <orig>secondo tomo dell'Archeologia</orig>
+                        <note xml:id="nisb_wqh_rx">Joh. Phil. Siebenkees ehemaligen Professors der
+                            Philosophie zu Altdorf Handbuch der Archaeologie oder Anleitung zur
+                            Kenntniss der Kunstwerke des Alterthums und zur Geschichte der Kunst der
+                            alten Völker. Zweyte Abtheilung. Nürnberg: in der Steinischen
+                            Buchhandlung, 1800. - Der 1. Band war Nürnberg 1799 erschienen. - Johann
+                            Philipp Siebenkees war am 25. Juni 1796 in Altdorf bei Nürnberg
+                            gestorben. </note>
+                    </seg> del defunto <persName key="prov_fvf_ftv_rv">Siebenkees</persName>. il suo
+                    sistema è restato molto imperfetto, e pieno di mancanza, ed errori: e sarebbe
+                    stato meglio di non publicarla. - La rabbia di scrivere è sempre l'istesso in
+                        <placeName key="prov_xym_pdx_w5">Germania</placeName>, e <seg type="comment">
+                        <orig>l'ultimo catalogo della <add place="superlinear" hand="">ultima</add>
+                            fiera di <placeName key="prov_lxk_b4b_z5">Lipsia</placeName>
+                        </orig>
+                        <note xml:id="nkdl_1sh_rx">Allgemeines Verzeichniß der Bücher, welche in der
+                            Frankfurter und Leipziger Ostermesse des 1800 Jahres entweder ganz neu
+                            gedruckt, oder sonst verbessert wieder aufgelegt worden sind, auch
+                            inskünftige noch herauskommen sollen. Leipzig, in der Weidmannschen
+                            Buchhandlung.</note>
+                    </seg> forma un grossissimo volume: si scrive sopra ogni scibile: e mai è stato
+                    un maggior traffico d'idee come in nostri tempi da Noi. <persName key="prov_g5d_v2p_5r">Böttiger</persName> tra i altri suoi infiniti lavori,
+                    la maggior parte antiquarj, continua le sue spiegazioni de' <bibl sameAs="prov_bjq_czj_gv">vasi greci</bibl> - già spiegati da <persName key="prov_v4n_3lr_gv">Italinsky</persName>. Lo studio dell'antica
+                    litteratura è estesissima, <seg type="comment">
+                        <orig>e si pubblicano nuove edizioni</orig>
+                        <note xml:id="nfz1_h5h_rx">Tischbein [zusammen mit Italinsky und Hamilton]:
+                            Collection of engravings from ancient vases mostly of pure Greek
+                            workmanship discoverd in sepulchres in the Kingdom of two Sicilies but
+                            chiefly in the neighbourhood of Naples during the course of the years
+                            MDCCLXXXIX and MDCCLXXXX: now in the possessions of Sir W. Hamilton with
+                            remarks on each vase by the collector (3 Bde., Neapel 1791-1795). -
+                            Böttiger: Griechische Vasengemälde. Mit archäologischen und artistischen
+                            Erläuterungen der Originalkupfer [von J. W. Tischbein]. Herausgegeben
+                            von C. A. Böttiger. 1<hi rendition="#sup">sten</hi> Bandes 1<hi rendition="#sup">stes</hi>- 2<hi rendition="#sup">tes</hi> Heft.
+                            Weimar: Industrie-Comtoir, 1797-1798. 3<hi rendition="#sup">tes</hi>
+                            Heft. Magdeburg: Keil, 1800. - Gemeint ist hier das 3. Heft von
+                            Böttigers und Tischbeins Werk "Griechische Vasengemälde". - Tischbein
+                            hatte bereits Anfang der 1790er Jahre aus Neapel Böttiger diese neue
+                            Ausgabe angetragen. Am 27. Mai 1795 schreibt Tischbein: "Mein werther
+                            Herr Botiger! Sie werden einige Kupferstiche bey Ihrer Durchlaucht der
+                            Herzogin sehen, die nach Vasen gezeichnet sind, welche auser dem Werk
+                            des Hamiltons sind. wo von wir ein ganz neues Werk machen können. Ich
+                            habe Zeichnungen genug das wir eben so viele theile machen können als
+                            die Hamiltons und dieses kann nicht anders als Ihnen lieb sein das Sie
+                            ein ganz neues Werk schreiben" (zitiert nach: Sternke / Gerlach:
+                            Briefwechsel Böttiger - Heyne, Erläuterung zu Brief 28 zu Z. 84-85, S.
+                            409).</note>
+                    </seg> - corrette ed illustrate - l'una sopra l'altra.</p>
+                <p>La Filosofia Speculativa resta sempre in gran voga. Il <persName key="prov_szb_rcb_3v">Kantianismo</persName> commincia a invecchiarsi:
+                    avendo <persName key="prov_brv_k5v_rv">Fichte</persName> guadagnato molto sopra
+                    di lui. ma adesso s'é levato un nuovo lume, nominato <persName key="prov_tcr_x5v_rv">Bardili</persName> di <placeName key="prov_o5c_fvv_rv">Studtgardia</placeName>, che butta di nuovo giù tutti, che sono mai stati,
+                        <seg type="comment">
+                        <orig>e particolarmente egli combatte il Criticismo di <persName key="prov_szb_rcb_3v">Kant</persName>, e l'idealismo di <persName key="prov_brv_k5v_rv">Fichte</persName>
+                        </orig>
+                        <note xml:id="nydd_ttb_b1b">Hier wohl Bardilis zu dieser Zeit gerade
+                            erschienene Hauptschrift "Grundriß der Ersten Logik, gereinigt von den
+                            Irrthümern bisheriger Logiken überhaupt, der Kantischen insbesondere;
+                            Keine Kritik, sondern eine Medicina mentis, brauchbar hauptsächlich für
+                            Deutschlands Kritische Philosophie" (Stuttgart 1800) gemeint, die mit
+                            der Widmung "Der Berliner Akademie der Wissenschaften, den Herren
+                            Herder, Schlosser, Eberhard, Jedem Retter des erkrankten Schulverstandes
+                            in Deutschland, mithin vorzüglich auch dem Herrn Friedrich Nicolai
+                            widmet dies Denkmal die deutsche Vaterlandsliebe." versehen war. - Zu
+                            Bardilis Kritik an der Kantschen Philosophie siehe auch dessen frühere
+                            Schriften "Sophylus oder Sittlichkeit und Natur als Fundamente der
+                            Weltweisheit. In zwey Gesprächen. Nebst einer Abhandlung über den Geist
+                            des Zeitalters" (Stuttgart 1794), "Allgemeine praktische Philosophie"
+                            (Stuttgart 1795), "Ueber den Ursprung des Begriffes von der
+                            Willensfreiheit" (Stuttgart 1796), "Ueber die Gesetze der
+                            Ideen-Association und insbesondere ein bisher unbemerktes Grundgesetz
+                            derselben" (Tübingen 1796), "Briefe über den Ursprung einer Metaphysik
+                            überhaupt" (Altona 1798).</note>
+                    </seg>. Bisogna essere spettatore di simili revoluzioni, per averne una idea.
+                    l'istesso combattimento è nella teoria del bello, nella medicina, nella chimia,
+                    nella politica, e sin' nella storia. <persName key="prov_hwd_hmp_5r">Goethe</persName> publica da un anno un giornale, unicamente consacrato
+                    alle belle arti sotto il nome, <bibl sameAs="prov_imx_wvf_kv">Propylæen</bibl> -
+                        <persName key="prov_hy4_jx2_rs">Herder</persName> viene da dare una nuova
+                    opera - <bibl sameAs="prov_ipr_2kb_sv">Über das Angenehme u. Schoene</bibl>. -
+                    Salutate <persName key="prov_ffk_snl_cv">Uhden</persName> ed altri conoscenti
+                    nostri, anche la <persName key="prov_wmk_lxw_g5">Sig<hi rendition="#u">
+                            <hi rendition="#sup">ra</hi>
+                        </hi> Angelica</persName>, se la vedete.
+                    Spero presto avere delle vostre nuove: sono di mente e di cuore, invariabilmente
+                    - </p>
+                <closer rend="paragraph">
+                    <salute>il vostro amico vero</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

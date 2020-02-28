@@ -1,0 +1,54 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_n3w_2hd_2w">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Aubin Louis Millin de Grandmaison. Paris, vor 24. März 1807]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Millin an Böttiger, Paris, 24. März 1807: „j'ai ecrit à MM. Hirt et
+                    Levezow a Berlin“ (zitiert nach: Geneviève Espagne / Bénédicte Savoy (Hrsg.):
+                    Aubin-Louis Millin et l'Allemagne. Le Magasin encyclopédique - Les lettres à
+                    Karl August Böttiger. Hildesheim 2005, S. 441).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_o42_5tg_yv">Millin de Grandmaison, Aubin Louis (1759-1818)
+                        (franz. Archäologe)</persName>
+                    <placeName key="prov_tnd_dt1_5v">Paris</placeName>
+                    <date from="1807-01-01" to="1807-03-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sg4_pq3_nx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 29. Oktober 1822.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 44</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-10-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_m1n_brp_nx"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 29<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        October 1822</dateline>
+                    <salute>Mein verehrter Freund!</salute>
+                </opener>
+                <p>Wahren Antheil nehme ich, wie andere Ihrer hiesigen Freunde, an Ihrem Befinden,
+                    und bedauere, <seg type="comment">
+                        <orig>daß es mit Ihrer Herstellung so langsam geht</orig>
+                        <note xml:id="nov4_tcq_nx">Vgl. <ref target="hirt_gql_nvd_lx/#no3y_r3r_lx">1822-07-09-a-Böttiger: Sachanmerkung</ref>
+                        </note>
+                    </seg>; <seg type="comment">
+                        <orig>indeßen sehe ich in einem Postscript gern Ihre eigene Hand.</orig>
+                        <note xml:id="ntzs_5cq_nx">Brief erschlossen:
+                            [1822-10-vor29x-v-Böttiger].</note>
+                    </seg>
+                </p>
+                <p>Ihre neueste Gabe: <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_fbp_qfq_nx">Der Händezoll</bibl>:</orig>
+                        <note xml:id="nolx_gdq_nx">[Karl August Böttiger]: I. Der Hände-Zoll an die
+                            dramatische Muse bezahlt. Von Böttiger. O.O., o. J. [Dresden 1822, 40
+                            S.]. Darin heisst es im Vorwort: "Der hier mitgetheilte Aufsatz gehört
+                            zu einer Reihe von Abhandlungen über das Theaterwesen der Alten, wozu
+                            ich vor vielen Jahren bereits mehrere Abschnitte in lateinischer Sprache
+                            als Einladungsschriften am Gymnasium in Weimar drucken ließ. Er ist nun
+                            der erste in der Reihe. Zwei andere sollen nachfolgen. Der eine wird die
+                            verschiedenen Arten des Klatschens mit den Händen, mit der Zunge und mit
+                            den Füßen behandeln und zeigen, wie die Alten das Klatschen zu einer
+                            eigenen Art von Kunstfertigkeit und Virtuosität brachten. Der zweite
+                            soll alle übrige Arten, Wohlgefallen und Mißfallen, Belehrung und
+                            Bestrafung an die Bühnenkünstler zu spenden, nach den verschiedenen
+                            Klassen und Abstufungen vorzählen. Da wird denn auch die Stelle in
+                            Cicero's Paradoxen (III, 4) 'ein ausgesprochener Vers, wenn er um eine
+                            Sylbe zu kurz oder zu lang ist, wird von den Zuschauern ausgezischt und
+                            ausgeklatscht,' zur Beherzigung unserer Schauspieler, die nach allem,
+                            was Müllner neulichst über Vers und Reim den Schauspielerinnen in die
+                            Tasche gesteckt hat, fortfahren, die Verse aufs kläglichste zu
+                            verkrüppeln, nicht ohne gebührende Erörterungen bleiben. Möge dieser
+                            erste Abschnitt mit Nachsicht beurtheilt werden, da es mir bei einer
+                            noch sehr hemmenden Augenkrankheit nicht gestattet war, dem, was ich
+                            schon vor langer Zeit niedergeschrieben hatte, die letzte Durchsicht und
+                            Feile zu geben. / Den 26. Juni 1822. / Böttiger." - Vgl. auch: Karl
+                            August Böttiger: Der Händezoll an die dramatische Muse bezahlt. Ursprung
+                            des Händeklatschens bei den Griechen und Römern und akustische
+                            Empfänglichkeit des Halbkreises in den Bühnen. In: C. A. Böttiger's
+                            kleine Schriften archäologischen und antiquarischen Inhalts, gesammelt
+                            und herausgegeben von Julius Sillig, Bd. 1, S. 321-337.</note>
+                    </seg> habe ich mit Vergnügen gelesen, und beiden <ex>[!]</ex> andern Exemplare
+                    an <persName key="ed_ttv_m3q_bw">Buttmann</persName> u. <persName key="ed_rhy_vs4_pw">Boeckh</persName> bestellt. Beide bewundern mit mir Ihr
+                    talent, jeden, auch geringfügig scheinenden, Gegenstand zu einer gelehrten
+                    intereßanten Ansicht zu erheben. <seg type="comment">
+                        <orig>Den Aufsaz über <seg type="comment">
+                                <orig>Ihre Ausstellung</orig>
+                                <note xml:id="nuxw_ypq_nx">Seit 1801 fanden in Dresden jährlich
+                                    Akademieausstellungen der Kunst und Industrie statt; die
+                                    Kunstausstellung 1822 begann am 3. August; vgl. Verzeichniß der
+                                    am Augustustage den 3. August 1822 in der Königlich Sächsischen
+                                    Akademie der bildenden Künste zu Dresden ausgestellten
+                                    Kunstwerke. Zum Besten der Armen. Dresden, gedruckt in der
+                                    Gerlachischen Buchdruckery, [1822]. – Ausgestellt waren u.a.
+                                    drei Landschaften von Caspar David Friedrich sowie seine Gemälde
+                                    "Frau am Fenster" ["Des Künstlers Attelier, nach der Natur
+                                    gemalt"], "Ein gescheitertes Schiff auf Grönlands Küste im
+                                    Wonne-Mond", "Eingang zum Kirchhof in Plauen", des weiteren
+                                    mehrere Gemälde von Carl Gustav Carus und von Johann Christian
+                                    Clausen Dahl.</note>
+                            </seg> dort</orig>
+                        <note xml:id="nnq2_gjl_4x">Vgl. die im Auftrag Böttigers verfertigte
+                            Kunstkritik von Friedrich Christian August Hasse "Ueber die Dresdner
+                            Kunstausstellung, am Augustustage, den 3. August 1822. An den
+                            Herausgeber des artistischen Notizenblattes, Herrn Hofrath Böttiger" im
+                            "Artistischen Notizenblatt", 18. Sonnabends den 28. September 1822, S.
+                            69-72, und 19. Sonnabends den 5. October 1822, S. 73-78, mit einem
+                            "Zusatz" von Böttiger ebd., S. 78. – Hasse schreibt zu Beginn: "Sie
+                            wünschen, mein hochverehrter Freund, von mir zu hören, was ich in den
+                            Sälen der K. Akademie der bildenden Künste von der dießjährigen
+                            Ausstellung Bemerkenswerthes gesehen habe. Hätte ich doch diese reiche
+                            Spende des vaterländischen Kunstbaums an Früchten, Blüthen und Knospen
+                            mit Ihnen zugleich betrachten können! Doch schon hat die glückliche Hand
+                            der Freundschaft und der Kunsterfahrung den Schleier gehoben, der das
+                            kranke Auge deckte; – nur einige Wochen noch Ruhe, Schonung – darum
+                            bitten Ihre Freunde –, und Ihr Blick, der zu lange für uns, bloß der
+                            Erinnerungs-Welt sich zugewandt hatte, wird das äußere Leben wieder
+                            umfassen! / Diese Hoffnung gibt mir wohl den Muth, einmal Ihr Augenglas
+                            zu seyn." (S. 69). </note>
+                    </seg> möchte ich gerne mit einigen Notizen <seg type="comment">
+                        <orig>über die unsrige hier</orig>
+                        <note xml:id="nyjt_zll_4x">Vgl. "Verzeichniß derjenigen Kunstwerke, welche
+                            von der königlichen Akademie der Künste in den Sälen des
+                            Akademie-Gebäudes auf der Neustadt den 22. September und folgende Tage
+                            öffentlich ausgestellt sind. An den Wochentagen von 10 bis 5 Uhr;
+                            Sonntags von 11 Uhr an. Berlin, 1822" (in: Helmut Börsch-Supan: Die
+                            Kataloge der Berliner Akademie-Ausstellungen 1786-1850, Bd. 1).</note>
+                    </seg> erwiedern, aber leider habe ich bis iezt so wenig Zeit gefunden, daß ich
+                    dieselbe nur einmal flüchtig durchgegangen bin. Sie scheint mir indeßen viele
+                    vorzüge vor den Vohergehenden zu haben, und man wird gewahr, daß die Kunst immer
+                    mehr und erfreulicher unter uns erwacht. <seg type="comment">
+                        <orig>Auch die Süddeutschen aus <placeName key="ed_tmd_sml_4x">Bayern</placeName> her, stellen uns Treffliches vor die
+                            Augen</orig>
+                        <note xml:id="nvw1_snl_4x">Der Katalog verzeichnet: "Jakob Dorner, in
+                            München, Mitglied der Akademie: 45. Eine Mühle bei Jennbach." – "Joseph
+                            Wagenbauer, in München, Mitglied der Akademie: 99. Ein Viehstück." –
+                            "Herr Albrecht Adam, in Bayern: 107. Drei Pferde ziehen einen Wagen
+                            einen Berg hinauf." – "Herr W. Barth, in München: 117. Gegend von
+                            Moskau." – "Herr Peter Heß, in München: 173. Schlachtstück. Oestreicher
+                            überrumpeln Franzosen bei einem Wirthshause." – "Herr Heinrich Heß, in
+                            München: 174. Der Heilige Lukas malt die Jungfrau mit dem Christuskinde;
+                            zur Seite St. Johannes." – "Herr Thomas Mattenheimer, in München: 205.
+                            Ein Fruchtstück". – "Herr Quaglio, in München: 218. Der Dom zu Lausanne.
+                            / 219. Ansicht von einem Theile der Stadt Frankfurth am Main." – "Herr
+                            Michael Schritzler, in München: 224. Eine Moosgrille mit verschiedenen
+                            Vögeln." – "Herr Simon Warnberger, in München: 260. Gegend und Aussicht
+                            auf das Schloß Tegerichne".</note>
+                    </seg>, besonders in den niedrigern Kunstfächern. Sie sind wirklich auf der
+                    Spur, dort ein neues <placeName key="prov_hll_2st_y5">Holland</placeName> zu
+                    schaffen. Sie haben Sinn für Farbe und Ausführung. <pb n="2"/> Bey uns hat das
+                    Porträt viel gewonnen; doch noch nicht genug, um öffentlich davon zu sprechen,
+                    und in den historischen Mahlereyen entstehen eher Wagniße als Geprüftes; indeßen
+                    läßt uns das Gegebene nicht ohne Aussichten, besonders ist man zum theil auf
+                    einem beßern Wege der Farbe. – <seg type="comment">
+                        <orig>Der Bildnerey giebt es mancherley in Marmor und in Erz</orig>
+                        <note xml:id="ntkw_1ql_4x">Ausgestellt waren Arbeiten von Johann Gottfried
+                            Schadow, Christian Daniel Rauch, Friedrich Tieck, Ludwig Wichmann;
+                            genannt werden weiterhin "Herr Riese, Modellmeister der Königlichen
+                            Porzellan-Manufaktur", "Herr J. Rathgeber, Hofbildhauer in Gotha", "Herr
+                            J. Simony, Akademischer Künstler", W. I. Imhoff, "Herr Hopfgarten.
+                            Gußwerke nach Modellen von Rauch", "Herr Coue. Ciselir-Werke", "Herr
+                            Lequine. Gußwerke", Emil Wolf, "Eleve der Akademie", Heinrich Kaehler,
+                            "Eleve der Akademie", Franz Sanguinetti, "Eleve der Akademie", Adolph
+                            Breunlich, "Schüler des Professor Rauch", Theodor Kalide, "Schüler des
+                            Professors Rauch", August Behrends, "Schüler des H. F. Simony", Karl
+                            Rentz, L. Jachtmann, Arbeiten aus D. Loos, Sohn, Medaillen-Anstalt, vom
+                            Medailleur Karl Friedrich Voigt, vom Modelleur Frank und vom königl.
+                            Münz-Medailleur Götze; sowie Gußwaren von der Königlichen Eisengießerei
+                            bei Berlin und von der Königlichen Eisengießerei zu Saynerhütte bei
+                            Ehrenbreitstein.</note>
+                    </seg>; aber vorragend ist nur Einer - welcher freylich auch gegen die besten
+                    der neuern und neuesten Zeit nicht zurücksteht. <seg type="comment">
+                        <orig>
+                            <persName key="ed_p41_xpz_lw">Rauch</persName>
+                        </orig>
+                        <note xml:id="nmgp_rrl_4x">Von Rauch, "Mitglied des Senats der Akademie",
+                            verzeichnet der Katalog folgende Werke: "Bildhauer-Werke in Marmor: 320.
+                            Ein neun Fuß hoher Kandelaber, vom Königl. Preuß. Offizier-Korps dem
+                            Grafen La Rothe Jaquelin bestimmt. / 321. Die Porträtstatue eines
+                            sitzenden eilfjährigen Mädchens. / 322. Die Büste Sr. Kais. Hoheit des
+                            Großfürsten Nicolas von Rußland; nach dem Leben. / 323. Die Büste der
+                            Frau Hofmarschallin von Malzahn, nach dem Leben. / 324. Die Büste
+                            Goethe's, nach dem Leben. / Gußwerke in Erz: 325. Die kolossale Büste
+                            Sr. Durchl. des Feldmarschalls Fürsten Blücher von Wahlstadt; gegossen
+                            von Lequine; ciselirt von Vuarin. / 326. Die Büste Sr. Kais. Hoheit des
+                            Großfürsten Nicolas, gegossen von Hopfgarten; ciselirt von Coue. / 327.
+                            Die Büste Goethe's; gegossen von der Königl. Eisengießerei; ciselirt von
+                            Vuarin. / 328. Büste Sr. Durchl. des Fürsten Blücher, gegossen von
+                            Lequine; ciselirt von Vuarin"; weiterhin fünf Modelle in Gips.</note>
+                    </seg> hat den höhern Sinn für Kunst, wenn wir gleich noch manches Geprüftere an
+                        <del rendition="#s">ihm</del> seinen Werken wünschen möchten. Das Technische
+                    in Marmor hat er weg, wie keiner der neuern Zeit; das <persName key="prov_fwx_wdb_3v">
+                        <hi rendition="#aq">Michelangelo</hi>ische</persName> Zeitalter nicht
+                    ausgenommen.</p>
+                <p>Diesen Sommer habe ich nichts thun können. Ich war im Kerker der 
+                        <persName key="ed_dgx_jml_vw">
+                        <hi rendition="#aq">Solly</hi>schen</persName>
+                    <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs>, um etwas
+                    Ordnung und Licht in das unendliche <hi rendition="#aq">chaos</hi> zu bringen.
+                    Die Classen nach Epochen, Schulen und Landmannsschaften sind gesondert. Die
+                    Sammlung ist in den Meisten bedeutend reich. Das Verzeichniß geht über 3000
+                    Stück. Zwar giebt es dabey ein bedeutender Ausschuß, und da die Auswahl für das
+                        <hi rendition="#aq">
+                        <placeName key="prov_up1_xwt_fv">Museum</placeName>
+                    </hi> sehr streng seyn wird so wird des Guten und Trefflichen noch viel übrig
+                    bleiben für irgend einen andern, noch unbestimmten, Zweck. Man rechne dazu, daß
+                    schon früher aus den alten königl<ex>ichen</ex> Sammlungen eine Auswahl von nahe
+                    700 Stücken geschah. – Doch über das Genauere läßt sich noch nichts sagen. Nur
+                    so viel ist sicher, daß die Sammlung einen eigenen charakter darstellen wird. In
+                    einzelnen Meistern werdet Ihr uns immer voran gehen; wer kann <pb n="3"/>
+                    <seg type="comment">
+                        <orig>Euere <persName key="ed_twl_ptm_4x">
+                                <hi rendition="#aq">Correggio</hi>'s</persName>
+                        </orig>
+                        <note xml:id="nilp_m5m_4x">In der Gemäldegalerie Alte Meister in Dresden
+                            befanden sich von Correggio "Die Heilige Nacht" (um 1527/30); "Die
+                            Madonna des heiligen Georg" (um 1529/30); "Die Madonna des heiligen
+                            Franziskus" (1514/15); "Die Madonna des heiligen Sebastian" (um 1524);
+                            "Die büßende Magdalena" (wahrscheinlich eine Kopie nach einem verlorenen
+                            Original von Correggio, gemalt vor 1746; Kriegsverlust); "Die heilige
+                            Margarete" (Correggio Schule); </note>
+                    </seg> haben? wer <seg type="comment">
+                        <orig>einen so großen <persName key="prov_abl_fz5_35">
+                                <hi rendition="#aq">Raphael</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="ndcc_n5m_4x">"Die Sixtinische Madonna" (1512/13).</note>
+                    </seg>? und dann <seg type="comment">
+                        <orig>die großen <hi rendition="#aq">
+                                <persName key="ed_ev2_d5m_4x">Paolo Veronese</persName>
+                            </hi>
+                        </orig>
+                        <note xml:id="nn3m_n5m_4x">Die Gemäldegalerie Alte Meister in Dresden
+                            besitzt von Veronese die Gemälde "Bildnis des Alessandro Contarini (?)"
+                            (um 1565/70?); "Der barmherzige Samariter" (um 1582/86); "Der Hauptmann
+                            von Capernaum vor Christus" (um 1581/82); "Die Anbetung der Könige" (um
+                            1571); "Christus mit den Jüngern in Emmaus" (um 1560); "Die Auffindung
+                            Moses" (um 1581/82); "Bildnis eines Knaben" (Veronese zugeschrieben);
+                            "Die Apotheose der Venezia" (Kopie nach Veronese); "Die Madonna der
+                            Familie Cuccina" (um 1571); "Die Kreuztragung" (um 1571); "Die
+                            Darstellung Christi im Tempel" (um 1555/60); "Die Hochzeit zu Kana" (um
+                            1571); "Die Auferstehung Christi" (1570/75); "Der Raub der Europa"
+                            (Werkstatt); "Susanna im Bade" (1742 aus der Sammlung Carignan zu Paris;
+                            "Schulbild").</note>
+                    </seg>? – Doch fehlen uns ächte Bilder auch dieser Meister nicht. Es ist mir wie
+                    ein Traum, daß iezt unter meinen Händen vornehmlich verwirkt werden soll, was
+                    vor 40 Jahren mein Wunsch war, nämlich eine Sammlung aufgestellt zu sehen, worin
+                    sich der ganze Baum der Mahlerey neuerer Zeiten darstellte mit all den
+                    mancherley Verzweigungen, Blättern, Knospen und Blüthen. Ich wünschte dies
+                    damals für <placeName key="prov_vkl_ndl_js">Rom</placeName>, und erlebe es nun,
+                    will's Gott! in <placeName key="prov_ycp_cpr_js">Berlin</placeName>. Jeder
+                    Deutsche freue sich mit uns, einen solchen für die Kunst begabten <persName key="prov_bxf_jt5_fv">König</persName>, und einen <del rendition="#s">ihr</del>
+                    <persName key="prov_rrj_mk5_fv">Kronprinzen</persName> gleichen Sinnes zu haben.
+                        <seg type="comment">
+                        <orig>An den Neubau des <hi rendition="#aq">Museum</hi>'s geht's nun
+                            ernsthaft</orig>
+                        <note xml:id="necl_3tl_4x">Nachdem Hirt anfangs die Unterbringung des
+                            Museums im Akademiegebäude Unter den Linden bzw. im Universitätsgebäude,
+                            dem Prinz Heinrich-Palais, vorgeschlagen hatte, legte Schinkel im
+                            Frühjahr 1822 einen eigenen Plan für einen Museumsneubau vor, der statt
+                            des bis dahin vorgesehenen Umbaus den Zuschlag erhielt. Schinkels Plan
+                            für das Museum wird Ende April 1823 vom König genehmigt; mit dem Bau des
+                            Neuen Museums wird im Sommer 1824 begonnen, der Rohbau 1829
+                            fertiggestellt; die Eröffnung erfolgt 1830 am 60. Geburtstag von König
+                            Friedrich Wilhelm III. </note>
+                    </seg>. –</p>
+                <p>
+                    <persName key="ed_ctf_3vj_xv">
+                        <hi rendition="#aq">General v. Minutoli</hi>
+                    </persName> hat seine mitgebrachten <hi rendition="#aq">Aegyptiaca</hi>
+                    ausgelegt. Es giebt vieles und viel Belehrendes. <seg type="comment">
+                        <orig>Ich habe den Bericht hierüber an das <hi rendition="#aq">
+                                <persName key="ed_z43_tfy_lw">Ministerium</persName>
+                            </hi> machen
+                            müßen</orig>
+                        <note xml:id="napm_twl_4x">Hirt sandte sein Gutachten zur provisorisch von
+                            Konrad Levezow im Schloss Monbijou aufgestellten Sammlung von Menu von
+                            Minutoli am 9. Oktober 1822 an Karl Frhr. von Stein zum Altenstein (GStA
+                            PK, I. HA Rep. 89 Geheimes Zivilkabinett, Nr. 20541, Bl. 6 r-v).
+                            Minutoli bietet dem König am 1. März 1823 seine Sammlung zu einem
+                            Kaufpreis von 22.000 Taler in Gold an, wovon die Papyrussammlung allein
+                            12.000 Reichstaler ausmachte. Am 26. April 1823 beschliesst der König
+                            per Kabinettsordre den Ankauf der ägyptischen Altertümersammlung. – Hirt
+                            hielt am 16. November 1822 anlässlich der öffentlichen Feier der
+                            25jährigen Regierung Friedrich Wilhelms III. in der Akademie der
+                            Wissenschaften eine Vorlesung "Zur Würdigung der neuesten von dem
+                            General Freiherrn v. Minutoli eingebrachten Sammlung ägyptischer
+                            Alterthümer" (Separatdruck: Berlin: Dümmler, 1823, 19 S.). </note>
+                    </seg>; und wir erwarten iezt die Entscheidung über den Ankauf für das <hi rendition="#aq">
+                        <placeName key="prov_up1_xwt_fv">Museum</placeName>
+                    </hi>. Es
+                    ist ein wahrer Schatz –</p>
+                <p>Sie fordern mich zu neuen Beyträgen auf für <seg type="comment">
+                        <orig>das künftige Heft Ihrer <bibl sameAs="ed_r5b_psk_vw">
+                                <hi rendition="#aq">Amalthea</hi>
+                            </bibl>
+                        </orig>
+                        <note xml:id="nwvr_fwm_4x">Der 3. Band der "Amalthea" erschien erst 1825 und
+                            enthält keine Beiträge von Hirt.</note>
+                    </seg> – Ich habe manches; aber jedes fordert noch die lezte Hand. Vollendet
+                    liegt eine <seg type="comment">
+                        <orig>Abhandlung über die <hi rendition="#aq">Pelasger</hi>
+                        </orig>
+                        <note xml:id="nzsz_qxm_4x">Vgl. <ref target="hirt_tbn_nwz_vw/#nszy_lfx_ww">1820-05-01-a-Böttiger: Sachanmerkung</ref>. – Siehe auch: "Die
+                            Pelasger, Vorväter der griechischen und der damit verwandten Völker
+                            empfangen die früheren Religionsweisen von den Orientalen. In: Hirt: Die
+                            Lehre der Gebäude bei den Griechen und Römern (= Die Geschichte der
+                            Baukunst bei den Alten, Bd. 3), Berlin 1827, § 2. </note>
+                    </seg>. <seg type="comment">
+                        <orig>Auch giebt es <persName key="prov_tvl_wzv_3v">
+                                <hi rendition="#aq">Pausaniaca</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nhcs_wwm_4x">Basierend auf den Lesungen und Diskussionen in
+                            der "Griechischen Gesellschaft" (vgl. dazu <ref target="hirt_i3t_k3m_vw/#nsl4_pms_vw">1819-11-15-a-Böttiger:
+                                Sachanmerkung</ref>).</note>
+                    </seg>: <seg type="comment">
+                        <orig>über den <rs type="artwork" key="prov_apz_mym_4x">Tempel und die
+                            Statue</rs>
+                            <persName key="prov_rk2_d12_1v">
+                                <hi rendition="#aq">Jupiter</hi>'s</persName> zu <hi rendition="#aq">
+                                <placeName key="prov_dcl_5rv_3v">Olympia</placeName>
+                            </hi>
+                        </orig>
+                        <note xml:id="nngm_zym_4x">Vgl. Hirt: Ueber den Tempel, und die Statue
+                            Jupiter's zu Olympia. In: Ders.: Die Lehre der Gebäude bei den Griechen
+                            und Römern, 1827, I. Abschnitt, Beilage B.</note>
+                    </seg>, <seg type="comment">
+                        <orig>über die <rs type="artwork" key="prov_x4y_zb2_xw">Kiste</rs> des <persName key="ed_km3_m2n_4x">
+                                <hi rendition="#aq">Cypselus</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="numr_xdn_4x">Hirt erwähnt ihn in seinem "Bilderbuch für
+                            Mythologie, Archäologie und Kunst". Zweites Heft, Berlin 1816, S. 197:
+                            [Der Schlaf und der Tod] "Im passiven Zustande ruhten sie als
+                            Zwillingsknaben mit geschlossenen Augen in dem Schoosse ihrer
+                            Nährmutter, der Nacht, auf dem Kasten des Cypselus, der Schlaf von
+                            weisser, der Tod von schwarzer Farbe, und beide mit krumen Füssen (Paus.
+                            5, 18.)". Vgl. auch 1820-01-08-a-Böttiger: Text und Sachanmerkung.
+                        </note>
+                    </seg>, <seg type="comment">
+                        <orig>über den <rs type="artwork" key="prov_mkl_5ym_4x">
+                                <hi rendition="#aq">Hippodrom</hi>
+                            </rs> zu <placeName key="prov_dcl_5rv_3v">
+                                <hi rendition="#aq">Olympia</hi>
+                            </placeName>
+                        </orig>
+                        <note xml:id="nehs_11n_4x">Hirt: Der Hippodromus zu Olympia. Sein Umfang.
+                            [...]. In: Ders.: Die Lehre der Gebäude bei den Griechen und Römern (=
+                            Die Geschichte der Baukunst bei den Alten, Bd. 3), 1827, III. Abschnitt,
+                            § 22.</note>
+                    </seg>, <seg type="comment">
+                        <orig>über <rs type="artwork" key="prov_bt2_xym_4x">das <hi rendition="#aq">Forum</hi>
+                            </rs> zu <placeName key="ed_v5d_hym_4x">
+                                <hi rendition="#aq">Elis</hi>
+                            </placeName>
+                        </orig>
+                        <note xml:id="nzyl_ddn_4x">Hirt: Das Forum zu Elis. In: Ders.: Die Lehre der
+                            Gebäude bei den Griechen und Römern, 1827, Abschnitt V, § 5.</note>
+                    </seg> u. s. w. - Alles mit den nöthigen Zeichnungen begleitet. Schreiben <pb n="4"/> Sie mir, was und wieviel Sie haben wollen; so werde ich es Ihnen bis
+                    spätestens Neujahr zuschicken, wenn anders das nächste Heft <seg type="comment">
+                        <orig>bis Ostern</orig>
+                        <note xml:id="nwhx_3t5_t1b">Zur Leipziger Ostermesse, die am 3. Sonntag nach
+                            Ostern begann.</note>
+                    </seg> erscheinen soll.</p>
+                <p>Der <hi rendition="#aq">
+                        <persName key="prov_lrc_flt_y5">Pausanias</persName>
+                    </hi>, <seg type="comment">
+                        <orig>welcher in den Ferien unterbrochen ward</orig>
+                        <note xml:id="ncx2_q3n_4x">Gemeint sind die Lesungen in der "Griechischen
+                            Gesellschaft", siehe oben.</note>
+                    </seg>, hat wieder angefangen, und vermuthlich wird er diesen Winter beendigt.
+                    – Mich beschäftigt iezt haupt<ex>säch</ex>lich <placeName key="prov_up1_xwt_fv">das <hi rendition="#aq">Museum</hi>
+                    </placeName>, und ich kann nur unterbrochen an meinen eigenen Sachen
+                    arbeiten.</p>
+                <p>
+                    <seg type="comment">
+                        <orig>In Rüksicht der Abgüße</orig>
+                        <note xml:id="neyr_gln_4x">Vielleicht ist hier der Abguss von einem antiken
+                            Marmor gemeint, den Rauch in Dresden machte und am 30. November 1822 an
+                            Hirt schickte (siehe den entsprechenden Brief). - Möglicherweise ist
+                            aber auch der Abguss eines antiken Käuzchens gemeint, den Böttiger im 3.
+                            Band der "Amalthea", in seinem Beitrag "[Griech.], das Käuzchen, der
+                            Mäusetödter. Eine Zugabe." S. 260 f., beschreibt: "Im April des Jahres
+                            1824 [= Brief vom 25. März 1824] schrieb mir Professor Rauch aus Berlin
+                            folgendes: 'Ich ließ für Sie ein Minervenkäuzchen nach einem Abguß von
+                            einer Bronze, die sich in einem römischen Museum befindet, zeichnen. Vor
+                            Jahr und Tag schickte ich Ihnen einen Abguß desselben Käuzchens nach
+                            einer Bronze im Braunschweigischen Museum, den ich, als das Original
+                            davon aus Paris zurückkam, hier davon nehmen ließ. Da aber an dieser
+                            Braunschweigischen Bronze beide Krallen fehlten und doch ein Sockel für
+                            den Vogel gemacht werden mußte: so ergänzten wir die abgebrochnen Füße
+                            und stellten sie auf einen liegenden Jünglingskopf, blos im Scherz.
+                            [...] Lord Clan William, der jetzige englische Gesandte beim hiesigen
+                            Hofe, findet in Rom denselben Kauz, wie er in Braunschweig steht, und
+                            läßt ihn durch Boschi, einen mittelmäßigen römischen Bildhauer und
+                            Zeichner, genau nach dem Original kopiren. Aber jenes Original ist
+                            vollständig. Der Vogel hat dort die Krallen noch ganz unversehrt. Worauf
+                            steht aber die kleine Bestie? Auf drei Mäusen, deren Schwänzchen sich um
+                            den linken Fuß derselben winden [...]'". Rauch hatte den Abguss der
+                            antiken Bronze-Eule im März 1822 durch Vogel nach Dresden geschickt. -
+                            Andere Abguss-Sendungen erwähnt Rauch in einem Brief an Böttiger,
+                            Berlin, 19. November 1822: "Herrn Dr. Hase werde ich [...] auch die
+                            Abgüsse übersenden, welche ich ihm versprach, worüber Ihre Beurtheilung
+                            mich insbesondere interessirt, über eine Tänzer-Figur mit Perücke und
+                            interessantem Costum. Mehreres unserer wenigen Bronzen werde ich formen
+                            lassen, in der Hoffnung, dass es auch Ihnen angenehm ist. Dieses kleine
+                            Bronze-Volk ist allezeit mein Entzücken gewesen, es ist intriganter
+                            (sic) wie das marmorne, denn alle haben ihre gesunden Glieder noch
+                            beisammen gehalten, sind weit lehrreicher" (zitiert nach: Robert
+                            Boxberger: Briefe des Bildhauer Chr. Rauch, meist an Hofrath Böttiger,
+                            aus dessen Nachlass auf der Bibliothek in Dresden. In: Jahrbücher der
+                            Königlichen Akademie gemeinnütziger Wissenschaften zu Erfurt, N. F.,
+                            Heft XI, 1882, S. 113-175; hier S. 120). Am 10. Dezember 1822 schreibt
+                            er weiter an Böttiger: "Mit einer Kiste an Prof. Vogel oder Bildhauer
+                            Kühne adressirt erhalten Sie einen Abguss einer wunderschönen Patera,
+                            welche ich im Jahr 1818 formen liess, für Bildhauer eine schöne Weisung
+                            auf die Behandlung des basreliefs. / Den Abguss des Basrel. der Parzen
+                            erhalten Sie gewiss im Mai mit den Abgüssen des Augusteums, zur Ansicht
+                            aber schon jetzt bei Prof. Vogel, und erwarte mit Sehnsucht Ihre
+                            Gedanken über diese drei zierlichen Jungfern, das Lockenköpfchen ist
+                            sogar eine reizende" (ebd., S. 121-122). </note>
+                    </seg>
+                    <seg type="comment">
+                        <orig>müßen Sie <add place="superlinear">sich</add> dort an <persName key="ed_p41_xpz_lw">
+                                <hi rendition="#aq">Rauch</hi>
+                            </persName> halten, denn er hat die Leute</orig>
+                        <note xml:id="nb1g_2vx_sx">Rauch war zu dieser Zeit in Dresden mit dem
+                            Abformen antiker Marmorwerke aus dem königlichen Museum beschäftigt und
+                            hatte dazu mehrere Abformer mitgebracht.</note>
+                    </seg>, und die Aussicht dazu.</p>
+                <closer>
+                    <salute>Jezt leben Sie wohl! Sorgen Sie für Ihr Beßerwerden und gedenken Sie
+                        <lb/>Ihres ergebenen</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>
+                    <persName key="ed_ifk_ktj_xv">Levezow</persName>
+                    <seg type="comment">
+                        <orig>ist nun der Geschäfte bey dem <hi rendition="#aq">Gymnasium</hi> los</orig>
+                        <note xml:id="njpz_lln_4x">Levezow war zuerst Lehrer am Berlinischen
+                            Gymnasium zum Grauen Kloster und anschließend ab 1822 am
+                            Friedrich-Wilhelms-Gymnasium. Seit 1820 arbeitete er neben seiner
+                            Lehrtätigkeit noch als unbezahlter Assistent von Jean Henry an der
+                            Kunst-, Antiken- und Münzkammer. 1823 wurde er von seinen
+                            Lehrverpflichtungen entbunden und sein Gehalt auf 1200 Taler
+                            erhöht.</note>
+                    </seg>, und kann sich dem Studium der Antike ganz wiedmen. Herrn <persName key="ed_jcq_q3v_yw">Spohn</persName>, der auf einen Augenblick hier war,
+                    habe ich mit Vergnügen kennen lernen. <seg type="comment">
+                        <orig>Er erregt wirklich die lebhafteste Hoffnung zu großen
+                            Aufschlüßen</orig>
+                        <note xml:id="nemb_mvs_4x">Spohn beschäftigte sich mit der Entzifferung der
+                            ägyptischen Hieroglyphen. Nach seinem frühen Tod am 17. Januar 1824
+                            erschien "De lingua et literis veterum Aegyptiorum cum permultis tabulis
+                            lithographicis literas Aegyptiorum tum vulgari tum sacerdotali ratione
+                            scriptas explicantibus atque interpretationem Rosettanae aliarumque
+                            inscriptionum et aliquot voluminum papyraceorum in sepuloris repertorum
+                            exhibentibus. Accedunt Grammatica atque Glossarium Aegyptiacum. Edidit
+                            et absolvit Gustavus Seyffarth". 2 Bde., Leipzig 1825-1831.</note>
+                    </seg>. Herzlich wünsche ich ihm die Gesundheit hiezu. <seg type="comment">
+                        <orig>Die Pariser schlagen indeßen Nebenwege ein</orig>
+                        <note xml:id="nfy3_qws_4x">Nach Vorarbeiten u.a. von Athanasius Kircher,
+                            Abbé Barthélemy, Etienne de Quatremère, Silvestre de Sacy und Thomas
+                            Young gilt Jean François Champollion als der eigentliche Entzifferer der
+                            Hieroglyphen an Hand des Rosetta-Steins. Seine Arbeiten wurden immer
+                            wieder durch die politischen Umstände unterbrochen. Am 22. September
+                            1822 veröffentlichte er erstmalig seine Ergebnisse in der Schrift
+                            "Lettre à M. Dacier"; am 27. September 1822 hielt er über seine
+                            linguistischen Forschungen einen Vortrag vor der Académie française.
+                            Beides scheint Hirt einen Monat später noch nicht bekannt gewesen zu
+                            sein. </note>
+                    </seg>, aber wohl nur <hi rendition="#aq">à la Françoise</hi>.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

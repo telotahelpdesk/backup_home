@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_prv_2tm_ngb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Désiré Raoul-Rochette. Paris, vor 4. Dezember 1834]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: Raoul-Rochette an Karl August <persName key="prov_g5d_v2p_5r">Böttiger</persName>, Paris, 4. Dezember 1834: "[...] Sie werden mich sehr
+                    verpflichten, wenn Sie dem ein Exemplar der <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Kunst</bibl>, die Herr Hirt vor einem Jahr veröffentlicht
+                    hat, beilegten; ich hatte ihn darum gebeten und aus Versehen hat er mir, anstatt
+                    mir den mir fehlenden Band zuzusenden, seine <bibl sameAs="ed_mhm_snl_vw">Kunstbemerkungen auf einer Reise</bibl> usw. überreichen lassen, die ich
+                    schon hatte. Wenn er das Buch, das ich doppelt habe, zurücknehmen und es durch
+                    das andere ersetzen könnte, gewönnen wir beide dabei" (dt. Übersetzung des
+                    franz. Originalbriefes; zitiert nach: Karl August Böttiger Briefwechsel mit
+                    Désiré Raoul-Rochette. Hrsg. u. komm. von René Sternke und Klaus Gerlach.
+                    Berlin, Boston 2018, Brief Nr. 72, S. 481). - Vermutlich hat Raoul-Rochette
+                    seine Bitte um ein Exemplar von Hirts "Geschichte der Baukunst bei den Alten"
+                    bereits früher, etwa im Sommer 1833, anlässlich der Zusendungen seiner Oresteis
+                    und seiner Odysseis an Hirt herangetragen. Am 7. Juli 1833 schreibt
+                    Raoul-Rochette an <persName key="prov_g5d_v2p_5r">Böttiger</persName>: "Unser
+                    gemeinsamer Freund, Hirt, wird mir doch einen Dienst dieser Art [<bibl sameAs="ed_bnb_gbn_ngb">eine Rezension - U. M.] für die beiden Lieferungen
+                        der Oresteis und der Odysseis</bibl>, die er gleichzeitig erhalten wird,
+                    nicht verweigern; es sei denn, dass ihm seine Gesundheit, die, wie man sagt,
+                    sehr angegriffen ist, ihm diese Art Arbeit untersagte. Er hat gerade ein neues
+                    Werk über die <bibl sameAs="ed_ahk_qy5_dw">Geschichte der Kunst bei den
+                        Alten</bibl> veröffentlicht, das ich noch nicht kenne. Erweisen Sie mir
+                    bitte den Freundschaftsdienst, ihm an meiner Stelle Vorwürfe zu machen, weil er
+                    mir dieses Buch noch nicht geschickt hat, da ich ihm doch alles, was ich mache,
+                    so wenig es auch wert sein mag, pünktlich zuschicke" (ebd., Brief Nr. 60, S.
+                    398-399).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_m2j_ggy_zy">Raoul-Rochette, Désiré (1789-1854) (franz.
+                        Klassischer Archäologe)</persName>
+                    <placeName key="prov_tnd_dt1_5v">Paris</placeName>
+                    <date notBefore="1833-07-07" notAfter="1834-12-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Datierung unsicher; vermutlich wurde der Brief bereits im Sommer 1833
+                    geschrieben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

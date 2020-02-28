@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_old_wh4_jkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an den Staatsminister von Altenstein. Berlin,
+                    4. Juli 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 3 Bd. 4, Bl. 155r (von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-07-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_i4z_gj3_jkb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschriften von Schinkel und Hirt. -
+                    Empfängerbemerkungen: "Herr Geh ORRath v Harlem. / 176."; "prs:[präsentiert] d.
+                    6/7 25."; "Nr. 1369 und 1404. Cent.[ral] B.[ureau] beigelegt. Verf.[?] vom
+                    23/6.25."; "Zu den betreffenden Acten des Central-Bureaus bis auf weitere
+                    Veranlaßung. / [gez.] Kamptz [gez.] vHarlem / 12. Jul. 25."; Aktenvermerk auf
+                    dem oberen Rand "7376.", auf dem unteren Rand "9/7 Berlin Wißens. S. 41. v.
+                    4"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_vxb_nnm_pgb">Kunstmuseum – Angebote / Ankäufe</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Koeniglichen Wirklich Geheimen Staats / Minister,
+                            Minister der Geistlichen Un-/terrichts und Medizinal Angelegenheiten pp
+                            / Herrn Freyherrn von Altenstein / Excellenz</addrLine>
+                    </address>
+                </opener>
+				<p>In Betreff der <seg type="comment">
+                        <orig>Gemaelde</orig>
+                        <note xml:id="nmp5_ln4_jkb">Vgl. dazu die Anmerkung zum Schreiben
+                            Altensteins an Schinkel und Hirt vom 23.6.1825.</note>
+                    </seg> des Kunsthändler <hi rendition="#aq"><persName key="ed_nh4_nz3_jkb">Jacobi</persName></hi>, wovon Euer Excellenz das <seg type="comment">
+                        <orig>Verzeichniß</orig>
+                        <note xml:id="njwy_wm4_jkb">Verzeichniss der Gemälde-Sammlung von Ludwig
+                            David Jacoby, Kunsthändler in Berlin. Berlin 1825. <ref target="https://opacplus.bsb-muenchen.de/Vta2/bsb10728682/bsb:BV001605326">Digitalisat</ref>
+                        </note>
+                    </seg> an die <orgName key="ed_imk_ss2_gjb">Commission</orgName> übersandt
+                    haben, kann dieselbe nur erwiedern; die Sammlung früher gesehen zu haben, und
+                    obwohl vielleicht manches neue seitdem hinzugekommen sein mag, so bleibt doch
+                    wenig Hoffnung, daß darunter sich etwas wünschenswerthes für das <rs type="artwork" key="prov_p5w_rw2_gjb">Museum</rs> finden moechte.</p>
+                <p>Indessen wird die <orgName key="ed_imk_ss2_gjb">Commission</orgName> gelegentlich
+                    auch diese Sammlung noch einmal in Augenschein nehmen und nicht ermangeln, wenn
+                    etwas wünschenswerthes vorhanden wäre, Euer Excellenz hiervon gehorsamst in
+                    Kenntniß zu setzen.</p>
+				<closer>
+                    <dateline>Berlin den 4<hi rendition="#sup">ten</hi> July 1825.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,25 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/web/suche" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="ergebnisRegistersuche.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="ergebnisRegistersuche.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="datumssuche.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="datumssuche.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="autocomplete.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="autocomplete.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="index.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="index.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="zeitsuche.html" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="zeitsuche.html" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="forms.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="forms.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="ergebnis.xql" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T10:18:10+01:00" modified="2020-02-28T10:18:10+01:00" filename="ergebnis.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="lib" filename="lib"/>
+</collection>

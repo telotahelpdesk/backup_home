@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_pwz_jnl_xv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An die Direktion der Jeanischen allgemeinen Literatur-Zeitung. Berlin, 4.
+                    Oktober 1803.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Bayrische Staatsbibliothek München</institution>
+                        <collection>Autographensammlung</collection>
+                        <idno>
+                            <idno type="shelfmark">Autogr. Hirt, Aloys, fol. 19</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1803-10-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_b35_b4l_xv">Unbekannt, (Redaktion der ALZ?) (-)</persName>
+                    <placeName key="prov_xby_ps1_z5">Jena</placeName>
+                </correspAction>
+                <note>Zum Adressaten: Da Hirt keine persönliche Anrede gebraucht, wird er auf ein
+                    gedrucktes Formular, das von den „Unternehmern“ der JALZ an verschiedene Autoren
+                    verschickt wurde, geantwortet haben.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Berlin den 4<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Octob. 1803.</dateline>
+                </opener>
+                <p>Ich halte mich durch die<seg type="comment">
+                        <orig> Einladung</orig>
+                        <note xml:id="nxy2_qxr_xv">“Eichstädt benutzte als 'Einladungen' gedruckte
+                            Formulare, in denen für Titulatur, Honorar und Fach freier Raum zu
+                            handschriftlicher Ausfüllung gelassen war; Unterschrift 'Die Unternehmer
+                            der Allgemeinen Litteraturzeitung zu Jena'“. Darin hiess es: „Ew. ....
+                            erlauben uns, hierdurch bekannt zu machen, dass die Jenaer Allgemeinen
+                            Literatur-Zeitung, wie bisher, auch künftig, und zwar vom Jahr 1804 an
+                            unter besonderer Begünstigung unseres Fürsten und durch theilnehmende
+                            Fürsorge mehrerer einsichtsvoller und berühmter Männer in Weimar und
+                            Jena, herauskommen wird. Bey dem lebhaften Bestreben, diesem Journale
+                            durch Erhaltung sowohl als durch Beytritt mehrerer Urtheilsfähiger immer
+                            höhere Vollkommenheit zu verleihen, und bey den jetzt so günstigen
+                            Auspicien, bittet die Societät der Unternehmer vorzüglich auch um Ihre
+                            fortwährende Theilnahme.“ (zitiert nach: Goethe WA, IV, Bd. 16, Anm. zu
+                            Brief 4726-4728, S. 475f.). </note>
+                    </seg> zur <seg type="comment">
+                        <orig>Theilnahme</orig>
+                        <note xml:id="nrxy_4vq_xv">Vgl. auch:
+                            1804-04-10-a-ALZ.</note>
+                    </seg> an der künftigen<seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_d2z_1tq_xv">Fortsezung der allgem<ex>einen</ex>
+                                    L<ex>iteratur</ex> Z<ex>eitung</ex> zu Jena</bibl>
+                        </orig>
+                        <note xml:id="nys5_jtq_xv">Die Jenaische Allgemeine Literatur-Zeitung erschien
+                            ab 31. Januar 1804, parallel (und als Konkurrenz) zu der seit 1803 in
+                            Halle weitergeführten Allgemeinen Literatur-Zeitung. Sie erschien
+                            dreimal wöchentlich. </note>
+                    </seg> unter der Redaktion des H. Hofrath
+                        <persName key="ed_qbf_ytq_xv">Eichstädt</persName> sehr geehrt: und mit eben
+                    so viel Eifer als Vergnügen werde ich die Recensionen derjenigen Schriften,
+                    welche in das Fach der Archaeo<del rendition="#s">gie</del>logie, und der
+                    schönen Künste einschlagen, übernehmen. Die zu recensirenden Werke können in
+                    deutscher, ital<ex>ienischer</ex> franz<ex>ösischer</ex> und engl<ex>ischer</ex>
+                    Sprache geschrieben seyn. - Nur müßte ich bitten, daß mir immer bey Zeiten die
+                    zu recensirenden Schriften angezeigt, und geheftet eingesandt würden.</p>
+                <closer>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

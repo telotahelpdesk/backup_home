@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_cyp_s5n_5jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    26. Februar 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 46r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-02-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Mit egh. Korrekturen und Unterschriftskürzel von Altenstein. -
+                    Bearbeitungsvermerke: "<hi rendition="#u">cito</hi> / <hi rendition="#u">BriefPapier</hi>"; Mundierungs- und Abgangsvermerk "den 27/2 23. / 1.
+                    Anh."; Aktenvermerk auf dem oberen Rand: "ad Num: 432. B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl: Geh: Ober-/BauRaths Herrn Schinkel / und / des
+                            Königl: Hofraths und / Professors Herrn Hirt / Hochwohl und Wohlgeboren
+                            / Hier</addrLine>
+                    </address>
+                    <dateline>Berlin, den 26<hi rendition="#sup">ten</hi> Februar 1823</dateline>
+                </opener>
+				<p>Ew. Hochwohl- und Wohlgeboren übersende ich anliegend Abschrift einer Allerhöchsten
+                    KabinetsOrdre vom 22<hi rendition="#sup">ten</hi> d<ex>ieses</ex>
+                        M<ex>onats</ex>, welche ich auf meinen über die bewirkte Verlängerung der
+                    Versicherung der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen
+                        GemäldeSammlung</rs> vor Feuers Gefahr erstatteten Bericht erhalten habe.
+                    Sie werden daraus gefälligst ersehen, daß die mir darin von Seiner Majestät dem
+                        <persName key="prov_bxf_jt5_fv">Könige</persName> aufgegebene Beantwortung
+                    der Frage wegen anderweiter Unterbringung jener <rs type="artwork" key="prov_ggw_yml_vw">Sammlung</rs> zur Berathung der <orgName key="ed_imk_ss2_gjb">Commission</orgName>, welche den Plan zur Erbauung
+                    eines <placeName key="ediarum_rj2_kdc_sy">neuen Museums</placeName> begutachtet,
+                    gebracht werden wird. Ew. — ersuche ich daher ergebenst, vorläufig die
+                    Ihnen zur gründlichen Erörterung dieses Gegenständes nötig scheinenden
+                    Materialien gefälligst schleunigst zu sammeln und mich wenn Sie vor<unclear reason="illegible" cert="">bereitet</unclear> sind davon zu benachrichtigen
+                    damit ich die Zusammenkunft der <orgName key="ed_imk_ss2_gjb">Kommißion</orgName> veranlaßen kan.</p>
+				<closer>
+                    <dateline>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></dateline>
+                    <signed><ex>[gez.]</ex> Al<ex>[tenstein]</ex></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

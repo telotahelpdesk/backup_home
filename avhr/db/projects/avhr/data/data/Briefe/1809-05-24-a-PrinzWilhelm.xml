@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gln_2gd_cw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Prinz Friedrich Wilhelm Karl von Preußen (Bruder des Königs). Berlin, 24.
+                    Mai 1809</title>
+                <title>. Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Hess. StA Darmstadt</institution>
+                        <collection>D 22 (Fischbacher Archiv)</collection>
+                        <idno>
+                            <idno type="shelfmark">12/78, Bl. 7-8</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1809-05-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_vpp_kmx_2v">Preußen, Friedrich Wilhelm Karl, Prinz von
+                        (1783-1851) (jüngster Sohn von König Friedrich Wilhelm II. und Prinzessin
+                        Friederike Luise von Hessen-Darmstadt, Bruder von Friedrich Wilhelm III.,
+                        1799 Stabskapitän, General, Generalgouverneur der Rheinprovinzen und
+                        Gouverneur der Bundesfestung Mainz, seit 1804 verh. mit Marianne von
+                        Hessen-Homburg)</persName>
+                    <placeName key="ed_rhx_dhd_cw">Königsberg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An S<hi rendition="#sup">
+                                <hi rendition="#u">e</hi>
+                            </hi> Königliche Hoheit / den Prinzen Wilhelm / Bruder des Königs / <hi rendition="#u">Königsberg</hi> / Mit Siegel</addrLine>
+                    </address>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>Es ist für mich sehr erfreulich, Ew. königl<ex>ichen</ex> Hoheit <bibl sameAs="prov_e1l_pjv_pv">ein Buch</bibl> übersenden zu können, wovon ich im
+                    voraus überzeugt bin, daß Sie es mit Ihrer gegen mich gewohnten Güte aufnehmen
+                    werden. Der Inhalt desselben, Gnädiger Herr, ist Ihnen nicht fremd. Sie finden
+                    hier bloß die Grundsäze mit etwas mehr Ordnung zusammengestellt und entwickelt,
+                    welche schon vor Jahren der Gegenstand der mündlichen Unterredungen waren, die
+                    ich über Kunst und Alterthum mit Ew. königl<ex>ichen</ex> Hoheit zu halten das
+                    Glück hatte. Zugleich füge ich 
+                        <bibl sameAs="ed_w1n_4nx_bw ed_jm4_fq2_1w">ein paar kleinere Schriften</bibl>
+                     bey,
+                    welche auch eben iezt erschienen sind, und zwey der wichtigsten Baue des
+                    Alterthums zum Gegenstand haben.</p>
+                <p>Dabey erlauben mir Ew: königl<ex>iche</ex> Hoheit eine Bitte. Ich bin seit dem
+                    August 1806 im Rückstand mit meinem Gehalt. Ich habe bis iezt mit Gedult auf
+                    beßere Zeiten geharrt, und gesucht, mich durch <pb n="2"/> Entbehrungen und
+                    Aufopferungen aller Art zu behelfen. Einen nicht geringen Beystand verdanke ich
+                    der Güte meiner 
+                        <persName key="ed_o5m_ncd_cw ed_tf5_31d_cw">beyden gnädigen Frauen</persName>
+                    , der Schwestern Ew. königl<ex>ichen</ex> Hoheit. <seg type="comment">
+                        <orig>Iezt habe ich mit Übersendung <bibl sameAs="prov_e1l_pjv_pv">eines
+                                Abdruckes meiner Architektur</bibl> S<hi rendition="#sup">
+                                <hi rendition="#u">er</hi>
+                            </hi> Mayestät dem <persName key="prov_bxf_jt5_fv">König</persName> mein
+                            Anliegen vorgetragen</orig>
+                        <note xml:id="nyjm_n52_cw"><?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Brief
+                            nachweisbar oder Brief erschließen???<?oxy_custom_end?>
+                        </note>
+                    </seg>. Meiner gehorsamsten Bitte an Ew. königl<ex>iche</ex> Hoheit geht also
+                    dahin, diesen meinen Gesuch durch Ihr Fürwort zu unterstüzen, in der Überzeugung
+                    daß dieses hinreichend seyn wird, das widrige Loos, was so lange über mir
+                    waltet, einiger Maßen zu lindern. <seg type="comment">
+                        <orig>Ich habe hievon auch an den geh<ex>eimen</ex> Staatsrath <persName key="prov_p4m_q1h_3v">Herrn v. Humboldt</persName>, als demjenigen
+                            geschrieben</orig>
+                        <note xml:id="ne1q_w52_cw">Brief nicht ermittelt. Vgl. auch das Schreiben
+                            des Committees der Akademie der Wissenschaften an Wilhelm von Humboldt,
+                            Berlin, 10. Januar 1809, das von Hirt mitunterzeichnet ist (Archiv der
+                            BBAW, PAW (1700-1811), I-I-11, Bl. 33rv).</note>
+                    </seg>, <seg type="comment">
+                        <orig>dem iezt die Fürsorge für das Wohl der Akademiker anvertraut
+                            ist</orig>
+                        <note xml:id="nez5_tv2_cw">W. v. Humboldt war am 10. Februar 1809 zum Geh.
+                            Staatsrat und Direktor der Sektion für Kultus und Unterricht im
+                            Ministerium des Innern ernannt worden, dem auch die Akademie der
+                            Wissenschaften unterstellt war.</note>
+                    </seg>.</p>
+                <p>Ich habe seit anderthalb Jahren das seltene Glück gehabt, alle Wochen ein paar
+                    Abende mit den k<ex>öniglichen</ex> Hoheiten, 
+                        <persName key="ed_o5m_ncd_cw ed_tf5_31d_cw">Ihren Schwestern</persName>
+                    , zuzubringen, und bey <del rendition="#s">Spx</del> Gesprächen über
+                    Kunst und alte Zeit von der Gegenwart wegzusehen. Nun hat aber dieser <hi rendition="#aq">Cursus</hi> seit 14. Tagen auch aufgehört. Ew.
+                        könig<ex>liche</ex> Hoheit <pb n="3"/> werden erstaunen, wenn Sie sehen
+                    werden, welche Fortschritte beyde Prinzeßinen seit dem lezten Winter in der
+                    Kunst machten. Das Nachzeichnen findet iezt nicht mehr statt, sondern es wird
+                    einzig nach dem Leben gearbeitet, und zwar mit einem Eifer, alswenn das Glück
+                    des Lebens einzig von der Kunst abhienge.</p>
+                <p>Ich bitte, mich gehorsamst Ihrer königl<ex>ichen</ex> Hoheit <persName key="ed_dyv_35f_dw">Ihrer Gemahlin</persName> zu empfehlen, und zu glauben,
+                    daß ich mit dem Gefühl wahrer Ergebenheit, Liebe und Ehrfurcht unwandelbar bin
+                    <lb/>Ew. königlichen Hoheit <lb/>ganz ergebenster</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>Berlin den 24<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> May 1809.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

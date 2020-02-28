@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_qsz_tc4_lkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Schinkel und Hirt an Staatsminister von Altenstein. Berlin, 23.
+                    Dezember 1825</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SMB-ZA</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">IV/NL Schinkel 106 (von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1825-12-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Von Schreiberhand mit egh. Unterschriften. - Das Fehlen von
+                    Empfängerbemerkungen lässt vermuten, dass es sich um eine Abschrift für
+                    Schinkels Unterlagen oder für die Museumskommission handelt. - Inventarvermerk
+                    "Schinkel-Inv. S. 207 N° 59"</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl. wirklich Geheimen Staats / und dirigirenden
+                            Minister / Herr Freyherrn v. Altenstein / Excellenz</addrLine>
+                    </address>
+                    <dateline>Berlin den 23. Dbre 1825</dateline>
+                </opener>
+				<p>Der Professor <hi rendition="#aq"><persName key="ed_ed2_jjp_thb">Schumann</persName></hi>,
+                    Mitglied der K<ex>öni</ex>gl<ex>ichen</ex>
+                    <orgName key="ed_u5s_1fc_b1b">Akademie der Künste</orgName>, hat uns mit dem
+                    gehorsamsten angebogenen Schreiben vom 29. Nov<ex>em</ex>ber c<ex>urrentis</ex>
+                    ein ihm zugehoeriges <rs type="artwork" key="prov_fyy_vbp_lkb">Gemaelde</rs>,
+                    eine todte Nonne vorstellend, sehr wahrscheinlich von <hi rendition="#aq"><persName key="ed_iv2_1y4_lkb">Michael Mirevelt</persName></hi>, zum
+                    Ankauf für das K<ex>öni</ex>gl<ex>iche</ex>
+                    <rs type="artwork" key="prov_p5w_rw2_gjb">Kunst Museum</rs> in Vorschlag
+                    gebracht, das, nach unserm Dafürhalten, als etwas vorzügliches in seiner Art,
+                    einen Platz im <rs type="artwork" key="prov_p5w_rw2_gjb">K<ex>öni</ex>gl<ex>ichen</ex> Museum</rs> einzunehmen, wohl würdig sein
+                    dürfte. Das sowohl, als auch der für das Kunstwerk geforderte uns als mäßig
+                    erscheinende Preis von 20 <unclear reason="illegible" cert="">xx
+                    </unclear>Frd'or bestimmt uns</p>
+                <p>die Acquisition dieses Bildes für das K<ex>öni</ex>gl<ex>iche</ex>
+                    <rs type="artwork" key="prov_p5w_rw2_gjb">Kunst Museum</rs> bey Euer Excellenz
+                    befürwortend in Antrag zu bringen.</p>
+				<closer>
+                    <dateline>Berlin den 23 Dcber 1825.</dateline>
+                    <signed><ex>[gez.]</ex> Schinkel <ex>[gez.]</ex> Hirt</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

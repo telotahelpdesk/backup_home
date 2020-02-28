@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_o44_vww_hjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 2.
+                    April 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 82r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-04-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tgl_b52_3jb"/>
+                </correspContext>
+                <note>Bearbeitungsvermerke auf dem linken Rand: "<hi rendition="#uu">citissime</hi>"; "Mund / Ins: den 3/4 22. / nebst 2. Anl."; auf dem oberen
+                    Rand: "ad Num: 612. B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                    <term key="ed_ljv_mnm_pgb">Kunstmuseum, königlich preuß.</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Des Königl: Geh: O. B. Raths / Herrn <hi rendition="#u">Schinkel</hi> / und / Des Königl. Hofraths / Herrn <hi rendition="#u">Hirt</hi> / Hochwohl und Wohlgeboren / <hi rendition="#u">hier</hi>.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 2<hi rendition="#sup">ten</hi> April 1822.</dateline>
+                    <salute/>
+                </opener>
+				<p>Ew. Hochwohlgeboren sind bereits die Bestimmungen bekannt, welche des <persName key="prov_bxf_jt5_fv">Königs</persName> Majestät unter dem 27<hi rendition="#sup">ten</hi> v.<ex>[origen]</ex> M.<ex>[onats]</ex> in Betreff
+                    der Einrichtung des <placeName key="prov_up1_xwt_fv">Museums</placeName> und
+                    Aufstellung der <rs type="artwork" key="prov_vch_fyb_f3b">Königlichen
+                        Kunst-Sammlungen</rs> zu erlassen geruhet haben.</p>
+                <p>Von des Herrn StaatsKanzlers Fürsten von <persName key="ed_tls_pjg_zgb">Hardenberg</persName> Durchlaucht ist mir <seg type="comment">
+                        <orig>beyfolgender Auszug einer Allerhöchsten KabinetsOrdre,</orig>
+                        <note xml:id="ngxb_dnx_hjb">Mit Bemerkung auf dem linken Rand: "von der
+                            vorgestrichnen Stelle der K. O v. 27/3 22."</note>
+                    </seg> die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche
+                        GemäldeSammlung</rs> betreffend, mitgetheilt worden. Ich füge solchem auch
+                        <seg type="comment">
+                        <orig>den Auszug</orig>
+                        <note xml:id="nrcg_hnx_hjb">Mit Bemerkung auf dem linken Rand: "von den
+                            vorgestrichnen Stellen der K. O. v. 27/3 22.".</note>
+                    </seg> einer über denselben Gegenstand an den Herrn Präsidenten <persName key="ed_q5z_hsx_hjb">Rother</persName> ergangenen Allerhöchsten
+                    KabinetsOrdre bey. Ew. — werden daraus gefälligst ersehen, was Seine
+                    Majestät der <persName key="prov_bxf_jt5_fv">König</persName> durch Sie, unter
+                    meiner Leitung, rücksichtlich der Aufbewahrung und Aufnahme eines vollständigen
+                    Inventariums der <rs type="artwork" key="prov_ggw_yml_vw">Sollyschen
+                        GemäldeSammlung</rs>, der Auswahl der für <pb n="2"/> das Museum nicht
+                    geeigneter Bilder, deren Herstellung u.s.w. bewirkt zu sehen erwarten. In Folge
+                    dieser Bestimmungen habe ich den Herrn Geh<ex>eimen</ex> O<ex>ber</ex>
+                        R<ex>egierungs</ex> Rath <persName key="ed_kbw_cgy_lw">Schultz</persName>
+                    aufgefordert, mir die Schlüssel zu den Lokalen, in welchen die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche Sammlung</rs> aufbewahrt wird
+                    und die Verhandlungen, welche sich darüber noch in seinen Händen befinden,
+                    schleunigst zu überliefern. Sobald ich solche erhalten habe, werde ich mich
+                    beehren, sie Ew. — ergebenst mitzutheilen. Ich wünsche jezt baldmöglichst
+                    Ihre gefälligen Vorschläge zu erhalten, wie Sie diese Angelegenheit zu besorgen
+                    und Sich allenfalls in die Geschäffte zu theilen gedenken, so wie auch was Sie
+                    zur Erreichung des Zwecks für erforderlich halten und bin ich mit Vergnügen,
+                    wenn Sie es wünschen sollten, auch zu mündlicher Rücksprache und Berathung der
+                    Sache bereit. Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></p>
+				<closer>
+                    <signed><ex>[Namenskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

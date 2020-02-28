@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_gql_nvd_lx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, 9. Juli 1822.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <collection>Nachlass Böttiger</collection>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr.
+                            43</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-07-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_zj4_hc3_g5">Dresden</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_eqk_x3r_lx"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Herrn Hofrath / Boettiger / in / <hi rendition="#u">Dresden</hi> / Mit Poststempel "BERLIN / 9. JULI", mit
+                            Postvermerken und Siegel</addrLine>
+                    </address>
+                    <dateline>Berlin den 9<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi>
+                        Julius 1822.</dateline>
+                    <salute>Mein alter lieber Freund!</salute>
+                </opener>
+                <p>Sie sind überzeugt, daß der Ihnen zugestoßene <seg type="comment">
+                        <orig>Unfall</orig>
+                        <note xml:id="no3y_r3r_lx">Böttiger musste sich am 19. Juli 1822 einer
+                            Augenoperation unterziehen. Er habe sich "dazu entschließen müssen, weil
+                            sonst das noch sehende Auge auch Gefahr lief". Er konnte danach "bei
+                            Lampenlicht fast gar nicht lesen und schreiben", klagte auch in der
+                            Folge über "Nervenreiz im Kopf", "Kraftlosigkeit" und "Gicht" (aus: René
+                            Sternke: Böttiger und der archäologische Diskurs, 2008, S. 297). - Noch
+                            kurz zuvor hatte Hufeland vor einer Operation gewarnt. Am 8. Juli 1822
+                            schreibt Rauch an Böttiger: "Prof. Tieck und Geh. Rath Schinckel lassen
+                            sich Ihnen, sehr hochgeschätzter Freund, auf das Herzlichste empfehlen,
+                            und wir wünschen nun nichts sehnlicher, als Ihre baldige Genesung des
+                            Augenübels zu erfahren. Der Geh. Staats-Rath Dr. Hufeland bittet und
+                            wünscht, dass Sie ja nicht zu einer Operation des kranken Auges
+                            schreiten möchten, und wünscht Sie von dem Bessern der Unterlassung
+                            überzeugen zu können" (Robert Boxberger: Briefe des Bildhauer Chr.
+                            Rauch, meist an Hofrath Böttiger, aus dessen Nachlass auf der Bibliothek
+                            in Dresden. In: Jahrbücher der Königlichen Akademie gemeinnütziger
+                            Wissenschaften zu Erfurt, N. F., Heft XI, 1882, S. 113-175; hier S.
+                            119).</note>
+                    </seg>
+                    <add place="intralinear">mich</add> auf das lebhafteste ergriff, indeßen hoffe
+                    und wünsche ich mit Ihnen, daß das Übel bald weichen und vorübergehend seyn
+                    werde. Ich bewundere übrigens Ihre wahrhaft philosophische Ruhe, und dies ist
+                    mir ein gutes Vorzeichen einer glücklichen Genesung.</p>
+                <p>Lange wollte ich Ihnen schon schreiben, aber seit einiger Zeit hängt so viel über
+                    mir, daß ich mich kaum sammeln und mit Freunden über Dinge verhandeln kann, die
+                    mir sonst immer die angenehmsten sind.</p>
+                <p>Im Ganzen haben Sie den 2<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> Band Ihrer <bibl sameAs="ed_r5b_psk_vw">
+                        <hi rendition="#aq">A<subst>
+                                <del rendition="#ow">l</del>
+                                <add place="across">m</add>
+                            </subst>althea</hi>
+                    </bibl> trefflich ausgestattet, besonders auch <seg type="comment">
+                        <orig>durch Ihre eigenen reichen Zugaben</orig>
+                        <note xml:id="nc1j_yvj_lx">Der 2. Band der "Amalthea" enthält von Böttiger
+                            nur Erläuterungen zu Aufsätzen anderer Autoren: "Zusätze" zu Georg
+                            Heinrich Roehdens Abhandlung "Ueber das sogenannte Memnons-Bild im
+                            Brittischen Museum zu Londen" (S. 174-190); "Weitere Ausführung der
+                            Amymone-Fabel und des Mythos vom Poseidon, als Zusatz zu obigem
+                            Vasengemälde [von Hirt] (S. 283-301) und "Der Dreizack" (S. 302-336);
+                            weitere eigene Aufsätze mussten aus Platzgründen zurückgestellt werden:
+                            "Drei von mir schon vorbereitete Aufsätze 1) über ein altgriechisches
+                            Gemälde, auf einer Vase, welche ich der Güte des Baron Robert Winspeare
+                            in Neapel verdanke, die Wahl des aus der gymnastischen Erziehung (aus
+                            den Epheben) in die unterste Bacchusweihe eintretenden Jünglings
+                            zwischen der weiblich personifizirten Weihe [...] und der Wollust [...]
+                            vorstellend, 2) über einen Cameo im Besitz des Grafen Georg von
+                            Einsiedel, Kön. Sächs. Gesandten am Kais. Russischen Hofe, welcher den
+                            ägyptisirenden Orpheus in der Mitte der seiner Lyra lauschenden Thiere
+                            abbildet, 3) über die Denkmäler, welche als Amulete gegen den
+                            Augenzauber, den <hi rendition="#aq">Fascinus</hi>, anzusehen sind,
+                            mußte ich aufsparen, um inhaltreichen Fortsetzungen von Aufsätzen, deren
+                            Anfang im ersten Band enthalten ist, und andern interessanten
+                            Mittheilungen den Platz nicht zu verengen" (S. XXI). </note>
+                    </seg>. Zwar möchte ich gerne über Manches mit Ihnen zanken. Aber Briefe sind zu
+                    kurz, und diesen Sommer kann ich nicht hoffen, zu Ihnen zu kommen, und es
+                    persönlich zu thun. Schöner wäre es, wenn der September oder October Sie gesund
+                    und frohen Sinnes <seg type="comment">
+                        <orig>zu uns herüber trüge</orig>
+                        <note xml:id="nilm_kxj_lx"/>
+                    </seg>. – <seg type="comment">
+                        <orig>Sie sind einmal ein eifriger <persName key="ed_f1x_mp5_kx">Creuz<subst>
+                                    <del rendition="#ow">ig</del>
+                                    <add place="across">er</add>
+                                </subst>neaner</persName>
+                        </orig>
+                        <note xml:id="ntwl_w5j_lx">Im Vorbericht zum 2. Band der "Amalthea" schreibt
+                            Böttiger anlässlich seiner im Sommer 1821 "wie gewöhnlich im Vorsaal des
+                            Königl. Antikenmuseums über den Cyclus der Herculesfabel in Beziehung
+                            auf bildliche Darstellungen" gehaltenen Vorlesungen: "Sie ganz so
+                            wiederzugeben, wie ich sie im freien Vortrage nach den vorliegenden
+                            Schriftstellen und Abbildungen zu halten pflege, würde beim Mangel der
+                            zum vollständigen Niederschreiben erforderlichen Zeit das Maß meiner
+                            vielfach in Anspruch genommenen Kräfte übersteigen. Aber es handelt sich
+                            doch auch eigentlich nur um den Gang der ganzen Forschung, die hier
+                            vielfach in den phönizischen und ägyptischen Orient einschreitet und
+                            sich mit meines wahrhaft verehrten Freundes Creuzer Entwickelungen in
+                            der neuen Ausgabe seiner Symbolik nie abstoßend, fast immer befreundend
+                            und die geistreichsten Zusammenstellungen dankbar benutzend begegnet"
+                            (S. XX). </note>
+                    </seg>, – man muß Sie gewähren laßen. Ich bedauere, es nicht seyn zu können.
+                    Seine langweilige, tödtende Methode, die sich immer wiederholt, und nie ein <hi rendition="#aq">resultat</hi> giebt, ist nicht für mich. klar, kurz, und
+                    folgerecht ist mein Losungswort; mit dem <hi rendition="#aq">desultori</hi>schen
+                    hin und her Schwatzen komt man nicht weiter. <seg type="comment">
+                        <orig>Über die <hi rendition="#aq">Aegyptiaca</hi> werden wir uns vor der
+                            Hand noch nicht nähern</orig>
+                        <note xml:id="nbzz_w5q_lx">Böttiger hatte im "Vorbericht" zum 2. Band der
+                            "Amalthea" über Hirt geschrieben: "Zu derselben Zeit, wo ich die Zusätze
+                            zu dieser Noehdenschen Abhandlung schrieb, erhielt ich vom Herrn Hofrath
+                            Hirt in Berlin [...] auch sein neuestes mythologisches Werk: <hi rendition="#aq">über die Bildung der Ägyptischen Gottheiten (aus den
+                                Schriften der K. Akademie der Wissenschaften von 1821. abgedruckt)
+                                Berlin, Reimer, 1821.</hi> freundschaftlich mitgetheilt. / Indem ich
+                            den rastlosen Eifer meines erprobten alten Freundes, der kaum seine
+                            klassische Geschichte der alten Baukunst in zwei Bänden vollendet hatte
+                            und schon wieder auf einem andern Felde volle Garben bindet, alle
+                            Gerechtigkeit widerfahren lasse und der Aeußerung, womit er die
+                            Uebersendung dieser Abhandlung brieflich begleitete, daß viele seine <hi rendition="#aq">Aegyptiaca</hi> gewagt finden würden, daß er aber
+                            unbekümmert darum, ob andere sie widerlegen oder weiter fördern wollten,
+                            die ersten Umrisse zu geben sich gedrungen gefühlt habe, des Mannes, dem
+                            seine Wissenschaft über alles werth ist, vollkommen würdig finde:
+                            erlaube ich mir, der nachsichtvollen Aufnahme meiner Bemerkung im voraus
+                            versichert, etwas von dem zu wiederholen, was ich ihm selbst schon
+                            mitzutheilen Gelegenheit hatte. Mir scheint es allerdings ein fast
+                            verwegenes Unternehmen, den ganzen hellenischen Olympus in die Schaar
+                            der ägyptischen Zwölf- und Achtgötter so in Reih und Glied einzuordnen.
+                            Denn wenn auch bei einigen Gottheiten die Identität kaum einem Zweifel
+                            unterliegt, wie z. B. bei der Neith = Athene, beim Phthas = Hephästos,
+                            auch wohl beim Horus = Apollo, bei der Bubastis = Luna, beim Anubis =
+                            Hermes: so dürfte es doch bei den meisten, selbst wenn man die Berichte
+                            des redlichen Herodotos in allen Ehren läßt, nur auf eine verähnlichende
+                            Parallele abgesehen seyn. Wie wären z. B. jene alten Aegypter aus der
+                            Sesostridenzeit zu einem Ares gekommen, der gewiß ursprünglich nichts
+                            als ein vermenschlichter, aus dem angebeteten Speerfetisch der weithin
+                            sich erstreckenden thrazischen Völkerschaften hervorgegangener
+                            gewaltiger, anfangs aber sehr roher Speerhalter ist und daher auch
+                            verhältnißmäßig von der griechischen Kunst am seltensten gebildet wurde?
+                            Der jugendliche Heros in Tentyris ist sicherlich kein Ares, so wenig als
+                            alles, was von der ägyptischen Aphrodite = Athyr berichtet wird, in
+                            irgend einer thatsächlichen, nicht bloß accomodirten Beziehung mit der
+                            assyrischen Urania, der phönizischen Astarte und der hellenischen
+                            Aphrodite steht. [Dazugehörige Fußnote: "Vgl. <hi rendition="#aq">Münters Religion der Karthager</hi> nach der neuen Ausgabe, im
+                            Abschnitt <hi rendition="#aq">Astarte</hi> S. 62. ff., mit welchen
+                            Ansichten ich vollkommen einverstanden bin."] Ueberall wo die
+                            Priestersage eintritt, wie z. B. beim Incest des Papremitischen Mars,
+                            muß richtiges Erfassen der Allegorie und Symbolik uns die Fackel
+                            anzünden, und wer ist da ein kundigerer Daduchos, als Creuzer? Indeß war
+                            es eine reife Frucht der Zeit, daß einmal nach den Bestimmungen der
+                            neuesten archäologischen Forschung das hellenische und ägyptische
+                            Göttersystem mit einander verglichen würde, und wer vermochte dieß
+                            vollständiger zu thun, als der Verfasser des selbst von den Ausländern
+                            mit Achtung anerkannten und <hi rendition="#u">gebrauchten</hi>
+                            mythologischen Bilderbuchs, zu welchem diese <hi rendition="#aq">Aegyptiaca</hi> den dritten Theil machen? Seine schnelle
+                            Bekanntmachung wird vielfachen Nutzen stiften, erweckend von
+                            Schlummerpfülen des Hergebrachten, zur neuen Prüfung zwingend, zum
+                            Widerspruch reitzend. Ein großes Verdienst dieser Schrift besteht in der
+                            klugen Auswahl und geschickten Zusammenstellung so vieler und so
+                            vielsagender Bildwerke, aus der kostbaren <hi rendition="#aq">Déscription de l'Egypte</hi>, die doch auch jetzt nach des
+                            begünstigten Pancoucke's Vervielfältigungsmethode den Meisten
+                            unzugänglich bleibt. So muß, was dort gleichsam in Barren aufgeschichtet
+                            liegt und wozu Belzoni's neu entdecktes Königsgrab auch dann, wenn seine
+                            Leichtigkeit im Entziffern hieroglyphisch geschriebener Eigennamen
+                            gegründeten Zweifeln unterläge, so wie Gau's nubische Denkmäler, auch
+                            noch gediegenes Metall eingeliefert haben, nach und nach ausgemünzt
+                            werden. Denn warum sollte nicht jene Masse von Monumenten und
+                            nichthieroglyphischen Bildwerken aus jenen Prachtwerken auch noch für
+                            mehrere Zweige des menschlichen Forschens und Wissens angewandt und in
+                            belegenden Umrissen mitgetheilt werden." (S. XXIII-XXV). - Des weiteren
+                            bemerkt Böttiger in einer Fußnote auf S. 176: "Man muß annehmen, daß die
+                            alt-ägyptische Götterlehre gar keinen wahren Helios hatte (so wie ihn
+                            der Grieche personifizirte), weswegen die von Hirt neuerlich gegebene
+                            Ansicht <hi rendition="#aq">über die Bildung der ägyptischen
+                                Gottheiten</hi> S. 17 ff. wohl manche sehr beschränkende Bestimmung
+                            erleiden dürfte. Allein Horus ist die Sonne in ihrer höchsten Kraft in
+                            der Sommersonnenwende, und also dem Helios = Apollo der Griechen noch am
+                            meisten entsprechend." </note>
+                    </seg>; aber was iezt noch nicht ist, kann mit der Zeit geschehen. Ich wünsche
+                        <pb n="2"/> nichts, als Beleuchtung der Sache. Bloße Meinungen können hier
+                    weder genügen, noch fruchten. Das Rechte wird sich bewähren, welchen Anstand es
+                    auch finde, sich durchzuarbeiten. Ich bleibe indeßen fest überzeugt, daß man nur
+                    durch <placeName key="prov_oxg_n4j_2v">
+                        <hi rendition="#aq">Aegypten</hi>
+                    </placeName> in die Meinungen und Culturgeschichte anderer Völker eindringen
+                    kann.</p>
+                <p>In Rücksicht <bibl sameAs="ed_bkd_wkk_jx">meines Aufsatzes über das Nackte</bibl>
+                    scheinen Sie von mir zu fordern, was ich absichtlich nicht geben wollte. Meine
+                    Absicht <add place="superlinear">war</add> bloß dem Grunde nachzuspüren, wie die
+                    Griechen bereits im Anbeginn ihres Kunstbetriebes darauf kamen, daß Spätere
+                    sagen konnten: <seg type="comment">
+                        <orig>
+                            <hi rendition="#aq">res graeca est nil velare</hi>
+                        </orig>
+                        <note xml:id="na2p_c1k_lx">"Graeca res nihil velare": Plinius, Naturalis
+                            Historiae 1, Buch 34, § 18, Z. 4. – Böttiger hatte bei seinen Zusätzen
+                            zu Hirts Aufsatz über die Amymone-Fabel diesen Ausspruch zitiert.</note>
+                    </seg>. Denn daß einige Götter bald gekleidet, bald nackt, bald mehr, bald
+                    weniger bedeckt vorgestellt wurden, hat hier nichts mit der Sache zuthun, und
+                    daß <hi rendition="#aq">
+                        <persName key="prov_bvn_kqm_y5">Neptun</persName>
+                    </hi> zu den Frühesten gehörte, welche ganz nackt gebildet wurden, wird
+                    Niemand <add place="superlinear">be</add>zweifeln, wem die ältesten Münzen von
+                        <placeName key="ed_vcl_dgq_lx">
+                        <hi rendition="#aq">Paestum</hi>
+                    </placeName>bekannt sind. Gern erlaube ich aber jedem, das Räthsel, was ich zu
+                    lösen bemüht war, auf einen andern Wege und gründlicher durchzuarbeiten. Mir
+                    komt oft vor, daß Sie etwas schnell arbeiten, und ohne die Gründe des Gegners
+                    immer vorher recht beherzigt zu haben. Die <hi rendition="#aq">Archaeolog</hi>en sind einmal ein streitendes volk, und gut ist es,
+                    daß es so ist; dadurch wird die Wißenschaft gefördert, und der Kern von der
+                    Spreu gesondert. Ich würde noch manches andere beyfügen, wenn ich wüßte, daß Sie
+                    in Ihrer Genesung so weit <subst>
+                        <del rendition="#s">sind</del>
+                        <add place="superlinear">wären</add>
+                    </subst>, um an solchen Dingen ernsten Antheil zu nehmen. Iezt nur noch einige
+                    Kleinigkeiten: <seg type="comment">
+                        <orig>
+                            <seg type="comment">
+                                <orig>die <rs type="artwork" key="prov_avt_y3q_lx">Sammlung <hi rendition="#aq">Biscari</hi>
+                                    </rs>
+                                </orig>
+                                <note xml:id="nlgt_djq_lx">Die berühmte Sammlung wurde von Ignazio
+                                    Paternò Castello, Principe di Biscari in seinem Palast in
+                                    Catania angelegt und von seinem Sohn Vincenzo (geb. 1742)
+                                    fortgeführt. Bibliothekar und Kurator der Sammlungen war der
+                                    Botaniker Abbate Domenico Sestini, der eine Beschreibung der
+                                    Sammlungen herausgab (1776, <hi rendition="#sup">2</hi>1787).
+                                    Die Sammlung wurde von vielen Reisenden besucht; sie gehörte
+                                    neben dem Ätna zur Grand Tour. Goethe sah sie im Mai 1787 und
+                                    gab eine begeisterte Beschreibung im 2. Band seiner
+                                    "Italienischen Reise".</note>
+                            </seg> ist nicht in <placeName key="prov_nyb_ksg_w5">
+                                <hi rendition="#aq">Palermo</hi>
+                            </placeName>, sondern in <hi rendition="#aq">
+                                <placeName key="prov_ey3_lqg_w5">Catania</placeName>
+                            </hi>
+                        </orig>
+                        <note xml:id="ngdy_ncr_lx">Die falsche Angabe von Böttiger in einer Fußnote
+                            auf S. 296 im 2. Band der "Amalthea"</note>
+                    </seg>. – <seg type="comment">
+                        <orig>
+                            <persName key="ed_vys_btw_nw">
+                                <hi rendition="#aq">Koehler</hi>
+                            </persName> mag an der ächtheit der <hi rendition="#aq">Argenteria
+                            </hi>zweifeln, so lange er Lust hat.</orig>
+                        <note xml:id="ndph_sqq_lx">Im "Vorbericht" zum 2. Band der "Amalthea"
+                            schreibt Böttiger dazu: "Was jene silberne Toilette im Besitz des Hrn.
+                            von Schellersheim betrifft, hatte Hr. Hofrath Hirt als Augenzeuge ihrer
+                            Alterthümlichkeit, wenn auch aus einer sehr späten Zeit des sehr
+                            gesunknen Geschmacks, in einem Brief an mich bestätigt. Auf meine
+                            Meldung dieses Zeugnisses erwiederte Hr. von Köhler in einem Schreiben
+                            von 25. Febr. 1821. folgendes: 'Die Toilette von Silber habe ich nicht
+                            gesehen; Visconti's Abhandlung, die ich besitze, noch nicht gelesen.
+                            Doch möge mir Hr. Hirt verzeihen, wenn mir Marini's Urtheil überwiegend
+                            scheint. Morelli sprach auch ohne Rückhalt davon, und wer die Geldliebe
+                            der Italiener in den jetzigen armen Zeiten kennt, findet zehnmal Betrug
+                            und nur einmal Aechtheit. Die jetzt lebenden Steinschneider und
+                            Bildhauer begnügen sich sogar mit <hi rendition="#aq">10 p.
+                                C.</hi> Wenn sie nämlich damals für einen verfälschten
+                            Marmorkopf, eine Gemme oder Mosaik 300 Dukaten erhielten, nehmen sie
+                            jetzt mit Vergnügen 30. Jene <hi rendition="#aq">Argenteria</hi> würde längst ein großes Museum geschmückt
+                            haben, (in Rußland weiß ich 3 bis 4 Privatleute, welche sie gleich
+                            kaufen würden,) hinge ihnen nicht der Makel der Unächtheit an.'" (S.
+                            XVI). </note>
+                    </seg> Ich hab' sie gesehen, und nach allen Theilen genau gesehen, und weiß, was
+                    ich <pb n="3"/> gesehen habe; und wenn <persName key="ed_udm_z2j_xv">
+                        <hi rendition="#aq">Marini</hi>
+                    </persName> zweifelhaft darüber gesprochen haben sollte, so muß er die sache nur
+                    flüchtig angesehen haben. Die <hi rendition="#aq">Argenteria</hi> ist
+                    eben so ächt, als der <rs type="artwork" key="prov_blc_1wy_z5">
+                        <hi rendition="#aq">Apollo</hi> von <hi rendition="#aq">Belvedere</hi>
+                    </rs>. – <seg type="comment">
+                        <orig>Daß <persName key="ed_qnt_bnm_vw">
+                                <hi rendition="#aq">Tiersch</hi>
+                            </persName> am <hi rendition="#aq">Basrelief</hi> der <hi rendition="#aq">
+                                <persName key="ed_bbw_bnq_lx">Amazonen</persName>
+                            </hi> die ähnlichen Ärmel bemerkte, wie an der <persName key="ed_i4z_wjt_1x">
+                                <hi rendition="#aq">Medea</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="ne5v_1pq_lx">In seinem "Vorbericht" im 2. Band der "Amalthea"
+                            zitiert Böttiger aus einem Brief von Thiersch: "Aufgefallen ist mir, daß
+                            Hirt die Kleidung der Medea mit herabhängenden Ermeln, die wir immer die
+                            Kolchische (modern die Husarenkleidung) nennen wollen, als allein auf
+                            diesem Denkmal sich findend bezeichnet und Sie ihm beistimmen. Sie ist
+                            vollkommen so und noch deutlicher an den Amazonen auf dem berühmten
+                            Wiener Sarkophag mit der Amazonenschlacht auf drei Seiten zu sehn und
+                            von einem Erklärer dieses ausgezeichneten Reliefs in <hi rendition="#aq">Bouillon's Musée des antiques</hi> anerkannt
+                            worden. Auch erinnere ich mich, an einem alten weiblichen Kopf mit dem
+                            Anfang der Schulter und der Brust auf einem antiken Stein den obersten
+                            Theil dieses Rocks genau bemerkt zu haben, wo die Erklärer sich nicht zu
+                            helfen wußten." (S. XII-XIII). </note>
+                    </seg>, ist für mich intereßant, und es kann <add place="superlinear">so</add>
+                    seyn, obwohl ich sehe, daß ich <seg type="comment">
+                        <orig>bey der Beschreibung dieses schönen <hi rendition="#aq">Reliefs</hi>, welche ich vor fünf Jahren davon machte</orig>
+                        <note xml:id="njf4_15q_lx"/>
+                    </seg>, nichts <del rendition="#s">von</del> dergleichen bemerkte. Indeßen kann
+                    ich die Angabe nicht bestreiten. – <seg type="comment">
+                        <orig>Anders verhält es sich mit dem <hi rendition="#aq">Material</hi> der <hi rendition="#aq">
+                                <rs type="artwork" key="prov_xj1_1xy_jv">tabula iliaca</rs>
+                            </hi>
+                        </orig>
+                        <note xml:id="nxwl_rsq_lx">Im "Vorbericht" zum 2. Band der "Amalthea"
+                            zitiert Böttiger aus einem Brief des Naturforschers, Zoologen und
+                            Anthropologen Johann Friedrich Blumenbach vom 12. Mai 1821: "Ich bemerke
+                            hier nur noch im Vorbeigehn, daß wenn Hr. Hirt S. 225. [des 1. Bandes
+                            der "Amalthea"] behauptet, die bekannte <hi rendition="#aq">Tabula
+                                Iliaca</hi> sey aus weißlichem Kalktuffe, dies <hi rendition="#aq">Fabretti's</hi> (p. 315.) und anderer
+                            Behauptungen, die sie aus Stucco bestehen lassen, geradezu widerspricht.
+                            So hab ich's immer gehört." In einer Fußnote bemerkt Böttiger hierzu:
+                            "Hr. D. Schorn in den nach Heyne fortgesetzten sehr gelehrten
+                            Erklärungen zu W. Tischbeins <hi rendition="#aq">Homer nach Antiken
+                                gezeichnet</hi>, Heft VII, wo auf der 2ten Tafel diese Ilische
+                            Bildertafel zum erstenmal ganz ächt aufgestellt worden ist, bezeichnet
+                            sie zwar auch S. 13. als aus Stucco bestehend, citirt aber doch zugleich
+                            die Stelle der Amalthea, wo Hirt von weißlichem Kalktuffe spricht. Auch
+                            Visconti spricht stets von Stucco. Wer hat nun Recht?" (S. XIX). </note>
+                    </seg>, die nicht etwa ein Abguß aus einer Form ist, denn man sieht deutlich,
+                    daß sie geschnitten, und ziemlich nachläßig gearbeitet ist. –</p>
+                <p>Diesen Sommer bleibe ich zwischen den Gemälden der <rs type="artwork" key="prov_ggw_yml_vw">
+                        <persName key="ed_dgx_jml_vw">Sollyschen</persName> Sammlung</rs> begraben.
+                    Das Ordnen derselben ist eine wahre Riesenarbeit. Indeßen hoffe ich, nicht
+                    darunter zu unterliegen. Wir dürfen immer beßere Hoffnung für das Gedeihen
+                    unseres <placeName key="prov_up1_xwt_fv">
+                        <hi rendition="#aq">Museum</hi>
+                    </placeName> haben, obwohl wir noch <add place="superlinear">nicht</add> am
+                    Ziele sind. Ich schreibe Ihnen, was ich hörte, aber noch nicht bestimmt weiß,
+                    nämlich <seg type="comment">
+                        <orig>daß die <hi rendition="#aq">
+                                <rs type="artwork" key="prov_nv1_gfr_lx">Diana colonna</rs>
+                            </hi> in <placeName key="prov_vkl_ndl_js">Rom</placeName> für uns
+                            angekauft sey</orig>
+                        <note xml:id="nplj_lgr_lx">Die sogenannte "Artemis Colonna" wurde 1822 aus
+                            dem Nachlass des Fürsten Colonna von dem preußischen Gesandten in Rom,
+                            Barthold Georg Niebuhr, mit Genehmigung von Friedrich Wilhelm III.
+                            angekauft (Vogtherr 1997, S. 167). Zu Beschreibung, Datierung,
+                            Interpretation, Restaurierung vgl. Astrid Fendt, 2012, Bd. 2. – "Konrad
+                            Levezow rühmte den Ankauf als eine 'schätzbare Vermehrung' der
+                            Königlichen Sammlung' (Levezow 1824, S. 28 f.) und wies darauf hin, dass
+                            'der daran befindliche ursprüngliche Kopf [...] immer für einen der
+                            schönsten Dianenköpfe gehalten worden [ist]' (Levezow 1828, S. 317). Die
+                            Bedeutung der Erwerbung kam auch darin zum Ausdruck, dass Mitte der
+                            1820er Jahre ausführliche Nachforschungen in Auftrag gegeben worden
+                            sind, um den Fundort zu ermitteln (Vogtherr 1997, S. 167). / Die Statue
+                            wurde 1830 mit den bestehenden Ergänzungen im Kompartiment 5 des 'langen
+                            Hauptsaales' im Königlichen Museum aufgestellt" (zitiert nach: <ref target="http://arachne.uni-koeln.de/arachne/index.php?view%5Blayout%5D=objekt_item&amp;search%5Bconstraints%5D%5Bobjekt%5D%5BsearchSeriennummer%5D=53182">Janina Rücker,</ref> – Version vom 30.09.2016). </note>
+                    </seg> – allerdings würde diese Göttin eine Perle für unser Museum seyn.</p>
+                <p>Leben Sie wohl, und laßen Sie mich bald wißen, daß Sie die Operation glücklich
+                    bestanden haben. Auch meine Empfehlungen an Ihren <persName key="ed_oww_n3r_lx">zweyten Sohn</persName>, der dem vater so treulich zur Hand ist.</p>
+                <closer>
+                    <salute>Der Ihrige</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

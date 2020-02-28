@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_jmc_rjr_lz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich Melchior Baron von Grimm, vor Mitte Januar 1794]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1794-06-21-a-SWE-AnnaAmalia: " Ich schrieb demselben [Grimm] von Wien
+                    aus, sobald ich den Tod Reiffenstein's erfuhr. Ich fand bey meiner Ankunft
+                    allhier seine Antwort, die nicht ungüstig lautete; seither erfuhr ich aber
+                    nichts weiter."</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ikk_st5_w5">Grimm, Friedrich Melchior Baron von (1723-1807)
+                        (Schriftsteller, Diplomat, Bevollmächtigter des Herzogs von Sachsen-Gotha in
+                        Paris, Kunstankäufer von Katharina der Großen)</persName>
+                    <date notBefore="1793-10-06" notAfter="1794-01-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                </correspAction>
+                <note>Hirt fand den Brief bei seiner Rückkunft nach Rom "Mitte des Jenners" 1794
+                    vor.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

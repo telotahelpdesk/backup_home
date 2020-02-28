@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hf2_22k_jx">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich August Wolf. Berlin, 1. November 1821.</title>
+                <title> Donnerstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Biblioteka Jagiellónska, Kraków (ehemals Preußische
+                            Staatsbibliothek zu Berlin)</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">[keine Signatur vergeben]</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1821-11-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_jzw_xhq_bw">Wolf, Friedrich August (1759-1824) (Altphilologe
+                        und Altertumswissenschaftler, ab April 1807 in Berlin, seit 1799 auswärtiges
+                        Mitglied der Akademie der Wissenschaften zu Berlin, seit 1812 EM, 1810
+                        Direktor der Wissenschaftlichen Deputation für die Sektion des öffentlichen
+                        Unterrichts im Ministerium und Prof. für klassische Philologie)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_v4d_zrk_jx"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute/>
+                </opener>
+                <p>Ich habe Ihnen schon längere Zeit Einiges als Antwort auf <seg type="comment">
+                        <orig>Ihre gefällige Zuschrift</orig>
+                        <note xml:id="nqvb_jkk_jx">Brief erschlossen: [1821-zwischen 06-04 und
+                            11-01-v-Wolf].</note>
+                    </seg> sagen wollen; aber Zerstreuungen mancherley Art wollten mich bis iezt
+                    nicht dazu kommen laßen. Ich hatte eine <bibl sameAs="ed_bkd_wkk_jx">Abhandlung</bibl> zu schreiben, die ich heute in der <orgName key="ed_znn_dfc_b1b">Akademie</orgName> vortragen muß. <add place="superlinear">Ich</add> mußte mich etwas auf die <seg type="comment">
+                        <orig>Collegien</orig>
+                        <note xml:id="nrkc_nlk_jx">Hirt hielt im Wintersemester 1821/22 an der
+                            Universität eine öffentliche Vorlesung über die "Lehre von der
+                            bildlichen Mythologie der Alten".</note>
+                    </seg> praeparieren, und dann giebt mir der <seg type="comment">
+                        <orig>Druck meiner <bibl sameAs="ed_ahk_qy5_dw">Geschichte</bibl>
+                        </orig>
+                        <note xml:id="ncht_vlk_jx">Hier ist der 2. Band gemeint. Den ersten Band
+                            hatte Hirt am 4. Juni 1821 an Wolf geschickt.</note>
+                    </seg>, der sich noch immer hinzieht, viel zu schaffen.</p>
+                <p>Heute nun ließ ich mir <seg type="comment">
+                        <orig>Ihren <persName key="ed_xmg_nwl_jx">
+                                <hi rendition="#aq">Suetonius</hi>
+                            </persName>
+                        </orig>
+                        <note xml:id="nhfc_ctk_jx">
+                            <bibl sameAs="ed_oh1_fxl_jx">C. Suetonii Tranquilli opera. Textu ad
+                                Codd. Mss. recognito cum Io. Aug. Ernestii Animadversionibus nova
+                                cura auctis emendationisque et Isaaci Casauboni. Commentario edidit
+                                Frid. Aug. Wolfius. Insunt reliquiae Monumenti Ancyrani et fastorum
+                                praenestionorum. Vol. I-IV, Leipzig 1802</bibl>.</note>
+                    </seg> holen (da ich nur <seg type="comment">
+                        <orig>
+                            <bibl sameAs="ed_zhy_yxl_jx">den <persName key="ed_wgx_mxl_jx">
+                                    <hi rendition="#aq">Graevius</hi>
+                                </persName>
+                            </bibl>
+                        </orig>
+                        <note xml:id="npbn_4vl_jx">C. Suetonius Tranquillus ex recensione Ioannis
+                            Graevii cum eiusdem animadversionibus, ut &amp; commentario integro
+                            Laevini Torrentii et Isaaci Casauboni: his accedunt notae Theodori
+                            Marcilii et Francisci Guyeti, nec non index Matthiae Bernecceri. Utrecht
+                            1672</note>
+                    </seg> habe), um die Stelle wegen <hi rendition="#aq">
+                        <persName key="ed_k5n_vpv_yw">Curtius</persName>
+                    </hi> nachzusehen, und ich freue mich zu sehen, <seg type="comment">
+                        <orig>daß Sie mit andern auch der Meinung sind: der genannte <hi rendition="#aq">Rhetor</hi> sey wohl mit dem Geschichtschreiber ein
+                            und dieselbe Person</orig>
+                        <note xml:id="narf_brl_jx">Bei Wolf heisst es: "Man hat lange gestritten, in
+                            welche Zeit er gehört [...]. Es fand sich ein Curtius in Taciti ann. 2,
+                            20. Endlich fiel man darauf, dass der Name, vorn vor den Rhetoren,
+                            welche dem Suetonius vorgesetzt sind, Q. Rufus Curtius, auf den unsrigen
+                            ginge. Wenn es dieser ist, so hat Curtius vor dem Suetonius gelebt, und
+                            muss bis in Claudius Zeiten gelebt haben. Dass er es sey, ist
+                            wahrscheinlich; cf. Plinii ep. 7, 27., wo er als ein Rhetor erwähnt
+                            wird, der unter August lebte. Ich halte ihn für den Urheber dieses
+                            Werks, das recht gut in diese Zeit passt." (Fr. Aug. Wolf's Vorlesungen
+                            über die Alterthumswissenschaft, herausgegeben von J. D. Gürtler,
+                            Diaconus zu Goldberg, in Schlesien. Dritter Band. Leipzig 1832, S. 286).
+                        </note>
+                    </seg>. - Ich gestehe, daß, so groß auch die Opposition der Classe, und der
+                    ganzen <orgName key="ed_znn_dfc_b1b">Akademie</orgName> gegen mich war, <seg type="comment">
+                        <orig>ich nie einen Augenblick in meiner Ansicht wankte</orig>
+                        <note xml:id="ny1d_y5k_jx">Hirt las in der Gesamtsitzung der Akademie der
+                            Wissenschaften am 11. März 1819 "Über das Leben des Geschichtschreibers
+                            Q. Curtius Rufus" und gab in der Klassensitzung am 11. Mai 1819 einen
+                            "Nachtrag zu seiner Abhandlung". Beides erschien gedruckt u.d.T.: Über
+                            das Leben des Geschichtsschreibers Q. Curtius Rufus" (Berlin: Nauck,
+                            1820, 58 S.). Darin heisst es u.a.: "Ich beginne damit: zu gestehen,
+                            dass ich unbedingt denen beitrete, welche meinen, Curtius habe im
+                            Zeitalter des Augustus geschrieben. Ja es scheint mir räthselhaft, wie
+                            eine lange Reihe der gelehrtesten Männer die klaresten Andeutungen so
+                            wenig benutzt hat, eine solche Meinung ausser allen Zweifel zu setzen"
+                            (S. 4). "[...] findet sich in dem Verzeichnisse der berühmten Rhetoren
+                            bei Sueton der Namen des Q. Curtius Rufus, welcher gerade in die Zeit
+                            fällt, welche wir bisher dem Geschichtschreiber angeeignet haben. Denn
+                            bekanntlich hat Sueton das Leben der berühmten Rhetoren nach der
+                            Zeitfolge abgehandelt; aber nur der erste Theil dieser Leben ist auf uns
+                            gekommen, und unter den mangelnden ist auch das von Curtius. In dem
+                            chronologischen Verzeichnisse aber nimmt sein Namen gerade die Stelle
+                            ein nach den Rhetoren L. Caestius Pius, und M. Porcius Latro, wovon der
+                            erste in das 31ste, und der zweite in das 40ste Jahr des Augustus
+                            gesetzt wird. [...] Diese für unsern Historiker passende Zeit lässt
+                            annehmen, dass er, und der bei Sueton verzeichnete Rhetor eine und
+                            dieselbe Person sey" (S. 13-14). In seinem "Nachtrag" fügt Hirt hinzu:
+                            "Mit vorstehender Abhandlung waren verschiedene meiner gelehrten
+                            Freunde, die ich in solchen Fächern des Wissenschaftlichen besonders
+                            hochschätze, nicht zufrieden. Mündlich und schriftlich kamen mir
+                            Bemerkungen und Einwendungen zu; und einer glaubte sich verpflichtet, in
+                            einem besondern Aufsatz die Grundansichten, worauf sich meine Meinung
+                            stützet, zu entkräften [= Buttmann], und die Meinung derjenigen, welche
+                            glauben, dass Curtius im Zeitalter Vespasian gelebt habe, zu
+                            vertheidigen. Dies that er mit aller jener Lebendigkeit des Geistes,
+                            welchen allen seinen gelehrten Produkten eigen ist. Das
+                            freundschaftliche Verhältniss, in welchem ich zu allen diesen Männern
+                            stehe, und meine wahre Achtung für ihre Kenntnisse machen es mir zu
+                            Pflicht, solche Einwürfe und Gründe unumwunden darzulegen" (S. 33).
+                            "Jetzt noch ein Wort über meine fernern Ansichten. Das Vorgetragene, als
+                            richtig angenommen, sehe ich keinen Widerspruch, unsern
+                            Geschichtschreiber in dem Rhetor gleiches Namens wieder zu finden. Die
+                            Zeit passt vollkommen, und in der Schreibart des Curtius zeiget sich die
+                            Kunst des Rhetor's. / Dies leitet weiter: Curtius Rufus, den der jüngere
+                            Plinius erwähnt, und dessen Tacitus so umständlich gedenkt, fällt in
+                            dasselbe Alter; und kein Grund verbietet, dass er nicht eine und
+                            dieselbe Person mit dem Historiker und Rhetor seyn sollte" (S. 56). - Im
+                            Protokoll der Klassensitzung der Historisch-Philologischen Klasse vom
+                            22. Februar 1820 heißt es: "Über eine die beiden streitenden
+                            Abhandlungen von Hirt u Buttmann über den Curtius wird eine neue
+                            Stimmung auf eine demnächst zu haltende Sitzung festgesetzt, bis H. Hirt
+                            seine Abhandlung nochmals werde cirkuliren lassen / Buttmann" (Archiv
+                            der BBAW, PAW (1812-1945) II-V-142, Bl. 127).</note>
+                    </seg>, und anstatt daß mich die Gegengründe überführen sollten, wunderte ich
+                    mich vielmehr, daß so klare Ansichten nur spät auf Einige <del rendition="#s">später</del> einwirkten. Aber so geht's bey eingewurzelten Vorurtheilen,
+                    und bey Grammatikern, bey denen ein vermeintlicher Buchstaben mehr gilt, als die
+                    lebendige und innere Andeutung historischer Ereigniße. Noch ist mir kein
+                    öffentliches Urtheil über <seg type="comment">
+                        <orig>die beiden Schriftchen</orig>
+                        <note xml:id="nztg_lyl_jx">Hirt: Über das Leben des Geschichtschreibers Q.
+                            Curtius Rufus, sowie des Nachtrags (siehe oben).</note>
+                    </seg>
+                    <del rendition="#s">nicht</del> zugekommen. Es scheint, <seg type="comment">
+                        <orig>als wenn <persName key="ed_jjj_syl_jx">Zumpt</persName> etwas darüber
+                            sagen wollte</orig>
+                        <note xml:id="ncdw_lzl_jx">Von Zumpt erschien später: Q. Curtii Rufi De
+                            gestis Alexandri Magni regis Macedonum libri qui supersunt octo. Berlin:
+                            Dümmler, 1826.</note>
+                    </seg>. Aber es will mich bedüncken, daß die Philologen fast den Muth verloren
+                    hätten, sich in die Sache zu mischen. Ich sehe dies fast als einen Triumph an.
+                    Denn mich haben ja die Philologen nicht zu schonen, da ich kein Philolog bin.
+                    Mancher mag aber noch eine kleine Scheu vor meinem <seg type="comment">
+                        <orig>
+                            <persName key="ed_ttv_m3q_bw"> Hauptopponenten </persName>
+                        </orig>
+                        <note xml:id="nasn_4rl_jx">Philipp Karl Buttmann; vgl. dessen Abhandlung
+                            "Über das Leben des Geschichtschreiber Q. Curtius Rufus. In Beziehung
+                            auf A. Hirts Abhandlung über denselben Gegenstand" (Berlin: Nauck,
+                            1820). Darin heisst es einleitend: "Mein Freund Hirt hat eine Abhandlung
+                            über den Curtius drucken lassen. Ich bin derjenige unter den von ihm
+                            erwähnten misbilligenden Freunden welcher seine Ausstellungen
+                            ausführlich und schriftlich abgefasst zu seiner Kenntniss brachte, und
+                            gegen welchen daher die Vertheidigung in der seiner Abhandlung
+                            angehängten Nachschrift gerichtet ist. Hätte diese Vertheidigung mich
+                            befriedigt, so war es vernunftgemäss dass es bei Hirts Schrift sein
+                            Bewenden hatte: da dies aber nicht der Fall ist, so ist es eben so
+                            vernunftgemäss dass denselben Richtern auch die Kritik vollständig
+                            vorgelegt werde welche Beklagter, seinem Zweck gemäss, in der
+                            Vertheidigung nur auszugsweise anführt. / Legte ich einen in Beziehung
+                            auf den eigentlichen Gegenstand, den Curtius, so wenig erschöpfenden und
+                            warum sollte ich das nicht sagen, so wenig gründlichen Aufsatz, ohne
+                            solche Veranlassung dem Publikum vor Augen; so wäre ich sehr tadelhaft,
+                            und alle schwache Seiten meiner Behandlung verdienten mit Rüge
+                            hervorgehoben zu werden. Itzt wird die Schrift selbst durch ihre
+                            Entstehung entschuldigt. Hirt trug in einem gelehrten Verein seine
+                            Abhandlung vor, und acht Tage darauf, weil gerade nichts bessers da war,
+                            ich meinen tadelnden Aufsatz: die Bekantmachung aber ist gerechtfertigt
+                            durch die Bekanntmachung der Abhandlung und ihre Vertheidigung. Eben
+                            darum gebe ich denn auch den Aufsatz ganz wie er in Inhalt und Form
+                            damals entstand. Aber eben deswegen muss das Publikum, um ein richtiges
+                            Urtheil über das Verhältnis der vor ihm auftretenden Personen zu haben,
+                            nun auch wissen, wie diese mit einander leben und umgehn. Ich trage kein
+                            Bedenken zu sagen: auf eine Art die allgemein zu empfehlen ist. Was Hirt
+                            von mir denkt, das mag er selbst sagen: hat's auch wol schon. Mir ist er
+                            ein unschätzbarer Freund; nicht nur seines Charakters wegen; und in
+                            Absicht des Wissens, nicht bloss wegen seiner Einsichten in den mir
+                            fremden Fächern, sondern auch des Reichthums wegen, den ich bei ihm
+                            selbst in solchen Gebieten der Gelehrsamkeit finde, die ein wesentlicher
+                            Theil auch meines Studiums sein sollten. Aber bei allem dem hat jeder
+                            von uns beiden in manchen Stücken auch solche Ansichten und solche
+                            Formen sie vorzutragen, worüber der andre manchmal aus der Haut fahren
+                            möchte. Das sagen wir uns denn auch. Und wie? So dass ein Ungebildeter
+                            in das grösste Erstaunen gerathen würde. Meistens jedoch ist es mit dem
+                            abgethan, was man in der Welt aufziehen oder schrauben heisst. Und
+                            hievon mag etwas in diesen Aufsatz, wiewohl er nicht eben in vertrautem
+                            Kreise, aber doch, wie schon berührt, nicht in amtspflichtigen
+                            Verhältnissen, vorgetragen ward, gekommen sein. Und das muss also
+                            ebenfalls bleiben; denn wer wollte sich löblicher Dinge schämen. / Dass
+                            ich aber auch keine Zusätze und Erklärungen, wiewohl dergleichen durch
+                            die Vertheidigung mehre veranlasst wären, mache, [...] das geschieht des
+                            Publikums wegen. Die Erfahrung lehrt es in jedem Streit, besonders in
+                            jedem gelehrten: jede Replik führt eine zweite nach sich, die ihrer
+                            Natur nach wenigstens doppelt so gross ist als die vorhergehende. Thut
+                            man sich Zwang an und sagt nur wenig, so stirbt die Sache; sagt jeder
+                            alles, so stirbt der Leser. Also muss ganz abgebrochen werden auch wo
+                            noch viel zu sagen wäre. Muss denn ich, muss denn Hirt alles sagen, was
+                            über Curtius gedacht werden soll? Selbst in den Litteraturzeitungen wird
+                            eine Grenze anerkannt; nur viermal hört in jenem Gericht das Publikum
+                            über dieselbe Sache reden, wenn es will: im Buch, in der Recension, in
+                            der Antikritik, in der Antwort. Der Recensent behält Recht.
+                            Vorausgesetzt dass man unsre drei Vorträge in der Folge lese in der sie
+                            sich auf einander beziehen, geht es hier weit billiger zu. Ich lasse
+                            meinem Autor Recht. So viel er hat, nehmlich" (S. 3-5).</note>
+                    </seg>
+                    <del rendition="#s">zu</del> haben. Sey dem, wie es wolle, <pb n="2"/> so mag
+                    doch mein Aufsatz einige beßere Ansichten über den armen <persName key="ed_k5n_vpv_yw">
+                        <hi rendition="#aq">Curtius</hi>
+                    </persName> verbreitet haben. Stolz kann mich ein solches Schriftchen -
+                    besonders da <del rendition="#s">ich</del> es nicht meines Faches ist, nicht
+                    machen; und ich wäre eben so geneigt, die Gegenmeinung anderer anzunehmen, als
+                    die meinige zu behaupten, wenn irgend Gründe von Gehalt mir entgegengesezt
+                    worden wären. Bloßes Ansehen von Personen kann nicht entscheiden. - Doch genug
+                    für den, der Grammatisches und Historisches zu einander mit gleicher Sicherheit
+                    zu würdigen versteht.</p>
+                <p>Daß Sie <seg type="comment">
+                        <orig>
+                            <placeName key="prov_y3f_tn3_sv">meine Inschrift</placeName>
+                        </orig>
+                        <note xml:id="nr2f_cjk_jx">Zu Hirts Inschrift am Königlichen Schauspielhaus
+                            vgl. 1821-06-04-a-Wolf.</note>
+                    </seg> anhaltend in Schutz nehmen, freuet mich. - Sie war freilich nur das Kind
+                    des Augenblickes, und ohne Ahnung, daß sie würde gewählt werden, besonders da
+                    die Philologen eher ein Recht gehabt hätten, darüber befragt zu werden, und ich
+                    selbst auch vorschlug, daß dies geschehen sollte. <seg type="comment">
+                        <orig>Ich
+                            habe das Latein, außer in meinen Schuljahren, nie
+                            geschrieben</orig>
+                        <note xml:id="nfvl_qw4_kx">Das von Hirt bei der
+                            Inschrift gewählte Stilmittel des Chiasmus lässt allerdings auf dessen
+                            gute Kenntnis des Lateinischen schliessen.</note>
+                    </seg>, und auch wenig
+                    Zeit und veranlaßung gehabt, in meinen späteren Jahren <del rendition="#s">reiflich</del> reiflich über den inneren Bau und den geschichtlichen
+                    Zusammenhang dieser Sprache nachzudenken. Nur desultorisch fiel ich manchmal auf
+                    dies oder jenes. Ich habe also gar keine <hi rendition="#aq">Praetension</hi> in solchen Dingen, obwohl es mich freuet, wenn ich
+                    zufällig gerade das errathen habe, was dem Kenner nicht mißfällt, und vor dem
+                    wahren Tribunal das Latein bestehen kann. - <seg type="comment">
+                        <orig>Die Stelle bey <persName key="prov_gh4_4y3_3v">Plinius</persName>
+                        </orig>
+                        <note xml:id="nffm_sjk_jx">Plinius: Naturalis historiae XII § 94. - Der
+                            Tempel auf dem Kapitol, der Jupiter, Juno und Minerva geweiht war,
+                            brannte 69 n. Chr. ab und wurde in den ersten Regierungsjahren des
+                            Vespasian wieder aufgebaut. Hirt kannte sicher die Inschrift an dem
+                            Tempel und die Ähnlichkeit der Ereignisse (Abbrennen eines Gebäudes und
+                            Neuaufbau) hat ihn möglicherweise veranlasst, auf die Wendung "incendio
+                            consumptum" zurückzugreifen.</note>
+                    </seg> kannte ich. - An dem <hi rendition="#aq">consum<del rendition="#s">p</del>ta</hi> anstatt <hi rendition="#aq">consumpta</hi>
+                    - bin ich unschuldig, und scheint von dem späteren Redacteur der Inschrift
+                    herzukommen. Denn obwohl in guten Schriftstellern (wenigstens in gedruckten),
+                        <hi rendition="#aq">ta</hi> und <hi rendition="#aq">pta</hi> promiscue gelesen wird; so war es doch von jeher meine weise
+                        <hi rendition="#u">
+                        <hi rendition="#aq">pta</hi>
+                    </hi> zu schreiben. Entscheidend sehe ich Ihren Grund für <hi rendition="#aq">a</hi> anstatt für <hi rendition="#aq">um</hi>
+                    an. - Empfangen Sie den Dank von <lb/>Ihrem</p>
+                <closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 1 Nov. 21.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

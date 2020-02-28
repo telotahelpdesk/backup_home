@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_vw3_b3m_bkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an den Staatsminister von Altenstein. Berlin, 5. Juli
+                    1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 86r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-07-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_tld_gkv_xjb"/>
+                </correspContext>
+                <note>Von Schreiberhand mit egh. Unterschrift. - Empfängerbemerkungen: "Citissime";
+                    B / pr den 7/7 24 / G v Harlem / 80."; "1211. B. J."; Aktenvermerk auf dem
+                    unteren Rand: "Berlin Wiss. S 114. vol III"</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qnr_4nm_pgb">Kunstmuseum – Restaurierungen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Koenigl: Wirklichen Geheimen Staats / Minister, Minister
+                            der Geistlichen, Un-/terrichts und Medizinal Angelegenheiten pp / Herrn
+                            Freyherrn von Altenstein / Excellenz</addrLine>
+                    </address>
+                </opener>
+				<p>Die nach Euer Excellenz Benachrichtigung vom 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Januar c<ex>urrentis</ex> zu unserer Disposition für das
+                        <rs type="artwork" key="prov_gky_hx2_gjb">Restaurations-Geschäft</rs>
+                    gestellten <lb/>Rthlr 5016, 17 S<ex>ilber</ex>gr. 8 d<ex>enar</ex>
+                        Cour<ex>an</ex>t <lb/>sind ihrer Bestimmung gemäß soweit verausgabt, daß
+                    selbst nicht einmal die Diaeten der Restaurateur-Gehülfen für den vergangenen
+                    Monat aus diesem Fonds haben berichtigt werden koennen, und die <orgName key="ed_pfj_35s_pjb">Casse</orgName> sich genöthigt gesehen hat, unsere
+                    diesfaellige Anweisungen zurückzuweisen.</p>
+                <p>Euer Excellenz werden gewiß mit uns die Ansicht theilen, daß es für das
+                    Restaurations-Geschäft hoechst nachtheilig ist, wenn die durch dasselbe
+                    veranlaßte Zahlungen auf unsere Anweisungen nicht geleistet werden, wir finden
+                    uns daher veranlaßt, Euer Excellenz ganz ergebenst zu ersuchen, nicht sowohl auf
+                    das Schleunigste zur Bestreitung der Kosten des Restaurations-Geschäfts einen
+                    neuen Fonds zu unserer Disposition zu stellen, sondern auch hochgeneigtest die
+                        <orgName key="ed_pfj_35s_pjb">Casse</orgName> anweisen zu wollen, zur
+                    Ergänzung desselben Euer Excellenz Anzeige davon zu machen, wann derselbe bis
+                    auf 500 <unclear reason="illegible" cert="">reichstaler</unclear> absorbirt ist,
+                    wodurch für die Folge ähnlichen Verlegenheiten, wie gegenwärtig eingetreten
+                    sind, vorgebeugt werden kann und das Restaurations-Geschäft einen ungestörten
+                    Fortgang behält.</p>
+				<closer>
+                    <dateline>Berlin den 5<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Juli
+                        1824.</dateline>
+                    <signed><ex>[gez.]</ex> Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

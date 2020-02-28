@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_pvl_yc2_bhb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an Karl Heinrich Frentzel (exped. Sekretär der Akademie der
+                    Wissenschaften). Berlin, 24. November 1806</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Archiv der BBAW</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">PAW (1700-1811), I-XV-8a, Bl.
+                            4r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-11-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_l5r_3bj_yfb">Frentzel, Karl Heinrich (1758-1824) (königl.
+                        Kriegsrat und Geh. expedierender Sekretär beim Departement der auswärtigen
+                        Angelegenheiten, 1791-Ende 1823 exped. Sekretär und Archivar der Königlich
+                        Preußischen Akademie der Wissenschaften, Verfasser kulturhistorischer
+                        Schriften und von Aufsätzen über die brandenburgisch-preußische
+                        Geschichte)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Auf demselben Blatt zuerst das Schreiben J. v. Müllers an Hirt; mit Adresse
+                    und Siegel.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Des Herrn Kriegesrath / Fraenzel Wohlgeb.</addrLine>
+                    </address>
+                </opener>
+				<p>Aus dem obigen wird Herr Kriegsrath Fraenzel ersehen, was <seg type="comment">
+                        <orig>in Rücksicht des Briefes an den <persName key="prov_ilt_bml_tv">Kaiser</persName></orig>
+                        <note xml:id="ni5s_ms2_bhb">Siehe 1806-11-22-alle Mitglieder der AdW an
+                            Napoleon.</note>
+                    </seg> noch zu thun übrig bleibet. Ich bitte also denselben ergebenst, noch eine
+                    Kopie von dem Briefe <del rendition="#s">zu</del> besorgen zu wollen, und
+                    dieselbe unversiegelt Herrn <persName key="ed_ajg_j2h_bw">v. Müller</persName>
+                    für den Minister <persName key="ed_nzv_zr2_bhb"><hi rendition="#aq">Maret</hi></persName> zuzustellen.</p>
+				<closer>
+                    <signed>Hirt</signed>
+                    <dateline>den 24<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Nov.
+                        06.</dateline>
+                </closer>
+            </div>
+            <postscript>
+                <p>Vorangehendes Schreiben <persName key="ed_ajg_j2h_bw">J. v. Müllers</persName> an
+                    Hirt, undatiert:</p>
+                <p>Adresse: <foreign xml:lang="fra">A Monsieur le Conseiller Ant<unclear reason="illegible" cert="">iquaire</unclear> / Hirt.</foreign></p>
+                <p><foreign xml:lang="fra">Je viens de recevoir la lettre à <persName key="prov_ilt_bml_tv">l'Empereur</persName>. Il est parti, mais cela ne
+                        fait rien. On dit qu'il revient en 4 jours; et si non, Monsieur <persName key="ed_nzv_zr2_bhb">Maret</persName> la lui enverra. En attendant,
+                        senchant que la chose est portée à la notice de <persName key="prov_ilt_bml_tv">S<ex>a</ex> M<ex>ajesté</ex></persName> il
+                        empêchera qu'on emporte rien. Mais il me parait tout-à-fait décent et
+                        convenable de donner à Mr <persName key="ed_nzv_zr2_bhb">Maret</persName>
+                        une copie de la lettre. Je ne sai à qui la demander. Traitez Vous encore ce
+                        merite, mon excellent ami, de me procurer une pareille copie, que je
+                        remettrai tout en suite à ce <persName key="ed_nzv_zr2_bhb">Ministre</persName>. <lb/>Tout à Vous <lb/>JvMuller.</foreign></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

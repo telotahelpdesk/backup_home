@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_nbq_xd5_hv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Von Johann Wolfgang von Goethe. Weimar, den [30. Januar 1798].
+                    Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Goethe WA IV, Bd. 13,1893, Nr. 3725, S. 44-46 (nach
+                            Konzept; Erstdruck)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date when="1798-01-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_akb_djf_f5"/>
+                </correspContext>
+                <note>Konzept von Schreiberhand (zS), H Verbleib unbekannt. - Zur
+                                Datierung: Das Konzept ist am Schluss datiert "Weimar am 25.
+                                December 1797". Dazu vermerkt der Hrsg. des Erstdrucks in der WA:
+                                "Unter dem 24. December 1797 hatte Goethe laut Briefverzeichniss
+                                (XII, 472) einen Brief an Legationsrath Weiland in Berlin
+                                geschrieben und laut Postrechnung (XII, 460) am 25. auch abgesandt,
+                                mit der Bitte, an Hirt 10 Louisd'or zu zahlen. Denselben Auftrag
+                                enthält auffälliger Weise der gleichfalls ohne Zweifel abgesandte
+                                Brief an Unger vom 30. Januar 1798, der sich auf vorliegendes
+                                Schreiben als Beilage bezieht, und dieses wiederum bezieht sich auf
+                                den Brief an Weiland als Beilage. Die Verwirrung löst sich durch die
+                                Annahme, dass Weiland den unter dem 24. December 1797 ihm ertheilten
+                                Auftrag nicht ausführte; dass ferner Goethe in dem am 24. December
+                                1797 bereits dictirten Brief an Hirt den Eingang bei der Absendung
+                                als Beilage zu 3724 [= An Unger, 30.01.1798] veränderte, indem er
+                                sich auf 43,22 bezog. Wir haben in 3725 somit keinen zuverlässigen
+                                Text des Briefs an Hirt vom 30. Januar 1798 vor uns, müssen vielmehr
+                                feststellen, dass in der wirklich abgesandten Handschrift zum
+                                mindesten der Anfang (44, 6-9), wahrscheinlich aber auch andere
+                                Theile (besonders 46, 6-9) andere Gestalt bekommen habe." (D1, S.
+                                380).</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener> </opener>
+                <p>Beyliegenden Brief bitte Herrn Legationsrath <persName key="prov_eyz_5ts_hv">Weiland</persName> zu übergeben welcher <seg type="critical">
+                        <orig>meine Schuld</orig>
+                        <note xml:id="nwby_qm5_hv">Für das kleinen Bild, das Goethe von Hirt
+                            erhalten hatte und das Domenichino zugeschrieben wurde; vgl.
+                            1797-09-26-a-Böttiger mit Sachanmerkung.</note>
+                    </seg> mit Dank abtragen wird. Das <rs type="artwork" key="prov_ehv_crw_gv">Gemählde</rs> macht mir je länger ichs besitze und sehe immer mehr
+                    Vergnügen.</p>
+                <p>Zugleich übersende ich einen Grund und Aufriß <seg type="critical">
+                        <orig>zu einem Zimmer</orig>
+                        <note xml:id="nm1m_vm5_hv">des Weimarer Stadtschlosses</note>
+                    </seg> nebst einigen wenigen Anmerkungen. Herr <persName key="prov_at2_4rw_gv">Genz</persName> hat ja wohl die Gefälligkeit eine Decoration desselben zu
+                    zeichnen und sein Honorar dafür zu bestimmen. Wir lernen seine Arbeiten näher
+                    kennen und es wird doch ein Anfang gemacht. Hätte ich allein zu thun, so würde
+                    ich ohne weiteres Bedenken das Ganze hinschicken und auch wegen des Preißes
+                    nicht weiter in Sorge seyn; allein <seg type="critical">
+                        <orig>die Schloßbau Commission besteht aus vier Personen</orig>
+                        <note xml:id="nm21_3m5_hv">Der Fürstlichen Schloßbau-Commission gehörten
+                            Goethe, Christian Gottlob Voigt und Wilhelm Ernst Friedrich v. Wolzogen
+                            an; an erster Stelle stand der Herzog selbst.</note>
+                    </seg> und da man schon verschiedene mal unangenehme Fälle gehabt hat, wenn man
+                    sich ohne vorläufige Bedingungen in ähnliche Relationen setzte, so würde man
+                    nicht leicht von der einmal angenommenen Maxime abgehen um so mehr, da sie beyde
+                    Theile gleich begünstigt.</p>
+                <p>Ist durch diesen vorläufigen Versuch einigermasen ein Maasstaab feste gesetzt, so
+                    kann man ja alsdenn für das übrige leicht eine Proportion finden.</p>
+                <p>Die <rs type="artwork" key="prov_e5g_bxt_fv">Zeichnungen zu dem Monumente</rs>
+                    <persName key="prov_lhw_hst_fv">Friedrichs des Großen</persName>  haben mir viel
+                    Freude gemacht - es ist alles mit viel Ueberlegung angegeben. Wenn ich etwas zu
+                    erinnern hätte, so wäre es daß das innere zu dem äußern uralten und ernsten mir
+                    zu heiter und <pb n="2"/> neuartig scheint; es läßt sich aber auch denken daß in
+                    der Wirklichkeit sich dieser Eindruck verlohren haben würde.</p>
+                <p>In Ihrem <bibl sameAs="prov_qvp_dyt_fv">Aufsatze über den Kunstschatz des
+                        Königlichen Hauses</bibl> haben Sie uns ein wahres Verlangen zu dem Ganzen
+                    erregt. Sollten Sie nicht einen Cathalogus ausarbeiten, der so gefaßt wäre als
+                    wenn die Sachen schon beysammen stünden? In einem Nachtrage könnte ja bemerkt
+                    werden wie sie gegenwärtig stehen, wodurch Einheimische und Fremde sehr
+                    gefördert werden und Ihre gute Absicht, diese trefflichen Kunstgegenstände
+                    zusammen zu bringen, wenigstens einstweilen virtualiter erreicht werden
+                    würde.</p>
+                <p>Ich danke für den mitgetheilten <bibl sameAs="prov_c45_mdx_gv">Aufsatz</bibl> des
+                    Herrn <persName key="prov_zlq_1cx_gv">Genz</persName>  recht sehr, er erhält wie
+                    ich von allen Seiten her vernehme den allgemeinen Beyfall den er verdient.</p>
+                <p>Wenn <bibl sameAs="prov_md1_hhx_gv">Herrmann und Dorothea</bibl> in <placeName key="prov_ycp_cpr_js">Berlin</placeName> eine gute Sensation machen, ist es
+                    mir sehr erfreulich. <placeName key="prov_ycp_cpr_js">Berlin</placeName> ist
+                    vielleicht der einzige Ort von dem man sagen kann daß ein Publikum <hi rendition="#g">beysammen</hi> sey, und um so mehr muß es einen Autor
+                    interessiren wenn er daselbst gut aufgenommen wird.</p>
+                <p>
+                    <bibl sameAs="prov_b1g_1yh_gv">
+                        <bibl sameAs="prov_u3g_fyh_gv">Ihre letzten Aufsätze über Laokoon</bibl>
+                    </bibl> habe ich noch nicht gesehen. Verzeihen Sie wenn ich über diese
+                    schwierige Materie mich sobald nicht äußern kann, ich bin für den Moment
+                    Himmelweit von solchen reinen <pb n="3"/> und edlen Gegenständen entfernt, indem
+                    ich <seg type="critical">
+                        <orig>meinen <bibl sameAs="prov_sxd_skz_cv">Faust</bibl> zu endigen</orig>
+                        <note xml:id="nxmx_d45_hv">"Faust. Ein Trauerspiel von Goethe" erschien
+                            Leipzig, bey Georg Joachim Göschen, 1798.</note>
+                    </seg>, mich aber auch zugleich von aller <seg type="critical">
+                        <orig>nordischen Barbarey</orig>
+                        <note xml:id="nyql_345_hv">Hier wohl der Faust-Stoff gemeint.</note>
+                    </seg> loszusagen wünsche.</p>
+                <closer rend="paragraph">
+                    <salute>Leben Sie recht wohl und erfreuen Sie uns von Zeit zu Zeit mit
+                        Nachrichten von Ihren Geschäfften und Unternehmungen.</salute>
+                    <dateline rend="align(right)">Weimar am 25 Dec. 1797.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

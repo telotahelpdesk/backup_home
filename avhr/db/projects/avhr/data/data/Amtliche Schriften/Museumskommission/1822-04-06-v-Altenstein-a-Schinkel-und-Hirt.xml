@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_sc1_rzx_hjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 6.
+                    April 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 87r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-04-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tgl_b52_3jb"/>
+                    <ref type="next" target="hirt_tfy_fzk_3jb"/>
+                </correspContext>
+                <note>Mit Bearbeitungsvermerken auf dem linken Rand: "<hi rendition="#u">citissime</hi>"; "Act: A N° 220."; Mundierungsvermerk und Absendevermerk
+                    "8/4. mit 1 Actenstücke und 1 Päckchen mit Schlüsseln."; auf dem oberen Rand:
+                    "ad Num: 708. B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl: Geh. O. B. Raths / Herrn Schinkel, / und /
+                            — Hofraths Herrn / Hirt / Hochwohl- und Wohlgeboren / <hi rendition="#u">hier</hi></addrLine>
+                    </address>
+                    <dateline>Berlin, den 6<hi rendition="#sup">ten</hi> April 1822.</dateline>
+                </opener>
+				<p>Ew. Hochwohl- und Wohlgeboren übersende ich im Verfolg meines Schreibens vom 2<hi rendition="#sup">ten</hi> d<ex>ieses</ex> M<ex>onats</ex> beifolgend <lb/>1.
+                    die Schlüssel zu den Lokalien, in welchen die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche GemäldeSammlung</rs> aufbewahrt wird.
+                    <lb/>2. ein Volumen Kataloge über <rs type="artwork" key="prov_ggw_yml_vw">diese
+                        Sammlung</rs> mit einigen, deren Sicherstellung p. betreffenden
+                    Verhandlungen.</p>
+                <p>Das Conzept zu dem Katalog der von dem Herrn <persName key="ed_dgx_jml_vw">Solly</persName> im Jahre 1819. verpfändeten<rs type="artwork" key="prov_ggw_yml_vw"> Sammlung</rs>, so wie das Brouillon eines im Sommer
+                    desselben Jahres von dem Herrn Geh<ex>eimen</ex> O<ex>ber</ex>
+                        R<ex>egierungs</ex> Rath <persName key="ed_kbw_cgy_lw">Schultz</persName>
+                    aufgenommenen General Catalogs befindet sich noch in dessen Händen. Er hat
+                    solche unter seinen Papieren nicht sogleich auffinden können, deren möglichst
+                    baldige Mittheilung jedoch gleichfalls zugesichert.</p>
+                <p>Ausser diesen verschiedenen Verzeichnissen ist auch von dem Professor <persName key="ed_kmv_v5d_n1b">Toelken</persName> bereits ein theilweiser Katalog über
+                    die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche Sammlung</rs>
+                        aufgenom-<pb n="2"/>men worden, zu dessen Aushändigung an Ewr. —, wenn
+                    Sie es für erforderlich halten, ich denselben gefälligst zu veranlassen
+                    ergebenst anheimstelle.</p>
+                <p>Den HauptSchlüssel zu der Sammlung führt, wie vormals, Herr <persName key="ed_fws_rrd_3jb">Lamperi</persName>; das in dem beiliegenden Actenstück
+                    befindliche Protokoll vom 5<hi rendition="#sup">ten</hi> v<ex>origen</ex>
+                        M<ex>onats</ex> besagt dieserhalb das Nähere, worauf ich daher ergebenst
+                    Bezug nehme. Ew. Hochwohlgeboren Ermessen überlasse ich es inzwischen lediglich,
+                    ob Sie die in solchem festgestellte Einrichtung in Bezug auf die Sicherheit p
+                    der Sammlung für zweckmäßig halten und solche für die Folge bestehen lassen
+                    wollen oder ob Sie eine Aenderung hierunter für wünschenswerth erachten, für
+                    welchen leztern Fall ich Ihren desfallsigen gefälligen Vorschlägen
+                    entgegensehe.</p>
+                <p>Berlin, w.<ex>[ie]</ex> o<ex>[ben]</ex></p>
+				<closer>
+                    <signed><ex>[Unterschriftskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

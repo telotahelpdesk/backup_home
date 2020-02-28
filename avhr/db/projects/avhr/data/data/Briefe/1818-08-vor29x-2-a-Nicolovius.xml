@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_mty_qmd_vw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[An Georg Heinrich Ludwig Nicolovius. Berlin, kurz vor 29. August
+                    1818]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1818-08-29-a-Welcker: "[...] und füge nur noch hinzu: daß ich
+                    sogleich wieder an p. Nicolovius schrieb, daß ich zwar von der Absicht des H.
+                    Prof. Welker in Heidelberg nichts zuverläßiges wüßte; ich aber doch durch
+                    anderseitige Nachrichten vermuthen könnte, daß denselben ein Ruf nach Bonn nicht
+                    unwillkommen seyn, und er ihn auch annehmen dürfte“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date notBefore="1818-01-02" notAfter="1818-08-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_o41_gq1_kw">Nicolovius, Georg Heinrich Ludwig (1767-1839)
+                        (preuß. Ministerialbeamter, 1808 Staatsrat und Leiter der Sektion für Kultus
+                        und öffentlichen Unterricht im preuß. Innenministerium)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_vlw_dmd_vw"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

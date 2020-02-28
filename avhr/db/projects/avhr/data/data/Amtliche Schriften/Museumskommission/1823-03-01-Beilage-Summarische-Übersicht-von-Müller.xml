@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_hmp_cmy_vkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beilage zu: 1823-03-01-a-Altenstein-Gutachten-v-Schinkel-u-Hirt </title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Kultusministerium Ve Sekt. 15 Abt. I Nr. 4 Bd. 2, Bl. 73 r-v</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_wk3_kln_5jb">Müller, ? (?-?) (Sekretär, war Hirt und Schinkel
+                        behilflich bei der Erfassung der Sollyschen Sammlung und der Ermittlung des
+                        Finanzbedarfs)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-03-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+				<p>Summarische Uebersicht <lb/>des, bei der Koeniglichen General Casse des hohen Ministerii für
+                    die Geistlichen, Unterrichts und Medizinal Angelegenheiten, Behufs der
+                    Inventarisation, Restauration pp der ehemals Sollyschen jezt Koeniglichen
+                    Gemaelde Sammlung, disponibel gestellten Fonds, und der aus diesem geleisteten
+                    Zahlungen.</p>
+                <p>
+                    <table rows="9" cols="2">
+                        <head/>
+                        <row role="label">
+                            <cell>I. Einnahme</cell>
+                            <cell/>
+                            <cell>Reichstaler sgr. d.</cell>
+                        </row>
+                        <row>
+                            <cell>Durch das hohe Ministerial Rescript</cell>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell/>
+                        </row>
+                    </table>
+                </p>
+				<closer>
+					<salute/>
+					<signed/>
+				</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

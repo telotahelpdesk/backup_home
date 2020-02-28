@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_wzx_scz_lw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An König Friedrich Wilhelm III. von Preußen. Berlin, 22. April 1818.</title>
+                <title> Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection>I. HA, </collection>
+                        <idno>
+                            <idno type="shelfmark">Rep. 89 Geheimes Zivilkabinett jüngere Periode
+                                Nr. 19886, fBl. 1r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print">Bärbel Holtz: Hirt-Bd. II, S. 292-293, mit
+                            weiterführendem Kommentar</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-04-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_bxf_jt5_fv">Preußen, Friedrich Wilhelm III. von (1770-1840)
+                        (Kronprinz, 16.11.1797-7.6.1840 König von Preußen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_cbh_x3y_lw"/>
+                </correspContext>
+                <note>Immediatgesuch von Schreiberhand mit egh. Unterschrift. - Empfängerbemerkung:
+                    pr[äsentiert] 28. May 1818 / N 9 I. K. J. / [überwiesen] An das
+                    StaatsMinisterium zum Bericht. Berlin 10 Juny 1818. Enthält <ref target="hirt_k1j_5l2_4w" type="hasAttachment">Beilage</ref>
+                </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>Allerdurchlauchtigster Grosmächtigster König! <lb/>Allergnädigster König
+                        und Herr!</salute>
+                </opener>
+                <p>Kunstfreunde aus allen Ständen haben mir verschiedentlich angelegen, einen Plan
+                    zu entwerfen für eine Gesellschaft von Freunden zur Unterstüzzung der Kunst in
+                    den Königlich Preussischen Staaten. ich habe einen solchen Entwurf gemacht:
+                    Allein es geht aus demselben hervor, daß es nicht möglich ist, einen solchen
+                    Verein gehörig zu organisiren, und ihn für die Aufnahme der vaterländischen
+                    Kunst wahrhaft wirksam zu machen, so lange nicht von Seiten des Staats für die
+                    bessere Einrichtung des gesammten Kunstwesens etwas Wesentliches geschieht. ich
+                    habe daher in dem Entwurfe selbst auf die Grundzüge in solcher Beziehung
+                    aufmerksam gemacht, und deswegen für nöthig erachtet, vor allen Andern einen
+                    solchen Plan zu der allerhöchsten Einsicht Euer Majestät gelangen zu lassen, und
+                    Allerhöchstdero Willensmeynung hierüber allerunterthänigst zu erbitten.</p>
+                <p>Euer Königliche Majestät haben in einer verhängnißvollen Zeit den Muth gezeigt,
+                    die <placeName key="ediarum_tzx_1vt_fw">Universität</placeName> von <placeName key="prov_ycp_cpr_js">
+                        <hi rendition="#aq">Berlin</hi>
+                    </placeName>
+                    mit einer seltnen Liberalität zu begründen, deren wohlthätige Früchte sich
+                    bereits zeigen, und forthin mehr offenbaren werden. <pb n="2"/>
+                </p>
+                <p>In derselben Zeit war auch der <orgName key="ed_u5s_1fc_b1b">Kunst-Akademie</orgName> zu wiederholten Malen von Seiten Euer Majestät die
+                    schöne Hoffnung gegeben, daß auch sie, gleich den wissenschaftlichen Instituten,
+                    mit alle dem ausgestattet werden sollte, was erforderlich seyn würde, um das
+                    Aufblühen der Kunst in Allerhöchstdero Staaten, so wie es in andern Staaten
+                    geschieht, kräftig zu bewirken. Auf diese allergnädigste Verheissungen Euer
+                    Majestät gründet sich die Hoffnung Aller, welche den hohen Werth der Kunst auf
+                    die gesammte National-Bildung anerkennen. Wenn wir in Beziehung auf das
+                    Wissenschaftliche und andere schöne Einrichtungen auf gleicher Stufe <seg type="comment">
+                        <orig>mit den Nachbar-Staaten</orig>
+                        <note xml:id="nlkm_vjz_l1b">Preußen stand im Kunstbereich besonders mit
+                            Bayern in Konkurrenz, speziell bei Kunstankäufen und dem Bau musealer
+                            Einrichtungen.</note>
+                    </seg> stehen, und in Manchem selbst sie noch übertreffen mögen: so ist dies bis
+                    jetzt noch nicht der Fall in Beziehung auf die Kunst.</p>
+                <p>Ueber das Wesentliche, worauf es hierbey ankommt, <seg type="comment">
+                        <orig>habe ich bereits Sr. Excellenz den <persName key="ed_iwb_fpx_lw">Minister von <hi rendition="#aq">Altenstein</hi>
+                            </persName> in Kenntniß gesetzt</orig>
+                        <note xml:id="no41_1jz_l1b">Siehe Hirts Schreiben vom 23. März 1818.</note>
+                    </seg>, und es geschieht <seg type="comment">
+                        <orig>mit seiner Genehmigung</orig>
+                        <note xml:id="ner2_cjz_l1b">Vgl. das Schreiben Altensteins an Hirt vom 10.
+                            April 1818.</note>
+                    </seg>, daß ich die Angelegenheit der Kunst unmittelbar vor Euer Königliche
+                    Majestät bringe. Die Wissenschaft und die Kunst haben gleiche Rechte an die
+                    Unterstüzzung von Seiten des Staats, und jetzt, <seg type="comment">
+                        <orig>wo Euer Majestät einen Staatsrath organisirt haben</orig>
+                        <note xml:id="nqj2_mjz_l1b">Der Staatsrat, die höchste beratende (und auch
+                            kontrollierende) Behörde des Königs, war von Friedrich Wilhelm III. im
+                            März 1817 einberufen worden.</note>
+                    </seg>, kommt die Kunst auch vor die Thüre, flehend, daß auch ihr jene Rechtsame
+                    zugestanden werden, um dahin zu kommen, jenen ruhmvollen Rang zu behaupten, der
+                    ihr in jedem civilisirten Staate gebührt.</p>
+                <closer>
+                    <salute>ich verbleibe mit aller Unterthänigkeit <lb/>Euer Königlichen Majestät
+                        <lb/>allerunterthänigster</salute>
+                    <signed>Der Hofrath Hirt <lb/>Lezte Str. Nr. 2.</signed>
+                    <dateline>Berlin / den 22.<hi rendition="#sup">
+                            <hi rendition="#u">sten</hi>
+                        </hi>
+                        April 1818.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

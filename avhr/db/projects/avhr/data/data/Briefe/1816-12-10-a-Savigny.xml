@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_orz_p3z_jw">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Friedrich Karl von Savigny. Venedig, 10. Dezember 1816.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Universitätsbibliothek Marburg</institution>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Hs 725:567</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_tgx_1c3_g5">Venedig</placeName>
+                    <date when="1816-12-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_jdl_x3z_jw">Savigny, Friedrich Karl von (1779-1861) (dt.
+                        Rechtsgelehrter, Begründer der Historischen Rechtsschule, ab 1810 Prof. für
+                        Rechtsgeschichte an der Berliner Universität, 3. Rektor, 1817 Staatsrat,
+                        Mitglied des preuß. Justizministeriums, 1819 Mitglied des Obertribunals für
+                        die Rheinprovinzen)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An Herrn Professor / von Savigny, Ritter des / eisernen Kreuzes -
+                            / zu / <hi rendition="#u">Berlin</hi> / Mit Siegel, Postvermerken und
+                            Poststempel: VENEZIA</addrLine>
+                    </address>
+                    <dateline>Venedig den 10 Dec. 1816.</dateline>
+                </opener>
+                <p>Ich habe es bey meiner Anwesenheit in <placeName key="ed_iwc_dj1_kw">
+                        <hi rendition="#aq">Udine</hi>
+                    </placeName>, mein verehrtester Herr College, an Mühe nicht fehlen laßen, um
+                            <seg type="comment">
+                        <orig>Ihrem Auftrage</orig>
+                        <note xml:id="nsht_1t1_kw">Wohl Archivrecherchen für Savignys
+                                „Geschichte des Römischen Rechts im Mittelalter“ gemeint, s.
+                                unten.</note>
+                    </seg> nachzukommen; allein ich erreichte den Zweck nicht, oder wenigstens
+                        nur sehr unvollkommen. Unsere Ankunft in <placeName key="ed_iwc_dj1_kw">Udine</placeName> war des abends spät. Des andern Tages war mein erster
+                        Gang nach dem Dom, wo ich an den Sekretar des Archiv's verwiesen wurde. Auf
+                        die Nachfrage nach Handschriften sagte er mir: „daß dergleichen, was ich
+                        suche, nicht vorhanden sey; in dem Archive befänden sich bloß Schriften, die
+                        auf die Kirche und das Kapitel bezug hätten. Meine Nachricht müßte also ein
+                        Irrthum seyn, und <seg type="comment">
+                        <orig>die Handschriften, die ich suchte</orig>
+                        <note xml:id="nngp_vl1_kw">In seiner „Geschichte des Römischen Rechts im
+                                Mittelalter“ (Erster Band, 2. Ausg., Heidelberg 1834) beschreibt
+                                Savigny in Kap. V. die Gerichtsverfassung der Römer. Dazu heisst es
+                                unter Punkt 123.: „Jedoch sicherere und vollständigere Nachricht von
+                                dem Zustand der Lombardischen Römer als alle bisher genannten
+                                Quellen giebt eine Lombardische Bearbeitung der Lex Romana. Die
+                                Handschrift dieses Werks, die ehemals im Domarchiv zu Aquileja war,
+                                und von da in das Domarchiv zu Udine kam, ist aus diesem von
+                                Canciani im 4ten Band seiner Sammlung (1789) unter dem Titel Lex
+                                Romana herausgegeben worden. Voran steht Julians Epitome der
+                                Novellen, darauf folgt unser Werk ([Anmerkung:] Nachricht von der
+                                Handschrift giebt Canciani Vol. 4. p. 463. Es scheint, daß das ganze
+                                Werk keinen eigentlichen Titel hat, und daß der Titel Lex Romana
+                                blos von Canciani herrührt [...].) Gegenwärtig aber ist diese
+                                Handschrift in Udine nicht mehr zu finden, und man kann sie
+                                einstweilen als verloren ansehen. Dagegen hat im J. 1<unclear reason="illegible" cert="">8</unclear>25 Hänel in dem Cod. 722
+                                der Bibliothek in St. Gallen eine andere Handschrift desselben Werks
+                                aufgefunden“ (S. 426-427). </note>
+                    </seg>, sich wohl in der <hi rendition="#aq">Bibliothek</hi> des
+                        erzbischöfflichen Palastes befinden.“ Mir blieb also nichts übrig, als den
+                        Vorsteher genannter <hi rendition="#aq">Bibliothek</hi>
+                        aufzusuchen. Nach nicht geringer Mühe machte ich endlich auch diesen
+                        ausfindig, und ohne Säumen ließ er sich gefallen, mich zur Stelle zu
+                        begleiten. Wir giengen den <hi rendition="#aq">catalog</hi>, und
+                        endlich alle Handschriften durch, allein von denen in frage stehenden trafen
+                        wir nichts, und er meinte, daß sie schon vor seiner Zeit müßten weggenommen
+                        worden seyn. Er wolle sich indeßen Mühe geben und Nachfrage bey einigen
+                        ältern Litteratoren des Ortes halten, um vielleicht der Sache auf die Spur
+                        zu kommen. Unter diesen <hi rendition="#aq">Litteratoren</hi>
+                        nannte er mir auch einen <hi rendition="#aq">
+                        <persName key="ed_jfb_sn1_kw">Canonicus Zoppolo</persName>
+                    </hi>, der im Domarchiv wohl erfahren sey. Ich eilte also auf's neue zu
+                        dem <persName key="ed_jfb_sn1_kw">
+                        <hi rendition="#aq">Monsignore Canonico Zoppolo</hi>
+                    </persName>, der mich mit aller Bereitwilligkeit nach dem Domarchiv führte,
+                        selbst vermuthend, daß solche Handschriften wirklich da vorhanden seyn
+                        müßten. Wir suchten zusammen vieles durch; allein da kein Verzeichniß
+                        vorhanden, und alles in gröster Unordnung ist, blieb unser Suchen
+                        vergeblich. Indeßen war bereits die Zeit unserer Abreise angekommen, um
+                        denselben Tag noch den <hi rendition="#aq">
+                        <placeName key="ed_qhv_1j1_kw">Tagliamento</placeName>
+                    </hi> zu paßiren. Mir blieb also nichts übrig, als Ihre Adresse
+                        zurückzulaßen, und dem Herrn aufzugeben, nicht zu versäumen, das <hi rendition="#aq">Manuscript</hi> hervorzusuchen, und dann nach Ihrem
+                        Wunsche die beiden ersten, und dann die lezte Seite davon treu zu copiren,
+                        und dieselben Ihnen dann nach <placeName key="prov_ycp_cpr_js">Berlin</placeName> zu senden, zugleich mit den Unkosten, welche das
+                        Copiren des Ganzen betragen würde. Dies zu thun haben mir beide Herrn zu
+                        thun versprochen, sobald sich das Manuscript <pb n="2"/> wieder fände, und
+                        ich habe keinen Zweifel an der Realität ihres Versprechens; denn man kann in
+                        der That nicht artiger und mehr zuvorkommend seyn, als diese Herrn sich
+                        gegen mich zeigten. Übrigens füge ich hier die Adresse beider dieser
+                            <hi rendition="#aq">litteratoren</hi> bey: <lb/>1. <hi rendition="#aq">
+                        <persName key="ed_jfb_sn1_kw">Monsignore Zoppolo</persName> Canonico
+                            della Catedrale metropolitana a <placeName key="ed_iwc_dj1_kw">Udine</placeName>
+                    </hi>. <lb/>2. <hi rendition="#aq">il <persName key="ed_ur3_vn1_kw">Signor Conte Lenardo Belgrado</persName> Bibliotecario della
+                            Libreria arcivescovile a <placeName key="ed_iwc_dj1_kw">Udine</placeName>
+                    </hi>.</p>
+                <p>Daß ich die Sache nicht selbst zur Stelle abmachen konnte, bedauere ich;
+                        allein ein längerer Aufenthalt war der Reiseumstände wegen nicht möglich.
+                        Indeßen bleibe ich nicht ohne Hoffnung, daß sie auch <add place="superlinear">so</add> zu Ihrem Zweck gelangen möchten. -</p>
+                <p>
+                    <seg type="comment">
+                        <orig>Unsere Reise</orig>
+                        <note xml:id="nzc1_g41_kw">Zu Hirts Italienreise vgl. 1816-08-30-a-Böttiger
+                            und 1816-10-06-a-Böttiger.</note>
+                    </seg> ist bis iezt sonst ziemlich nach Wunsch gegangen. In <placeName key="prov_hrq_zzg_y5">Wien</placeName> fand ich gar viel, was früher allda
+                    nicht vorhanden war, so wohl für alte als für neuere Kunst. Die <placeName key="ediarum_fn3_x41_kw">kaiserliche Sammlung</placeName> ist fast in jeder
+                    Classe von Denkmälern unschäzbar; auch zu den Gemälden im <hi rendition="#aq">
+                        <placeName key="ediarum_pcs_t41_kw">Belvedere</placeName>
+                    </hi> ist viel merkwürdiges hinzugekommen, und die Privatsammlungen haben sich
+                    sehr vermehrt. All dies forderte einen längeren Aufenthalt, als wir anfänglich
+                    vorhatten; und so geschah es auch, daß wir in den Gebirgen von <placeName key="ed_ybr_jj1_kw">Steyermark</placeName> und <placeName key="ed_iqb_lj1_kw">Kärnthen</placeName> den tiefsten Winter trafen.
+                    Wirklich hat man in flachen Gegenden keinen Begriff von dem, was ein wahrer
+                    Winter ist. Das Schauerhaft Erhabene desselben zeiget sich nur in hohen
+                    Gebirgen, wie die sind, welche wir sieben Tage lang zu paßiren hatten. kaum
+                    hatten wir aber die Gebirge hinter uns, so wehte uns, noch ehe wir
+                        nach<placeName key="ed_iwc_dj1_kw">
+                        <hi rendition="#aq">Udine</hi>
+                    </placeName> kamen, <unclear reason="illegible" cert="">r</unclear>eine
+                    Frühlingsluft entgegen. Diese heitere und schöne Luft hat uns bis iezt auch in
+                        <hi rendition="#aq">
+                        <placeName key="prov_tgx_1c3_g5">Venedig</placeName>
+                    </hi>, wo wir seit 10 Tagen sind, noch nicht verlaßen. Diese einzige Stadt hat
+                    für uns ungemein viel Erheiterndes. viel hat sich geändert, und manches ist aus
+                    den alten Stollen gerückt, aber ich finde alles Wesentliche wieder, und in
+                    mancher Rücksicht noch mehr. Den 14<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi> geht es <pb n="3"/> weiter über <hi rendition="#aq">
+                        <placeName key="ed_sn3_fj1_kw">Padua</placeName>
+                    </hi>, <placeName key="ed_tgx_gj1_kw">
+                        <hi rendition="#aq">Ferrara</hi>
+                    </placeName>, <placeName key="prov_hrj_4bv_35">
+                        <hi rendition="#aq">Bologna</hi>
+                    </placeName> nach <placeName key="prov_hp5_gbv_35">
+                        <hi rendition="#aq">Florenz</hi>
+                    </placeName>. Vor Ende Januar werden wir schwerlich in <hi rendition="#aq">
+                        <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    </hi> eintreffen. Nun leben Sie wohl, und gedenken Sie meiner bey <seg type="comment">
+                        <orig>den Freunden</orig>
+                        <note xml:id="nuyb_3r1_kw">Hier möglicherweise die Mitglieder der 1809
+                            gegründeten „Gesetzlosen Gesellschaft (Nr. 2)“ gemeint. Sowohl Hirt wie
+                            auch v. Savigny und der weiter unten erwähnte Nicolovius gehörten der
+                            Gesellschaft an.</note>
+                    </seg>
+                </p>
+                <closer>
+                    <salute>Ihr ergebner</salute>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>H p. <persName key="ed_o41_gq1_kw">
+                        <hi rendition="#aq">Nicolovius</hi>
+                    </persName> bitte ich zu sagen, daß ich ihm von
+                        <placeName key="prov_vkl_ndl_js">
+                        <hi rendition="#aq">Rom</hi>
+                    </placeName> aus <seg type="comment">
+                        <orig>schreiben
+                            werde</orig>
+                        <note xml:id="nytn_tq1_kw">Brief nicht
+                    bekannt.</note>
+                    </seg>, auch über manches Verkäufliche sowohl hier, als in
+                        <placeName key="prov_hrq_zzg_y5">Wien</placeName>. Darunter giebt es
+                    kapitale Sachen, aber zum Theil unerschwingliche Preise. Heute sah ich noch
+                    einen <hi rendition="#aq">
+                        <persName key="ed_jln_cs1_kw">Pietro
+                            Perugino</persName>
+                    </hi>, der jedem <persName key="prov_abl_fz5_35">
+                        <hi rendition="#aq">Raphael</hi>
+                    </persName> zur Seite stehen
+                    kann; aber der Preis ist nicht geringer als 400 <hi rendition="#aq">Louisd'or</hi>. Das Bild würde die Zierde der <placeName key="prov_ycp_cpr_js">Berliner</placeName>sammlung seyn. -</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

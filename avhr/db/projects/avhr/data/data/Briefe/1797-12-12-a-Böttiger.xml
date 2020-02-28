@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_hz3_gyx_gv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 12. Dezember 1797. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository/>
+                        <collection>Nachlass Böttiger</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr.Dresd. h 37, 4°, Bd. 87, Nr. 6</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-12-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_xrh_gsc_5z"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 12<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> Dec. 1797.</dateline>
+                    <salute/>
+                </opener>
+                <p>Ich danke Ihnen für die Bekanntschaft des Herrn <persName key="prov_eyz_5ts_hv">Weyland's</persName>. - Vor ein paar Tagen übergab ich ihm eine Rolle,
+                    worin die <seg type="critical">
+                        <orig>Zeichnungen zum <rs type="artwork" key="prov_e5g_bxt_fv">Monumente</rs>
+                        </orig>
+                        <note xml:id="nq3g_x5s_hv">Zu Hirts Entwürfen für ein Denkmal für Friedrich
+                            den Großen vgl. 1797-09-26-a-Böttiger mit Sachanmerkung. </note>
+                    </seg>, u. ein <bibl sameAs="prov_qvp_dyt_fv">Abdruck</bibl> v<ex>om</ex>
+                    <bibl sameAs="prov_x3v_f4r_gv">Archiv d<ex>er</ex> Z<ex>eit</ex>
+                    </bibl> - nebst meinem ursprünglichen Entwurf für ein Monument <persName key="prov_lhw_hst_fv">Fried<ex>richs</ex> II.</persName> enthalten sind. -
+                        <del rendition="#s" next="Herr">ich</del> Herr v. <seg type="critical">
+                        <orig>
+                            <persName key="prov_dln_f3z_x5">Egloffstein</persName>
+                        </orig>
+                        <note xml:id="nwg1_dvs_hv">Hirt hatte Graf und Gräfin von Egloffstein in
+                            Italien kennengelernt. – Der Kammerherr von Egloffstein und Weiland
+                            hielten sich nach der Inthronisierung von Friedrich Wilhelm III. einige
+                            Zeit in Berlin auf.</note>
+                    </seg> wird sie mitbringen. Ich schicke alles an Sie, um es der besten <persName key="prov_qn2_zhp_5r">Herzoginen</persName> und allen dortigen neugierigen
+                    Freunden vorzulegen; denn ohne Beschreibungen ist die Sache nicht zu verstehen,
+                    weil die Zeichnungen zu den Reliefs sind fertig sind [!], und ich die dazu
+                    entworfenen Beschreibungen nicht abgeschrieben, und in Ordnung habe: übrigens
+                    ist die beygelegte Schrift nichts anders, als die erste Idee, welche ich dem
+                        <persName key="prov_gtp_ppt_fv">Minister</persName> - auf Verlangen daß ich
+                    auch meine Ideen geben soll - vorlegte. Auch die detaillirte Beschreibung des
+                    Gebäudes selbst - mit all den Maasen, und Ursachen - warum eher <hi rendition="#u">so</hi>, als anders - ist auch <subst>
+                        <del rendition="#s">nach</del>
+                        <add>nur</add>
+                    </subst> in zerstückelten Papieren - wie ich sie nemlich dem zeichnenden
+                    Architekten vorlegen mußte, aufgeschrieben. Vielleicht hätte aber dieß besonders
+                        <persName key="prov_hwd_hmp_5r">Göthe'n</persName> intereßirt. Kurz ich
+                    schicke Ihnen etwas sehr Unvollkommenes, deßwegen empfehle ich es Ihrer Obhut.
+                        <pb n="2"/>
+                </p>
+                <p>Nachdem Sie nur mit dem Besehen fertig seyn werden, so bitte ich es - wohl
+                    versorgt - unter der Addresse der <persName key="prov_cnf_bpl_cv">Fürstin</persName> - nach <placeName key="prov_qht_zxr_js">Dessau</placeName> zu schicken, denn dieselbe wünschet es - mit den
+                    dortigen Spähern - auch zu sehen. - Vom <bibl sameAs="prov_x3v_f4r_gv">Archiv</bibl> konnte ich absolut nur <bibl sameAs="prov_qvp_dyt_fv">zwey
+                        Exemplare</bibl> haben: H. <persName key="prov_xyh_vvt_fv">Rambach</persName> vergaß meinen ihm gegebenen Auftrag - mehrere besondere
+                    Abdrücke vom Aufsaze machen zu laßen - das eine Exemplar also für <placeName key="prov_u24_mmg_f5">Weimar</placeName>.</p>
+                <p>Mich freuet es, daß <persName key="prov_hwd_hmp_5r">Göthe</persName> mit <seg type="comment">
+                        <orig>dem <rs type="artwork" key="prov_ehv_crw_gv">Bildchen</rs>
+                        </orig>
+                        <note xml:id="nhsp_dvb_5z">Vgl. 1797-09-26-a-Böttiger mit
+                            Sachanmerkung.</note>
+                    </seg> zufrieden ist: es ist mehr für den Kenner, und überhaupt für einen, der
+                    mehr in das Ganze der Kunstgeschichte eingreift, als für den bloßen
+                    Liebhaber.</p>
+                <p>Ich erwarte Ihre Nachricht über die <bibl sameAs="prov_b1g_1yh_gv">
+                        <bibl sameAs="prov_syr_nyh_gv">
+                            <bibl sameAs="prov_u3g_fyh_gv">Laokoonte</bibl>
+                        </bibl>
+                    </bibl> mit einer Art von Sehnsucht: aber schreiben Sie mir gerade - ohne
+                    Versüßungspülverchen. Ich weiß nicht ob Sie mich über diesen Punkt genug kennen:
+                    ich streite dem Teufel ein Ohr <add place="superlinear">ab</add>, biß ich über
+                    das beßere erleuchtet bin; aber ich habe keine Eigenliebe, als die Wahrheit.
+                    Dieß sagt freulich jeder: aber ich müßte mich sehr verkennen, wenn es bey mir
+                    nicht wahr wäre.</p>
+                <p>Sie sagen mir: "<persName key="prov_hwd_hmp_5r">Göthe</persName> habe sich iezt
+                    noch geäußert, daß ich <seg type="critical">
+                        <orig>in Absicht der Karakteristik</orig>
+                        <note xml:id="nd4w_4ws_hv">Bezogen auf Hirts Laokoon-Aufsatz in den "Horen";
+                            vgl. dazu 1797-10-31-a-Böttiger mit Sachanmerkung. - Hirt äußert sich
+                            dazu ebenfalls im Nachtrag zu seinem Laokoon-Aufsatz sowie später in
+                            seinem Beitrag "Ueber die Charakteristik, als Hauptgrundsatz der
+                            bildenden Künste bei den Alten. In: Berlinisches Archiv der Zeit und
+                            ihres Geschmacks. Jg. 1798, Bd. 2, Berlin: Maurer, 1798, S. 437-451
+                            (November III).</note>
+                    </seg> Recht habe: nur erhübe ich das zur ersten Potenz, was einem höhern Gesez
+                    der Schönheit untergeordnet sey." Ich wünschte nur, daß <pb n="3"/> einmal dieß
+                    höhere Gesez der Schönheit zu deutlichen Begriffen entwickelt würde - durch
+                    Raisonnement, und durch Beyspiele. - und dieser Entwickelung muß es doch fähig
+                    seyn, wenn es als Hauptgrundsaz, wenn es als Prüfungsgesez des Schönen in die
+                    Geschmackslehre soll aufgenommen werden. - ich frage daher: ob dasjenige, was
+                        <persName key="prov_tlq_wlw_z5">Winkelmann</persName>,<bibl sameAs="prov_qtw_lzs_hv">
+                        <bibl sameAs="prov_qr1_xys_hv">
+                            <persName key="prov_ujj_shc_z5">Lessing</persName>
+                        </bibl>
+                    </bibl>, <persName key="prov_hwd_hmp_5r">Göthe</persName> u. andere darüber
+                    gesagt haben, einiger maßen genug thuend – hinreichend erklärend – sey? –</p>
+                <p>Ich habe iezt angefangen: mich <seg type="critical">
+                        <orig>mit dem Aufsaze für <bibl sameAs="prov_bjq_czj_gv">Ihr
+                                Vasengemäldewerk</bibl>
+                        </orig>
+                        <note xml:id="ntsr_2ct_hv">Ein solcher Aufsatz von Hirt erschien nicht; vgl.
+                            auch 1797-09-26-a-Böttiger; 1797-10-31-a-Böttiger;
+                            1798-02-10-a-Böttiger.</note>
+                    </seg> zu beschäftigen. Ich hoffe, daß ich mit Ende des Monats Ihnen etwas
+                    werden zusenden können. <seg type="critical">
+                        <orig>
+                            <persName key="prov_tsc_grz_v5">Mayer</persName>
+                        </orig>
+                        <note xml:id="nhrm_gbt_hv">Johann Heinrich Meyer hatte sich 1784-1790 in
+                            Italien aufgehalten und dort auch Goethe und Herder geführt. Herder, der
+                            mit Hirts Kursus in Rom nicht zufrieden war (vgl. auch
+                            1789-04-04-a-Goethe mit Sachanmerkungen), urteilte über Meyer hingegen
+                            begeistert: "Ich laufe mit dem Meyer jetzt noch einmal die Hauptdenkmale
+                            des Alterthums über. Er ist ein vortrefflicher Mensch, einer aus tausend
+                            und abermal tausend, an Sinn und tiefem Verstand. Sprich aber auch
+                            hiervon nichts zu Goethe" (Herder an seine Frau, Rom, 27. Februar 1789).
+                            1791 ging Meyer nach Weimar und wohnte bis 1802 in Goethes Haus. Von
+                            November 1795-1797 hielt er sich erneut in Italien auf, wo er sich
+                            eigentlich mit Goethe treffen wollte. Doch wegen der politischen
+                            Umstände endete dessen Reise in der Schweiz. Am 20. September 1797
+                            trafen sie sich in Zürich und kehrten zusammen am 20. November 1797 nach
+                            Weimar zurück. - An Christian Gottlob Heyne schreibt Böttiger am 20.
+                            September 1794: "Der Maler <hi rendition="#g">Meyer</hi> […] verdient
+                            wirklich auch als Antiken- und Kunstkenner Achtung. Bey seinem
+                            mehrjährigen Aufenthalt in Italien blieb er nicht bloß bey der Schaale
+                            seiner Kunst. Er war Herdern und Göthen zur Seite, als diese die
+                            dortigen Kunstschätze sahen. Diesen Sommer brachte er in Dresden zu, wo
+                            er für unsern Herzog einige Gemälde von der dortigen Gallerie kopirte.
+                            Mit ihm habe ich einigemal die schöne Antikensammlung besehn. Er hat
+                            feine Entdeckungen dort gemacht" (Böttiger-Heyne-Briefwechsel, S. 19).
+                        </note>
+                    </seg> wird nun mit manch neuem begabt, zurückgekommen seyn. Hat er nichts von
+                        <placeName key="prov_hp5_gbv_35">Florentinischen</placeName> Zeichnungen,
+                    Copien etc. mitgebracht? - Grüßen Sie ihn auch vielmals Meinerseits. –</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Da ich dieß Jahr über Theorie und Geschichte der bildenden Künste bey
+                            den Alten öffentlich lese</orig>
+                        <note xml:id="niqt_mgt_hv">Hirt las 1797/98 an der Akademie der Künste
+                            "Theorie der bildenden Künste verbunden mit der Geschichte derselben bei
+                            den alten Völkerschaften, bis auf den Verfall des römischen
+                            Reiches".</note>
+                    </seg>, so kam ich die lezte Zeit <add place="superlinear">her</add> wieder auf
+                    meine Papiere von Mahlern, u. Mahlerey der Alten. Ich habe nun die Materien
+                    näher zusammengestellt, und glaube ganz auf's reine gekommen <ex>zu</ex> seyn
+                    über die vielen Kriege und Erläuterungen - der verschiedenen Arten zu mahlen bey
+                    den Alten, worunter auch die drey Antiken Arten <seg type="critical">
+                        <orig>Encaustik</orig>
+                        <note xml:id="nysk_5ss_hv">Böttiger hatte sich ebenfalls mit dieser Materie
+                            beschäftigt und sich dazu von Johann Gottlob Heyne das Standardwerk von
+                            Requeno (siehe unten) ausgeliehen (Böttiger-Heyne -Briefwechsel, Hrsg.
+                            und kommentiert von René Sternke und Klaus Gerlach, 2015, S. 20, 21). Zu
+                            Böttigers Aufsatz vgl. 1798-01-06-a-Böttiger.</note>
+                    </seg> mitbegriffen sind. - Auch hier kann man sagen; "wir suchen in Wolken,
+                    wenn die Sache vor uns liegt." Ich habe Lust die Sache in einem besondern <seg type="critical">
+                        <orig>
+                            <bibl sameAs="prov_j43_xrt_hv">Aufsaze</bibl>
+                        </orig>
+                        <note xml:id="nmdk_2vt_hv">Hier wohl Hirts erster Vortrag zu dieser Thematik
+                            gemeint, den er im Jahr darauf am 30. August 1798 in der Akademie der
+                            Wissenschaften vortrug; gedruckt u.d.T.: Sur les différentes méthodes de
+                            peindre chez les anciens. Par Monsieur Hirt. In: Mémoires de l'Académie
+                            Royale des Sciences et Belles-Lettres. Depuis l'avènement de Frédéric
+                            Guillaume III au Tròne. 1799. - Classe de Belles-Lettres. Berlin 1803,
+                            S. 185-230. </note>
+                    </seg> zu publiziren - Da ich aber <bibl sameAs="prov_hrb_qms_hv">das
+                        bekannteste Werk hierüber</bibl> – <seg type="comment">
+                        <orig>den <persName key="prov_wpy_fms_hv">Requeno</persName>
+                        </orig>
+                        <note xml:id="ngdf_bcv_vz">Vgl. auch Hirts frühere Besprechung des Buches in
+                            der "Allgemeinen Literatur-Zeitung vom Jahre 1788", Bd. 3, Jena, Sp.
+                            713-720 (= Nr. 222 vom 18.9.1788): Schoene Wissenschaften. Parma, aus
+                            der Königlichen Druckerey: Saggi sul' ristabilimento dell' antica arte
+                            de Greci, e Romani Pittori - da Don Vicenzo Requeno (einem spanischen
+                            Exjesuiten). 1787. 2 Bände, gr. 8. 2te Auflage.</note>
+                    </seg> - nicht hier finden kann, und mich nicht geradezu auf meine Excerpta
+                    verlaßen möchte, ohne ihn noch einmal durchzusehen: so wäre die Anfrage, ob Sie
+                    mir denselben nicht aus dortiger Gegend her verschaffen könnten, <pb n="4"/>
+                    besonders die lezte Edition in zwey diken 8<hi rendition="#sup">
+                        <hi rendition="#u">vo</hi>
+                    </hi> Bänden?</p>
+                <p>über Ihre Fragen, <seg type="comment">
+                        <orig>die <persName key="prov_qvp_1gm_cv">Gr<ex>äfin</ex> v<ex>on</ex>
+                                    L<ex>ichtenau</ex>
+                            </persName> betreffend</orig>
+                        <note xml:id="nnzs_mxb_5z">Vgl. 1797-11-18-a-Böttiger: Sachanmerkung.</note>
+                    </seg>, weiß nichts zu sagen, es herrscht ein tiefes Dunkel über das ganze: der
+                    Pöbel heckt zwar täglich die sonderbarsten u. selbst spaßhafte Mährchen auf ihre
+                    Kosten aus. Soviel ist wahr, daß sie noch immer in dem <placeName key="prov_dxc_dxt_hv">neuen Garten</placeName> zu <placeName key="prov_lh2_hxd_2v">Potsdam</placeName>, <seg type="critical">
+                        <orig>wo sie vorher wohnte</orig>
+                        <note xml:id="nky3_zyt_hv">Während sie den kranken König im Marmorpalais
+                            pflegte, wohnte sie im Kavalierhaus (auch: Damenhaus) des "Holländischen
+                            Etablissements", einem der Holländischen Häuser im Neuen Garten.</note>
+                    </seg>, bewacht ist; daß man hier <add place="superlinear">in</add> ihren
+                    Papieren nachforscht - sey es daß sie einer verdächtigen Correspondenz
+                    verdächtig ist, sey es, daß man die nähern Verhältniße zwischen dem <persName key="prov_sqc_swd_2v">verklärten Freunde</persName> und ihr zu kennen
+                    wünschet: sey es, um eine genaue Kenntniß von ihrem Vermögenszustand, und den
+                    Erwerb desselben zu haben, und darnach die Vorkehrungen für die Vorsorge der
+                        <persName key="prov_svl_xzt_hv">Tochte Gräfin v. Stollberg</persName> zu
+                    nehmen. –</p>
+                <p>unser <persName key="prov_bxf_jt5_fv">junger König</persName> benimmt sich
+                    übrigens sehr bieder und brav: alles giebt den Schein zu schönen Hofnungen. er
+                    ist thätig ohne Übereilung: einfach in seinem ganzen Wesen, u. wie es scheint,
+                    sehr leidenschaftslos. - ich habe <bibl sameAs="prov_c45_mdx_gv">den <persName key="prov_zlq_1cx_gv">Genz</persName>schen Brief</bibl> an <persName key="prov_hwd_hmp_5r">Göthe</persName>
+                    <seg type="comment">
+                        <orig>überschickt</orig>
+                        <note xml:id="nttk_bbc_5z">Vgl. 1797-12-02-a-Goethe.</note>
+                    </seg>: haben Sie ihn vielleicht gelesen? -</p>
+                <p>Im <bibl sameAs="prov_gxk_qb5_hv">
+                        <persName key="prov_mq3_mvr_js">Schiller</persName>schen Alm<ex>anach</ex>
+                    </bibl> hat mir <bibl sameAs="prov_rfj_2xx_gv">der neue Pausias</bibl>, <bibl sameAs="prov_mc5_bc5_hv">Bajadere</bibl>, u. <bibl sameAs="prov_ml2_mc5_hv">der Peter</bibl> - sehr gefallen. - Ich höre: <persName key="prov_crx_4rs_hv">Falk</persName>
+                    <seg type="critical">
+                        <orig>athme wieder Ihre dortige Atmosphäre</orig>
+                        <note xml:id="nxdp_yrs_hv">Falk kam nach einem abgebrochenen
+                            Theologiestudium in Halle 1797 als Privatgelehrter nach Weimar, wo er
+                            mit Goethe, Herder und Wieland verkehrte.</note>
+                    </seg>: Ich sah <seg type="critical">
+                        <orig>sein leztes Produkt</orig>
+                        <note xml:id="ny4p_css_hv">Wohl sein "Taschenbuch für Freunde des Scherzes
+                            und der Satyre" (Leipzig1797-1804) gemeint, dessen erster Jahrgang 1797
+                            erschienen war und verschiedene Beiträge von Falk enthielt. - Christoph
+                            Martin Wieland schreibt am 22. Oktober 1797 aus Oßmannstedt an Böttiger:
+                            "Diesen Nachmittag erwarte ich Hrn. Falk und seine junge Dame [...]. An
+                            dem neuen Taschenbuch unsers jungen / juvenilen Juvenals habe ich mich
+                            nur mittelmäßig erbaut. Unter den guten Einfällen stoße ich zu oft auf
+                            alte Bekannte - der platten sind nicht wenige, der unvorsichtigen und
+                            den Urheber verhaßt u suspect machenden noch mehr. Indessen ließt sich
+                            doch vieles mit Vergnügen. Etwas mehr von der guten Gabe der
+                            Unterscheidung des Schiklichen u Unschicklichen, dessen was eben recht u
+                            was zu viel ist, etc. etc. wäre unserm guten Falk allerdings zu
+                            wünschen" (Wielands Briefwechsel, Bd. 14,1, bearbeitet von Angela
+                            Goldack, Berlin 2000, Nr. 68, Z. 5-26, S. 74). </note>
+                    </seg> vor einigen Tagen an - wie kann man so albernes, und schmuziges Zeug
+                    schreiben? -</p>
+                <closer rend="paragraph">
+                    <salute>Suchen Sie mich dort im Andenken zu erhalten, und sagen Sie mir bald
+                        wieder ein Wörtchen</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

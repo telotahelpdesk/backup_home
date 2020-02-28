@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_bdv_kqn_bkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben von Hirt an den Staatsminister von Altenstein. Berlin, 20. Juli
+                    1824</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 3,
+                                Bl. 88r</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1824-07-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_zzh_wcn_bkb"/>
+                </correspContext>
+                <note>Egh. von Hirt verfasst. - Empfängerbemerkungen: "B / pr den 20/7 24 / G v
+                    Harlem. / 98. / 1392. B. J."; "ad acta / Altenst / vHarlem / 21/7. 24.";
+                    Aktenvermerk "Berlin Wißens. S. 114. v. Z."; Bemerkung zum Text: "Verf: vom
+                    8/7.24. nicht bei den dießeitigen Acten."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_qnr_4nm_pgb">Kunstmuseum – Restaurierungen</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener> </opener>
+                <p>Für die gnädigen Zuschriften Ew. Excellenz, die eine vom 8<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> und die andere <seg type="comment">
+                        <orig>vom 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                            Julius</orig>
+                        <note xml:id="nymr_cvn_bkb"><?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?>Schreiben
+                            bislang nicht bekannt.</note>
+                    </seg><?oxy_custom_end?> danken die <orgName key="ed_imk_ss2_gjb">Commissarien</orgName> ganz
+                    gehorsamst.<?oxy_custom_start type="oxy_content_highlight" color="255,60,255"?></p><?oxy_custom_end?>
+                <p>Durch die erste ersehen wir, daß Ew. Excellenz, zufrieden mit der iezigen
+                    Einrichtung und dem guten Fortgange des <hi rendition="#aq">Restauration</hi>swesens, die Fortsezung hievon wünschen, und uns deswegen
+                    aufgeben: das weitere hierwegen mit den Herrn <hi rendition="#aq"><persName key="ed_obx_bw5_2jb">Schlesinger</persName></hi> u. <persName key="ed_sg3_1gm_wjb"><hi rendition="#aq">Koester</hi></persName> zu
+                    besprechen. Dies zu thun werden wir <seg type="comment">
+                        <orig>nicht verabsäumen</orig>
+                        <note xml:id="nxcf_bsn_bkb">Von anderer Hand unterstrichen und mit der
+                            Randbemerkung "nur recht bald!" versehen.</note>
+                    </seg>, und davon das <hi rendition="#aq">Resultat</hi> zur Zeit an Ew.
+                    Excellenz zur Genehmigung gehorsamst einreichen.</p>
+                <p>Durch die zweyte sehen wir mit Vergnügen daß zur Fortsezung der <hi rendition="#aq">Restauration</hi> wieder 3000 r<ex>eichstaler</ex>
+                    überwiesen sind.</p>
+                <p>Nachschriftlich danken die <orgName key="ed_imk_ss2_gjb">Commissarien</orgName>
+                    für die gnädige Mittheilung, daß dem <hi rendition="#aq">Professor <persName key="ed_ifk_ktj_xv">Levezow</persName></hi> ein Jahresgehalt von 750
+                        r<ex>eichstaler</ex> aus dem Fond der Einrichtung des k<ex>öniglichen</ex>
+                    <rs type="artwork" key="prov_p5w_rw2_gjb"><hi rendition="#aq">Museum</hi>s</rs>
+                    zugestanden ist. Dieser wackere Gelehrte verdient solches in jeder Hinsicht.</p>
+                <closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> den 20<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        <hi rendition="#aq">Julius</hi> 1824.</dateline>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

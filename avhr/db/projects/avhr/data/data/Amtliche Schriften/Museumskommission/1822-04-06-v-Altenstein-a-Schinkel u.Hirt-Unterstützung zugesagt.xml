@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ctx_3vd_3jb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin, 6.
+                    April 1822</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 1,
+                                Bl. 91r-v (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1822-04-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_tgl_b52_3jb"/>
+                    <ref type="next" target="hirt_tfy_fzk_3jb"/>
+                </correspContext>
+                <note>Mit egh. Ergänzungen von Altenstein; mit Bearbeitungsvermerken auf dem linken
+                    Rand: "<hi rendition="#u">cito</hi>"; Mundierungs- und Absendevermerke "den 7/4
+                    22"; auf dem oberen Rand: "Num: 705. B. J."</note>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_xjj_5nm_pgb">Sollysche Kunstsammlung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl: Geh: O. B. Raths / Herrn Schinkel / und / des
+                            Königl: Hofraths Herrn / Hirt / Hoch- und Wohlgeboren / <hi rendition="#u">hier</hi></addrLine>
+                    </address>
+                    <dateline>Berlin, den 6<hi rendition="#sup">ten</hi> April 1822.</dateline>
+                </opener>
+				<p>Bey dem Ew. — zu Theil gewordenen Auftrag in Beziehung auf die <rs type="artwork" key="prov_ggw_yml_vw">Sollysche-GemäldeSammlung</rs> halte ich für
+                    erforderlich, daß Sie möglichst bald alles, was zur Erleichterung des Geschäffts
+                    dienen kann anordnen und in Vorschlag bringen. Es wird Ihnen Beyhülfe zur
+                    Besorgung der nöthigen Expeditionen, Anlegung von Akten und Fertigung von
+                        <unclear reason="illegible" cert="">Reinschrif</unclear>ten zur Berichtigung
+                    des Inventariums, Auswahl der Gemälde, Anordnung der Restauration u.s.w. nötig
+                    seyn, damit Sie nicht durch Arbeiten die Sie andern auftragen können zu sehr von
+                    wichtigern Geschäfften und Studien abgezogen werden. Es wird ferner eine
+                    Anordnung erforderlich seyn, um Ihnen eine angemessene Disposition Behufs der
+                    Unterbringung der vorzüglichern Gemälde im <placeName key="ediarum_qkl_1cw_jgb">Akademie Gebäude</placeName>, deren Verschluß und gute Aufbewahrung zu
+                    sichern.</p>
+                <p>Ewr. — ersuche ich ergebenst mir deshalb gefälligst Vorschläge zu machen.
+                    Wenn hier das Nötige für Ihre gemeinschafftlichen Geschäffte angeordnet ist, so
+                    wird jedem von Ihnen durch das Personal auch zugleich bei Ihren anderweiten,
+                    Ihnen im Verfolg <pb n="2"/> der größeren <orgName key="ed_imk_ss2_gjb">Kommission</orgName> speciell obliegenden Geschäffte die erforderliche
+                    Hülfe zu Theil werden und es Ihnen wenigstens leichter seyn für das
+                    Eigenthümliche eines Geschafftes noch besonders die nothige Hülfe beyzuschaffen
+                    oder in Vorschlag zu bringen.</p>
+                <p>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></p>
+				<closer>
+                    <signed><ex>[Unterschriftskürzel]</ex> Altenstein</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

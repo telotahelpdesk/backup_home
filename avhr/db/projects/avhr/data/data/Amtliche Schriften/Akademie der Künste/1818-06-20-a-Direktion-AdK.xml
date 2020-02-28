@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_tmp_gkn_g3b">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben Hirts an das Direktorium der Akademie der Künste. Berlin, 20. Juni
+                    1818</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SBB-PK</institution>
+                        <collection>Handschriftenabteilung</collection>
+                        <idno><idno type="shelfmark">Slg. Darmstädter</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GStA PK</institution>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 17 Abt. I Nr. 1
+                                        Bd. 11, unpaginiert (Beglaubigte Abschrift vom 3. März
+                                        1914)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1818-06-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="ed_rgl_rbr_thb">Akademie der Künste, Preußische:
+                        Direktorium</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+            <textClass>
+                <keywords>
+                    <term key="ed_f1n_1nm_pgb">AdK - Neuorganisation</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute>An ein hochlöbliches <hi rendition="#aq">Directorium</hi> der
+                            k<ex>öniglichen</ex> Akademie der Künste.</salute>
+                </opener>
+				<p>Ich soll auf die Einladung eines hochlöblichen <hi rendition="#aq"><orgName key="ed_rgl_rbr_thb">Directorium</orgName></hi> die Gründe darlegen,
+                    warum ich mich seit längerer Zeit den gewöhnlichen Versammlungen des
+                        akad<ex>emischen</ex>
+                    <orgName key="ed_fyw_2vh_4fb">Senats</orgName> entziehe. - Ich gebe hierüber
+                    meine Erklärung schriftlich, und zwar mit jener Offenheit, mit der ich von jeher
+                    über die akademischen Angelegenheiten zu sprechen und zu schreiben gewohnt
+                    bin.</p>
+                <p>Die Mitgliedschaft bey dem akad<ex>emischen</ex>
+                    <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senate</orgName></hi> ist für
+                    mich, wie wahrscheinlich für manche andere, bloß ein Ehrenposten. Indeßen habe
+                    ich bey der Annahme desselben mich allerdings willig und bereit erklärt, nach
+                    Kräften wahrzunehmen, was zum Besten der k<ex>öniglichen</ex>
+                    <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> würde beytragen können. Auch
+                    werden die <hi rendition="#aq">Acta</hi> bey der k<ex>öniglichen</ex>
+                        Akad<ex>emie</ex> bezeugen, daß, wo es darauf ankam, ich es nie an Eifer für
+                    dieselbe gebrechen ließ. Allein wer mit Liebe und Lust an einer Anstalt
+                    mitarbeiten soll, der muß auch etwas Ersprießliches zu leisten hoffen können. <subst>
+                        <del rendition="#s">Allein</del>
+                        <add place="superlinear">Jedoch</add>
+                    </subst> die Umstände begünstigten in den leztern Jahren diese Hoffnung
+                    wenig.</p>
+                <p>Das Mangelhafte der iezigen Einrichtungen anerkennend, hatte die <orgName key="ed_lbq_ytw_13b">Oberbehörde</orgName> zu verschiedenen Zeiten eine
+                    Grundverbeßerung versprochen; und im Jahre 1809 war die Zusage darüber so
+                    feierlich, daß damals auf Verlangen der Behörde auch ein neuer Entwurf zur
+                    Organisation von Seite des akad<ex>emischen</ex>
+                    <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi>s</orgName>
+                    übergeben wurde. Hieraus sollte das erneute Leben der Akademie in allen Zweigen
+                    hervorgehen. Aber das Schicksaal wollte, daß alles bis iezt ruhte. warum? - das
+                    weiß ich nicht. Vielmehr kamen von Zeit zu Zeit Dinge zum Vorschein, die jene
+                    ersehnte Verbeßerung mehr entfernten, als die Hoffnung dazu annäherten.</p>
+                <p>Was nun den akademischen <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senat</orgName></hi> in's besondere betrift, so ist derselbe nach und
+                    nach immer unbe-<pb n="2"/>deutender geworden. Früher war es gewöhnlich, daß die
+                    vorstehende Behörde in demselben selbst Sitz nahm, und so war es möglich,
+                    unmittelbar zu berathen und vorzuschlagen, was die Umstände erfordern möchten.
+                    In der Folge entstand eine <hi rendition="#aq">Protocoll</hi>fuchserey, was
+                    zwischen der <orgName key="ed_lbq_ytw_13b">Behörde</orgName> und <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi></orgName> hin und her
+                    zirkulirt. Hiemit aber entschwand alles Leben, weil es nicht möglich ist, daß
+                    sich die <orgName key="ed_lbq_ytw_13b">Oberbehörde</orgName> auf diesem Wege
+                    gehörig unterrichte, und sachkenntlich und lebendig eingreife. - und überhaupt
+                    was konnten und können solche <hi rendition="#aq">Protocolle</hi> seyn? - Der
+                        <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi></orgName> weiß
+                    nicht, woran er ist; daher können seine Geschäfte nur mechanisch betrieben
+                    werden, und die Berichte und Gegenberichte nur so viel gewähren, daß dadurch
+                    eben gerade das Triebwerk nicht stille steht.</p>
+                <p>Solche <hi rendition="#aq">Protocolle</hi> machen zu helfen, und die Antworten
+                    anzuhören kann für den, der eine beßere Ansicht von einer wahrhaft wirksamen
+                    Akademie hat, nicht erfreulich seyn; und so begreift sich leicht, wie es komt,
+                    daß die Versammlungen des akademischen <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi>s</orgName> so wenig besucht werden.</p>
+                <p>Auch sehe ich nicht ein, wie es anders werden soll, so lange die <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> und der <hi rendition="#aq"><orgName key="ed_fyw_2vh_4fb">Senat</orgName></hi> nicht eine neue Stellung
+                    erhält. Mein Wunsch geht also dahin, daß es dem akademischen <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi></orgName> gefallen möge,
+                    ein hohes <hi rendition="#aq"><orgName key="ed_xpk_5s3_f3b">Ministerium</orgName></hi> zu bitten, die neue Organisation, welche der
+                        k<ex>öniglichen</ex>
+                    <orgName key="ed_u5s_1fc_b1b">Akademie</orgName> schon seit so vielen Jahren
+                    versprochen ist, so bald wie möglich eintreten zu laßen.</p>
+                <p>Übrigens bitte ich ein hochlöb<ex>liches</ex>
+                    <hi rendition="#aq"><orgName key="ed_rgl_rbr_thb">Directorium</orgName></hi>
+                    diesen Aufsaz dem akad<ex>emischen</ex>
+                    <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi>e</orgName> vorlegen
+                    zu wollen, und dann denselben <hi rendition="#aq">in originali</hi> an die
+                        <orgName key="ed_xpk_5s3_f3b">oberste Behörde</orgName> zu übersenden.</p>
+				<closer>
+                    <dateline>Berlin den 20 Junius 1818.</dateline>
+                    <salute/>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

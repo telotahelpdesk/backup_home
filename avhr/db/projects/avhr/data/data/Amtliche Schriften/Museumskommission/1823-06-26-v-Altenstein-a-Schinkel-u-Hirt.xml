@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_pqf_m1y_vjb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Staatsministers von Altenstein an Schinkel und Hirt. Berlin,
+                    26. Juni 1823</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 Ve Sekt. 15 Abt. I Nr. 4 Bd. 2,
+                                Bl. 135r (Konzept von Schreiberhand)</idno></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="ed_iwb_fpx_lw">Altenstein, Karl Sigmund Franz Freiherr vom Stein
+                        zum (1770-1840) (preuß. Reformer, ab 1817 Leiter des neu gebildeten
+                        Kultusministeriums)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1823-06-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="ed_rcd_yvw_ww">Schinkel, Karl Friedrich (1781-1841) (Baumeister,
+                        Architekt, Stadtplaner, Maler, Bühnenbildner, ab 1810 Geh. Oberbauassessor
+                        bei der Berliner Oberbaudeputation, 1815 Geh. Oberbaurat, 1838
+                        Oberlandesbaudirektor)</persName>
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next" target="hirt_ckc_n4k_wjb"/>
+                    <ref type="next" target="hirt_c1z_vvk_wjb"/>
+                </correspContext>
+                <note>Halbseitig beschriebene Folio, von Schreiberhand mit Unterschriftskürzel von
+                    Altenstein. - Bearbeitungsvermerk "<hi rendition="#u">citissime</hi>. / <hi rendition="#u">Briefbogen</hi>."; Mundierungs- und Absendevermerk "eod[em]
+                    xxxx altenstein"; Aktenvermerk auf dem oberen Rand: "ad n° 1250. B. J."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / des Königl. Geh: Ober-Bau-Raths, / Herrn <hi rendition="#u">Schinkel</hi> / Hochwohlgeboren / und / des Königl. Hofraths, Herrn
+                                <hi rendition="#u">Hirt</hi> / Wohlgeboren.</addrLine>
+                    </address>
+                    <dateline>Berlin, den 26<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Juny 1823.</dateline>
+                </opener>
+				<p>Ewr. Hochwohl- und Wohlgeboren theile ich anliegend eine mir von dem Maler <persName key="ed_dmf_bdy_vjb">Zimmermann</persName> so eben zugesandte Abschrift des
+                    von ihm über die Entweichung des Gemälde-Restaurateurs <persName key="ed_ykk_qwx_vjb">Horack</persName> dem Herrn Profeßor <persName key="ed_y23_xjy_2y">Wach</persName> heute erstatteten Berichts, zur
+                    gefälligen Kenntnißnahme ergebenst mit.</p>
+				<closer>
+                    <dateline>Berlin, w.<ex>[ie]</ex> o.<ex>[ben]</ex></dateline>
+                    <signed><ex>[gez.]</ex> A<ex>[ltenstein]</ex></signed>
+                </closer>
+            </div>
+            <postscript>
+                <p/>
+                <p>[Schreiben des Malers Zimmermann an Altenstein, 2. Juli 1823:]</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

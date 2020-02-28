@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_lsr_hjw_xgb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schreiben des Kuratoriums der Bauakademie an Hirt. Berlin, 12. Juni 1806
+                    (Genehmigung seines Austritts aus der Bauakademie)</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="concept">
+                    <msIdentifier>
+                        <institution>GStA PK</institution>
+                        <collection/>
+                        <idno><idno type="shelfmark">I. HA, Rep. 76 alt IV Nr. 30, fol.
+                                42r-45r</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Halbseitig beschriebene Folio; mit Korrekturen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName key="ed_ufl_3jc_mgb">Bauakademie zu Berlin - Kuratorium (im
+                        Ministerium)</orgName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1806-06-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <note>Mit Aktenvermerken: "mund[iert] 14<hi rendition="#sup">ten</hi> ejusd: / den
+                        15<hi rendition="#sup">ten</hi> abgeg[angen] [Unterschrift] H:"; "Bau
+                    Académie"; "Ad N° 1 pro Junio c:"; mit Sichtungsvermerk "Sack / 13."</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>An / Des Königlichen Hofraths H<hi rendition="#sup"><hi rendition="#u">rn</hi></hi> Hirt / Wohlgebohren</addrLine>
+                    </address>
+                    <dateline>Berlin den 12<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                        Juny 1806</dateline>
+                </opener>
+				<p>Das unterzeichnete <orgName key="ed_gll_xtv_xfb"><hi rendition="#aq">Curatorium</hi> der <hi rendition="#aq">Académie</hi> der bildenden Künste</orgName> und
+                        <orgName key="ed_ufl_3jc_mgb">der Bau <hi rendition="#aq">Académie</hi></orgName> erwidert dem H<hi rendition="#sup"><hi rendition="#u">rn</hi></hi> Hofrath <hi rendition="#aq">Hirt</hi>, auf
+                    deßen Eingabe vom 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">April</hi> dieses Jahres, wie es die darin enthaltene
+                    Vorstellung des Entstehens der <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName> in ihrer jezigen Art, auf sich
+                    beruhen läßt, und es hat dieserhalb nur zu bemerken: daß, nachdem die mancherley
+                    darüber von Sachverständigen Männern aller Art angegebenen Ideen geprüft, und
+                    der Plan der jetzigen Einrichtung derselben gut gefunden worden, solcher
+                        <persName key="prov_bxf_jt5_fv">Allerhöchst</persName> genehmiget, und es
+                    nun bey der Ausführung nur darauf angekommen ist, daß ein jedes Mitglied der <hi rendition="#aq">Académie,</hi> mit Liebe und Eifer für die Sache, das
+                    seinige dazu beyzutragen sich angelegen seyn läßt, indem nur von solcher
+                    harmonischen Verbindung des Gantzen und seiner Theile, das völlige Gedeihen <pb n="2"/> eines solchen <hi rendition="#aq">Instituts</hi> zu erwarten ist.
+                    Hiermit hat sich der H<hi rendition="#sup"><hi rendition="#u">r</hi></hi>
+                    Hofrath <hi rendition="#aq">Hirt</hi> ebenfals, nach der schriftlichen Antwort
+                    vom 29<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Juny</hi> 1799, sehr zufrieden erklärt, und Sich dazu
+                    verbindlich gemacht, und schon bis zum nächsten <hi rendition="#aq">October</hi>
+                    haben Dieselben eine gedruckte Schrift zum Leitfaden bey Ihren <bibl sameAs="ed_exn_cqb_kgb">Vorlesungen</bibl> zu liefern versprochen, welche
+                    aber noch nicht erfolgt ist.</p>
+                <p>Bald haben auch die Anzeigen der <orgName key="ed_fwf_4q3_mgb">Academischen <hi rendition="#aq">Direction</hi></orgName> und <orgName key="ed_dvs_ykp_tgb">nachherigen OberBau<hi rendition="#aq">Deputation</hi></orgName> es gezeigt, daß dieselben nicht eigentlich mit
+                    Lust und Liebe den Unterricht in der Kritischen Geschichte der Bau Kunst bey der
+                    Bau <hi rendition="#aq">Académie</hi> erteilt haben, wie es mit Ihrem <bibl sameAs="ed_ixd_btv_xgb">Unterrichte</bibl> bey der <orgName key="ed_u5s_1fc_b1b">Kunst-<hi rendition="#aq">Académie</hi></orgName>
+                    würcklich der Fall gewesen ist. Der Grund davon <pb n="3"/> liegt, dem Anscheine
+                    nach, wohl daran, daß dieselben die Sache aus einem gantz verschiedenen
+                    Gesichtspunct ansehen, und Sich einen gantz andern Plan von einer
+                    Bildungs-Anstalt für junge <hi rendition="#aq">Architecten</hi> gebildet haben,
+                    als sie nachher zu Stande gekommen ist, indem Sie immerhin auf die Ausbildung
+                    eigentlicher gelehrter Bau Meister und <hi rendition="#aq">Architecten</hi>, im
+                    höhern Sinne dieses Worts, hingearbeitet haben, und mit der Zuziehung der, nach
+                    dem Bedürfniße unseres Staats, mehrenteils erforderlichen gewöhnlichen Land- und
+                    WaßerBauBedienten auch Feldmeßer, nicht zufrieden gewesen sind.</p>
+                <p>Das <hi rendition="#aq">Curatorium</hi> hat, in der Ueberzeugung deßen, und um
+                    die allerdings schätzungswerthen Kentniße des H<hi rendition="#sup"><hi rendition="#u">rn</hi></hi> Hofraths <hi rendition="#aq">Hirt</hi>, für
+                    die <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName> ebenfals zu benutzen, über diese verschiedene
+                    Ansicht der Dinge hinweggesehen und die daraus entstandene <hi rendition="#aq">Disharmonien</hi> mit der <orgName key="ed_dvs_ykp_tgb">Academischen Ober
+                            <pb n="4"/> Bau <hi rendition="#aq">Deputation</hi></orgName> lieber auf
+                    sich beruhen, als die Sache selbst dadurch leiden laßen wollen.</p>
+                <p>Jezt haben Dieselben, nach Ihrer Eingabe vom 3<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">April</hi> e<ex>jusdem</ex> a<ex>nni</ex> erklärt, den
+                    bisher gegebenen besondern <bibl sameAs="ed_exn_cqb_kgb">Unterricht</bibl> bey
+                    der <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName> nicht fortsetzen zu wollen, wogegen Sie bey der
+                        <orgName key="ed_u5s_1fc_b1b">Kunst <hi rendition="#aq">Académie</hi></orgName> auch für die Zöglinge der <orgName key="ed_tc3_hfc_b1b">Bau-<hi rendition="#aq">Académie</hi></orgName>, die
+                        <bibl sameAs="ed_ixd_btv_xgb">Geschichte der Bau-Kunst</bibl>, abwechselnd
+                    ein um das andere Winterhalbe Jahr, lesen werden.</p>
+                <p>Das <hi rendition="#aq"><orgName key="ed_gll_xtv_xfb">Curatorium</orgName></hi>
+                    <orgName key="ed_ufl_3jc_mgb">beider <hi rendition="#aq">Academien</hi></orgName> schäzt eben sosehr Ihre Kentniße, als es von der
+                    Nützlichkeit Ihrer Vorlesungen für die Zöglinge der <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName>
+                    überzeugt ist; es ist aber weit entfernt, und würde es, mit den liberalen
+                    Grundsätzen, die in allen Kunst-Angelegenheiten herschen müßen, nicht
+                    übereinstimmend halten, Ihnen, wider Ihren Willen, Zuzumuthen, das <hi rendition="#aq">Collegium</hi> bey der <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName> fortzusetzen, sondern williget
+                    vielmehr <pb n="5"/> ein, daß Sie davon <hi rendition="#aq">dispensirt</hi>
+                    werden, und dagegen Ihren Unterricht bey der <orgName key="ed_u5s_1fc_b1b">Kunst<hi rendition="#aq">Académie</hi></orgName> in der vorgeschlagenen
+                    Art Fortsetzen, so daß Sie abwechselnd, einen Winter um den andern, die <bibl sameAs="ed_ixd_btv_xgb">Geschichte der bildenden Künste und die Geschichte
+                        der Bau Kunst</bibl>, als Haupt Theil derselben, lesen. Daß an diesem auch
+                    die Zöglinge der <orgName key="ed_tc3_hfc_b1b">Bau <hi rendition="#aq">Académie</hi></orgName>, ohne alles Hinderniß, auf die daselbst
+                    erhaltene <hi rendition="#aq">Matricul</hi>, Theil nehmen können, beruhet auf
+                    der, unterm 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi>
+                    <hi rendition="#aq">Februar</hi> 1800, algemein eingeführten Einrichtung, und
+                    sind daher auch beide, sowohl der <orgName key="ed_fyw_2vh_4fb"><hi rendition="#aq">Senat</hi> der Kunst<hi rendition="#aq">Académie</hi></orgName>, als die <orgName key="ed_dvs_ykp_tgb">Academische
+                        Ober-Bau <hi rendition="#aq">Deputation</hi></orgName> darnach <hi rendition="#aq">instruirt</hi> worden.</p>
+				<closer>
+                    <dateline><hi rendition="#aq">Berlin</hi> p p</dateline>
+                    <signed><hi rendition="#aq">Curatorium</hi> der Kunst und Bau <hi rendition="#aq">Académie</hi>.</signed>
+                </closer>
+            </div>
+            <postscript>
+                <p>______________________________________________________________________________________________</p>
+                <p><ex>Im Anschluss folgen die Entwurfsschreiben des Kuratoriums an die Akademische
+                        Oberbaudeputation sowie an den Senat der Akademie der Künste (ebenda, Bl.
+                        44r-45r):</ex></p>
+                <p>An / Die <orgName key="ed_dvs_ykp_tgb">Academische Ober
+                    Bau-/Deputation</orgName>.</p>
+                <p>Es ist, auf den Antrag des H<hi rendition="#sup"><hi rendition="#u">rn</hi></hi>
+                    Hofraths Hirt, resolvirt worden, ihn von Lesung des <bibl sameAs="ed_exn_cqb_kgb">Collegii</bibl> über die Kritische Geschichte der
+                        Bau-<pb n="6"/>Kunst bey der <orgName key="ed_tc3_hfc_b1b">Bau
+                        Académie</orgName> zu dispensiren, und dagegen beschloßen, daß derselbe
+                    abwechselnd, einen Winter um den andern, <bibl sameAs="ed_ixd_btv_xgb">über die
+                        Geschichte der bildenden Künste und über die Geschichte der Bau
+                    Kunst</bibl>, als Haupt Theil derselben, bey der <orgName key="ed_u5s_1fc_b1b">KunstAcadémie</orgName> lesen solle, und daß an diesen Collegien, nach der
+                    unterm 28<hi rendition="#sup"><hi rendition="#u">ten</hi></hi> Februar 1800
+                    algemein eingeführten Einrichtung, wegen Admission der Zöglinge der <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName> zu den Collegien der <orgName key="ed_tc3_hfc_b1b">Bau Académie</orgName>, auch die Zöglinge der <orgName key="ed_tc3_hfc_b1b">Bau Académie</orgName>, ohne alles Hinderniß, auf die
+                    daselbst erhaltene Matricul, Theil nehmen <hi rendition="#uu">sollen</hi>.
+                    <lb/>Der Academischen OberBauDeputation wird daher solches, und daß der <orgName key="ed_fyw_2vh_4fb">Senat der Kunst Académie</orgName> hiernach Instruirt
+                    worden, mit der Anweisung hiermit bekandt gemacht, daß bey der öffentlichen
+                    Bekandtmachung der Collegien in dem nächsten und künftigen Winterhalben Jahre,
+                        <pb n="7"/> dem Publico und den Zöglingen ausdrücklich mit bekandt zu
+                    machen. <lb/>Berlin p p <orgName key="ed_gll_xtv_xfb"><lb/>Curatorium der
+                        Kunst</orgName>
+                    <orgName key="ed_ufl_3jc_mgb">und Bau Académie</orgName></p>
+                <p>An / Den <orgName key="ed_fyw_2vh_4fb">Senat der Académie der / bildenden
+                        Künste</orgName>.</p>
+                <p>In Simili ut Supra atque ad verbum <hi rendition="#uu">sollen</hi>
+                    <lb/>Dem Senate der Académie der bildenden Künste wird daher solches, mit der
+                    Anweisung, hiermit bekandt gemacht, dieses bey Entwerfung des Prospectus und des
+                    Publicandi über den gesammten Unterricht bey der <orgName key="ed_u5s_1fc_b1b">Kunst Académie</orgName>, mit darauf zu bemercken, und auch den Zöglingen
+                    ausdrücklich bekandt zu machen. <lb/>Berlin p p <lb/><orgName key="ed_gll_xtv_xfb">Curatorium der Kunst</orgName>- <orgName key="ed_ufl_3jc_mgb">und Bau Académie</orgName>. <lb/><ex>[gez.]</ex>
+                    <persName key="ed_tls_pjg_zgb">H<ex>ar</ex><ex>den</ex>b<ex>er</ex>g</persName></p>
+                <p><ex>Das letztere Schreiben in ausgehändigter Fassung in: Akademie der Künste
+                        Berlin, Historisches Archiv, Sign.: PrAdK 0013, Bl. 178 / Reg. I - AB
+                        114:</ex></p>
+                <p>An / den <orgName key="ed_fyw_2vh_4fb">Senat der Académie / der Bildenden
+                        Künste</orgName>.</p>
+                <p>Es ist, auf den Antrag des Herrn Hofraths Hirt, resolviret worden, ihn von Lesung
+                    des Collegii über die <bibl sameAs="ed_exn_cqb_kgb">Kritische Geschichte der
+                        Baukunst</bibl> bei der <orgName key="ed_tc3_hfc_b1b">Bau-Academie</orgName>
+                    zu dispensiren, und dagegen beschloßen, daß derselbe abwechselnd, einen Winter
+                    um den andern, <bibl sameAs="ed_ixd_btv_xgb">über die Geschichte der bildenden
+                        Künste, und über die Geschichte der Baukunst</bibl>, als Haupttheil
+                    derselben, bei der <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName> lesen
+                    solle, und daß an diesen Collegien, nach der unterm 28<hi rendition="#sup">sten</hi> Februar 1800. allgemein eingeführten Einrichtung, wegen Admission
+                    der Zöglinge der <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName> zu den
+                    Collegien der <orgName key="ed_tc3_hfc_b1b">Bau-Academie</orgName>, auch die
+                    Zöglinge der <orgName key="ed_tc3_hfc_b1b">Bau-Académie</orgName>, ohne alles
+                    Hinderniß, auf die daselbst erhaltene Matricul, Theil nehmen sollen. <lb/>Dem
+                    Senate der Académie der bildenden Künste wird daher solches, mit der Anweisung
+                    hiermit bekannt gemacht, dieses bei Entwerfung des Prospectus und des Publicandi
+                    über den gesammten Unterricht bei der <orgName key="ed_u5s_1fc_b1b">Kunst-Académie</orgName>, mit darauf zu bemerken, und auch den Zöglingen
+                    ausdrücklich bekannt zu machen. <lb/>Berlin, den 12<hi rendition="#sup">ten</hi>
+                    Juny, 1806. <orgName key="ed_gll_xtv_xfb"><lb/>Curatorium der
+                            König<ex>lichen</ex> Kunst</orgName>- <orgName key="ed_ufl_3jc_mgb">u.
+                        Bau-Académien</orgName>. <lb/><ex>[gez.]</ex>
+                    <persName key="ed_tls_pjg_zgb">Hardenberg</persName><lb/></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

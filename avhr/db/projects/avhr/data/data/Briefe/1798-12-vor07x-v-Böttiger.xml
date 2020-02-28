@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_kcf_zrt_vz">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Karl August Böttiger. Weimar, vor 7. Dezember 1798]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier/>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezeugt in: 1798-12-07-a-Böttiger: " Ihr lezter Brief war mir ein freundlicher
+                    Bote: und herzlich danke ich Ihnen, geliebter Freund, für das vielfältige, was
+                    Sie mir darin berichten. Niemand wünscht sehnlicher als ich, daß Sie aus der
+                    jezigen Klemme sich in eine Lage versetzen möchten, wo Sie mit Muße, und Wahl
+                    Ihren Studien leben könnten. / Ich bin zufrieden mit dem Gebrauch, den Sie von
+                    meinem Geschriebs im Nov<ex>ember</ex>stück d<ex>es</ex> d<ex>eutschen</ex>
+                    Mercurs machten: und wohl haben Sie gethan, die verse nicht hineingesezt zu
+                    haben. [...] Was Göthe über Mahlerey sagen wird, bin ich neugierig. Über
+                    Porsena's Grabmal habe ich auch einmal geabeitet. [...] Von dem Ballhorn weiß
+                    ich gar nichts. Die Schlegel kommen hier immer mehr in Mißkredit. [...] Den
+                    Poßillianirenden Gerning kenne ich: wenn er des P<ex>ater</ex> Gürtlers ganze
+                    Münzsammlung erhaschte, so that er einen guten Fang. Fries u. Lerset sind zwey
+                    liebe Leute, und ihr Urtheil über die Münchnergallerie ist richtig, obwohl sie
+                    nicht mit der kaiserlichen in Wien zu vergleichen ist. [...] Ich weiß seit
+                    einiger zeit wenig <subst>
+                        <del rendition="#s">über</del>
+                        <add>von</add>
+                    </subst> unserm Münz u. gemmencabinet. [...] Sollten indeßen Sie, oder Herder
+                    [...] einzelne Abdrucke bald wünschen, so würde dieß keine Schwierigkeit machen.
+                    [...] Die Düßeldorfer Gallerie sah ich nie: ich habe aber just die Kupfer davon
+                    auf meiner Stube, u. sehe, daß sie an italienischen Sachen arm ist. Die so
+                    getauften Raphaels sind weit entfernt es zu seyn. Indeßen wäre es immer eine
+                    herrliche acquisition, ebenso wie die Münzsammlung – / Die Sammlung des Prinzen
+                    August ist zerrißen, so daß er selbst nicht weiß, wie es damit gehen wird. [...]
+                    / Ich würde sehr bedauern, wenn das Vasenwerk liegen bleiben sollte. [...] Rom
+                    besizt noch seine Privatgallerien: nur der Prinz Aldobrandini verkaufte seinen
+                    Cristus von Leonardo mit der gesammten Gallerie an zwey englische Maler [...].
+                    Mad. Sander ist immer noch nicht wohl [...]"</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August (1760-1835)
+                        (Schriftsteller)</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                    <date notBefore="1798-11-24" notAfter="1798-12-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_vcb_ch2_4v"/>
+                    <ref type="next" target="prov_ert_gcm_4v"/>
+                </correspContext>
+                <note/>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="regestOnly"/>
+        </body>
+    </text>
+</TEI>

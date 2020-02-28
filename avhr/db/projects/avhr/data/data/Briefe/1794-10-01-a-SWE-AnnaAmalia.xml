@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_vyn_2rd_cv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Anna Amalia von Sachsen-Weimar und Eisenach. Rom, den 1. Oktober 1794.
+                    Mittwoch</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+                <respStmt>
+                    <name/>
+                    <resp/>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Landesarchiv Thüringen - Hauptstaatsarchiv Weimar</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Großherzogliches Hausarchiv A XVIII Nr. 50, Bl.
+                                21-22r</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <placeName key="prov_vdf_qzg_y5">Grottaferrata </placeName>
+                    <date when="1794-10-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_qn2_zhp_5r">Sachsen-Weimar-Eisenach, Anna-Amalia
+                        von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_kkq_5lj_nz"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Rom den 1<hi rendition="#u">
+                            <hi rendition="#sup">ten</hi>
+                        </hi> October 1794. / in Grottaferrata.</dateline>
+                    <salute>Gnädigste Herzogin!</salute>
+                </opener>
+                <p> In der Zeit, wo ich das <seg type="critical">
+                        <orig>Gnädige Schreiben Ew. Durchlaucht</orig>
+                        <note xml:id="nvxn_dsd_cv">Brief erschlossen [Von Anna Amalia
+                            1794-10-vor01x].</note>
+                    </seg> erhielt, war <persName key="prov_fwk_rjm_y5">Rehberg</persName> auf dem
+                    Lande, und so konnte ich die 6 Exemplare von den <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_jtk_l5d_cv">Attitüden</bibl> der <persName key="prov_acj_xjm_y5">Lady Hamilton</persName>
+                        </orig>
+                        <note xml:id="nmmx_tpj_nz">Vgl. 1794-06-21-a-SWE-AnnaAmalia mit
+                            Sacherläuterung.</note>
+                    </seg>
+                    nicht eher, als bey seiner Rückkunft übersenden.
+                    Diese werden also hiemit zugleich auf die Post gegeben, weil sich keine andere
+                    Gelegenheit vorfindet. Ich danke Ew. Durchlaucht ergebenst für die hohe Gnade,
+                        <seg type="comment">
+                        <orig>mich dem <persName key="prov_ikk_st5_w5">Baron v.
+                                Grimm</persName> empfehlen zu wollen</orig>
+                        <note xml:id="ntsp_t3k_nz">Vgl. 1794-06-21-a-SWE-AnnaAmalia mit
+                            Sacherläuterung </note>
+                    </seg>; ebenso wie für <seg type="comment">
+                        <orig>die übersandte Nachricht von dem <bibl sameAs="prov_ps1_25d_cv">Werke über die Schifffahrt der Alten</bibl>
+                        </orig>
+                        <note xml:id="ntkd_y3k_nz">Vgl. 1794-06-21-a-SWE-AnnaAmalia</note>
+                    </seg>.
+                        <persName key="prov_vpp_zgf_rs">Miss Knight</persName> hat bereits
+                    geschrieben, um dasselbe kommen zu laßen. Ich bin anfang September auch hieher
+                    gewandert, <seg type="critical">
+                        <orig>wo der <persName key="prov_o12_bfx_w5">Prinz</persName> und wir alle
+                            sehr vergnügt leben</orig>
+                        <note xml:id="nmyh_gr2_cv">Zur Gesellschaft des Prinzen gehörten u.a. sein
+                            Begleiter Ernst Friedrich Herbert Graf zu Münster, der Arzt Wilhelm
+                            Friedrich Domeier und der Hauptmann Georg Christian von Hanstein.</note>
+                    </seg>. <persName key="prov_xsn_1cg_f5">Bury</persName> war sehr fleißig: er <rs type="artwork" key="prov_rxc_vvd_cv">copirte das <rs type="artwork" key="prov_n41_242_cv">Gemälde des <persName key="prov_kpx_jvd_cv">Dominichino</persName> wo der Besäßene Knabe geheilt wird</rs>
+                    </rs>, in Waßerfarben <pb n="2"/> meisterlich, ebenso wie das berühmte <rs type="artwork" key="prov_cct_2wd_cv">Portrait der Cenci</rs>, welches Prinz
+                        <persName key="prov_eyj_hch_y5">Colonna</persName> vor mehrern Jahren in
+                    sein Landhaus zu <placeName key="prov_g22_lxd_cv">Marino</placeName> bringen
+                    ließ, und dort den Fremden nur im Verborgenen gezeigt wird. Man kann wirklich
+                    nicht vollkommner copiren, wie er diese beyden Stücke gemacht hat. Der <persName key="prov_o12_bfx_w5">Prinz</persName> hat beyde in seinem Zimmer
+                    aufgehangen. <seg type="critical">
+                        <orig>Das <rs type="artwork" key="prov_f2n_l42_cv">Portrait des Prinzen</rs>
+                        </orig>
+                        <note xml:id="nhw2_s42_cv">Das Porträt von Frederick Augustus von Hervey,
+                            Prinz von England, beschreibt Bury in einem Brief an Goethe, Rom, 7.
+                            Januar 1797 wie folgt: "[…] nach verlauf einen Jahr hat sich der prinz
+                            öfters Mahlen lassen, entlich wurde auch ich von dem prinzen dazu
+                            Aufgefordert, diesses hatte schon längst der Ehrliche Graf von Münster,
+                            welcher führer des prinzen ist, gewünscht, der prinz nahm eine Wohnung
+                            zu Grotta Ferata auf einen ganzen Sommer, ich wurde mit Geladen, Sie
+                            können Sich also vorstellen mit welchem vergnügen ich das portrait
+                            Angefangen, und geändiget hab, meine bemühungen welche ich angewand so
+                            wohl die Gestald der person, als Ehnlichkeit zu zeichnen, war nicht
+                            fruchtloß, auch überwand ich die Schwürigkeit des pferds, und der
+                            landschafft, keine Mühe war mir zu viel ein würklich ausgeführtes
+                            Gemählte zu liefern; nach vollendung des Wercks ist meine Zufriedenheit,
+                            der Künstler wohlgefallen, des prinzen, und anderen liebhabern
+                            Zufriedenheit gewässen." (zitiert nach: Bury-Briefe, S. 89-90).</note>
+                    </seg> ist noch nicht ganz fertig, aber er machet es mit all möglichem Fleiße,
+                    und wird sehr gut werden. Er hat sich in jeder Rücksicht ungemein gebeßert, und
+                        <seg type="critical">
+                        <orig>der Prinz will ihm sehr wohl</orig>
+                        <note xml:id="nfjl_lp2_cv">Bury, der lange Zeit von Goethe und von Anna
+                            Amalia finanziell unterstützt worden war, konnte sich dank des Prinzen
+                            von England endlich seiner drückenden Geldsorgen entledigen und
+                            erreichte sogar einen gewissen Wohlstand. An Goethe schreibt Bury am 25.
+                            Mai 1794: "Prinz August von England ist wieder hier angekommen, mit
+                            voller freude erzählte er mir wie sehr meine Zeichnungen welche er von
+                            mir mit nach England genommen alda gefallen haben; Prinz Vallis hat
+                            diesselben von ihm verlangt, wofür er ihm ein ansehnliches gegen
+                            Geschänk gemacht hat, kurz, Prinz August hat mir eine pansion von 16
+                            Scuti Monathlich gegeben er verlangt noch eine Zeichnung in Aquarell von
+                            mir, nach dem kann ich ich in Öhl, oder wie die Arten der Mahlerey
+                            weither heissen arbeiten wie ich will, das ist seyn portrait, mit seinem
+                            Reithpferd woran ich arbeite, es soll mir und meinem beschützer der
+                            Kunst Ehre machen. / Das Freundschaffliche Betragen des Prinz August
+                            gegen mich kann ich Ihnen nicht angenehm genuch beschreiben, sein tisch,
+                            ja sein ganzes Hauß stehet bey mir gebrauch darvon zu machen" (zitiert
+                            nach: Bury-Briefe, S. 87-88).</note>
+                    </seg>. Meine Arbeiten sind durch das Landleben unterbrochen worden. Wir machen
+                    fast täglich Excursionen in die benachbarten Gegenden, wo immer was neues
+                    gesehen und aufgefunden wird. Den 10ten hat der <persName key="prov_o12_bfx_w5">Prinz</persName> eine Reise nach dem <placeName key="prov_hzs_ts2_cv">Lago
+                        Fucino</placeName> u. <placeName key="prov_wfc_xs2_cv">Monte
+                        Cassino</placeName> festgesezt. Es giebt eine Caravane von 16 Reitern. Nach
+                    der Rückkunft werde ich die Ehre haben, Ew. Durchlaucht <bibl sameAs="prov_jl2_1zj_cv">eine Beschreibung dieser Expedition</bibl> zu
+                    übersenden. <pb n="3"/>
+                    <persName key="prov_o12_bfx_w5">Prinz August</persName> wird für künftigen
+                    Winter die <placeName key="prov_fpc_2t2_cv">villa von malta</placeName> miethen,
+                        <seg type="critical">
+                        <orig>wo Ew. Durchlaucht wohnten</orig>
+                        <note xml:id="nyzw_ht2_cv">Anna Amalia bewohnte mit ihrer Reisegesellschaft
+                            ab dem 13.12.1788 in Rom die Villa Malta an der Porta Pinciana, die in
+                            unmittelbarer Nähe des Gartens der Angelica Kauffmann lag. </note>
+                    </seg>. Wir haben dießmal keine Neuigkeiten weder im litterarischen, noch
+                    Kunstfache. Sosehr auch die <seg type="comment">
+                        <orig>Neu-Franken</orig>
+                        <note xml:id="nbpm_dkk_nz">Bezeichnung der Franzosen von der Proklamation der
+                            Republik nach der ersten Revolution bis zur Einführung des Direktoriums
+                            (nach: Pierer's Universal-Lexikon, Bd. 11, Altenburg 1860, S.
+                            815).</note>
+                    </seg> anderswo drohen mögen, lebt hier alles sehr stille,
+                    und ohne weitere Furcht eines Einfalles in <placeName key="prov_vxr_xxr_js">Italien</placeName>. </p>
+                <closer rend="paragraph">
+                    <salute>Ich bitte Ew. Durchlaucht für die Fortdauer Ihrer hohen Gnade, indem mit
+                        tiefester Ehrfurcht fortfahre zu seyn <lb/>Ew. Herzoglichen Durchlaucht
+                        <lb/>unterthänigst gehorsamster</salute>
+                    <signed>A. Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

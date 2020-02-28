@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_j1t_gnv_y5">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Johann Wolfgang von Goethe. Rom, den 28. Juni 1794. Sonnabend</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Klassik Stiftung Weimar, GSA</institution>
+                        <repository/>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">28/6, Bl. 203-204</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <bibl type="print" n="1">Regestausgabe "Briefe an Goethe" 1/981</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" n="2">WA IV 10, 397 (E)</bibl>
+                    </witness>
+                    <witness>
+                        <bibl type="print" n="3">Harald Tausch/Rolf H. Johannsen: Aloys Hirt.
+                            Verzeichniß der bekanntesten jeztlebenden Künstler in Rom. In: Aloys
+                            Hirt. Archäologe, Historiker, Kunstkenner. Hg. von Claudia Sedlarz.
+                            Hannover-Laatzen 2004, S. 301-302</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date when="1794-06-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_hwd_hmp_5r">Goethe, Johann Wolfgang von</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="prov_m51_xhx_z5"/>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <address>
+                        <addrLine>A Monsieur / Monsieur de Goethe / A Weimar</addrLine>
+                    </address>
+                    <dateline rend="align(right)">Rom den 28<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Junius 1794.</dateline>
+                    <salute/>
+                </opener>
+                <p> Ich habe diesen Morgen, mein Herr Geheimer Rath, das <seg type="critical">
+                        <orig>
+                            <persName key="prov_mpb_byv_y5">herzogliche</persName> Dekret</orig>
+                        <note xml:id="nbbl_4wm_1v">Hirts Ernennung zum sachs.-weimar. Hofrat, vgl.
+                            1794-04-25-v-SWE-Karl August.</note>
+                    </seg> mit <seg type="comment">
+                        <orig>Ihrem verbindlichen Schreiben</orig>
+                        <note xml:id="nc1p_wjh_mz">[1794-04-25x-v-Goethe].</note>
+                    </seg> erhalten. - Wenn ich je eine Auszeichnung gewünscht hätte, so wäre es auf
+                    die Weise gewesen, wie ich es iezt erfolgt sehe. Achtung zu erhalten von
+                    Menschen, deren Nachsicht man zu verdienen wünscht, ist ein sehr angenehmes
+                    Gefühl, so wie eine nicht minder starke Aufmunterung in der Bahn, die ich
+                    betratt. Ich sehe in Ihrem Briefe, daß das Andenken der Guten nie schläft, und
+                    dann sich besonders wachsam zeiget, wenn die Gelegenheit kömt, Freude zu
+                    verbreiten. Ich danke Ihnen und allen Weimarer Freunden für Ihre gütigen
+                    Gesinnungen gegen mich, und bitte Sie zugleich, meine Erkenntlichkeit, und
+                    Ergebenheit vor den <persName key="prov_mpb_byv_y5">Herzog</persName>, und die
+                        <persName key="prov_qn2_zhp_5r">Herzogin Mutter</persName> zu bringen. <seg type="critical">
+                        <orig>Ich schrieb unlängst an die leztere mehrere Nachrichten</orig>
+                        <note xml:id="nlhm_zwm_1v">1794-06-21-a-SWE-AnnaAmalia</note>
+                    </seg>, welche ich hier nicht wiederhole, weil <pb n="2"/> Sie dieselben bereits
+                    von ihr werden gehört haben.</p>
+                <p>In Rücksicht der <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_ih3_4k1_dv">Venus</rs>, welche <persName key="prov_o12_bfx_w5">Prinz August</persName> in seiner Cava
+                            fand</orig>
+                        <note xml:id="nibv_2xm_1v">Vgl. dazu auch Hirts Brief an Anna Amalia vom 21.
+                            Juni 1794 mit Sacherläuterung. – Der Fund der überlebensgroßen
+                            Venus-Statue 1794 machte große Sensation und wird von vielen
+                            Rom-Reisenden enthusiastisch besprochen. Adelheid Müller hat die
+                            Grabungsaktivitäten des Prinzen August, die dieser 1794 bis 1796 im
+                            Umland von Ostia und Campo Iemini unter Leitung von Robert Fagan
+                            durchführen ließ, ausführlich dargestellt und den Fundort der
+                            Venus-Statue, die bald nach dem Finder "Venus Augustea" genannt wurde,
+                            "in der Tenuta Campo Iemini zwischen Ardea und Tor Vaianica, südöstlich
+                            von Ostia nahe der Küste" nachgewiesen (Müller: Sehnsucht, S. 436ff.).
+                            Friedrich v. Matthisson schreibt in seinen Erinnerungen: "Durch die
+                            Entdeckung einer lebensgroßen Venus, von der höchsten Vortrefflichkeit,
+                            ward ihm die Feyer eines antiquarischen Auferstehungsfestes wie seit
+                            einem beträchtlichen Zeitraume keines mehr begangen worden ist. Bis auf
+                            die linke Hand, welche restaurirt werden muß, gewährt das Ganze völlig
+                            den Anblick, als wenn es erst seit gestern aus der Werkstätte des
+                            bildenden Künstlers hervorgegangen wäre. So schonend ward es von der
+                            Zeit behandelt, die, nach einem orientalischen Bilde, mit verbundenen
+                            Augen leicht nur daran vorbeystreifte. Der Marmor ist vom feinsten Korn,
+                            und ward, nach einstimmigem Kennerausspruche, in Griechenland nicht nur
+                            gebrochen, sondern auch verarbeitet. Mehrere Antiquare, worunter auch
+                            Zoega, wollten in den Aufwallungen des ersten Enthusiasmus behaupten,
+                            daß diese Venus die holde Liebesgöttin von Medicis, verdunkele"
+                            (Friedrich von Matthisson: Erinnerungen. Theil 4, Wien 1815, S.
+                            127-128(?) (= Sämtliche Werke, Bd. 6). - Friederike Brun, zur gleichen
+                            Zeit wie Matthisson und die Fürstin von Anhalt-Dessau in Rom weilend,
+                            sah die Statue im Atelier des Bildhauers John Deare, der sie im Auftrag
+                            des Prinzen August restaurierte: "Bildhauer Dear, auch ein Engländer.
+                            Hier steht die neulich auf dem albanischen Wege, sechs Miglien von Rom,
+                            für den Prinzen August ausgegrabene schöne Venus. Man erklärt sie für
+                            die erste, nach der mediceischen, und zieht sie der capitolinischen vor.
+                            Sie ist von weissem Marmor, in der Stellung der mediceischen, merklich
+                            größer, und, wie mich dünkt, etwas schwer. Der Kopf ist ausserordentlich
+                            schön, voll Adels und stiller Selbstgenügsamkeit; das Haar in üppiger
+                            Pracht geordnet, gleich dem Belvederischen Apoll. Von hinten erblickt,
+                            enthüllt der kernhafte volle Körper die Fette der reitzendsten Linien,
+                            und der schöne Rücken ist sanft gespalten, gleich einer reifen Frucht.
+                            Allein Brust und Leib haben nicht jene sanfte ewig jungfräuliche Fülle
+                            der alkamenischen Huldin" (Friederike Brun: Tagebuch über Rom. Mit
+                            Kupfern. Th. 1, Zürich 1800, S. 220 (= Prosaische Schriften, Bd. 3). -
+                            Louise von Anhalt-Dessau ließ von dem Bildhauer Schmidt eine
+                            Marmor-Kopie des Venus-Kopfes anfertigen, die dieser am 15. April 1796
+                            ablieferte und dafür 51 Zechinen erhielt (Tagebuch der Louise von
+                            Anhalt-Dessau, Eintragungen vom 9. und 15. April 1796, Bd. I, S. 208 und
+                            210). Den Kopf vermachte sie später testamentarisch an Hirt (vgl. die
+                            beiden Briefe aus dem Jahr 1811).</note>
+                    </seg>, hohle ich Ihnen nun nach, daß der Kopf unter die vorzüglichsten Dinge
+                    des Alterthums gehört. Ich bath mir vorläufig von dem <persName key="prov_o12_bfx_w5">Prinzen</persName> den ersten Abguß aus, den ich Ihnen
+                    mit der ersten Gelegenheit dann zusenden will. So ist auch <seg type="critical">
+                        <orig>der neu gefundene Antinous</orig>
+                        <note xml:id="nrzk_fxm_1v">Vgl. Hirts Brief an Anna Amalia vom 21. Juni 1794
+                            mit Sachanmerkung.</note>
+                    </seg> weit der schönste. - Die Anzahl junger <add place="superlinear">deutscher</add> Künstler ist immer ziemlich groß, aber <add place="superlinear">wovon</add> keiner sich besonders auszeichnete. -
+                    Lezthin gieng ein junger Landschaftmaler, <persName key="prov_chy_nxm_1v">Strack</persName> aus <placeName key="prov_trs_5xm_1v">Cassel</placeName>,
+                        <seg type="critical">
+                        <orig>Vetter von <persName key="prov_p3j_cym_1v">Tischbein</persName>
+                        </orig>
+                        <note xml:id="notd_jym_1v">Seine Mutter war Luise Margarethe Strack, geb.
+                            Tischbein. Ab 1773 wurde Strack von seinem Onkel, dem Kasseler Hofmaler
+                            Johann Heinrich Tischbein d. Ä. ausgebildet. 1787-1794 hielt er sich in
+                            Italien auf.</note>
+                    </seg>, zurück, der sich sehr hervorschwang. <persName key="prov_arp_z2g_w5">Peter</persName>, <persName key="prov_yfm_df3_35">Schmid</persName> der
+                    Historienmaler, <persName key="prov_dmc_k1n_1v">Hecker</persName>, <persName key="prov_yb1_yyr_xr">Gmelin</persName>, <persName key="prov_cvl_w1n_1v">Maron</persName>, <persName key="prov_wmk_lxw_g5">Angelica</persName>
+                    zeichnen sich forthin in ihren verschiedenen Fächern aus. Die Franzosen sind
+                    schlechterdings alle fort. Der <placeName key="prov_hll_2st_y5">Niederländer</placeName>
+                    <persName key="prov_vnf_3bn_1v">Denis</persName> hat iezt in der Landschaft den
+                    meisten Ruf, den er nach meiner Einsicht bey weitem nicht verdient. Bey den
+                    Italienern scheint zuweilen etwas <pb n="3"/> hervorzuglimmen, aber leider
+                    zeiget es sich immer zu bald, daß es nur Abglanz war. Der <placeName key="prov_pkf_bdn_1v">Savoyard</placeName>
+                    <persName key="prov_s5g_vcn_1v">Berger</persName> machet immer ein gut
+                    historisch Gemälde, obwohl er <seg type="comment">
+                        <orig>seit Ihrer Zeit</orig>
+                        <note xml:id="nwxm_ynh_mz">Hirt hatte 1787, höchstwahrscheinlich für Goethe,
+                            ein "Verzeichniß der bekanntesten jeztlebenden Künstler in Rom"
+                            angefertigt (Stiftung Weimarer Klassik, GSA, Bestand J. H. Meyer, GSA
+                            64/111,1; gedruckt in D<hi rendition="#sup">3</hi>, S. 316-360), in
+                            welchem die im vorliegenden Brief erwähnten Künstler bereits aufgeführt
+                            sind: Wenzeslaus Peter (deutsche Geschichtmaler Nr. 6); Heinrich Schmidt
+                            (deutsche Geschichtmaler Nr. 27); Hecker (deutsche Bildhauer Nr. 7);
+                            Gmelin (Deutsche Kupferstecher Nr. 2); Anton v. Maron (deutsche
+                            Geschichtmaler Nr. 1); Angelika Kaufmann (deutsche Geschichtmaler Nr.
+                            3); Simon Denis (französische Landschaftsmaler Nr. 6); Jacques Berger
+                            (Französische Künstler: Historienmaler Nr. 7); Canova (Italienische
+                            Bildhauer Nr. 8); Rehberg (deutsche Geschichtmaler Nr. 38); Müller
+                            (deutsche Geschichtmaler Nr. 8); Dies (Deutsche Landschaftsmaler Nr. 2);
+                            Friedrich Büry (deutsche Geschichtmaler Nr. 16). </note>
+                    </seg> wenig gewonnen hat. Die leztern Sachen von <persName key="prov_bff_yhn_1v">Canova</persName> werden immer nachläßiger und
+                    manirierter. <persName key="prov_fwk_rjm_y5">Rehberg</persName> hat sich sehr
+                    gebeßert, auch im Mahlen, unter andern in einem <add place="superlinear">recht</add>
+                    <seg type="critical">
+                        <orig>großen Bilde, den verwundeten Amor mit der Venus <seg type="critical">
+                                <orig>nach <persName key="prov_n4h_1mn_1v">Anacreon</persName>
+                                </orig>
+                                <note xml:id="njgd_pmn_1v">40. Lied: Auf den Amor. In der
+                                    Übersetzung von Voß: "Einst war Eros der Dieb von der zornigen
+                                    Biene gestochen, / Als er Honig dem Korb entwendete. Vorn an den
+                                    Händen / Hatte sie all' ihm die Finger durchbohrt; und er blies
+                                    sich in die Hände, / Schmerzvoll, sprang auf dem Boden, und
+                                    stampfete. Jetzo der Mutter / Zeigt er das schwellende Weh, und
+                                    jammerte, daß ein so kleines / Thierchen die Biene nur sey, und
+                                    mächtige Wunden sie mache. / Lächelnd sprach Aphrodite: du bist
+                                    wohl ähnlich der Biene! / Schaue, wie klein du bist, und wie
+                                    mächtige Wunden du machest!"</note>
+                            </seg> vorstellend</orig>
+                        <note xml:id="ng2f_j3n_1v">Andresen schildert ein Bild aus den 1790er
+                            Jahren, "Venus und Amor", das nach England gelangt sein soll (Andreas
+                            Andresen: Die deutschen Maler-Radirer (peintres-graveurs) des
+                            neunzehnten Jahrhunderts: nach ihrem Leben und Wirken. Bd. 2, 1867, S.
+                            64. - Im Ausstellungskatalog der Berliner Kunstakademie von 1798 ist von
+                            Rehberg eine "Zeichnung in schwarzer Kreide" unter dem Titel "Venus und
+                            Amor von einer Biene verwundet. Nach dem Gedicht des Anakreon"
+                            verzeichnet (Börsch-Supan 1971, 1798, Nr. 301). Vgl. dazu auch den
+                            Bericht von Aloys Hirt im NTM 1798, Bd. 3, S. 292: Ueber die Berliner
+                            Kunstausstellung im Jahre 1798. Berlin, den 20. Oktober 1798: "Vom
+                            letztern [Prof. Rehberg] sind noch ein Paar ausgeführte Zeichnungen nach
+                            eigenen Gemälden vorhanden, worunter der verwundete Amor nach Anakreon
+                            allgemeinen Beyfall erhält. Das Originalgemälde verkaufte der Meister an
+                            Lord Bristol." </note>
+                    </seg>; es muß jedem gefallen. Ein anderer Profeßor von Berlin, namens <persName key="prov_jx3_gnn_1v">Karstens</persName>, ist ein Genie wie <persName key="prov_rfj_znn_1v">Müller</persName>. Seit zwey Jahren machet er
+                    Compositionen über Compositionen, ohne weder zeichnen, noch mahlen zu können. -
+                        <persName key="prov_tzq_vxh_g5">Dies</persName> radirt iezt kleine Blätter.
+                        <persName key="prov_xsn_1cg_f5">Büry</persName> machet iezt das <seg type="critical">
+                        <orig>Porträt des Prinzen August</orig>
+                        <note xml:id="nrr4_dpn_1v">Vgl. 1794-06-21-a-SWE-Anna Amalia: mit
+                            Sachanmerkung.</note>
+                    </seg>. Der <persName key="prov_o12_bfx_w5">Prinz</persName> kam gestern nach
+                    der Stadt, um diesen Abend die <seg type="critical">
+                        <orig>Illumination</orig>
+                        <note xml:id="nbn3_n3s_1v">Die alljährliche Illumination der Kuppel des
+                            Petersdoms am Patroziniumstag 29. Juni mit dem traditionellen Feuerwerk
+                            La Girandola an der Engelsburg.</note>
+                    </seg> zu sehen. <persName key="prov_xsn_1cg_f5">Büry</persName> blieb in
+                        <placeName key="prov_vdf_qzg_y5">Grottaferrata</placeName> mit des <persName key="prov_o12_bfx_w5">Prinzen</persName>
+                    <persName key="prov_o2t_ybl_cv">Arzten</persName>. Ich werden ihm das Ihrige
+                    vermelden.</p>
+                <p>Meine Arbeit geht iezt vorzüglich auf moderne Kunstgeschichte. Sie erinnern sich
+                    vielleicht; <pb n="4"/>
+                    <seg type="comment">
+                        <orig>daß ich schon zu Ihrer Zeit etwas einem Plan Ähnliches hierüber
+                            entwarf</orig>
+                        <note xml:id="nav2_jsh_mz">Vgl. Hirts handschriftlich überlieferte
+                            "Anmerkungen über das Leben und noch existirende Werke der ältern
+                            florentinischen Künstler von Mitte des 13<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi> Jahrhunderts bis Anfang des 16<hi rendition="#sup">
+                                <hi rendition="#u">ten</hi>
+                            </hi>" (Stiftung Weimarer Klassik, GSA, Bestand J. H. Meyer, GSA
+                            64/111,2)</note>
+                    </seg>. Meine Ideen wurden nach und nach immer reifer; meine Sommerreisen die
+                    drey lezten Jahre nacheinander hatten den nemlichen Zweck; so daß ich so
+                    ziemlich meine Materialien beysammen zu haben glaube. Ich gehe mit dem <persName key="prov_o12_bfx_w5">Prinzen</persName> nicht auf das Land, um
+                        ung<ex>e</ex>stört diese Ruhemonate arbeiten zu können. Meine Absicht ist
+                        <hi rendition="#u">Critische</hi> Geschichte; ich suche daher auch meine
+                    sehr einfache Theorie über die Künste voran zu schicken. Diese liegt fertig, so
+                    wie auch die erste Epoche der Geschichte selbst, welche ich von der Mitte des
+                    dreyzehnten Jahrhunderts bis auf unsere Zeiten in fünf eintheile.</p>
+                <p>An der 
+                            <bibl sameAs="prov_e1l_pjv_pv">Geschichte der Architektur bey den
+                                Alten</bibl>
+                    Kupferplatten erfodert, und die Auslagen für meine iezigen Umstände noch zu
+                    beträchtlich sind, hielt ich indeßen damit inne. - Es geht langsam, aber doch
+                    immer etwas beßer voran. - </p>
+                <closer rend="paragraph">
+                    <salute>Erhalten <add place="superlinear">Sie</add> mich in Ihrem Andenken; mit
+                        den nemlichen Gesinnungen bin ich <lb/> fortdaurend Ihr ganz
+                        ergebner</salute>
+                    <signed>Hirt.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

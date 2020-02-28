@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_ynm_hzf_my">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Prinz Wilhelm von Preußen (Bruder des Königs). Berlin, 18. Mai
+                    1830.</title>
+                <title> Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <name>Uta Motschmann</name>
+                    <resp>
+                        <note type="remarkResponsibility">Herausgeberin</note>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>Hess. StA Darmstadt</institution>
+                        <collection>D 22 (Fischbacher Archiv)</collection>
+                        <idno>
+                            <idno type="shelfmark">12/78, Bl. 17 r-v</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1830-05-18" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_vpp_kmx_2v">Preußen, Friedrich Wilhelm Karl, Prinz von
+                        (1783-1851) (jüngster Sohn von König Friedrich Wilhelm II. und Prinzessin
+                        Friederike Luise von Hessen-Darmstadt, Bruder von Friedrich Wilhelm III.,
+                        1799 Stabskapitän, General, Generalgouverneur der Rheinprovinzen und
+                        Gouverneur der Bundesfestung Mainz, seit 1804 verh. mit Marianne von
+                        Hessen-Homburg)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                    <salute>Gnädigster Herr!</salute>
+                </opener>
+                <p>Da Alter und kränkliche Zustände mir iezt selten heitere Stunden vergönnen, etwas
+                    Neues mit Erfolg zu produciren; so habe ich etwas längst Geschriebenes aus
+                    meinen Papieren hervorgezogen und dem Drucke übergeben.</p>
+                <p>Ich übersende die kleine Schrift an Ew. Königliche Hoheit mit dem Lebhaften
+                    Wunsche, daß Sie und Ihre Hohe, von mir von jeher so sehr verehrte, Gemahlin
+                    dieselbe mit Nachsicht aufnehmen und durchsehen mögen. Ich habe darin die
+                    wesentlichsten Ansichten, die ich von Kunst und Alterthum habe,
+                    niedergelegt.</p>
+                <p>Der Verfaßer würde sich sehr glücklich erachten, wenn Ew. Königl<ex>iche</ex>
+                    Hoheit daraus <pb n="2"/> einige angenehme Erinnerungen schöpfen würden.</p>
+                <p>Es war früher meine Absicht, eine ähnliche Schrift über das hiesige <hi rendition="#aq">Museum</hi> bekannt zu machen, was aber iezt wohl andern
+                    überlaßen bleiben wird.</p>
+                <p>Mit denselben Gesinnungen von Ehrerbietung und Anhänglichkeit, die bereits vor 34
+                    Jahren begann, verbleibe ich <lb/>Ew. Königlichen Hoheit <lb/>Meines Gnädigsten
+                    Herrn <lb/>unterthänigster</p>
+                <closer>
+                    <salute/>
+                    <signed>A. Hirt</signed>
+                    <dateline>Berlin / 18 May 1830.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

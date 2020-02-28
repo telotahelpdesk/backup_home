@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:id="hirt_f21_br3_kfb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[Von Friedrich Rehberg. Rom, vor 1. März 1798]</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Aloys Hirt. Briefwechsel 1787–1837</title>
+                </edition>
+                <respStmt>
+                    <resp>editor</resp>
+                    <name>Uta Motschmann</name>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften (BBAW)</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="notExtant">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno><idno type="shelfmark"/></idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_fwk_rjm_y5">Rehberg, Friedrich (1758-1835) (Maler, Radierer,
+                        Kunstschriftsteller)</persName>
+                    <placeName key="prov_vkl_ndl_js">Rom</placeName>
+                    <date notBefore="1798-01-01" notAfter="1798-03-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys (1759-1837)</persName>
+                </correspAction>
+                <note>Es handelt sich um mehrere Briefe von Rehberg; deren Anzahl ist
+                    unbekannt.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline/>
+                </opener>
+				<p>Bezeugt in: Aloys Hirt an <persName key="prov_gtp_ppt_fv">Friedrich Anton von
+                        Heynitz</persName>: Beyläufige Note über die von der Frau <persName key="prov_qvp_1gm_cv">Gräfin v. Lichtenau</persName> in <placeName key="prov_vxr_xxr_js">Italien</placeName> acquirirten Kunstwerke. Berlin, 1.
+                    März 1798: Die <persName key="prov_qvp_1gm_cv">Gräfin von Lichtenau</persName>
+                    habe bei ihrem Aufenthalt in <placeName key="prov_vxr_xxr_js">Italien</placeName> u.a. zwei Gemälde bei <persName key="prov_fwk_rjm_y5">Rehberg</persName> in Auftrag gegeben und bei ihrer Rückreise Hirt mit der
+                    Aufsicht über die bestellten Arbeiten, die Bezahlung und den Transport nach
+                        <placeName key="prov_ycp_cpr_js">Berlin</placeName> gebeten: "<hi rendition="#aq"><rs type="artwork" key="prov_uln_5gw_dv">Julius
+                        Sabinus</rs></hi>, und <hi rendition="#aq"><rs type="artwork" key="prov_itt_4gw_dv">Oedipus mit Antigone</rs></hi> - beyde Gemälde von
+                        <hi rendition="#aq">Prof. <persName key="prov_fwk_rjm_y5">Rehberg</persName></hi>: gleichfalls im <placeName key="prov_ulk_twt_fv">königl<ex>ichen</ex> Schloße</placeName> aufgestellt. / Nb. diese zwey
+                    Gemälde standen nicht auf der Liste meiner Auszahlung: und noch kürzlich hatte
+                    ich Briefe von <hi rendition="#aq">Rehberg</hi>, woraus ich sehe, daß diese
+                    Gemälde zur Zeit noch nicht bezahlt waren."</p>
+				<closer> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

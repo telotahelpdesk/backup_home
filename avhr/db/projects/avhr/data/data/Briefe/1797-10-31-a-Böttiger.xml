@@ -1,0 +1,1029 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter hirt" xml:lang="de" xml:id="prov_skt_lzh_gv">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>An Karl August Böttiger. Berlin, den 31. Oktober 1797. Dienstag</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Alois Hirt - Briefausgabe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Berlin-Brandenburgische Akademie der Wissenschaften</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution>SLUB Dresden</institution>
+                        <repository/>
+                        <collection>Nachlass Böttiger</collection>
+                        <collection/>
+                        <idno>
+                            <idno type="shelfmark">Mscr. Dresd. h 37, 4°, Bd. 87, Nr. 3</idno>
+                        </idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="prov_ztg_3sx_sr">Hirt, Aloys</persName>
+                    <placeName key="prov_ycp_cpr_js">Berlin</placeName>
+                    <date when="1797-10-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="prov_g5d_v2p_5r">Böttiger, Karl August</persName>
+                    <placeName key="prov_u24_mmg_f5">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev" target="hirt_mft_ngv_rz"/>
+                </correspContext>
+                <note>Die in der SLUB Dresden dem Brief zugeordnete letzte Seite 3r gehört wohl
+                    nicht zu diesem Brief, sondern ist ein eigenständiges Schreiben Hirts an
+                    Böttiger, geschrieben während dessen Aufenthalt in Berlin im August 1797 –
+                    siehe dazu den Brief unter diesem Datum.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text type="letter">
+        <body>
+            <div type="writingSession" n="1">
+                <opener>
+                    <dateline rend="align(right)">Berlin den 31<hi rendition="#sup">
+                            <hi rendition="#u">ten</hi>
+                        </hi> Okt. 97.</dateline>
+                    <salute/>
+                </opener>
+                <p>Zuförderst dem Freunde der traute Handschlag, und mein Dank für <seg type="comment">
+                        <orig>seine mir so lieben Briefe</orig>
+                        <note xml:id="nqzp_3gv_rz">Briefe erschlossen
+                            [1797-10-vor31x-v-Böttiger].</note>
+                    </seg>. - nun zuerst von der <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_bvh_zp3_gv">Toilette</rs> des <persName key="prov_zmp_jp3_gv">Visconti</persName>
+                        </orig>
+                        <note xml:id="nijb_4l3_gv">Das 1793 in Rom bei einer Nachgrabung am Fuße des
+                            Esquilinischen Hügels gefundene silberne Toilettenkästchen einer Römerin
+                            wurde, zusammen mit anderen zugleich aufgefundenen Toilettensachen, vom
+                            Aufseher des Pio-Clementinischen Museums, Abbate Ennio Quirino Visconti,
+                            in "Lettera sull' un antica argenterià, nuovamente scoperta in Roma"
+                            (Rom 1793) beschrieben. Böttiger widmet sich diesem Gefäß in "Sabina,
+                            oder Morgenscenen im Putzzimmer einer reichen Römerin, ein Beitrag zur
+                            richtigen Beurtheilung des Privatlebens der Römer und zum bessern
+                            Verständniß der römischen Schriftsteller" (Leipzig: Göschen, 1803, Tafel
+                            3 und 4) und beschreibt auch die Umstände des Auffindens, die
+                            großenteils auf Hirt zurückzugehen scheinen: "Erst ein Wort über die
+                            Entdeckung dieser Kostbarkeiten, so weit ich selbst bis jetzt davon
+                            unterrichtet bin. Es war im Frühjahr 1794, [!], als einige Arbeiter, die
+                            im Klostergarten der Paulanernonnen, am Fusse des Esquilinischen Berges,
+                            ohnweit der Suburra nach einem Brunnen gruben, 15 Fuss tief unter der
+                            Erde, ein geräumiges, mit Schutt und Trümmern angefülltes Gemach, und in
+                            diesem einen Kasten entdeckten, in welchem sich eine Menge alter
+                            Römischer Geräthschaften befanden. Man hielt anfänglich diese Entdeckung
+                            für so unbedeutend, dass die Regierung, der nach dem Reglement von allen
+                            Ausgrabungen Rechenschaft gegeben werden muss, den ganzen Plunder, wie
+                            man es nannte, den Klosterfrauen schenkte, auf deren Grund und Boden die
+                            Sachen gefunden worden waren. Diese verkauften wieder den ganzen Fund an
+                            einen kunstliebenden Deutschen, der sich damals gerade in Rom aufhielt,
+                            und bey genauerer Untersuchung fand sich, dass diese Sachen sowohl durch
+                            ihren innern Gehalt, als durch die Seltenheit und Zierlichkeit ihrer
+                            äussern Form zu den merkwürdigsten Kunstschätzen gehörten, die neuerlich
+                            in Rom ausgegraben worden sind. Der deutsche Besitzer trug Bedenken, sie
+                            aus Rom mitzunehmen, und gab sie einem Freunde aufzubewahren. Der
+                            gelehrte Abbate Visconti, danals Aufseher des Pio-Clementinischen
+                            Museums, so wie jetzt des Musée Napoleon, schrieb an den Prälaten
+                            Jomaglia einen in mehrere Journale eingerückten Brief, worin er die hier
+                            gefundenen Stücke einzeln erläutert" (zitiert nach der 2. Auflage,
+                            Leipzig 1806, S. 66-67). Als Erläuterung fügt Böttiger hinzu: "Der
+                            Besitzer ist der königl. preussische geheime Rath Baron von
+                            Schellersheim, der sich gewöhnlich in Florenz aufhält und dort die durch
+                            Metallwerth und noch mehr durch ihre Seltenheit kostbare
+                            Medaillensammlung alter Münzen in blossem Golde besitzt, wovon er selbst
+                            den gedruckten Catalog zu verschenken pflegt. Herr Küttner in Leipzig
+                            ist so gütig gewesen, mir über diesen Fund folgendes mitzutheilen: 'Ich
+                            sah es bey ihm, als ich bey meiner Rückreise bey ihm in Florenz
+                            einsprach. Die Arbeit ist grösstentheils schlecht und zeigt von Barbarey
+                            und Verfall der Künste. Auch bezahlte der Baron wenig mehr dafür als den
+                            blossen Silberwerth. Erst durch Viscontis (ziemlich trockene)
+                            Beschreibung desselben wurde in Rom einige Aufmerksamkeit darauf
+                            geweckt. Da ich gerade zu der Zeit, wo es in Rom ausgegraben wurde, dort
+                            war, habe ich mit mehrern Männern davon gesprochen, die keinen grossen
+                            Werth darauf zu legen schienen. Am besten sind die Städte gearbeitet"
+                            (ebd., S. 96).</note>
+                    </seg>.</p>
+                <p>Diese war im Frühjahr <hi rendition="#u">179<subst>
+                            <del rendition="#s">2</del>
+                            <add>3</add>
+                        </subst>
+                    </hi> gefunden: und ich ward der erste, dem dieser Fund in Geheim zum sehen, und
+                    zum Verkauff angeboten ward. Die Sache gieng so her: Maurer gruben nach einem
+                    Brunnen in dem genannten Klostergarten, u. da sie auf den Fund traffen, so
+                    fanden sie es für beßer denselben in Geheim zu verkauffen, als <subst>
+                        <del rendition="#s">denselben</del>
+                        <add>ihn</add>
+                    </subst> den Nonnen anzuzeigen: um aber <del rendition="#s" next="es">xxx</del>
+                    es <del rendition="#s" next="beßer">nicht off</del> beßer zu verheelen, zeigten
+                    sie die Sache einem gemeinern Antikenhändler <persName key="prov_kp1_yq3_gv">Antonio</persName>: dieser war nicht reich genug, um das Gewicht des
+                    Silbers baar zu bezahlen, gieng also zum Bildhauer <persName key="prov_zxj_dr3_gv">Carlo Albaccini</persName>, der die Summe ihm gab, mit
+                    der Bedingung Mitbesitzer zu seyn. Carlo war also derjenige, welcher mir es
+                    zusammen mit <persName key="prov_gxc_glj_gv">Herrn v. Hanstein</persName>
+                    <add place="superlinear">zeigte,</add> der damals bey dem <persName key="prov_o12_bfx_w5">Prinzen August von England</persName> war, und daher
+                        <add place="superlinear">Carlo</add> glaubte, daß dieß eine Gelegenheit seyn
+                        <add place="superlinear">könnte</add>, den ganzen Plunder sogleich mit einem
+                    ansehnlichen Gewinn zu verkaufen. - Die große Summe in Silber, und die überhaupt
+                    schlechte Arbeit vom 5<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi>, oder 6<hi rendition="#u">
+                        <hi rendition="#sup">ten</hi>
+                    </hi>  Jahrhundert
+                        <add place="superlinear">wie</add> mir schien, konnte eben nicht leicht
+                    einen Kaufflustig machen. Ich hielt damals das Ganze <add place="superlinear">für</add> einen christlichen Kirchenapparat: Die getriebenen Mythologischen
+                    Vorstellungen darauf schienen mir dabey unbedeutende Verzierungen: und was meine
+                    Meinung damals mehr fixirte, waren die 4. sizenden Figuren in Silber, welche
+                    gleichsam die Füße an den vier Eken des Kästchen machten: und welche die 4.
+                    Hauptstädte des <pb n="2"/> Reiches <placeName key="prov_vkl_ndl_js">Rom</placeName>, <placeName key="prov_zcc_mmj_gv">Constantinopel</placeName>, <placeName key="prov_uws_wgl_2v">Alexandria</placeName> und <placeName key="prov_ng2_rmj_gv">Antiochia</placeName> vorstellten. - Dieß Sehen geschah 2. Tage vor einer
+                    Reise, die ich damals mit <persName key="prov_o12_bfx_w5">Prinz
+                        August</persName> bis nach <placeName key="prov_vgh_wmj_gv">Como</placeName>
+                    machen wollte, um dann weiter meinen Weg nach meinem <placeName key="prov_xym_pdx_w5">Vaterlande</placeName> durch die <placeName key="prov_org_jtr_js">Schweiz</placeName> fortzusezen: wie ich auch wirklich
+                    that, obwohl ich schon in <placeName key="prov_hrj_4bv_35">Bologna</placeName>
+                    vom <persName key="prov_o12_bfx_w5">Prinzen</persName> getrennt wurde, da er da
+                    einen Courier erhielt, der ihn zwang nach <placeName key="prov_zr2_yb3_g5">Livorno</placeName> zurück zu gehen, um sich dort nach <placeName key="prov_npf_ydx_w5">
+                        <subst>
+                            <del rendition="#s">Xxxx</del>
+                            <add>Eng</add>
+                        </subst>
+                    </placeName> land einzuschiffen. Bey dem Abgange gab ich Freund <persName key="prov_ijp_xvr_xr">Zoega</persName> Nachricht vom ganzen, und sagte auch
+                        <persName key="prov_zxj_dr3_gv">Carlo Albaccini</persName> demselben alles
+                    zu zeigen: allein derselbe sah es <del rendition="#s" next="hernach">fr</del>
+                    hernach nicht. - während meiner Abwesenheit von 8. monaten ward indeßen die
+                    ganze Sache durch die Mau<ex>r</ex>er selbst, welche Streit untereinander
+                    bekommen, verrathen, und <persName key="prov_zxj_dr3_gv">Albaccini</persName>
+                    mußte die Sache an die Nonnen zurückgeben. Diese bothen es dem <persName key="prov_trh_dwz_x5">Pabst</persName> zum Verkauff an, nachdem <persName key="prov_zmp_jp3_gv">Visconti</persName> die galante <bibl sameAs="prov_pm3_mnj_gv">Beschreibung</bibl> zur Sache gemacht hatte: allein
+                    seine <persName key="prov_trh_dwz_x5">Heiligkeit</persName> fanden das ganze zu
+                    gothisch für sein <placeName key="prov_anz_ynj_gv">Museum</placeName>. Darauf
+                    kaufte es wirklich Herr <persName key="prov_ry2_34j_gv">Baron v.
+                        Schellersheim</persName>, ein Preuße aus <placeName key="prov_lbg_npj_gv">Cleve</placeName>, den ich gut kenne; und seit mehrern Jahren sich in
+                        <placeName key="prov_vxr_xxr_js">Italien</placeName>, besonders in
+                        <placeName key="prov_hp5_gbv_35">Florenz</placeName>, wo er iezt dato ist,
+                    aufhält. (dieser Mann hat auch eine Sammlung von mehr als 1000. Stücken der
+                    seltensten Münzen in Gold<del rendition="#s" next="und">en</del>, und der
+                    bekannte <persName key="prov_asx_spj_gv">Sestini</persName> ist sein Factor) -
+                    ich sah in der Folge die Sache nicht mehr, und auch keiner meiner Freunde. man
+                    betrachtete damals die <bibl sameAs="prov_pm3_mnj_gv">Erklärung</bibl>
+                    <persName key="prov_zmp_jp3_gv">Visconti's</persName> , als eine Galanterie, um
+                    eher Kauflustige zu finden - ich weiß, daß ich damals seiner Meinung nicht
+                    beystimmte aus Gründen, die ich iezt vergeßen, weil ich den ganzen Plunder nicht
+                    mehr hinreichend gegenwärtig habe; und auch die Noten, welche ich damals
+                    niederschrieb, nicht mehr unter meinen Papieren finde. <pb n="3"/>
+                </p>
+                <p>Die <seg type="critical">
+                        <orig>Unpäßlichkeit des <persName key="prov_sqc_swd_2v">Königs</persName>
+                        </orig>
+                        <note xml:id="nq2m_tqj_gv">Friedrich Wilhelm II. stirbt am 16. November 1797
+                            in Potsdam.</note>
+                    </seg> seit der Zeit, als ich die <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_e5g_bxt_fv">Plane</rs>
+                        </orig>
+                        <note xml:id="norw_wqj_gv">Die Entwürfe Hirts zu einem Denkmal für Friedrich
+                            II.; vgl. dazu 1797-09-26-a-Böttiger</note>
+                    </seg> vorlegte, ist schuld, daß bißher noch keine weitere Resolution ergangen:
+                    bis iezt findet sich alles noch in der <seg type="critical">
+                        <orig>Ausstellung</orig>
+                        <note xml:id="nyj2_brj_gv">Vgl. 1797-09-26-a-Böttiger </note>
+                    </seg>, und wenn dieselbe vorbey ist, werde ich mich um das weitere erkundigen,
+                    u. dann Ihnen die Originalzeichnungen, oder Copien zuschicken.</p>
+                <p>Es wäre ja schön, wenn <persName key="prov_w3h_3rj_gv">Mademoiselle
+                        Jagemann</persName>
+                    <seg type="critical">
+                        <orig>hieher käme</orig>
+                        <note xml:id="nehy_fsj_gv">Karoline Jagemann kam 1798 zu einem Gastspiel
+                            nach Berlin. Von Ende August bis Ende September 1798 trat sie in sechs
+                            Vorstellungen auf und sang u.a. in den Singspielen "Oberon", "Helena und
+                            Paris", "Lilla" und "Das Kästchen mit der Chiffer" (vgl. Klaus Gerlach:
+                            Theater-Datenbank der Berliner Klassik). - Böttiger hatte in derselben
+                            Angelegenheit auch Johann Daniel Sander um Vermittlung gebeten, der das
+                            Vorhaben erfolgreich Valentin v. Massow vortrug. Als zu dem Gespräch
+                            zufällig die Kronprinzessin Luise dazukam, unterstützte auch sie das
+                            Engagement der Jagemann: [Massow]: "'Erinnern Sie Sich noch der Mlle.
+                            Jagemann aus Mannheim?' O ja, sehr wohl; sie ist eine gute Sängerin. -
+                            'Sie wünscht,' usw.. - Es wird mich freuen, sie wiederzusehen. Lassen
+                            Sie ihr das nur schreiben" (Maurach: Die Briefe Sanders an Böttiger, Bd.
+                            1, S. 193).</note>
+                    </seg>: was ich thun könnte, sollte meinerseits von Herzen geschehen. Da ich
+                    aber seit einem Monate die <persName key="prov_qvp_1gm_cv">Gr<ex>äfin</ex> v.
+                            L<ex>ichtenau</ex>
+                    </persName> gar nicht sahe, da sie immer in <placeName key="prov_lh2_hxd_2v">Potsdam</placeName> ist, so konnte ich ihr nichts hievon sagen: indeßen
+                    wenn sonst keine Änderungen vorfallen: würde ich für ihre gute Aufnahme
+                    repondiren.</p>
+                <p>Wahrlich ich habe bißher in den <seg type="critical">
+                        <orig>neuesten Produkten</orig>
+                        <note xml:id="ncjr_qtj_gv">Goethe: Wilhelm Meisters Lehrjahre (1795/96); die
+                            Prosaerzählung "Novelle" (ab 1797; gedruckt erst 1828); Hermann und
+                            Dorothea (Erstdruck Okt. 1797). - Schiller: Aufsätze in den "Horen" und
+                            im "Musenalmanach". - Goethe und Schiller: Balladen (1797); Xenien
+                            (1796).</note>
+                    </seg> von <persName key="prov_hwd_hmp_5r">Goethe</persName> und <persName key="prov_mq3_mvr_js">Schiller</persName> nur geblättert, nicht gelesen, u.
+                    habe daher schon mehrmal einen Barbaren heißen müßen</p>
+                <p>
+                    <bibl sameAs="prov_qvp_dyt_fv">Meine Vorlesung</bibl> wird im <subst>
+                        <del rendition="#s">Monat</del>
+                        <add>December</add>
+                    </subst>stück des hiesigen <bibl sameAs="prov_pbd_gy3_gv">Archiv's der
+                        Zeit</bibl> erscheinen: das ist der Ort, den Minister <persName key="prov_gtp_ppt_fv">Heiniz</persName> dem Aufsaze anwies, und dann werde
+                    ich Ihnen denselben gedrukt übersenden.</p>
+                <p>Der wakere <persName key="prov_pqn_vwj_gv">Oberthür</persName> ist vorigen
+                    Donnerstag von hier abgegangen, u. wird vielleicht mit diesem Brief in
+                        <placeName key="prov_u24_mmg_f5">Weimar</placeName> eintreffen. Er bringt
+                    Ihnen erstlich <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_ehv_crw_gv">das </rs>
+                            <seg type="critical">
+                                <orig>
+                                    <rs type="artwork" key="prov_ehv_crw_gv">Bild</rs>
+                                </orig>
+                                <note xml:id="ndlx_3xj_gv">Eine Landschaft, die man Dominichino
+                                    zuschrieb, vgl. 1797-09-26-a-Böttiger</note>
+                            </seg> für <persName key="prov_hwd_hmp_5r">Goethe</persName>
+                        </orig>
+                        <note xml:id="nt4n_b2p_gv">Vgl. auch den Brief Böttigers an Goethe in der
+                            Schweiz vom 2. Oktober 1797, in dem er die Sendung ankündigt (RA
+                            2/987)</note>
+                    </seg> in einem Verschlag: es kostet mich 10. Frederic d'or in Golde: wenn es
+                    dort für das gehalten wird, für das ich es kaufte, und für den Preis gefällt, so
+                    steht es zu Diensten, wo nicht: so bitte ich es mir zurückzusenden. zweytens ein
+                    Pak mit Laokoons – erstlich <seg type="comment">
+                        <orig>
+                            <bibl sameAs="prov_b1g_1yh_gv">meine Schrift</bibl>
+                        </orig>
+                        <note xml:id="nisn_3qt_tz">Hirts "Laokoon, in der Versammlung der Berliner
+                            Akademie der Wissenschaften vorgelesen den 15ten Juny. 1797." (SLUB
+                            Dresden, Mscr. Dresd. h 37, 4°, 88, Nr. 2; Abschrift von Schreiberhand).
+                            Die folgenden einleitenden Passagen erschienen nicht im Druck in den
+                            "Horen": "Unter den mancherley Uebeln, die ein fanatischer Dämon in
+                            unsern Tagen über die Menschheit brachte ist gewiß dasjenige, welches
+                            die Monumente des Alterthums und der Kunst betraf, nicht das geringste.
+                            Die allgemeine Aufmerksamkeit von Europa war lange auf ihre Versetzung
+                            von den Ufern des Tibers nach denjenigen der Seine gespannt: vergeblich
+                            hoffte man noch immer, daß ein beßerer Geist den Sieger leiten würde.
+                            Aber ihm - der so viele wehrlose und feindliche Völker bluten machte -
+                            lacht der Gleim [wohl Verschreibung statt: Genius] der Musenkünste
+                            nicht. Mit frecher Hand zerstöhrt er als ein wahrer Vandale den
+                            schönsten Tempel, den Pius VI. mit so viel würdiger Pracht errichtet,
+                            und darin alles von Monumenten vereinigt hatte, was den Geschmack an den
+                            Musenkünsten für künftige Jahrhunderte hätte erhalten und immer mehr
+                            ausbilden können. / Auch diese Zerstörung, unglücklicher, alter Mann!
+                            mußtest du erleben! - / Ich will mich noch auf einige Momente in jenes
+                            Heiligthum versetzen, und einige, besonders das Vorzüglichste dieser
+                            Monumente zu meiner heutigen Unterhaltung machen - / <hi rendition="#u">Laokoon</hi> / Gelesen in der Versammlung der Academie der
+                            Wissenschaften den 15<hi rendition="#uu">ten</hi> Juny 1797." (Bl. 14r).
+                            - </note>
+                    </seg>, dann <bibl sameAs="prov_syr_nyh_gv">diejenige, welche Sie mir
+                        brachten</bibl>, u. endlich <seg type="comment">
+                        <orig>die <bibl sameAs="prov_u3g_fyh_gv">Antwort</bibl>
+                        </orig>
+                        <note xml:id="nmjt_ftt_tz">Hirts handschriftliche "Bemerkungen zu einem
+                            Aufsatze über Laokoon" (SLUB Dresden, Mscr. Dresd. h 37, 4°, 88, Nr. 3).
+                            Für den Druck in den "Horen" wurde dieser Aufsatz überarbeitet und
+                            gekürzt. Nicht gedruckt wurden die ersten Seiten von Hirts Beitrag: "So
+                            sehr auch diese neuern Ideen über Laokoon demjenigen, was ich über das
+                            nemliche Kunstwerk niederschrieb, entgegen zu stehen scheinen: so freue
+                            ich mich doch aufrichtig, durch meine Schrift die Veranlaßung zu diesem
+                            Aufsaze gegeben zu haben. Die Sache kommt auf diese Weise zur Sprache:
+                            das Wichtigste, was die Kunst im Allgemeinen sowohl, als ihre
+                            vornehmsten Produkte betrift, erscheint unter neuen Gesichtspunkten: man
+                            erklärt sich gegeneinander: man wiegt Gründe und Gegengründe: - und da
+                            dem einen, wie dem andern um die Sache, und nicht um seine Meinung zu
+                            thun ist; so dürften auch die Resultate der Aufstellung dieser
+                            verschiedenen // Ansichten für die Kunst selbst nicht unwichtig seyn. /
+                            Ich las den Aufsaz zu verschiedenen Malen durch, und zwar immer nach
+                            abgesezten Ruhepunkten. Sowohl die Neuheit verschiedener
+                            Sprachausdrücke, oder vielmehr der neue Sinn, der durch verschiedene
+                            bekannte Sprachausdrücke hier bezeichnet wird, ebensowohl als der neue
+                            Gesichtspunkt selbst, unter welchem das vatikanische Bild Laokoon's hier
+                            erscheint, machten mir diese wiederholte Aufmerksamkeit nothwendig, um
+                            den Verfaßer so viel möglich zu verstehen. / Das erste, was der Verfaßer
+                            thut, ist, daß er Erforderniße für ein vollkommenes Kunstwerk festsezet;
+                            das Bild Laokoon's dann darnach prüfet, und endlich allen Erfordernißen
+                            im höchsten Grade in demselben genug gethan findet. / Die Subtilität des
+                            Ganges in der Aufstellung, und der ganzen Sprache durfte man nur von
+                            einem Manne // wie der Verfaßer ist, erwarten. Man muß so viel, mit so
+                            voller Überlegung, und so vielseitig angeschaut, und die Sprache so in
+                            seiner Gewalt haben, um mit solchem Scharfsinn zu entwickeln, zu ordnen,
+                            und darzustellen. / In meinem Aufsaze erscheint zuerst das Bild: ich
+                            stelle meine Anschauung dar, und die Grundsäze, welche abstrahirt sind,
+                            sind Folgerungen dieser Anschauung. / Der Verfaßer sezet sechs Punkte
+                            als Erforderniße zu einem hohen Kunstwerke fest. Diese sind: <hi rendition="#u">1</hi>. Organisation u. Leben. <hi rendition="#u">2.</hi> Karakter. <hi rendition="#u">3.</hi> Ruhe oder Bewegung.
+                                <hi rendition="#u">4.</hi> Ideal. <hi rendition="#u">5.</hi> Anmuth.
+                                <hi rendition="#u">6.</hi> Schönheit. / Ich werde seine nähern
+                            Erklärungen hierüber mit meinen Anmerkungen, Zweifeln, und Fragen - so
+                            wie es mein Bedürfniß fodert - begleiten. / <hi rendition="#u">1.
+                                Organisation u. Leben.</hi> Autor scheinet hiemit nichts anders
+                            ausdrucken zu wollen, // als daß zu einem hohen Kunstwerke weder das
+                            Leblose, noch die bloße Thierheit, sondern einzig die menschliche Natur
+                            sich qualifizire. Folglich kann der Sinn des Autors keinesweges seyn,
+                            weder todte, noch Schlafende, noch in Ruhe dargestellten Menschennaturen
+                            vom Range des hohen Kunstwerkes auszuschließen. / Übrigens erkenne ich
+                            auch in dem ersten Erforderniß die Grundbasis aller wahren Kunst -
+                            Conditio, sine qua non - Kenntniß des Allgemeinen in der Menschennatur
+                            ist erstes Erfoderniß. / <hi rendition="#u">2. Karakter.</hi> Auf die
+                            Kenntniß des Allgemeinen muß die Kenntniß des Besondern der menschlichen
+                            Natur folgen: diese Kenntniß des Einzeln, und der verschiedenen Wirkung
+                            desselben giebt den Karakter, oder das Eigenthümliche, Individuelle -
+                            ohne welches sonst ein Kunstwerk bedeutungslos bliebe. / <hi rendition="#u">3. Ein Gegenstand ist in Ruhe oder Bewegung</hi>.
+                            Hiedurch erklärt sich die geistige Intention // der Menschennatur:
+                            folglich ist hier wieder die allgemeine und besondere Kenntniß nöthig,
+                            wie sich die Ruhe nach der Verschiedenheit der Karaktere bezeichnet, und
+                            wie sich Gefühle, und Leidenschaften überhaupt äußern, und im besondern
+                            sich nüanciren. / <hi rendition="#u">4. Ideal.</hi> - Also erfodert
+                            jede[s] hohe Kunstwerk das Ideal? soll also das Porträt vom hohen
+                            Kunstwerk ausgeschloßen seyn? oder wird vielleicht schon zum Ideal
+                            gerechnet, wenn der Künstler den glücklichen Momente zu ergreiffen weiß,
+                            die Ähnlichkeit des Vorbildes am Individuellsten darzustellen? Für mich
+                            würde ich hier noch kein Ideal finden: denn Ideal kann nur das seyn, wo
+                            der Künstler dem Objekt zugiebt, was er nicht in der Anschauung des
+                            Vorbildes vor sich hat. Oder soll hier die Meinung derjenigen gelten,
+                            welche jedes Porträt idealisirt haben wollen? - Unter gewißen
+                            Bedingungen, oder genauerer Bestimmung des Wie? bin ich dieser Meinung
+                            nicht entgegen. Bey den Alten finden wir idealisirte Porträte häufig:
+                            aber wie? - Entweder fand der Künstler, daß // es der Person, die er
+                            bildete, schmeicheln würde, wenn er das Fehlerhafte - doch unbeschadet
+                            der Ähnlichkeit des Hauptkarakters - sinnreich verstecken, oder durch
+                            eine accidentelle Zugabe das Porträt in einer vortheilhaftern Ansicht
+                            zeigen könnte: Dieß Sinnreiche erhob dann selbst das Intereße am
+                            Kunstwerke. Oder aber der Künstler wollte geradezu - beflißentlich -
+                            eine Nebenidee in dem Porträte ausdrücken: die Frau nemlich als Heroin,
+                            den Mann als Halbgott darstellen. Die bezeichnenden Attitüden und
+                            Attributen eines solchen Porträt-Heros foderten von dem Künstler auch
+                            jene heroische Nachbildung in der Form, und den Lineamenten, so viel
+                            nemlich es, unbeschadet der Hauptähnlichkeit der Person, geschehen
+                            konnte. Die beflißentliche Absicht des Künstlers dabey war, nicht bloß
+                            ein Porträt, sondern ein heroisches Porträt zu machen. - Indeßen machten
+                            diese Porträtideale nur Ausnahmen, // und im Ganzen gieng die alte Kunst
+                            immer nach der höchsten Strenge treuer Nachbildung. / In jedem andern
+                            Werke, was nicht Porträt ist, muß der Künstler nach seiner Idee
+                            arbeiten: er muß das Objekt seiner Phantasie in eine sichtbare Form
+                            kleiden, und dieser Stellung u. Bewegung geben. Da der Künstler nun ein
+                            solches Bild aus dem Vorrath seiner von der allgemeinen Natur
+                            aufgefaßten Ideen formet, so kann ein jedes Werk dieser Art ein Ideal
+                            heißen - zum Gegensaz mit dem Porträte. Hiemit versteht sich aber, daß
+                            es wenigstens eben soviele objektivisch-häßliche, und gemeine, als
+                            schöne, und erhabene geben müße: kurz in der Hinsicht ist ein Sylen
+                            ebensowohl ein Kunstideal als Bacchus; die alte Amme der Phædra eben so,
+                            wie diese Heroin selbst; ein Thersites eben so, wie Achilles; die
+                            Giganten eben so wie Jupiter. / Hat man Lust, das Objektivhäßliche //
+                            als einen Sylen, einen bäuerischen Faun, einen Triton, einen Polyphem
+                            von dem Range des hohen Kunstwerkes auszuschließen: - meinetwegen! Der
+                            Streit ist um das Wort. Nur erlaube man mir, daß ich den richtigen,
+                            tiefen, hohen Genius eines Künstlers bewundern darf, wenn ich das
+                            Objektivhäßliche, oder Gemeine vollkommen vorgestellt sehe: und daß ich
+                            behaupten darf, daß die Grundsäze für den Künstler die nemlichen sind,
+                            sowohl das objektivisch-schöne, als häßliche richtig zu bilden. Doch
+                            auch ich bin mehr für das objektivisch-schöne, als für das
+                            objektivisch-gemeine, oder häßliche, wenn sie in gleich vollkommenen
+                            Kunstwerken vor meinen Augen erscheinen: Auch ich würde, wie Praxiteles,
+                            und seine Schöne, den Amor dieses Meisters, dem Satyr desselben
+                            vorziehen. / Aber am Ende sehe ich, daß gar nicht von dieser Art Ideal,
+                            worüber // ich hier so weit aushohlte, die Rede ist. Der Verfaßer will
+                            hier einzig von der Umfaßung eines Kunstgegenstandes nach allen seinen
+                            möglichen Momenten sprechen: Unter diesen den höchsten darzustellenden
+                            Moment aufzufinden heißt hier Ideal. / Dieß Erfoderniß ist allerdings
+                            für die Kunst sehr wichtig: Der Künstler muß nicht bloß sein Objekt nach
+                            allen Momenten übersehen, sondern auch dabey die Grenzen der Kunst genau
+                            kennen. Dieß kann ihn allein führen, daß er unter der Menge der vor
+                            seiner Phantasie schwebenden Momente nicht falsch wähle, und auszuführen
+                            versuche, was die Grenzen der bildenden Künste überhaupt, oder eines
+                            Faches derselben insbesondere überschreitet. - Hat nun der Künstler auf
+                            diesem Wege das Ideal des Momentes für sein zu bildendes Objekt
+                            gefunden; folget das weitere Erforderniß: / <hi rendition="#u">5.
+                                Anmuth</hi> - diese scheint aut[or] hauptsächlich in die Anordnung
+                            der körperlichen Theile seines Kunstobjekts // zu sezen: theils um durch
+                            Symetrie das Mannigfältige faßlich zu machen, theils durch Kontraste,
+                            und leise Abweichungen das zu Einfache zu Vermannigfältigen - so <hi rendition="#u">daß ein Kunstwerk, wenn man auch von dem Inhalte
+                                abstrahirt, wenn man in der Entfernung auch nur die allgemeinsten
+                                Umriße sieht, noch immer dem Auge, als eine Zierart erscheine.</hi>
+                            / Dieses Requisitum der Anmuth mag bey der Anordnung bestehen: Der
+                            Künstler verliere sie nie aus den Augen. Aber wird sich wohl eine
+                            Grundregel festsezen laßen, vermöge welcher man bestimmen könnte, was
+                            mit Anmuth angeordnet, oder componirt hieße? und wird dieses Streben
+                            nach Anmuth, wenn sie nicht natürlich aus dem Bedeutenden der ganzen
+                            Anordnung entspringt, nicht eher auf Abwege verleiten? / Es scheint aus
+                            dem, was der Verf[asser] weiterhin über Anmuth sagt, alswenn etwas
+                            Conventionelles bey den Kunstcompositionen der Alten statt gehabt hätte.
+                            Ich begreiffe auch, wie man durch den Überblick auf die uns
+                            hinterlaßenen Monumente zu // dieser Vermuthung kommen kann. Nichts ist
+                            vielleicht auffallender, als der Kontrast der alten und neuern Kunst in
+                            Rücksicht der Anordnung. Aber nebst andern Ursachen dieser
+                            Verschiedenheit - deren Angabe hier zu lang seyn würde - bemerke man,
+                            daß wir von den Alten fast nichts als Kompositionen in Skulptur, und in
+                            Zeichnungen auf Vasen haben. Beyde Arten sind ohne Feld - Campo - ohne
+                            Tiefe, ohne Verschiedenheit der Gründe, ohne Perspektiv: keine Art von
+                            Abweichung findet dabey statt. Dadurch entstehet nothwendig eine
+                            gleichförmige Weise der Anordnung, nemlich die Nebeneinanderstellung.
+                            Ist aber dieß nicht eher Beschränkung, als Vortheil der Skulptur? - Die
+                            Alten haben diese Grenzen gefühlt; und sie versuchten nicht leicht, was
+                            ihnen hervorzubringen nicht möglich war. Daher sehen wir auch alle
+                            Nebensachen in der Bildhauerey der Alten, als Thiere, Gebäude, Waßer,
+                            Schiffe, Berge, Bäume u.s.w. - gröstentheils - nicht im Verhältniß der
+                            handelnden Personen, sondern bloß als Zeichen gebildet, und nicht selten
+                            auch personifizirt. Die Composition des Toro Farnese ist eine einzige
+                            Erscheinung in // seiner Art, obwohl die Künstler auch hier das Lokale
+                            der Szene durch Zeichen bloß andeuteten. Je beschränkter die Kunst ist,
+                            sich in ihren Darstellungen zu versinnlichen, desto behutsamer muß sie
+                            seyn, durch Symetrie Faßlichkeit, und durch bedeutende Konstraste
+                            Mannigfaltigkeit, und Handlung zu bewirken. Solche Art von Anordnung ist
+                            nicht Convention, sondern sie rühret von der Beschränkung der Bildnerey
+                            her. Die Regel der Kunst erfodert Faßlichkeit, und Bedeutung: ist die
+                            Anmuth die natürliche Folge davon - so wie sie es meistens bey den
+                            Werken der Alten ist - desto mehr Erhöhung für das Kunstwerk. / <hi rendition="#u">6. Schönheit</hi> - so wie die Kunst die körperlichen
+                            Formen zu einem - für's Auge; auch abstrakt von der Bedeutung -
+                            anmuthigen Ganzen ordnen soll - eben so soll das geistige Schöne Das
+                            Kunstwerk beseelen. Unter dieses Gesez rangirt der Verf[asser] den
+                            Ausdruck: und es scheinet von der Meinung derjenigen zu seyn, welche
+                            glauben, daß // Die Bildenden Künste auch einer Begränzung in Rücksicht
+                            des Ausdruckes unterworfen seyn. Der Ausdruck in Bewegungen und Mienen
+                            soll gemildert werden: Das Schönheitsgefühl soll den Genius des
+                            Künstlers gleichsam bändigen, und ihm nicht erlauben, die Grenzen eines
+                            gemäßigten Ausdruckes zu übersteigen: er soll das Extrem im Ausdrucke
+                            nicht darstellen, sondern vielmehr nur ahnden laßen. - Ich bescheide
+                            mich übrigens, wenn ich unrichtig commentirt hätte. / Dieß
+                            Schönheitsgefühl ist ohne Zweifel das vorzüglichste und höchste
+                            vielleicht nicht nur für die Bildenden, sonder auch die schreibenden
+                            Künste. Es ist vielleicht das vornehmste Distinctiv der griechischen
+                            Kunst überhaupt. Nur zu selten tragen neuere Werke den Stempel dieses
+                            sinnlischen Geschenkes: unter den bildenden Künstlern kann man nur
+                            vorzugsweise den Raphael nennen. / Aber läßt sich dieses Gefühl lehren?
+                            Antwort: Nein! - Der himmlische Funke kann nicht herausgeschlagen
+                            werden, wo er nicht liegt. Kann man seiner Entwicklung zu Hülfe kommen?
+                            ich // glaube, ja! - man kann dem von der Natur so hoch Begünstigten,
+                            und mit höhern Kräften versehenen Menschen die Wege erleichtern; indem
+                            man vor seinem Blick die Geheimniße der physischen, und geistigen Natur
+                            frühzeitig aufschließt, und ihn mit den Gränzen, und mechanischen
+                            Gesezen derjenigen Kunst bekannt machet, in welcher er sich versuchen
+                            will. jedes auch größte Genie trägt immer das Gepräge seines Zeitalters:
+                            in rohen und ungebildeten Zeiten bleibt es roh, und seine Größe kann nur
+                            im Verhältniß seiner Zeit erscheinen: Eben so geht es im umgekehrten
+                            Falle - ist der Geschmack über seine Grenzen weggeschritten, ist er im
+                            Fallen; so wird es verbildet, und daher schwülstig, und abentheuerlich.
+                            Die ganze Kulturgeschichte giebt uns Beweise von dieser Wahrheit. Daher
+                            ist es gut, wenn der zur Darstellung und Hervorbringung des Schönen (von
+                            Natur) gebildete Mensch - um das Maas zu halten - frühzeitig eine feste
+                            Richtung erhält - die Richtung nach einem Standpunkt, welcher solange
+                            man ihn nicht aus den Augen verliert, sicher leitet. - Und was gäbe
+                            diese feste, ewige, unabänderliche Richtung? - // Antwort:
+                            Karakteristik: in dem Sinne nemlich, in dem ich dieses Wort zu nehmen
+                            pflege. - Aber käme die geistige Schönheit eines Kunstwerkes auch unter
+                            dieses Grundgesez? - Nach meiner Meinung ist sie nicht nur in diesem
+                            Geseze mitbegriffen, sondern sie würde in einem Kunstprodukte gar nicht
+                            vorhanden seyn, das gegen Karakteristik verstieße, oder vielmehr wozu
+                            Karakteristik nicht hingeleitet hätte. Aber ist jedes Kunstwerk für
+                            unsern Verstand nicht unendlich? es kann angeschaut, es kann empfunden
+                            werden: aber kann es eigentlich erkannt, und sein Verdienst mit Worten
+                            ausgesprochen werden? Ich gebe gerne zu, nein! Doch scheint mir schon
+                            viel gewonnen zu seyn, wenn dem Verstand ein Maaßstab des Negativen
+                            eingeräumt wird: wenn zum Beyspiel da, wo die Karakteristik fehlet, auch
+                            die geistige Schönheit nicht vorhanden seyn kann, und wenn wir dieselbe
+                            da, wo wir sie finden oder empfinden, immer als das Resultat der
+                            Karakteristik wahrnehmen. Sey es auch, daß die beste Geschmakslehre
+                            ihren Stoff nie erschöpfe: sey es auch, daß die voll-//ständigsten
+                            Angeln die Tiefen der Empfindungen, und das bunte Spiel der menschlichen
+                            Phantasie nie ermeßen; so haben wir durch Annäherungsprincipien sowohl
+                            für Herbeyführung, als für Aufrechthaltung des Geschmackes schon viel
+                            gewonnen. Ich werde in der Folge Gelegenheit haben, mich noch näher zu
+                            erklären. / Iezt sey mir erlaubt, ehe ich weiter gehe, die Erforderniße,
+                            welche der Verfaßer für ein hohes Kunstwerk festgesezet, hier zu
+                            resumiren. Diese sind: / Kenntniß der physischen und geistigen
+                            Menschennatur: Kenntniß der Abweichungen, und besondern Eigenheiten
+                            derselben: Ergreiffung des richtigsten Momentes, sey die Darstellung in
+                            Ruhe, oder Bewegung: verbunden mit körperlicher Anmuth: und geistiger
+                            Schönheit. / Auch ich erkenne diese Erfoderniße an: Doch nicht, ohne
+                            folgende Anmerkung. / Ein jedes Kunstobjekt drehet sich um einen festen
+                            Punkt, der im Werke // anschaulich gemacht werden muß. Die
+                            Deutlichmachung, oder Karakterisirung dieses Punktes giebt dann die
+                            Regel an, den richtigsten Moment der Darstellung auszuheben: Die
+                            Stellung der körperlichen Formen, und der Ausdruck müßen diesen Moment
+                            karakteristisch begleiten. Körperliche Anmuth, und geistige Schönheit
+                            können Resultate davon seyn. Aber diese können niemal auf Unkosten der
+                            Karakteristik der Bewegung, und des Ausdruckes herbeygebracht, und ich
+                            kann beysezen, nie anders, außer wenn sie wirklich karakteristisch sind,
+                            als solche empfunden und beurtheilt werden. - / <hi rendition="#u">Über
+                                Laokoon.</hi> / Der Verfaßer findet, daß in dieser Gruppe allen
+                            obgesezten Erfodernißen im höchsten Grade genug gethan sey. Auch ich
+                            sehe in diesem Werke gleichsam das - non plus ultra - der Kunst. Aber
+                            unsere Anschauung geht selbst in wesentlichen Theilen voneinander ab. -
+                            Ich kann die sinnreiche, ja subtile Entwicklung des Verf[assers] nicht
+                            Schritt vor Schritt verfolgen. Ich muß meine Anmerkungen mehr summarisch
+                            darlegen. // Was über <hi rendition="#u">Geschloßenheit</hi> gesagt
+                            wird, bin ich ganz einverstanden: Auch über die <hi rendition="#u">Entkleidung von allem Fremden</hi> - und es ist schön vom
+                            Verf[asser] bemerkt, daß der Bildnerey selbst ein Vortheil zuwächst aus
+                            dem, daß ihre grenzen so enge gestellt sind. [...]" (Bl. 30r-38v).
+                        </note>
+                    </seg>. Da ich die Disposition über den ersten Aufsaz erhalten habe, <seg type="comment">
+                        <orig>so bitte ich denselben an <persName key="prov_mq3_mvr_js">Schiller</persName> zu geben</orig>
+                        <note xml:id="nccv_zhm_vz">Es war Schiller, der Hirts Laokoon-Aufsatz "recht
+                            gern in den Horen" haben wollte, um "Hirt gegen Schlegel ins Feld zu
+                            führen", da Friedrich Schlegel 1797 in seiner Abhandlung "Über das
+                            Studium der Griechischen Poesie" "den Begriff des 'Charakteristischen'
+                            [...] zur Unterscheidung der modernen von der griechischen Poesie"
+                            gebraucht hatte (Martin Dönike: Pathos, Ausdruck und Bewegung: zur
+                            Ästhetik des Weimarer Klassizismus 1796-1806, S. 27 und 26). An Goethe
+                            schreibt Schiller am 7. Juli 1797: "Es wäre, deucht mir, jetzt gerade
+                            der rechte Moment, daß die griechischen Kunstwerke von Seiten des
+                            Charakteristischen beleuchtet und durchgegangen würden, denn allgemein
+                            herrscht noch immer der Winckelmannische und Leßingische Begriff, und
+                            unsre allerneuesten Ästhetiker, sowohl über Poesie als Plastik, lassen
+                            sichs recht sauer werden, daß Schöne der Griechen von allem
+                            Charakteristischen zu befreien und dieses zum Merkzeichen der Modernen
+                            zu machen." Schiller selbst hoffte, aus der "Materie über das
+                            Characteristische und Leidenschaftliche" für seine "Untersuchungen über
+                            das Griechische Trauerspiel" Nutzen zu ziehen (Schiller Nationalausgabe,
+                            Bd. 29, Nr. 104).</note>
+                    </seg>, um denselben in <bibl sameAs="prov_erl_txj_gv">Horen</bibl> einzurücken
+                    - aber <seg type="critical">
+                        <orig>auf einmal</orig>
+                        <note xml:id="nrp4_zxj_gv">Hirts Aufsätze "Laokoon" und "Nachtrag über
+                            Laokoon" erschienen nicht nacheinander, sondern in Stück 10 und
+                            12.</note>
+                    </seg>, nicht abgesezt in zwey Stücken - das übrige überlaße ich Ihnen, Sie
+                    mögen es verfechten, und mit dem Autor nach Belieben arrangiren. Ich wünschte
+                    nicht, daß ich zu starke Ausdrücke gebraucht hätte: man müßte Ihre, oder
+                        <persName key="prov_hwd_hmp_5r">Goethe</persName>'s Feder haben, um alles
+                    zierlich umzustalten: übrigens steht mein <pb n="4"/> Gemüth jeder nähern
+                    Aufklärung sehr offen. Wenn Sie mir darüber schreiben, so bitte ich keine
+                    Beschönungen, sondern gerade von der Brust, und bestimmt auf dem Fleck: auch
+                    eben so bitte ich mir die Urtheile anderer zu sagen.</p>
+                <p>Haben Sie etwa <bibl sameAs="prov_mlp_kxh_gv">meinen Aufsaz</bibl> in den <bibl sameAs="prov_erl_txj_gv">Horen</bibl> über das Kunstschöne gelesen? - Es war
+                    dieser Aufsaz, den ich von Ihnen zurückgebracht gewünscht hätte: denn er ist vor
+                    6. Jahren geschrieben, und nicht vollendet, wie Sie selbst sehen, mehr Skizze.
+                    Ich hatte ihn freylich <persName key="prov_mq3_mvr_js">dem
+                        Herausgeber</persName> der <bibl sameAs="prov_erl_txj_gv">Horen</bibl>
+                    zugesagt, aber nachdem ich ihn von neuem würde durchgearbeitet haben. - Indeßen
+                    ist es geschehen, und da im Grunde die Hauptidee, aus welcher ich das
+                    Kunstschöne ansehe, darin angegeben ist; so liegt mir weiter, da die Herausgeber
+                    es verantworten, auch nichts dran: nur bin ich hiedurch gezwungen, durch andere
+                    Aufsäze diesem erstern Halt zugeben, und in dasselbe Journal sie
+                        einrück<ex>en</ex> zu laßen. <seg type="critical">
+                        <orig>Der erste Aufsaz, den ich nachschicken werde</orig>
+                        <note xml:id="nbsv_qyj_gv">In den "Horen" erschienen keine weiteren Beiträge
+                            von Hirt; die Zeitschrift endet 1797 mit dem 2. Stück. Vermutlich ist
+                            hier Hirts Aufsatz "Ueber Charakteristik, als Hauptgrundsatz der
+                            bildenden Künste bei den Alten" gemeint, der erst später ausgearbeitet
+                            im "Berlinischen Archiv der Zeit und ihres Geschmacks", Jg. 1798, Bd. 2,
+                            November, S. 437-451, gedruckt wurde. Gleich zu Beginn bezieht sich Hirt
+                            hier auf seine drei in den "Horen" erschienenen Aufsätze. Veranlasst
+                            wurde er jedoch durch eine Kritik der Brüder Schlegel im "Athenäum",
+                            gegen die er sich im Folgenden durch eine detaillierte Darstellung
+                            seiner Kunstprinzipien zu verteidigen sucht.</note>
+                    </seg>, wird die Geseze, und Begrenzungen der Skulptur enthalten. Vielleicht
+                    wird dieser auch dazu dienen, manches über die <bibl sameAs="prov_b1g_1yh_gv">
+                        <bibl sameAs="prov_u3g_fyh_gv">Aufsäze Laokoon</bibl>
+                    </bibl> näher zu erörtern.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>
+                            <persName key="prov_ofd_5yj_gv">Sanders</persName> schreibt Ihnen</orig>
+                        <note xml:id="nsbc_5gk_gv">Sander hatte in einem auf den 3. und 5. Oktober
+                            1797 datierten Brief an Böttiger geschrieben: "Von Hirt bekommen Sie
+                            etwas über die Ausstellung der Kunst-Akademie" (Maurach: die Briefe
+                            Johann Daniel Sanders an Carl August Böttiger, Bd. 1, S. 187).</note>
+                    </seg>, <seg type="comment">
+                        <orig>daß ich Ihnen etwas über die Ausstellung der hiesigen <orgName key="ed_u5s_1fc_b1b">Academie</orgName> zusenden wolle: er trügt
+                            sich:</orig>
+                        <note xml:id="nokg_sgx_rz">In der SLUB Dresden ist allerdings ein
+                            26-seitiger handschriftlicher Text von Hirt verwahrt, der eine
+                            ausführliche Beschreibung der 1797er Kunstausstellung enthält (Mscr.
+                            Dresd. h 37, 4°, 88, Nr. 1). Zum Wortlaut siehe unten die
+                            Beilage.</note>
+                    </seg> nicht ich, sondern Er. Wie kann mir ein Urtheil über meine Collegen
+                    zustehen? ja! ich müßte ja mich selbst recensiren.</p>
+                <p>
+                    <seg type="critical">
+                        <orig>Den Aufsaz</orig>
+                        <note xml:id="nstt_jbk_gv">In Böttigers "Vasengemälde" ist nichts von Hirt
+                            enthalten.</note>
+                    </seg> für das <bibl sameAs="prov_bjq_czj_gv">vasenwerk</bibl> habe ich bereits
+                    zu schreiben angefangen, und ich werde Ihnen denselben gewiß zur Zeit
+                    einliefern.</p>
+                <p>Vorgestern hatte ich <seg type="critical">
+                        <orig>Briefe von der lieben <persName key="prov_wmk_lxw_g5">Angelica</persName>
+                        </orig>
+                        <note xml:id="nfyj_nbk_gv">Briefe erschlossen:
+                            [1797-10-vor29x-v-AngelikaKauffmann]</note>
+                    </seg> aus <placeName key="prov_vkl_ndl_js">Rom</placeName>. Die Arme trauret
+                    sehr über den iezigen Zustand dieser Stadt: sie sagt: sie hätte aus Liebe zur
+                    Kunst diesen Aufenthalt gewählt: was aber künftig geschehen werde, wiße sie noch
+                    nicht. Sie hat für den Weih bischof von <placeName key="prov_qml_hck_gv">Münster</placeName>
+                    <persName key="prov_ptz_zbk_gv">Herrn v. Trost</persName> eben zwey große Bilder
+                    fertig gemacht: das eine <rs type="artwork" key="prov_bh1_gdk_gv">wo christus
+                        die Kinder segnet</rs>, das zweyte eine <rs type="artwork" key="prov_c3g_mdk_gv">Verkündigung</rs> Mariæ: lezteres soll besonders wegen
+                    der Neuheit der Composition viel Beyfall erhalten haben. iezt arbeitet sie an
+                    einem <seg type="critical">
+                        <orig>
+                            <rs type="artwork" key="prov_bhz_n2k_gv">Gemälde mit vielen Figuren</rs>
+                        </orig>
+                        <note xml:id="np3z_v2k_gv">Eine allegorische Darstellung der Religion (mit
+                            dem Kreuz) auf dem Thron, umringt von ihren Dienerinnen Glaube,
+                            Hoffnung, Ergebenheit, Geduld, Freude, Reue, Friede und christlicher
+                            Liebe; ehemals London, Tate Gallery, im II. Weltkrieg zerstört. - Vgl.
+                            Handbook to the public galleries of art in and near London […] by Mrs.
+                            Jameson. London 1845, S. 142: National Gallery: "Nr. 139. Religion
+                            attended by the Virtues. Composition of 11 Figures, life-size. / Faith
+                            is her distinguished by her cross, Hohe by her anchor; Chasity has her
+                            dove, and Charity her bantlings: all of which is de rigueur. The picture
+                            is intolerably tame both in composition and colour; it required the
+                            fertile fancy and glowing pencil of Rubens to deal with pictorial
+                            allegories, whether religious or profane. This picture was painted at
+                            Rome for James Forbes, Esq., the author of the 'Oriental Memoirs', who
+                            bequeathed it to the nation"</note>
+                    </seg>. -</p>
+                <closer rend="paragraph">
+                    <salute>Ihr</salute>
+                    <signed>Hirt</signed>
+                </closer>
+            </div>
+            <postscript>
+                <milestone unit="section" rendition="#hr"/>
+                <p>
+                    <ex>[Der folgende handschriftliche Text enthält Hirts fragmentarische
+                        Beschreibung der Berliner Kunstausstellung von 1797. Er lag wohl nicht dem
+                        vorliegenden Brief bei, sondern gelangte erst später an Böttiger; vgl. auch
+                        1799-08-15-a-Böttiger.]</ex>
+                </p>
+                <p>Sie beneiden mich also im Ernst, eben zurzeit in Berlin zu seyn, wo die Akademie
+                    der schönen Künste den Geburtstag des Königes durch die öffentliche Ausstellung
+                    ihrer Arbeiten feuert. Ich muß gestehen, daß dieses Ereigniß, an welches ich bey
+                    meiner Herkunft nicht dachte, und meinen Kopf bloß mit der Herbstrevue der
+                    Berlinischen Garnison angefüllt hatt, mich selbst nicht wenig freuet. Freylich
+                    müßte ein Laye, wie ich, einen Kenner wie Sie, an der Seite haben, um alles das
+                    mit einem mehr kritischen Blick ansehen zu können: aber so habe ich bloß den
+                    empirischen Genuß davon, wie hundert andere, welche in bunter Mischung mit mir
+                    die Säle durchwandeln.</p>
+                <p>Indeßen wollen Sie doch, daß ich schreibe, und Ihnen einen detaillirten Bericht
+                    gebe. Dieß heißt einiger Weise meiner Gefälligkeit Gewalt anthun, und bey mir //
+                    auf die Befriedigung eines Wechsels dringen, den ich Ihnen nur in schlechter
+                    Münze bezahlen kann.</p>
+                <p>Sie würden lachen, wenn Sie mich sehen sollten, wie ich mich herumtreibe, um
+                    stante pede ein Kunstkritiker vis-a-vis de vous zu werden: wie ich fast täglich,
+                    in den Kunstsälen auf- und abgehe, wie bedächtig ich mich iezt hier vor eine
+                    Statue, oder Büste, jezt vor eine Landschaft, ein Porträt, oder gar ein
+                    Historiengemälde hinpostire - ja selbst mit der Miene des Archicritikers vor
+                    einen architektonischen Plan dastehe. Diese Bedächtigkeit, womit ich eigentlich
+                    mit meinen eigenen Augen wenig, oder nichts sehe, zieht indeßen die andern
+                    Mitspazierenden herbey - man spricht, man pronirt seine Empfindung, und nicht
+                    selten höre ich so die sonderbarsten Einfälle von kritischen Urtheilen. Ein
+                    Spaßvogel könnte sich bey solcher Gelegenheit die schönsten anektoden für die
+                    petits Soupers sammeln - und ich - sammle für Sie - mein Freund! Kunsturtheile;
+                    denn ich hätte Lust, mich gerne etwas Breit vor Ihnen zu machen. Auch habe ich
+                    schon // mein Portefeueille bereichert. Ich überschicke Ihnen also die Waare,
+                    wie ich sie haschen konnte: Sie werden wohl sehen, daß es meistens Contrebande
+                    ist - und als solche verkauffe ich sie Ihnen wieder - von meiner eigenen Fabrik
+                    werden Sie weniges darunter finden.</p>
+                <p>Zuerst muß ich Ihnen sagen, daß ich bey der öffentlichen Sitzung, welche die
+                    Akademie selbst den 25<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi>, als dem Geburtstage des Königes, hielt zugegen war. Ich schreibe Ihnen -
+                    um sich eine Idee von den Verhandlungen zu machen den Artikel aus der
+                    Berlinerzeitung ab. "________"</p>
+                <p>Mich machte die Lobrede auf Rode sehr begierig, die Werke dieses Mannes kennen zu
+                    lernen - aber leider! weiterhin werden Sie sehen, wie tief ich von meinem Himmel
+                    herabfiel. Die Rede von Hr. Langhans schien mir sehr tief und gelehrt - aber
+                    auch da mußte ich von einem neben mir stehenden vernehmen, daß mehr als ein
+                    historischer, // und wenigstens ebensoviel architektonische Schnizer
+                    untergelaufen sind, und das Richtige davon bloß Loci communeae wären. Transeat!
+                    - ich konnte meinen Mann erst begreiffen, nachdem ich einige Tage nachher mit
+                    einem Sachkundigen alle Projektirte Monumente für Fried. II. durchgieng. Die
+                    Rede von Hofr. Hirt <ex>[Anmerkung auf dem rechten Blattrand:</ex> da die
+                    Schrift anonym seyn sollte, so glaubte der autor sich mehr decken zu können,
+                    wenn er auf die Weise von seiner Arbeit spräche, wie sie das Publikum beurtheilt
+                        hatte.<ex>]</ex> fand ich so wahr, und brillant, daß ich iezt erst auf's
+                    neue den Königl. Kunstschaz an seinen vielen Orten aufsuchen werde, da ich mir
+                    wirklich bey dem ersten Besehen - aus Ursachen die sehr deutlich entwickelt
+                    wurden - einen sehr mittelmäßigen Begriff sowohl von den Antiken, als den
+                    Gemälden des Königl. Hauses gemacht hatte. - Die Rede von Rambach schien mit
+                    einem philosophischen Blick geschrieben zu seyn.</p>
+                <p>Den 26<hi rendition="#sup">
+                        <hi rendition="#u">ten</hi>
+                    </hi> wurden alle Säle der förmlichen Ausstellung aller ein<ex>ge</ex>schickten
+                    Arbeiten sowohl von einheimischen, als fremden Künstlern für das Publikum
+                    eröffnet. Die Person zahlt für jedesmal 4. Groschen, und ein gedruktes
+                    Verzeichniß kostet eben so viel. Diese // kleine Depense mache ich öfters im
+                    Tage zweymal - denn für meine Augen ist diese Ausstellung nicht bloß eine
+                    Kunstgallerie, sondern auch ein Schauspielhaus von der bunten Menge der Berliner
+                    schönen welt.</p>
+                <p>Die im Catalog verzeichneten Stücke gehen bis auf N<hi rendition="#sup">
+                        <hi rendition="#u">o</hi>
+                    </hi> 409. Darunter ist aber begriffen Mahlerey, Sculptur, u. Baukunst -
+                    Zeichnungen - Kupfer, Stickereyen - Verzierungen - Miniaturen, Porträtxxx in
+                    Wachs - Verzierungen in Holz geschnitten etc - Unter der nemlichen Nummer kommen
+                    aber zuweilen mehrere Stücke vor. - Auch für die mechanischen Künste ist ein
+                    besonderer Saal bestimmt: die Werke sind aber nicht im Catalog angegeben. Sie
+                    sehen Claviere - ausgestopfte Vögel - Teppiche, Uhren, Blumentöpfe. Tische. u.
+                    anderes Hausgeräthe.</p>
+                <p>Ihnen über jedes etwas zu sagen würde wohl die Kräfte meiner Feder überschreiten.
+                    Ich gebe es Ihnen also nach Classen - und von diesen werde ich nur das berühren,
+                    worüber das Publikum seine Aufmerksamkeit äußerte.</p>
+                <p>Also erstlich von der Sculptur: //</p>
+                <p>Das erste, was sich mir hier den Augen darstellt, ist die Gruppe der
+                    Kronprinzeßin, u. der Prinzeßin Ludiwig in Lebensgröße u. in Marmor.
+                    Schwesterliche Liebe sollte der Gegenstand dieser Gruppe seyn - aber Freúnd
+                    Schadow! wie konntest du dieß so wenig fühlen? Die Gesichter der Schwestern sind
+                    voneinander abgewendet - in gebieterischer Attitude steht die ältere den linken
+                    Fuß über den rechten geschlagen, den linken Arm auf den naken der kleinern
+                    Schwestern lehnend, indem sie mit ein paar preziösen Fingern einen Theil des
+                    herabfallenden Übermantels anhält - Die jüngere Schwester beugt sich unter der
+                    drückenden Last vorwärts, und suchet, mit der Rechten den Leib der Schwester
+                    umfaßend, ihre Gebieterin zu stüzen. - wie ist es möglich den Sinn der
+                    Composition, - diese Seele der Kunst - so zu verfehlen? hast du denn nie einen
+                    Freund umarmt? hast du denn nie die seelige Wonne gefühlt, // in der annähernden
+                    Umarmung des liebenden Weibes mit Deinem Auge den milden Blick der einzigen zu
+                    begegnen? und da anzuhalten - weist Du nicht, daß sich in diesem Wechselblick
+                    die Seelen berühren - und mehr das innige Gefühl des höchsten Wohlwollens
+                    ausdrücken, als es je die feurigste Umarmung thun kann? -</p>
+                <p>Ich hörte von einem, der mit einem andern vor dieser Gruppe stand, hätte doch der
+                    Künstler sich - an Orestes u. seine Schwester Elektra erinnert - welche - ich
+                    weiß nicht, in welchem Museum in Rom stehen sollen - </p>
+                <p>Aber marmor meuseln, und richtig Empfinden sind zwey Dinge: Das erstere sollte
+                    zwar lezteres immer darstellen: aber hiezu gehört mehr, als eine gemeine
+                    Künstlerseele.</p>
+                <p>Man findet die Gesichter sehr ähnlich, besonders das der ältern Schwester: beydes
+                    sind herrliche Köpfe für die Sculptur: Anmuth spricht aus jedem // ihrer Züge -
+                    ich weiß nicht, ob ein Künstler zwey schicklichere Modelle finden könnte, um die
+                    hohe Gestalt der Melpomene in der ältern, und den naiven Liebreiz der Thalia in
+                    der jüngern Schwester zu bilden, und sie beyde in einer schwesterlichen
+                        Grupp<ex>e</ex> zu vereinigen.</p>
+                <p>Über das gewählte Costum, und andere Theile, als Arme, Hände, Füße u.s.w. laße
+                    ich mich nicht ein. Man findet daß der Künstler hierin auch viel mehr hätte thun
+                    können: und daß die drey Parzen an dem Grabmale des jungen Grafen von der Mark -
+                    vom nemlichen Künstler - in dieser Hinsicht viel beßer gerathen sind.</p>
+                <p>Die Büsten vom Kronprinzen, und seinem seel. Bruder Ludewig stehen in Gips da -
+                    ersterer ist frappant ähnlich, und ungeachtet seines militärischen Costums
+                    machet er eine sehr schöne Büste, weil der Prinz ungemein reguläre und bestimmte
+                    Züge hat. Die zweyte scheint nach der Maske des Verstorbenen gemacht zu seyn:
+                    die Gesichtsmuskeln sind alle
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>externirt<?oxy_custom_end?>,
+                    erschlafft. Der Hauch des Lebens webt nur schwach über dem gesichte. - // </p>
+                <p>Eine Venus in marmor - Lebensgröße - auf einem Ruhebette liegend: - ohne diese
+                    Bezeichnung im Catalog würde man sie eher für eine aus einem Liebestraum
+                    erwachende Bacchantin halten. Weder Kopf, noch Form, nach attitude kommen einer
+                    Göttin zu, die den Sterblichen nie als unter dem höchsten Liebreiz - der
+                    Schamhaftigkeit - nie als in der unverweklbaren Gestalt ewiger Jugend erschien.
+                    - Ich kann das Detail der Formen nicht nach Schärfe beurtheilen - doch habe ich
+                    einen Gips der mediceischen Venus in Florenz gesehen - und da nehme ich freulich
+                    gewahr, daß um die Länden, und Schenkel - in dem modelle von Schadow - nicht
+                    mehr die unverlezte Jugend wehte - und da und dort Dickungen, und magerheiten
+                    sich zeigen: die leider! nur zu bald das Loos unserer hinwelkenden Schönen
+                    sind.</p>
+                <p>Indeßen machet dies Werk dem Künstler die meiste Ehre: und in dem Boudoir eines
+                    Kenners könnte es immer ein vorzügliches Möbel seyn. // </p>
+                <p>Prof. Bettkober. <lb/>Sonderbar contrastirt mit der gruppe der Prinzeßinen, und
+                    der Venus die darneben stehende Statue von Fried. Wilh. I. sie ist in Gips, u.
+                    Lebensgröße und dem Costum seiner zeit; nemlich in der Tracht, wie sich auf den
+                    Theatern die alten Pedanten kleiden, welche nur die Schauspieler preis geben, um
+                    das Zwerchfell ihrer Zuschauer zu erschüttern. Der lange steife, eingewickelte
+                    Haarzopf, die fünf Löckchen um jedes Ohr, der dreyekige kleine - eher Deckel -
+                    als Hut auf dem Kopfe, die langen Schöße der Weste, welche bis über den halben
+                    Bauch aufgeknöpft ist: der desto kürzere Rpck - die langen Manschetten, die bey
+                    den kurzen Rockärmeln, bis auf die Hälfte der Finger vorreichen, die ledern
+                    Camaschen, und die abgestüzten Schuhe zwingen jedem Anblick ein Lächeln, wonicht
+                    ein Lachen ab. man möchte gerne rufen: otez - moi ce magot - là - wenn man nicht
+                    das Band vom schwarzen Adler über die Weste hängen sähe, und man nicht wüste,
+                    daß der Mann den kurzen Stock, auf den die rechte Hand sich stüzt, ehemals nicht
+                    selten zu gebrauchen verstand. - Indeßen ist die ganze attitude äußerst wahr,
+                    einfach und simpel: man könnte es ein Meisterstück // der Kunst nennen - wenn
+                    die Bildnerey sich mit dem Anblick des Lächerlichen vertrüge.</p>
+                <p>Bildhauer! Freunde der Kunst! wie lange wird man Euch noch zu zurufen müßen: daß
+                    Ihr den Mann, und nicht die Lächerlichkeit des Costums seiner Zeit - verewigen
+                    müßt - daß die Kunst ihr eigenes Costum hat, und daß der gothische Zuschnitt,
+                    und die vielen Fezen unserer modernen Trachten sich nie mit der Seele des reinen
+                    Kunstgeschmackes vertragen werden? - Ihr wollt Kunstwerke haben, wie die
+                    Griechen - nun so lernet auch fühlen und denken wie sie. -</p>
+                <p>Es sind noch einige andere Büsten von diesem nemlichen Künstler da: sie haben
+                    alle das Verdienst der Ähnlichkeit, bis auf die steifen Flügel der Blenden an
+                    der Haube, und den Bauschichten Wulst des einhüllenden Halstuches -</p>
+                <p>Bettkober! wenn ein neuer General um den Wilhelmsplaz zu machen ist, sollst du
+                    mir ihn façoniren (modeln) - //</p>
+                <p>Friedemann - <lb/>Ein ehemaliger Zögling der Akademie. <lb/>Die Büsten der drey
+                    Kinder der Prinzeßin Ludwig. sie sind mit einer lieblichen Wahrheit modellirt.
+                    ich erinnere mich, solche antike Kinderköpfe in Gips zum Verkauf herumtragen
+                    gesehen zu haben, welche mich wegen der naiven Wahrheit des kindlichen
+                    Ausdruckes immer sehr rührten; so wie mir die dicken Pfausengel von Fiamingo
+                    glaube ich - immer herzlich mißfielen.</p>
+                <p>So hübsch diese drey sind, so abendtheuerlich ist eine Gruppe, die Prinzeßin
+                    Ludewig mit eben ihren drey Kindern vorstellend, welche die Büste des verewigten
+                    Prinzen krönet. Es ist nichts schrecklicher, als diese Compositionen u.
+                    Gruppirungen unserer modernen Bildhauer: ich muß immer die Augen wegwenden, wenn
+                    ich das bunte Gewimmel von mehrern Figuren in den
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>xxxx<?oxy_custom_end?>
+                    Attituden zusammen gruppirt wahrnehme.</p>
+                <p>man möchte hier gern unserm Friedemann, - wie dort Apelles dem Schuster -
+                    zurufen: Herr! waget Euch nicht an Compositionen, an eine ganze Figur - bleibt
+                    um himmelswillen bey der Büste im Porträt! - //</p>
+                <p>
+                    <hi rendition="#u">Bardou</hi>
+                    <lb/>Man legt der ehemaligen Actrice, mad. Baranius, allgemein den Preis des
+                    Reizes, und selbst der Schönheit bey. in dieser Statue von Bardou hat sie keines
+                    von beyden: sie ist als Ariadne auf Naxos gebildet - sagt der Catalog - aber was
+                    karakterisirt sie als solche? Die Attitude kann jedem andern Sujet eben so
+                    natürlich seyn: attributen sind weiter nicht da: und wie soll man in dem
+                    schleppenden Gewand von schwerem Stoffe eine griechische Heroin erkennen?
+                    <lb/>Die Statue der Pandora transeat -</p>
+                <p> ist von Quitschreiber: unter den drey Brustbildern stellt eine den Iffland vor:
+                    eine schreckende Physionomie mit ausgehöhltem Augenstern - hat er in ihm den
+                    wüthenden Macbeth bilden wollen? - Friedeman, wie sind deine Kinder lieblich:
+                    geh, und bilde du die miene des großen Schauspielers.</p>
+                <p>Was die übrigen Bildhauerarbeiten betrift, erlauben Sie mir schon, mein Freund,
+                    daß wir die Namen Otto Sahler, Unger, Selvino, Hageman, Schwarzkopf u.s.w.
+                    vorüber gehen - vielleicht // geben sie uns, oder einem andern Gelegenheit etwas
+                    mehr von ihnen bey einer künftigen Ausstellung zu sprechen.</p>
+                <p>Parent - <lb/>ist ein Holzschneider: man kann seiner Hand die Künstlichkeit nicht
+                    absprechen. Wäre ich ein reicher Herr, würde ich ihn sehr gut zu gebrauchen
+                    wißen: um mir schöne Spiegel Rahmen zu schneiden, architektonische Glieder
+                    auszuarbeiten, Thüreinfaßungen u. d. gleichen flach zu verzieren und Rosetten in
+                    die Decken von Holz zu machen. ich würde ihn gut bezahlen; aber ihm die
+                    Zeichnungen vorlegen, und mich sehr hüten seinen eigenen Erfindungen zu
+                    applaudiren: denn ein Raritätenzimmer mit hölzern Vögeln und Blumen würde wohl
+                    in meinem Pallaste nicht zu treffen seyn.</p>
+                <p>Abramson <lb/>Hätten Sie Lust eine gallerie Porträte von weimarischen,
+                    jenaischen, gothaischen, göttingischen, und berlinischen Gelehrten zu schauen,
+                    so würde ich Sie bey den in wachsboßirten Medaillons des Herrn Abramson's
+                    vorbeyführen. Da aber diese Herrn nicht im erhöhten Ideal - sondern in sehr
+                    Heterogenen, und unsaubern Gesichtszügen ausgestellt sind - so werden Sie mir
+                    wohl vergeben, daß ich Sie nicht über diesen Markt führe. Lavatern möchte ich
+                    hören, der aus diesen zerfallenen Formen wahrsagen sollte.</p>
+                <p>Bey den in Gips bronzirten Medaillons von H. König in Breslau habe ich eben so
+                    wenig Lust zu verweilen - ich eile um Ihnen von den Mahlereyern zu sprechen -
+                    und Historiengemälde:</p>
+                <p>Diese sind nicht in großer Anzahl, und dieß kann Ihnen schon hinreichend
+                    beweisen, was man sich hier von dem Zustande der ersten der Künste zu machen
+                    hat.</p>
+                <p>Um Kaufer für diese Art Gemälde zu haben, bedarf man der Kenner, und Liebhaber -
+                    und um diese zu haben bedarf man freylich solcher Künstler, die mehr als ein
+                    steifes Porträt zu pinseln gelernt haben.</p>
+                <p>Direktor Rode. <lb/>Mehrere seiner Stücke paradiren noch bey // dieser
+                    Ausstellung. Gott habe den guten Mann seelig. So sehr auch Ramler<ex>s</ex> Ode
+                    über seine Kunst Sie mag begeistert haben, so glauben Sie doch sicherlich, daß
+                    der Dichter nichts als seine eigene Phantasie sang: und wehe ihm, wenn je Rode's
+                    Werke ihn hätten begeistern können! - Indeßen fehlet es nicht an Leuten, welche
+                    vor seinem Alexander, der bey dem Leichnam von Darius steht, und denselben mit
+                    einem rothen Tuche decken soll - mit Bewunderung verweilen. Denken Sie sich die
+                    gemeinste Tragbähre, auf der der gemeinste Sanscullotte todt ausgestrekt liegt -
+                    und einen Alexander, wie ihn wahrlich kein Küchenmädchen denken kann: und das
+                    ganze graurothblau gemalt, wie kaum die erste Ebauche eines Schülers aussehen
+                    kann! - Ich denke es ist genug: und Sie hegen keine weiter<ex>e</ex> Lust, von
+                    seiner Samaritanerin, oder den bethörten Jungfrauen zu hören.</p>
+                <p>Rektor Frisch - <lb/>schien sich eben keine Angelegenheit daraus gemacht zu
+                    haben: seinen Ruhm durch diese Ausstellung zu vermehren. // Ein paar Skizzen
+                    sprechen nicht sehr für seine Stärke in der Composition: und ein sizender Faun,
+                    der im großen ausgeführt ist, machet eben so wenig Anspruch auf das Verdienst
+                    eines großen Coloristen. Es scheint, daß er die Ehre des Vorzug einem seiner
+                    Schüler habe überlaßen wollen:</p>
+                <p>Joh. Kretschmar <lb/>ist der junge Mann, von dem ich nemlich reden will. Luna,
+                    die an der Hand des Amors den schlafenden Endymion besuchet, ist zwar sein
+                    einziges Probestück in historischen Fache: und mehr sprechen allerdings für sein
+                    Talent das Porträt von Feldmarschall v. Möllendorf, und dasjenige einer jungen
+                    Dame in Lebensgröße. Indeßen ist die Composition gefühlt: die Figuren, ohne eben
+                    in der Zeichnung sehr bestimmt und korrekt <ex>[zu</ex>] seyn, sind richtig in
+                    Stellung, u. Bewegung: und der Ton des Colorites, obwohl er es nicht mit der
+                    Nachtbeleuchtung aufzunehmen wagte, zeiget von einem trefflichen Auge, das die
+                    Natur, und das Nakte zu bezeichnen weiß. // Praktik des Pinsel zeiget sich schon
+                    mehr drinn, als man einem jungen Manne wünschen sollte: wie ihm überhaupt für
+                    die Zukunft mehr Reinheit in den Fleischtinten, und besondern in Halbschatten zu
+                    empfehlen ist. Ich möchte dich loben, junger Mann! und dir gerne den Preis
+                    zugestehen, wenn ich wüßte, daß Lob dich nicht stolz machte, sondern dich
+                    vielmehr anfeuern würde, mit mehr Strenge, Langmuth, u. Eifer voranzugehen. Noch
+                    hast du einen großen Weg zurückzulegen; aber am Talent zum großen Mahler
+                    gebricht es dir nicht! -</p>
+                <p>Hofrath Puhlmann - <lb/>nennet sein ausgestellet Bild eine Venus, die sich eben
+                    auf ihrem Wagen herabgelaßen hat, wie scheint, sich in einem nahen Teiche zu
+                    erfrischen, auf welchem Schwanen einherschwimmen: Jupiter soll - ich weiß nicht
+                    nach welcher Fabel - unter einem derselben, vermummt seyn, um die Göttin, wie
+                    dort die Leda, zu hintergehen. Aber ihr geflügeter Sohn, der ihr - in der Größe
+                    eines Schmetterling, auf ihrem
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>naken<?oxy_custom_end?>
+                    flattert, scheint iezt mit dem Vater der Götter nicht im guten Verständniß zu
+                    seyn, und // flüstert daher der Mutter ihre nahe Gefahr bey. - soll ich Ihnen
+                    mehr darüber sagen? Je nun! man sieht, daß der Künstler Antiken gesehen hat:
+                    Aber auch nur gesehen: denn dieser Venuskopf ist nach einer Juno mit dem Diadem
+                    copirt: und was die übrigen Formen betrift, so sieht man wohl, daß ihm die Venus
+                    von Medici auch nicht vorgeschwebt hat. Die Art zu mahlen ist eine, aber im
+                    Fleischton besizt der Mahler nicht seine Stärke. Die Landschaft ist in guter
+                    Haltung, und der Wagen mit besonders viel Fleiß ausgemalt.</p>
+                <p>Grätsch <lb/>Drey historische heroische Stücke. Hätte der Künstler Adel in seiner
+                    Vorstellungskraft: mehr richtigkeit, und Bestimmtheit im Detail seiner Formen,
+                    und wüßte er, daß das schwierige Aufeinsezen der Farben - nicht mahlen heißt; so
+                    würde ihm seine Wagestücke niemand verdenken.</p>
+                <p>Marius auf den Ruinen von Carthago in Lebensgröße. Wenn Du in Minoturnum einen
+                    solch grimmiges Gesicht gegen den Gallischen Soldaten machtest, so wundert es
+                    mich, daß er dich für ein Gespenst nahm, und // das Mordschwerdt seiner
+                    zitternden Hand entfiel.</p>
+                <p>Der
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Aug<?oxy_custom_end?>[ustus?]
+                    Alexander soll das seyn, der die schöne Campaspe an den Grazienmahler Apelles
+                    übergiebt? - wo ist die Grazie? wo das Schöne? wo das Heroische? -</p>
+                <p>Aber hier ist ja Regulus mit großem Schritt zu den Schiffen der punischen
+                    Gesandten eilend - vergeblich liegt seine Familie flehend um ihn her. Wäre mehr
+                    Adel der Formen, mehr Feinheit im Ausdrucke, und weniger Unreinheit des Pinsel
+                    zu sehen, so würde ich den Marsch der Composition im Ganzen loben, und die
+                    Beobachtung des Costums, und einiger Faltenparthien der Gewänder mit Vergnügen
+                    bemerken.</p>
+                <p>Fried. Waitsch aus Braunschweig. <lb/>Landschaft Thier, Porträt, u.
+                    Historienmahler: <lb/>denn in allen Gattungen sind Stücke von ihm zu sehen. Mit
+                    Vergnügen zeige ich hier an, daß er sich hier im leztern Fache am stärksten
+                    bewiesen. <lb/>Das Bild stellt die Schule des Plato, in welche eben der burleske
+                    Diogenes den entfäderten Hahn - Sieh da den Menschen des Plato - hereinwirft. //
+                    Die Anordnung im ganzen ist eines Künstlers würdig: ein Verdienst, je seltener
+                    es ist, desto mehr ist es zu würdigen. Auch die Karaktere - wenn sie uns auch
+                    nicht geradezu nach Athen zaubern - zeigen uns doch Orientalen. der Farben Ton
+                    hat Wärme und Kraft: und vorzüglich gut ist das Bild in der Haltung gerathen.
+                    Der Kenner würde ihm ohne Mühe den Preis unter allen historischen Gemälden
+                    zugestehen. - Aber stellet dieß wirklich eine Schule von Philosophen vor? ist es
+                    nicht mehr der geheime Staatsrath eines orientalischen Fürsten? Plato wenigstens
+                    hat wenigstens mehr das air davon auf seinem Throne. UInd wie kann ein Künstler
+                    dieser Art solche Schnizer begehen, daß er den Socrates zum Schüler Plato's
+                    machet? Nur in der figur folgte er der bekannten Proträtbüste jenes Weisen.
+                    Warum ist denn nicht auch bey den übrigen Figuren geschehen, denn bekannter
+                    Maßen sind die Porträte fast aller berühmten Männer dieser Zeitepoche auf uns
+                    kommen? Und // der Künstler soll in Rom studirt haben? - Alcibiades u. Aspasia
+                    sind in ihrer Blüthe gebildet, da Plato schon als ein Mann über sechzig dasizt,
+                    u. Aristoteles scheint wenigstens zehn Jahre mehr zu haben, als seyn Lehrer. Der
+                    Spaßvogel Diogenes nachdem er sein
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>Ens
+                    bipeps<?oxy_custom_end?> hupfen laßen, hat weiter nichts mit Plato zu thun, sein
+                    Kopf ist seitwärts nach dem Weibergrupp gerichtet. Der hohe Lehrer würdiget den
+                    Spaßmacher mit keinem Blick, mit keiner Miene: und eben so wenig seine Schüler.
+                    Pythagoras konnte nie strengere Zucht in seiner Schule gehalten haben - Wie kann
+                    ein Künstler seinem Werke so wenig Seele einhauchen? warum griechische Weisen in
+                    so weitgefaltete, alles bedeckende, schwere
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>xxxxxxali<?oxy_custom_end?>sche
+                    Gewänder einhüllen? und warum den gemeinen zur Seite Plato's voransizenden Karl
+                    so schwarz braun anstreichen? Dieser Contrast ist zu grell gerathen. Dieses
+                    gekünstelte Repoussoir machet selbst in der so schön verstandenen Haltung keinen
+                    geringen Flek. Allein in einem Gemälde, worin soviel vortreffliches ist,
+                    vergeben wir gerne jene nicht kleinen, und nicht wenigen Schnizer.</p>
+                <p>Mit den zwey Landschaften dieses Mahlers wollen // wir Nachsicht haben, mit der
+                    Bedingung, daß er sie in Zukunft nie wieder - außer als Grund für seine
+                    historische Stücke mahlet.</p>
+                <p>Das Porträt seines Vaters bey Lichtschein thut bey dem sehr schönen mahlerischen
+                    Kopfe eine gute Wirkung. Indeßen ist die Farbe bey dieser Beleuchtung unwahr,
+                    und die auf dem Tische liegende Büste ist zu wenig reflectirt. Überhaupt
+                    scheinet dieser Künstler sich zusehr in den Rembrandtische Effektmahlerey bey
+                    Porträten verliebt zu haben. Man sagt, daß die großen Porträtmahler Raphael,
+                    Titian, Albert Durer, Hans Holbein diese gekünstelten Effekte der an Form und
+                    Ausdruck armen niederländischen Schulen nie suchten.</p>
+                <p>
+                    <hi rendition="#u">Mad. Henry geb. Chodowiecka.</hi>
+                    <lb/>Pinxere et mulieres: - <lb/>Doch nur diese versuchte es im höheren Genre.
+                    <lb/>Es sind von ihr drey Stücke da: <lb/>Ein sizendes Mädchen, das ein noch
+                    wenig befiedertes Täubchen sorgsam zwischen den Händen hält, und mit seinem
+                    Hauch erwärmt. <lb/>Ein vor einem Tische stehendes Mädchen // das das Spiel mit
+                    der Puppe, und dem Domfinken gelaßen hat, und iezt aus dem Buche die Lektion
+                    lernt - <lb/>Ein Mädchen vor dem Clavier sizend, und das andere, welches das
+                    Spiel der ältern Schwester mit aufgelehnten Kopfe mit kindischen Aufhorchen
+                    belauscht.</p>
+                <p>Wie gerne verweilt das Auge bey diesen Stücken des reinen Gefühls, und der naiven
+                    Lieblichkeit. Warum mahlen die Frauen nicht mehr! - freulich sind es deine
+                    Kinder, die du da mahltest, meine Henry! täglich umgeben dich diese häuslichen
+                    Szenen des kindlichen unschuldigen Spieles, - und die Künstlerin trägt kunstlos
+                    ihr mütterliches Gefühl auf die Leinwand über. Ich sehe, und forsche, und denke,
+                    welches von den dreyen wohl das lieblichste sey: aber immer ist mir das
+                    lieblichste gerade das, worauf sich mein Blick heftet. Schwester der Angelica!
+                    hätte dich Italien gleich jener erzogen: hättest du aufgeblüht, unter jenen
+                    Meisterwerken der Vorzeit; unter Raphael, Correggio u. Guido, und unter dem
+                    bescheidenen Lobe des Kenners - so würde auch dein Namen, gleich jener, Europa
+                    erfüllen.</p>
+                <p>Hat eine(!) Gemälde einmal unsere Empfindung // bestochen, so wird es schwer zu
+                    sagen, was noch fehlet; - die Kritik hat ihren Stachel verloren. Mehr Wärme der
+                    Farbe; weniger graue Einförmigkeit; festere Umriße, und mehr Bestimmtheit selbst
+                    im Grunde, und den accessorien würde allerdings sehr releviren und das Gemälde
+                    pikanter machen. und wie? ich sehe ja zwey Miniaturgemälde dort - auch Kinder,
+                    auch ihre Kinder: Nur so geendiget, nur so gemalt: nur das in den Oelgemälden
+                    und im Großen vollführet, was hier in den beyden Miniaturen geschehen ist.</p>
+                <p>Dem Schwarm von Miniaturmahlern möchte ich gerne rathen fleißig diese beiden
+                    Kinder von Mad. Henry zu besehen. Sie können meine Herrn, manches daran lernen,
+                    wenn Sie anders Augen haben!</p>
+                <p>Ich möchte nächste Ausstellung gerne wegen den künftigen Arbeiten der Mad. Henry
+                    wiedersehen.</p>
+                <p>Herr Rösler aus Nürnberg. <lb/>Die unglücklichen Reisenden, ein<ex>[e]</ex>
+                    Skizze aus dem wirklichen Leben - in oel, u. auf Holz. <lb/>Ein am Kopfe
+                    beschädigter Mann, wahrscheinlich auf der Reise, liegt in einer Bauern Stube:
+                    Weiber und // Kinder sind mit hülflosem Beystand um ihn versammelt. <lb/>Wer
+                    kann zweifeln, daß in diesem Künstler, der wahrscheinlich noch ein junger Mann
+                    ist, ein Mahler stecke. Lernt er im großen einmal ausführen, was er hier
+                    entworfen hat, so soll er mir ein würdiger Nachfolger seines großen Landsmannes
+                    Dürer heißen. Sein ieziger Aufenthalt in Dresden mag ihn weiter führen; aber zu
+                    lange zögere er nicht, sich einen Weg nach Italien zu bahnen.</p>
+                <p>Es ist eine Freude Talent u. Hofnung zu sehen. Chodowiecka-Henry, Kretschmar,
+                    Rösler laßen noch vieles erwarten: auch Fried. Waitsch darf sich in die Reihe
+                    deutscher Historienmahler stellen. <lb/>Die andern Geschichtsmahler, die hier
+                    Proben ausgestellt haben, werden mir wohl zu gut halten, daß ich in tiefsten
+                    Stillschweigen bey ihnen vorbeygehe.</p>
+                <p>
+                    <hi rendition="#u">Porträte</hi>
+                    <lb/>Wie Sie sich leicht denken können, ist die Ausstellung von Bildnißen in
+                    oel, in Pastell, in Miniatur, in Zeichnungen in Acquarelle überschwemmt.</p>
+            </postscript>
+        </body>
+    </text>
+</TEI>
