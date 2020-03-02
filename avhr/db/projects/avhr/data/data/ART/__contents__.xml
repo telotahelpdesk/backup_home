@@ -1,24 +1,24 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/data/ART" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" version="1">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/data/ART" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:50+01:00" version="1">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="placename_ohne_attribute.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="placename_ohne_attribute.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="persname_ohne_attribute.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:51+01:00" modified="2020-03-02T09:19:51+01:00" filename="persname_ohne_attribute.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="AvH-Frankreich-Tb.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="AvH-Frankreich-Tb.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ART_Konkordanz_Pag_Fol.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:51+01:00" modified="2020-03-02T09:19:51+01:00" filename="ART_Konkordanz_Pag_Fol.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="humboldt_england_1790.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="humboldt_england_1790.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="humboldt_england_1790.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:50+01:00" modified="2020-03-02T09:19:50+01:00" filename="humboldt_england_1790.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="cuba_tagebuch_v1.0.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="cuba_tagebuch_v1.0.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="AvH-Frankreich-Tb.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:50+01:00" modified="2020-03-02T09:19:50+01:00" filename="AvH-Frankreich-Tb.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ART-Konkordanz.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="ART-Konkordanz.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="placename_ohne_attribute.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:50+01:00" modified="2020-03-02T09:19:50+01:00" filename="placename_ohne_attribute.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ART_Konkordanz_Pag_Fol.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="ART_Konkordanz_Pag_Fol.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ART-Konkordanz.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:51+01:00" modified="2020-03-02T09:19:51+01:00" filename="ART-Konkordanz.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="persname_ohne_attribute.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:16+01:00" modified="2020-02-28T12:59:16+01:00" filename="persname_ohne_attribute.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="cuba_tagebuch_v1.0.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:50+01:00" modified="2020-03-02T09:19:50+01:00" filename="cuba_tagebuch_v1.0.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
     <subcollection name="_Sprache" filename="_Sprache"/>

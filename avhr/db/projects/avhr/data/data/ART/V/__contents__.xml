@@ -1,9 +1,9 @@
-<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/data/ART/V" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:22+01:00" version="1">
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/projects/avhr/data/data/ART/V" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:58+01:00" version="1">
     <acl entries="0" version="1"/>
-    <resource type="XMLResource" name="ART_V.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:22+01:00" modified="2020-02-28T12:59:22+01:00" filename="ART_V.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ART_V_backup.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:59+01:00" modified="2020-03-02T09:19:59+01:00" filename="ART_V_backup.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
-    <resource type="XMLResource" name="ART_V_backup.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-02-28T12:59:23+01:00" modified="2020-02-28T12:59:23+01:00" filename="ART_V_backup.xml" mimetype="application/xml">
+    <resource type="XMLResource" name="ART_V.xml" owner="exist-bot" group="avhr-nutzer" mode="770" created="2020-03-02T09:19:58+01:00" modified="2020-03-02T09:19:58+01:00" filename="ART_V.xml" mimetype="application/xml">
         <acl entries="0" version="1"/>
     </resource>
 </collection>
